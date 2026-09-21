@@ -23,3 +23,141 @@ body {
   background-color: #cbc6bc;
   border-radius: 9999px;
 }
+
+/* ---------------------------------------------------------------------- */
+/* Study Planner dossier styles                                           */
+/* Lifted from D:\Lokesh\Ragnarock\CN2-JJM-Intelligence-Layer.html         */
+/* ---------------------------------------------------------------------- */
+
+.sp-page {
+  background: #f7f7f7;
+  min-height: 100vh;
+  font-family: Inter, Helvetica, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  color: #111;
+}
+
+.sp-dossier {
+  max-width: 1100px;
+  margin: 0 auto;
+  background: #ffffff;
+  padding: 52px;
+  display: flex;
+  gap: 56px;
+  border: 1px solid #e9e9e9;
+}
+
+.sp-sidebar {
+  width: 20%;
+  flex-shrink: 0;
+  position: sticky;
+  top: 48px;
+  align-self: flex-start;
+  padding-top: 6px;
+}
+
+.sp-meta-block { margin-bottom: 26px; }
+.sp-meta-block:last-child { margin-bottom: 0; }
+
+.sp-label {
+  font-size: 10.5px;
+  text-transform: uppercase;
+  letter-spacing: 0.09em;
+  color: #888;
+  font-weight: 600;
+  margin-bottom: 5px;
+}
+
+.sp-value {
+  font-size: 13.5px;
+  color: #111;
+  font-weight: 500;
+  line-height: 1.45;
+}
+
+.sp-divider {
+  border: 0;
+  border-top: 1px solid #e5e5e5;
+  margin: 24px 0;
+}
+
+.sp-content { width: 80%; min-width: 0; }
+
+.sp-h1 {
+  font-size: 31px;
+  font-weight: 700;
+  line-height: 1.15;
+  letter-spacing: -0.02em;
+  color: #000;
+}
+
+.sp-section {
+  padding: 32px 0;
+  border-top: 1px solid #e5e5e5;
+}
+.sp-section:first-of-type { border-top: none; padding-top: 28px; }
+
+.sp-h2 {
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #000;
+  margin-bottom: 16px;
+}
+
+.sp-body p {
+  font-size: 14.5px;
+  line-height: 1.75;
+  color: #111;
+  margin-bottom: 14px;
+  max-width: 70ch;
+}
+.sp-body p:last-child { margin-bottom: 0; }
+.sp-body strong { font-weight: 600; color: #000; }
+.sp-body ul, .sp-body ol { margin: 10px 0 14px 18px; max-width: 68ch; }
+.sp-body li { font-size: 14.5px; line-height: 1.7; color: #111; margin-bottom: 5px; }
+.sp-body table { width: 100%; border-collapse: collapse; font-size: 13.5px; background: #fff; margin: 4px 0 14px; }
+.sp-body th {
+  background: #f5f5f5;
+  text-align: left;
+  font-weight: 600;
+  font-size: 12px;
+  color: #000;
+  padding: 10px 14px;
+  border: 1px solid #e5e5e5;
+}
+.sp-body td {
+  padding: 11px 14px;
+  border: 1px solid #e5e5e5;
+  vertical-align: top;
+  line-height: 1.55;
+  color: #111;
+}
+
+/* Focus reading view: no header, no footer, no nav, no card, no close. */
+.sp-focus-column {
+  max-width: 70ch;
+  margin: 0 auto;
+  padding: 120px 24px 160px;
+}
+.sp-focus-column .sp-h1 { margin-bottom: 8px; }
+
+.sp-pill {
+  position: fixed;
+  bottom: 36px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: #000;
+  color: #fff;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  padding: 14px 26px;
+  border-radius: 999px;
+  border: none;
+  cursor: pointer;
+}
+.sp-pill:hover { background: #222; }
+
+.sp-error { color: #e03e3e; }
