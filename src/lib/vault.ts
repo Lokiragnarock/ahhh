@@ -10,13 +10,14 @@ import {
   UnitGroup,
 } from "./study-types";
 
-// The vault is the source of truth. Read at request time — never cached,
-// never rebuilt — so edits made in Obsidian show up on the next page load.
-const rawVaultDir = process.env.VAULT_RECALL_PATH;
-if (!rawVaultDir) {
-  throw new Error("VAULT_RECALL_PATH is not set. Copy .env.example to .env.local and set it.");
-}
-export const VAULT_DIR = rawVaultDir;
+// The vault is the source of truth locally — read at request time, never
+// cached, so edits made in Obsidian show up on the next page load. Deployed
+// builds have no access to the local vault, so they fall back to a bundled
+// snapshot committed under content/recall (re-sync by re-copying and
+// redeploying). Writes (setTopicState) only take effect against the live
+// vault; the bundled snapshot is read-only.
+export const VAULT_DIR = process.env.VAULT_RECALL_PATH || path.join(process.cwd(), "content", "recall");
+export const VAULT_IS_LIVE = Boolean(process.env.VAULT_RECALL_PATH);
 
 const VALID_STATES: TopicState[] = ["unstudied", "studied", "mapped", "drilled"];
 
@@ -197,6 +198,7 @@ export async function getUnitGroups(): Promise<UnitGroup[]> {
 
 export async function setTopicState(slug: string, state: TopicState): Promise<boolean> {
   if (!VALID_STATES.includes(state)) return false;
+  if (!VAULT_IS_LIVE) return false; // bundled snapshot is read-only
   const filePath = path.join(VAULT_DIR, `${slug}.md`);
   let raw: string;
   try {
