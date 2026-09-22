@@ -12,7 +12,11 @@ import {
 
 // The vault is the source of truth. Read at request time — never cached,
 // never rebuilt — so edits made in Obsidian show up on the next page load.
-export const VAULT_DIR = "D:\\Lokesh\\Christ\\Y3\\Y3\\Second Brain\\Recall";
+const rawVaultDir = process.env.VAULT_RECALL_PATH;
+if (!rawVaultDir) {
+  throw new Error("VAULT_RECALL_PATH is not set. Copy .env.example to .env.local and set it.");
+}
+export const VAULT_DIR = rawVaultDir;
 
 const VALID_STATES: TopicState[] = ["unstudied", "studied", "mapped", "drilled"];
 
