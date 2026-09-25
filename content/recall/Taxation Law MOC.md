@@ -36,6 +36,20 @@ Entry point for everything Taxation Law in this vault: my notes, app coverage, a
 - [[Unit 2 - PF Gratuity Pension and Leave Encashment]] — SPF/RPF/URPF/PPF treatment, profit in lieu of salary, leave encashment, gratuity formulas, commuted pension
 - [[Unit 2 - Deductions and Computation of Taxable Salary]] — Section 16 deductions, full computation format, worked example
 
+## Units 3-5 — node maps (built 2026-09-21 to 09-25)
+- [[Unit 3A - House Property MOC (Node Map)]] — HP-1 to HP-9
+- [[Unit 3B - PGBP MOC (Node Map)]] — PG-1 to PG-6
+- [[Unit 4A - Capital Gains MOC (Node Map)]] — CG-1 to CG-6
+- [[Unit 4B - Other Sources MOC (Node Map)]] — OS-1 to OS-4
+- [[Unit 5 - Tax Liability MOC (Node Map)]] — TL-1 to TL-3
+- Course plan: [[BBA303-5 - Taxation Laws and Practice Course Plan]]
+
+## Study method (gaokao-style, three rounds)
+- **R1 full pass:** per topic, study (45 min) → redraw the concept map from memory → flashcards → mini test (MCQ + 5-marker + 10-marker) → log every lost mark (15 min). Unit sectional test after the last topic.
+- **R2 error book:** revisit topics with their logged errors shown as supplementary study; re-solve until clean (1 → 3 → 7 days).
+- **R3 mocks:** full 50-mark, 2-hour papers (A: 3 of 5 × 5; B: 2 of 3 × 10; C: 15-mark case). Mistakes go back into the error book.
+- Question banks live in `content/tests/taxation/`; the app's Practice, Error book, Standing and Block screens run the loop.
+
 ## Exam prep
 - [[Taxation Law Exam Calendar - Oct 2]] — day-by-day plan for the Oct 2 exam: notes → self-test → error log → discuss cycle, Units 3-5 (which have zero recall coverage yet).
 
