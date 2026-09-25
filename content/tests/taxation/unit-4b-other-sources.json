@@ -1,0 +1,138 @@
+[
+  {
+    "id": "OS-1-01", "node": "OS-1", "unit": "Unit 4B", "type": "mcq", "marks": 1, "difficulty": "easy",
+    "question": "Dividend of ₹50,000 from an Indian company; interest on a loan taken to buy the shares ₹15,000; collection commission ₹500. Taxable dividend income is:",
+    "options": ["A) ₹34,500", "B) ₹35,000", "C) ₹40,000", "D) ₹50,000"],
+    "answer": "C",
+    "explanation": "Only interest is deductible, restricted to 20% of dividend (₹10,000). Commission is not allowed. 50,000 − 10,000 = 40,000."
+  },
+  {
+    "id": "OS-1-02", "node": "OS-1", "unit": "Unit 4B", "type": "mcq", "marks": 1, "difficulty": "easy",
+    "question": "Family pension of ₹1,20,000 received by a widow under the new regime. Taxable amount:",
+    "options": ["A) ₹80,000", "B) ₹95,000", "C) ₹1,05,000", "D) ₹1,20,000"],
+    "answer": "B",
+    "explanation": "Deduction u/s 57(iia) = lower of 1/3 (₹40,000) or ₹25,000 → ₹25,000. Taxable ₹95,000."
+  },
+  {
+    "id": "OS-1-03", "node": "OS-1", "unit": "Unit 4B", "type": "mcq", "marks": 1, "difficulty": "medium",
+    "question": "Interest on a post office savings account (individual account) of ₹5,000 is taxable to the extent of:",
+    "options": ["A) Nil", "B) ₹1,500", "C) ₹5,000", "D) ₹3,500"],
+    "answer": "B",
+    "explanation": "Exempt up to ₹3,500 (₹7,000 for joint accounts) u/s 10(15)(i)."
+  },
+  {
+    "id": "OS-1-04", "node": "OS-1", "unit": "Unit 4B", "type": "mcq", "marks": 1, "difficulty": "medium",
+    "question": "Under the new regime, deduction u/s 80TTA on savings bank interest is:",
+    "options": ["A) Up to ₹10,000", "B) Up to ₹50,000", "C) Not available", "D) Available only to employees"],
+    "answer": "C",
+    "explanation": "80TTA and 80TTB are withdrawn under s. 115BAC."
+  },
+  {
+    "id": "OS-1-05", "node": "OS-1", "unit": "Unit 4B", "type": "short", "marks": 5, "difficulty": "easy",
+    "question": "Explain why Income from Other Sources is called the residuary head and list any five incomes taxable under it.",
+    "model_answer": "Section 56(1) taxes under IFOS **any income not chargeable under any of the other four heads** and not exempt — so it is the residuary head. Section 56(2) also names specific incomes always taxed here.\n\nAny five:\n1. Dividends (s. 56(2)(i)).\n2. Winnings from lotteries, crossword puzzles, races, card games, gambling (56(2)(ib)).\n3. Interest on securities and bank deposits (if not business income).\n4. Family pension received by legal heirs.\n5. Gifts exceeding ₹50,000 from non-relatives (56(2)(x)).\n6. Rent from letting plant, machinery, furniture; composite inseparable letting (56(2)(ii), (iii)).\n7. Interest on enhanced compensation (56(2)(viii)).\n8. Director's sitting fees, interest on income-tax refund, agricultural income from outside India, income from sub-letting.",
+    "marking_scheme": [
+      { "point": "Residuary nature explained with s. 56(1)", "marks": 1 },
+      { "point": "Any first two valid incomes", "marks": 1 },
+      { "point": "Third valid income", "marks": 1 },
+      { "point": "Fourth valid income", "marks": 1 },
+      { "point": "Fifth valid income", "marks": 1 }
+    ]
+  },
+  {
+    "id": "OS-2-01", "node": "OS-2", "unit": "Unit 4B", "type": "mcq", "marks": 1, "difficulty": "medium",
+    "question": "During the year Mr. X received ₹30,000 from a friend on his birthday and ₹25,000 from his cousin. Taxable u/s 56(2)(x):",
+    "options": ["A) Nil", "B) ₹5,000", "C) ₹25,000", "D) ₹55,000"],
+    "answer": "D",
+    "explanation": "Neither a friend nor a cousin is a relative; birthdays are not exempt occasions. Aggregate ₹55,000 exceeds ₹50,000, so the whole amount is taxable."
+  },
+  {
+    "id": "OS-2-02", "node": "OS-2", "unit": "Unit 4B", "type": "mcq", "marks": 1, "difficulty": "easy",
+    "question": "A car worth ₹8,00,000 received as a gift from a friend is:",
+    "options": ["A) Fully taxable", "B) Taxable above ₹50,000", "C) Not taxable, as a car is not 'specified movable property'", "D) Taxable as capital gains"],
+    "answer": "C",
+    "explanation": "Specified movable property is shares, securities, jewellery, archaeological collections, drawings, paintings, sculptures, works of art and bullion."
+  },
+  {
+    "id": "OS-2-03", "node": "OS-2", "unit": "Unit 4B", "type": "mcq", "marks": 1, "difficulty": "medium",
+    "question": "Net lottery winnings received after TDS are ₹1,40,000. The taxable amount is:",
+    "options": ["A) ₹1,40,000", "B) ₹1,82,000", "C) ₹2,00,000", "D) ₹98,000"],
+    "answer": "C",
+    "explanation": "Gross up: 1,40,000 × 100/70 = 2,00,000, taxed at 30% u/s 115BB."
+  },
+  {
+    "id": "OS-2-04", "node": "OS-2", "unit": "Unit 4B", "type": "mcq", "marks": 1, "difficulty": "medium",
+    "question": "Which of the following is NOT a 'relative' of an individual for s. 56(2)(x)?",
+    "options": ["A) Spouse's brother", "B) Father's sister", "C) Brother's wife", "D) Nephew"],
+    "answer": "D",
+    "explanation": "Relatives include siblings of self, spouse and parents, lineal ascendants/descendants (own and spouse's), and spouses of these. Nephews, nieces and cousins are not relatives."
+  },
+  {
+    "id": "OS-2-05", "node": "OS-2", "unit": "Unit 4B", "type": "long", "marks": 10, "difficulty": "hard",
+    "question": "Mr. Kunal, a resident, received the following during PY 2025-26:\n1. ₹30,000 in cash from a friend on his birthday.\n2. ₹25,000 by cheque from his nephew.\n3. ₹1,00,000 from his father's sister.\n4. ₹2,00,000 from friends on the occasion of his marriage.\n5. A plot of land bought from an unrelated person for ₹12,00,000; its stamp duty value is ₹15,00,000.\n6. Listed shares with FMV ₹40,000 from a friend.\n7. A painting with FMV ₹30,000 from a friend.\n8. A car worth ₹5,00,000 from a friend.\n9. ₹10,00,000 under the will of a family friend.\n\nCompute the amount taxable u/s 56(2)(x), with reasons.",
+    "model_answer": "| # | Item | Taxable? | Reason |\n|---|---|---|---|\n| 1 | Friend, birthday ₹30,000 | Money, aggregate | Not relative; birthday not exempt |\n| 2 | Nephew ₹25,000 | Money, aggregate | Nephew not a relative |\n| 3 | Father's sister ₹1,00,000 | Exempt | Relative |\n| 4 | Marriage gifts ₹2,00,000 | Exempt | On occasion of marriage |\n| 5 | Land, inadequate consideration | ₹3,00,000 | Difference ₹3 lakh > higher of ₹50,000 and 10% of ₹12 lakh (₹1.2 lakh) |\n| 6-7 | Shares ₹40,000 + painting ₹30,000 | ₹70,000 | Specified movable, aggregate ₹70,000 > ₹50,000 → whole |\n| 8 | Car | Not taxable | Not specified movable property |\n| 9 | Under a will | Exempt | Will / inheritance |\n\nMoney: 30,000 + 25,000 = 55,000 > 50,000 → **₹55,000** taxable.\n\n**Total taxable u/s 56(2)(x) = 55,000 + 3,00,000 + 70,000 = ₹4,25,000.**",
+    "marking_scheme": [
+      { "point": "Money gifts aggregated; ₹55,000 whole taxable", "marks": 2 },
+      { "point": "Aunt (father's sister) exempt as relative; nephew not relative", "marks": 1 },
+      { "point": "Marriage gifts exempt", "marks": 1 },
+      { "point": "Land: inadequate consideration test, ₹3 lakh", "marks": 2 },
+      { "point": "Movable property aggregated ₹70,000", "marks": 1 },
+      { "point": "Car excluded; will exempt", "marks": 2 },
+      { "point": "Total ₹4,25,000", "marks": 1 }
+    ]
+  },
+  {
+    "id": "OS-3-01", "node": "OS-3", "unit": "Unit 4B", "type": "mcq", "marks": 1, "difficulty": "medium",
+    "question": "A building let out along with machinery, where the tenant would not take one without the other, and letting is not the owner's business. The rent is taxed under:",
+    "options": ["A) House Property", "B) IFOS u/s 56(2)(iii)", "C) PGBP", "D) Split between HP and IFOS"],
+    "answer": "B",
+    "explanation": "Inseparable composite letting is taxed as IFOS (unless it is a business)."
+  },
+  {
+    "id": "OS-3-02", "node": "OS-3", "unit": "Unit 4B", "type": "mcq", "marks": 1, "difficulty": "easy",
+    "question": "Interest on enhanced compensation of ₹80,000 received. Taxable amount:",
+    "options": ["A) ₹80,000", "B) ₹56,000", "C) ₹40,000", "D) Nil"],
+    "answer": "C",
+    "explanation": "50% deduction u/s 57(iv); taxed in the year of receipt."
+  },
+  {
+    "id": "OS-3-03", "node": "OS-3", "unit": "Unit 4B", "type": "mcq", "marks": 1, "difficulty": "easy",
+    "question": "Expenditure on buying lottery tickets is:",
+    "options": ["A) Deductible from winnings", "B) Deductible up to 30%", "C) Not deductible u/s 58(4)", "D) Deductible only for losing tickets"],
+    "answer": "C",
+    "explanation": "No expenditure or allowance is allowed against winnings."
+  },
+  {
+    "id": "OS-3-04", "node": "OS-3", "unit": "Unit 4B", "type": "short", "marks": 5, "difficulty": "medium",
+    "question": "Explain the deductions allowable u/s 57 and the amounts not deductible u/s 58 while computing Income from Other Sources.",
+    "model_answer": "**Section 57 — deductible:**\n- 57(i): dividend — only interest on borrowings, max 20% of dividend; interest on securities — collection commission and interest on borrowings.\n- 57(ii): letting of plant, machinery, furniture, building — current repairs, insurance, depreciation.\n- 57(iia): family pension — lower of 1/3 or ₹25,000 (new regime).\n- 57(iii): any other revenue expenditure laid out wholly and exclusively to earn the income.\n- 57(iv): interest on (enhanced) compensation — 50%.\n\n**Section 58 — not deductible:** personal expenses; interest or salary payable outside India without TDS; wealth tax; amounts covered by s. 40A; and **any expenditure against winnings** from lotteries, races, card games, gambling (58(4)), except race-horse maintenance against race income.",
+    "marking_scheme": [
+      { "point": "Dividend 20% interest cap / securities commission", "marks": 1 },
+      { "point": "Repairs, insurance, depreciation on letting", "marks": 1 },
+      { "point": "Family pension and enhanced-compensation deductions", "marks": 1 },
+      { "point": "General 57(iii) deduction", "marks": 1 },
+      { "point": "Section 58 disallowances incl. 58(4)", "marks": 1 }
+    ]
+  },
+  {
+    "id": "OS-4-01", "node": "OS-4", "unit": "Unit 4B", "type": "mcq", "marks": 1, "difficulty": "easy",
+    "question": "PPF interest of ₹20,000 credited during the year is:",
+    "options": ["A) Taxable under IFOS", "B) Exempt u/s 10(11)", "C) Taxable at 30%", "D) Taxable at slab after ₹10,000"],
+    "answer": "B",
+    "explanation": "PPF interest is exempt."
+  },
+  {
+    "id": "OS-4-02", "node": "OS-4", "unit": "Unit 4B", "type": "long", "marks": 10, "difficulty": "hard",
+    "question": "Ms. Ritu, a resident, provides the following for PY 2025-26 (new regime):\n1. Interest on fixed deposits ₹80,000\n2. Savings bank interest ₹12,000\n3. Dividend from Indian companies ₹60,000; interest on money borrowed to buy the shares ₹15,000\n4. Family pension ₹60,000\n5. Interest on enhanced compensation received ₹40,000\n6. Lottery winnings received (net of TDS @ 30%) ₹56,000\n7. Rent from letting machinery (not her business) ₹90,000; repairs ₹5,000; depreciation ₹15,000\n8. PPF interest ₹15,000\n9. Gift of ₹1,00,000 from her husband's brother\n\nCompute her Income from Other Sources, separating income taxable at normal rates and at special rates.",
+    "model_answer": "| Particulars | ₹ | ₹ |\n|---|---|---|\n| **A. Normal rates** | | |\n| FD interest | | 80,000 |\n| Savings interest (no 80TTA) | | 12,000 |\n| Dividend 60,000 − interest restricted to 20% (12,000) | | 48,000 |\n| Family pension 60,000 − lower of 1/3 (20,000) or 25,000 | | 40,000 |\n| Enhanced compensation interest 40,000 − 50% | | 20,000 |\n| Machinery rent 90,000 − repairs 5,000 − depreciation 15,000 | | 70,000 |\n| **Total A** | | **2,70,000** |\n| **B. Special rate** | | |\n| Lottery 56,000 × 100/70 (gross) @ 30% u/s 115BB | | **80,000** |\n\nExcluded: PPF interest (exempt 10(11)); gift from husband's brother (relative); excess dividend interest ₹3,000.",
+    "marking_scheme": [
+      { "point": "FD and savings interest fully taxable", "marks": 1 },
+      { "point": "Dividend with 20% cap ₹48,000", "marks": 2 },
+      { "point": "Family pension deduction ₹20,000 (1/3 lower)", "marks": 1 },
+      { "point": "Enhanced compensation 50%", "marks": 1 },
+      { "point": "Machinery rent net ₹70,000", "marks": 1 },
+      { "point": "Lottery grossed up ₹80,000 at special rate", "marks": 2 },
+      { "point": "PPF and relative's gift excluded; total ₹2,70,000", "marks": 2 }
+    ]
+  }
+]

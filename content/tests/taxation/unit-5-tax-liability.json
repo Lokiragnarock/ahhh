@@ -1,0 +1,180 @@
+[
+  {
+    "id": "TL-1-01", "node": "TL-1", "unit": "Unit 5", "type": "mcq", "marks": 1, "difficulty": "easy",
+    "question": "Which deduction is available under the new regime (s. 115BAC)?",
+    "options": ["A) 80C", "B) 80D", "C) 80CCD(2)", "D) 80TTA"],
+    "answer": "C",
+    "explanation": "Only 80CCD(2) (employer's NPS contribution), 80CCH and 80JJAA survive."
+  },
+  {
+    "id": "TL-1-02", "node": "TL-1", "unit": "Unit 5", "type": "mcq", "marks": 1, "difficulty": "medium",
+    "question": "Under the new regime, a loss of ₹90,000 from a let-out house property can be set off against salary to the extent of:",
+    "options": ["A) ₹90,000", "B) ₹2,00,000", "C) Nil", "D) ₹30,000"],
+    "answer": "C",
+    "explanation": "Section 115BAC does not allow set-off of HP loss against any other head."
+  },
+  {
+    "id": "TL-1-03", "node": "TL-1", "unit": "Unit 5", "type": "mcq", "marks": 1, "difficulty": "easy",
+    "question": "A business loss can be set off against:",
+    "options": ["A) Salary income", "B) Any income other than salary", "C) Only business income of later years", "D) Winnings from lottery"],
+    "answer": "B",
+    "explanation": "Business loss cannot be set off against salary (s. 71(2A)), and nothing can be set off against winnings."
+  },
+  {
+    "id": "TL-1-04", "node": "TL-1", "unit": "Unit 5", "type": "mcq", "marks": 1, "difficulty": "easy",
+    "question": "Total income of ₹8,43,456 is rounded off to:",
+    "options": ["A) ₹8,43,450", "B) ₹8,43,460", "C) ₹8,43,500", "D) ₹8,43,000"],
+    "answer": "B",
+    "explanation": "Rounded to the nearest multiple of ₹10 (s. 288A); 6 rounds up."
+  },
+  {
+    "id": "TL-1-05", "node": "TL-1", "unit": "Unit 5", "type": "short", "marks": 5, "difficulty": "medium",
+    "question": "Explain the steps for computing the total income of an individual, with reference to the new regime.",
+    "model_answer": "1. **Compute income under each head** (Salaries, House Property, PGBP, Capital Gains, Other Sources) as per its own rules; keep special-rate income (111A, 112, 112A, 115BB) separate.\n2. **Add clubbed income** of spouse/minor child etc. (ss. 60-64).\n3. **Set off losses**: intra-head (s. 70), then inter-head (s. 71), subject to restrictions (capital loss, speculation, business vs salary, nothing vs winnings; **HP loss not set off under 115BAC**); then brought-forward losses.\n4. The result is **Gross Total Income**.\n5. **Deduct Chapter VI-A**: under the new regime only **80CCD(2)**, 80CCH and 80JJAA.\n6. **Total income**, rounded to the nearest ₹10 (s. 288A), on which tax is computed.",
+    "marking_scheme": [
+      { "point": "Five heads computed separately; special income kept apart", "marks": 1 },
+      { "point": "Clubbing", "marks": 1 },
+      { "point": "Set-off rules incl. new-regime HP restriction", "marks": 1 },
+      { "point": "GTI and VI-A deductions (new regime list)", "marks": 1 },
+      { "point": "Total income and rounding", "marks": 1 }
+    ]
+  },
+  {
+    "id": "TL-2-01", "node": "TL-2", "unit": "Unit 5", "type": "mcq", "marks": 1, "difficulty": "easy",
+    "question": "Tax (before cess) on a normal income of ₹16,00,000 under the new regime for AY 2026-27:",
+    "options": ["A) ₹1,00,000", "B) ₹1,20,000", "C) ₹1,40,000", "D) ₹1,60,000"],
+    "answer": "B",
+    "explanation": "20,000 (4-8L) + 40,000 (8-12L) + 60,000 (12-16L) = 1,20,000."
+  },
+  {
+    "id": "TL-2-02", "node": "TL-2", "unit": "Unit 5", "type": "mcq", "marks": 1, "difficulty": "medium",
+    "question": "A resident's total income (all salary) is ₹12,05,000 after standard deduction. Tax before cess, after marginal relief, is:",
+    "options": ["A) Nil", "B) ₹5,000", "C) ₹60,750", "D) ₹750"],
+    "answer": "B",
+    "explanation": "Slab tax ₹60,750; income exceeds ₹12 lakh by ₹5,000, so tax is limited to ₹5,000."
+  },
+  {
+    "id": "TL-2-03", "node": "TL-2", "unit": "Unit 5", "type": "mcq", "marks": 1, "difficulty": "medium",
+    "question": "A resident student's only income is lottery winnings of ₹2,00,000 (gross). Tax before cess:",
+    "options": ["A) Nil, below basic exemption", "B) Nil, due to 87A rebate", "C) ₹60,000", "D) ₹10,000"],
+    "answer": "C",
+    "explanation": "Winnings are taxed at a flat 30% u/s 115BB; neither basic exemption nor 87A applies."
+  },
+  {
+    "id": "TL-2-04", "node": "TL-2", "unit": "Unit 5", "type": "mcq", "marks": 1, "difficulty": "easy",
+    "question": "The maximum surcharge rate under the new regime is:",
+    "options": ["A) 37%", "B) 25%", "C) 15%", "D) 10%"],
+    "answer": "B",
+    "explanation": "The new regime caps surcharge at 25%; on 111A/112/112A gains and dividend, it is capped at 15%."
+  },
+  {
+    "id": "TL-2-05", "node": "TL-2", "unit": "Unit 5", "type": "short", "marks": 5, "difficulty": "medium",
+    "question": "Explain the rebate u/s 87A and marginal relief under the new regime for AY 2026-27. Compute the tax payable by a resident whose only income is salary giving total income of ₹12,20,000.",
+    "model_answer": "**Rebate u/s 87A:** available to a **resident individual** whose **total income does not exceed ₹12,00,000**; rebate = tax or **₹60,000**, whichever is lower (not against tax on special-rate income).\n\n**Marginal relief:** where total income slightly exceeds ₹12,00,000, tax (before cess) is limited to the amount by which income exceeds ₹12,00,000.\n\n**Computation (TI ₹12,20,000):**\n- Slab tax: 20,000 + 40,000 + 15% × 20,000 = **63,000**\n- Excess over ₹12 lakh = 20,000 → tax limited to **20,000** (marginal relief 43,000)\n- Cess 4% = 800\n- **Tax payable ₹20,800**",
+    "marking_scheme": [
+      { "point": "87A: resident individual, TI ≤ ₹12 lakh", "marks": 1 },
+      { "point": "Rebate lower of tax or ₹60,000; not on special income", "marks": 1 },
+      { "point": "Marginal relief concept", "marks": 1 },
+      { "point": "Slab tax ₹63,000", "marks": 1 },
+      { "point": "Relief applied, tax ₹20,800 with cess", "marks": 1 }
+    ]
+  },
+  {
+    "id": "TL-2-06", "node": "TL-2", "unit": "Unit 5", "type": "long", "marks": 10, "difficulty": "hard",
+    "question": "Ms. Asha, a resident aged 45, is taxed under the new regime. PY 2025-26: gross salary ₹14,00,000; STCG on listed shares (STT paid, u/s 111A) ₹50,000; LTCG on listed shares u/s 112A ₹1,75,000; interest on fixed deposits ₹50,000. She has no deductions. Compute her total income and tax liability.",
+    "model_answer": "| Particulars | ₹ |\n|---|---|\n| Salary 14,00,000 − standard deduction 75,000 | 13,25,000 |\n| STCG u/s 111A | 50,000 |\n| LTCG u/s 112A | 1,75,000 |\n| IFOS: FD interest | 50,000 |\n| **Total income** | **16,00,000** |\n\n| Tax | ₹ |\n|---|---|\n| Normal income 13,25,000 + 50,000 = 13,75,000: 60,000 + 15% × 1,75,000 | 86,250 |\n| STCG 111A @ 20% | 10,000 |\n| LTCG 112A @ 12.5% on (1,75,000 − 1,25,000) | 6,250 |\n| Tax | 1,02,500 |\n| 87A rebate (TI > ₹12 lakh) | Nil |\n| Cess 4% | 4,100 |\n| **Tax liability** | **1,06,600** |",
+    "marking_scheme": [
+      { "point": "Standard deduction ₹75,000", "marks": 1 },
+      { "point": "Total income ₹16,00,000 with heads shown", "marks": 1 },
+      { "point": "Normal income separated ₹13,75,000", "marks": 2 },
+      { "point": "Slab tax ₹86,250", "marks": 2 },
+      { "point": "111A @ 20% and 112A above ₹1.25 lakh", "marks": 2 },
+      { "point": "No rebate; cess; ₹1,06,600", "marks": 2 }
+    ]
+  },
+  {
+    "id": "TL-3-01", "node": "TL-3", "unit": "Unit 5", "type": "mcq", "marks": 1, "difficulty": "easy",
+    "question": "A salaried individual with STCG on shares and lottery winnings should file:",
+    "options": ["A) ITR-1", "B) ITR-2", "C) ITR-3", "D) ITR-4"],
+    "answer": "B",
+    "explanation": "ITR-2 is for individuals/HUFs without business income, including those with capital gains and winnings."
+  },
+  {
+    "id": "TL-3-02", "node": "TL-3", "unit": "Unit 5", "type": "mcq", "marks": 1, "difficulty": "easy",
+    "question": "An e-filed return must be verified within:",
+    "options": ["A) 7 days", "B) 15 days", "C) 30 days", "D) 120 days"],
+    "answer": "C",
+    "explanation": "Verification within 30 days of filing; otherwise the return is treated as not filed."
+  },
+  {
+    "id": "TL-3-03", "node": "TL-3", "unit": "Unit 5", "type": "mcq", "marks": 1, "difficulty": "medium",
+    "question": "A proprietor with business income wants to opt out of the new regime. He must:",
+    "options": ["A) Choose the old regime in the ITR each year", "B) File Form 10-IEA before the due date; he may return to the new regime only once", "C) Inform his employer", "D) He cannot opt out"],
+    "answer": "B",
+    "explanation": "Non-business taxpayers choose yearly in the ITR; business/profession taxpayers use Form 10-IEA and can switch back only once."
+  },
+  {
+    "id": "TL-3-04", "node": "TL-3", "unit": "Unit 5", "type": "mcq", "marks": 1, "difficulty": "medium",
+    "question": "Due date for filing the return of a salaried individual (no audit) for AY 2026-27 is:",
+    "options": ["A) 31 March 2026", "B) 31 July 2026", "C) 31 October 2026", "D) 31 December 2026"],
+    "answer": "B",
+    "explanation": "31 July for non-audit individuals; 31 December is the last date for belated/revised returns."
+  },
+  {
+    "id": "TL-3-05", "node": "TL-3", "unit": "Unit 5", "type": "short", "marks": 5, "difficulty": "easy",
+    "question": "Explain the procedure for e-filing an income-tax return.",
+    "model_answer": "1. **Log in** to incometax.gov.in using PAN (linked with Aadhaar).\n2. **Check Form 26AS, AIS and TIS** for TDS, interest, dividends and transactions reported.\n3. Gather Form 16/16A, capital gains statements, interest certificates.\n4. **e-File → Income Tax Return**: select AY 2026-27, online mode, status, and the correct **ITR form**; choose the **regime**.\n5. Verify **pre-filled data** and complete schedules (salary, HP, CG, OS, deductions, taxes paid).\n6. Compute tax; pay any **self-assessment tax** via e-Pay Tax (**Challan 280**) and enter challan details.\n7. **Preview and submit**.\n8. **E-verify within 30 days** (Aadhaar OTP, net banking, EVC) or send signed ITR-V to CPC Bengaluru.\n9. Track processing and the **s. 143(1) intimation**; refunds go to the pre-validated bank account.",
+    "marking_scheme": [
+      { "point": "Login with PAN, Aadhaar link", "marks": 1 },
+      { "point": "26AS / AIS / TIS reconciliation", "marks": 1 },
+      { "point": "Selection of AY, ITR form, regime; schedules", "marks": 1 },
+      { "point": "Self-assessment tax via Challan 280; submit", "marks": 1 },
+      { "point": "E-verification within 30 days; 143(1)", "marks": 1 }
+    ]
+  },
+  {
+    "id": "TL-3-06", "node": "TL-3", "unit": "Unit 5", "type": "case", "marks": 15, "difficulty": "hard",
+    "question": "Mr. Farhan, a resident aged 38, is taxed under the new regime. PY 2025-26:\n\n**Salary:** basic ₹9,00,000; DA ₹1,80,000 (forms part of retirement benefits); HRA ₹2,40,000 (rent paid ₹3,00,000); children education allowance ₹2,400; transport allowance ₹19,200 (he is not disabled); employer's contribution to NPS ₹1,50,000; professional tax paid ₹2,500.\n\n**House property:** (i) a house self-occupied for residence, interest on housing loan ₹1,80,000; (ii) a flat let out throughout the year at ₹20,000 p.m.; its ERV is ₹2,10,000; municipal tax ₹10,000 was paid by the tenant; interest on loan for the flat ₹60,000.\n\n**Capital gains:** LTCG on listed shares u/s 112A ₹1,60,000; STCG on unlisted shares ₹40,000.\n\n**Other sources:** savings bank interest ₹8,000; FD interest ₹42,000; winnings from horse races (gross) ₹20,000.\n\n**Payments:** LIC premium ₹40,000; mediclaim ₹20,000.\n\nCompute his gross total income, total income and tax liability for AY 2026-27, and state the ITR form.",
+    "model_answer": "| Particulars | ₹ | ₹ |\n|---|---|---|\n| **Salaries** | | |\n| Basic + DA | 10,80,000 | |\n| HRA (fully taxable, 115BAC) | 2,40,000 | |\n| Children education allowance | 2,400 | |\n| Transport allowance (not disabled) | 19,200 | |\n| Employer's NPS contribution 17(1)(viii) | 1,50,000 | |\n| Gross salary | 14,91,600 | |\n| Less: standard deduction (professional tax not allowed) | (75,000) | 14,16,600 |\n| **House property** | | |\n| Self-occupied: NAV nil, interest not allowed | Nil | |\n| Let-out: GAV (rent 2,40,000 > ERV 2,10,000) | 2,40,000 | |\n| Less: municipal tax (paid by tenant) | — | |\n| NAV | 2,40,000 | |\n| Less: 30% | (72,000) | |\n| Less: interest | (60,000) | 1,08,000 |\n| **Capital gains** | | |\n| LTCG 112A | 1,60,000 | |\n| STCG unlisted (slab) | 40,000 | 2,00,000 |\n| **Other sources** | | |\n| Savings + FD interest | 50,000 | |\n| Horse race winnings | 20,000 | 70,000 |\n| **Gross total income** | | **17,94,600** |\n| Less: 80CCD(2) (limit 14% of 10,80,000 = 1,51,200) | | (1,50,000) |\n| LIC (80C), mediclaim (80D) — not allowed | | — |\n| **Total income** | | **16,44,600** |\n\n| Tax | ₹ |\n|---|---|\n| Normal income 16,44,600 − 1,60,000 − 20,000 = 14,64,600: 60,000 + 15% × 2,64,600 | 99,690 |\n| LTCG 112A: 12.5% × (1,60,000 − 1,25,000) | 4,375 |\n| Horse races 30% × 20,000 | 6,000 |\n| Tax | 1,10,065 |\n| Rebate 87A (TI > ₹12 lakh) | Nil |\n| Cess 4% | 4,403 |\n| **Tax liability (rounded)** | **1,14,470** |\n\n**ITR-2** — capital gains, winnings and more than one house; no business income.",
+    "marking_scheme": [
+      { "point": "HRA, CEA, transport allowance fully taxable", "marks": 2 },
+      { "point": "Employer NPS included; SD ₹75,000; professional tax disallowed", "marks": 2 },
+      { "point": "SOP nil and interest disallowed (new regime)", "marks": 1 },
+      { "point": "Let-out flat: GAV, tenant-paid tax, 30%, interest → ₹1,08,000", "marks": 2 },
+      { "point": "Capital gains and IFOS correctly placed; GTI ₹17,94,600", "marks": 2 },
+      { "point": "80CCD(2) only; TI ₹16,44,600", "marks": 2 },
+      { "point": "Normal vs special income; slab tax ₹99,690", "marks": 2 },
+      { "point": "112A and 115BB tax; cess; total ₹1,14,470", "marks": 1 },
+      { "point": "ITR-2 with reason", "marks": 1 }
+    ]
+  },
+  {
+    "id": "TL-3-07", "node": "TL-3", "unit": "Unit 5", "type": "case", "marks": 15, "difficulty": "hard",
+    "question": "Dr. Nisha, a resident medical practitioner, maintains regular books and is taxed under the new regime. PY 2025-26:\n\n**Profession:** fees received ₹18,00,000; allowable professional expenses ₹7,20,000; depreciation on equipment u/s 32 ₹80,000.\n\n**House property:** a flat let out throughout the year; GAV ₹3,60,000; municipal tax paid by her ₹20,000; interest on housing loan ₹3,00,000.\n\n**Capital gains:** a plot of land bought in FY 2018-19 for ₹20,00,000 was sold on 10.12.2025 for ₹45,00,000 (stamp duty value ₹44,00,000); brokerage ₹50,000. On 1.3.2026 she invested ₹10,00,000 in NHAI bonds. CII: 2018-19 = 280; 2025-26 = 376.\n\n**Other sources:** dividend ₹30,000; gift of ₹60,000 from her cousin; lottery winnings (gross) ₹40,000.\n\n**Payments:** LIC premium ₹60,000; mediclaim ₹30,000.\n\nCompute her total income and tax liability, choosing the most beneficial capital gains option, and state the ITR form.",
+    "model_answer": "**PGBP:** 18,00,000 − 7,20,000 − 80,000 = **10,00,000**.\n\n**House property:** NAV 3,60,000 − 20,000 = 3,40,000; less 30% (1,02,000) and interest (3,00,000) → loss (62,000); **not set off** against other heads under 115BAC → **Nil**.\n\n**Capital gains (land, > 24 months; bought before 23.7.2024; resident → option):** FVC = ₹45,00,000 (SDV lower).\n\n| | (a) 12.5% plain | (b) 20% indexed |\n|---|---|---|\n| FVC − brokerage | 44,50,000 | 44,50,000 |\n| Less: cost | (20,00,000) | 20,00,000 × 376/280 = (26,85,714) |\n| LTCG | 24,50,000 | 17,64,286 |\n| Less: s. 54EC (within 6 months of 10.12.2025) | (10,00,000) | (10,00,000) |\n| Taxable LTCG | 14,50,000 | 7,64,286 |\n| Tax | 1,81,250 | **1,52,857** |\n\nChoose (b).\n\n**IFOS:** dividend 30,000; cousin's gift 60,000 (not a relative, > ₹50,000 → whole); lottery 40,000.\n\n| Particulars | ₹ |\n|---|---|\n| PGBP | 10,00,000 |\n| House property | Nil |\n| LTCG u/s 112 (indexed option) | 7,64,286 |\n| IFOS normal (30,000 + 60,000) | 90,000 |\n| Lottery | 40,000 |\n| **GTI = Total income** (LIC, mediclaim not allowed) | **18,94,286 → 18,94,290** |\n\n| Tax | ₹ |\n|---|---|\n| Normal income 10,90,000: 20,000 + 10% × 2,90,000 | 49,000 |\n| LTCG 20% × 7,64,286 | 1,52,857 |\n| Lottery 30% × 40,000 | 12,000 |\n| Tax | 2,13,857 |\n| Cess 4% | 8,554 |\n| **Tax liability (rounded)** | **2,22,410** |\n\n**ITR-3** — income from profession with regular books.",
+    "marking_scheme": [
+      { "point": "PGBP ₹10,00,000", "marks": 1 },
+      { "point": "HP loss computed and not set off under new regime", "marks": 2 },
+      { "point": "Land LTCG: FVC, option recognised", "marks": 1 },
+      { "point": "Both options computed after s. 54EC", "marks": 3 },
+      { "point": "Indexed option chosen as lower tax", "marks": 1 },
+      { "point": "Cousin gift taxable; lottery separate", "marks": 2 },
+      { "point": "No VI-A deductions; TI rounded", "marks": 1 },
+      { "point": "Slab tax on normal income ₹49,000", "marks": 2 },
+      { "point": "Special-rate taxes, cess, total ₹2,22,410", "marks": 1 },
+      { "point": "ITR-3", "marks": 1 }
+    ]
+  },
+  {
+    "id": "TL-3-08", "node": "TL-3", "unit": "Unit 5", "type": "short", "marks": 5, "difficulty": "medium",
+    "question": "Explain the conditions under which ITR-1, ITR-2, ITR-3 and ITR-4 are used by individuals for AY 2026-27.",
+    "model_answer": "| Form | Used by |\n|---|---|\n| **ITR-1 (Sahaj)** | Resident individual (not RNOR), total income ≤ ₹50 lakh from salary/pension, one house property, other sources (no winnings), agricultural income ≤ ₹5,000, LTCG u/s 112A ≤ ₹1.25 lakh |\n| **ITR-2** | Individual/HUF without business or professional income: capital gains, more than one house, winnings, foreign income/assets, directors, unlisted shares, income > ₹50 lakh |\n| **ITR-3** | Individual/HUF with business or professional income (regular books, non-presumptive) |\n| **ITR-4 (Sugam)** | Resident individual/HUF/firm (not LLP) with presumptive income u/s 44AD/44ADA/44AE, total income ≤ ₹50 lakh |",
+    "marking_scheme": [
+      { "point": "ITR-1 eligibility incl. ₹50 lakh and one HP", "marks": 1 },
+      { "point": "ITR-1 exclusions (winnings, CG beyond 112A limit)", "marks": 1 },
+      { "point": "ITR-2 scope", "marks": 1 },
+      { "point": "ITR-3 scope", "marks": 1 },
+      { "point": "ITR-4 presumptive scope", "marks": 1 }
+    ]
+  }
+]

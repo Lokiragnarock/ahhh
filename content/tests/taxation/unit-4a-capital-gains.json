@@ -1,0 +1,236 @@
+[
+  {
+    "id": "CG-1-01", "node": "CG-1", "unit": "Unit 4A", "type": "mcq", "marks": 1, "difficulty": "easy",
+    "question": "Which of the following is a capital asset?",
+    "options": ["A) A car held for personal use", "B) Stock-in-trade of a jeweller", "C) Gold jewellery held for personal use", "D) Rural agricultural land in India"],
+    "answer": "C",
+    "explanation": "Personal effects are excluded, but jewellery, paintings, sculptures, works of art, archaeological collections and bullion are capital assets even if held for personal use."
+  },
+  {
+    "id": "CG-1-02", "node": "CG-1", "unit": "Unit 4A", "type": "mcq", "marks": 1, "difficulty": "medium",
+    "question": "Agricultural land situated 4 km from the limits of a municipality with a population of 5,00,000 (last census) is:",
+    "options": ["A) Rural land, not a capital asset", "B) Urban land, a capital asset", "C) A capital asset only if sold to a non-agriculturist", "D) Exempt from capital gains in all cases"],
+    "answer": "B",
+    "explanation": "For a municipality with population above 1 lakh but up to 10 lakh, land within 6 km is urban, so it is a capital asset."
+  },
+  {
+    "id": "CG-1-03", "node": "CG-1", "unit": "Unit 4A", "type": "mcq", "marks": 1, "difficulty": "easy",
+    "question": "A father gifts listed shares to his son. For the father this is:",
+    "options": ["A) A transfer giving rise to capital gains", "B) Not a transfer, under s. 47(iii)", "C) A transfer at market value", "D) Business income"],
+    "answer": "B",
+    "explanation": "Transfers under a gift, will or irrevocable trust are not regarded as transfers u/s 47(iii)."
+  },
+  {
+    "id": "CG-1-04", "node": "CG-1", "unit": "Unit 4A", "type": "mcq", "marks": 1, "difficulty": "medium",
+    "question": "A flat sold in March 2026 with the entire price received in June 2026. The capital gain is taxable in:",
+    "options": ["A) PY 2026-27, when money is received", "B) PY 2025-26, the year of transfer", "C) Proportionately in both years", "D) The year the sale deed is registered, whatever the transfer date"],
+    "answer": "B",
+    "explanation": "Section 45 deems the gain to be income of the previous year in which the transfer took place."
+  },
+  {
+    "id": "CG-1-05", "node": "CG-1", "unit": "Unit 4A", "type": "short", "marks": 5, "difficulty": "easy",
+    "question": "Define 'capital asset' under s. 2(14) and list the assets excluded from the definition.",
+    "model_answer": "**Capital asset** means property of any kind held by an assessee, whether or not connected with business or profession (including securities held by FIIs and certain ULIP proceeds).\n\n**Excluded:**\n1. Stock-in-trade, consumable stores or raw materials held for business.\n2. Personal effects — movable property held for personal use by the assessee or dependent family (but **not** jewellery, archaeological collections, drawings, paintings, sculptures, works of art, bullion).\n3. Rural agricultural land in India (urban: municipality ≥ 10,000 population, or within 2/6/8 km depending on population).\n4. 6.5% Gold Bonds 1977, 7% Gold Bonds 1980, National Defence Gold Bonds 1980.\n5. Special Bearer Bonds 1991; Gold Deposit Bonds / certificates under the Gold Monetisation Scheme.",
+    "marking_scheme": [
+      { "point": "Definition: property of any kind, business-connected or not", "marks": 1 },
+      { "point": "Stock-in-trade exclusion", "marks": 1 },
+      { "point": "Personal effects exclusion with jewellery/art carve-back", "marks": 1 },
+      { "point": "Rural agricultural land with urban test", "marks": 1 },
+      { "point": "Gold bonds / bearer bonds / deposit bonds", "marks": 1 }
+    ]
+  },
+  {
+    "id": "CG-1-06", "node": "CG-1", "unit": "Unit 4A", "type": "short", "marks": 5, "difficulty": "medium",
+    "question": "Explain the meaning of 'transfer' u/s 2(47) and list any four transactions that are not regarded as transfers u/s 47.",
+    "model_answer": "**Transfer (s. 2(47))** includes: sale, exchange or relinquishment of the asset; extinguishment of any rights in it; compulsory acquisition under law; conversion of a capital asset into stock-in-trade; maturity/redemption of a zero coupon bond; allowing possession of immovable property in part performance of a contract; any transaction enabling enjoyment of immovable property (e.g. through a co-operative society).\n\n**Not transfers (s. 47)** — any four:\n1. Distribution of assets on total/partial partition of an HUF.\n2. Transfer under a gift, will or irrevocable trust.\n3. Transfer between a holding company and its wholly-owned Indian subsidiary.\n4. Transfer in a scheme of amalgamation to an Indian company.\n5. Conversion of bonds/debentures into shares of the same company.\n6. Redemption of Sovereign Gold Bonds by an individual.",
+    "marking_scheme": [
+      { "point": "Sale, exchange, relinquishment, extinguishment", "marks": 1 },
+      { "point": "Compulsory acquisition and conversion into stock-in-trade", "marks": 1 },
+      { "point": "Part performance / other inclusions", "marks": 1 },
+      { "point": "Two valid s. 47 items", "marks": 1 },
+      { "point": "Two more valid s. 47 items", "marks": 1 }
+    ]
+  },
+  {
+    "id": "CG-2-01", "node": "CG-2", "unit": "Unit 4A", "type": "mcq", "marks": 1, "difficulty": "medium",
+    "question": "Listed equity shares bought on 1.9.2024 and sold on 1.9.2025 (exactly 12 months) give rise to:",
+    "options": ["A) LTCG u/s 112A", "B) STCG u/s 111A", "C) STCG at slab rates", "D) LTCG u/s 112"],
+    "answer": "B",
+    "explanation": "An asset is short-term if held for not more than 12 months (listed securities). Exactly 12 months is short-term."
+  },
+  {
+    "id": "CG-2-02", "node": "CG-2", "unit": "Unit 4A", "type": "mcq", "marks": 1, "difficulty": "easy",
+    "question": "The rate of tax on STCG u/s 111A for transfers after 23.7.2024 is:",
+    "options": ["A) 10%", "B) 15%", "C) 20%", "D) Slab rate"],
+    "answer": "C",
+    "explanation": "Raised from 15% to 20% by the Finance (No. 2) Act 2024."
+  },
+  {
+    "id": "CG-2-03", "node": "CG-2", "unit": "Unit 4A", "type": "mcq", "marks": 1, "difficulty": "easy",
+    "question": "LTCG u/s 112A on listed equity is taxed at:",
+    "options": ["A) 10% above ₹1,00,000", "B) 12.5% above ₹1,25,000", "C) 20% with indexation", "D) 12.5% on the whole gain"],
+    "answer": "B",
+    "explanation": "From 23.7.2024: 12.5% on the amount exceeding ₹1,25,000 in the year."
+  },
+  {
+    "id": "CG-2-04", "node": "CG-2", "unit": "Unit 4A", "type": "mcq", "marks": 1, "difficulty": "medium",
+    "question": "Plant and machinery held for 15 years (depreciable) is sold at a gain. The gain is:",
+    "options": ["A) LTCG u/s 112", "B) STCG u/s 50", "C) Exempt", "D) Business income"],
+    "answer": "B",
+    "explanation": "Depreciable assets always produce short-term capital gains under s. 50."
+  },
+  {
+    "id": "CG-2-05", "node": "CG-2", "unit": "Unit 4A", "type": "short", "marks": 5, "difficulty": "medium",
+    "question": "Classify the gain on each of the following transfers in PY 2025-26 as STCG or LTCG and state the applicable rate/section: (i) listed shares bought 1.9.2024, sold 1.9.2025 (STT paid); (ii) unlisted shares bought 1.2.2024, sold 1.10.2025; (iii) a plot of land bought 1.1.2023 by a resident individual, sold 1.8.2025; (iv) machinery forming part of a block, sold for more than the block's WDV; (v) gold inherited in 2025 from his mother, who bought it in 2010, sold in December 2025.",
+    "model_answer": "| Asset | Holding | Type | Rate |\n|---|---|---|---|\n| (i) Listed shares | 12 months (not more than 12) | STCG | 20% u/s 111A |\n| (ii) Unlisted shares | 20 months (≤ 24) | STCG | Slab rates |\n| (iii) Land | 31 months (> 24) | LTCG | u/s 112: 12.5% without indexation, or (bought before 23.7.2024, resident) 20% with indexation — lower tax |\n| (iv) Depreciable machinery | — | STCG u/s 50 | Slab rates |\n| (v) Inherited gold | From 2010, mother's period included | LTCG | 12.5% u/s 112 |",
+    "marking_scheme": [
+      { "point": "(i) STCG 111A 20%", "marks": 1 },
+      { "point": "(ii) STCG at slab (24-month rule)", "marks": 1 },
+      { "point": "(iii) LTCG with indexation option noted", "marks": 1 },
+      { "point": "(iv) STCG u/s 50", "marks": 1 },
+      { "point": "(v) previous owner's period included, LTCG 12.5%", "marks": 1 }
+    ]
+  },
+  {
+    "id": "CG-3-01", "node": "CG-3", "unit": "Unit 4A", "type": "mcq", "marks": 1, "difficulty": "medium",
+    "question": "A flat is sold for ₹50,00,000; its stamp duty value is ₹54,00,000. Full value of consideration is:",
+    "options": ["A) ₹50,00,000", "B) ₹54,00,000", "C) ₹52,00,000", "D) ₹55,00,000"],
+    "answer": "A",
+    "explanation": "SDV ₹54 lakh does not exceed 110% of ₹50 lakh (₹55 lakh), so actual consideration is used."
+  },
+  {
+    "id": "CG-3-02", "node": "CG-3", "unit": "Unit 4A", "type": "mcq", "marks": 1, "difficulty": "easy",
+    "question": "The cost of acquisition of bonus shares allotted in 2020 is:",
+    "options": ["A) Market value on allotment", "B) Nil", "C) Face value", "D) Average cost of original shares"],
+    "answer": "B",
+    "explanation": "Bonus shares allotted after 1.4.2001 have nil cost."
+  },
+  {
+    "id": "CG-3-03", "node": "CG-3", "unit": "Unit 4A", "type": "mcq", "marks": 1, "difficulty": "hard",
+    "question": "Listed shares bought in 2016 for ₹1,00,000; FMV on 31.1.2018 ₹1,60,000; sold in 2025 for ₹1,40,000. Cost of acquisition for s. 112A is:",
+    "options": ["A) ₹1,00,000", "B) ₹1,40,000", "C) ₹1,60,000", "D) ₹1,20,000"],
+    "answer": "B",
+    "explanation": "Higher of actual cost (1,00,000) and lower of FMV (1,60,000) and sale price (1,40,000) = 1,40,000. Gain is nil; no artificial loss."
+  },
+  {
+    "id": "CG-3-04", "node": "CG-3", "unit": "Unit 4A", "type": "mcq", "marks": 1, "difficulty": "medium",
+    "question": "Cost of improvement incurred in 1998 on a house bought in 1995 is:",
+    "options": ["A) Indexed from 1998", "B) Ignored", "C) Added at actual cost", "D) Added at FMV on 1.4.2001"],
+    "answer": "B",
+    "explanation": "Improvement before 1.4.2001 is ignored; the FMV on 1.4.2001 is assumed to include it."
+  },
+  {
+    "id": "CG-3-05", "node": "CG-3", "unit": "Unit 4A", "type": "long", "marks": 10, "difficulty": "hard",
+    "question": "Ms. Rekha, a resident individual, sold a plot of land on 1.9.2025 for ₹70,00,000. Stamp duty value on the date of sale ₹80,00,000. Brokerage paid ₹70,000. She bought the plot in 1999 for ₹5,00,000. FMV on 1.4.2001 ₹12,00,000; stamp duty value on 1.4.2001 ₹10,00,000. She spent ₹3,00,000 on levelling and fencing in FY 2017-18. CII: 2001-02 = 100; 2017-18 = 272; 2025-26 = 376. No exemption is claimed. Compute the capital gain and the tax on it (ignore cess), choosing the option most beneficial to her.",
+    "model_answer": "- **FVC:** 110% of ₹70 lakh = ₹77 lakh; SDV ₹80 lakh exceeds it → **FVC = ₹80,00,000** (s. 50C).\n- **Cost:** acquired before 2001 → higher of actual ₹5,00,000 and FMV on 1.4.2001 capped at SDV then (lower of ₹12 lakh and ₹10 lakh) = **₹10,00,000**.\n- Land held > 24 months → LTCG; acquired before 23.7.2024 by a resident → **option**.\n\n| | (a) No indexation @ 12.5% | (b) Indexation @ 20% |\n|---|---|---|\n| FVC | 80,00,000 | 80,00,000 |\n| Less: brokerage | (70,000) | (70,000) |\n| Less: cost | (10,00,000) | 10,00,000 × 376/100 = (37,60,000) |\n| Less: improvement | (3,00,000) | 3,00,000 × 376/272 = (4,14,706) |\n| LTCG | 66,30,000 | 37,55,294 |\n| Tax | 8,28,750 | **7,51,059** |\n\nOption (b) is lower → **LTCG ₹37,55,294 taxed @ 20% = ₹7,51,059**.",
+    "marking_scheme": [
+      { "point": "s. 50C test: SDV > 110%, FVC ₹80 lakh", "marks": 2 },
+      { "point": "Cost: FMV 2001 capped at SDV → ₹10 lakh", "marks": 2 },
+      { "point": "Option recognised (resident, land bought before 23.7.2024)", "marks": 1 },
+      { "point": "Computation without indexation ₹66,30,000 / tax ₹8,28,750", "marks": 2 },
+      { "point": "Indexed cost and improvement correct", "marks": 2 },
+      { "point": "Lower tax chosen: ₹7,51,059", "marks": 1 }
+    ]
+  },
+  {
+    "id": "CG-4-01", "node": "CG-4", "unit": "Unit 4A", "type": "mcq", "marks": 1, "difficulty": "easy",
+    "question": "A long-term capital loss can be set off against:",
+    "options": ["A) Any income", "B) STCG or LTCG", "C) LTCG only", "D) Salary only"],
+    "answer": "C",
+    "explanation": "LTCL is set off only against LTCG; STCL can be set off against STCG or LTCG."
+  },
+  {
+    "id": "CG-4-02", "node": "CG-4", "unit": "Unit 4A", "type": "mcq", "marks": 1, "difficulty": "medium",
+    "question": "An investor has 112A gains of ₹80,000 on shares of X and ₹70,000 on shares of Y in the same year. Taxable LTCG u/s 112A is:",
+    "options": ["A) Nil", "B) ₹25,000", "C) ₹1,50,000", "D) ₹70,000"],
+    "answer": "B",
+    "explanation": "The ₹1,25,000 threshold applies to aggregate 112A gains per year: 1,50,000 − 1,25,000 = 25,000."
+  },
+  {
+    "id": "CG-4-03", "node": "CG-4", "unit": "Unit 4A", "type": "mcq", "marks": 1, "difficulty": "hard",
+    "question": "From 1.10.2024, an amount received by a shareholder on buy-back of shares is taxed as:",
+    "options": ["A) Capital gains", "B) Dividend under IFOS, with the cost of shares treated as a capital loss", "C) Exempt", "D) Business income"],
+    "answer": "B",
+    "explanation": "The buy-back amount is deemed dividend u/s 2(22)(f); the cost of the shares bought back becomes a capital loss."
+  },
+  {
+    "id": "CG-4-04", "node": "CG-4", "unit": "Unit 4A", "type": "mcq", "marks": 1, "difficulty": "easy",
+    "question": "Capital losses can be carried forward for:",
+    "options": ["A) 4 assessment years", "B) 8 assessment years", "C) Indefinitely", "D) They cannot be carried forward"],
+    "answer": "B",
+    "explanation": "Both STCL and LTCL carry forward for 8 AYs, if the loss return was filed on time."
+  },
+  {
+    "id": "CG-4-05", "node": "CG-4", "unit": "Unit 4A", "type": "long", "marks": 10, "difficulty": "hard",
+    "question": "Mr. Tarun, a resident, made the following transfers in PY 2025-26 (STT paid wherever applicable):\n1. Listed shares bought on 5.1.2017 for ₹1,00,000 (FMV on 31.1.2018: ₹2,20,000), sold on 10.10.2025 for ₹3,00,000; brokerage ₹1,500.\n2. Units of an equity-oriented mutual fund bought on 1.12.2024 for ₹2,00,000, redeemed on 1.8.2025 for ₹2,60,000.\n3. Listed shares bought on 1.6.2024 for ₹4,00,000, sold on 1.9.2025 for ₹5,10,000; brokerage ₹2,000.\n4. Unlisted shares bought on 1.1.2023 for ₹3,00,000, sold on 1.3.2026 for ₹2,20,000.\n\nCompute his capital gains and the tax on them (ignore cess and any basic-exemption adjustment).",
+    "model_answer": "| # | Holding | Type | Working | ₹ |\n|---|---|---|---|---|\n| 1 | > 12 months | LTCG 112A | Cost = higher of 1,00,000 and lower of (2,20,000; 3,00,000) = 2,20,000 → 3,00,000 − 1,500 − 2,20,000 | 78,500 |\n| 2 | 8 months | STCG 111A | 2,60,000 − 2,00,000 | 60,000 |\n| 3 | 15 months | LTCG 112A | 5,10,000 − 2,000 − 4,00,000 | 1,08,000 |\n| 4 | 38 months (> 24) | LTCL | 2,20,000 − 3,00,000 | (80,000) |\n\n**Set-off:** LTCL ₹80,000 only against LTCG → 112A gains 1,86,500 − 80,000 = **₹1,06,500**.\n\n| | ₹ |\n|---|---|\n| LTCG u/s 112A 1,06,500 − exemption 1,25,000 | Nil tax |\n| STCG u/s 111A 60,000 @ 20% | 12,000 |\n| **Tax** | **12,000** |",
+    "marking_scheme": [
+      { "point": "Lot 1 grandfathered cost ₹2,20,000; LTCG ₹78,500", "marks": 2 },
+      { "point": "Lot 2 STCG 111A ₹60,000", "marks": 1 },
+      { "point": "Lot 3 LTCG ₹1,08,000", "marks": 1 },
+      { "point": "Lot 4 unlisted > 24 months → LTCL ₹80,000", "marks": 2 },
+      { "point": "LTCL set off against LTCG only", "marks": 1 },
+      { "point": "₹1.25 lakh aggregate exemption → nil 112A tax", "marks": 2 },
+      { "point": "Tax ₹12,000", "marks": 1 }
+    ]
+  },
+  {
+    "id": "CG-5-01", "node": "CG-5", "unit": "Unit 4A", "type": "mcq", "marks": 1, "difficulty": "easy",
+    "question": "Investment in bonds u/s 54EC must be made within:",
+    "options": ["A) 3 months", "B) 6 months", "C) 1 year", "D) 2 years"],
+    "answer": "B",
+    "explanation": "Within 6 months from the date of transfer, maximum ₹50 lakh, lock-in 5 years."
+  },
+  {
+    "id": "CG-5-02", "node": "CG-5", "unit": "Unit 4A", "type": "mcq", "marks": 1, "difficulty": "medium",
+    "question": "Section 54 is available on transfer of:",
+    "options": ["A) Any long-term asset", "B) A long-term residential house", "C) Any residential house, short or long term", "D) Agricultural land"],
+    "answer": "B",
+    "explanation": "Section 54 needs a long-term residential house whose income is chargeable under HP. Other long-term assets fall under 54F."
+  },
+  {
+    "id": "CG-5-03", "node": "CG-5", "unit": "Unit 4A", "type": "mcq", "marks": 1, "difficulty": "medium",
+    "question": "Under s. 54F, net consideration ₹40 lakh, LTCG ₹20 lakh, amount invested in a new house ₹30 lakh. Exemption:",
+    "options": ["A) ₹20 lakh", "B) ₹15 lakh", "C) ₹30 lakh", "D) ₹10 lakh"],
+    "answer": "B",
+    "explanation": "20 × 30/40 = ₹15 lakh."
+  },
+  {
+    "id": "CG-5-04", "node": "CG-5", "unit": "Unit 4A", "type": "mcq", "marks": 1, "difficulty": "medium",
+    "question": "Are exemptions u/s 54, 54EC and 54F available under the new regime?",
+    "options": ["A) No, all are withdrawn", "B) Yes, they are not Chapter VI-A deductions", "C) Only 54EC", "D) Only for senior citizens"],
+    "answer": "B",
+    "explanation": "Section 115BAC withdraws most Chapter VI-A deductions, but capital gains exemptions u/s 54-series remain available."
+  },
+  {
+    "id": "CG-5-05", "node": "CG-5", "unit": "Unit 4A", "type": "long", "marks": 10, "difficulty": "hard",
+    "question": "(a) Mr. Mohan sold a commercial plot (long-term) on 1.6.2025. Net consideration ₹1,20,00,000; LTCG ₹80,00,000. On 1.3.2026 he bought a residential house for ₹90,00,000. On the date of sale he owned one other residential house. Compute his taxable LTCG and tax (ignore cess).\n\n(b) Mrs. Leela sold a long-term building on 1.5.2025, LTCG ₹70,00,000. She invested ₹50,00,000 in NHAI bonds on 30.9.2025 and ₹20,00,000 in PFC bonds on 15.11.2025. Compute her taxable LTCG.",
+    "model_answer": "**(a) Section 54F** — asset is not a residential house, so 54F (not 54). Condition: he owns not more than one other house on the date of transfer ✔. House bought within 2 years ✔.\n\nExemption = LTCG × invested / net consideration = 80,00,000 × 90,00,000 / 1,20,00,000 = **₹60,00,000**.\n\nTaxable LTCG = **₹20,00,000** u/s 112 @ 12.5% = **₹2,50,000**.\n\n**(b) Section 54EC** — building is eligible. Six months from 1.5.2025 ends on 31.10.2025.\n- NHAI ₹50 lakh on 30.9.2025 — within time and within the ₹50 lakh cap → exempt ₹50,00,000.\n- PFC ₹20 lakh on 15.11.2025 — after 6 months, and cap already used → not eligible.\n\nTaxable LTCG = 70,00,000 − 50,00,000 = **₹20,00,000**.",
+    "marking_scheme": [
+      { "point": "(a) 54F identified, not 54", "marks": 1 },
+      { "point": "(a) house-ownership and time conditions checked", "marks": 1 },
+      { "point": "(a) proportionate formula ₹60 lakh", "marks": 2 },
+      { "point": "(a) taxable ₹20 lakh, tax ₹2,50,000", "marks": 1 },
+      { "point": "(b) 6-month deadline 31.10.2025", "marks": 2 },
+      { "point": "(b) ₹50 lakh cap applied; PFC rejected", "marks": 2 },
+      { "point": "(b) taxable ₹20 lakh", "marks": 1 }
+    ]
+  },
+  {
+    "id": "CG-6-01", "node": "CG-6", "unit": "Unit 4A", "type": "case", "marks": 15, "difficulty": "hard",
+    "question": "Ms. Divya, a resident individual, furnishes the following for PY 2025-26:\n1. **Residential house** inherited in 2015 from her mother, who bought it in FY 2005-06 for ₹20,00,000. Divya added a floor in FY 2019-20 for ₹6,00,000. She sold the house on 1.8.2025 for ₹1,10,00,000; stamp duty value ₹1,25,00,000. Brokerage 1% of the actual sale price. She bought a new residential house on 1.1.2026 for ₹50,00,000.\n2. **Listed shares** (STT paid) bought 1.2.2025 for ₹3,00,000, sold 1.12.2025 for ₹3,90,000.\n3. **Gold coins** bought 1.4.2023 for ₹5,00,000, sold 1.10.2025 for ₹7,00,000.\n4. Her **personal laptop**, bought for ₹90,000, sold for ₹40,000.\n\nCII: 2005-06 = 117; 2019-20 = 289; 2025-26 = 376.\n\nCompute her capital gains, choosing the most beneficial option wherever available, and the tax on each type (ignore cess and basic-exemption adjustment).",
+    "model_answer": "**Classification**\n\n| Asset | Holding | Type |\n|---|---|---|\n| House | From FY 2005-06 (mother's period included, s. 2(42A)) | LTCG; land/building acquired before 23.7.2024 by resident → option |\n| Listed shares | 10 months | STCG u/s 111A |\n| Gold coins | 30 months (> 24) | LTCG u/s 112 @ 12.5% (no indexation option: not land/building) |\n| Laptop | — | Personal effect, not a capital asset → ignore |\n\n**House**\n- FVC: 110% × 1,10,00,000 = 1,21,00,000 < SDV 1,25,00,000 → **FVC ₹1,25,00,000** (s. 50C).\n- Cost: mother's cost ₹20,00,000 (s. 49). Improvement ₹6,00,000.\n\n| | (a) 12.5% plain | (b) 20% indexed |\n|---|---|---|\n| FVC | 1,25,00,000 | 1,25,00,000 |\n| Less: brokerage 1% of 1.1 cr | (1,10,000) | (1,10,000) |\n| Less: cost | (20,00,000) | 20,00,000 × 376/117 = (64,27,350) |\n| Less: improvement | (6,00,000) | 6,00,000 × 376/289 = (7,80,623) |\n| LTCG | 97,90,000 | 51,82,027 |\n| Less: s. 54 (lower of gain and ₹50,00,000) | (50,00,000) | (50,00,000) |\n| Taxable | 47,90,000 | 1,82,027 |\n| Tax | 5,98,750 | **36,405** |\n\nChoose (b): **LTCG ₹1,82,027 @ 20% = ₹36,405**.\n\n**Shares:** 3,90,000 − 3,00,000 = **STCG ₹90,000 @ 20% = ₹18,000**.\n\n**Gold:** 7,00,000 − 5,00,000 = **LTCG ₹2,00,000 @ 12.5% = ₹25,000**.\n\n| Summary | Amount | Tax |\n|---|---|---|\n| LTCG house (112, indexed option) | 1,82,027 | 36,405 |\n| STCG 111A | 90,000 | 18,000 |\n| LTCG gold (112) | 2,00,000 | 25,000 |\n| **Total tax** | | **79,405** |",
+    "marking_scheme": [
+      { "point": "Classification of all four assets, laptop excluded", "marks": 2 },
+      { "point": "Mother's cost and holding period used (s. 49)", "marks": 1 },
+      { "point": "s. 50C applied: FVC ₹1.25 crore", "marks": 2 },
+      { "point": "Brokerage on actual price", "marks": 1 },
+      { "point": "Option (a) computed correctly", "marks": 2 },
+      { "point": "Option (b) indexed cost and improvement", "marks": 2 },
+      { "point": "s. 54 applied; lower-tax option chosen", "marks": 2 },
+      { "point": "Shares STCG ₹90,000 @ 20%", "marks": 1 },
+      { "point": "Gold LTCG ₹2 lakh @ 12.5%, no indexation", "marks": 1 },
+      { "point": "Summary table with total", "marks": 1 }
+    ]
+  }
+]
