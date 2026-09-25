@@ -1,0 +1,279 @@
+[
+  {
+    "id": "HP-1-01", "node": "HP-1", "unit": "Unit 3A", "type": "mcq", "marks": 1, "difficulty": "easy",
+    "question": "A tenant sub-lets part of the house he has rented. His income from sub-letting is taxable under:",
+    "options": ["A) Income from House Property", "B) Income from Other Sources", "C) Capital Gains", "D) Exempt"],
+    "answer": "B",
+    "explanation": "Only the owner is taxed under House Property. A tenant who sub-lets is not the owner, so the income is IFOS (unless sub-letting is his business)."
+  },
+  {
+    "id": "HP-1-02", "node": "HP-1", "unit": "Unit 3A", "type": "mcq", "marks": 1, "difficulty": "easy",
+    "question": "A chartered accountant uses a building he owns as his office. Under House Property this building is:",
+    "options": ["A) Taxed at its ERV", "B) Treated as self-occupied with nil NAV", "C) Excluded from the head altogether", "D) Deemed let out"],
+    "answer": "C",
+    "explanation": "Property used by the owner for his own business or profession is outside the House Property head (s. 22). No notional income arises."
+  },
+  {
+    "id": "HP-1-03", "node": "HP-1", "unit": "Unit 3A", "type": "mcq", "marks": 1, "difficulty": "medium",
+    "question": "Mr. A transfers a house to his wife without adequate consideration (not in connection with an agreement to live apart). For House Property purposes the owner is:",
+    "options": ["A) Mrs. A", "B) Mr. A, as deemed owner u/s 27", "C) Both equally u/s 26", "D) Nobody until a sale deed is registered"],
+    "answer": "B",
+    "explanation": "Section 27 deems the transferor to be the owner where a house is transferred to a spouse without adequate consideration (other than under an agreement to live apart)."
+  },
+  {
+    "id": "HP-1-04", "node": "HP-1", "unit": "Unit 3A", "type": "mcq", "marks": 1, "difficulty": "medium",
+    "question": "A house is owned by three brothers in definite shares of 50:25:25. Under s. 26 the income is:",
+    "options": ["A) Assessed as an AOP", "B) Taxed in the hands of the eldest brother", "C) Computed for the property and taxed in each co-owner's hands per his share", "D) Exempt"],
+    "answer": "C",
+    "explanation": "Where shares are definite and ascertainable, co-owners are not assessed as an AOP; each is taxed on his share of the income from the property."
+  },
+  {
+    "id": "HP-1-05", "node": "HP-1", "unit": "Unit 3A", "type": "short", "marks": 5, "difficulty": "easy",
+    "question": "State the conditions for charging income under the head 'Income from House Property' (s. 22), and explain who can be a deemed owner (s. 27).",
+    "model_answer": "**Conditions (s. 22):**\n1. The property must consist of **buildings or lands appurtenant** thereto.\n2. The assessee must be the **owner** (legal or deemed).\n3. The property must **not be used for the owner's own business or profession** whose profits are taxable.\n\nThe tax is on the **annual value** (s. 23), i.e. the capacity to earn, whether or not actually let.\n\n**Deemed owners (s. 27):** transferor to spouse (without adequate consideration, not to live apart) or to a minor child (other than a married daughter); holder of an impartible estate; member of a co-operative society/company allotted a building; person in possession under part performance (s. 53A TPA); lessee for 12 years or more.",
+    "marking_scheme": [
+      { "point": "Buildings or lands appurtenant", "marks": 1 },
+      { "point": "Assessee must be owner", "marks": 1 },
+      { "point": "Not used for own business/profession", "marks": 1 },
+      { "point": "Tax is on annual value / capacity to earn", "marks": 1 },
+      { "point": "At least three categories of deemed owner", "marks": 1 }
+    ]
+  },
+  {
+    "id": "HP-2-01", "node": "HP-2", "unit": "Unit 3A", "type": "mcq", "marks": 1, "difficulty": "easy",
+    "question": "MRV ₹1,20,000; FRV ₹1,50,000; standard rent under the Rent Control Act ₹1,40,000. ERV is:",
+    "options": ["A) ₹1,20,000", "B) ₹1,40,000", "C) ₹1,50,000", "D) ₹1,35,000"],
+    "answer": "B",
+    "explanation": "ERV = higher of MRV and FRV (1,50,000), but not exceeding standard rent (1,40,000)."
+  },
+  {
+    "id": "HP-2-02", "node": "HP-2", "unit": "Unit 3A", "type": "mcq", "marks": 1, "difficulty": "easy",
+    "question": "MRV ₹2,00,000; FRV ₹1,80,000; the property is not covered by any Rent Control Act. ERV is:",
+    "options": ["A) ₹1,80,000", "B) ₹1,90,000", "C) ₹2,00,000", "D) ₹3,80,000"],
+    "answer": "C",
+    "explanation": "Higher of MRV and FRV; no standard rent cap applies."
+  },
+  {
+    "id": "HP-2-03", "node": "HP-2", "unit": "Unit 3A", "type": "mcq", "marks": 1, "difficulty": "medium",
+    "question": "Municipal Rental Value means:",
+    "options": ["A) The rent a similar property fetches in the same locality", "B) The value fixed by the municipal authority for levying municipal taxes", "C) The maximum rent under the Rent Control Act", "D) The actual rent received"],
+    "answer": "B",
+    "explanation": "FRV is the market-comparable rent; standard rent is the Rent Control Act maximum; MRV is the municipal valuation."
+  },
+  {
+    "id": "HP-2-04", "node": "HP-2", "unit": "Unit 3A", "type": "short", "marks": 5, "difficulty": "easy",
+    "question": "Explain Municipal Value, Fair Rental Value, Standard Rent and Expected Rental Value, and state how ERV is determined.",
+    "model_answer": "- **Municipal Rental Value (MRV):** annual value fixed by the municipal authority for levying municipal taxes.\n- **Fair Rental Value (FRV):** rent a similar property in the same or similar locality would fetch.\n- **Standard Rent (SR):** the maximum rent the owner can legally charge under the Rent Control Act.\n- **Expected Rental Value (ERV):** the sum for which the property might reasonably be expected to be let from year to year.\n\n**Rule:** ERV = **higher of MRV and FRV**, but **not exceeding SR** where the Rent Control Act applies.",
+    "marking_scheme": [
+      { "point": "MRV defined", "marks": 1 },
+      { "point": "FRV defined", "marks": 1 },
+      { "point": "Standard rent defined", "marks": 1 },
+      { "point": "ERV defined", "marks": 1 },
+      { "point": "Rule: higher of MRV/FRV capped at SR", "marks": 1 }
+    ]
+  },
+  {
+    "id": "HP-3-01", "node": "HP-3", "unit": "Unit 3A", "type": "mcq", "marks": 1, "difficulty": "easy",
+    "question": "Municipal taxes of ₹12,000 on a let-out house were paid by the tenant. The deduction available to the owner is:",
+    "options": ["A) ₹12,000", "B) ₹6,000", "C) Nil", "D) 30% of ₹12,000"],
+    "answer": "C",
+    "explanation": "Municipal tax is deductible only if borne and actually paid by the owner."
+  },
+  {
+    "id": "HP-3-02", "node": "HP-3", "unit": "Unit 3A", "type": "mcq", "marks": 1, "difficulty": "medium",
+    "question": "In computing GAV per this course's method, unrealised rent and vacancy loss are deducted:",
+    "options": ["A) Both before comparing with ERV", "B) Both after comparing with ERV", "C) Unrealised rent before the comparison; vacancy after it", "D) Vacancy before; unrealised rent after"],
+    "answer": "C",
+    "explanation": "Actual rent is taken net of unrealised rent for the comparison with ERV; the vacancy loss comes off the higher figure afterwards."
+  },
+  {
+    "id": "HP-3-03", "node": "HP-3", "unit": "Unit 3A", "type": "mcq", "marks": 1, "difficulty": "medium",
+    "question": "A house is let out throughout the year at ₹8,000 p.m. MRV ₹90,000; FRV ₹1,00,000; standard rent ₹95,000. Municipal tax ₹10,000 paid by the owner. No vacancy, no unrealised rent. NAV is:",
+    "options": ["A) ₹85,000", "B) ₹86,000", "C) ₹90,000", "D) ₹96,000"],
+    "answer": "B",
+    "explanation": "ERV = lower of (higher of 90,000/1,00,000) and SR 95,000 = 95,000. Actual rent 96,000 is higher → GAV 96,000. NAV = 96,000 − 10,000 = 86,000."
+  },
+  {
+    "id": "HP-3-04", "node": "HP-3", "unit": "Unit 3A", "type": "mcq", "marks": 1, "difficulty": "medium",
+    "question": "In PY 2025-26 the owner paid municipal tax of ₹8,000 for 2025-26 and ₹6,000 arrears for 2023-24. Deduction in PY 2025-26:",
+    "options": ["A) ₹8,000", "B) ₹6,000", "C) ₹14,000", "D) Nil"],
+    "answer": "C",
+    "explanation": "Municipal tax is allowed on a paid basis, so all tax paid during the year, including arrears, is deductible."
+  },
+  {
+    "id": "HP-3-05", "node": "HP-3", "unit": "Unit 3A", "type": "long", "marks": 10, "difficulty": "hard",
+    "question": "Ms. Tara owns a house let out for residential use. For PY 2025-26:\n- MRV ₹3,00,000; FRV ₹3,30,000; standard rent ₹3,20,000\n- Contractual rent ₹30,000 p.m.\n- The house was vacant for 2 months (May and June 2025) and let for the remaining 10 months\n- Rent of one month (₹30,000) could not be realised; all conditions of Rule 4 for unrealised rent are satisfied\n- Municipal tax at 10% of MRV, i.e. ₹30,000, was paid by Ms. Tara during the year\n- Interest accrued on a loan taken for construction of the house ₹1,00,000\n\nCompute her income from house property (new regime).",
+    "model_answer": "| Step | ₹ |\n|---|---|\n| ERV: higher of MRV 3,00,000 and FRV 3,30,000 = 3,30,000, capped at SR 3,20,000 | 3,20,000 |\n| Actual rent for the year 30,000 × 12 = 3,60,000 less unrealised 30,000 | 3,30,000 |\n| Higher of ERV and actual rent | 3,30,000 |\n| Less: vacancy loss 30,000 × 2 | (60,000) |\n| **Gross annual value** | **2,70,000** |\n| Less: municipal tax paid by owner | (30,000) |\n| **Net annual value** | **2,40,000** |\n| Less: 30% standard deduction u/s 24(a) | (72,000) |\n| Less: interest u/s 24(b) | (1,00,000) |\n| **Income from house property** | **68,000** |\n\nCheck with the statutory reading: rent actually receivable for the 10 let months net of unrealised rent = 2,70,000, which is below ERV only because of vacancy, so GAV = 2,70,000 either way.",
+    "marking_scheme": [
+      { "point": "ERV ₹3,20,000 with SR cap applied", "marks": 2 },
+      { "point": "Unrealised rent deducted from actual rent before comparison", "marks": 1 },
+      { "point": "Higher figure selected correctly", "marks": 1 },
+      { "point": "Vacancy loss ₹60,000 deducted, GAV ₹2,70,000", "marks": 2 },
+      { "point": "Municipal tax deducted (paid by owner), NAV ₹2,40,000", "marks": 1 },
+      { "point": "30% on NAV ₹72,000", "marks": 1 },
+      { "point": "Interest deducted, income ₹68,000", "marks": 2 }
+    ]
+  },
+  {
+    "id": "HP-4-01", "node": "HP-4", "unit": "Unit 3A", "type": "mcq", "marks": 1, "difficulty": "hard",
+    "question": "A house completed on 1.8.2025 is let out from that date at ₹25,000 p.m. Annual MRV ₹2,40,000; annual FRV ₹2,70,000; no standard rent; no vacancy. GAV for PY 2025-26 is:",
+    "options": ["A) ₹1,80,000", "B) ₹2,00,000", "C) ₹2,70,000", "D) ₹3,00,000"],
+    "answer": "B",
+    "explanation": "Scale rental values to the 8 months of existence: MRV 1,60,000, FRV 1,80,000 → ERV 1,80,000. Actual rent 25,000 × 8 = 2,00,000 is higher → GAV 2,00,000."
+  },
+  {
+    "id": "HP-4-02", "node": "HP-4", "unit": "Unit 3A", "type": "mcq", "marks": 1, "difficulty": "medium",
+    "question": "A house is let out from April to September and self-occupied by the owner from October to March. For the year it is treated as:",
+    "options": ["A) Self-occupied for the whole year", "B) Let out for the whole year, with actual rent for the let months", "C) Let out for 6 months and self-occupied for 6 months, computed separately", "D) Deemed let out"],
+    "answer": "B",
+    "explanation": "Per this course's method, a property let for part of the year and self-occupied for the rest is treated as let out, using full annual rental values and actual rent for the let months."
+  },
+  {
+    "id": "HP-4-03", "node": "HP-4", "unit": "Unit 3A", "type": "short", "marks": 5, "difficulty": "medium",
+    "question": "Mr. Omar's house was completed on 1.10.2025 and let out from 1.12.2025 at ₹20,000 p.m. Annual MRV ₹2,00,000; annual FRV ₹2,20,000; no standard rent. Municipal tax paid by him for the period ₹5,000. No interest. Compute income from house property for AY 2026-27 using the course method (scale values to the existence period; vacancy after comparison).",
+    "model_answer": "Existence period: 1.10.2025 – 31.3.2026 = **6 months**.\n\n| Step | ₹ |\n|---|---|\n| MRV scaled 2,00,000 × 6/12 | 1,00,000 |\n| FRV scaled 2,20,000 × 6/12 | 1,10,000 |\n| ERV (higher) | 1,10,000 |\n| Actual rent for existence period if fully let: 20,000 × 6 | 1,20,000 |\n| Higher of ERV and actual | 1,20,000 |\n| Less: vacancy Oct–Nov 20,000 × 2 | (40,000) |\n| **GAV** | **80,000** |\n| Less: municipal tax | (5,000) |\n| NAV | 75,000 |\n| Less: 30% | (22,500) |\n| **Income from HP** | **52,500** |\n\nCheck with the statutory reading: rent for the 4 let months (Dec–Mar) = 80,000 is below ERV only because of vacancy (without it, 1,20,000 > 1,10,000), so GAV = 80,000 either way.",
+    "marking_scheme": [
+      { "point": "Existence period 6 months identified", "marks": 1 },
+      { "point": "MRV/FRV scaled; ERV ₹1,10,000", "marks": 1 },
+      { "point": "Comparison with actual rent for existence period", "marks": 1 },
+      { "point": "Vacancy deducted, GAV computed", "marks": 1 },
+      { "point": "NAV, 30% and final income", "marks": 1 }
+    ]
+  },
+  {
+    "id": "HP-5-01", "node": "HP-5", "unit": "Unit 3A", "type": "mcq", "marks": 1, "difficulty": "easy",
+    "question": "The maximum number of houses an individual can treat as self-occupied with nil annual value is:",
+    "options": ["A) One", "B) Two", "C) Three", "D) No limit"],
+    "answer": "B",
+    "explanation": "Up to two houses can be self-occupied with nil NAV; the rest are deemed let out."
+  },
+  {
+    "id": "HP-5-02", "node": "HP-5", "unit": "Unit 3A", "type": "mcq", "marks": 1, "difficulty": "medium",
+    "question": "Under the new regime, interest of ₹1,80,000 on a loan for a self-occupied house is:",
+    "options": ["A) Fully deductible", "B) Deductible up to ₹2,00,000", "C) Deductible up to ₹30,000", "D) Not deductible"],
+    "answer": "D",
+    "explanation": "Section 115BAC withdraws the s. 24(b) deduction for self-occupied property."
+  },
+  {
+    "id": "HP-5-03", "node": "HP-5", "unit": "Unit 3A", "type": "mcq", "marks": 1, "difficulty": "medium",
+    "question": "For a deemed let-out house, GAV is:",
+    "options": ["A) Nil", "B) Expected rental value", "C) Actual rent", "D) 30% of ERV"],
+    "answer": "B",
+    "explanation": "No rent is received, so GAV = ERV, and the normal deductions follow."
+  },
+  {
+    "id": "HP-5-04", "node": "HP-5", "unit": "Unit 3A", "type": "long", "marks": 10, "difficulty": "hard",
+    "question": "Mr. Pranav owns three houses, all occupied by his family for residence throughout PY 2025-26. He is taxed under the new regime.\n\n| House | ERV ₹ | Municipal tax paid by him ₹ | Interest on housing loan ₹ |\n|---|---|---|---|\n| A | 2,40,000 | 20,000 | 1,50,000 |\n| B | 3,00,000 | 24,000 | 50,000 |\n| C | 1,80,000 | 10,000 | Nil |\n\nWhich two houses should he choose as self-occupied to minimise tax? Compute his income from house property.",
+    "model_answer": "Two houses can be self-occupied (NAV nil; interest not deductible under 115BAC). The third is **deemed let out**: GAV = ERV, municipal tax, 30% and interest (no limit) are deductible.\n\nIncome if each house were the deemed let-out one:\n\n| | A | B | C |\n|---|---|---|---|\n| GAV = ERV | 2,40,000 | 3,00,000 | 1,80,000 |\n| Less: municipal tax | (20,000) | (24,000) | (10,000) |\n| NAV | 2,20,000 | 2,76,000 | 1,70,000 |\n| Less: 30% | (66,000) | (82,800) | (51,000) |\n| Less: interest | (1,50,000) | (50,000) | — |\n| Income if deemed let out | **4,000** | 1,43,200 | 1,19,000 |\n\nChoose **B and C as self-occupied** (nil each; their interest is lost under the new regime) and treat **A as deemed let out**.\n\n**Income from house property = ₹4,000.**",
+    "marking_scheme": [
+      { "point": "Rule: only two SOP; third deemed let out", "marks": 1 },
+      { "point": "SOP: NAV nil and no interest under new regime", "marks": 1 },
+      { "point": "DLOP: GAV = ERV", "marks": 1 },
+      { "point": "Computation for each house as DLOP (three columns)", "marks": 3 },
+      { "point": "Interest on DLOP allowed without limit", "marks": 1 },
+      { "point": "Optimal choice: A deemed let out", "marks": 2 },
+      { "point": "Final income ₹4,000", "marks": 1 }
+    ]
+  },
+  {
+    "id": "HP-6-01", "node": "HP-6", "unit": "Unit 3A", "type": "mcq", "marks": 1, "difficulty": "easy",
+    "question": "The standard deduction u/s 24(a) is:",
+    "options": ["A) 30% of GAV", "B) 30% of NAV", "C) Actual repairs up to 30% of NAV", "D) ₹30,000"],
+    "answer": "B",
+    "explanation": "A flat 30% of NAV, whether or not anything is spent."
+  },
+  {
+    "id": "HP-6-02", "node": "HP-6", "unit": "Unit 3A", "type": "mcq", "marks": 1, "difficulty": "easy",
+    "question": "NAV of a let-out house is ₹1,00,000. The owner actually spent ₹50,000 on repairs and ₹5,000 on insurance. Total deduction u/s 24(a):",
+    "options": ["A) ₹55,000", "B) ₹50,000", "C) ₹30,000", "D) ₹35,000"],
+    "answer": "C",
+    "explanation": "Flat 30% of NAV; no separate deduction for repairs or insurance."
+  },
+  {
+    "id": "HP-6-03", "node": "HP-6", "unit": "Unit 3A", "type": "mcq", "marks": 1, "difficulty": "medium",
+    "question": "Interest u/s 24(b) on a loan for a let-out house is allowed on:",
+    "options": ["A) Paid basis", "B) Accrual basis", "C) Receipt basis", "D) Only if paid before the return due date"],
+    "answer": "B",
+    "explanation": "Interest is allowed on accrual basis; contrast municipal tax, which is on paid basis."
+  },
+  {
+    "id": "HP-6-04", "node": "HP-6", "unit": "Unit 3A", "type": "mcq", "marks": 1, "difficulty": "medium",
+    "question": "Interest payable to a lender outside India on a housing loan, on which TDS was not deducted, is:",
+    "options": ["A) Fully deductible", "B) 30% disallowed", "C) Not deductible", "D) Deductible up to ₹2,00,000"],
+    "answer": "C",
+    "explanation": "Interest payable outside India is not allowed unless tax has been deducted at source."
+  },
+  {
+    "id": "HP-6-05", "node": "HP-6", "unit": "Unit 3A", "type": "short", "marks": 5, "difficulty": "medium",
+    "question": "Explain the deductions allowed from Net Annual Value under Section 24, including the position for self-occupied property under the old and new regimes.",
+    "model_answer": "Only **two** deductions:\n\n1. **24(a) Standard deduction** — **30% of NAV**, flat, whether or not any expenditure is incurred; no separate deduction for repairs, insurance or collection charges; available only for let-out / deemed let-out property.\n2. **24(b) Interest on borrowed capital** for purchase, construction, repair or reconstruction — **accrual basis**; interest on a fresh loan to repay the original loan allowed; interest payable outside India disallowed without TDS; pre-construction interest in 5 instalments.\n\n**Limits:** let-out: **no limit** (both regimes). Self-occupied: old regime **₹2,00,000** (₹30,000 for repair/reconstruction or pre-1.4.1999 loans); new regime **nil**.\n\nOrder: NAV → 30% → interest; income may be negative.",
+    "marking_scheme": [
+      { "point": "30% of NAV, flat, no other expenses", "marks": 1 },
+      { "point": "Interest on accrual basis for specified purposes", "marks": 1 },
+      { "point": "Fresh loan / foreign interest without TDS rules", "marks": 1 },
+      { "point": "Let-out no limit; SOP ₹2 lakh / ₹30,000 old regime", "marks": 1 },
+      { "point": "New regime SOP interest nil; order and negative income", "marks": 1 }
+    ]
+  },
+  {
+    "id": "HP-7-01", "node": "HP-7", "unit": "Unit 3A", "type": "mcq", "marks": 1, "difficulty": "medium",
+    "question": "The pre-construction period ends on:",
+    "options": ["A) The date construction is completed", "B) 31 March immediately preceding the year of completion", "C) 31 March of the year of completion", "D) The date the house is let out"],
+    "answer": "B",
+    "explanation": "From the date of borrowing to 31 March before the previous year in which construction is completed."
+  },
+  {
+    "id": "HP-7-02", "node": "HP-7", "unit": "Unit 3A", "type": "mcq", "marks": 1, "difficulty": "easy",
+    "question": "Pre-construction interest of ₹5,00,000 is deductible:",
+    "options": ["A) In full in the year of completion", "B) ₹1,00,000 a year for 5 years from the year of completion", "C) ₹1,00,000 a year for 5 years from the year after completion", "D) Not at all"],
+    "answer": "B",
+    "explanation": "In five equal instalments starting with the year of completion."
+  },
+  {
+    "id": "HP-7-03", "node": "HP-7", "unit": "Unit 3A", "type": "long", "marks": 10, "difficulty": "hard",
+    "question": "Mr. Kiran borrowed ₹20,00,000 at 10% p.a. on 1.6.2021 to construct a house. Nothing was repaid. Construction was completed on 30.6.2025, and the house was let out from 1.7.2025 at ₹30,000 p.m. (no vacancy). Annual MRV ₹3,60,000; annual FRV ₹3,00,000; no standard rent. Municipal tax paid by him for 2025-26: ₹18,000. Compute his income from house property for AY 2026-27 under the new regime, and state how any loss is treated.",
+    "model_answer": "**Pre-construction interest:** 1.6.2021 to 31.3.2025 = 46 months → 20,00,000 × 10% × 46/12 = 7,66,667 → 1/5 = **1,53,333** per year for 2025-26 to 2029-30.\n\n**Current-year interest (1.4.2025 – 31.3.2026):** 20,00,000 × 10% = **2,00,000** (the April-June stub is current-year interest, not pre-construction).\n\n**Existence period:** July 2025 – March 2026 = 9 months.\n\n| Step | ₹ |\n|---|---|\n| MRV scaled 3,60,000 × 9/12 | 2,70,000 |\n| FRV scaled 3,00,000 × 9/12 | 2,25,000 |\n| ERV | 2,70,000 |\n| Actual rent 30,000 × 9 | 2,70,000 |\n| **GAV** | **2,70,000** |\n| Less: municipal tax | (18,000) |\n| NAV | 2,52,000 |\n| Less: 30% | (75,600) |\n| Less: interest 2,00,000 + 1,53,333 | (3,53,333) |\n| **Loss from house property** | **(1,76,933)** |\n\nUnder the new regime the loss **cannot be set off against any other head** (s. 115BAC); HP is taken as nil in GTI.",
+    "marking_scheme": [
+      { "point": "Pre-construction period to 31.3.2025, 46 months", "marks": 1 },
+      { "point": "Pre-construction interest ₹7,66,667 and 1/5 ₹1,53,333", "marks": 2 },
+      { "point": "Current-year interest ₹2,00,000 including stub", "marks": 1 },
+      { "point": "Rental values scaled for 9 months; ERV ₹2,70,000", "marks": 2 },
+      { "point": "GAV, municipal tax, NAV ₹2,52,000", "marks": 1 },
+      { "point": "30% and interest deducted; loss ₹1,76,933", "marks": 2 },
+      { "point": "New-regime treatment of HP loss stated", "marks": 1 }
+    ]
+  },
+  {
+    "id": "HP-8-01", "node": "HP-8", "unit": "Unit 3A", "type": "mcq", "marks": 1, "difficulty": "medium",
+    "question": "Arrears of rent received in PY 2025-26 by a person who sold the property in 2024 are:",
+    "options": ["A) Not taxable, as he is no longer the owner", "B) Taxable under HP in the year of receipt, less 30%", "C) Taxable under IFOS without deduction", "D) Taxable as capital gains"],
+    "answer": "B",
+    "explanation": "Section 25A taxes arrears and recovered unrealised rent in the year of receipt under HP, even if the assessee is no longer the owner, with a 30% deduction."
+  },
+  {
+    "id": "HP-8-02", "node": "HP-8", "unit": "Unit 3A", "type": "short", "marks": 5, "difficulty": "medium",
+    "question": "During PY 2025-26 Mrs. Ruth received (i) ₹60,000 as arrears of rent from a tenant following a rent revision for earlier years, and (ii) ₹40,000 of unrealised rent relating to PY 2022-23, which had been deducted in computing her income that year. She spent ₹10,000 on legal fees to recover the unrealised rent. She sold the property in 2024. Compute the amount taxable u/s 25A.",
+    "model_answer": "| Particulars | ₹ |\n|---|---|\n| Arrears of rent received | 60,000 |\n| Unrealised rent recovered | 40,000 |\n| Total | 1,00,000 |\n| Less: 30% of the amount received (s. 25A) | (30,000) |\n| **Taxable under HP** | **70,000** |\n\n- Taxable in the **year of receipt** (PY 2025-26).\n- Taxable **even though she is no longer the owner**.\n- **Legal fees ₹10,000 are not deductible**: the 30% is the only deduction.",
+    "marking_scheme": [
+      { "point": "Both receipts included (₹1,00,000)", "marks": 1 },
+      { "point": "30% deduction applied", "marks": 1 },
+      { "point": "Taxable ₹70,000", "marks": 1 },
+      { "point": "Year of receipt; ownership not required", "marks": 1 },
+      { "point": "Legal expenses disallowed", "marks": 1 }
+    ]
+  },
+  {
+    "id": "HP-9-01", "node": "HP-9", "unit": "Unit 3A", "type": "long", "marks": 10, "difficulty": "hard",
+    "question": "Mr. Sen owns a two-storey building with two identical floors. For the whole building: MRV ₹4,00,000; FRV ₹4,40,000; standard rent ₹4,20,000. Municipal tax on the whole building ₹40,000, paid by him. Interest on the loan for construction of the building ₹1,20,000 (accrued). During PY 2025-26 the ground floor was let out throughout at ₹20,000 p.m.; the first floor was self-occupied by him for residence throughout. Compute his income from house property under the new regime.",
+    "model_answer": "Apportion every figure 50:50 between the floors.\n\n**Ground floor (let out)**\n\n| Step | ₹ |\n|---|---|\n| MRV 2,00,000; FRV 2,20,000; SR 2,10,000 → ERV | 2,10,000 |\n| Actual rent 20,000 × 12 | 2,40,000 |\n| GAV (higher) | 2,40,000 |\n| Less: municipal tax (50%) | (20,000) |\n| NAV | 2,20,000 |\n| Less: 30% | (66,000) |\n| Less: interest (50%) | (60,000) |\n| **Income** | **94,000** |\n\n**First floor (self-occupied)** — NAV nil; interest ₹60,000 not deductible under 115BAC → **Nil**.\n\n**Income from house property = ₹94,000.**",
+    "marking_scheme": [
+      { "point": "All values apportioned 50:50 consistently", "marks": 2 },
+      { "point": "ERV ₹2,10,000 with SR cap", "marks": 1 },
+      { "point": "GAV ₹2,40,000 (actual rent higher)", "marks": 1 },
+      { "point": "Municipal tax share, NAV ₹2,20,000", "marks": 1 },
+      { "point": "30% and interest share, ₹94,000", "marks": 2 },
+      { "point": "SOP floor nil, interest disallowed under new regime", "marks": 2 },
+      { "point": "Final total ₹94,000", "marks": 1 }
+    ]
+  }
+]

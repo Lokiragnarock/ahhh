@@ -1,0 +1,257 @@
+[
+  {
+    "id": "PG-2-01", "node": "PG-2", "unit": "Unit 3B", "type": "mcq", "marks": 1, "difficulty": "easy",
+    "question": "Which of the following is NOT a condition for deduction under s. 37(1)?",
+    "options": ["A) Expenditure is not of a capital nature", "B) Expenditure is not personal", "C) Expenditure is laid out wholly and exclusively for business", "D) Expenditure is necessary for the business, as judged by the Assessing Officer"],
+    "answer": "D",
+    "explanation": "Necessity is not a test; commercial expediency is judged by the businessman. The fourth real condition is that the expense is not covered by ss. 30-36."
+  },
+  {
+    "id": "PG-2-02", "node": "PG-2", "unit": "Unit 3B", "type": "mcq", "marks": 1, "difficulty": "hard",
+    "question": "Employees' PF contribution deducted from May 2025 salaries was deposited on 30 June 2025 (due date under the PF Act: 15 June 2025). The return is filed on 31 July 2026. The deduction is:",
+    "options": ["A) Allowed, as deposited before the return due date", "B) Not allowed, as deposited after the PF Act due date", "C) 30% disallowed", "D) Allowed in the year of deposit"],
+    "answer": "B",
+    "explanation": "Employees' contribution is deductible u/s 36(1)(va) only if deposited by the due date under the PF Act (Checkmate Services, SC 2022). Section 43B relief does not apply to it."
+  },
+  {
+    "id": "PG-2-03", "node": "PG-2", "unit": "Unit 3B", "type": "mcq", "marks": 1, "difficulty": "easy",
+    "question": "A provision for bad and doubtful debts of ₹20,000 is debited to P&L. Treatment:",
+    "options": ["A) Allowed u/s 36(1)(vii)", "B) Disallowed, as it is not an actual write-off", "C) Allowed up to 5% of debtors", "D) Allowed if written off next year"],
+    "answer": "B",
+    "explanation": "Only bad debts actually written off as irrecoverable are deductible; a provision is an anticipated loss."
+  },
+  {
+    "id": "PG-2-04", "node": "PG-2", "unit": "Unit 3B", "type": "mcq", "marks": 1, "difficulty": "medium",
+    "question": "A loan taken on 1.4.2025 was used to buy a machine that was installed and first put to use on 1.10.2025. Interest for April-September 2025 is:",
+    "options": ["A) Deductible u/s 36(1)(iii)", "B) Added to the actual cost of the machine", "C) Permanently disallowed", "D) 30% disallowed"],
+    "answer": "B",
+    "explanation": "Interest on capital borrowed to acquire an asset, for the period until it is first put to use, is capitalised; later interest is deductible."
+  },
+  {
+    "id": "PG-2-05", "node": "PG-2", "unit": "Unit 3B", "type": "short", "marks": 5, "difficulty": "medium",
+    "question": "State with reasons whether the following are deductible in computing business income: (i) fine for violating traffic rules by the delivery van ₹5,000; (ii) penalty paid to a customer for late delivery under the contract ₹12,000; (iii) CSR expenditure ₹50,000; (iv) loss due to embezzlement by the cashier ₹30,000; (v) legal expenses for defending a criminal case against the proprietor for assault ₹15,000.",
+    "model_answer": "| Item | Deductible? | Reason |\n|---|---|---|\n| (i) Traffic fine | No | Expenditure for an offence — Expl. 1 to s. 37(1) |\n| (ii) Penalty for late delivery | Yes | Breach of contract is not an offence; commercial expense |\n| (iii) CSR | No | Expl. 2 to s. 37(1) |\n| (iv) Embezzlement by cashier | Yes | Loss incidental to carrying on business |\n| (v) Criminal case against proprietor | No | Personal expense, not for business |",
+    "marking_scheme": [
+      { "point": "(i) disallowed, offence", "marks": 1 },
+      { "point": "(ii) allowed, breach of contract not offence", "marks": 1 },
+      { "point": "(iii) disallowed, CSR explanation", "marks": 1 },
+      { "point": "(iv) allowed, incidental business loss", "marks": 1 },
+      { "point": "(v) disallowed, personal", "marks": 1 }
+    ]
+  },
+  {
+    "id": "PG-2-06", "node": "PG-2", "unit": "Unit 3B", "type": "short", "marks": 5, "difficulty": "medium",
+    "question": "Distinguish between the tax treatment of the employer's contribution and the employees' contribution to a recognised provident fund in computing the employer's business income.",
+    "model_answer": "| Basis | Employer's own contribution | Employees' contribution |\n|---|---|---|\n| Section | 36(1)(iv) read with s. 43B | 36(1)(va) read with s. 2(24)(x) |\n| Nature | Employer's expense | Employees' money held by employer; first treated as employer's income |\n| Deadline | Paid on or before the **due date of filing the return** | Deposited by the **due date under the PF Act** (15th of next month) |\n| If late | Allowed in the year of actual payment | **Deduction lost permanently** |\n| Authority | s. 43B | *Checkmate Services v CIT* (SC 2022) |",
+    "marking_scheme": [
+      { "point": "Correct sections for each", "marks": 1 },
+      { "point": "Employees' contribution treated as income u/s 2(24)(x)", "marks": 1 },
+      { "point": "Employer: return due date (43B)", "marks": 1 },
+      { "point": "Employees: PF Act due date", "marks": 1 },
+      { "point": "Consequence of late payment for each", "marks": 1 }
+    ]
+  },
+  {
+    "id": "PG-3-01", "node": "PG-3", "unit": "Unit 3B", "type": "mcq", "marks": 1, "difficulty": "easy",
+    "question": "A trader pays ₹12,000 in cash to one supplier on one day for goods purchased. The disallowance u/s 40A(3) is:",
+    "options": ["A) ₹2,000", "B) ₹12,000", "C) Nil", "D) ₹3,600"],
+    "answer": "B",
+    "explanation": "Cash payment exceeding ₹10,000 per person per day is disallowed in full."
+  },
+  {
+    "id": "PG-3-02", "node": "PG-3", "unit": "Unit 3B", "type": "mcq", "marks": 1, "difficulty": "easy",
+    "question": "Professional fees of ₹1,00,000 paid to a resident CA without deducting TDS. The disallowance is:",
+    "options": ["A) ₹1,00,000", "B) ₹30,000", "C) ₹10,000", "D) Nil"],
+    "answer": "B",
+    "explanation": "30% of payments to residents without TDS is disallowed u/s 40(a)(ia)."
+  },
+  {
+    "id": "PG-3-03", "node": "PG-3", "unit": "Unit 3B", "type": "mcq", "marks": 1, "difficulty": "medium",
+    "question": "Bonus for PY 2025-26 was paid on 20 September 2026. The due date of the return is 31 July 2026. The bonus is deductible in:",
+    "options": ["A) PY 2025-26", "B) PY 2026-27", "C) Never", "D) PY 2025-26, 30% disallowed"],
+    "answer": "B",
+    "explanation": "Section 43B: allowed in the year of actual payment since it was not paid by the return due date."
+  },
+  {
+    "id": "PG-3-04", "node": "PG-3", "unit": "Unit 3B", "type": "mcq", "marks": 1, "difficulty": "hard",
+    "question": "Goods bought on 1.1.2026 from a micro enterprise (written agreement: 45 days) were paid for on 30.5.2026, before the return due date. The purchase is deductible in:",
+    "options": ["A) PY 2025-26, as paid before the return due date", "B) PY 2026-27, the year of actual payment", "C) PY 2025-26 at 70%", "D) Never"],
+    "answer": "B",
+    "explanation": "Under s. 43B(h), dues to micro/small enterprises paid beyond the MSMED Act limit are allowed only in the year of actual payment; the return-due-date relief does not apply."
+  },
+  {
+    "id": "PG-3-05", "node": "PG-3", "unit": "Unit 3B", "type": "short", "marks": 5, "difficulty": "medium",
+    "question": "Explain the provisions of s. 40A(3) and 40A(3A) relating to cash payments, with the exceptions.",
+    "model_answer": "- **40A(3):** where any expenditure is paid to a person **in a day** otherwise than by account payee cheque/draft or prescribed electronic mode, and the aggregate **exceeds ₹10,000**, the **whole** payment is disallowed.\n- Limit is **₹35,000** for payments to **transporters** for plying, hiring or leasing goods carriages.\n- **40A(3A):** where an expense was allowed on accrual basis in an earlier year and is paid in a later year in cash exceeding the limit, the payment is **deemed income** of the year of payment.\n- **Rule 6DD exceptions:** payments to RBI/banks, government (legal tender), in villages without banking facility, to cultivators for agricultural produce, to producers of cottage industry products, on bank holidays/closure, by book adjustment, etc.\n- Cash payment for capital assets: not covered by 40A(3) but excluded from actual cost u/s 43(1).",
+    "marking_scheme": [
+      { "point": "₹10,000 per person per day, whole disallowed", "marks": 1 },
+      { "point": "₹35,000 for transporters", "marks": 1 },
+      { "point": "40A(3A) deemed income", "marks": 1 },
+      { "point": "At least three Rule 6DD exceptions", "marks": 1 },
+      { "point": "Capital asset treatment via s. 43(1)", "marks": 1 }
+    ]
+  },
+  {
+    "id": "PG-3-06", "node": "PG-3", "unit": "Unit 3B", "type": "long", "marks": 10, "difficulty": "hard",
+    "question": "A & B, a partnership firm, has two working partners, both authorised by the deed to receive interest and remuneration. For PY 2025-26:\n- Capitals: A ₹6,00,000; B ₹4,00,000. Interest paid on capital at 15% p.a.: A ₹90,000, B ₹60,000.\n- Remuneration paid: A ₹4,50,000; B ₹4,50,000.\n- Book profit, computed as required by s. 40(b) (after adjusting for the interest disallowance), is ₹10,00,000.\n\nCompute: (i) interest allowable and disallowed; (ii) remuneration allowable and disallowed; (iii) amounts taxable in the hands of A and B u/s 28(v).",
+    "model_answer": "**(i) Interest** — allowed up to 12% simple:\n- A: 6,00,000 × 12% = 72,000 (paid 90,000 → disallowed 18,000)\n- B: 4,00,000 × 12% = 48,000 (paid 60,000 → disallowed 12,000)\n- Allowed 1,20,000; **disallowed 30,000**.\n\n**(ii) Remuneration** — limit on book profit ₹10,00,000:\n- First ₹6,00,000: higher of ₹3,00,000 or 90% (5,40,000) = **5,40,000**\n- Balance ₹4,00,000 × 60% = **2,40,000**\n- Maximum allowable **₹7,80,000**; paid 9,00,000 → **disallowed ₹1,20,000**.\n\n**(iii) Taxable in partners' hands (to the extent allowed to the firm):**\n\n| | A | B |\n|---|---|---|\n| Interest allowed | 72,000 | 48,000 |\n| Remuneration allowed (7,80,000 in the ratio paid, 1:1) | 3,90,000 | 3,90,000 |\n| **Taxable u/s 28(v)** | **4,62,000** | **4,38,000** |",
+    "marking_scheme": [
+      { "point": "12% simple interest limit applied to each partner", "marks": 2 },
+      { "point": "Interest disallowed ₹30,000", "marks": 1 },
+      { "point": "First ₹6 lakh: higher of ₹3 lakh / 90% = ₹5.4 lakh", "marks": 2 },
+      { "point": "Balance 60% = ₹2.4 lakh; total ₹7.8 lakh; disallowed ₹1.2 lakh", "marks": 2 },
+      { "point": "Allowed remuneration split in ratio paid", "marks": 1 },
+      { "point": "Partners taxed only on allowed amounts: A ₹4,62,000, B ₹4,38,000", "marks": 2 }
+    ]
+  },
+  {
+    "id": "PG-4-01", "node": "PG-4", "unit": "Unit 3B", "type": "mcq", "marks": 1, "difficulty": "easy",
+    "question": "Cost of land purchased for setting up an in-house research lab is:",
+    "options": ["A) 100% deductible u/s 35", "B) Depreciable at 10%", "C) Not deductible", "D) Deductible over 5 years"],
+    "answer": "C",
+    "explanation": "Capital expenditure on scientific research is 100% deductible except the cost of land."
+  },
+  {
+    "id": "PG-4-02", "node": "PG-4", "unit": "Unit 3B", "type": "mcq", "marks": 1, "difficulty": "easy",
+    "question": "Pre-commencement expenditure on scientific research is allowed for the period of:",
+    "options": ["A) 1 year before commencement", "B) 2 years before commencement", "C) 3 years before commencement", "D) 5 years before commencement"],
+    "answer": "C",
+    "explanation": "Expenditure in the 3 years immediately preceding commencement (salary excluding perquisites, materials, and capital other than land) is allowed in the year of commencement."
+  },
+  {
+    "id": "PG-4-03", "node": "PG-4", "unit": "Unit 3B", "type": "mcq", "marks": 1, "difficulty": "medium",
+    "question": "Under the new regime, a donation of ₹1,00,000 to an approved research association u/s 35(1)(ii) is:",
+    "options": ["A) 100% deductible", "B) 150% deductible", "C) Not deductible", "D) 50% deductible"],
+    "answer": "C",
+    "explanation": "Section 115BAC disallows 35(1)(ii), (iia), (iii) and 35(2AA)."
+  },
+  {
+    "id": "PG-4-04", "node": "PG-4", "unit": "Unit 3B", "type": "mcq", "marks": 1, "difficulty": "hard",
+    "question": "Research equipment costing ₹4,00,000 (fully deducted u/s 35) is sold without being used for other business purposes for ₹5,00,000. The tax treatment is:",
+    "options": ["A) ₹5,00,000 business income", "B) ₹1,00,000 capital gain only", "C) ₹4,00,000 business income u/s 41(3) and ₹1,00,000 capital gain", "D) Exempt"],
+    "answer": "C",
+    "explanation": "Sale price up to the amount deducted is business income u/s 41(3); the excess over cost is capital gain."
+  },
+  {
+    "id": "PG-4-05", "node": "PG-4", "unit": "Unit 3B", "type": "long", "marks": 10, "difficulty": "hard",
+    "question": "Mr. Yash, a proprietor taxed under the new regime, commenced manufacturing on 1.7.2025. Research expenditure related to the business:\n- FY 2021-22 (April 2021): salary to research staff ₹1,00,000\n- 1.9.2022: materials for research ₹80,000\n- FY 2023-24: salary to research staff ₹2,40,000, including perquisites ₹40,000\n- 10.1.2025: research equipment ₹3,00,000\n- 15.2.2025: land for the research lab ₹5,00,000\n- PY 2025-26: salary to researchers ₹4,00,000; building for the research lab ₹7,00,000; payment to an IIT for an approved research programme u/s 35(2AA) ₹2,00,000\n\nAll pre-commencement expenditure is certified by the prescribed authority. Compute the deduction u/s 35 for AY 2026-27.",
+    "model_answer": "Three years before commencement: **1.7.2022 to 30.6.2025**.\n\n| Item | Deduction ₹ | Reason |\n|---|---|---|\n| Salary April 2021 | Nil | Outside the 3-year window |\n| Materials 1.9.2022 | 80,000 | Inside window, revenue |\n| Salary FY 2023-24, excluding perquisites | 2,00,000 | Perquisites excluded for pre-commencement salary |\n| Equipment 10.1.2025 | 3,00,000 | Capital (not land), inside window |\n| Land 15.2.2025 | Nil | Land excluded |\n| Salary PY 2025-26 | 4,00,000 | 35(1)(i) |\n| Building for lab PY 2025-26 | 7,00,000 | 35(1)(iv) capital, 100% |\n| Payment to IIT u/s 35(2AA) | Nil | Not allowed under 115BAC |\n| **Total deduction** | **16,80,000** | |",
+    "marking_scheme": [
+      { "point": "3-year window 1.7.2022–30.6.2025 identified", "marks": 1 },
+      { "point": "2021 salary excluded", "marks": 1 },
+      { "point": "Materials allowed", "marks": 1 },
+      { "point": "Perquisites excluded from pre-commencement salary", "marks": 1 },
+      { "point": "Equipment allowed; land excluded", "marks": 2 },
+      { "point": "Current salary and building 100%", "marks": 2 },
+      { "point": "35(2AA) disallowed under new regime; total ₹16,80,000", "marks": 2 }
+    ]
+  },
+  {
+    "id": "PG-5-01", "node": "PG-5", "unit": "Unit 3B", "type": "mcq", "marks": 1, "difficulty": "easy",
+    "question": "The rate of depreciation on computers including software is:",
+    "options": ["A) 15%", "B) 25%", "C) 40%", "D) 60%"],
+    "answer": "C",
+    "explanation": "Computers and software: 40% on WDV."
+  },
+  {
+    "id": "PG-5-02", "node": "PG-5", "unit": "Unit 3B", "type": "mcq", "marks": 1, "difficulty": "medium",
+    "question": "A machine costing ₹2,00,000 (block rate 15%) was bought on 15.11.2025 and put to use on 1.12.2025. It is the only asset in its block. Depreciation for PY 2025-26 is:",
+    "options": ["A) ₹30,000", "B) ₹15,000", "C) ₹10,000", "D) Nil"],
+    "answer": "B",
+    "explanation": "Used for less than 180 days in the year of acquisition → half rate 7.5% × 2,00,000 = 15,000."
+  },
+  {
+    "id": "PG-5-03", "node": "PG-5", "unit": "Unit 3B", "type": "mcq", "marks": 1, "difficulty": "easy",
+    "question": "Depreciation on goodwill purchased on acquiring a business is:",
+    "options": ["A) 25%", "B) 10%", "C) Not allowed", "D) 100% in the year of purchase"],
+    "answer": "C",
+    "explanation": "Goodwill of a business or profession is not depreciable from AY 2021-22."
+  },
+  {
+    "id": "PG-5-04", "node": "PG-5", "unit": "Unit 3B", "type": "mcq", "marks": 1, "difficulty": "medium",
+    "question": "Opening WDV of a block ₹3,00,000; no additions; one asset sold for ₹3,50,000; other assets remain. Result:",
+    "options": ["A) Depreciation on nil", "B) STCG ₹50,000 u/s 50; no depreciation", "C) LTCG ₹50,000", "D) STCL ₹50,000"],
+    "answer": "B",
+    "explanation": "Sale proceeds exceed the WDV of the block; the excess is short-term capital gain u/s 50 even though the block still has assets."
+  },
+  {
+    "id": "PG-5-05", "node": "PG-5", "unit": "Unit 3B", "type": "long", "marks": 10, "difficulty": "hard",
+    "question": "Compute depreciation u/s 32 and any capital gain for PY 2025-26 (new regime, so no additional depreciation):\n\n**Furniture block (10%)** — opening WDV ₹3,00,000; bought on 1.6.2025 ₹50,000 (put to use the same day); bought on 15.1.2026 ₹1,00,000 (put to use the same day); some old furniture sold for ₹40,000.\n\n**Plant and machinery block (15%)** — opening WDV ₹10,00,000; new machine bought and put to use on 20.10.2025 ₹4,00,000; an old machine sold for ₹1,00,000.\n\n**Computers block (40%)** — opening WDV ₹1,00,000; all computers sold on 1.8.2025 for ₹1,50,000; no purchases.",
+    "model_answer": "**Furniture (10%)**\n\n| | Full rate | Half rate |\n|---|---|---|\n| Opening WDV | 3,00,000 | |\n| Add: bought 1.6.2025 (≥ 180 days) | 50,000 | |\n| Add: bought 15.1.2026 (< 180 days) | | 1,00,000 |\n| Less: sale | (40,000) | |\n| WDV | 3,10,000 | 1,00,000 |\n| Depreciation | 31,000 | 5,000 |\n\nFurniture depreciation **₹36,000**.\n\n**Plant and machinery (15%)** — machine used from 20.10.2025 = 163 days (< 180).\n\n| | Full rate | Half rate |\n|---|---|---|\n| Opening WDV less sale 10,00,000 − 1,00,000 | 9,00,000 | |\n| New machine | | 4,00,000 |\n| Depreciation | 1,35,000 | 30,000 |\n\nP&M depreciation **₹1,65,000**.\n\n**Computers (40%)** — block ceases to exist and sale proceeds ₹1,50,000 exceed WDV ₹1,00,000 → **STCG u/s 50 ₹50,000**; no depreciation.\n\n**Total depreciation ₹2,01,000; STCG ₹50,000.**",
+    "marking_scheme": [
+      { "point": "Furniture: 1.6 addition full rate; 15.1 addition half rate", "marks": 1 },
+      { "point": "Sale deducted from full-rate portion; furniture dep ₹36,000", "marks": 2 },
+      { "point": "Machine used 163 days → half rate", "marks": 1 },
+      { "point": "P&M dep ₹1,35,000 + ₹30,000 = ₹1,65,000", "marks": 2 },
+      { "point": "Computers: block ceases, STCG ₹50,000 u/s 50", "marks": 2 },
+      { "point": "No depreciation on computers; total ₹2,01,000", "marks": 2 }
+    ]
+  },
+  {
+    "id": "PG-5-06", "node": "PG-5", "unit": "Unit 3B", "type": "short", "marks": 5, "difficulty": "medium",
+    "question": "Explain the provisions of s. 50 on computation of capital gains on depreciable assets.",
+    "model_answer": "- Depreciable assets are treated as **short-term capital assets regardless of holding period**.\n- If sale proceeds of assets sold during the year **exceed** (opening WDV + actual cost of additions), the **excess is STCG**, and the block gets no depreciation.\n- If **all assets of a block are sold** and proceeds are **less than** (opening WDV + additions), the **shortfall is a short-term capital loss**.\n- If the block continues with a positive WDV, no gain or loss arises; the block simply absorbs the proceeds.\n- Logic: the gain represents recovery of depreciation already deducted against normal income, so it is taxed as short-term.",
+    "marking_scheme": [
+      { "point": "Always short-term regardless of period", "marks": 1 },
+      { "point": "Excess over WDV + additions = STCG", "marks": 1 },
+      { "point": "All assets sold with shortfall = STCL", "marks": 1 },
+      { "point": "Continuing block: no gain/loss", "marks": 1 },
+      { "point": "Rationale stated", "marks": 1 }
+    ]
+  },
+  {
+    "id": "PG-6-01", "node": "PG-6", "unit": "Unit 3B", "type": "mcq", "marks": 1, "difficulty": "medium",
+    "question": "Bad debts of ₹10,000 recovered (earlier allowed as deduction) are credited to P&L. In computing business income:",
+    "options": ["A) Deduct ₹10,000", "B) No adjustment; taxable u/s 41(4)", "C) Add ₹10,000", "D) Tax it under IFOS"],
+    "answer": "B",
+    "explanation": "Recovery of a bad debt earlier allowed is business income u/s 41(4); since it is already credited, no adjustment."
+  },
+  {
+    "id": "PG-6-02", "node": "PG-6", "unit": "Unit 3B", "type": "mcq", "marks": 1, "difficulty": "easy",
+    "question": "Under s. 44ADA, the income of an eligible professional with gross receipts of ₹40 lakh is deemed to be:",
+    "options": ["A) 8% of receipts", "B) 6% of receipts", "C) 50% of receipts", "D) 30% of receipts"],
+    "answer": "C",
+    "explanation": "44ADA: 50% of gross receipts (limit ₹50 lakh, ₹75 lakh if cash receipts ≤ 5%)."
+  },
+  {
+    "id": "PG-6-03", "node": "PG-6", "unit": "Unit 3B", "type": "mcq", "marks": 1, "difficulty": "easy",
+    "question": "Advance income-tax paid, debited to P&L, is:",
+    "options": ["A) Allowed", "B) Added back u/s 40(a)(ii)", "C) Allowed under s. 43B", "D) Allowed at 30%"],
+    "answer": "B",
+    "explanation": "Income-tax is a tax on profits, not an expense of earning them."
+  },
+  {
+    "id": "PG-6-04", "node": "PG-6", "unit": "Unit 3B", "type": "mcq", "marks": 1, "difficulty": "medium",
+    "question": "A cash payment of ₹30,000 made to a transporter in one day for hiring a goods carriage is:",
+    "options": ["A) Fully disallowed", "B) Allowed, as the limit for transporters is ₹35,000", "C) 30% disallowed", "D) Allowed up to ₹10,000"],
+    "answer": "B",
+    "explanation": "For payments to transporters for plying, hiring or leasing goods carriages, the cash limit is ₹35,000 per day."
+  },
+  {
+    "id": "PG-6-05", "node": "PG-6", "unit": "Unit 3B", "type": "long", "marks": 10, "difficulty": "hard",
+    "question": "Profit and Loss account of Mr. Sunil, a wholesale trader, for the year ended 31.3.2026:\n\n| Debit | ₹ | Credit | ₹ |\n|---|---|---|---|\n| Salaries (including salary to Mr. Sunil ₹1,20,000) | 4,80,000 | Gross profit | 16,40,000 |\n| Rent of godown | 2,40,000 | Interest on fixed deposit | 20,000 |\n| Advertisement | 60,000 | Dividend from Indian company | 15,000 |\n| Depreciation | 1,00,000 | Bad debts recovered (earlier allowed) | 10,000 |\n| Interest on bank loan for business | 50,000 | Rent from a let-out house | 1,20,000 |\n| Interest on own capital | 30,000 | | |\n| Donation to a political party | 25,000 | | |\n| Advance income-tax | 40,000 | | |\n| Legal expenses (business disputes) | 15,000 | | |\n| Cash paid to a transporter in one day for hiring a truck | 30,000 | | |\n| Furniture purchased | 45,000 | | |\n| Employees' PF contribution deposited after the PF Act due date | 18,000 | | |\n| Provision for gratuity (unapproved fund) | 22,000 | | |\n| Net profit | 6,50,000 | | |\n| **Total** | **18,05,000** | **Total** | **18,05,000** |\n\nDepreciation allowable u/s 32 (including on the furniture purchased) is ₹1,25,000. Compute income under PGBP for AY 2026-27.",
+    "model_answer": "| Particulars | ₹ | ₹ |\n|---|---|---|\n| Net profit per P&L | | 6,50,000 |\n| **Add:** | | |\n| Salary to proprietor — notional | 1,20,000 | |\n| Book depreciation | 1,00,000 | |\n| Interest on own capital — notional | 30,000 | |\n| Donation to political party — not a business expense | 25,000 | |\n| Advance income-tax — s. 40(a)(ii) | 40,000 | |\n| Furniture — capital expenditure | 45,000 | |\n| Employees' PF deposited late — s. 36(1)(va) | 18,000 | |\n| Provision for gratuity — s. 40A(7) | 22,000 | 4,00,000 |\n| | | 10,50,000 |\n| **Less:** | | |\n| Interest on FD — IFOS | 20,000 | |\n| Dividend — IFOS | 15,000 | |\n| Rent from house — House Property | 1,20,000 | |\n| Depreciation u/s 32 | 1,25,000 | 2,80,000 |\n| **Income from business** | | **7,70,000** |\n\nNo adjustment: rent of godown, advertisement, bank interest, legal expenses, cash to transporter (within ₹35,000), bad debts recovered (taxable u/s 41(4)).",
+    "marking_scheme": [
+      { "point": "Proprietor's salary and interest on capital added (notional)", "marks": 1 },
+      { "point": "Book depreciation added; tax depreciation deducted", "marks": 1 },
+      { "point": "Political donation and advance tax added with reasons", "marks": 1 },
+      { "point": "Furniture added as capital", "marks": 1 },
+      { "point": "Late employees' PF and gratuity provision added", "marks": 2 },
+      { "point": "FD interest, dividend, house rent deducted to their heads", "marks": 2 },
+      { "point": "Transporter cash and bad debts recovered correctly left alone", "marks": 1 },
+      { "point": "Final income ₹7,70,000", "marks": 1 }
+    ]
+  },
+  {
+    "id": "PG-6-06", "node": "PG-6", "unit": "Unit 3B", "type": "short", "marks": 5, "difficulty": "easy",
+    "question": "Explain presumptive taxation under ss. 44AD and 44ADA.",
+    "model_answer": "| | 44AD | 44ADA |\n|---|---|---|\n| Who | Resident individual, HUF, firm (not LLP) in eligible business | Resident individual/firm in specified professions (legal, medical, engineering, architecture, accountancy, technical consultancy, interior decoration) |\n| Limit | Turnover ≤ ₹2 crore (₹3 crore if cash receipts ≤ 5%) | Gross receipts ≤ ₹50 lakh (₹75 lakh if cash receipts ≤ 5%) |\n| Deemed income | 8% of turnover; 6% of digital/banking receipts | 50% of gross receipts |\n| Deductions | All ss. 30-38 deductions deemed allowed | Same |\n\nBooks of account u/s 44AA and audit are not required when income is declared at or above the presumptive rate.",
+    "marking_scheme": [
+      { "point": "Eligible assessees for 44AD", "marks": 1 },
+      { "point": "44AD limits and 8%/6% rates", "marks": 1 },
+      { "point": "44ADA professions and limit", "marks": 1 },
+      { "point": "44ADA 50% deemed income", "marks": 1 },
+      { "point": "No separate deductions; books/audit relief", "marks": 1 }
+    ]
+  }
+]

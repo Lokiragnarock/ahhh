@@ -171,14 +171,17 @@ contribution, and the retirement lump sums.
 | Gardener and watchman | 3,000 × 9 | 27,000 |
 | Gas, electricity, water | 2,000 × 9 | 18,000 |
 | Free meals in office | (80 − 50) × 180 | 5,400 |
-| Gift in kind | 12,000 − 5,000 | 7,000 |
+| Gift in kind | ₹12,000 exceeds the ₹5,000 aggregate threshold, so the **whole** amount is taxable, not just the excess | 12,000 |
 | Employer PF above 12% | 14% − 12% = 2% of (96,000 × 9) | 17,280 |
 | RPF interest above 9.5% | 0.5/10 × 80,000 | 4,000 |
-| | | **2,36,250** |
+| | | **2,41,250** |
 
-Two traps in that table. The **education** line is a threshold, not a deduction — at ₹900 the whole
+Three traps in that table. The **education** line is a threshold, not a deduction — at ₹900 the whole
 perquisite is nil, and if it crossed ₹1,000 the treatment of the excess is disputed, so state your
-assumption. The **PF** line uses the ₹96,000 base, not basic alone and not the Rule 3 figure.
+assumption. The **PF** line uses the ₹96,000 base, not basic alone and not the Rule 3 figure. The
+**gift** line is a cliff-edge exemption, not a ₹5,000 deduction: once the aggregate value of gifts and
+vouchers in the year exceeds ₹5,000, the entire amount becomes a taxable perquisite (Rule 3(7)(iv)),
+so ₹12,000 is taxable in full, not ₹12,000 − 5,000. See [[Unit 2 - Perquisites]].
 
 > **[Verify]** The ₹50-per-meal relief is well settled for food served in office premises. Its
 > availability for **meal vouchers** under 115BAC is not — the proviso to 115BAC(2) is read by many
@@ -230,16 +233,16 @@ Retirement benefits taxable: 5,26,923 + 1,40,000 + 8,00,000 + 48,000 = **₹15,1
 |---|---|
 | Monetary salary (Step 1) | 11,14,000 |
 | Taxable allowances (Step 2) | 67,200 |
-| Perquisites (Step 4) | 2,36,250 |
+| Perquisites (Step 4) | 2,41,250 |
 | Profit in lieu of salary (Step 5) | 1,50,000 |
 | Taxable retirement benefits (Step 6) | 15,14,923 |
-| **Gross Salary** | **30,82,373** |
+| **Gross Salary** | **30,87,373** |
 | *Less* standard deduction, Sec 16(ia) — the only Sec 16 deduction 115BAC allows | (75,000) |
-| **Income under the head "Salary"** | **30,07,373** |
+| **Income under the head "Salary"** | **30,12,373** |
 
 ## Step 8 — Tax
 
-No other income, so Gross Total Income = Total Income = ₹30,07,373 (Chapter VI-A is effectively shut
+No other income, so Gross Total Income = Total Income = ₹30,12,373 (Chapter VI-A is effectively shut
 under 115BAC; only 80CCD(2) would have applied, and there is no employer NPS contribution here).
 
 | Slab | Rate | Tax ₹ |
@@ -250,11 +253,11 @@ under 115BAC; only 80CCD(2) would have applied, and there is no employer NPS con
 | 12,00,001 – 16,00,000 | 15% | 60,000 |
 | 16,00,001 – 20,00,000 | 20% | 80,000 |
 | 20,00,001 – 24,00,000 | 25% | 1,00,000 |
-| Balance 6,07,373 | 30% | 1,82,212 |
-| **Tax** | | **4,82,212** |
+| Balance 6,12,373 | 30% | 1,83,712 |
+| **Tax** | | **4,83,712** |
 | Surcharge — income below ₹50L | | nil |
-| Health & education cess @ 4% | | 19,288 |
-| **Total tax payable (rounded off, Sec 288B)** | | **₹5,01,500** |
+| Health & education cess @ 4% | | 19,348 |
+| **Total tax payable (rounded off, Sec 288B)** | | **₹5,03,060** |
 
 No 87A rebate: that dies above ₹12,00,000 of total income.
 

@@ -50,7 +50,7 @@ The practical effect is severe on the taxpayer, and that is the point of the rul
 
 ## The illustration
 
-Completion 31 May 2025, let out from 1 August 2025.
+**Problem.** Construction completed 31 May 2025; the property is let out from 1 August 2025. For the full year, MRV ₹60,000, FRV ₹66,000, standard rent ₹63,000. Actual rent ₹6,000 p.m. Find the GAV for the previous year 2025-26.
 
 | Step | Working | ₹ |
 |---|---|---|

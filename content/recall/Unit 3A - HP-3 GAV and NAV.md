@@ -119,7 +119,7 @@ Two cases, one changed figure, and they demonstrate the whole of step 3. In (a) 
 
 ## Illustration 2, vacancy
 
-MRV 60,000; FRV 66,000; standard rent 69,000; actual rent ₹7,000 p.m.
+**Problem.** MRV 60,000; FRV 66,000; standard rent 69,000; actual rent ₹7,000 p.m.; **property vacant for 2 months of the year**. Find the GAV.
 
 | Step | ₹ |
 |---|---|
@@ -128,11 +128,13 @@ MRV 60,000; FRV 66,000; standard rent 69,000; actual rent ₹7,000 p.m.
 | Less: Vacancy 2 months (7,000 × 2) | (14,000) |
 | **GROSS ANNUAL VALUE** | **70,000** |
 
-**Variation from the same problem.** If the actual rent were ₹4,000 p.m., that is ₹48,000 for the year. The ERV of ₹66,000 is now the higher, so ARV = ₹66,000. Less vacancy (4,000 × 2 = 8,000), giving **GAV ₹58,000**.
+**Variation from the same problem.** All facts as above, except the actual rent is ₹4,000 p.m. (still vacant 2 months). That is ₹48,000 for the year. The ERV of ₹66,000 is now the higher, so ARV = ₹66,000. Less vacancy (4,000 × 2 = 8,000), giving **GAV ₹58,000**.
+
+> **Method note:** this note's method compares ERV with actual rent *before* deducting vacancy (per Gaur & Narang / Mehrotra, the textbook this course follows), so vacancy is subtracted from the ERV here even though actual rent was already below ERV without the vacancy. The alternative statutory reading of s. 23(1)(c) (the ICAI approach) holds that when actual rent is below ERV for a reason including vacancy, GAV is simply the ERV (₹66,000 here, no separate vacancy deduction) — confirm with faculty which method your exam expects.
 
 Look carefully at that variation, because it contains a detail students get wrong. The ARV was taken as the ERV, ₹66,000, but the **vacancy is still deducted at the actual monthly rent of ₹4,000**, not at one-sixth of the ERV. The vacancy deduction is the rent that was actually lost during the empty months, and the rent actually lost is the rent the tenant was actually paying.
 
-**Also from the same problem:** if the house is vacant for the full year, GAV is NIL.
+**Also from the same problem:** if the house is vacant for the full year (still MRV 60,000; FRV 66,000; SR 69,000), the GAV is NIL.
 
 ## Illustration 3, unrealised rent and vacancy together
 

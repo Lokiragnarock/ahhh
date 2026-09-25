@@ -1,0 +1,174 @@
+[
+  {
+    "id": "SAL-1-01", "node": "SAL-1", "unit": "Unit 2", "type": "mcq", "marks": 1, "difficulty": "easy",
+    "question": "Salary is chargeable to tax on:",
+    "options": ["A) Receipt basis only", "B) Due basis only", "C) Due or receipt basis, whichever is earlier", "D) The basis chosen by the employer"],
+    "answer": "C",
+    "explanation": "Section 15 taxes salary when it falls due or when it is received, whichever is earlier."
+  },
+  {
+    "id": "SAL-1-02", "node": "SAL-1", "unit": "Unit 2", "type": "mcq", "marks": 1, "difficulty": "easy",
+    "question": "Under the new regime (s. 115BAC), HRA of ₹2,40,000 received by an employee who pays rent of ₹3,00,000 in a metro city is:",
+    "options": ["A) Fully exempt", "B) Exempt to the least of three limits", "C) Fully taxable", "D) Exempt up to ₹1,00,000"],
+    "answer": "C",
+    "explanation": "The s. 10(13A) HRA exemption is withdrawn under 115BAC, so the whole HRA is taxable regardless of rent paid."
+  },
+  {
+    "id": "SAL-1-03", "node": "SAL-1", "unit": "Unit 2", "type": "mcq", "marks": 1, "difficulty": "medium",
+    "question": "Which allowance continues to be exempt (to the prescribed extent) under the new regime?",
+    "options": ["A) Children education allowance", "B) Hostel expenditure allowance", "C) Transport allowance to a disabled employee", "D) Tribal area allowance"],
+    "answer": "C",
+    "explanation": "Rule 2BB exemptions preserved under 115BAC: transport allowance for specially-abled (₹3,200 p.m.), conveyance, travelling and daily allowance for official duty. The others are fully taxable."
+  },
+  {
+    "id": "SAL-1-04", "node": "SAL-1", "unit": "Unit 2", "type": "mcq", "marks": 1, "difficulty": "medium",
+    "question": "Commission received by an independent insurance agent (not an employee) is taxable under:",
+    "options": ["A) Salaries", "B) Profits and Gains of Business or Profession", "C) Income from Other Sources only", "D) It is exempt"],
+    "answer": "B",
+    "explanation": "Salary requires an employer-employee relationship. An independent agent's commission is business/professional income."
+  },
+  {
+    "id": "SAL-1-05", "node": "SAL-1", "unit": "Unit 2", "type": "short", "marks": 5, "difficulty": "medium",
+    "question": "Mr. Dev (not disabled) receives the following allowances during PY 2025-26 and is taxed under the new regime: HRA ₹1,80,000 (rent paid ₹2,40,000); children education allowance ₹200 p.m. per child for 2 children; conveyance allowance for official duty ₹30,000, of which ₹24,000 was spent on official travel; daily allowance on official tour ₹15,000, fully spent; city compensatory allowance ₹12,000. Compute the taxable amount of allowances.",
+    "model_answer": "| Allowance | Received | Exempt | Taxable |\n|---|---|---|---|\n| HRA (no exemption under 115BAC) | 1,80,000 | — | 1,80,000 |\n| Children education 200 × 2 × 12 | 4,800 | — | 4,800 |\n| Conveyance for official duty | 30,000 | 24,000 (spent) | 6,000 |\n| Daily allowance on tour | 15,000 | 15,000 | — |\n| City compensatory allowance | 12,000 | — | 12,000 |\n| **Taxable allowances** | | | **2,02,800** |",
+    "marking_scheme": [
+      { "point": "HRA fully taxable with reason (115BAC)", "marks": 1 },
+      { "point": "Children education allowance fully taxable (₹4,800)", "marks": 1 },
+      { "point": "Conveyance: exempt to extent spent, ₹6,000 taxable", "marks": 1 },
+      { "point": "Daily allowance fully exempt", "marks": 1 },
+      { "point": "CCA taxable and correct total ₹2,02,800", "marks": 1 }
+    ]
+  },
+  {
+    "id": "SAL-2-01", "node": "SAL-2", "unit": "Unit 2", "type": "mcq", "marks": 1, "difficulty": "easy",
+    "question": "Rent-free accommodation owned by the employer in a city with population above 40 lakh (as per 2011 census) is valued at:",
+    "options": ["A) 15% of salary", "B) 10% of salary", "C) 7.5% of salary", "D) 5% of salary"],
+    "answer": "B",
+    "explanation": "Revised Rule 3 bands: 10% (> 40 lakh), 7.5% (15-40 lakh), 5% (other places)."
+  },
+  {
+    "id": "SAL-2-02", "node": "SAL-2", "unit": "Unit 2", "type": "mcq", "marks": 1, "difficulty": "medium",
+    "question": "An employer provides a 2,000 cc car with a chauffeur to a specified employee for both official and personal use; the employer bears all expenses. The annual perquisite value is:",
+    "options": ["A) ₹21,600", "B) ₹28,800", "C) ₹39,600", "D) ₹32,400"],
+    "answer": "C",
+    "explanation": "Engine above 1.6 litres: ₹2,400 p.m. + ₹900 p.m. for chauffeur = ₹3,300 × 12 = ₹39,600."
+  },
+  {
+    "id": "SAL-2-03", "node": "SAL-2", "unit": "Unit 2", "type": "mcq", "marks": 1, "difficulty": "medium",
+    "question": "An employee receives gift vouchers worth ₹6,500 from the employer during the year. The taxable perquisite is:",
+    "options": ["A) Nil", "B) ₹1,500", "C) ₹6,500", "D) ₹5,000"],
+    "answer": "C",
+    "explanation": "Gifts/vouchers below ₹5,000 in aggregate are exempt; once the limit is crossed the whole amount is taxable."
+  },
+  {
+    "id": "SAL-2-04", "node": "SAL-2", "unit": "Unit 2", "type": "mcq", "marks": 1, "difficulty": "hard",
+    "question": "For AY 2026-27, an employee who is not a director and holds no shares earns monetary salary of ₹3,60,000. Free gardener services provided by the employer are:",
+    "options": ["A) Taxable, as salary exceeds ₹50,000", "B) Not taxable, as he is not a specified employee", "C) Taxable for all employees", "D) Exempt up to ₹1,000 p.m."],
+    "answer": "B",
+    "explanation": "The specified-employee salary threshold is ₹4,00,000 from FY 2025-26 (CBDT Notification 133/2025). Salary ₹3,60,000 is below it, so services of gardener/sweeper/watchman provided by the employer are not taxable."
+  },
+  {
+    "id": "SAL-2-05", "node": "SAL-2", "unit": "Unit 2", "type": "long", "marks": 10, "difficulty": "hard",
+    "question": "Mr. Zubin is a director of Alpha Ltd, posted in a city with population above 40 lakh (2011 census). For PY 2025-26 (all 12 months):\n- Basic salary ₹10,00,000; DA ₹2,00,000 (forms part of retirement benefits); bonus ₹1,00,000; commission ₹50,000 (fixed % of turnover).\n- Rent-free flat owned by the company; furniture costing ₹2,00,000 provided; rent recovered from him ₹5,000 p.m.\n- Company car of 1,500 cc with chauffeur, used for official and personal purposes; all expenses borne by the company.\n- Interest-free loan of ₹4,00,000 for purchasing a personal car, outstanding for the whole year; SBI lending rate on 1.4.2025 for such loans: 9%.\n- Diwali gift voucher ₹7,000.\n- Gardener engaged and paid by the company ₹3,000 p.m.\n\nCompute the value of taxable perquisites.",
+    "model_answer": "**Salary for accommodation (Rule 3):** basic 10,00,000 + DA forming part 2,00,000 + bonus 1,00,000 + commission 50,000 = **₹13,50,000**.\n\n| Perquisite | Working | ₹ |\n|---|---|---|\n| Rent-free flat | 10% × 13,50,000 | 1,35,000 |\n| Furniture | 10% × 2,00,000 | 20,000 |\n| Less: rent recovered | 5,000 × 12 | (60,000) |\n| Accommodation | | 95,000 |\n| Car ≤ 1.6 L, mixed use + chauffeur | (1,800 + 900) × 12 | 32,400 |\n| Interest-free loan (> ₹20,000) | 4,00,000 × 9% | 36,000 |\n| Gift voucher (≥ ₹5,000, whole taxable) | | 7,000 |\n| Gardener (director = specified employee) | 3,000 × 12 | 36,000 |\n| **Total perquisites** | | **2,06,400** |",
+    "marking_scheme": [
+      { "point": "Salary for RFA includes bonus and commission, total ₹13,50,000", "marks": 1 },
+      { "point": "10% rate applied for population above 40 lakh", "marks": 1 },
+      { "point": "Furniture at 10% of cost", "marks": 1 },
+      { "point": "Rent recovered deducted, accommodation ₹95,000", "marks": 1 },
+      { "point": "Car ₹1,800 + ₹900 chauffeur for ≤ 1.6 L, ₹32,400", "marks": 2 },
+      { "point": "Loan perquisite at SBI rate ₹36,000", "marks": 1 },
+      { "point": "Gift voucher fully taxable ₹7,000", "marks": 1 },
+      { "point": "Gardener taxable as director is specified employee; total ₹2,06,400", "marks": 2 }
+    ]
+  },
+  {
+    "id": "SAL-3-01", "node": "SAL-3", "unit": "Unit 2", "type": "mcq", "marks": 1, "difficulty": "easy",
+    "question": "Employer's contribution to a recognised provident fund is exempt up to:",
+    "options": ["A) 10% of salary", "B) 12% of salary", "C) 14% of salary", "D) ₹1,50,000"],
+    "answer": "B",
+    "explanation": "The excess over 12% of salary is taxable as salary."
+  },
+  {
+    "id": "SAL-3-02", "node": "SAL-3", "unit": "Unit 2", "type": "mcq", "marks": 1, "difficulty": "medium",
+    "question": "A non-government employee receiving gratuity commutes 50% of pension and receives ₹4,00,000. The exempt commuted pension is:",
+    "options": ["A) ₹1,33,333", "B) ₹2,66,667", "C) ₹4,00,000", "D) ₹2,00,000"],
+    "answer": "B",
+    "explanation": "Full (100%) commuted value = 4,00,000 / 50% = 8,00,000. With gratuity, 1/3 of full value is exempt = ₹2,66,667."
+  },
+  {
+    "id": "SAL-3-03", "node": "SAL-3", "unit": "Unit 2", "type": "mcq", "marks": 1, "difficulty": "medium",
+    "question": "The statutory ceiling on exemption of leave encashment for non-government employees for AY 2026-27 is:",
+    "options": ["A) ₹3,00,000", "B) ₹10,00,000", "C) ₹20,00,000", "D) ₹25,00,000"],
+    "answer": "D",
+    "explanation": "Raised to ₹25 lakh by CBDT Notification 31/2023 from 1.4.2023."
+  },
+  {
+    "id": "SAL-3-04", "node": "SAL-3", "unit": "Unit 2", "type": "mcq", "marks": 1, "difficulty": "medium",
+    "question": "On withdrawal from an unrecognised provident fund, interest on the employee's own contribution is taxable as:",
+    "options": ["A) Profit in lieu of salary", "B) Income from Other Sources", "C) Capital gains", "D) Exempt"],
+    "answer": "B",
+    "explanation": "Employer's contribution and interest on it → profit in lieu of salary; interest on employee's own contribution → IFOS."
+  },
+  {
+    "id": "SAL-3-05", "node": "SAL-3", "unit": "Unit 2", "type": "long", "marks": 10, "difficulty": "hard",
+    "question": "Ms. Kavitha, a non-government employee covered by the Payment of Gratuity Act, retired on 30.9.2025 after 25 years 8 months of service. Throughout her last 10 months her basic salary was ₹60,000 p.m. and DA ₹10,000 p.m. (DA forms part of retirement benefits).\n- Gratuity received ₹12,00,000.\n- Leave encashment received ₹8,00,000. Leave entitlement 30 days for every completed year of service; she availed 450 days during service.\n- Pension ₹30,000 p.m. from 1.10.2025. On 1.10.2025 she commuted 40% of pension and received ₹6,00,000.\n\nCompute the taxable portion of gratuity, leave encashment and pension for AY 2026-27.",
+    "model_answer": "**Gratuity (PG Act)** — years: 25 y 8 m → 26 (part-year > 6 months rounds up). Salary = 70,000.\nLeast of: actual 12,00,000; 15/26 × 70,000 × 26 = **10,50,000**; ceiling 20,00,000 → exempt 10,50,000. **Taxable ₹1,50,000.**\n\n**Leave encashment** — completed years 25 → entitlement 750 days − 450 availed = 300 days. Average salary 70,000.\nLeast of: actual 8,00,000; 10 × 70,000 = 7,00,000; 300/30 × 70,000 = 7,00,000; ceiling 25,00,000 → exempt 7,00,000. **Taxable ₹1,00,000.**\n\n**Commuted pension** — full value = 6,00,000 / 40% = 15,00,000; gratuity received → 1/3 exempt = 5,00,000. **Taxable ₹1,00,000.**\n\n**Uncommuted pension** — 60% × 30,000 × 6 months = **₹1,08,000** taxable.\n\n**Total taxable ₹4,58,000.**",
+    "marking_scheme": [
+      { "point": "Gratuity years rounded to 26", "marks": 1 },
+      { "point": "Gratuity 15/26 formula ₹10,50,000 and taxable ₹1,50,000", "marks": 2 },
+      { "point": "Leave: completed 25 years, 300 days balance", "marks": 1 },
+      { "point": "Leave: four limits, taxable ₹1,00,000", "marks": 2 },
+      { "point": "Commuted pension: full value ₹15 lakh, 1/3 exempt", "marks": 2 },
+      { "point": "Uncommuted pension ₹1,08,000 and total ₹4,58,000", "marks": 2 }
+    ]
+  },
+  {
+    "id": "SAL-4-01", "node": "SAL-4", "unit": "Unit 2", "type": "mcq", "marks": 1, "difficulty": "easy",
+    "question": "Under the new regime for AY 2026-27, the deduction(s) allowed u/s 16 is/are:",
+    "options": ["A) Standard deduction ₹50,000 and professional tax", "B) Standard deduction ₹75,000 only", "C) Entertainment allowance and professional tax", "D) None"],
+    "answer": "B",
+    "explanation": "Only s. 16(ia) standard deduction of ₹75,000 is allowed under 115BAC."
+  },
+  {
+    "id": "SAL-4-02", "node": "SAL-4", "unit": "Unit 2", "type": "mcq", "marks": 1, "difficulty": "medium",
+    "question": "Employer's contribution to NPS of ₹90,000 (10% of basic + DA) is treated under the new regime as:",
+    "options": ["A) Exempt and ignored", "B) Included in salary and deducted u/s 80CCD(2)", "C) Taxable with no deduction", "D) Deducted u/s 16"],
+    "answer": "B",
+    "explanation": "It is a perquisite u/s 17(1)(viii) and then deductible u/s 80CCD(2) up to 14% of salary under the new regime."
+  },
+  {
+    "id": "SAL-4-03", "node": "SAL-4", "unit": "Unit 2", "type": "short", "marks": 5, "difficulty": "easy",
+    "question": "Give the format for computation of income under the head Salaries under the new regime and explain the treatment of Section 16 deductions.",
+    "model_answer": "```\nBasic salary                               xxx\nDearness allowance                         xxx\nBonus / commission                         xxx\nTaxable allowances (HRA, most 10(14))      xxx\nTaxable perquisites                        xxx\nProfit in lieu of salary 17(3)             xxx\nTaxable retirement benefits, pension       xxx\nEmployer's NPS contribution 17(1)(viii)    xxx\nGROSS SALARY                               xxx\nLess: Standard deduction 16(ia)          (75,000)\nINCOME UNDER THE HEAD SALARIES             xxx\n```\nSection 16 has three deductions: standard deduction 16(ia), entertainment allowance 16(ii) and professional tax 16(iii). Under s. 115BAC only the **standard deduction of ₹75,000** is allowed; entertainment allowance and professional tax are not deductible.",
+    "marking_scheme": [
+      { "point": "Monetary components listed (basic, DA, bonus, commission)", "marks": 1 },
+      { "point": "Allowances and perquisites included", "marks": 1 },
+      { "point": "Retirement benefits / profit in lieu included", "marks": 1 },
+      { "point": "Standard deduction ₹75,000 as the only s. 16 deduction", "marks": 1 },
+      { "point": "16(ii) and 16(iii) not allowed under new regime", "marks": 1 }
+    ]
+  },
+  {
+    "id": "SAL-5-01", "node": "SAL-5", "unit": "Unit 2", "type": "mcq", "marks": 1, "difficulty": "medium",
+    "question": "Service of 28 years 7 months. Years counted for gratuity (PG Act) and for leave encashment respectively:",
+    "options": ["A) 28 and 28", "B) 29 and 29", "C) 29 and 28", "D) 28 and 29"],
+    "answer": "C",
+    "explanation": "Gratuity under the PG Act rounds a part-year over 6 months up; leave encashment counts completed years only."
+  },
+  {
+    "id": "SAL-5-02", "node": "SAL-5", "unit": "Unit 2", "type": "long", "marks": 10, "difficulty": "hard",
+    "question": "Mr. Ravi, employed in Chennai (not disabled), is taxed under the new regime for PY 2025-26 (12 months):\n- Basic ₹70,000 p.m.; DA ₹14,000 p.m. (50% of DA forms part of retirement benefits); HRA ₹20,000 p.m. (rent paid ₹25,000 p.m.)\n- Children education allowance ₹1,000 p.m. (total for his children)\n- Transport allowance ₹3,200 p.m. (he is not disabled)\n- Bonus ₹1,00,000\n- Employer's contribution to RPF: 15% of basic\n- Interest-free loan of ₹3,00,000 for personal purposes outstanding all year; SBI rate 9%\n- Gift voucher ₹4,000\n- Employer's contribution to NPS: 10% of basic\n\nCompute income under the head Salaries, total income and tax payable (ignore marginal relief; no other income).",
+    "model_answer": "| Particulars | ₹ |\n|---|---|\n| Basic 70,000 × 12 | 8,40,000 |\n| DA 14,000 × 12 | 1,68,000 |\n| HRA 20,000 × 12 (fully taxable, 115BAC) | 2,40,000 |\n| Children education allowance | 12,000 |\n| Transport allowance 3,200 × 12 (not disabled → taxable) | 38,400 |\n| Bonus | 1,00,000 |\n| Employer RPF: 15% × 8,40,000 = 1,26,000 − 12% × (8,40,000 + 84,000) = 1,10,880 | 15,120 |\n| Interest-free loan 3,00,000 × 9% | 27,000 |\n| Gift voucher (< ₹5,000) | Nil |\n| Employer's NPS contribution 17(1)(viii) | 84,000 |\n| **Gross salary** | **15,24,520** |\n| Less: standard deduction | (75,000) |\n| **Income from salary = GTI** | **14,49,520** |\n| Less: 80CCD(2) (within 14% of basic + DA) | (84,000) |\n| **Total income** | **13,65,520** |\n\nTax: 60,000 + 15% × 1,65,520 = 60,000 + 24,828 = 84,828; no 87A (TI > ₹12L); cess 4% = 3,393; **tax payable ₹88,220** (rounded).",
+    "marking_scheme": [
+      { "point": "Basic, DA, bonus correctly included", "marks": 1 },
+      { "point": "HRA fully taxable with reason", "marks": 1 },
+      { "point": "Transport allowance taxable as not disabled; CEA taxable", "marks": 1 },
+      { "point": "RPF excess using basic + retirement DA ₹15,120", "marks": 2 },
+      { "point": "Loan perquisite ₹27,000; gift voucher nil", "marks": 1 },
+      { "point": "Employer NPS included then deducted u/s 80CCD(2)", "marks": 2 },
+      { "point": "Standard deduction and total income ₹13,65,520", "marks": 1 },
+      { "point": "Tax with cess ₹88,220", "marks": 1 }
+    ]
+  }
+]
