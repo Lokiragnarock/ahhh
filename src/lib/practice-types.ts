@@ -62,6 +62,12 @@ export interface ErrorEntry {
 export type Round = "R1" | "R2" | "R3";
 export const ROUNDS: Round[] = ["R1", "R2", "R3"];
 
+// Round completion: per node, the ISO date each round was marked done.
+export interface RoundsState {
+  topics: Record<string, Partial<Record<Round, string>>>;
+  r3Complete?: string;
+}
+
 export interface BlockLog {
   id: string;
   round: Round;

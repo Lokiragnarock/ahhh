@@ -18,6 +18,8 @@ import {
   useErrors,
 } from "@/lib/practice-store";
 import { EMPTY_FIELDS, ErrorFieldValues, ErrorFields } from "./ErrorFields";
+import { MarkRoundPrompt } from "./Rounds";
+import type { Step } from "@/lib/flow";
 
 type Sessions = Record<string, SessionState>;
 
@@ -26,6 +28,7 @@ interface Props {
   kind: TestKind;
   scope: string;
   resolveEntryId?: string;
+  next?: Step;
 }
 
 function build(pool: RenderedQuestion[], kind: TestKind, scope: string): Paper {
@@ -98,7 +101,7 @@ export function scorePaper(paper: Paper, answers: Record<string, AnswerState>, q
   return { results, score, max };
 }
 
-export function TestRunner({ pool, kind, scope, resolveEntryId }: Props) {
+export function TestRunner({ pool, kind, scope, resolveEntryId, next }: Props) {
   const key = `${kind}:${scope}`;
   const qmap = useMemo(() => new Map(pool.map((q) => [q.id, q])), [pool]);
   const [session, setSession] = useState<SessionState | null>(null);
@@ -245,6 +248,7 @@ export function TestRunner({ pool, kind, scope, resolveEntryId }: Props) {
             qmap={qmap}
             resolveEntryId={resolveEntryId}
             onRestart={restart}
+            next={next}
           />
         )}
 
@@ -519,6 +523,7 @@ function Results({
   qmap,
   resolveEntryId,
   onRestart,
+  next,
 }: {
   paper: Paper;
   kind: TestKind;
@@ -527,6 +532,7 @@ function Results({
   qmap: Map<string, RenderedQuestion>;
   resolveEntryId?: string;
   onRestart: () => void;
+  next?: Step;
 }) {
   const { results, score, max } = attempt ?? scorePaper(paper, answers, qmap);
 
@@ -555,11 +561,23 @@ function Results({
           <div className="sp-label">Time</div>
           <div className="text-[28px] font-semibold leading-none tabular-nums">{fmtClock(secs * 1000)}</div>
         </div>
+        {next && (
+          <Link href={next.href} className="sp-btn ml-auto">
+            {next.label}
+          </Link>
+        )}
       </div>
 
       <MissList kind={kind} misses={misses} answers={answers} qmap={qmap} />
 
+      {kind === "mini" && <MarkRoundPrompt node={paper.scope} />}
+
       <div className="flex flex-wrap gap-3 mt-6">
+        {next && (
+          <Link href={next.href} className="sp-btn">
+            {next.label}
+          </Link>
+        )}
         <button type="button" className="sp-btn sp-btn-ghost" onClick={onRestart}>
           {kind === "mini" ? "Retake" : "New paper"}
         </button>

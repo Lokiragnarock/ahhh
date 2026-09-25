@@ -1,6 +1,8 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getTopic } from "@/lib/vault";
+import { FlowBar } from "@/components/study/FlowBar";
+import { getTopicFlow } from "@/lib/flow";
 import { MermaidMap } from "@/components/study/MermaidMap";
 import { NodeChecklist, ChecklistNode } from "@/components/study/NodeChecklist";
 import { MarkMappedPill } from "@/components/study/MarkMappedPill";
@@ -27,13 +29,14 @@ function parseMermaidNodes(mermaidText: string): ChecklistNode[] {
 
 export default async function RevealPage({ params }: { params: { slug: string } }) {
   const slug = decodeURIComponent(params.slug);
-  const topic = await getTopic(slug);
-  if (!topic) notFound();
+  const [topic, flow] = await Promise.all([getTopic(slug), getTopicFlow(slug)]);
+  if (!topic || !flow) notFound();
 
   const nodes = topic.mermaid ? parseMermaidNodes(topic.mermaid) : [];
 
   return (
     <main className="sp-page">
+      <FlowBar flow={flow} current="reveal" />
       <div className="px-5 py-10">
         <div className="max-w-[1200px] mx-auto mb-4">
           <Link href="/" className="text-[12px] uppercase tracking-[0.08em] text-[#888] hover:text-[#111]">

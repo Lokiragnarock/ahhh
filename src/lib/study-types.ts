@@ -28,7 +28,8 @@ export interface TopicNode {
   slug: string; // filename without extension, used in routes
   title: string; // display title, from the note's H1
   docTitle: string; // frontmatter `title`, kept for sidebar/reference
-  section: string; // unit label, derived from filename prefix e.g. "Unit 3A"
+  section: string; // frontmatter `section` (e.g. "3.1"), else the filename prefix
+  unit: string; // unit label from the filename prefix, e.g. "Unit 3A"
   minutes: number;
   deps: string[];
   state: TopicState;

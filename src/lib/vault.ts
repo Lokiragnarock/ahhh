@@ -136,6 +136,7 @@ function parseNote(filename: string, raw: string): TopicNode | null {
     title,
     docTitle: typeof data.title === "string" ? data.title : title,
     section: typeof data.section === "string" ? data.section : sectionFromFilename(filename),
+    unit: sectionFromFilename(filename),
     minutes,
     deps: Array.isArray(data.deps) ? data.deps.map(String) : [],
     state,
@@ -178,22 +179,28 @@ export async function getTopic(slug: string): Promise<TopicNode | null> {
   }
 }
 
-export async function getUnitGroups(): Promise<UnitGroup[]> {
+const natural = (a: string, b: string) => a.localeCompare(b, undefined, { numeric: true });
+
+// Study order: units in natural order (Unit 1, 2, 3A, 3B, 4A...), then node number within a unit.
+export async function getOrderedTopics(): Promise<TopicNode[]> {
   const topics = await getAllTopics();
+  return topics.sort((a, b) => natural(a.unit, b.unit) || natural(a.id, b.id));
+}
+
+export async function getUnitGroups(): Promise<UnitGroup[]> {
+  const topics = await getOrderedTopics();
   const groups = new Map<string, TopicNode[]>();
   for (const topic of topics) {
-    const list = groups.get(topic.section) ?? [];
+    const list = groups.get(topic.unit) ?? [];
     list.push(topic);
-    groups.set(topic.section, list);
+    groups.set(topic.unit, list);
   }
-  return Array.from(groups.entries())
-    .map(([id, topicsList]) => ({
-      id,
-      label: id,
-      minutes: topicsList.reduce((s, t) => s + t.minutes, 0),
-      topics: topicsList,
-    }))
-    .sort((a, b) => a.id.localeCompare(b.id));
+  return Array.from(groups.entries()).map(([id, topicsList]) => ({
+    id,
+    label: id,
+    minutes: topicsList.reduce((s, t) => s + t.minutes, 0),
+    topics: topicsList,
+  }));
 }
 
 export async function setTopicState(slug: string, state: TopicState): Promise<boolean> {

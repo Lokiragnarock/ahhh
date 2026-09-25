@@ -1,6 +1,8 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getTopic } from "@/lib/vault";
+import { FlowBar } from "@/components/study/FlowBar";
+import { getTopicFlow } from "@/lib/flow";
 import { RedrawDonePill } from "@/components/study/RedrawDonePill";
 
 // Screen 4: Redraw prompt. Same no-chrome pattern as Focus. No reference
@@ -9,11 +11,12 @@ export const dynamic = "force-dynamic";
 
 export default async function RedrawPage({ params }: { params: { slug: string } }) {
   const slug = decodeURIComponent(params.slug);
-  const topic = await getTopic(slug);
-  if (!topic) notFound();
+  const [topic, flow] = await Promise.all([getTopic(slug), getTopicFlow(slug)]);
+  if (!topic || !flow) notFound();
 
   return (
     <main className="sp-page">
+      <FlowBar flow={flow} current="redraw" />
       <div className="sp-focus-column">
         <div className="sp-label mb-3">{topic.id}</div>
         <h1 className="sp-h1 mb-4">Draw the map from memory.</h1>

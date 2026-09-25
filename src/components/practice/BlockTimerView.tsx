@@ -6,6 +6,7 @@ import { Round, ROUNDS } from "@/lib/practice-types";
 import {
   blockElapsed,
   blockPhase,
+  currentRound,
   dayKey,
   finishBlock,
   fmtClock,
@@ -15,6 +16,7 @@ import {
   uid,
   useBlocks,
   useBlockTimer,
+  useRounds,
 } from "@/lib/practice-store";
 import { PageHead, RepsStrip, Stat } from "./bits";
 
@@ -27,10 +29,12 @@ export function BlockTimerView({ nodes }: { nodes: { id: string; title: string; 
   const [node, setNode] = useState("");
   const [now, setNow] = useState(() => Date.now());
 
+  const [roundState, , roundsReady] = useRounds();
+  const current = currentRound(roundState, nodes.map((n) => n.id));
+
   useEffect(() => {
-    const last = blocks[blocks.length - 1];
-    if (last) setRound(last.round);
-  }, [blocks]);
+    if (roundsReady) setRound(current);
+  }, [roundsReady, current]);
 
   useEffect(() => {
     if (!timer?.runningSince) return;
@@ -92,6 +96,7 @@ export function BlockTimerView({ nodes }: { nodes: { id: string; title: string; 
                     className={`sp-btn ${round === r ? "" : "sp-btn-ghost"}`}
                   >
                     {r}
+                    {r === current && roundsReady ? " · current" : ""}
                   </button>
                 ))}
               </div>

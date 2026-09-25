@@ -96,17 +96,12 @@ export interface UnitIndex {
   nodes: NodeIndex[];
 }
 
-function unitFromSlug(slug: string): string {
-  const i = slug.indexOf(" - ");
-  return i === -1 ? slug : slug.slice(0, i).trim();
-}
-
 // Units -> nodes, merging question-bank nodes with topic notes from the vault.
 export async function getPracticeIndex(): Promise<{ questions: RenderedQuestion[]; units: UnitIndex[] }> {
   const [questions, topics] = await Promise.all([getQuestions(), getAllTopics()]);
   const nodes = new Map<string, NodeIndex>();
   for (const t of topics) {
-    nodes.set(t.id, { id: t.id, unit: unitFromSlug(t.slug), title: t.title.replace(new RegExp(`^${t.id}\\s*[—–-]\\s*`), ""), slug: t.slug, qCount: 0 });
+    nodes.set(t.id, { id: t.id, unit: t.unit, title: t.title.replace(new RegExp(`^(${t.id}|${t.unit})\\s*[—–-]\\s*`), ""), slug: t.slug, qCount: 0 });
   }
   for (const q of questions) {
     const n = nodes.get(q.node) ?? { id: q.node, unit: q.unit, title: q.node, qCount: 0 };

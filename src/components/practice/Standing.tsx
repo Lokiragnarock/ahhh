@@ -1,17 +1,19 @@
 "use client";
 
-import { ERROR_TYPES, ROUNDS } from "@/lib/practice-types";
+import { ERROR_TYPES, ROUNDS, RoundsState } from "@/lib/practice-types";
 import {
   CLOCK_START,
   countByType,
   fmtDate,
   minutesByRound,
   pct,
+  roundCount,
   SeriesPoint,
   seriesBy,
   useAttempts,
   useBlocks,
   useErrors,
+  useRounds,
 } from "@/lib/practice-store";
 import { PageHead, RepsStrip, Sparkline, Stat } from "./bits";
 
@@ -28,6 +30,7 @@ export function Standing({ units }: { units: UnitLite[] }) {
   const [attempts] = useAttempts();
   const [errors] = useErrors();
   const [blocks] = useBlocks();
+  const [roundState] = useRounds();
 
   const byUnit = seriesBy(attempts, "unit");
   const byNode = seriesBy(attempts, "node");
@@ -79,7 +82,7 @@ export function Standing({ units }: { units: UnitLite[] }) {
             </thead>
             <tbody>
               {allUnits.map((u) => (
-                <UnitRows key={u.unit} u={u} unitSeries={byUnit.get(u.unit) ?? []} byNode={byNode} />
+                <UnitRows key={u.unit} u={u} unitSeries={byUnit.get(u.unit) ?? []} byNode={byNode} rounds={roundState} />
               ))}
             </tbody>
           </table>
@@ -144,16 +147,26 @@ function UnitRows({
   u,
   unitSeries,
   byNode,
+  rounds,
 }: {
   u: UnitLite;
   unitSeries: SeriesPoint[];
   byNode: Map<string, SeriesPoint[]>;
+  rounds: RoundsState;
 }) {
+  const ids = u.nodes.map((n) => n.id);
   const us = summary(unitSeries);
   return (
     <>
       <tr className="border-t border-[#111]">
-        <td className="py-2.5 font-bold uppercase tracking-[0.05em] text-[12px]">{u.unit}</td>
+        <td className="py-2.5">
+          <span className="font-bold uppercase tracking-[0.05em] text-[12px]">{u.unit}</span>
+          {ids.length > 0 && (
+            <span className="ml-3 text-[11.5px] text-[#888] tabular-nums">
+              {ROUNDS.map((r) => `${r} ${roundCount(rounds, ids, r)}/${ids.length}`).join(" · ")}
+            </span>
+          )}
+        </td>
         <Cells s={us} series={unitSeries} bold />
       </tr>
       {u.nodes.map((n) => {
@@ -162,6 +175,9 @@ function UnitRows({
           <tr key={n.id} className="border-t border-[#eee]">
             <td className="py-2 pl-3">
               <span className="font-semibold">{n.id}</span>{" "}
+              <span className="text-[10.5px] text-[#111] tracking-[0.04em]">
+                {ROUNDS.filter((r) => rounds.topics?.[n.id]?.[r]).join(" ")}
+              </span>{" "}
               <span className="text-[#888] hidden sm:inline">{n.title.length > 42 ? n.title.slice(0, 41) + "…" : n.title}</span>
             </td>
             <Cells s={summary(series)} series={series} />

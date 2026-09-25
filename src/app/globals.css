@@ -504,3 +504,12 @@ body {
   font-size: 13.5px;
 }
 .sp-row:first-child { border-top: none; }
+
+@media (max-width: 767px) {
+  .sp-dossier { flex-direction: column; padding: 24px 18px; gap: 8px; }
+  .sp-sidebar { position: static; width: 100%; display: grid; grid-template-columns: 1fr 1fr; gap: 0 16px; }
+  .sp-sidebar .sp-meta-block { margin-bottom: 16px; }
+  .sp-sidebar .sp-divider { grid-column: 1 / -1; margin: 4px 0 16px; }
+  .sp-content { width: 100%; }
+  .sp-h1 { font-size: 26px; }
+}

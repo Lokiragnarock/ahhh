@@ -8,6 +8,7 @@ import type {
   ErrorEntry,
   ErrorType,
   Round,
+  RoundsState,
   SessionState,
 } from "./practice-types";
 import { ERROR_TYPES, ROUNDS } from "./practice-types";
@@ -18,6 +19,7 @@ export const KEYS = {
   blocks: "tax.practice.blocks.v1",
   timer: "tax.practice.blockTimer.v1",
   session: "tax.practice.session.v1",
+  rounds: "tax.practice.rounds.v1",
 } as const;
 
 export const CLOCK_START = "2026-09-25";
@@ -93,6 +95,8 @@ export const useErrors = () => useStored<ErrorEntry[]>(KEYS.errors, EMPTY);
 export const useBlocks = () => useStored<BlockLog[]>(KEYS.blocks, EMPTY);
 export const useBlockTimer = () => useStored<BlockTimer | null>(KEYS.timer, null);
 export const useSession = () => useStored<SessionState | null>(KEYS.session, null);
+const EMPTY_ROUNDS: RoundsState = { topics: {} };
+export const useRounds = () => useStored<RoundsState>(KEYS.rounds, EMPTY_ROUNDS);
 
 // ---------------------------------------------------------------- helpers
 
@@ -297,6 +301,36 @@ export function finishBlock(now = Date.now()) {
   writeStored(KEYS.timer, null);
 }
 
+// ---------------------------------------------------------------- rounds
+
+export function roundDone(state: RoundsState, node: string, round: Round): boolean {
+  return Boolean(state.topics?.[node]?.[round]);
+}
+
+export function setRound(state: RoundsState, nodes: string[], round: Round, done: boolean): RoundsState {
+  const topics = { ...(state.topics ?? {}) };
+  const stamp = new Date().toISOString();
+  for (const n of nodes) {
+    const t = { ...(topics[n] ?? {}) };
+    if (done) t[round] = t[round] ?? stamp;
+    else delete t[round];
+    topics[n] = t;
+  }
+  return { ...state, topics };
+}
+
+export function roundCount(state: RoundsState, nodes: string[], round: Round): number {
+  return nodes.filter((n) => roundDone(state, n, round)).length;
+}
+
+// First round not yet complete across every topic; R3 once R1 and R2 are done.
+export function currentRound(state: RoundsState, nodes: string[]): Round {
+  if (nodes.length === 0) return "R1";
+  if (roundCount(state, nodes, "R1") < nodes.length) return "R1";
+  if (roundCount(state, nodes, "R2") < nodes.length) return "R2";
+  return "R3";
+}
+
 // ---------------------------------------------------------------- backup
 
 export function exportAll() {
@@ -306,6 +340,7 @@ export function exportAll() {
     attempts: readStored<Attempt[]>(KEYS.attempts, []),
     errors: readStored<ErrorEntry[]>(KEYS.errors, []),
     blocks: readStored<BlockLog[]>(KEYS.blocks, []),
+    rounds: readStored<RoundsState>(KEYS.rounds, { topics: {} }),
   };
 }
 
@@ -324,5 +359,12 @@ export function importAll(data: unknown): { attempts: number; errors: number; bl
   writeStored(KEYS.attempts, attempts);
   writeStored(KEYS.errors, errors);
   writeStored(KEYS.blocks, blocks);
+  const incoming = d.rounds as RoundsState | undefined;
+  if (incoming && typeof incoming === "object" && incoming.topics) {
+    const cur = readStored<RoundsState>(KEYS.rounds, { topics: {} });
+    const topics = { ...cur.topics };
+    for (const [n, r] of Object.entries(incoming.topics)) topics[n] = { ...(topics[n] ?? {}), ...r };
+    writeStored(KEYS.rounds, { topics, r3Complete: cur.r3Complete ?? incoming.r3Complete });
+  }
   return { attempts: attempts.length, errors: errors.length, blocks: blocks.length };
 }

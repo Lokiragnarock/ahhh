@@ -4,6 +4,8 @@ import { getAllTopics, getTopic } from "@/lib/vault";
 import { getQuestions } from "@/lib/questions";
 import { TopNav } from "@/components/TopNav";
 import { LastMiniScore, TopicErrors } from "@/components/practice/TopicPractice";
+import { RoundToggles } from "@/components/practice/Rounds";
+import { getTopicFlow, topicHref } from "@/lib/flow";
 
 // Screen 2: Topic note, embedded. 1100px card, 20% sticky sidebar + 80%
 // content, hairline rules between sections. Full-width ENTER FOCUS at the
@@ -12,7 +14,12 @@ export const dynamic = "force-dynamic";
 
 export default async function TopicPage({ params }: { params: { slug: string } }) {
   const slug = decodeURIComponent(params.slug);
-  const [topic, allTopics, questions] = await Promise.all([getTopic(slug), getAllTopics(), getQuestions()]);
+  const [topic, allTopics, questions, flow] = await Promise.all([
+    getTopic(slug),
+    getAllTopics(),
+    getQuestions(),
+    getTopicFlow(slug),
+  ]);
   if (!topic) notFound();
   const questionCount = questions.filter((q) => q.node === topic.id).length;
 
@@ -24,10 +31,20 @@ export default async function TopicPage({ params }: { params: { slug: string } }
     <main className="sp-page pt-12">
       <TopNav />
       <div className="px-5 py-10">
-        <div className="max-w-[1100px] mx-auto mb-4">
-          <Link href="/" className="text-[12px] uppercase tracking-[0.08em] text-[#888] hover:text-[#111]">
+        <div className="max-w-[1100px] mx-auto mb-4 flex flex-wrap items-center gap-x-6 gap-y-2">
+          <Link href="/" className="text-[12px] uppercase tracking-[0.08em] text-[#888] hover:text-[#111] mr-auto">
             &larr; Territory
           </Link>
+          {flow?.prev && (
+            <Link href={topicHref(flow.prev)} className="sp-quiet-link">
+              &larr; Prev · {flow.prev.id}
+            </Link>
+          )}
+          {flow?.next && (
+            <Link href={topicHref(flow.next)} className="sp-quiet-link">
+              Next · {flow.next.id} &rarr;
+            </Link>
+          )}
         </div>
 
         <div className="sp-dossier">
@@ -38,7 +55,10 @@ export default async function TopicPage({ params }: { params: { slug: string } }
             </div>
             <div className="sp-meta-block">
               <div className="sp-label">Unit</div>
-              <div className="sp-value">{topic.section}</div>
+              <div className="sp-value">
+                {topic.unit}
+                {topic.section !== topic.unit && <span className="text-[#888]"> · {topic.section}</span>}
+              </div>
             </div>
             <div className="sp-meta-block">
               <div className="sp-label">Minutes</div>
@@ -57,6 +77,10 @@ export default async function TopicPage({ params }: { params: { slug: string } }
               <div className="sp-value">
                 {questionCount > 0 ? <LastMiniScore node={topic.id} /> : <span className="text-[#888]">No questions yet</span>}
               </div>
+            </div>
+            <div className="sp-meta-block">
+              <div className="sp-label">Rounds</div>
+              <RoundToggles node={topic.id} withDates />
             </div>
             <hr className="sp-divider" />
             <div className="sp-meta-block">
@@ -108,6 +132,20 @@ export default async function TopicPage({ params }: { params: { slug: string } }
                 </Link>
               )}
             </div>
+            {flow && (
+              <div className="flex flex-wrap items-center justify-between gap-3 pt-6 mt-6 border-t border-[#e5e5e5]">
+                {flow.prev ? (
+                  <Link href={topicHref(flow.prev)} className="sp-quiet-link">
+                    &larr; {flow.prev.id}
+                  </Link>
+                ) : (
+                  <span />
+                )}
+                <Link href={flow.afterMini.href} className="sp-btn sp-btn-ghost">
+                  {flow.afterMini.label}
+                </Link>
+              </div>
+            )}
           </div>
         </div>
       </div>

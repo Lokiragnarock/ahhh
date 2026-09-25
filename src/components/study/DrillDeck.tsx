@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { useState } from "react";
 import { Flashcard } from "@/lib/study-types";
+import type { Step } from "@/lib/flow";
 
 type Judgment = "missed" | "shaky" | "got-it";
 
@@ -25,10 +26,12 @@ export function DrillDeck({
   flashcards,
   slug,
   nodeId,
+  next,
 }: {
   flashcards: Flashcard[];
   slug: string;
   nodeId: string;
+  next: Step;
 }) {
   const [index, setIndex] = useState(0);
   const [revealed, setRevealed] = useState(false);
@@ -39,10 +42,15 @@ export function DrillDeck({
   if (flashcards.length === 0) {
     return (
       <div className="sp-focus-column">
-        <p className="sp-body-text">No flashcards on this note yet.</p>
-        <Link href={`/topic/${encodeURIComponent(slug)}`} className="sp-quiet-link">
-          Back to topic
+        <p className="sp-body-text mb-8">No flashcards on this note yet.</p>
+        <Link href={next.href} className="sp-pill-static inline-block">
+          {next.label}
         </Link>
+        <div className="mt-6">
+          <Link href={`/topic/${encodeURIComponent(slug)}`} className="sp-quiet-link">
+            Back to topic
+          </Link>
+        </div>
       </div>
     );
   }
@@ -71,29 +79,50 @@ export function DrillDeck({
     setFinalized(true);
   }
 
+  function restart() {
+    setIndex(0);
+    setRevealed(false);
+    setJudgments([]);
+    setFinalized(false);
+  }
+
   if (finalized) {
     const missedCount = judgments.filter((j) => j === "missed").length;
+    const shakyCount = judgments.filter((j) => j === "shaky").length;
     const anyMissed = missedCount > 0;
     return (
       <div className="sp-drill-card">
-        <div className="sp-label mb-3">{nodeId}</div>
-        {anyMissed ? (
-          <>
-            <h1 className="sp-h1 mb-6">
-              {missedCount} missed of {total}. Needs another pass.
-            </h1>
-            <Link href={`/topic/${encodeURIComponent(slug)}`} className="sp-quiet-link">
-              Back to topic
-            </Link>
-          </>
-        ) : (
-          <>
-            <h1 className="sp-h1 mb-6">All {total} drilled.</h1>
-            <Link href="/" className="sp-quiet-link">
-              Territory
-            </Link>
-          </>
-        )}
+        <div className="sp-label mb-3">{nodeId} · drill done</div>
+        <h1 className="sp-h1 mb-3">
+          {anyMissed ? `${missedCount} missed of ${total}.` : `All ${total} recalled.`}
+        </h1>
+        <p className="sp-body-text mb-10">
+          {anyMissed
+            ? "Drill it again now, or carry on and let the mini test and error book catch the gaps."
+            : shakyCount > 0
+              ? `${shakyCount} shaky. Next step in the loop:`
+              : "Clean run. Next step in the loop:"}
+        </p>
+        <div className="flex flex-wrap items-center gap-3">
+          <Link href={next.href} className="sp-pill-static inline-block">
+            {next.label}
+          </Link>
+          {anyMissed && (
+            <button type="button" className="sp-judge-btn !flex-none px-6" onClick={restart}>
+              Drill again
+            </button>
+          )}
+        </div>
+        <div className="mt-8 flex gap-6">
+          <Link href={`/topic/${encodeURIComponent(slug)}`} className="sp-quiet-link">
+            Back to note
+          </Link>
+          {!anyMissed && (
+            <button type="button" className="sp-quiet-link" onClick={restart}>
+              Drill again
+            </button>
+          )}
+        </div>
       </div>
     );
   }
