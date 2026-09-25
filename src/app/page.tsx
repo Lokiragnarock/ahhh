@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { getUnitGroups } from "@/lib/vault";
 import { Treemap } from "@/components/study/Treemap";
+import { TopNav } from "@/components/TopNav";
 
 // Screen 1: Territory. Reads the vault at request time — no caching, no
 // rebuild — so edits made in Obsidian show up on refresh.
@@ -16,7 +17,8 @@ export default async function TerritoryPage() {
   const drilledCount = topics.filter((t) => t.state === "drilled").length;
 
   return (
-    <main className="sp-page">
+    <main className="sp-page pt-12">
+      <TopNav />
       <div className="max-w-[1200px] mx-auto px-6 py-10">
         <div className="flex items-baseline justify-between flex-wrap gap-4 mb-8">
           <h1 className="sp-h1">Territory</h1>

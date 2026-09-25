@@ -1,0 +1,104 @@
+[
+  {
+    "id": "PG-1-01",
+    "node": "PG-1",
+    "unit": "Unit 3B",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "Which of the following is NOT taxable under the head Profits and Gains of Business or Profession?",
+    "options": [
+      "A) Salary received by a partner from the firm, to the extent allowed to the firm",
+      "B) Sum received under a Keyman insurance policy",
+      "C) Rent from a house property owned by a trader, credited to his P&L account",
+      "D) Sum received for a non-compete agreement"
+    ],
+    "answer": "C",
+    "explanation": "Rent from a house property owned by the assessee is taxed under Income from House Property even if credited to the business P&L. A is 28(v), B is 28(vi), D is 28(va)."
+  },
+  {
+    "id": "PG-1-02",
+    "node": "PG-1",
+    "unit": "Unit 3B",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "A partner's salary and interest received from the firm are taxable in his hands under the head:",
+    "options": [
+      "A) Salaries",
+      "B) Income from Other Sources",
+      "C) Profits and Gains of Business or Profession",
+      "D) Exempt, as the firm has already paid tax"
+    ],
+    "answer": "C",
+    "explanation": "A partner is not an employee of the firm, so there is no employer-employee relationship and the Salaries head does not apply. Section 28(v) taxes it as business income, to the extent it was allowed to the firm under s. 40(b)."
+  },
+  {
+    "id": "PG-1-03",
+    "node": "PG-1",
+    "unit": "Unit 3B",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Ravi, a salaried employee, bought 2,000 kg of saffron once during the year intending to resell it at a profit, and did so. The profit is:",
+    "options": [
+      "A) A capital gain, because it was a single transaction",
+      "B) Business income, as an adventure in the nature of trade",
+      "C) Exempt, being a casual receipt",
+      "D) Income from other sources"
+    ],
+    "answer": "B",
+    "explanation": "Business under s. 2(13) includes any adventure in the nature of trade. An isolated purchase made with the intention of resale at a profit is business; continuity is not required. The intention at the time of purchase decides it."
+  },
+  {
+    "id": "PG-1-04",
+    "node": "PG-1",
+    "unit": "Unit 3B",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Interest on the proprietor's own capital, debited to the P&L account, is:",
+    "options": [
+      "A) Fully allowed under s. 36(1)(iii)",
+      "B) Allowed up to 12% p.a.",
+      "C) Not allowed, being a notional expense",
+      "D) Allowed only if paid by cheque"
+    ],
+    "answer": "C",
+    "explanation": "A person cannot earn income from himself. Interest on own capital is notional and is added back. Contrast a firm, where interest to partners is allowed up to 12% under s. 40(b), because the firm and partner are separate assessees."
+  },
+  {
+    "id": "PG-1-05",
+    "node": "PG-1",
+    "unit": "Unit 3B",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Explain any five incomes chargeable to tax under the head Profits and Gains of Business or Profession as per Section 28.",
+    "model_answer": "Section 28 charges the following, among others:\n\n1. **28(i)** Profits and gains of any business or profession carried on by the assessee during the previous year.\n2. **28(iv)** Value of any benefit or perquisite, whether convertible into money or not, arising from business or profession.\n3. **28(v)** Interest, salary, bonus, commission or remuneration received by a partner from the firm, to the extent allowed to the firm under s. 40(b).\n4. **28(va)** Any sum received under an agreement for not carrying out any activity in relation to a business (non-compete), or for not sharing know-how, patent, copyright or trademark.\n5. **28(vi)** Any sum received under a Keyman insurance policy, including bonus.\n\nOthers acceptable: 28(ii) compensation on termination of management agency; 28(iii) income of trade associations from specific services to members; 28(iiia)-(iiie) export incentives; 28(via) FMV of inventory converted into capital asset.",
+    "marking_scheme": [
+      { "point": "Profits of business/profession carried on during the PY — 28(i)", "marks": 1 },
+      { "point": "Any second valid clause with correct meaning", "marks": 1 },
+      { "point": "Any third valid clause with correct meaning", "marks": 1 },
+      { "point": "Any fourth valid clause with correct meaning", "marks": 1 },
+      { "point": "Any fifth valid clause with correct meaning (partner's remuneration must mention 'to the extent allowed u/s 40(b)')", "marks": 1 }
+    ]
+  },
+  {
+    "id": "PG-1-06",
+    "node": "PG-1",
+    "unit": "Unit 3B",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "The P&L account of Mr. Arjun, a trader, is credited with: (i) rent from a house property ₹60,000, (ii) dividend from an Indian company ₹8,000, (iii) profit on sale of an investment property ₹2,00,000, (iv) income-tax refund ₹5,000 with interest on refund ₹400, (v) agricultural income ₹30,000. State the correct treatment of each item while computing his business income, with reasons.",
+    "model_answer": "All five are **deducted** from the net profit, because none is business income:\n\n| Item | Treatment | Head / reason |\n|---|---|---|\n| Rent ₹60,000 | Deduct | Taxed under Income from House Property |\n| Dividend ₹8,000 | Deduct | Taxed under Income from Other Sources |\n| Profit on sale of investment property ₹2,00,000 | Deduct | Capital asset, so taxed under Capital Gains (computed separately, not the book profit) |\n| Income-tax refund ₹5,000 | Deduct | Not income at all, only a return of tax paid. Interest on refund ₹400 is taxable under IFOS |\n| Agricultural income ₹30,000 | Deduct | Exempt u/s 10(1) |",
+    "marking_scheme": [
+      { "point": "Rent deducted, taxable under House Property", "marks": 1 },
+      { "point": "Dividend deducted, taxable under IFOS", "marks": 1 },
+      { "point": "Profit on investment property deducted, taxable as Capital Gains", "marks": 1 },
+      { "point": "Tax refund deducted as not income; interest on refund taxable under IFOS", "marks": 1 },
+      { "point": "Agricultural income deducted, exempt u/s 10(1)", "marks": 1 }
+    ]
+  }
+]
