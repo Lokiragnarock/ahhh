@@ -5,6 +5,13 @@ status: active
 created: 2026-08-03
 source: claude-session
 tags: [taxation, recall, unit-2, salary, computation, worked-example]
+node: SAL-5
+section: "2.5"
+minutes: 60
+deps: [SAL-4]
+weight: 60
+exam_focus: true
+state: unstudied
 ---
 
 # Unit 2 — The Everything Salary Problem
@@ -284,6 +291,48 @@ Worth recognising if it turns up, none of it changes the method:
 5. Which single line would change most if the flat were in a town of 12 lakh people? → The
    accommodation rate drops from 10% to 5% of salary; the population bands are 10% above 40 lakh,
    7.5% for 15–40 lakh, 5% below 15 lakh.
+
+## Concept map
+
+```mermaid
+graph TD
+    P["EVERYTHING SALARY<br/>retirement year"] --> S1["1 monetary salary<br/>basic, DA, commission,<br/>bonus, arrears"]
+    P --> S2["2 allowances<br/>only official-duty ones<br/>survive, to extent spent"]
+    P --> S3["3 Rule 3 salary base<br/>basic + DA (retirement) +<br/>commission + taxable allow."]
+    S3 --> S4["4 perquisites<br/>RFA 10% + furniture 10%<br/>− recovery; car 2,400+900;<br/>loan at SBI rate; edu,<br/>servants, gifts, PF &gt; 12%"]
+    P --> S5["5 profit in lieu<br/>ex-gratia 17(3)"]
+    P --> S6["6 retirement"]
+    S6 --> G["gratuity: 15/26 × last<br/>× 29 yrs (rounded), cap 20L"]
+    S6 --> L["leave: 10 months avg,<br/>30 days × 28 completed yrs<br/>− availed, cap 25L"]
+    S6 --> C["commuted pension: 1/3 of<br/>FULL value; pension taxable"]
+    S1 --> A["7 assemble gross salary<br/>− SD 75,000"]
+    S2 --> A
+    S4 --> A
+    S5 --> A
+    G --> A
+    L --> A
+    C --> A
+    A --> T["8 slab tax + cess<br/>no 87A above 12L"]
+```
+
+## Flashcards
+Q: Why does gratuity use a different salary figure from leave encashment in this problem?
+A: Gratuity under the PG Act uses basic + full DA; leave encashment uses basic + retirement-linked DA + turnover commission.
+
+Q: Service of 28 years 7 months: years for gratuity (PG Act) and for leave encashment?
+A: 29 for gratuity (part-year over 6 months rounds up); 28 for leave encashment (completed years only).
+
+Q: 60% of pension commuted for ₹18 lakh, gratuity also received. Exempt amount?
+A: One-third of the full value ₹30 lakh, i.e. ₹10 lakh.
+
+Q: Rent recovered exceeds the accommodation value. Perquisite?
+A: Nil, never negative.
+
+Q: If the flat were in a city of 12 lakh population, what rate would apply?
+A: 5% of salary.
+
+Q: Is ex-gratia paid on retirement salary?
+A: Yes, profit in lieu of salary u/s 17(3).
 
 ## Links
 - [[Taxation Law MOC]]

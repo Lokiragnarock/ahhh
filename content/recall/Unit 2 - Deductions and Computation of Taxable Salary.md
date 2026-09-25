@@ -5,6 +5,13 @@ status: active
 created: 2026-07-25
 source: claude-session, web research
 tags: [taxation, recall, unit-2, salary, computation, deductions]
+node: SAL-4
+section: "2.4"
+minutes: 30
+deps: [SAL-1, SAL-2, SAL-3]
+weight: 30
+exam_focus: true
+state: unstudied
 ---
 
 # Unit 2 — Deductions from Gross Salary & Computation of Taxable Salary
@@ -65,6 +72,45 @@ Less: Standard deduction        (75,000)
 ──────────────────────────────
 Income from Salary             7,71,000
 ```
+
+## What to remember
+
+- Gross salary = basic + DA + bonus/commission + taxable allowances + taxable perquisites + profit in lieu + taxable retirement benefits.
+- **Section 16 under the new regime: only the standard deduction of ₹75,000.** No entertainment allowance deduction, no professional tax.
+- The **employer's NPS contribution** is added to salary (s. 17(1)(viii)) and deducted later as **80CCD(2)** at the total-income stage, not inside the salary head.
+- Salary income then joins the other heads in GTI (Unit 5).
+
+## Concept map
+
+```mermaid
+graph TD
+    G["GROSS SALARY"] --> B["basic + DA"]
+    G --> BC["bonus, commission"]
+    G --> AL["taxable allowances<br/>HRA, most 10(14)"]
+    G --> PQ["taxable perquisites<br/>RFA, car, loans, gifts, PF excess"]
+    G --> PL["profit in lieu 17(3)"]
+    G --> RB["taxable part of gratuity,<br/>leave encashment,<br/>commuted pension; pension"]
+    G --> SD["LESS: standard deduction<br/>16(ia) Rs 75,000<br/>ONLY deduction in new regime"]
+    SD --> IS["INCOME FROM SALARY"]
+    IS --> GTI["→ GTI (Unit 5)<br/>80CCD(2) deducted there"]
+    SD -.-> NO["NOT allowed: 16(ii)<br/>entertainment, 16(iii)<br/>professional tax"]
+```
+
+## Flashcards
+Q: How many s. 16 deductions are allowed under the new regime?
+A: One: the standard deduction of ₹75,000.
+
+Q: Is professional tax deductible from salary under the new regime?
+A: No.
+
+Q: Gross salary ₹8,46,000 under the new regime. Income from salary?
+A: ₹7,71,000 (after ₹75,000 standard deduction).
+
+Q: Where is the employer's NPS contribution deducted?
+A: It is included in gross salary and deducted u/s 80CCD(2) from GTI, up to 14% of salary.
+
+Q: List the building blocks of gross salary.
+A: Basic, DA, bonus/commission, taxable allowances, taxable perquisites, profit in lieu of salary, taxable retirement benefits and pension.
 
 ## Sources
 - [Section 16 of Income Tax Act - Standard Deduction](https://www.tataaig.com/health-insurance/section-16-of-income-tax)

@@ -5,6 +5,13 @@ status: active
 created: 2026-07-25
 source: claude-session, web research
 tags: [taxation, recall, unit-1, residential-status, basic-concepts]
+node: U1-2
+section: "1.2"
+minutes: 45
+deps: [U1-1]
+weight: 45
+exam_focus: true
+state: unstudied
 ---
 
 # Unit 1 — Basic Concepts & Residential Status
@@ -79,6 +86,68 @@ Fail either → **RNOR**.
 "Incidence of tax" = which portion of an assessee's income actually gets taxed, driven directly by residential status (above). Practical problems in this topic typically give you a fact pattern (days in India, income sources — Indian salary, foreign rental, foreign dividend, Indian business) and ask you to (1) fix residential status, then (2) apply the scope-of-income table to compute taxable income.
 
 **Recall prompt:** What's the two-step method for every residential-status problem? → Step 1: classify as Resident/NR using the 182-day or 60+365-day test. Step 2 (only if Resident): classify ROR/RNOR using the 2-of-10-years and 730-days-in-7-years tests. Then apply the scope table.
+
+## What to remember
+
+- **Person 2(31)**: individual, HUF, company, firm, AOP/BOI, local authority, artificial juridical person. **Assessee 2(7)** is wider: anyone liable, or against whom proceedings are taken.
+- **PY** = FY in which income is earned; **AY** = the next year, in which it is assessed. PY 2025-26 → AY 2026-27.
+- **Heads → clubbing → set-off → GTI → Chapter VI-A → Total income.**
+- **Correction for the new regime:** the ₹2,00,000 cap on setting off house property loss is the *old-regime* rule. Under **115BAC, HP loss cannot be set off against any other head at all**, and the ₹1,500 minor-child exemption u/s 10(32) is not available. See [[Unit 5 - TL-1 Gross Total Income to Total Income]].
+- **Resident**: **182 days**, OR **60 days + 365 days in preceding 4 years**. The 60-day limb becomes **182** for citizens leaving for employment/crew and for visiting citizens/PIOs (**120 days** if Indian income > ₹15 lakh).
+- **ROR** needs **both**: resident in **2 of 10** preceding years AND **730 days in 7** preceding years. Otherwise **RNOR**.
+- **Deemed resident 6(1A)**: citizen with Indian income > ₹15 lakh, not taxed anywhere else → resident, always **RNOR**.
+- Scope: **ROR worldwide**; **RNOR** Indian income + foreign income from a business controlled / profession set up in India; **NR** Indian income only.
+
+## Concept map
+
+```mermaid
+graph TD
+    D["BASIC CONCEPTS"] --> P["Person 2(31)<br/>indiv, HUF, company, firm,<br/>AOP/BOI, local auth, AJP"]
+    D --> A["Assessee 2(7)<br/>liable or proceedings taken"]
+    D --> Y["PY earned → AY assessed<br/>PY 2025-26 → AY 2026-27"]
+    D --> G["heads → clubbing → set-off<br/>→ GTI → VI-A → TOTAL INCOME"]
+    RS["RESIDENTIAL STATUS s.6<br/>physical presence, not citizenship"] --> S1{"182 days? OR<br/>60 days + 365 in 4 yrs?"}
+    S1 -- "no" --> NR["NON-RESIDENT<br/>Indian income only"]
+    S1 -- "yes" --> S2{"resident 2 of 10 yrs<br/>AND 730 days in 7 yrs?"}
+    S2 -- "both" --> ROR["ROR<br/>worldwide income"]
+    S2 -- "fails one" --> RNOR["RNOR<br/>Indian income + foreign<br/>business controlled from India"]
+    S1 -.-> EX["60 → 182 days: citizen<br/>leaving for job/crew,<br/>visiting citizen/PIO<br/>(120 if Indian income &gt; 15L)"]
+    RS -.-> DR["deemed resident 6(1A)<br/>→ always RNOR"]
+```
+
+## Flashcards
+Q: What is the previous year for AY 2026-27?
+A: FY 2025-26 (1 April 2025 to 31 March 2026).
+
+Q: Is an assessee the same as a taxpayer?
+A: No. An assessee includes any person against whom proceedings have been taken, even before liability is determined.
+
+Q: State the two basic conditions for an individual to be resident.
+A: In India for 182 days or more in the PY; or 60 days or more in the PY and 365 days or more in the 4 preceding years.
+
+Q: State the two additional conditions for ROR.
+A: Resident in at least 2 of the 10 preceding years, and in India for 730 days or more in the 7 preceding years.
+
+Q: A resident who fails one of the two additional conditions is…?
+A: Resident but Not Ordinarily Resident (RNOR).
+
+Q: Which income of an NR is taxable in India?
+A: Only income received or deemed received in India, or accruing or deemed to accrue in India.
+
+Q: Foreign rent received abroad by an RNOR — taxable?
+A: No, unless it is from a business controlled or profession set up in India.
+
+Q: For an Indian citizen leaving India for employment, what replaces the 60-day limb?
+A: 182 days.
+
+Q: What is a deemed resident under s. 6(1A)?
+A: An Indian citizen with total Indian income above ₹15 lakh who is not liable to tax in any other country; treated as resident and always RNOR.
+
+Q: Under the new regime, can a house property loss be set off against salary?
+A: No. Section 115BAC disallows set-off of HP loss against other heads.
+
+Q: What is GTI?
+A: The aggregate income under the five heads after clubbing and set-off, before Chapter VI-A deductions.
 
 ## Sources
 - [Residential Status Under Section 6 of Income Tax Act](https://vakilsearch.com/article/residential-status-under-section-6/)

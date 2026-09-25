@@ -5,6 +5,13 @@ status: active
 created: 2026-07-25
 source: claude-session, web research
 tags: [taxation, recall, unit-2, salary, provident-fund, gratuity, pension, leave-encashment]
+node: SAL-3
+section: "2.3"
+minutes: 45
+deps: [SAL-1]
+weight: 45
+exam_focus: true
+state: unstudied
 ---
 
 # Unit 2 — PF, Profit in Lieu of Salary, Gratuity, Pension & Leave Encashment
@@ -73,6 +80,66 @@ Exempt = least of:
   Balance is taxable.
 
 **Recall prompt:** A private-sector employee commutes 50% of pension and also receives gratuity. Full commutation value (i.e., value of 100% commutation) works out to ₹6,00,000. What's exempt? → 1/3rd of ₹6,00,000 = ₹2,00,000 exempt (since gratuity was also received) — note this is 1/3rd of the *full* (100%) commutation value, not 1/3rd of the amount actually received for the 50% commuted.
+
+## What to remember
+
+- **RPF**: employer contribution exempt up to **12% of salary**; interest exempt up to **9.5%**; lump sum exempt after **5 years' continuous service**. **URPF**: nothing taxed yearly; on withdrawal employer's share + interest → **profit in lieu of salary**, interest on own share → **IFOS**. **SPF, PPF**: exempt.
+- **80C** for employee's own PF contribution is **not available** under the new regime.
+- **Profit in lieu of salary 17(3)**: termination compensation, URPF employer share + interest, keyman sums, payments before joining or after leaving.
+- **Gratuity** (non-government, covered by PG Act): least of actual, **15/26 × last drawn salary × years** (part-year > 6 months rounds up), **₹20,00,000**. Not covered: **½ × average of last 10 months × completed years**, ₹20L. Government: fully exempt.
+- **Leave encashment** at retirement (non-government): least of actual, **10 months' average salary**, **cash equivalent of unavailed leave at max 30 days per completed year**, **₹25,00,000**. During service: fully taxable. Government: fully exempt.
+- **Commuted pension** (non-government): exempt **1/3** of full commuted value if gratuity also received, **1/2** if not. Always apply the fraction to the **100% commuted value**. **Uncommuted pension**: fully taxable.
+
+## Concept map
+
+```mermaid
+graph TD
+    PF["PROVIDENT FUND"] --> SPF["SPF / PPF<br/>fully exempt"]
+    PF --> RPF["RPF: employer ≤ 12%,<br/>interest ≤ 9.5%,<br/>lump sum after 5 yrs"]
+    PF --> URPF["URPF: nothing yearly;<br/>on withdrawal employer<br/>share + int → 17(3),<br/>int on own → IFOS"]
+    PLS["PROFIT IN LIEU 17(3)<br/>termination compensation,<br/>keyman, pre/post-employment"]
+    GR["GRATUITY 10(10)"] --> G1["govt: fully exempt"]
+    GR --> G2["PG Act: least of actual,<br/>15/26 × last salary × yrs<br/>(round &gt; 6 months),<br/>20 lakh"]
+    GR --> G3["not covered: least of actual,<br/>½ × avg 10 months ×<br/>completed yrs, 20 lakh"]
+    LE["LEAVE ENCASHMENT 10(10AA)"] --> L1["during service: taxable"]
+    LE --> L2["retirement, non-govt: least of<br/>actual, 10 × avg salary,<br/>30 days/yr cash equivalent,<br/>25 lakh"]
+    PEN["PENSION 10(10A)"] --> P1["uncommuted: taxable"]
+    PEN --> P2["commuted non-govt:<br/>1/3 of FULL value with gratuity<br/>1/2 without"]
+```
+
+## Flashcards
+Q: Up to what limit is the employer's contribution to an RPF exempt?
+A: 12% of salary.
+
+Q: How is withdrawal from an unrecognised PF taxed?
+A: Employer's contribution and interest on it as profit in lieu of salary; interest on the employee's own contribution under IFOS; the employee's own contribution is not taxed.
+
+Q: State the exemption formula for gratuity of an employee covered by the Payment of Gratuity Act.
+A: Least of actual gratuity, 15/26 of last drawn salary × years of service (part-year over 6 months counted as a full year), and ₹20,00,000.
+
+Q: How are years counted for gratuity of an employee NOT covered by the PG Act?
+A: Completed years only; part-years are ignored.
+
+Q: What is the statutory ceiling for leave encashment exemption (non-government) for AY 2026-27?
+A: ₹25,00,000.
+
+Q: Is leave encashment received during service taxable?
+A: Yes, fully (relief u/s 89 may be available).
+
+Q: Commuted pension exemption for a non-government employee who also gets gratuity?
+A: One-third of the full (100%) commuted value of pension.
+
+Q: And if no gratuity is received?
+A: One-half of the full commuted value.
+
+Q: Is uncommuted monthly pension taxable?
+A: Yes, as salary, for all employees.
+
+Q: Compensation for premature termination of employment — which head?
+A: Salaries, as profit in lieu of salary u/s 17(3).
+
+Q: Is the employee's PF contribution deductible u/s 80C under the new regime?
+A: No.
 
 ## Sources
 - [Income Tax on PF for Various Types of PF Account](https://cleartax.in/s/tax-on-pf-provident-fund)

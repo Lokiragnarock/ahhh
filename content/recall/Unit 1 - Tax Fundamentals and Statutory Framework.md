@@ -5,6 +5,13 @@ status: active
 created: 2026-07-25
 source: claude-session, web research
 tags: [taxation, recall, unit-1, fundamentals]
+node: U1-1
+section: "1.1"
+minutes: 35
+deps: []
+weight: 35
+exam_focus: false
+state: unstudied
 ---
 
 # Unit 1 — Tax Fundamentals & Statutory Framework
@@ -81,6 +88,60 @@ Revenue generation for public expenditure; redistribution of income/wealth (prog
 - Administrative hierarchy: CBDT → Chief Commissioners → Commissioners → Assessing Officers.
 
 **Recall prompt:** What's the practical difference between the Income Tax Act and the annual Finance Act? → The Act is the permanent statutory framework; the Finance Act each year amends rates, slabs, and specific provisions within that framework.
+
+## What to remember
+
+- Tax = **compulsory**, **no direct quid pro quo**, funds public expenditure. Three tiers: Union, State, local bodies (Seventh Schedule).
+- **Direct**: incidence cannot be shifted (income tax). **Indirect**: shifted to buyer (GST, customs).
+- **Cess** = tax on tax, **earmarked**. **Surcharge** = tax on tax, **general revenue**. **Duty** = tax on goods.
+- Canons: **equity, certainty, convenience, economy** (Adam Smith) + simplicity, productivity/elasticity, diversity.
+- New regime **115BAC** is the default: slabs 0-4 nil / 5 / 10 / 15 / 20 / 25 / 30%; standard deduction ₹75,000; 87A rebate up to ₹60,000 if total income ≤ ₹12L.
+- Enactments: **Income-tax Act 1961** (replaced by the **Income-tax Act 2025** from 1.4.2026; AY 2026-27 is still under the 1961 Act), annual **Finance Act**, **Income-tax Rules 1962**, **CBDT** circulars and notifications.
+
+## Concept map
+
+```mermaid
+graph TD
+    T["TAXATION<br/>compulsory, no quid pro quo"] --> TIER["3 tiers: Union, State,<br/>local bodies<br/>Seventh Schedule"]
+    T --> DI["DIRECT<br/>incidence not shifted<br/>income tax"]
+    T --> IN["INDIRECT<br/>shifted to buyer<br/>GST, customs"]
+    T --> TT["Tax on tax"]
+    TT --> CESS["CESS<br/>earmarked purpose"]
+    TT --> SUR["SURCHARGE<br/>general revenue,<br/>high incomes"]
+    T --> DUTY["DUTY<br/>tax on goods"]
+    T --> CAN["CANONS: equity, certainty,<br/>convenience, economy,<br/>simplicity, productivity,<br/>diversity"]
+    T --> OBJ["OBJECTIVES: revenue,<br/>redistribution, allocation,<br/>stabilisation, protection"]
+    T --> LAW["LAW: IT Act 1961 → 2025,<br/>Finance Act yearly,<br/>IT Rules 1962, CBDT"]
+    T --> REG["NEW REGIME 115BAC default<br/>0-4 nil ... &gt;24L 30%<br/>SD 75,000; 87A ≤ 12L"]
+```
+
+## Flashcards
+Q: Define tax.
+A: A compulsory payment to the government, without any direct quid pro quo, to fund public expenditure.
+
+Q: What is the test that separates a direct tax from an indirect tax?
+A: Whether the incidence can be shifted. A direct tax is borne by the person on whom it is levied; an indirect tax is passed on to the buyer.
+
+Q: Distinguish cess from surcharge.
+A: Both are levied on tax. Cess is earmarked for a specific purpose; surcharge goes to general revenue and applies at higher incomes.
+
+Q: Name Adam Smith's four canons of taxation.
+A: Equity, certainty, convenience and economy.
+
+Q: Which regime is the default for AY 2026-27?
+A: The new regime under s. 115BAC.
+
+Q: What does the annual Finance Act do?
+A: It amends rates, slabs and specific provisions of the Income-tax Act each year.
+
+Q: Which body is the apex administrative authority for direct taxes?
+A: The Central Board of Direct Taxes (CBDT).
+
+Q: Which Act governs AY 2026-27 computations — the 1961 Act or the 2025 Act?
+A: The Income-tax Act 1961. The 2025 Act applies from tax year 2026-27 (from 1 April 2026).
+
+Q: Give two objectives of taxation other than revenue.
+A: Redistribution of income and wealth; economic stabilisation (also resource allocation and protecting domestic industry).
 
 ## Sources
 - [Difference Between Tax, Duty, Cess, Surcharge & Fee](https://taxguru.in/goods-and-service-tax/difference-tax-duty-cess-surcharge-fee-conceptual-clarity.html)

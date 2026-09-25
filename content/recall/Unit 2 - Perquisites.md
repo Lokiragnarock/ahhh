@@ -5,6 +5,13 @@ status: active
 created: 2026-07-25
 source: claude-session, web research
 tags: [taxation, recall, unit-2, salary, perquisites]
+node: SAL-2
+section: "2.2"
+minutes: 45
+deps: [SAL-1]
+weight: 45
+exam_focus: true
+state: unstudied
 ---
 
 # Unit 2 — Perquisites
@@ -66,6 +73,75 @@ Non-cash benefits/facilities an employer gives an employee **in addition to** sa
 - **Employer-paid insurance premium** on a policy for the employee (other than statutory schemes like group insurance for accident) is a taxable perquisite.
 
 **Recall prompt:** Employer gives Diwali gift vouchers worth ₹6,000 in a year. How much is taxable? → All ₹6,000 — crossing the ₹5,000 threshold makes the *entire* amount taxable, not just the ₹1,000 excess.
+
+## What to remember
+
+- Perquisites are valued under **Rule 3**; three buckets: taxable for all, taxable only for **specified employees**, exempt.
+- **Specified employee**: director, or holder of ≥ 20% voting power, or salary (excluding non-monetary perquisites) above **₹4,00,000** (raised from ₹50,000 by CBDT Notification 133/2025 from FY 2025-26 — see [[Unit 1-2 Fact Check and Corrections]]).
+- **Correction:** services of a **sweeper, gardener, watchman or personal attendant** provided by the employer, and **gas, electricity, water** supplied by the employer, are taxable **only for specified employees**. If the *employee* engages the servant or holds the connection and the employer **pays the bill**, it is taxable for **all** employees (an obligation of the employee met by the employer).
+- **Owned accommodation**: 10% / 7.5% / 5% of salary by population > 40L / 15-40L / < 15L. **Leased**: lower of actual rent and that %. **Furniture**: 10% of cost p.a. **Less rent recovered**; never negative.
+- **Car, mixed use, employer bears expenses**: ₹1,800 p.m. (≤ 1.6 L) / ₹2,400 p.m. (> 1.6 L) + ₹900 for driver.
+- **Interest-free loan**: taxable if aggregate > ₹20,000; SBI rate on 1 April less interest charged.
+- **Gifts/vouchers**: below ₹5,000 exempt; once crossed, **whole** amount taxable.
+- **Free food ₹50 per meal**: this exemption does **not** apply under the new regime (per the fact check).
+- **Employer's RPF contribution > 12% of salary** is taxable; so is the aggregate of employer contributions to **PF + NPS + superannuation above ₹7,50,000** (s. 17(2)(vii)).
+
+## Concept map
+
+```mermaid
+graph TD
+    P["PERQUISITES s.17(2)<br/>valued under Rule 3"] --> ALL["TAXABLE FOR ALL"]
+    P --> SP["SPECIFIED EMPLOYEES ONLY<br/>director, ≥20% voting,<br/>salary &gt; 4 lakh"]
+    P --> EX["EXEMPT"]
+    ALL --> RFA["rent-free accommodation<br/>owned 10/7.5/5% of salary<br/>leased: lower of rent, %<br/>furniture 10% of cost<br/>less rent recovered"]
+    ALL --> LOAN["interest-free loan<br/>&gt; 20,000 aggregate<br/>SBI rate − rate charged"]
+    ALL --> GIFT["gifts/vouchers<br/>≥ 5,000 → whole taxable"]
+    ALL --> PF["employer RPF &gt; 12%;<br/>PF+NPS+SAF &gt; 7.5L"]
+    ALL --> OBL["employee's own bills<br/>paid by employer"]
+    SP --> CAR["car, mixed use<br/>1,800 / 2,400 p.m.<br/>+ 900 driver"]
+    SP --> SERV["sweeper, gardener,<br/>watchman, attendant<br/>provided by employer"]
+    SP --> GEW["gas, electricity, water<br/>in employer's name"]
+    EX --> E1["medical in employer's<br/>own hospital"]
+    EX --> E2["keyman premium (not a<br/>perquisite at all)"]
+    EX --> E3["refreshments in office,<br/>recreation for all"]
+```
+
+## Flashcards
+Q: Who is a specified employee for AY 2026-27?
+A: A director, a person holding 20% or more voting power, or an employee whose salary (excluding non-monetary perquisites) exceeds ₹4,00,000.
+
+Q: Value of rent-free employer-owned accommodation in a city of 50 lakh population?
+A: 10% of salary.
+
+Q: Value of rent-free accommodation leased by the employer?
+A: Actual rent paid by the employer or the population-based % of salary, whichever is lower.
+
+Q: Perquisite value of furniture provided with accommodation (owned by employer)?
+A: 10% p.a. of its original cost.
+
+Q: Rent recovered from the employee exceeds the accommodation value. Perquisite?
+A: Nil; it cannot be negative.
+
+Q: Car of 1,800 cc with driver, mixed use, expenses by employer — monthly value?
+A: ₹2,400 + ₹900 = ₹3,300 per month.
+
+Q: Is an interest-free loan of ₹15,000 a taxable perquisite?
+A: No; only if the aggregate outstanding exceeds ₹20,000.
+
+Q: Gift vouchers of ₹6,000 in a year — how much is taxable?
+A: The whole ₹6,000.
+
+Q: Employer pays the gardener it engaged for a non-specified employee. Taxable?
+A: No; servants provided by the employer are taxable only for specified employees.
+
+Q: Employer reimburses the electricity bill of the employee's own connection. Taxable?
+A: Yes, for all employees, as an obligation of the employee met by the employer.
+
+Q: Employer contributes 14% of salary to RPF. What is taxable?
+A: The contribution above 12% of salary.
+
+Q: Is keyman insurance premium paid by the employer a perquisite for the employee?
+A: No.
 
 ## Sources
 - [Perquisites in Income Tax: Meaning, Examples, Types](https://cleartax.in/s/perquisites-in-income-tax)

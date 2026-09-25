@@ -5,6 +5,13 @@ status: active
 created: 2026-07-25
 source: claude-session, web research
 tags: [taxation, recall, unit-2, salary, allowances, hra]
+node: SAL-1
+section: "2.1"
+minutes: 35
+deps: []
+weight: 35
+exam_focus: true
+state: unstudied
 ---
 
 # Unit 2 — Salary: Chargeability & Allowances
@@ -84,6 +91,59 @@ The through-line: an allowance survives when it reimburses a real cost of doing 
 **[Verify before relying on this in an exam answer]** — the surviving list is drawn from the Section 115BAC notified exemptions; confirm against your professor/current Finance Act since this list has shifted with Budget amendments.
 
 **Recall prompt:** An employee receives Children Education Allowance ₹2,400/year and Transport Allowance (disabled) ₹38,400/year. How much of each is exempt? → Children Education Allowance: ₹0, fully taxable. Transport Allowance for disabled: exempt up to ₹3,200/month = ₹38,400/year, one of the four that survive 115BAC.
+
+## What to remember
+
+- Salary is taxed only where there is an **employer-employee relationship**; on **due or receipt basis, whichever is earlier**.
+- **Bonus** is taxed on **receipt**. **Commission** under the employment contract is salary; an agent's commission is business income. **Partner's salary** from a firm is business income, not salary.
+- **DA**: fully taxable. Matters again only in retirement formulas, **if it forms part of retirement benefits**.
+- **HRA**: fully taxable under 115BAC. No least-of-three computation.
+- **Surviving 10(14) allowances** in the new regime: **transport allowance for disabled (₹3,200 p.m.)**, **conveyance** for official duty, **travelling** on tour/transfer, **daily** allowance on tour/transfer — each to the extent of the cost of the job.
+- Everything else on the syllabus list (children education, hostel, uniform, helper, research/academic, underground, border/remote/tribal/high-altitude, entertainment) is **fully taxable**.
+
+## Concept map
+
+```mermaid
+graph TD
+    S15["SALARY s.15<br/>employer-employee<br/>relationship"] --> B["due or receipt,<br/>whichever earlier"]
+    S15 --> BON["bonus: receipt basis"]
+    S15 --> COM["commission: salary if<br/>under employment;<br/>agent → business"]
+    S15 --> PART["partner's salary<br/>→ PGBP, not salary"]
+    AL["ALLOWANCES"] --> DA["DA: fully taxable<br/>retirement-linked part<br/>feeds gratuity/leave"]
+    AL --> HRA["HRA 10(13A):<br/>fully taxable in new regime"]
+    AL --> SURV["survive 115BAC"]
+    SURV --> T1["transport, disabled<br/>3,200 p.m."]
+    SURV --> T2["conveyance, travelling,<br/>daily allowance —<br/>official duty, to extent spent"]
+    AL --> TAX["fully taxable: children edu,<br/>hostel, uniform, helper,<br/>research, border/tribal/<br/>high-altitude, entertainment,<br/>CCA, overtime, medical"]
+```
+
+## Flashcards
+Q: On what basis is salary taxed?
+A: Due or receipt basis, whichever is earlier.
+
+Q: March salary is paid on 5 April. In which PY is it taxed?
+A: The PY in which it fell due (the year containing March).
+
+Q: Is HRA exempt under the new regime?
+A: No, it is fully taxable.
+
+Q: Which s. 10(14) allowances survive under the new regime?
+A: Transport allowance for disabled employees (₹3,200 p.m.), conveyance allowance for official duty, travelling allowance and daily allowance on tour or transfer.
+
+Q: Children education allowance of ₹200 per month — exempt under the new regime?
+A: No, fully taxable.
+
+Q: Is DA ever exempt?
+A: No, DA is always fully taxable.
+
+Q: When does DA enter the salary base for gratuity and leave encashment?
+A: When it forms part of retirement benefits under the terms of employment.
+
+Q: Salary received by a partner from his firm — which head?
+A: Profits and Gains of Business or Profession, s. 28(v).
+
+Q: Is entertainment allowance to a government employee deductible under the new regime?
+A: No; it is fully taxable and the s. 16(ii) deduction is not available.
 
 ## Sources
 - [What is Dearness Allowance in Salary, its Calculation & Types](https://www.godigit.com/finance/salary/what-is-dearness-allowance)
