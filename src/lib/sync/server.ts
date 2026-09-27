@@ -60,3 +60,14 @@ export interface ActivityEvent {
 export async function appendActivity(key: string, event: ActivityEvent) {
   await kv("RPUSH", `${ns(key)}:log`, JSON.stringify(event));
 }
+
+export async function loadActivity(key: string): Promise<ActivityEvent[]> {
+  const raw = await kv<string[] | null>("LRANGE", `${ns(key)}:log`, 0, -1);
+  return (raw ?? []).flatMap((s) => {
+    try {
+      return [JSON.parse(s) as ActivityEvent];
+    } catch {
+      return [];
+    }
+  });
+}
