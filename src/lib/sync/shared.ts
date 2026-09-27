@@ -6,6 +6,10 @@
 export const SYNC_COOKIE = "sync_key";
 export const SYNC_PARAM = "sync";
 
+// Browsers cap cookie lifetime at 400 days; every visit pushes it out again,
+// so a device you use stays linked indefinitely.
+export const SYNC_COOKIE_MAX_AGE = 400 * 24 * 60 * 60;
+
 export function isValidSyncKey(key: string | null | undefined): key is string {
   return typeof key === "string" && /^[A-Za-z0-9_-]{16,64}$/.test(key);
 }

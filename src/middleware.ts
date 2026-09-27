@@ -1,9 +1,5 @@
 import { NextRequest, NextResponse } from "next/server";
-import { isValidSyncKey, SYNC_COOKIE, SYNC_PARAM } from "@/lib/sync/shared";
-
-// Browsers cap cookie lifetime at 400 days; every visit pushes it out again,
-// so a device you use stays linked indefinitely.
-const MAX_AGE = 400 * 24 * 60 * 60;
+import { isValidSyncKey, SYNC_COOKIE, SYNC_COOKIE_MAX_AGE as MAX_AGE, SYNC_PARAM } from "@/lib/sync/shared";
 
 // `/anything?sync=<key>` links this device to that key and redirects to the
 // clean URL. `?sync=off` unlinks it. Without the param nothing changes, so the

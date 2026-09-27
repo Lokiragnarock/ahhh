@@ -11,6 +11,7 @@ const LINKS = [
   { href: "/errors", label: "Error book" },
   { href: "/standing", label: "Standing" },
   { href: "/timeline", label: "Timeline" },
+  { href: "/duel", label: "Duel" },
   { href: "/block", label: "Block" },
 ];
 

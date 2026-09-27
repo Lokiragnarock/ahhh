@@ -1,3 +1,4 @@
+import { randomBytes } from "node:crypto";
 import { cookies } from "next/headers";
 import { KV_ENABLED, kv } from "./kv";
 import { isValidSyncKey, mergeRecords, SYNC_COOKIE, SyncRecord } from "./shared";
@@ -70,4 +71,26 @@ export async function loadActivity(key: string): Promise<ActivityEvent[]> {
       return [];
     }
   });
+}
+
+// ---------------------------------------------------------------- duel
+// A single hash, `ahhh:names`, maps sync key -> display name. Whoever has a
+// name in it shows up on the leaderboard; their progress comes straight out
+// of their own synced record (the same `tax.practice.rounds.v1` blob synced
+// by SyncAgent), so joining the duel needs no extra write path.
+const NAMES_KEY = "ahhh:names";
+
+export function generateSyncKey(): string {
+  return randomBytes(16).toString("hex"); // 32 chars, well inside the 16-64 key format
+}
+
+export async function loadAllNames(): Promise<Record<string, string>> {
+  const flat = await kv<string[] | null>("HGETALL", NAMES_KEY);
+  const out: Record<string, string> = {};
+  for (let i = 0; flat && i < flat.length; i += 2) out[flat[i]] = flat[i + 1];
+  return out;
+}
+
+export async function setUserName(key: string, name: string) {
+  await kv("HSET", NAMES_KEY, key, name);
 }
