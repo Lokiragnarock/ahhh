@@ -2,7 +2,7 @@ import { NextRequest, NextResponse } from "next/server";
 import { getAllTopics } from "@/lib/vault";
 import { roundCount, stateCounts } from "@/lib/rounds-core";
 import type { RoundsState } from "@/lib/practice-types";
-import { KV_ENABLED } from "@/lib/sync/kv";
+import { KV_ENABLED, kv } from "@/lib/sync/kv";
 import {
   currentSyncKey,
   generateSyncKey,
@@ -30,9 +30,19 @@ function parseRounds(raw: string | null | undefined): RoundsState {
 // scored straight off the same synced record SyncAgent already keeps current
 // (`tax.practice.rounds.v1`), so there's nothing extra to write on round
 // completion — it just shows up here on the next load.
-export async function GET() {
+export async function GET(req: NextRequest) {
   if (!KV_ENABLED) {
     return NextResponse.json({ configured: false, entries: [], totalTopics: 0 });
+  }
+
+  // Temporary: ?cleanup=1 removes the debug-probe names left over from
+  // chasing the RESP3 read bug. Remove this block once run.
+  if (req.nextUrl.searchParams.get("cleanup") === "1") {
+    const before = await loadAllNames();
+    for (const [key, name] of Object.entries(before)) {
+      if (name.startsWith("__diagnostic_probe")) await kv("HDEL", "ahhh:names", key);
+    }
+    return NextResponse.json({ cleaned: true, remaining: await loadAllNames() });
   }
 
   const [names, topics] = await Promise.all([loadAllNames(), getAllTopics()]);
