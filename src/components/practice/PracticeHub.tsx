@@ -4,6 +4,8 @@ import Link from "next/link";
 import type { UnitIndex } from "@/lib/questions";
 import type { SessionState } from "@/lib/practice-types";
 import { fmtDate, isDue, KEYS, lastAttempt, pct, useAttempts, useErrors, useStored } from "@/lib/practice-store";
+import { useSubject } from "@/lib/subject/context";
+import { subjectLabel } from "@/lib/subject/shared";
 import { PageHead, RepsStrip } from "./bits";
 
 const NO_SESSIONS: Record<string, SessionState> = {};
@@ -17,16 +19,17 @@ export function PracticeHub({
   mockPool: { short: number; long: number; case: number };
   total: number;
 }) {
+  const subject = useSubject();
   const [attempts] = useAttempts();
   const [errors] = useErrors();
-  const [sessions] = useStored(KEYS.session, NO_SESSIONS);
+  const [sessions] = useStored(KEYS(subject).session, NO_SESSIONS);
   const due = errors.filter((e) => isDue(e)).length;
   const lastMock = lastAttempt(attempts, "mock", "mock");
   const mockReady = mockPool.short + mockPool.long + mockPool.case > 0;
 
   return (
     <div className="sp-wrap">
-      <PageHead title="Practice" kicker={`Taxation Law · ${total} questions in the bank`}>
+      <PageHead title="Practice" kicker={`${subjectLabel(subject)} · ${total} questions in the bank`}>
         {due > 0 && (
           <Link href="/errors" className="sp-btn sp-btn-ghost">
             {due} error{due === 1 ? "" : "s"} due to re-solve
@@ -138,7 +141,7 @@ export function PracticeHub({
             </section>
           );
         })}
-        {units.length === 0 && <p className="sp-body-text">No questions found in content/tests/taxation.</p>}
+        {units.length === 0 && <p className="sp-body-text">No questions found in content/tests/{subject}.</p>}
       </div>
     </div>
   );

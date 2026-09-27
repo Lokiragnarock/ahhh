@@ -19,6 +19,7 @@ import {
 } from "@/lib/practice-store";
 import { EMPTY_FIELDS, ErrorFieldValues, ErrorFields } from "./ErrorFields";
 import { currentDevice } from "@/lib/sync/client";
+import { useSubject } from "@/lib/subject/context";
 import { MarkRoundPrompt } from "./Rounds";
 import type { Step } from "@/lib/flow";
 
@@ -103,6 +104,8 @@ export function scorePaper(paper: Paper, answers: Record<string, AnswerState>, q
 }
 
 export function TestRunner({ pool, kind, scope, resolveEntryId, next }: Props) {
+  const subject = useSubject();
+  const keys = useMemo(() => KEYS(subject), [subject]);
   const key = `${kind}:${scope}`;
   const qmap = useMemo(() => new Map(pool.map((q) => [q.id, q])), [pool]);
   const [session, setSession] = useState<SessionState | null>(null);
@@ -114,18 +117,18 @@ export function TestRunner({ pool, kind, scope, resolveEntryId, next }: Props) {
   }, [key, pool, kind, scope]);
 
   useEffect(() => {
-    const stored = readStored<Sessions>(KEYS.session, {})[key];
+    const stored = readStored<Sessions>(keys.session, {})[key];
     if (stored && stored.paper.sections.every((s) => s.questionIds.every((id) => qmap.has(id)))) {
       setSession(stored);
     } else {
       setSession(fresh());
     }
-  }, [key, qmap, fresh]);
+  }, [key, qmap, fresh, keys]);
 
   useEffect(() => {
     if (!session || done) return;
-    updateStored<Sessions>(KEYS.session, {}, (prev) => ({ ...prev, [key]: session }));
-  }, [session, key, done]);
+    updateStored<Sessions>(keys.session, {}, (prev) => ({ ...prev, [key]: session }));
+  }, [session, key, done, keys]);
 
   useEffect(() => {
     if (!session || session.phase !== "answer") return;
@@ -159,7 +162,7 @@ export function TestRunner({ pool, kind, scope, resolveEntryId, next }: Props) {
   }
 
   function clearSession() {
-    updateStored<Sessions>(KEYS.session, {}, (prev) => {
+    updateStored<Sessions>(keys.session, {}, (prev) => {
       const next = { ...prev };
       delete next[key];
       return next;
@@ -186,7 +189,7 @@ export function TestRunner({ pool, kind, scope, resolveEntryId, next }: Props) {
         results,
         device: currentDevice(),
       };
-      updateStored<Attempt[]>(KEYS.attempts, [], (prev) => [...prev, attempt!]);
+      updateStored<Attempt[]>(keys.attempts, [], (prev) => [...prev, attempt!]);
     }
     clearSession();
     setDone({ attempt });

@@ -4,6 +4,8 @@ import matter from "gray-matter";
 import { marked } from "marked";
 import { cache } from "react";
 import { currentSyncKey, loadTopicStates } from "./sync/server";
+import { currentSubject } from "./subject/server";
+import { subjectLabel, SubjectInfo } from "./subject/shared";
 import {
   Flashcard,
   NoteSection,
@@ -18,8 +20,45 @@ import {
 // snapshot committed under content/recall (re-sync by re-copying and
 // redeploying). Writes (setTopicState) only take effect against the live
 // vault; the bundled snapshot is read-only.
-export const VAULT_DIR = process.env.VAULT_RECALL_PATH || path.join(process.cwd(), "content", "recall");
+//
+// content/recall holds one subfolder per subject (content/recall/<subject>/*.md).
+// A "subject" is auto-discovered: any subdirectory containing at least one
+// .md file. VAULT_ROOT is the root of that layout; VAULT_DIR is kept as an
+// alias for the default subject so any stray external reference still finds
+// something sane.
+export const VAULT_ROOT = process.env.VAULT_RECALL_PATH || path.join(process.cwd(), "content", "recall");
+export const VAULT_DIR = VAULT_ROOT;
 export const VAULT_IS_LIVE = Boolean(process.env.VAULT_RECALL_PATH);
+
+function subjectDir(subject: string): string {
+  return path.join(VAULT_ROOT, subject);
+}
+
+// Every subject subfolder under content/recall that has at least one .md
+// file. Sorted with the default subject first (existing users' Territory tab
+// order stays stable), then alphabetically by label.
+export async function listSubjects(): Promise<SubjectInfo[]> {
+  let entries: import("node:fs").Dirent[];
+  try {
+    entries = await fs.readdir(VAULT_ROOT, { withFileTypes: true });
+  } catch {
+    return [];
+  }
+  const dirs = entries.filter((e) => e.isDirectory());
+  const subjects: SubjectInfo[] = [];
+  for (const d of dirs) {
+    try {
+      const files = await fs.readdir(path.join(VAULT_ROOT, d.name));
+      if (files.some((f) => f.toLowerCase().endsWith(".md"))) {
+        subjects.push({ slug: d.name, label: subjectLabel(d.name) });
+      }
+    } catch {
+      continue;
+    }
+  }
+  subjects.sort((a, b) => a.label.localeCompare(b.label));
+  return subjects;
+}
 
 const VALID_STATES: TopicState[] = ["unstudied", "studied", "mapped", "drilled"];
 
@@ -168,10 +207,11 @@ async function withUserState<T extends TopicNode | null>(topic: T): Promise<T> {
   return state && VALID_STATES.includes(state) ? { ...topic, state } : topic;
 }
 
-export async function getAllTopics(): Promise<TopicNode[]> {
+export async function getAllTopics(subject: string = currentSubject()): Promise<TopicNode[]> {
+  const dir = subjectDir(subject);
   let filenames: string[];
   try {
-    filenames = (await fs.readdir(VAULT_DIR)).filter((f) => f.toLowerCase().endsWith(".md"));
+    filenames = (await fs.readdir(dir)).filter((f) => f.toLowerCase().endsWith(".md"));
   } catch {
     return [];
   }
@@ -179,7 +219,7 @@ export async function getAllTopics(): Promise<TopicNode[]> {
   const notes = await Promise.all(
     filenames.map(async (filename) => {
       try {
-        const raw = await fs.readFile(path.join(VAULT_DIR, filename), "utf8");
+        const raw = await fs.readFile(path.join(dir, filename), "utf8");
         return parseNote(filename, raw);
       } catch {
         return null;
@@ -190,8 +230,8 @@ export async function getAllTopics(): Promise<TopicNode[]> {
   return Promise.all(notes.filter((n): n is TopicNode => n !== null).map(withUserState));
 }
 
-export async function getTopic(slug: string): Promise<TopicNode | null> {
-  const filePath = path.join(VAULT_DIR, `${slug}.md`);
+export async function getTopic(slug: string, subject: string = currentSubject()): Promise<TopicNode | null> {
+  const filePath = path.join(subjectDir(subject), `${slug}.md`);
   try {
     const raw = await fs.readFile(filePath, "utf8");
     return withUserState(parseNote(`${slug}.md`, raw));
@@ -203,13 +243,13 @@ export async function getTopic(slug: string): Promise<TopicNode | null> {
 const natural = (a: string, b: string) => a.localeCompare(b, undefined, { numeric: true });
 
 // Study order: units in natural order (Unit 1, 2, 3A, 3B, 4A...), then node number within a unit.
-export async function getOrderedTopics(): Promise<TopicNode[]> {
-  const topics = await getAllTopics();
+export async function getOrderedTopics(subject: string = currentSubject()): Promise<TopicNode[]> {
+  const topics = await getAllTopics(subject);
   return topics.sort((a, b) => natural(a.unit, b.unit) || natural(a.id, b.id));
 }
 
-export async function getUnitGroups(): Promise<UnitGroup[]> {
-  const topics = await getOrderedTopics();
+export async function getUnitGroups(subject: string = currentSubject()): Promise<UnitGroup[]> {
+  const topics = await getOrderedTopics(subject);
   const groups = new Map<string, TopicNode[]>();
   for (const topic of topics) {
     const list = groups.get(topic.unit) ?? [];
@@ -224,10 +264,14 @@ export async function getUnitGroups(): Promise<UnitGroup[]> {
   }));
 }
 
-export async function setTopicState(slug: string, state: TopicState): Promise<boolean> {
+export async function setTopicState(
+  slug: string,
+  state: TopicState,
+  subject: string = currentSubject()
+): Promise<boolean> {
   if (!VALID_STATES.includes(state)) return false;
   if (!VAULT_IS_LIVE) return false; // bundled snapshot is read-only
-  const filePath = path.join(VAULT_DIR, `${slug}.md`);
+  const filePath = path.join(subjectDir(subject), `${slug}.md`);
   let raw: string;
   try {
     raw = await fs.readFile(filePath, "utf8");

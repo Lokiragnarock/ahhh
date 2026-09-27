@@ -15,12 +15,17 @@ export function isValidSyncKey(key: string | null | undefined): key is string {
 }
 
 // localStorage keys that belong to the synced progress record. Anything else
-// (including the sync bookkeeping itself) stays on the device. New subjects
-// (e.g. "gmat.") get added here.
-export const SYNCED_PREFIXES = ["tax.", "study-planner:"] as const;
+// (including the sync bookkeeping itself) stays on the device.
+//
+// Practice-store keys are namespaced "<subject-slug>.practice.*" (see KEYS in
+// practice-store.ts) — any subject folder discovered under content/recall
+// gets one automatically, no edit needed here. "study-planner:" is the
+// separate legacy calendar/todo store and is matched as a literal prefix.
+const SUBJECT_KEY_PATTERN = /^[a-z0-9][a-z0-9-]*\.practice\./;
+const LITERAL_PREFIXES = ["study-planner:"] as const;
 
 export function isSyncedKey(key: string): boolean {
-  return SYNCED_PREFIXES.some((p) => key.startsWith(p));
+  return SUBJECT_KEY_PATTERN.test(key) || LITERAL_PREFIXES.some((p) => key.startsWith(p));
 }
 
 // Fired on window whenever a stored key changes in this tab, with the key as

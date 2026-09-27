@@ -17,6 +17,7 @@ import {
   useErrors,
 } from "@/lib/practice-store";
 import { EMPTY_FIELDS, ErrorFieldValues, ErrorFields } from "./ErrorFields";
+import { useSubject } from "@/lib/subject/context";
 import { PageHead, Stat } from "./bits";
 
 interface NodeOpt {
@@ -37,6 +38,7 @@ const STATUSES: ErrorStatus[] = ["open", "re-solving", "mastered"];
 const cmp = (a: string, b: string) => a.localeCompare(b, undefined, { numeric: true });
 
 export function ErrorBook({ nodes }: { nodes: NodeOpt[] }) {
+  const subject = useSubject();
   const [errors, setErrors, hydrated] = useErrors();
   const [filters, setFilters] = useState({ unit: "", node: "", type: "", status: "" });
   const [showManual, setShowManual] = useState(false);
@@ -88,7 +90,7 @@ export function ErrorBook({ nodes }: { nodes: NodeOpt[] }) {
 
   async function onImport(file: File) {
     try {
-      const res = importAll(JSON.parse(await file.text()));
+      const res = importAll(subject, JSON.parse(await file.text()));
       say(`Imported. Now ${res.errors} errors, ${res.attempts} attempts, ${res.blocks} blocks.`);
     } catch {
       say("Could not read that file");
@@ -117,7 +119,7 @@ export function ErrorBook({ nodes }: { nodes: NodeOpt[] }) {
           <button
             type="button"
             className="sp-btn sp-btn-ghost"
-            onClick={() => download(`practice-backup-${today}.json`, JSON.stringify(exportAll(), null, 2), "application/json")}
+            onClick={() => download(`practice-backup-${today}.json`, JSON.stringify(exportAll(subject), null, 2), "application/json")}
           >
             Export JSON
           </button>

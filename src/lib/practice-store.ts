@@ -14,15 +14,22 @@ import type {
 import { ERROR_TYPES, ROUNDS } from "./practice-types";
 import { STORE_EVENT } from "./sync/shared";
 import { notifyStore, setLocal } from "./sync/client";
+import { useSubject } from "./subject/context";
 
-export const KEYS = {
-  attempts: "tax.practice.attempts.v1",
-  errors: "tax.practice.errors.v1",
-  blocks: "tax.practice.blocks.v1",
-  timer: "tax.practice.blockTimer.v1",
-  session: "tax.practice.session.v1",
-  rounds: "tax.practice.rounds.v1",
-} as const;
+// localStorage keys are namespaced per subject ("<subject>.practice.*") so
+// switching subjects switches the whole progress record — attempts, errors,
+// blocks, rounds, the lot. isSyncedKey (sync/shared.ts) matches this pattern
+// generically, so a new subject syncs with no further code changes.
+export function KEYS(subject: string) {
+  return {
+    attempts: `${subject}.practice.attempts.v1`,
+    errors: `${subject}.practice.errors.v1`,
+    blocks: `${subject}.practice.blocks.v1`,
+    timer: `${subject}.practice.blockTimer.v1`,
+    session: `${subject}.practice.session.v1`,
+    rounds: `${subject}.practice.rounds.v1`,
+  } as const;
+}
 
 export const CLOCK_START = "2026-09-25";
 export const STUDY_MIN = 45;
@@ -85,13 +92,13 @@ export function useStored<T>(key: string, fallback: T) {
 }
 
 const EMPTY: never[] = [];
-export const useAttempts = () => useStored<Attempt[]>(KEYS.attempts, EMPTY);
-export const useErrors = () => useStored<ErrorEntry[]>(KEYS.errors, EMPTY);
-export const useBlocks = () => useStored<BlockLog[]>(KEYS.blocks, EMPTY);
-export const useBlockTimer = () => useStored<BlockTimer | null>(KEYS.timer, null);
-export const useSession = () => useStored<SessionState | null>(KEYS.session, null);
+export const useAttempts = () => useStored<Attempt[]>(KEYS(useSubject()).attempts, EMPTY);
+export const useErrors = () => useStored<ErrorEntry[]>(KEYS(useSubject()).errors, EMPTY);
+export const useBlocks = () => useStored<BlockLog[]>(KEYS(useSubject()).blocks, EMPTY);
+export const useBlockTimer = () => useStored<BlockTimer | null>(KEYS(useSubject()).timer, null);
+export const useSession = () => useStored<SessionState | null>(KEYS(useSubject()).session, null);
 const EMPTY_ROUNDS: RoundsState = { topics: {} };
-export const useRounds = () => useStored<RoundsState>(KEYS.rounds, EMPTY_ROUNDS);
+export const useRounds = () => useStored<RoundsState>(KEYS(useSubject()).rounds, EMPTY_ROUNDS);
 
 // ---------------------------------------------------------------- helpers
 
@@ -270,13 +277,14 @@ export function blockPhase(ms: number): "study" | "log" | "done" {
 }
 
 // Idempotent: logs the running block once (by id) and clears the timer.
-export function finishBlock(now = Date.now()) {
-  const t = readStored<BlockTimer | null>(KEYS.timer, null);
+export function finishBlock(subject: string, now = Date.now()) {
+  const keys = KEYS(subject);
+  const t = readStored<BlockTimer | null>(keys.timer, null);
   if (!t) return;
   const ms = Math.min(blockElapsed(t, now), (STUDY_MIN + LOG_MIN) * 60000);
   const minutes = Math.round(ms / 60000);
   if (minutes >= 1) {
-    updateStored<BlockLog[]>(KEYS.blocks, [], (prev) =>
+    updateStored<BlockLog[]>(keys.blocks, [], (prev) =>
       prev.some((b) => b.id === t.id)
         ? prev
         : [
@@ -294,7 +302,7 @@ export function finishBlock(now = Date.now()) {
           ]
     );
   }
-  writeStored(KEYS.timer, null);
+  writeStored(keys.timer, null);
 }
 
 // ---------------------------------------------------------------- rounds
@@ -310,14 +318,15 @@ export {
 
 // ---------------------------------------------------------------- backup
 
-export function exportAll() {
+export function exportAll(subject: string) {
+  const keys = KEYS(subject);
   return {
     version: 1,
     exportedAt: new Date().toISOString(),
-    attempts: readStored<Attempt[]>(KEYS.attempts, []),
-    errors: readStored<ErrorEntry[]>(KEYS.errors, []),
-    blocks: readStored<BlockLog[]>(KEYS.blocks, []),
-    rounds: readStored<RoundsState>(KEYS.rounds, { topics: {} }),
+    attempts: readStored<Attempt[]>(keys.attempts, []),
+    errors: readStored<ErrorEntry[]>(keys.errors, []),
+    blocks: readStored<BlockLog[]>(keys.blocks, []),
+    rounds: readStored<RoundsState>(keys.rounds, { topics: {} }),
   };
 }
 
@@ -328,20 +337,21 @@ function mergeById<T extends { id: string }>(current: T[], incoming: unknown): T
   return Array.from(map.values());
 }
 
-export function importAll(data: unknown): { attempts: number; errors: number; blocks: number } {
+export function importAll(subject: string, data: unknown): { attempts: number; errors: number; blocks: number } {
+  const keys = KEYS(subject);
   const d = (data ?? {}) as Record<string, unknown>;
-  const attempts = mergeById(readStored<Attempt[]>(KEYS.attempts, []), d.attempts);
-  const errors = mergeById(readStored<ErrorEntry[]>(KEYS.errors, []), d.errors);
-  const blocks = mergeById(readStored<BlockLog[]>(KEYS.blocks, []), d.blocks);
-  writeStored(KEYS.attempts, attempts);
-  writeStored(KEYS.errors, errors);
-  writeStored(KEYS.blocks, blocks);
+  const attempts = mergeById(readStored<Attempt[]>(keys.attempts, []), d.attempts);
+  const errors = mergeById(readStored<ErrorEntry[]>(keys.errors, []), d.errors);
+  const blocks = mergeById(readStored<BlockLog[]>(keys.blocks, []), d.blocks);
+  writeStored(keys.attempts, attempts);
+  writeStored(keys.errors, errors);
+  writeStored(keys.blocks, blocks);
   const incoming = d.rounds as RoundsState | undefined;
   if (incoming && typeof incoming === "object" && incoming.topics) {
-    const cur = readStored<RoundsState>(KEYS.rounds, { topics: {} });
+    const cur = readStored<RoundsState>(keys.rounds, { topics: {} });
     const topics = { ...cur.topics };
     for (const [n, r] of Object.entries(incoming.topics)) topics[n] = { ...(topics[n] ?? {}), ...r };
-    writeStored(KEYS.rounds, { topics, r3Complete: cur.r3Complete ?? incoming.r3Complete });
+    writeStored(keys.rounds, { topics, r3Complete: cur.r3Complete ?? incoming.r3Complete });
   }
   return { attempts: attempts.length, errors: errors.length, blocks: blocks.length };
 }

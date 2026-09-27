@@ -1,5 +1,7 @@
 import { NextRequest, NextResponse } from "next/server";
 import { getAllTopics } from "@/lib/vault";
+import { currentSubject } from "@/lib/subject/server";
+import { subjectLabel } from "@/lib/subject/shared";
 import { roundCount, stateCounts } from "@/lib/rounds-core";
 import type { RoundsState } from "@/lib/practice-types";
 import { KV_ENABLED } from "@/lib/sync/kv";
@@ -14,8 +16,6 @@ import { SYNC_COOKIE, SYNC_COOKIE_MAX_AGE } from "@/lib/sync/shared";
 
 export const dynamic = "force-dynamic";
 
-const ROUNDS_KEY = "tax.practice.rounds.v1";
-
 function parseRounds(raw: string | null | undefined): RoundsState {
   if (!raw) return { topics: {} };
   try {
@@ -28,21 +28,33 @@ function parseRounds(raw: string | null | undefined): RoundsState {
 
 // The leaderboard needs no key of its own: everyone in `ahhh:names` gets
 // scored straight off the same synced record SyncAgent already keeps current
-// (`tax.practice.rounds.v1`), so there's nothing extra to write on round
-// completion — it just shows up here on the next load.
+// (`<subject>.practice.rounds.v1`), so there's nothing extra to write on
+// round completion — it just shows up here on the next load.
+//
+// Tradeoff: duel has no subject concept of its own (unlike the rest of the
+// app, it's cross-device and cross-person by design), so "which subject's
+// rounds to compare" is resolved from the CALLER's own current-subject
+// cookie, not each entrant's. Two friends comparing Taxation progress both
+// need their subject tab set to Taxation when they open /duel; if one has
+// switched to a different subject, they'll see the leaderboard scored
+// against that subject instead, with entrants who've never touched it
+// showing zeros. This keeps the route simple and avoids inventing a
+// separate "duel subject" the UI would have to expose.
 export async function GET() {
   if (!KV_ENABLED) {
-    return NextResponse.json({ configured: false, entries: [], totalTopics: 0 });
+    return NextResponse.json({ configured: false, entries: [], totalTopics: 0, subject: null });
   }
 
-  const [names, topics] = await Promise.all([loadAllNames(), getAllTopics()]);
+  const subject = currentSubject();
+  const roundsKey = `${subject}.practice.rounds.v1`;
+  const [names, topics] = await Promise.all([loadAllNames(), getAllTopics(subject)]);
   const nodeIds = topics.map((t) => t.id);
   const myKey = currentSyncKey();
 
   const entries = await Promise.all(
     Object.entries(names).map(async ([key, name]) => {
       const record = await loadRecord(key);
-      const rounds = parseRounds(record[ROUNDS_KEY]?.v);
+      const rounds = parseRounds(record[roundsKey]?.v);
       const counts = stateCounts(rounds, nodeIds);
       return {
         name,
@@ -59,7 +71,12 @@ export async function GET() {
 
   entries.sort((a, b) => b.drilled - a.drilled || b.mapped - a.mapped || b.studied - a.studied || a.name.localeCompare(b.name));
 
-  return NextResponse.json({ configured: true, entries, totalTopics: nodeIds.length });
+  return NextResponse.json({
+    configured: true,
+    entries,
+    totalTopics: nodeIds.length,
+    subject: { slug: subject, label: subjectLabel(subject) },
+  });
 }
 
 // Body: { name: string }. Registers (or renames) the caller in the duel. If

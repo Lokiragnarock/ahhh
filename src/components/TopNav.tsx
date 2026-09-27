@@ -5,6 +5,7 @@ import { usePathname } from "next/navigation";
 import { useEffect, useState } from "react";
 import { blockElapsed, blockPhase, finishBlock, fmtClock, STUDY_MIN, LOG_MIN, useBlockTimer } from "@/lib/practice-store";
 import { SyncLinkButton } from "@/components/SyncLinkButton";
+import { useSubject } from "@/lib/subject/context";
 
 const LINKS = [
   { href: "/", label: "Territory" },
@@ -14,6 +15,7 @@ const LINKS = [
   { href: "/timeline", label: "Timeline" },
   { href: "/duel", label: "Duel" },
   { href: "/block", label: "Block" },
+  { href: "/help", label: "Help" },
 ];
 
 export function TopNav() {
@@ -45,6 +47,7 @@ export function TopNav() {
 }
 
 function BlockIndicator() {
+  const subject = useSubject();
   const [timer] = useBlockTimer();
   const [now, setNow] = useState(() => Date.now());
 
@@ -58,8 +61,8 @@ function BlockIndicator() {
   const phase = blockPhase(elapsed);
 
   useEffect(() => {
-    if (timer && phase === "done") finishBlock();
-  }, [timer, phase]);
+    if (timer && phase === "done") finishBlock(subject);
+  }, [timer, phase, subject]);
 
   if (!timer) return null;
   const remaining = phase === "study" ? STUDY_MIN * 60000 - elapsed : (STUDY_MIN + LOG_MIN) * 60000 - elapsed;

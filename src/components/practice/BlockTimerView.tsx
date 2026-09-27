@@ -20,10 +20,12 @@ import {
 } from "@/lib/practice-store";
 import { PageHead, RepsStrip, Stat } from "./bits";
 import { currentDevice } from "@/lib/sync/client";
+import { useSubject } from "@/lib/subject/context";
 
 const TOTAL_MS = (STUDY_MIN + LOG_MIN) * 60000;
 
 export function BlockTimerView({ nodes }: { nodes: { id: string; title: string; unit: string }[] }) {
+  const subject = useSubject();
   const [timer, setTimer] = useBlockTimer();
   const [blocks] = useBlocks();
   const [round, setRound] = useState<Round>("R1");
@@ -47,8 +49,8 @@ export function BlockTimerView({ nodes }: { nodes: { id: string; title: string; 
   const phase = blockPhase(elapsed);
 
   useEffect(() => {
-    if (timer && phase === "done") finishBlock();
-  }, [timer, phase]);
+    if (timer && phase === "done") finishBlock(subject);
+  }, [timer, phase, subject]);
 
   function start() {
     const t = Date.now();
@@ -163,7 +165,7 @@ export function BlockTimerView({ nodes }: { nodes: { id: string; title: string; 
                   Resume
                 </button>
               )}
-              <button type="button" className="sp-btn sp-btn-ghost" onClick={() => finishBlock()}>
+              <button type="button" className="sp-btn sp-btn-ghost" onClick={() => finishBlock(subject)}>
                 End &amp; log {Math.round(elapsed / 60000)} min
               </button>
               <button type="button" className="sp-btn sp-btn-danger" onClick={reset}>

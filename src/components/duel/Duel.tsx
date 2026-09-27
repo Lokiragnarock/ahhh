@@ -17,6 +17,7 @@ interface DuelResponse {
   configured: boolean;
   entries: DuelEntry[];
   totalTopics: number;
+  subject: { slug: string; label: string } | null;
 }
 
 const MEDAL = ["🥇", "🥈", "🥉"];
@@ -83,6 +84,12 @@ export function Duel() {
 
   return (
     <div>
+      {data.subject && (
+        <p className="text-[12px] text-[#888] mb-4">
+          Scored on your current subject tab — <strong>{data.subject.label}</strong>. Entrants who haven&apos;t
+          studied this subject show 0s here even if they&apos;re ahead in another one.
+        </p>
+      )}
       {!youEntry && (
         <form onSubmit={handleJoin} className="sp-panel max-w-[420px] mb-8 flex flex-col gap-3">
           <div className="sp-label">Join the duel</div>

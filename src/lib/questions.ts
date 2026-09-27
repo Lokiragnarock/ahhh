@@ -2,9 +2,16 @@ import fs from "node:fs/promises";
 import path from "node:path";
 import { marked } from "marked";
 import { getAllTopics } from "./vault";
+import { currentSubject } from "./subject/server";
 import { Question, QuestionType, RenderedQuestion, TYPE_ORDER } from "./question-types";
 
-export const QUESTIONS_DIR = path.join(process.cwd(), "content", "tests", "taxation");
+export const QUESTIONS_ROOT = path.join(process.cwd(), "content", "tests");
+// Kept for anything reading it directly; now just the default subject's dir.
+export const QUESTIONS_DIR = path.join(QUESTIONS_ROOT, "taxation");
+
+function questionsDir(subject: string): string {
+  return path.join(QUESTIONS_ROOT, subject);
+}
 
 const TYPES: QuestionType[] = ["mcq", "short", "long", "case"];
 
@@ -45,10 +52,11 @@ function render(q: Question): RenderedQuestion {
   };
 }
 
-export async function getQuestions(): Promise<RenderedQuestion[]> {
+export async function getQuestions(subject: string = currentSubject()): Promise<RenderedQuestion[]> {
+  const dir = questionsDir(subject);
   let files: string[];
   try {
-    files = (await fs.readdir(QUESTIONS_DIR)).filter((f) => f.toLowerCase().endsWith(".json")).sort();
+    files = (await fs.readdir(dir)).filter((f) => f.toLowerCase().endsWith(".json")).sort();
   } catch {
     return [];
   }
@@ -58,7 +66,7 @@ export async function getQuestions(): Promise<RenderedQuestion[]> {
   for (const file of files) {
     let data: unknown;
     try {
-      data = JSON.parse(await fs.readFile(path.join(QUESTIONS_DIR, file), "utf8"));
+      data = JSON.parse(await fs.readFile(path.join(dir, file), "utf8"));
     } catch {
       continue;
     }
@@ -97,8 +105,10 @@ export interface UnitIndex {
 }
 
 // Units -> nodes, merging question-bank nodes with topic notes from the vault.
-export async function getPracticeIndex(): Promise<{ questions: RenderedQuestion[]; units: UnitIndex[] }> {
-  const [questions, topics] = await Promise.all([getQuestions(), getAllTopics()]);
+export async function getPracticeIndex(
+  subject: string = currentSubject()
+): Promise<{ questions: RenderedQuestion[]; units: UnitIndex[] }> {
+  const [questions, topics] = await Promise.all([getQuestions(subject), getAllTopics(subject)]);
   const nodes = new Map<string, NodeIndex>();
   for (const t of topics) {
     nodes.set(t.id, { id: t.id, unit: t.unit, title: t.title.replace(new RegExp(`^(${t.id}|${t.unit})\\s*[—–-]\\s*`), ""), slug: t.slug, qCount: 0 });

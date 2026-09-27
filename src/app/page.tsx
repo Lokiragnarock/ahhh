@@ -1,7 +1,10 @@
 import Link from "next/link";
-import { getUnitGroups } from "@/lib/vault";
+import { getUnitGroups, listSubjects } from "@/lib/vault";
+import { currentSubject } from "@/lib/subject/server";
+import { subjectLabel } from "@/lib/subject/shared";
 import { Treemap } from "@/components/study/Treemap";
 import { TopNav } from "@/components/TopNav";
+import { SubjectTabs } from "@/components/SubjectTabs";
 import { RoundsBoard, RoundsStrip, TerritoryStats, UpNext } from "@/components/practice/Rounds";
 import type { FlowTopic } from "@/lib/flow";
 
@@ -10,7 +13,8 @@ import type { FlowTopic } from "@/lib/flow";
 export const dynamic = "force-dynamic";
 
 export default async function TerritoryPage() {
-  const units = await getUnitGroups();
+  const subject = currentSubject();
+  const [units, subjects] = await Promise.all([getUnitGroups(subject), listSubjects()]);
   const topics = units.flatMap((u) => u.topics);
   const lite = (t: (typeof topics)[number]): FlowTopic & { minutes: number } => ({
     id: t.id,
@@ -33,19 +37,13 @@ export default async function TerritoryPage() {
           </Link>
         </div>
 
-        <div className="flex items-center gap-2 mb-8">
-          <button
-            type="button"
-            className="px-3 py-1.5 text-[12px] font-semibold uppercase tracking-[0.06em] bg-[#111] text-white border border-[#111]"
-          >
-            Taxation Law
-          </button>
-        </div>
+        <SubjectTabs subjects={subjects} current={subject} />
 
         {topics.length === 0 ? (
           <p className="text-[14.5px] text-[#555] max-w-[60ch]">
-            No topic notes found under <code>{"Second Brain\\Recall"}</code>. A topic note needs a{" "}
-            <code>node</code> field in its frontmatter to appear here.
+            No topic notes found for <strong>{subjectLabel(subject)}</strong> under{" "}
+            <code>{`content/recall/${subject}`}</code>. A topic note needs a <code>node</code> field in its
+            frontmatter to appear here.
           </p>
         ) : (
           <>

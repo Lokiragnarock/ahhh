@@ -76,8 +76,8 @@ export async function loadActivity(key: string): Promise<ActivityEvent[]> {
 // ---------------------------------------------------------------- duel
 // A single hash, `ahhh:names`, maps sync key -> display name. Whoever has a
 // name in it shows up on the leaderboard; their progress comes straight out
-// of their own synced record (the same `tax.practice.rounds.v1` blob synced
-// by SyncAgent), so joining the duel needs no extra write path.
+// of their own synced record (the same `<subject>.practice.rounds.v1` blob
+// synced by SyncAgent), so joining the duel needs no extra write path.
 const NAMES_KEY = "ahhh:names";
 
 export function generateSyncKey(): string {
