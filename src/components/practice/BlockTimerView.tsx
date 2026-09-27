@@ -31,6 +31,7 @@ export function BlockTimerView({ nodes }: { nodes: { id: string; title: string; 
   const [round, setRound] = useState<Round>("R1");
   const [node, setNode] = useState("");
   const [now, setNow] = useState(() => Date.now());
+  const [nudgeDismissed, setNudgeDismissed] = useState(false);
 
   const [roundState, , roundsReady] = useRounds();
   const current = currentRound(roundState, nodes.map((n) => n.id));
@@ -84,6 +85,22 @@ export function BlockTimerView({ nodes }: { nodes: { id: string; title: string; 
   return (
     <div className="sp-wrap">
       <PageHead title="Block" kicker={`${STUDY_MIN} min study · ${LOG_MIN} min error logging`} />
+
+      {!timer && todays.length > 0 && !nudgeDismissed && (
+        <div className="sp-reveal-box mb-6 flex items-center justify-between gap-3">
+          <p className="text-[13px] text-[#333]">
+            You just logged a block. <Link href="/backup" className="underline">Back up your progress</Link>.
+          </p>
+          <button
+            type="button"
+            className="text-[12px] text-[#888] hover:text-[#111] shrink-0"
+            onClick={() => setNudgeDismissed(true)}
+            aria-label="Dismiss"
+          >
+            Dismiss
+          </button>
+        </div>
+      )}
 
       <section className="sp-panel mb-8">
         {!timer ? (

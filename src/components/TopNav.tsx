@@ -15,6 +15,7 @@ const LINKS = [
   { href: "/timeline", label: "Timeline" },
   { href: "/duel", label: "Duel" },
   { href: "/block", label: "Block" },
+  { href: "/backup", label: "Backup" },
   { href: "/help", label: "Help" },
 ];
 
