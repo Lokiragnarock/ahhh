@@ -19,6 +19,7 @@ import {
   useRounds,
 } from "@/lib/practice-store";
 import { PageHead, RepsStrip, Stat } from "./bits";
+import { currentDevice } from "@/lib/sync/client";
 
 const TOTAL_MS = (STUDY_MIN + LOG_MIN) * 60000;
 
@@ -52,7 +53,7 @@ export function BlockTimerView({ nodes }: { nodes: { id: string; title: string; 
   function start() {
     const t = Date.now();
     setNow(t);
-    setTimer({ id: uid(), round, node: node || undefined, firstStart: t, runningSince: t, accumulatedMs: 0 });
+    setTimer({ id: uid(), round, node: node || undefined, firstStart: t, runningSince: t, accumulatedMs: 0, device: currentDevice() });
   }
 
   function pause() {

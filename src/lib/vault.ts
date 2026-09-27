@@ -2,6 +2,8 @@ import fs from "node:fs/promises";
 import path from "node:path";
 import matter from "gray-matter";
 import { marked } from "marked";
+import { cache } from "react";
+import { currentSyncKey, loadTopicStates } from "./sync/server";
 import {
   Flashcard,
   NoteSection,
@@ -147,6 +149,25 @@ function parseNote(filename: string, raw: string): TopicNode | null {
   };
 }
 
+// With a sync key, topic states come from the synced store (frontmatter is
+// the fallback for notes never touched on a synced device). Cached per request
+// since one page render can list topics several times.
+const userTopicStates = cache(async (): Promise<Record<string, TopicState> | null> => {
+  const key = currentSyncKey();
+  if (!key) return null;
+  try {
+    return await loadTopicStates(key);
+  } catch {
+    return null;
+  }
+});
+
+async function withUserState<T extends TopicNode | null>(topic: T): Promise<T> {
+  if (!topic) return topic;
+  const state = (await userTopicStates())?.[topic.slug];
+  return state && VALID_STATES.includes(state) ? { ...topic, state } : topic;
+}
+
 export async function getAllTopics(): Promise<TopicNode[]> {
   let filenames: string[];
   try {
@@ -166,14 +187,14 @@ export async function getAllTopics(): Promise<TopicNode[]> {
     })
   );
 
-  return notes.filter((n): n is TopicNode => n !== null);
+  return Promise.all(notes.filter((n): n is TopicNode => n !== null).map(withUserState));
 }
 
 export async function getTopic(slug: string): Promise<TopicNode | null> {
   const filePath = path.join(VAULT_DIR, `${slug}.md`);
   try {
     const raw = await fs.readFile(filePath, "utf8");
-    return parseNote(`${slug}.md`, raw);
+    return withUserState(parseNote(`${slug}.md`, raw));
   } catch {
     return null;
   }

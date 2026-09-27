@@ -12,6 +12,8 @@ import type {
   SessionState,
 } from "./practice-types";
 import { ERROR_TYPES, ROUNDS } from "./practice-types";
+import { STORE_EVENT } from "./sync/shared";
+import { notifyStore, setLocal } from "./sync/client";
 
 export const KEYS = {
   attempts: "tax.practice.attempts.v1",
@@ -26,8 +28,6 @@ export const CLOCK_START = "2026-09-25";
 export const STUDY_MIN = 45;
 export const LOG_MIN = 15;
 
-const EVENT = "practice-store";
-
 // ---------------------------------------------------------------- storage
 
 export function readStored<T>(key: string, fallback: T): T {
@@ -40,13 +40,8 @@ export function readStored<T>(key: string, fallback: T): T {
 }
 
 export function writeStored<T>(key: string, value: T) {
-  try {
-    if (value === null || value === undefined) window.localStorage.removeItem(key);
-    else window.localStorage.setItem(key, JSON.stringify(value));
-  } catch {
-    // storage full or unavailable
-  }
-  window.dispatchEvent(new CustomEvent(EVENT, { detail: key }));
+  setLocal(key, value === null || value === undefined ? null : JSON.stringify(value));
+  notifyStore(key);
 }
 
 export function updateStored<T>(key: string, fallback: T, fn: (prev: T) => T) {
@@ -69,10 +64,10 @@ export function useStored<T>(key: string, fallback: T) {
     const onStorage = (e: StorageEvent) => {
       if (e.key === key) load();
     };
-    window.addEventListener(EVENT, onLocal);
+    window.addEventListener(STORE_EVENT, onLocal);
     window.addEventListener("storage", onStorage);
     return () => {
-      window.removeEventListener(EVENT, onLocal);
+      window.removeEventListener(STORE_EVENT, onLocal);
       window.removeEventListener("storage", onStorage);
     };
   }, [key]);
@@ -294,6 +289,7 @@ export function finishBlock(now = Date.now()) {
               endedAt: new Date(now).toISOString(),
               minutes,
               complete: blockPhase(ms) === "done",
+              device: t.device,
             },
           ]
     );

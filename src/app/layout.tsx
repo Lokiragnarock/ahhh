@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
+import { SyncAgent } from "@/components/SyncAgent";
 
 const inter = Inter({
   subsets: ["latin"],
@@ -21,6 +22,7 @@ export default function RootLayout({
   return (
     <html lang="en" className={inter.variable}>
       <body className="bg-background font-body-md text-body-md text-on-surface antialiased">
+        <SyncAgent />
         {children}
       </body>
     </html>

@@ -18,6 +18,7 @@ import {
   useErrors,
 } from "@/lib/practice-store";
 import { EMPTY_FIELDS, ErrorFieldValues, ErrorFields } from "./ErrorFields";
+import { currentDevice } from "@/lib/sync/client";
 import { MarkRoundPrompt } from "./Rounds";
 import type { Step } from "@/lib/flow";
 
@@ -183,6 +184,7 @@ export function TestRunner({ pool, kind, scope, resolveEntryId, next }: Props) {
         score,
         max,
         results,
+        device: currentDevice(),
       };
       updateStored<Attempt[]>(KEYS.attempts, [], (prev) => [...prev, attempt!]);
     }

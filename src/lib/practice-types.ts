@@ -21,6 +21,7 @@ export interface Attempt {
   score: number;
   max: number;
   results: QuestionResult[];
+  device?: string; // where it was taken, for the activity timeline
 }
 
 export const ERROR_TYPES = [
@@ -76,6 +77,7 @@ export interface BlockLog {
   endedAt: string;
   minutes: number;
   complete: boolean;
+  device?: string; // where the block was started
 }
 
 export interface BlockTimer {
@@ -85,6 +87,7 @@ export interface BlockTimer {
   firstStart: number; // ms epoch
   runningSince: number | null; // ms epoch of the current running segment
   accumulatedMs: number; // time banked before the current segment
+  device?: string;
 }
 
 export interface AnswerState {

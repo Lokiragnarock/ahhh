@@ -1,5 +1,7 @@
 import { NextRequest, NextResponse } from "next/server";
-import { getTopic, setTopicState } from "@/lib/vault";
+import { getTopic, setTopicState, VAULT_IS_LIVE } from "@/lib/vault";
+import { appendActivity, currentSyncKey, saveTopicState } from "@/lib/sync/server";
+import { deviceFromUserAgent } from "@/lib/sync/shared";
 import { TopicState } from "@/lib/study-types";
 
 const VALID_STATES: TopicState[] = ["unstudied", "studied", "mapped", "drilled"];
@@ -7,9 +9,9 @@ const STATE_RANK: Record<TopicState, number> = { unstudied: 0, studied: 1, mappe
 
 export const dynamic = "force-dynamic";
 
-// The only route in the app that mutates the vault. It only ever touches the
-// `state:` line of a note's frontmatter, leaving the rest of the file
-// byte-identical.
+// Records a topic's state. On a synced device it goes to the synced store (and
+// the activity log); against a live local vault it also rewrites the `state:`
+// line of the note's frontmatter, leaving the rest of the file byte-identical.
 export async function POST(req: NextRequest) {
   let body: { slug?: string; state?: string; force?: boolean };
   try {
@@ -35,7 +37,26 @@ export async function POST(req: NextRequest) {
     return NextResponse.json({ ok: true, skipped: true, state: current.state });
   }
 
-  const ok = await setTopicState(slug, state as TopicState);
+  const next = state as TopicState;
+  const key = currentSyncKey();
+  let ok = false;
+  if (key) {
+    try {
+      await saveTopicState(key, slug, next);
+      await appendActivity(key, {
+        at: new Date().toISOString(),
+        type: "topic-state",
+        device: deviceFromUserAgent(req.headers.get("user-agent")),
+        slug,
+        from: current.state,
+        to: next,
+      });
+      ok = true;
+    } catch {
+      // fall through to the vault, if there is one
+    }
+  }
+  if (VAULT_IS_LIVE) ok = (await setTopicState(slug, next)) || ok;
   if (!ok) {
     return NextResponse.json({ error: "write failed" }, { status: 500 });
   }
