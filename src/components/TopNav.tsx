@@ -4,6 +4,7 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useEffect, useState } from "react";
 import { blockElapsed, blockPhase, finishBlock, fmtClock, STUDY_MIN, LOG_MIN, useBlockTimer } from "@/lib/practice-store";
+import { SyncLinkButton } from "@/components/SyncLinkButton";
 
 const LINKS = [
   { href: "/", label: "Territory" },
@@ -36,6 +37,7 @@ export function TopNav() {
             );
           })}
         </nav>
+        <SyncLinkButton />
         <BlockIndicator />
       </div>
     </header>
