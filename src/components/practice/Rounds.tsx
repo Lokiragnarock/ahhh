@@ -10,6 +10,7 @@ import {
   roundCount,
   roundDone,
   setRound,
+  topicStateFromRounds,
   useAttempts,
   useRounds,
 } from "@/lib/practice-store";
@@ -48,6 +49,42 @@ export function RoundToggles({ node, withDates = false }: { node: string; withDa
           btn
         );
       })}
+    </div>
+  );
+}
+
+// "Studied" is derived straight from rounds now (R1 -> studied, R2 -> mapped,
+// R3 -> drilled) — the old vault frontmatter `state:` field only reflects
+// what Focus mode wrote and drifts from what the round chips actually show.
+export function StudyState({ node }: { node: string }) {
+  const [rounds] = useRounds();
+  return <span className="capitalize">{topicStateFromRounds(rounds, node)}</span>;
+}
+
+// Territory page's three stat tiles — minutes left, topic count, drilled
+// count — all derived from rounds so they move in lockstep with the treemap
+// and the sidebar label instead of the stale vault frontmatter.
+export function TerritoryStats({ topics }: { topics: (FlowTopic & { minutes: number })[] }) {
+  const [rounds] = useRounds();
+  const drilledCount = topics.filter((t) => topicStateFromRounds(rounds, t.id) === "drilled").length;
+  const minutesRemaining = topics
+    .filter((t) => topicStateFromRounds(rounds, t.id) !== "drilled")
+    .reduce((s, t) => s + t.minutes, 0);
+
+  return (
+    <div className="grid grid-cols-3 gap-px bg-[#e5e5e5] border border-[#e5e5e5] mb-6 max-w-[560px]">
+      <Stat label="Minutes remaining" value={minutesRemaining} />
+      <Stat label="Topics" value={topics.length} />
+      <Stat label="Drilled" value={drilledCount} />
+    </div>
+  );
+}
+
+function Stat({ label, value }: { label: string; value: number }) {
+  return (
+    <div className="bg-white px-5 py-4">
+      <div className="sp-label mb-1">{label}</div>
+      <div className="text-[22px] font-semibold text-[#111]">{value}</div>
     </div>
   );
 }

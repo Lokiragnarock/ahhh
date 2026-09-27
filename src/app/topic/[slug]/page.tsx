@@ -4,7 +4,7 @@ import { getAllTopics, getTopic } from "@/lib/vault";
 import { getQuestions } from "@/lib/questions";
 import { TopNav } from "@/components/TopNav";
 import { LastMiniScore, TopicErrors } from "@/components/practice/TopicPractice";
-import { RoundToggles } from "@/components/practice/Rounds";
+import { RoundToggles, StudyState } from "@/components/practice/Rounds";
 import { getTopicFlow, topicHref } from "@/lib/flow";
 
 // Screen 2: Topic note, embedded. 1100px card, 20% sticky sidebar + 80%
@@ -66,7 +66,9 @@ export default async function TopicPage({ params }: { params: { slug: string } }
             </div>
             <div className="sp-meta-block">
               <div className="sp-label">State / Studied</div>
-              <div className="sp-value capitalize">{topic.state}</div>
+              <div className="sp-value">
+                <StudyState node={topic.id} />
+              </div>
             </div>
             <div className="sp-meta-block">
               <div className="sp-label">Exam focus</div>

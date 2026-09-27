@@ -299,33 +299,14 @@ export function finishBlock(now = Date.now()) {
 
 // ---------------------------------------------------------------- rounds
 
-export function roundDone(state: RoundsState, node: string, round: Round): boolean {
-  return Boolean(state.topics?.[node]?.[round]);
-}
-
-export function setRound(state: RoundsState, nodes: string[], round: Round, done: boolean): RoundsState {
-  const topics = { ...(state.topics ?? {}) };
-  const stamp = new Date().toISOString();
-  for (const n of nodes) {
-    const t = { ...(topics[n] ?? {}) };
-    if (done) t[round] = t[round] ?? stamp;
-    else delete t[round];
-    topics[n] = t;
-  }
-  return { ...state, topics };
-}
-
-export function roundCount(state: RoundsState, nodes: string[], round: Round): number {
-  return nodes.filter((n) => roundDone(state, n, round)).length;
-}
-
-// First round not yet complete across every topic; R3 once R1 and R2 are done.
-export function currentRound(state: RoundsState, nodes: string[]): Round {
-  if (nodes.length === 0) return "R1";
-  if (roundCount(state, nodes, "R1") < nodes.length) return "R1";
-  if (roundCount(state, nodes, "R2") < nodes.length) return "R2";
-  return "R3";
-}
+export {
+  roundDone,
+  roundCount,
+  currentRound,
+  setRound,
+  topicStateFromRounds,
+  stateCounts,
+} from "./rounds-core";
 
 // ---------------------------------------------------------------- backup
 

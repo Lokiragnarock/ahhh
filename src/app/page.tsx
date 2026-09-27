@@ -2,7 +2,7 @@ import Link from "next/link";
 import { getUnitGroups } from "@/lib/vault";
 import { Treemap } from "@/components/study/Treemap";
 import { TopNav } from "@/components/TopNav";
-import { RoundsBoard, RoundsStrip, UpNext } from "@/components/practice/Rounds";
+import { RoundsBoard, RoundsStrip, TerritoryStats, UpNext } from "@/components/practice/Rounds";
 import type { FlowTopic } from "@/lib/flow";
 
 // Screen 1: Territory. Reads the vault at request time — no caching, no
@@ -12,19 +12,15 @@ export const dynamic = "force-dynamic";
 export default async function TerritoryPage() {
   const units = await getUnitGroups();
   const topics = units.flatMap((u) => u.topics);
-  const lite = (t: (typeof topics)[number]): FlowTopic => ({
+  const lite = (t: (typeof topics)[number]): FlowTopic & { minutes: number } => ({
     id: t.id,
     slug: t.slug,
     unit: t.unit,
     title: t.title.replace(new RegExp(`^(${t.id}|${t.unit})\\s*[—–-]\\s*`), ""),
+    minutes: t.minutes,
   });
   const ordered = topics.map(lite);
   const board = units.map((u) => ({ unit: u.id, topics: u.topics.map(lite) }));
-
-  const minutesRemaining = topics
-    .filter((t) => t.state !== "drilled")
-    .reduce((s, t) => s + t.minutes, 0);
-  const drilledCount = topics.filter((t) => t.state === "drilled").length;
 
   return (
     <main className="sp-page pt-12">
@@ -56,11 +52,7 @@ export default async function TerritoryPage() {
             <RoundsStrip topics={ordered} />
             <UpNext topics={ordered} />
 
-            <div className="grid grid-cols-3 gap-px bg-[#e5e5e5] border border-[#e5e5e5] mb-6 max-w-[560px]">
-              <Stat label="Minutes remaining" value={minutesRemaining} />
-              <Stat label="Topics" value={topics.length} />
-              <Stat label="Drilled" value={drilledCount} />
-            </div>
+            <TerritoryStats topics={ordered} />
 
             <div className="mb-12">
               <Treemap units={units} />
@@ -72,14 +64,5 @@ export default async function TerritoryPage() {
         )}
       </div>
     </main>
-  );
-}
-
-function Stat({ label, value }: { label: string; value: number }) {
-  return (
-    <div className="bg-white px-5 py-4">
-      <div className="sp-label mb-1">{label}</div>
-      <div className="text-[22px] font-semibold text-[#111]">{value}</div>
-    </div>
   );
 }

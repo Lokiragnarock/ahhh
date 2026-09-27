@@ -3,6 +3,7 @@
 import { useRouter } from "next/navigation";
 import { squarify } from "@/lib/treemap";
 import { STATE_FILL, TopicNode, UnitGroup } from "@/lib/study-types";
+import { topicStateFromRounds, useRounds } from "@/lib/practice-store";
 
 // Virtual coordinate space the layout is computed in. Rects are converted to
 // percentages so the whole thing scales responsively without recomputation.
@@ -82,15 +83,17 @@ function TopicRect({
   rect: { x: number; y: number; w: number; h: number };
   onOpen: () => void;
 }) {
-  const fill = STATE_FILL[topic.state];
-  const fullyInked = topic.state === "drilled";
+  const [rounds] = useRounds();
+  const state = topicStateFromRounds(rounds, topic.id);
+  const fill = STATE_FILL[state];
+  const fullyInked = state === "drilled";
   const tiny = rect.w < (VW / 1000) * 55 || rect.h < 26;
 
   return (
     <button
       type="button"
       onClick={onOpen}
-      title={`${topic.id} · ${topic.title} · ${topic.minutes} min · ${topic.state}`}
+      title={`${topic.id} · ${topic.title} · ${topic.minutes} min · ${state}`}
       className="absolute overflow-hidden border border-white bg-[#f2f2f0] text-left cursor-pointer"
       style={{
         left: `${(rect.x / VW) * 100}%`,
