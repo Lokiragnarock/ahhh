@@ -2,7 +2,7 @@ import { NextRequest, NextResponse } from "next/server";
 import { getAllTopics } from "@/lib/vault";
 import { roundCount, stateCounts } from "@/lib/rounds-core";
 import type { RoundsState } from "@/lib/practice-types";
-import { KV_ENABLED, kv } from "@/lib/sync/kv";
+import { KV_ENABLED } from "@/lib/sync/kv";
 import {
   currentSyncKey,
   generateSyncKey,
@@ -30,24 +30,9 @@ function parseRounds(raw: string | null | undefined): RoundsState {
 // scored straight off the same synced record SyncAgent already keeps current
 // (`tax.practice.rounds.v1`), so there's nothing extra to write on round
 // completion — it just shows up here on the next load.
-export async function GET(req: NextRequest) {
+export async function GET() {
   if (!KV_ENABLED) {
     return NextResponse.json({ configured: false, entries: [], totalTopics: 0 });
-  }
-
-  // Temporary diagnostic: ?debug=1 dumps the raw HSET write + HGETALL read
-  // around a throwaway key, to see exactly what the Redis client hands back
-  // without going through loadAllNames' parsing.
-  if (req.nextUrl.searchParams.get("debug") === "1") {
-    const probeKey = "ahhh:debug:probe";
-    await kv("DEL", probeKey);
-    const hsetResult = await kv("HSET", probeKey, "a", "1", "b", "2");
-    const raw = await kv("HGETALL", probeKey);
-    return NextResponse.json({
-      hsetResult,
-      rawType: Array.isArray(raw) ? "array" : raw === null ? "null" : typeof raw,
-      raw,
-    });
   }
 
   const [names, topics] = await Promise.all([loadAllNames(), getAllTopics()]);

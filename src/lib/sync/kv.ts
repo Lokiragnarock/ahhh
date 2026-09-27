@@ -45,8 +45,8 @@ async function kvOverRest<T>(command: (string | number)[]): Promise<T> {
   return body.result as T;
 }
 
-// node-redis negotiates RESP3 by default against Redis 7+, where a
-// hash/set reply comes back as a native Map/Set instead of RESP2's flat
+// node-redis negotiates RESP3 by default against Redis 7+, where a hash
+// reply comes back as a plain {field: value} object instead of RESP2's flat
 // array — sendCommand doesn't run a command-specific reply transform, so it
 // hands back whatever the protocol produced. Callers (loadAllNames,
 // loadTopicStates) expect the flat array shape either way, so normalize here
@@ -58,6 +58,11 @@ function normalizeReply(raw: unknown): unknown {
     return flat;
   }
   if (raw instanceof Set) return Array.from(raw, String);
+  if (raw && typeof raw === "object" && !Array.isArray(raw) && !Buffer.isBuffer(raw)) {
+    const flat: string[] = [];
+    for (const [k, v] of Object.entries(raw as Record<string, unknown>)) flat.push(k, String(v));
+    return flat;
+  }
   return raw;
 }
 
