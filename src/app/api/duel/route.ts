@@ -1,7 +1,5 @@
 import { NextRequest, NextResponse } from "next/server";
-import { getAllTopics } from "@/lib/vault";
-import { currentSubject } from "@/lib/subject/server";
-import { subjectLabel } from "@/lib/subject/shared";
+import { getAllTopics, listSubjects } from "@/lib/vault";
 import { roundCount, stateCounts } from "@/lib/rounds-core";
 import type { RoundsState } from "@/lib/practice-types";
 import { KV_ENABLED } from "@/lib/sync/kv";
@@ -29,53 +27,83 @@ function parseRounds(raw: string | null | undefined): RoundsState {
 // The leaderboard needs no key of its own: everyone in `ahhh:names` gets
 // scored straight off the same synced record SyncAgent already keeps current
 // (`<subject>.practice.rounds.v1`), so there's nothing extra to write on
-// round completion — it just shows up here on the next load.
-//
-// Tradeoff: duel has no subject concept of its own (unlike the rest of the
-// app, it's cross-device and cross-person by design), so "which subject's
-// rounds to compare" is resolved from the CALLER's own current-subject
-// cookie, not each entrant's. Two friends comparing Taxation progress both
-// need their subject tab set to Taxation when they open /duel; if one has
-// switched to a different subject, they'll see the leaderboard scored
-// against that subject instead, with entrants who've never touched it
-// showing zeros. This keeps the route simple and avoids inventing a
-// separate "duel subject" the UI would have to expose.
+// round completion. Every subject is scored, and the headline ranking is the
+// sum across all of them; the per-subject boards ride along for the UI's
+// collapsible breakdown.
+interface Score {
+  r1: number;
+  r2: number;
+  r3: number;
+  studied: number;
+  mapped: number;
+  drilled: number;
+}
+
+const rank = (a: { drilled: number; mapped: number; studied: number; name: string }, b: typeof a) =>
+  b.drilled - a.drilled || b.mapped - a.mapped || b.studied - a.studied || a.name.localeCompare(b.name);
+
 export async function GET() {
   if (!KV_ENABLED) {
-    return NextResponse.json({ configured: false, entries: [], totalTopics: 0, subject: null });
+    return NextResponse.json({ configured: false, entries: [], totalTopics: 0, subjects: [] });
   }
 
-  const subject = currentSubject();
-  const roundsKey = `${subject}.practice.rounds.v1`;
-  const [names, topics] = await Promise.all([loadAllNames(), getAllTopics(subject)]);
-  const nodeIds = topics.map((t) => t.id);
+  const subjects = await listSubjects();
+  const [names, topicsBySubject] = await Promise.all([
+    loadAllNames(),
+    Promise.all(subjects.map((s) => getAllTopics(s.slug))),
+  ]);
+  const nodeIdsBySubject = topicsBySubject.map((ts) => ts.map((t) => t.id));
   const myKey = currentSyncKey();
 
-  const entries = await Promise.all(
+  const people = await Promise.all(
     Object.entries(names).map(async ([key, name]) => {
       const record = await loadRecord(key);
-      const rounds = parseRounds(record[roundsKey]?.v);
-      const counts = stateCounts(rounds, nodeIds);
-      return {
-        name,
-        isYou: key === myKey,
-        r1: roundCount(rounds, nodeIds, "R1"),
-        r2: roundCount(rounds, nodeIds, "R2"),
-        r3: roundCount(rounds, nodeIds, "R3"),
-        studied: counts.studied,
-        mapped: counts.mapped,
-        drilled: counts.drilled,
-      };
+      const perSubject: Score[] = subjects.map((s, i) => {
+        const rounds = parseRounds(record[`${s.slug}.practice.rounds.v1`]?.v);
+        const nodeIds = nodeIdsBySubject[i];
+        const counts = stateCounts(rounds, nodeIds);
+        return {
+          r1: roundCount(rounds, nodeIds, "R1"),
+          r2: roundCount(rounds, nodeIds, "R2"),
+          r3: roundCount(rounds, nodeIds, "R3"),
+          studied: counts.studied,
+          mapped: counts.mapped,
+          drilled: counts.drilled,
+        };
+      });
+      return { name, isYou: key === myKey, perSubject };
     })
   );
 
-  entries.sort((a, b) => b.drilled - a.drilled || b.mapped - a.mapped || b.studied - a.studied || a.name.localeCompare(b.name));
+  const sum = (list: Score[]): Score =>
+    list.reduce(
+      (acc, x) => ({
+        r1: acc.r1 + x.r1,
+        r2: acc.r2 + x.r2,
+        r3: acc.r3 + x.r3,
+        studied: acc.studied + x.studied,
+        mapped: acc.mapped + x.mapped,
+        drilled: acc.drilled + x.drilled,
+      }),
+      { r1: 0, r2: 0, r3: 0, studied: 0, mapped: 0, drilled: 0 }
+    );
+
+  const entries = people.map((p) => ({ name: p.name, isYou: p.isYou, ...sum(p.perSubject) })).sort(rank);
+
+  const bySubject = subjects.map((s, i) => ({
+    slug: s.slug,
+    label: s.label,
+    totalTopics: nodeIdsBySubject[i].length,
+    entries: people
+      .map((p) => ({ name: p.name, isYou: p.isYou, ...p.perSubject[i] }))
+      .sort(rank),
+  }));
 
   return NextResponse.json({
     configured: true,
     entries,
-    totalTopics: nodeIds.length,
-    subject: { slug: subject, label: subjectLabel(subject) },
+    totalTopics: nodeIdsBySubject.reduce((n, ids) => n + ids.length, 0),
+    subjects: bySubject,
   });
 }
 

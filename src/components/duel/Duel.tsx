@@ -13,11 +13,18 @@ interface DuelEntry {
   drilled: number;
 }
 
+interface DuelSubject {
+  slug: string;
+  label: string;
+  totalTopics: number;
+  entries: DuelEntry[];
+}
+
 interface DuelResponse {
   configured: boolean;
   entries: DuelEntry[];
   totalTopics: number;
-  subject: { slug: string; label: string } | null;
+  subjects: DuelSubject[];
 }
 
 const MEDAL = ["🥇", "🥈", "🥉"];
@@ -84,12 +91,6 @@ export function Duel() {
 
   return (
     <div>
-      {data.subject && (
-        <p className="text-[12px] text-[#888] mb-4">
-          Scored on your current subject tab — <strong>{data.subject.label}</strong>. Entrants who haven&apos;t
-          studied this subject show 0s here even if they&apos;re ahead in another one.
-        </p>
-      )}
       {!youEntry && (
         <form onSubmit={handleJoin} className="sp-panel max-w-[420px] mb-8 flex flex-col gap-3">
           <div className="sp-label">Join the duel</div>
@@ -124,49 +125,71 @@ export function Duel() {
         </div>
       )}
 
-      <div className="overflow-x-auto">
-        <table className="w-full text-[13.5px] border-collapse">
-          <thead>
-            <tr className="border-b border-[#111] text-left">
-              <th className="py-2 pr-3 sp-label">#</th>
-              <th className="py-2 pr-3 sp-label">Name</th>
-              <th className="py-2 pr-3 sp-label text-right">R1</th>
-              <th className="py-2 pr-3 sp-label text-right">R2</th>
-              <th className="py-2 pr-3 sp-label text-right">R3</th>
-              <th className="py-2 pr-3 sp-label text-right">Drilled</th>
+      <Board entries={data.entries} total={total} />
+
+      {data.subjects.length > 0 && (
+        <details className="mt-8 group">
+          <summary className="sp-label cursor-pointer select-none">By subject ({data.subjects.length})</summary>
+          <div className="mt-4 flex flex-col gap-3">
+            {data.subjects.map((sub) => (
+              <details key={sub.slug} className="border border-[#e5e5e5] px-4 py-3">
+                <summary className="cursor-pointer select-none text-[14px] font-semibold">{sub.label}</summary>
+                <div className="mt-3">
+                  <Board entries={sub.entries} total={sub.totalTopics} />
+                </div>
+              </details>
+            ))}
+          </div>
+        </details>
+      )}
+    </div>
+  );
+}
+
+function Board({ entries, total }: { entries: DuelEntry[]; total: number }) {
+  return (
+    <div className="overflow-x-auto">
+      <table className="w-full text-[13.5px] border-collapse">
+        <thead>
+          <tr className="border-b border-[#111] text-left">
+            <th className="py-2 pr-3 sp-label">#</th>
+            <th className="py-2 pr-3 sp-label">Name</th>
+            <th className="py-2 pr-3 sp-label text-right">R1</th>
+            <th className="py-2 pr-3 sp-label text-right">R2</th>
+            <th className="py-2 pr-3 sp-label text-right">R3</th>
+            <th className="py-2 pr-3 sp-label text-right">Drilled</th>
+          </tr>
+        </thead>
+        <tbody>
+          {entries.length === 0 ? (
+            <tr>
+              <td colSpan={6} className="py-6 text-[#888]">
+                Nobody&apos;s joined yet. Be the first.
+              </td>
             </tr>
-          </thead>
-          <tbody>
-            {data.entries.length === 0 ? (
-              <tr>
-                <td colSpan={6} className="py-6 text-[#888]">
-                  Nobody&apos;s joined yet. Be the first.
+          ) : (
+            entries.map((e, i) => (
+              <tr key={`${e.name}-${i}`} className={`border-b border-[#e5e5e5] ${e.isYou ? "bg-[#f7f7f5]" : ""}`}>
+                <td className="py-2 pr-3 tabular-nums">{MEDAL[i] ?? i + 1}</td>
+                <td className="py-2 pr-3 font-semibold">
+                  {e.name}
+                  {e.isYou && <span className="text-[11px] font-normal text-[#888]"> · you</span>}
                 </td>
+                <td className="py-2 pr-3 text-right tabular-nums">
+                  {e.r1}/{total}
+                </td>
+                <td className="py-2 pr-3 text-right tabular-nums">
+                  {e.r2}/{total}
+                </td>
+                <td className="py-2 pr-3 text-right tabular-nums">
+                  {e.r3}/{total}
+                </td>
+                <td className="py-2 pr-3 text-right tabular-nums font-semibold">{e.drilled}</td>
               </tr>
-            ) : (
-              data.entries.map((e, i) => (
-                <tr key={`${e.name}-${i}`} className={`border-b border-[#e5e5e5] ${e.isYou ? "bg-[#f7f7f5]" : ""}`}>
-                  <td className="py-2 pr-3 tabular-nums">{MEDAL[i] ?? i + 1}</td>
-                  <td className="py-2 pr-3 font-semibold">
-                    {e.name}
-                    {e.isYou && <span className="text-[11px] font-normal text-[#888]"> · you</span>}
-                  </td>
-                  <td className="py-2 pr-3 text-right tabular-nums">
-                    {e.r1}/{total}
-                  </td>
-                  <td className="py-2 pr-3 text-right tabular-nums">
-                    {e.r2}/{total}
-                  </td>
-                  <td className="py-2 pr-3 text-right tabular-nums">
-                    {e.r3}/{total}
-                  </td>
-                  <td className="py-2 pr-3 text-right tabular-nums font-semibold">{e.drilled}</td>
-                </tr>
-              ))
-            )}
-          </tbody>
-        </table>
-      </div>
+            ))
+          )}
+        </tbody>
+      </table>
     </div>
   );
 }
