@@ -14,6 +14,7 @@ import {
   minutesByRound,
   STUDY_MIN,
   uid,
+  useAllBlocks,
   useBlocks,
   useBlockTimer,
   useRounds,
@@ -21,6 +22,7 @@ import {
 import { PageHead, RepsStrip, Stat } from "./bits";
 import { currentDevice } from "@/lib/sync/client";
 import { useSubject } from "@/lib/subject/context";
+import { subjectLabel } from "@/lib/subject/shared";
 
 const TOTAL_MS = (STUDY_MIN + LOG_MIN) * 60000;
 
@@ -28,6 +30,7 @@ export function BlockTimerView({ nodes }: { nodes: { id: string; title: string; 
   const subject = useSubject();
   const [timer, setTimer] = useBlockTimer();
   const [blocks] = useBlocks();
+  const allBlocks = useAllBlocks();
   const [round, setRound] = useState<Round>("R1");
   const [node, setNode] = useState("");
   const [now, setNow] = useState(() => Date.now());
@@ -77,7 +80,8 @@ export function BlockTimerView({ nodes }: { nodes: { id: string; title: string; 
   }
 
   const today = dayKey();
-  const todays = blocks.filter((b) => dayKey(new Date(b.startedAt)) === today);
+  // The day view spans every subject; the round totals below stay per subject.
+  const todays = allBlocks.filter((b) => dayKey(new Date(b.startedAt)) === today);
   const todayMin = todays.reduce((s, b) => s + b.minutes, 0);
   const rounds = minutesByRound(blocks);
   const remaining = phase === "study" ? STUDY_MIN * 60000 - elapsed : TOTAL_MS - elapsed;
@@ -194,8 +198,8 @@ export function BlockTimerView({ nodes }: { nodes: { id: string; title: string; 
       </section>
 
       <div className="sp-stat-grid grid-cols-2 md:grid-cols-5 mb-3">
-        <Stat label="Today blocks" value={todays.length} sub={`${todays.filter((b) => b.complete).length} complete`} />
-        <Stat label="Today min" value={todayMin} />
+        <Stat label="Today blocks" value={todays.length} sub={`${todays.filter((b) => b.complete).length} complete · all subjects`} />
+        <Stat label="Today min" value={todayMin} sub="all subjects" />
         {ROUNDS.map((r) => (
           <Stat key={r} label={`${r} total`} value={`${(rounds[r] / 60).toFixed(1)}h`} />
         ))}
@@ -216,6 +220,7 @@ export function BlockTimerView({ nodes }: { nodes: { id: string; title: string; 
                   {new Date(b.startedAt).toLocaleTimeString("en-IN", { hour: "2-digit", minute: "2-digit" })}
                 </span>
                 <span className="sp-chip sp-chip-dark">{b.round}</span>
+                <span className="text-[12px] text-[#888] w-24 truncate">{subjectLabel(b.subject)}</span>
                 <span className="flex-1">{b.node ?? "—"}</span>
                 <span className="tabular-nums">{b.minutes} min</span>
                 <span className={`sp-chip ${b.complete ? "" : "sp-chip-red"}`}>{b.complete ? "complete" : "partial"}</span>
