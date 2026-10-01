@@ -6,6 +6,7 @@ import { TopNav } from "@/components/TopNav";
 import { LastMiniScore, TopicErrors } from "@/components/practice/TopicPractice";
 import { RoundToggles, StudyState } from "@/components/practice/Rounds";
 import { getTopicFlow, topicHref } from "@/lib/flow";
+import { ShowMapToggle } from "@/components/study/ShowMapToggle";
 
 // Screen 2: Topic note, embedded. 1100px card, 20% sticky sidebar + 80%
 // content, hairline rules between sections. Full-width ENTER FOCUS at the
@@ -110,6 +111,8 @@ export default async function TopicPage({ params }: { params: { slug: string } }
             </header>
 
             <TopicErrors node={topic.id} />
+
+            {topic.mermaid && <ShowMapToggle definition={topic.mermaid} />}
 
             {topic.sections.map((section, i) => (
               <section key={i} className="sp-section">
