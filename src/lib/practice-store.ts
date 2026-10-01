@@ -95,6 +95,48 @@ const EMPTY: never[] = [];
 export const useAttempts = () => useStored<Attempt[]>(KEYS(useSubject()).attempts, EMPTY);
 export const useErrors = () => useStored<ErrorEntry[]>(KEYS(useSubject()).errors, EMPTY);
 export const useBlocks = () => useStored<BlockLog[]>(KEYS(useSubject()).blocks, EMPTY);
+
+// Blocks from every subject on this device, for views that want the whole day
+// rather than the current subject tab. Blocks are stored per subject, so this
+// scans localStorage for every "<subject>.practice.blocks.v1" key.
+export type SubjectBlock = BlockLog & { subject: string };
+const BLOCKS_KEY = /^([a-z0-9][a-z0-9-]*)\.practice\.blocks\.v1$/;
+
+export function readAllBlocks(): SubjectBlock[] {
+  const out: SubjectBlock[] = [];
+  try {
+    for (let i = 0; i < window.localStorage.length; i++) {
+      const key = window.localStorage.key(i);
+      const m = key && BLOCKS_KEY.exec(key);
+      if (!m) continue;
+      for (const b of readStored<BlockLog[]>(key, [])) out.push({ ...b, subject: m[1] });
+    }
+  } catch {
+    // storage unavailable: no blocks to show
+  }
+  return out;
+}
+
+export function useAllBlocks(): SubjectBlock[] {
+  const [blocks, setBlocks] = useState<SubjectBlock[]>([]);
+  useEffect(() => {
+    const load = () => setBlocks(readAllBlocks());
+    load();
+    const onLocal = (e: Event) => {
+      if (BLOCKS_KEY.test(String((e as CustomEvent).detail))) load();
+    };
+    const onStorage = (e: StorageEvent) => {
+      if (e.key === null || BLOCKS_KEY.test(e.key)) load();
+    };
+    window.addEventListener(STORE_EVENT, onLocal);
+    window.addEventListener("storage", onStorage);
+    return () => {
+      window.removeEventListener(STORE_EVENT, onLocal);
+      window.removeEventListener("storage", onStorage);
+    };
+  }, []);
+  return blocks;
+}
 export const useBlockTimer = () => useStored<BlockTimer | null>(KEYS(useSubject()).timer, null);
 export const useSession = () => useStored<SessionState | null>(KEYS(useSubject()).session, null);
 const EMPTY_ROUNDS: RoundsState = { topics: {} };
