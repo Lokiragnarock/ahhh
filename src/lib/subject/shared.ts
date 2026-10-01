@@ -24,7 +24,7 @@ export function isValidSubjectSlug(slug: string | null | undefined): slug is str
 const LABEL_OVERRIDES: Record<string, string> = {
   taxation: "Taxation Law",
 };
-const ACRONYM_WORDS = new Set(["sapm", "moc"]);
+const ACRONYM_WORDS = new Set(["sapm", "sfm", "moc"]);
 
 export function subjectLabel(slug: string): string {
   const override = LABEL_OVERRIDES[slug];
