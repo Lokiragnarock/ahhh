@@ -1,36 +1,62 @@
 "use client";
 
-import { useEffect, useId, useRef } from "react";
+import { useEffect, useRef } from "react";
 import mermaid from "mermaid";
 
 let mermaidInitialized = false;
 
 function ensureMermaidInit() {
   if (mermaidInitialized) return;
-  mermaid.initialize({ startOnLoad: false, theme: "neutral", securityLevel: "loose" });
+  // suppressErrorRendering stops mermaid appending its "Syntax error" bomb
+  // graphic to <body> when a render fails; we handle failure ourselves.
+  mermaid.initialize({ startOnLoad: false, theme: "neutral", securityLevel: "loose", suppressErrorRendering: true });
   mermaidInitialized = true;
 }
 
-// Renders a topic's raw mermaid graph text into an SVG on reveal. Init runs
-// once module-wide, render runs per mount with a unique id.
+// mermaid.render is not safe to run concurrently (shared parser state), and
+// client-side navigation can start a new page's render while the previous
+// one is still in flight. Every render goes through this one queue.
+let renderQueue: Promise<unknown> = Promise.resolve();
+function enqueue<T>(task: () => Promise<T>): Promise<T> {
+  const run = renderQueue.then(task, task);
+  renderQueue = run.catch(() => undefined);
+  return run;
+}
+
+// A fresh id per render call. useId repeats across pages after a soft
+// navigation, and a stale element with the same id breaks the next render.
+let renderCounter = 0;
+
+function removeLeftovers(id: string) {
+  document.getElementById(id)?.remove();
+  document.getElementById(`d${id}`)?.remove();
+}
+
+// Renders a topic's raw mermaid graph text into an SVG on reveal. One retry
+// covers transient failures; if both attempts fail the card says so instead
+// of staying blank.
 export function MermaidMap({ definition }: { definition: string }) {
   const containerRef = useRef<HTMLDivElement>(null);
-  const reactId = useId();
-  const renderId = `sp-mermaid-${reactId.replace(/[^a-zA-Z0-9]/g, "")}`;
 
   useEffect(() => {
     let cancelled = false;
     ensureMermaidInit();
 
     async function render() {
-      try {
-        const { svg } = await mermaid.render(renderId, definition);
-        if (!cancelled && containerRef.current) {
-          containerRef.current.innerHTML = svg;
-        }
-      } catch {
-        if (!cancelled && containerRef.current) {
-          containerRef.current.innerHTML = "";
+      for (let attempt = 0; attempt < 2; attempt++) {
+        const id = `sp-mermaid-${++renderCounter}`;
+        try {
+          const { svg } = await enqueue(() => mermaid.render(id, definition));
+          if (!cancelled && containerRef.current) containerRef.current.innerHTML = svg;
+          return;
+        } catch (err) {
+          removeLeftovers(id);
+          if (attempt === 1) {
+            console.error("Concept map failed to render", err);
+            if (!cancelled && containerRef.current) {
+              containerRef.current.textContent = "This concept map could not be drawn. Reload the page to try again.";
+            }
+          }
         }
       }
     }
@@ -39,7 +65,7 @@ export function MermaidMap({ definition }: { definition: string }) {
     return () => {
       cancelled = true;
     };
-  }, [definition, renderId]);
+  }, [definition]);
 
   return <div ref={containerRef} className="sp-mermaid-container" />;
 }
