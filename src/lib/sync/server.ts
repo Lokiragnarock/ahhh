@@ -34,10 +34,101 @@ export async function loadRecord(key: string): Promise<SyncRecord> {
   }
 }
 
+// ---------------------------------------------------------------- snapshots
+// Two rolling server-side copies per person (`snap:1` newest, `snap:2` the one
+// before), readable only through that person's own key. Taken before any
+// write that would delete or shrink data, and at least every SNAP_EVERY_MS,
+// so a bad push or a stale device can't leave the store with nothing to
+// restore from. Equal copies never rotate, so snap:2 keeps an older distinct
+// version instead of being overwritten by a duplicate.
+const SNAP_EVERY_MS = 2 * 24 * 60 * 60 * 1000;
+export const SNAP_SLOTS = [1, 2] as const;
+export type SnapSlot = (typeof SNAP_SLOTS)[number];
+
+export interface Snapshot {
+  at: string; // ISO
+  record: SyncRecord;
+  topics: Record<string, string>;
+}
+
+export interface SnapshotInfo {
+  slot: SnapSlot;
+  at: string;
+  keys: number;
+  bytes: number;
+}
+
+async function loadSnapshot(key: string, slot: SnapSlot): Promise<Snapshot | null> {
+  const raw = await kv<string | null>("GET", `${ns(key)}:snap:${slot}`);
+  if (!raw) return null;
+  try {
+    return JSON.parse(raw) as Snapshot;
+  } catch {
+    return null;
+  }
+}
+
+export async function listSnapshots(key: string): Promise<SnapshotInfo[]> {
+  const out: SnapshotInfo[] = [];
+  for (const slot of SNAP_SLOTS) {
+    const raw = await kv<string | null>("GET", `${ns(key)}:snap:${slot}`);
+    if (!raw) continue;
+    try {
+      const snap = JSON.parse(raw) as Snapshot;
+      out.push({ slot, at: snap.at, keys: Object.keys(snap.record).length, bytes: raw.length });
+    } catch {
+      // unreadable copy: skip it rather than offer a restore that would fail
+    }
+  }
+  return out;
+}
+
+async function rotateSnapshot(key: string, record: SyncRecord) {
+  if (!Object.keys(record).length) return; // nothing worth keeping
+  const newest = await loadSnapshot(key, 1);
+  if (newest && JSON.stringify(newest.record) === JSON.stringify(record)) return;
+  const topics = await loadTopicStates(key);
+  const prev = await kv<string | null>("GET", `${ns(key)}:snap:1`);
+  if (prev) await kv("SET", `${ns(key)}:snap:2`, prev);
+  const snap: Snapshot = { at: new Date().toISOString(), record, topics };
+  await kv("SET", `${ns(key)}:snap:1`, JSON.stringify(snap));
+}
+
+// True when applying `merged` over `current` would lose data: a key deleted,
+// or a value that got much shorter (a stale device pushing a near-empty list).
+function shrinks(current: SyncRecord, merged: SyncRecord): boolean {
+  return Object.entries(current).some(([k, e]) => {
+    if (e.v === null) return false;
+    const next = merged[k]?.v;
+    return next === null || next === undefined || (next !== e.v && next.length < e.v.length * 0.5);
+  });
+}
+
 export async function mergeRecord(key: string, incoming: SyncRecord): Promise<SyncRecord> {
-  const merged = mergeRecords(await loadRecord(key), incoming);
+  const current = await loadRecord(key);
+  const merged = mergeRecords(current, incoming);
+  const newest = await loadSnapshot(key, 1);
+  const stale = !newest || Date.now() - Date.parse(newest.at) >= SNAP_EVERY_MS;
+  if (stale || shrinks(current, merged)) await rotateSnapshot(key, current);
   await kv("SET", `${ns(key)}:record`, JSON.stringify(merged));
   return merged;
+}
+
+// Puts a snapshot back as the live record. The current state is snapshotted
+// first, so a restore is itself undoable. Every restored entry gets a fresh
+// timestamp, otherwise devices would keep their newer local copies on the
+// next pull and quietly undo it.
+export async function restoreSnapshot(key: string, slot: SnapSlot): Promise<boolean> {
+  const snap = await loadSnapshot(key, slot);
+  if (!snap) return false;
+  await rotateSnapshot(key, await loadRecord(key));
+  const now = Date.now();
+  const record: SyncRecord = {};
+  for (const [k, e] of Object.entries(snap.record)) record[k] = { v: e.v, t: now };
+  await kv("SET", `${ns(key)}:record`, JSON.stringify(record));
+  await kv("DEL", `${ns(key)}:topics`);
+  for (const [slug, state] of Object.entries(snap.topics)) await kv("HSET", `${ns(key)}:topics`, slug, state);
+  return true;
 }
 
 export async function loadTopicStates(key: string): Promise<Record<string, TopicState>> {
