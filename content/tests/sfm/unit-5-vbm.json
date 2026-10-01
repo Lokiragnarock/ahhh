@@ -1,0 +1,638 @@
+[
+  {
+    "id": "VB-1-01",
+    "node": "VB-1",
+    "unit": "SFM Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Equity ₹3,00,000; preference capital ₹1,00,000; long-term debt ₹1,50,000; current liabilities ₹80,000. PAT ₹90,000; interest ₹15,000; tax ₹35,000. Using the faculty definition, ROI is:",
+    "options": [
+      "A) 25.45%",
+      "B) 22.22%",
+      "C) 16.36%",
+      "D) 19.09%"
+    ],
+    "answer": "A",
+    "explanation": "PBIT = PAT + tax + interest = 90,000 + 35,000 + 15,000 = 1,40,000. Capital employed = equity + preference + long-term debt = 5,50,000 (current liabilities excluded). ROI = 1,40,000 ÷ 5,50,000 = 25.45%. The tempting option, 22.22%, adds the current liabilities to the denominator. 16.36% uses PAT instead of PBIT, and 19.09% adds interest but forgets the tax add-back."
+  },
+  {
+    "id": "VB-1-02",
+    "node": "VB-1",
+    "unit": "SFM Unit 5",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "Hosur Components Ltd (fictional) has equity share capital ₹6,00,000, reserves ₹2,00,000 and preference capital ₹1,50,000. PAT is ₹1,76,000 and the preference dividend is ₹16,000. Cost of equity is 18%. Compute ROE as defined by the faculty and say what it tells you about value.",
+    "model_answer": "**Step 1: earnings for equity** = PAT − preference dividend = 1,76,000 − 16,000 = **₹1,60,000**.\n\n**Step 2: equity funds** = equity share capital + reserves = 6,00,000 + 2,00,000 = **₹8,00,000**. Preference capital is excluded from the denominator.\n\n**Step 3: ROE** = 1,60,000 ÷ 8,00,000 = **20%**.\n\n**Step 4: compare with Ke.** Spread = 20% − 18% = +2 percentage points, so on equity capital of ₹8,00,000 the firm earns ₹16,000 more than owners require (8,00,000 × 2%).\n\n**Decision line:** ROE exceeds the cost of equity, so value is created for shareholders. ROE alone says nothing about value; it matters only against Ke, and it can be inflated by leverage, so check it against ROIC and WACC too.",
+    "marking_scheme": [
+      {
+        "point": "Earnings for equity after preference dividend",
+        "marks": 1
+      },
+      {
+        "point": "Equity funds including reserves, preference excluded",
+        "marks": 1
+      },
+      {
+        "point": "ROE = 20%",
+        "marks": 1
+      },
+      {
+        "point": "Comparison with Ke and spread",
+        "marks": 1
+      },
+      {
+        "point": "Interpretation: value created, ROE alone is not enough",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "VB-1-03",
+    "node": "VB-1",
+    "unit": "SFM Unit 5",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "List the seven value drivers in value-based management and group them under operating, investment and financing decisions. State the decision chain that links them to shareholder return.",
+    "model_answer": "**Seven value drivers (Rappaport, as in the class notes):**\n\n| Group | Drivers |\n|---|---|\n| Operating decisions | Sales (revenue) growth; operating profit margin; tax rate |\n| Investment decisions | Fixed capital investment; working capital investment |\n| Financing decision | Cost of capital |\n| Feeds cash flow directly | Value growth duration (growth period) |\n\n**Decision chain (slide 5):** value drivers → cash flow, discount rate and debt → shareholder value → shareholder return (dividends plus capital gains).\n\n**Core rule:** growth creates value only when the return on new investment exceeds the cost of capital (ROR > Ke). If the return is below the cost of capital, growth destroys value.",
+    "marking_scheme": [
+      {
+        "point": "All seven drivers named",
+        "marks": 3
+      },
+      {
+        "point": "Correct grouping",
+        "marks": 1
+      },
+      {
+        "point": "Decision chain and core rule",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "VB-2-01",
+    "node": "VB-2",
+    "unit": "SFM Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "EBIT is ₹5,00,000, interest is ₹60,000 and the tax rate is 30%. NOPAT is:",
+    "options": [
+      "A) ₹3,08,000",
+      "B) ₹3,50,000",
+      "C) ₹3,68,000",
+      "D) ₹4,40,000"
+    ],
+    "answer": "B",
+    "explanation": "NOPAT = EBIT × (1 − t) = 5,00,000 × 0.70 = 3,50,000. It is operating profit after tax before financing. The tempting option is ₹3,08,000, which is PAT: NOPAT must start from EBIT, never net income. ₹3,68,000 adds the pre-tax interest to PAT and forgets that only interest × (1 − t) is added back. ₹4,40,000 is EBIT less interest with no tax."
+  },
+  {
+    "id": "VB-2-02",
+    "node": "VB-2",
+    "unit": "SFM Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "hard",
+    "question": "A firm has equity ₹12,00,000 (Ke 15%), debt ₹8,00,000 at 10% pre-tax, tax rate 30% and PAT ₹2,10,000. Using EVA = PAT + interest (1 − t) − WACC × invested capital, EVA is:",
+    "options": [
+      "A) −₹26,000",
+      "B) ₹54,000",
+      "C) ₹30,000",
+      "D) ₹86,000"
+    ],
+    "answer": "C",
+    "explanation": "Interest after tax = 80,000 × 0.70 = 56,000, so NOPAT = 2,10,000 + 56,000 = 2,66,000. Capital charge = 12,00,000 × 15% + 8,00,000 × 7% = 1,80,000 + 56,000 = 2,36,000. EVA = 30,000. Check with formula 4: PAT − Ke × equity = 2,10,000 − 1,80,000 = 30,000. The tempting option −26,000 is PAT − capital charge, which forgets to add back interest. ₹54,000 adds back pre-tax interest (2,90,000 − 2,36,000). ₹86,000 deducts only the equity charge from NOPAT."
+  },
+  {
+    "id": "VB-2-03",
+    "node": "VB-2",
+    "unit": "SFM Unit 5",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Sahyadri Textiles Ltd (fictional) has EBIT of ₹24,00,000 and a tax rate of 25%. Capital: equity ₹80,00,000 (Ke 15%) and debt ₹40,00,000 at 12% pre-tax. Compute EVA, setting out the steps in order.",
+    "model_answer": "| Step | Working | Result |\n|---|---|---|\n| 1. NOPAT | 24,00,000 × 0.75 | ₹18,00,000 |\n| 2. Capital employed | 80,00,000 + 40,00,000 | ₹1,20,00,000 |\n| 3. After-tax Kd | 12% × 0.75 | 9% |\n| 4. Weights | 80 ÷ 120 and 40 ÷ 120 | 2/3 and 1/3 |\n| 5. WACC | 15% × 2/3 + 9% × 1/3 | 13% |\n| 6. Capital charge | 13% × 1,20,00,000 (or 12,00,000 + 3,60,000) | ₹15,60,000 |\n| 7. EVA | 18,00,000 − 15,60,000 | **+₹2,40,000** |\n\n**Decision line:** EVA is positive, so value is created. ROIC = 18,00,000 ÷ 1,20,00,000 = 15% against WACC of 13%, a spread of 2 points on ₹1.2 crore.\n\n*Using exact weights (2/3, 1/3) avoids rounding drift; the source-by-source charge 80,00,000 × 15% + 40,00,000 × 9% gives the same ₹15,60,000.*",
+    "marking_scheme": [
+      {
+        "point": "NOPAT from EBIT",
+        "marks": 1
+      },
+      {
+        "point": "Capital employed and after-tax Kd",
+        "marks": 1
+      },
+      {
+        "point": "WACC with weights",
+        "marks": 1
+      },
+      {
+        "point": "Capital charge",
+        "marks": 1
+      },
+      {
+        "point": "EVA with decision line",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "VB-2-04",
+    "node": "VB-2",
+    "unit": "SFM Unit 5",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "hard",
+    "question": "**Zenith Gears Ltd** (fictional), figures in ₹ lakh: equity 200; debt 100 at 10% pre-tax; fixed assets 220; net current assets 80. Sales 800; PBIT 90; interest 10; PBT 80; tax at 30% = 24; PAT 56. Cost of equity 16%.\n\n(a) Compute Kd after tax, WACC, NOPAT, invested capital and ROIC. (3)\n(b) Compute EVA by each of the four formulas and show that they agree. (4)\n(c) State the decision and interpret the spread. (3)",
+    "model_answer": "**(a)**\n1. Kd after tax = 10% × 0.70 = **7%**.\n2. WACC = (200 ÷ 300) × 16% + (100 ÷ 300) × 7% = 10.667% + 2.333% = **13%**.\n3. NOPAT = 90 × 0.70 = **63**.\n4. Invested capital = 200 + 100 = 300 (check: fixed assets 220 + net current assets 80 = 300).\n5. ROIC = 63 ÷ 300 = **21%**.\n\n**(b) Four forms**\n\n| Method | Working | EVA |\n|---|---|---|\n| 1. NOPAT − WACC × IC | 63 − 0.13 × 300 = 63 − 39 | **24** |\n| 2. IC × (ROIC − WACC) | 300 × (0.21 − 0.13) | **24** |\n| 3. PAT + Int(1 − t) − WACC × IC | 56 + 7 − 39 | **24** |\n| 4. PAT − Ke × equity | 56 − 0.16 × 200 = 56 − 32 | **24** |\n\nAll four give **₹24 lakh** because interest equals Kd × debt and WACC uses the same book weights.\n\n**(c) Decision.** EVA is positive at ₹24 lakh, so value is created. ROIC of 21% beats WACC of 13% by a spread of 8 points on ₹300 lakh of capital. The firm earns ₹24 lakh above the cost of all capital, including the equity cost that accounting profit never charges. EVA would stay positive until WACC rose to 21%, or ROIC fell to 13%.",
+    "marking_scheme": [
+      {
+        "point": "Kd after tax, WACC, NOPAT, invested capital, ROIC",
+        "marks": 3
+      },
+      {
+        "point": "Method 1 and 2 correct",
+        "marks": 2
+      },
+      {
+        "point": "Method 3 and 4 correct, agreement shown",
+        "marks": 2
+      },
+      {
+        "point": "Decision and spread interpretation",
+        "marks": 3
+      }
+    ]
+  },
+  {
+    "id": "VB-3-01",
+    "node": "VB-3",
+    "unit": "SFM Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Total assets ₹1.80 crore; current liabilities ₹30 lakh; equity including reserves ₹1.00 crore; long-term debt ₹50 lakh. NOPAT ₹22,00,000; WACC 12%. EVA is:",
+    "options": [
+      "A) ₹40,000",
+      "B) -₹3,20,000",
+      "C) ₹4,00,000",
+      "D) ₹10,00,000"
+    ],
+    "answer": "C",
+    "explanation": "Capital employed = total assets − current liabilities = 1.80 crore − 30 lakh = 1.50 crore, which equals equity + debt. Capital charge = 12% × 1,50,00,000 = 18,00,000. EVA = 22,00,000 − 18,00,000 = ₹4,00,000. The tempting option, ₹40,000, charges WACC on total assets (1.80 crore), which includes the free funding from current liabilities. Charging only the equity (1.00 crore) gives ₹10,00,000."
+  },
+  {
+    "id": "VB-3-02",
+    "node": "VB-3",
+    "unit": "SFM Unit 5",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Extract from the income statement of Malabar Foods Ltd (fictional), ₹ lakh: sales 800; operating cost 560; interest 20; tax at 30%. Capital: equity 300 (Ke 14%) and debt 200 at 10%. Compute EVA and say whether value is created.",
+    "model_answer": "1. **EBIT** = 800 − 560 = **240**. (EBT = 240 − 20 = 220; EAT = 220 × 0.70 = 154. Do not start from EAT; interest is added back by working from EBIT.)\n2. **NOPAT** = 240 × 0.70 = **168**.\n3. **Kd after tax** = 10% × 0.70 = **7%**.\n4. **Capital employed** = 300 + 200 = 500. **WACC** = 0.60 × 14% + 0.40 × 7% = **11.2%**.\n5. **Capital charge** = 11.2% × 500 = **56** (check: 300 × 14% + 200 × 7% = 42 + 14 = 56).\n6. **EVA** = 168 − 56 = **₹112 lakh**.\n\n**Decision line:** EVA is positive, so value is created. ROIC = 168 ÷ 500 = 33.6% against WACC of 11.2%.",
+    "marking_scheme": [
+      {
+        "point": "EBIT from sales less operating cost",
+        "marks": 1
+      },
+      {
+        "point": "NOPAT",
+        "marks": 1
+      },
+      {
+        "point": "Kd after tax and WACC",
+        "marks": 1
+      },
+      {
+        "point": "Capital charge",
+        "marks": 1
+      },
+      {
+        "point": "EVA and decision line",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "VB-3-03",
+    "node": "VB-3",
+    "unit": "SFM Unit 5",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "EBIT ₹18,00,000; tax rate 30%. Share capital ₹40,00,000 and reserves ₹10,00,000 (Ke 14%); 10% loans ₹25,00,000. Total assets ₹95,00,000; current liabilities ₹20,00,000. Compute EVA. Why is it safer to compute the capital charge source by source than to use a rounded WACC?",
+    "model_answer": "1. **NOPAT** = 18,00,000 × 0.70 = **₹12,60,000**.\n2. **Capital employed** = total assets − current liabilities = 95,00,000 − 20,00,000 = **₹75,00,000** (check: equity 40L + reserves 10L = 50L, plus loans 25L = 75L). Reserves count as equity.\n3. **Kd after tax** = 10% × 0.70 = 7%.\n4. **Capital charge, source by source** = 50,00,000 × 14% + 25,00,000 × 7% = 7,00,000 + 1,75,000 = **₹8,75,000**. WACC = 8,75,000 ÷ 75,00,000 = 11.667%.\n5. **EVA** = 12,60,000 − 8,75,000 = **₹3,85,000**.\n\n**Decision line:** EVA is positive, so value is created.\n\n**Rounding trap.** WACC is a recurring decimal (11.667%). Rounded to 11.67%, the charge becomes ₹8,75,250 and EVA ₹3,84,750, a drift of ₹250. The source-by-source charge equals WACC × capital employed exactly, so it avoids the error.",
+    "marking_scheme": [
+      {
+        "point": "NOPAT from EBIT",
+        "marks": 1
+      },
+      {
+        "point": "Capital employed as TA − CL, reserves as equity",
+        "marks": 1
+      },
+      {
+        "point": "Capital charge source by source",
+        "marks": 1
+      },
+      {
+        "point": "EVA and decision line",
+        "marks": 1
+      },
+      {
+        "point": "Rounding explanation",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "VB-3-04",
+    "node": "VB-3",
+    "unit": "SFM Unit 5",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "State four ways in which a firm can raise its EVA. Illustrate one of them: a firm has NOPAT ₹12,00,000, capital employed ₹80,00,000 and WACC 12%. It withdraws ₹10,00,000 of capital from a unit that earns NOPAT of only ₹50,000. Show the effect on EVA.",
+    "model_answer": "**Four ways (faculty):**\n1. Improve the return on existing capital without adding capital (better margins or turnover).\n2. Invest new capital only where it earns more than the cost of capital.\n3. Withdraw capital from activities that earn inadequate returns.\n4. Lower WACC (a better capital mix or cheaper funds).\n\n**Illustration (way 3).**\n\n| | Before | After |\n|---|---|---|\n| NOPAT | 12,00,000 | 11,50,000 |\n| Capital employed | 80,00,000 | 70,00,000 |\n| Capital charge at 12% | 9,60,000 | 8,40,000 |\n| **EVA** | **2,40,000** | **3,10,000** |\n\nThe unit earned 5% (50,000 ÷ 10,00,000) against a 12% cost of capital. Releasing the capital saves a charge of 1,20,000 and gives up only 50,000 of NOPAT, so EVA rises by **₹70,000**, even though NOPAT falls.\n\n**Reading:** EVA rises when capital moves to uses earning above WACC, which is why divisions are judged on EVA, not profit.",
+    "marking_scheme": [
+      {
+        "point": "Four ways stated",
+        "marks": 2
+      },
+      {
+        "point": "Before and after EVA table",
+        "marks": 2
+      },
+      {
+        "point": "Interpretation: EVA rises although NOPAT falls",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "VB-4-01",
+    "node": "VB-4",
+    "unit": "SFM Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A company has 5,00,000 shares, EPS ₹12 and P/E 9. Book equity (capital employed) is ₹3,50,00,000. Its MVA is:",
+    "options": [
+      "A) ₹5,40,00,000",
+      "B) -₹2,90,00,000",
+      "C) -₹3,05,00,000",
+      "D) ₹1,90,00,000"
+    ],
+    "answer": "D",
+    "explanation": "The share price is not given: price = EPS × P/E = 12 × 9 = ₹108. Market value = 5,00,000 × 108 = ₹5,40,00,000. MVA = 5,40,00,000 − 3,50,00,000 = ₹1,90,00,000. The tempting option, ₹5,40,00,000, is the market value itself; MVA subtracts the capital invested. Using EPS (-₹2,90,00,000) or the P/E (-₹3,05,00,000) in place of the price gives a negative MVA."
+  },
+  {
+    "id": "VB-4-02",
+    "node": "VB-4",
+    "unit": "SFM Unit 5",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Pallava Pumps Ltd (fictional) has 6,00,000 shares trading at ₹55. Book equity including reserves is ₹2,00,00,000. Debt has a book value of ₹1,00,00,000 and a market value of ₹1,20,00,000. Compute MVA by the equity version and by the full-capital version, and state which you would use and why.",
+    "model_answer": "**Market value of equity** = 6,00,000 × 55 = ₹3,30,00,000.\n\n| Version | Working | MVA |\n|---|---|---|\n| Equity | 3,30,00,000 − 2,00,00,000 | **₹1,30,00,000** |\n| Full capital | (3,30,00,000 + 1,20,00,000) − (2,00,00,000 + 1,00,00,000) = 4,50,00,000 − 3,00,00,000 | **₹1,50,00,000** |\n\nThe two differ by ₹20,00,000, which is the excess of the market value of debt over its book value.\n\n**Choice:** use the **full-capital version**, because market debt is given and EVA is charged on all capital, so the matching MVA is for all capital. (If the market value of debt were not given, the equity version would be used with debt at book.) State the version you use.\n\n**Decision line:** MVA is positive, so the market values the firm above the capital invested and value has been created.",
+    "marking_scheme": [
+      {
+        "point": "Market value of equity from price × shares",
+        "marks": 1
+      },
+      {
+        "point": "Equity-version MVA",
+        "marks": 1
+      },
+      {
+        "point": "Full-capital MVA",
+        "marks": 1
+      },
+      {
+        "point": "Reason for the difference and the choice",
+        "marks": 1
+      },
+      {
+        "point": "Interpretation of positive MVA",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "VB-4-03",
+    "node": "VB-4",
+    "unit": "SFM Unit 5",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "hard",
+    "question": "**Konkan Auto Parts Ltd** (fictional): total assets ₹1.50 crore; current liabilities ₹25 lakh; NOPAT ₹21,00,000; WACC 10%. Shares outstanding 4,00,000, market price ₹60; book equity ₹80,00,000. Debt (₹45,00,000) can be taken at book value.\n\n(a) Compute EVA. (3)\n(b) Compute MVA. (2)\n(c) MVA equals the present value of all future EVAs. Treat the current EVA as a perpetuity and compare its value with the MVA. What does the gap tell you, and what growth rate in EVA does the market imply? (5)",
+    "model_answer": "**(a) EVA.** Capital employed = 1,50,00,000 − 25,00,000 = ₹1,25,00,000 (= equity 80L + debt 45L). Capital charge = 10% × 1,25,00,000 = ₹12,50,000. **EVA = 21,00,000 − 12,50,000 = ₹8,50,000.**\n\n**(b) MVA.** Market value of equity = 4,00,000 × 60 = ₹2,40,00,000. MVA (equity version) = 2,40,00,000 − 80,00,000 = **₹1,60,00,000**. With debt at book the full-capital version gives the same figure: (2,40,00,000 + 45,00,000) − 1,25,00,000 = 1,60,00,000.\n\n**(c) Link.**\n1. If EVA stayed at ₹8,50,000 for ever, its value would be 8,50,000 ÷ 0.10 = **₹85,00,000**.\n2. The market's MVA is ₹1,60,00,000, almost double. The gap of ₹75,00,000 is what the market pays for **expected growth in EVA**.\n3. Solving 8,50,000 ÷ (0.10 − g) = 1,60,00,000 gives g = 0.10 − 0.053125 = **4.69% a year** (treating ₹8,50,000 as next year's EVA, growing at a constant rate).\n\n**Interpretation:** both EVA and MVA are positive, so the firm creates value and the market agrees. A high MVA relative to current EVA signals that investors expect EVA to rise. If that growth fails to appear, the MVA will fall back. EVA is a one-year flow measured from accounts; MVA is a cumulative stock measured by the market.",
+    "marking_scheme": [
+      {
+        "point": "Capital employed and EVA",
+        "marks": 3
+      },
+      {
+        "point": "MVA",
+        "marks": 2
+      },
+      {
+        "point": "Perpetuity value of EVA and comparison with MVA",
+        "marks": 2
+      },
+      {
+        "point": "Implied growth rate",
+        "marks": 1
+      },
+      {
+        "point": "Interpretation of the EVA-MVA link",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "VB-5-01",
+    "node": "VB-5",
+    "unit": "SFM Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Capital employed ₹40,00,000; revenue ₹30,00,000; EBIT margin 20%; tax rate 25%; cost of equity 12%. Using the class form of SVA (NOPAT − capital × Ke), SVA is: (Treat capital employed as fully equity-funded, as in the class Apex problem.)",
+    "options": [
+      "A) +₹1,20,000",
+      "B) −₹30,000",
+      "C) +₹4,50,000",
+      "D) +₹30,000"
+    ],
+    "answer": "B",
+    "explanation": "EBIT = 20% × 30,00,000 = 6,00,000. NOPAT = 6,00,000 × 0.75 = 4,50,000. Capital charge = 40,00,000 × 12% = 4,80,000. SVA = 4,50,000 − 4,80,000 = −30,000. The return on capital is 11.25%, below Ke of 12%, so the strategy destroys shareholder value. The tempting option is +1,20,000: it deducts the charge from EBIT and forgets the tax. +₹4,50,000 is NOPAT with no capital charge."
+  },
+  {
+    "id": "VB-5-02",
+    "node": "VB-5",
+    "unit": "SFM Unit 5",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Nandi Packaging Ltd (fictional): capital employed ₹60,00,000; revenue ₹48,00,000; EBIT margin 22%; tax rate 30%; cost of equity 11%. Compute SVA using the class form and interpret it. How does SVA differ from EVA? (Treat capital employed as fully equity-funded, as in the class Apex problem.)",
+    "model_answer": "1. **EBIT** = 22% × 48,00,000 = **₹10,56,000**.\n2. **NOPAT** = 10,56,000 × (1 − 0.30) = **₹7,39,200**.\n3. **Capital charge** = capital employed × Ke = 60,00,000 × 11% = **₹6,60,000**.\n4. **SVA** = 7,39,200 − 6,60,000 = **₹79,200**.\n\n**Decision line:** SVA is positive, so the strategy adds value for shareholders. Return on capital = 7,39,200 ÷ 60,00,000 = 12.32%, above Ke of 11%.\n\n**SVA vs EVA.** EVA charges WACC on capital employed and measures value for all capital providers. The class form of SVA charges Ke on the capital and measures value for shareholders. If the firm were all-equity financed, WACC would equal Ke and the two would be equal. *(Class form assumes the capital basis is equity-funded, as in the faculty problem; use Rappaport's DCF form only if multi-year forecasts are given.)*",
+    "marking_scheme": [
+      {
+        "point": "EBIT from margin",
+        "marks": 1
+      },
+      {
+        "point": "NOPAT",
+        "marks": 1
+      },
+      {
+        "point": "Capital charge at Ke",
+        "marks": 1
+      },
+      {
+        "point": "SVA with decision line",
+        "marks": 1
+      },
+      {
+        "point": "SVA vs EVA difference",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "VB-6-01",
+    "node": "VB-6",
+    "unit": "SFM Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Gross depreciable fixed assets are ₹1,500 lakh, economic life 10 years and WACC 10% (sinking-fund factor 0.062745). Economic depreciation for CFROI is:",
+    "options": [
+      "A) ₹150.00 lakh",
+      "B) ₹94.12 lakh",
+      "C) ₹244.12 lakh",
+      "D) ₹15.00 lakh"
+    ],
+    "answer": "B",
+    "explanation": "Economic depreciation is a sinking-fund amount: 1,500 × 0.062745 = 94.12. It is the yearly sum that, compounded at WACC, rebuilds the assets. The tempting option, 150.00, is straight-line book depreciation (1,500 ÷ 10). 244.12 divides by the annuity factor (a loan-style instalment) instead of using the sinking-fund factor. ₹15 lakh is 1,500 × 10% ÷ 10, a figure with no basis in the method."
+  },
+  {
+    "id": "VB-6-02",
+    "node": "VB-6",
+    "unit": "SFM Unit 5",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Western Castings Ltd (fictional), ₹ lakh: EBITDA 620; cash taxes paid 95; gross depreciable fixed assets 1,800; net working capital 400; WACC 10%; economic life of assets 10 years (sinking-fund factor at 10%, 10 years = 0.062745). Compute CFROI and judge whether value is created.\n\nUse the faculty slide definitions: GCF = EBITDA − cash taxes paid; GI = gross fixed assets + net working capital.",
+    "model_answer": "1. **GCF** = EBITDA − cash taxes = 620 − 95 = **525**.\n2. **GI** = gross fixed assets + NWC = 1,800 + 400 = **2,200**.\n3. **Economic depreciation** = 1,800 × 0.10 ÷ (1.10¹⁰ − 1) = 1,800 × 0.062745 = **112.94**.\n4. **Net cash flow** = 525 − 112.94 = **412.06**.\n5. **CFROI** = 412.06 ÷ 2,200 = **18.73%**.\n6. **Economic spread** = 18.73% − 10% = **+8.73 points**.\n\n**Decision line:** CFROI exceeds WACC, so the firm earns a cash return above its cost of capital and creates value. (CFROI here is the class ratio form, not the IRR form.)",
+    "marking_scheme": [
+      {
+        "point": "GCF",
+        "marks": 1
+      },
+      {
+        "point": "GI",
+        "marks": 1
+      },
+      {
+        "point": "Economic depreciation by sinking fund",
+        "marks": 1
+      },
+      {
+        "point": "CFROI",
+        "marks": 1
+      },
+      {
+        "point": "Spread over WACC and decision",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "VB-6-03",
+    "node": "VB-6",
+    "unit": "SFM Unit 5",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "hard",
+    "question": "**Deccan Alloys Ltd** (fictional), ₹ lakh: EBITDA 560; cash taxes paid 90; gross fixed assets (all depreciable) 1,500; net working capital 300; WACC 8%; economic life 8 years (sinking-fund factor at 8%, 8 years = 0.094015).\n\n(a) Compute gross cash flow and gross investment. (2)\n(b) Compute economic depreciation. (2)\n(c) Compute CFROI and the economic spread. (2)\n(d) Compute CVA by both forms and show that they agree. (2)\n(e) Interpret the result and say on what base the capital charge in CVA is calculated. (2)\n\nUse the faculty slide definitions: GCF = EBITDA − cash taxes paid; GI = gross fixed assets + net working capital.",
+    "model_answer": "**(a)** GCF = 560 − 90 = **470**. GI = 1,500 + 300 = **1,800**.\n\n**(b)** ED = 1,500 × 0.08 ÷ (1.08⁸ − 1) = 1,500 × 0.094015 = **141.02**.\n\n**(c)** Net cash flow = 470 − 141.02 = 328.98. CFROI = 328.98 ÷ 1,800 = **18.28%**. Spread = 18.28% − 8% = **+10.28 points**.\n\n**(d)** Capital charge = 8% × 1,800 = **144**.\n- Form 1: CVA = GCF − ED − capital charge = 470 − 141.02 − 144 = **184.98**.\n- Form 2: CVA = (CFROI − WACC) × GI = 0.1028 × 1,800 = **184.98**.\nBoth give about ₹185.0 lakh.\n\n**(e) Interpretation.** CFROI of 18.3% against WACC of 8% and a positive CVA of ₹185.0 lakh show that the firm generates cash well above what its capital requires, so value is created. The capital charge is calculated on **gross investment** (gross fixed assets plus NWC), not on capital employed or fixed assets alone. Because both measures use cash and economic (not book) depreciation, they are less open to accounting distortion than EVA, but CVA can be lumpy when capital spending is heavy.",
+    "marking_scheme": [
+      {
+        "point": "GCF and GI",
+        "marks": 2
+      },
+      {
+        "point": "Economic depreciation",
+        "marks": 2
+      },
+      {
+        "point": "CFROI and spread",
+        "marks": 2
+      },
+      {
+        "point": "CVA by both forms, agreement shown",
+        "marks": 2
+      },
+      {
+        "point": "Interpretation and capital charge base (gross investment)",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "VB-7-01",
+    "node": "VB-7",
+    "unit": "SFM Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Firm X has ROE 20% and cost of equity 22%. Firm Y has ROE 14% and cost of equity 11%. Which firm creates value for its shareholders?",
+    "options": [
+      "A) X, because its ROE is higher",
+      "B) Both, because both report positive accounting returns",
+      "C) Neither, because ROE cannot show value",
+      "D) Y only, because its ROE exceeds its cost of equity"
+    ],
+    "answer": "D",
+    "explanation": "Value is created when the return exceeds the cost of capital. Y earns 14% against 11% (+3 points); X earns 20% against 22% (−2 points), so X destroys value despite the higher ROE. The tempting option is X: comparing ROEs across firms ignores each firm's cost of equity. ROE does show value when it is set against Ke."
+  },
+  {
+    "id": "VB-7-02",
+    "node": "VB-7",
+    "unit": "SFM Unit 5",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Explain why a firm can report a profit and still destroy value. Illustrate with a firm whose PAT is ₹96 lakh, equity is ₹800 lakh and cost of equity is 13%.",
+    "model_answer": "**Concept.** Accounting profit deducts only the interest on debt. It makes no charge for equity capital. EVA deducts the cost of all capital, so it shows whether the profit is enough to compensate every investor, including shareholders.\n\n**Illustration (equity-residual form, EVA = PAT − Ke × equity).**\n- Equity charge = 13% × 800 = **₹104 lakh**.\n- EVA = 96 − 104 = **−₹8 lakh**.\n\n**Reading.** ROE = 96 ÷ 800 = 12%, below Ke of 13% by 1 point. The firm earns an accounting profit of ₹96 lakh, but shareholders require ₹104 lakh, so ₹8 lakh of value is destroyed in the year.\n\n**Implication.** Profit and ROE should be judged against the cost of capital. Managers rewarded on profit may invest in projects earning below Ke; tying rewards to EVA stops this.",
+    "marking_scheme": [
+      {
+        "point": "Accounting profit omits the equity charge",
+        "marks": 1
+      },
+      {
+        "point": "EVA charges all capital",
+        "marks": 1
+      },
+      {
+        "point": "Equity charge and EVA computed",
+        "marks": 1
+      },
+      {
+        "point": "ROE vs Ke reading",
+        "marks": 1
+      },
+      {
+        "point": "Implication for managers or compensation",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "VB-7-03",
+    "node": "VB-7",
+    "unit": "SFM Unit 5",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Compare EVA, MVA, SVA, CVA and CFROI in a table giving the class formula and what each measures. State one weakness of any two of them.",
+    "model_answer": "| Metric | Class formula | Measures |\n|---|---|---|\n| EVA | NOPAT − WACC × capital employed | Annual economic profit for all capital |\n| MVA | Market value − book value (of equity, or of all capital) | Cumulative value created, as the market sees it |\n| SVA | NOPAT − equity capital × Ke | Value added for shareholders |\n| CVA | GCF − ED − WACC × GI | Cash surplus after the capital charge |\n| CFROI | (GCF − ED) ÷ GI | Cash return on gross investment, compared with WACC |\n\n(GCF = EBITDA − cash taxes; GI = gross fixed assets + NWC; ED = economic depreciation, sinking fund at WACC.)\n\n**Weaknesses (any two).** EVA: needs accounting adjustments and has a short-term bias. MVA: only for listed firms and affected by market noise. CFROI: data heavy. CVA: lumpy when capital spending is heavy.\n\n**Key point:** EVA, SVA and CVA are flows (rupee amounts); MVA is a stock; CFROI is a ratio. All say value is created only when the return beats the cost of capital.",
+    "marking_scheme": [
+      {
+        "point": "Formulas for EVA, MVA, SVA",
+        "marks": 2
+      },
+      {
+        "point": "Formulas for CVA and CFROI with definitions of GCF, GI, ED",
+        "marks": 1
+      },
+      {
+        "point": "What each measures",
+        "marks": 1
+      },
+      {
+        "point": "Two weaknesses",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "VB-7-04",
+    "node": "VB-7",
+    "unit": "SFM Unit 5",
+    "type": "case",
+    "marks": 20,
+    "difficulty": "hard",
+    "question": "**Two-firm comparison.** The board of a diversified investor is choosing between two listed manufacturers, Firm P and Firm Q (illustrative figures, ₹ crore, not real companies). Assume total assets equal capital employed (no non-interest-bearing current liabilities).\n\n| Item | Firm P | Firm Q |\n|---|---|---|\n| Sales | 1,500 | 1,000 |\n| EBIT | 300 | 150 |\n| Debt (at 10% pre-tax) | 800 | nil |\n| Book equity | 1,000 | 900 |\n| Cost of equity | 17% | 10% |\n| Tax rate | 25% | 25% |\n| Market capitalisation | 950 | 1,150 |\n\nThe investment head says: \"P has the higher ROE, so it is the better business.\"\n\n(a) For each firm compute PAT, ROE, NOPAT, ROIC, WACC, capital charge and EVA. (8)\n(b) Compute MVA for each firm using the full-capital version (debt at book). (2)\n(c) Present a comparison table and say whether the market agrees with EVA. (2)\n(d) Use DuPont to explain why P's ROE is higher and why that does not mean P creates more value. (3)\n(e) Test the investment head's statement, and recommend actions for each firm. (4)\n(f) State one limitation of this analysis. (1)",
+    "model_answer": "**(a) Computation**\n\n| Item | Firm P | Firm Q |\n|---|---|---|\n| Interest | 800 × 10% = 80 | nil |\n| PAT = (EBIT − interest)(1 − t) | (300 − 80) × 0.75 = **165** | 150 × 0.75 = **112.5** |\n| ROE = PAT ÷ equity | 165 ÷ 1,000 = **16.5%** | 112.5 ÷ 900 = **12.5%** |\n| NOPAT = EBIT(1 − t) | 225 | 112.5 |\n| Capital employed | 1,000 + 800 = 1,800 | 900 |\n| ROIC | 225 ÷ 1,800 = **12.5%** | 112.5 ÷ 900 = **12.5%** |\n| Kd after tax | 7.5% | n/a |\n| Capital charge | 1,000 × 17% + 800 × 7.5% = 170 + 60 = **230** | 900 × 10% = **90** |\n| WACC | 230 ÷ 1,800 = 12.78% | 10% |\n| **EVA** | 225 − 230 = **-5** | 112.5 − 90 = **+22.5** |\n\nCheck (EVA = PAT − Ke × equity): P: 165 − 170 = −5; Q: 112.5 − 90 = +22.5.\n\n**(b) MVA.** P: 950 + 800 − 1,800 = **-50**. Q: 1,150 + 0 − 900 = **+250**.\n\n**(c) Comparison and market view**\n\n| | ROE | ROIC | WACC | EVA | MVA |\n|---|---|---|---|---|---|\n| P | 16.5% | 12.5% | 12.78% | −5 | −50 |\n| Q | 12.5% | 12.5% | 10% | +22.5 | +250 |\n\nThe market agrees with EVA: P trades below the capital invested (MVA −50) and Q trades 250 above it.\n\n**(d) DuPont.** ROE = net margin × asset turnover × equity multiplier.\n- P: (165 ÷ 1,500) × (1,500 ÷ 1,800) × (1,800 ÷ 1,000) = 11% × 0.833 × 1.8 = **16.5%**.\n- Q: (112.5 ÷ 1,000) × (1,000 ÷ 900) × (900 ÷ 900) = 11.25% × 1.111 × 1.0 = **12.5%**.\nBoth earn the same ROIC (12.5%). P's higher ROE comes only from its equity multiplier of 1.8 (leverage). Leverage raises equity risk, which pushes Ke to 17%, and P's 16.5% ROE is below that. P earns a spread of −0.5 points on equity; Q earns +2.5 points.\n\n**(e) Test.** The statement fails. ROE ignores the cost of equity. P's higher ROE is a leverage effect and is below its Ke, so P destroys value (EVA −5, MVA −50), while Q, with the lower ROE, creates value (EVA +22.5, MVA +250).\n\n**Recommendations.**\n- *P:* its ROIC of 12.5% is below its WACC of 12.78%. It must raise ROIC by about 0.3 points just to break even: lift margin, release idle assets, and reduce debt to lower the equity risk premium. Do not add investment unless ROIC exceeds about 12.8%.\n- *Q:* protects a positive spread of 2.5 points. It has no debt, so it can invest in projects earning above 10% and could add modest debt to lower WACC without pushing equity risk too far.\n- *Investor:* prefer Q on value creation evidence.\n\n**(f) Limitation.** One year of EVA, unadjusted accounting figures, and market capitalisations that can be noisy. A multi-year forecast should confirm the trend.",
+    "marking_scheme": [
+      {
+        "point": "PAT, ROE, NOPAT, ROIC for both firms",
+        "marks": 3
+      },
+      {
+        "point": "Capital charge, WACC and EVA for both firms",
+        "marks": 5
+      },
+      {
+        "point": "MVA for both firms",
+        "marks": 2
+      },
+      {
+        "point": "Comparison table and market agreement",
+        "marks": 2
+      },
+      {
+        "point": "DuPont decomposition and leverage explanation",
+        "marks": 3
+      },
+      {
+        "point": "Test of the ROE statement; levers for P and Q; recommendation",
+        "marks": 4
+      },
+      {
+        "point": "Limitation",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "VB-7-05",
+    "node": "VB-7",
+    "unit": "SFM Unit 5",
+    "type": "case",
+    "marks": 20,
+    "difficulty": "hard",
+    "question": "**Rohini Auto Components Ltd** (fictional), ₹ lakh. The board wants to know whether the company is creating value, because the CEO's bonus is tied to profit.\n\n| Item | Value |\n|---|---|\n| EBITDA | 900 |\n| Book depreciation | 250 |\n| EBIT | 650 |\n| Cash taxes paid (= 30% of EBIT) | 195 |\n| Book equity (Ke 13%) | 3,000 |\n| Debt at 10% pre-tax | 1,500 |\n| Gross depreciable fixed assets | 6,000 |\n| Net working capital | 800 |\n| Market capitalisation | 2,600 |\n| Tax rate | 30% |\n\nThe firm has been operating for years, so book net assets are far below gross cost. Economic life of assets is 10 years; use the sinking-fund factor at the firm's WACC of 11%: 0.059801 (confirm that WACC is 11%).\n\n(a) Compute NOPAT, WACC and EVA. (5)\n(b) Compute MVA (debt at book). (2)\n(c) Compute GCF, GI, economic depreciation, CFROI and CVA. (6)\n(d) Compare the measures and explain why CVA is so much more negative than EVA. (4)\n(e) Recommend actions, referring to the CEO's bonus. (3)",
+    "model_answer": "**(a)** NOPAT = 650 × 0.70 = **455**. Kd after tax = 10% × 0.70 = 7%. Capital employed = 3,000 + 1,500 = 4,500. Capital charge = 3,000 × 13% + 1,500 × 7% = 390 + 105 = 495. WACC = 495 ÷ 4,500 = **11%** (confirmed). **EVA** = 455 − 495 = **-40**. ROIC = 455 ÷ 4,500 = 10.1% against 11%.\n\n**(b)** MVA = (2,600 + 1,500) − (3,000 + 1,500) = **-400**.\n\n**(c)** GCF = EBITDA − cash taxes = 900 − 195 = **705**. GI = 6,000 + 800 = **6,800**. ED = 6,000 × 0.059801 = **358.81**. Net cash flow = 705 − 358.81 = 346.19. **CFROI** = 346.19 ÷ 6,800 = **5.09%**. Capital charge on gross investment = 11% × 6,800 = 748. **CVA** = 705 − 358.81 − 748 = **-401.81**. (Check: (CFROI − WACC) × GI = (5.09% − 11%) × 6,800 = -401.81.)\n\n**(d) Comparison**\n\n| Measure | Result | Reading |\n|---|---|---|\n| EVA | −40 | Value destroyed, mildly |\n| MVA | −400 | Market values equity ₹400 lakh below capital invested |\n| CFROI | 5.09% | Below WACC of 11% |\n| CVA | -402 | Value destroyed, heavily |\n\nAll four measures agree on the direction: **value destruction**. CVA is far more negative because its capital charge is on gross investment (6,800), which includes assets already depreciated in the books, while EVA charges only the net capital employed (4,500). The old plant is carried at a low book value, so EVA understates the capital the firm actually has tied up. The gap of 361.81 splits in two: the larger capital charge (748 − 495 = 253) and economic depreciation of 358.81 against book depreciation of 250 (108.81). 253 + 108.81 = 361.81 = −40 − (−401.81). CFROI and CVA therefore expose weak cash returns that book-based EVA partly hides.\n\n**(e) Recommendation.** The CEO's profit-based bonus rewards an EBIT of 650 that does not cover the cost of capital. Steps:\n1. Tie the bonus to EVA (or CVA) improvement so managers bear the cost of capital.\n2. Raise cash returns: cut working capital (800), lift margins, or divest assets earning below WACC.\n3. Stop new capital allocation to units whose return is below 11% until cash returns recover.\n4. Track the gap between book and gross capital, so the old-asset effect is visible.\n\n*Caveat:* a single year of data; confirm with a multi-year forecast and adjusted accounts.",
+    "marking_scheme": [
+      {
+        "point": "NOPAT, capital charge, WACC and EVA",
+        "marks": 5
+      },
+      {
+        "point": "MVA",
+        "marks": 2
+      },
+      {
+        "point": "GCF, GI, economic depreciation",
+        "marks": 3
+      },
+      {
+        "point": "CFROI and CVA with check",
+        "marks": 3
+      },
+      {
+        "point": "Comparison of measures; CVA gap split into capital-charge base (253) and economic vs book depreciation (108.81)",
+        "marks": 4
+      },
+      {
+        "point": "Recommendations including EVA-linked pay",
+        "marks": 3
+      }
+    ]
+  }
+]

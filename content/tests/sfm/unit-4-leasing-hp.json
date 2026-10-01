@@ -1,0 +1,631 @@
+[
+  {
+    "id": "LH-1-01",
+    "node": "LH-1",
+    "unit": "SFM Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A machine with an economic life of 12 years is leased for 6 years. Fair value is ₹8,00,000 and the present value of the lease payments at the implicit rate is ₹7,60,000. There is no purchase option and the machine is a general-purpose asset. How does the lessor classify the lease under Ind AS 116? (Use the commonly applied 90% benchmark for \"substantially all\" of fair value.)",
+    "options": [
+      "A) Operating lease, because the term is only 50% of economic life",
+      "B) Finance lease, because the PV of payments is 95% of fair value, which is substantially all",
+      "C) Operating lease, because there is no purchase option",
+      "D) Finance lease, because the lessee will own the machine at the end"
+    ],
+    "answer": "B",
+    "explanation": "The PV test is met: 7,60,000 ÷ 8,00,000 = 95%, above the commonly used 90% benchmark, so substantially all of the fair value is recovered. The tempting option is the 50% term test: students stop after one failed indicator. Indicators are alternatives, and one strong hit is enough. Ownership transfer does not apply, since no option or title transfer is given."
+  },
+  {
+    "id": "LH-1-02",
+    "node": "LH-1",
+    "unit": "SFM Unit 4",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "Distinguish between a finance lease and an operating lease. Give an example of each.",
+    "model_answer": "**Definition.** A *finance lease* is a long-term, non-cancellable lease that transfers substantially all the risks and rewards of ownership to the lessee. An *operating lease* is a short-term, cancellable lease in which the lessor keeps those risks and rewards.\n\n| Basis | Finance lease | Operating lease |\n|---|---|---|\n| Term | Major part of economic life | Much shorter than economic life |\n| Cancellation | Non-cancellable | Cancellable on notice |\n| Risks and rewards | Lessee | Lessor |\n| Maintenance and insurance | Lessee | Usually lessor |\n| Lessor's cost recovery | Fully from rentals; lessor is a financier | Only partly; asset is re-leased or sold |\n| Rental | Lower (cost fully amortised) | Higher (includes risk and service) |\n\n**Examples.** Finance: plant and machinery or commercial vehicles. Operating: computers, photocopiers, construction equipment.\n\n**Ind AS 116 note.** The lessor still classifies the lease this way, but the lessee books a right-of-use asset and a lease liability for both types (exempt: short-term and low-value leases).",
+    "marking_scheme": [
+      {
+        "point": "Correct definition of both leases",
+        "marks": 1
+      },
+      {
+        "point": "Term and cancellation contrast",
+        "marks": 1
+      },
+      {
+        "point": "Risks/rewards and maintenance contrast",
+        "marks": 1
+      },
+      {
+        "point": "Lessor cost recovery and rental level, or other valid contrast",
+        "marks": 1
+      },
+      {
+        "point": "Examples and Ind AS 116 note",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "LH-1-03",
+    "node": "LH-1",
+    "unit": "SFM Unit 4",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Classify the following lease under Ind AS 116 and justify your answer with the indicators. A machine has an economic life of 10 years. The lease is non-cancellable for 4 years. Fair value is ₹9,00,000 and the PV of lease payments is ₹4,50,000. There is no purchase option, the machine is not specialised, and the lessor bears the residual value risk and maintains the machine. Use the commonly used benchmarks of 75% and 90%.",
+    "model_answer": "**Indicator checklist (benchmarks are commonly used, not fixed by Ind AS 116):**\n\n1. Term test: 4 ÷ 10 = 40%, below 75%. Not met.\n2. PV test: 4,50,000 ÷ 9,00,000 = 50%, below 90%. Not met.\n3. Ownership transfer or bargain purchase option: none. Not met.\n4. Specialised asset: no. Not met.\n5. Secondary signals: the lessor bears residual value risk and maintenance, so the risks and rewards stay with the lessor.\n\n**Decision:** no indicator points to a transfer of substantially all risks and rewards, so the lessor classifies this as an **operating lease**. The lessor keeps the asset on its balance sheet, depreciates it and recognises rent straight-line.\n\n**Implication:** the 4-year term is longer than 12 months, so the lessee still recognises a right-of-use asset and a lease liability under Ind AS 116. Classification matters for the lessor, not for the lessee's on-balance-sheet treatment.",
+    "marking_scheme": [
+      {
+        "point": "Term test computed (40%) and judged",
+        "marks": 1
+      },
+      {
+        "point": "PV test computed (50%) and judged",
+        "marks": 1
+      },
+      {
+        "point": "Ownership, option and specialised-asset indicators checked",
+        "marks": 1
+      },
+      {
+        "point": "Secondary signals (residual risk, maintenance) used",
+        "marks": 1
+      },
+      {
+        "point": "Decision stated as operating lease with lessee implication",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "LH-2-01",
+    "node": "LH-2",
+    "unit": "SFM Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A company leases equipment for 5 years (not a short-term or low-value lease). Compared with the old operating-lease treatment, the effect of Ind AS 116 on its financial statements is:",
+    "options": [
+      "A) Assets and debt rise, EBITDA rises, and early-year total expense is higher than the rent",
+      "B) Assets and debt rise, but EBITDA falls because depreciation and interest are added to costs",
+      "C) Only debt rises; EBITDA and assets are unchanged",
+      "D) No change, because the lease remains off-balance-sheet"
+    ],
+    "answer": "A",
+    "explanation": "Rent leaves operating cost, so EBITDA rises. Depreciation on the right-of-use asset and interest on the liability sit below EBITDA. Total expense is front-loaded, so early years show more than the rent. The tempting option says EBITDA falls: that confuses total expense with EBITDA, since both new charges are below the EBITDA line."
+  },
+  {
+    "id": "LH-2-02",
+    "node": "LH-2",
+    "unit": "SFM Unit 4",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Explain the Indian income-tax treatment of (a) a lease and (b) hire purchase. Why might a firm with no taxable profit prefer leasing to buying?",
+    "model_answer": "**(a) Lease.** The lessee deducts the lease rentals as a business expense. The lessor is treated as owner and claims depreciation on the asset; rentals are the lessor's taxable income. *(The textbook method assumes this. Check with the faculty whether ICDS or recent amendments on finance-lease depreciation apply in the syllabus.)*\n\n**(b) Hire purchase.** The hirer is treated as owner from the start. The hirer claims depreciation on the cash price and deducts the interest part of each instalment. The principal part of an instalment is not an expense.\n\n**Tax shield moves across parties.** In a lease the depreciation shield belongs to the lessor; in buying or HP it belongs to the buyer or hirer.\n\n**Loss-making firm.** A firm with no taxable profit cannot use depreciation or interest shields, so buying loses its main advantage. The lessor can use the depreciation shield and can pass part of it back through a lower rental, so leasing becomes cheaper for the loss-making lessee.",
+    "marking_scheme": [
+      {
+        "point": "Lessee deducts rental; lessor claims depreciation",
+        "marks": 1
+      },
+      {
+        "point": "HP: hirer treated as owner, claims depreciation",
+        "marks": 1
+      },
+      {
+        "point": "HP: interest element deductible, principal is not",
+        "marks": 1
+      },
+      {
+        "point": "Tax shield moves across parties",
+        "marks": 1
+      },
+      {
+        "point": "Loss-making firm reasoning with lower rental",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "LH-2-03",
+    "node": "LH-2",
+    "unit": "SFM Unit 4",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "hard",
+    "question": "Nilgiri Cold Storage Ltd (fictional) leases refrigeration equipment for 3 years at ₹2,00,000 payable at the end of each year. Its incremental borrowing rate is 8% (implicit rate not known). The equipment is not low-value and the lease is not short-term. Assume the right-of-use (ROU) asset equals the initial lease liability, depreciated straight-line, and the PV annuity factor for 3 years at 8% is 2.5771.\n\n(a) Compute the initial lease liability and ROU asset. (2)\n(b) Prepare the lease liability schedule. (3)\n(c) Compute the annual P&L charge under Ind AS 116 and compare it with the rent. (3)\n(d) State the effect on EBITDA and on debt-to-equity, and what this means for the argument that leasing is off-balance-sheet financing. (2)",
+    "model_answer": "**(a)** Lease liability = 2,00,000 × 2.5771 = **₹5,15,420**. ROU asset = ₹5,15,420 (assumed equal; no initial direct costs).\n\n**(b) Lease liability schedule** (final-year interest is the balancing figure to close the liability at nil, absorbing rounding):\n\n| Year | Opening liability | Interest at 8% | Rent paid | Closing liability |\n|---|---|---|---|---|\n| 1 | 5,15,420 | 41,234 | 2,00,000 | 3,56,654 |\n| 2 | 3,56,654 | 28,532 | 2,00,000 | 1,85,186 |\n| 3 | 1,85,186 | 14,814 | 2,00,000 | 0 |\n\nTotal interest = 84,580 = total rent 6,00,000 − liability 5,15,420.\n\n**(c) P&L charge.** ROU depreciation = 5,15,420 ÷ 3 ≈ 1,71,807 a year.\n\n| Year | ROU depreciation | Interest | Total expense | Rent (old method) | Difference |\n|---|---|---|---|---|---|\n| 1 | 1,71,807 | 41,234 | 2,13,041 | 2,00,000 | 13,041 |\n| 2 | 1,71,807 | 28,532 | 2,00,339 | 2,00,000 | 339 |\n| 3 | 1,71,806 | 14,814 | 1,86,620 | 2,00,000 | -13,380 |\n\nThe three-year total equals total rent (6,00,000), but the charge is front-loaded: 2,13,041, 2,00,339, 1,86,620.\n\n**(d)** Rent is removed from operating cost, so **EBITDA rises** (depreciation and interest sit below EBITDA). The liability of ₹5,15,420 is added to debt while equity is unchanged, so **debt-to-equity worsens**. Under Ind AS 116 the lease is on the balance sheet, so off-balance-sheet financing is no longer a valid reason to lease. The decision has to rest on the cost comparison (NAL) and on flexibility.",
+    "marking_scheme": [
+      {
+        "point": "Initial liability and ROU asset",
+        "marks": 2
+      },
+      {
+        "point": "Liability schedule with interest and closing balance",
+        "marks": 3
+      },
+      {
+        "point": "Depreciation plus interest per year, compared with rent",
+        "marks": 3
+      },
+      {
+        "point": "EBITDA up and gearing worse, off-balance-sheet argument rejected",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "LH-3-01",
+    "node": "LH-3",
+    "unit": "SFM Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "A company can borrow at 12% pre-tax. Its tax rate is 25%, WACC is 11% and cost of equity is 15%. The appropriate discount rate for a lease vs buy comparison is:",
+    "options": [
+      "A) 12%",
+      "B) 11%",
+      "C) 9%",
+      "D) 15%"
+    ],
+    "answer": "C",
+    "explanation": "Leasing is a debt substitute, so the rate is Kd(1 − t) = 12% × 0.75 = 9%. The tempting option is the 11% WACC, which treats a fixed, debt-like obligation as if it carried business risk and makes leasing look too cheap. Using 12% ignores the interest tax shield."
+  },
+  {
+    "id": "LH-3-02",
+    "node": "LH-3",
+    "unit": "SFM Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A lessee pays a rental of ₹1,00,000 a year for 4 years, **in advance** (first payment at t = 0). Tax rate is 30%, the after-tax discount rate is 7% (factors for t = 0 to 3: 1.000, 0.935, 0.873, 0.816), and the tax saving arises in the same year as the payment. The PV of the after-tax lease cost is:",
+    "options": [
+      "A) ₹2,37,090",
+      "B) ₹2,53,680",
+      "C) ₹3,62,400",
+      "D) ₹2,80,000"
+    ],
+    "answer": "B",
+    "explanation": "With rentals in advance, the factors are 1.000, 0.935, 0.873 and 0.816 (sum 3.624). After-tax rental 70,000 × 3.624 = ₹2,53,680. The tempting option treats the rentals as arrears (factors sum 3.387, giving ₹2,37,090), which understates the cost. Dropping (1 − t) gives ₹3,62,400."
+  },
+  {
+    "id": "LH-3-03",
+    "node": "LH-3",
+    "unit": "SFM Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "PV of cost of buying is ₹11,40,000 and PV of cost of leasing is ₹11,70,000. The Net Advantage of Leasing (NAL) and the decision are:",
+    "options": [
+      "A) NAL = −₹30,000; buy",
+      "B) NAL = +₹30,000; lease",
+      "C) NAL = −₹30,000; lease",
+      "D) NAL = +₹30,000; buy"
+    ],
+    "answer": "A",
+    "explanation": "NAL = PV cost of buying − PV cost of leasing = 11,40,000 − 11,70,000 = −30,000. A negative NAL means leasing costs more, so buy. The tempting option subtracts the other way round and reads leasing as the cheaper route."
+  },
+  {
+    "id": "LH-3-04",
+    "node": "LH-3",
+    "unit": "SFM Unit 4",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Raman Auto Spares Ltd (fictional) can buy a machine for ₹8,00,000 (life 4 years, SLM depreciation to nil, no salvage) or lease it at ₹2,40,000 a year, payable at the end of each year. Tax rate 30%; pre-tax borrowing rate 10%. PV factors at 7%: 0.935, 0.873, 0.816, 0.763. Compute the NAL and advise.",
+    "model_answer": "**Step 1: discount rate.** Kd(1 − t) = 10% × 0.70 = **7%**. Annuity factor (4 years) = 0.935 + 0.873 + 0.816 + 0.763 = 3.387.\n\n**Step 2: PV cost of leasing.** After-tax rental = 2,40,000 × 0.70 = ₹1,68,000. PV = 1,68,000 × 3.387 = **₹5,69,016**.\n\n**Step 3: PV cost of buying.** Depreciation = 8,00,000 ÷ 4 = 2,00,000; tax shield = 2,00,000 × 0.30 = 60,000 a year. PV of shield = 60,000 × 3.387 = ₹2,03,220. PV cost = 8,00,000 − 2,03,220 = **₹5,96,780**.\n\n**Step 4: NAL** = PV buy − PV lease = 5,96,780 − 5,69,016 = **+₹27,764**.\n\n**Decision:** NAL is positive, so **lease**. Leasing is cheaper by ₹27,764 in present-value terms. *Assumptions: rentals in arrears, SLM, nil salvage, tax saving in the same year.*",
+    "marking_scheme": [
+      {
+        "point": "Discount rate Kd(1 − t) = 7%",
+        "marks": 1
+      },
+      {
+        "point": "PV cost of leasing",
+        "marks": 1
+      },
+      {
+        "point": "PV cost of buying with depreciation shield",
+        "marks": 1
+      },
+      {
+        "point": "NAL with sign",
+        "marks": 1
+      },
+      {
+        "point": "Decision with interpretation",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "LH-3-05",
+    "node": "LH-3",
+    "unit": "SFM Unit 4",
+    "type": "case",
+    "marks": 20,
+    "difficulty": "hard",
+    "question": "**Kaveri Precision Tools Pvt Ltd** (fictional) needs a CNC machining centre costing ₹20,00,000 with a 5-year life. Two options are on the table:\n\n- **Buy** with a bank loan at 12% pre-tax.\n- **Lease** at ₹5,00,000 a year, payable at the **end** of each year for 5 years.\n\n**Assumptions to use:** tax rate 25%; SLM depreciation to nil over 5 years; expected resale value at the end of year 5 is ₹2,00,000, and because book value is nil the whole amount is a taxable gain taxed at 25% in year 5; discount at the after-tax cost of debt; tax effects arise in the year of the cash flow. PV factors at 9%: 0.917, 0.842, 0.772, 0.708, 0.650.\n\nThe production head says the resale value is a rough guess and the machine will be technology-sensitive.\n\n(a) State the discount rate and the reasons for using it. (2)\n(b) Compute the PV cost of leasing. (3)\n(c) Compute the PV cost of buying. (4)\n(d) Compute the NAL and state the decision. (2)\n(e) Find the lessee's break-even (maximum) annual rental. (2)\n(f) Test the decision if resale value is nil and if it is ₹4,00,000. (2)\n(g) Discuss the qualitative factors and give a final recommendation. (5)",
+    "model_answer": "**(a) Discount rate.** Kd(1 − t) = 12% × 0.75 = **9%**. Reasons: the lease is a fixed, debt-like obligation; the alternative is borrowing; interest is tax-deductible so the net rate is relevant. Using WACC would understate the cost of leasing.\nAnnuity factor (5 years) = 0.917 + 0.842 + 0.772 + 0.708 + 0.650 = 3.889.\n\n**(b) PV cost of leasing.** After-tax rental = 5,00,000 × 0.75 = ₹3,75,000.\n\n| Year | After-tax rental | Factor | PV |\n|---|---|---|---|\n| 1 | 3,75,000 | 0.917 | 3,43,875 |\n| 2 | 3,75,000 | 0.842 | 3,15,750 |\n| 3 | 3,75,000 | 0.772 | 2,89,500 |\n| 4 | 3,75,000 | 0.708 | 2,65,500 |\n| 5 | 3,75,000 | 0.650 | 2,43,750 |\n| | | | **14,58,375** |\n\nCheck: 3,75,000 × 3.889 = 14,58,375.\n\n**(c) PV cost of buying.** Depreciation = 20,00,000 ÷ 5 = 4,00,000; shield = 4,00,000 × 0.25 = 1,00,000 a year. After-tax resale = 2,00,000 × 0.75 = 1,50,000.\n\n| Year | Item | Cash flow | Factor | PV |\n|---|---|---|---|---|\n| 0 | Purchase price | 20,00,000 | 1.000 | 20,00,000 |\n| 1 | Depreciation shield | (1,00,000) | 0.917 | (91,700) |\n| 2 | Depreciation shield | (1,00,000) | 0.842 | (84,200) |\n| 3 | Depreciation shield | (1,00,000) | 0.772 | (77,200) |\n| 4 | Depreciation shield | (1,00,000) | 0.708 | (70,800) |\n| 5 | Depreciation shield | (1,00,000) | 0.650 | (65,000) |\n| 5 | After-tax resale (2,00,000 × 0.75) | (1,50,000) | 0.650 | (97,500) |\n| | **Net PV cost of buying** | | | **15,13,600** |\n\nCheck: 20,00,000 − 3,88,900 − 97,500 = 15,13,600.\n\n**(d) NAL** = PV buy − PV lease = 15,13,600 − 14,58,375 = **+₹55,225**. NAL is positive, so lease, but the margin is only 2.76% of the asset cost.\n\n**(e) Break-even rental.** After-tax rental = 15,13,600 ÷ 3.889 = 3,89,200; pre-tax = 3,89,200 ÷ 0.75 = **about ₹5,18,934**. The offered ₹5,00,000 is only about ₹18,934 below this ceiling, so the quote has only a thin cushion.\n\n**(f) Sensitivity.**\n- Resale nil: PV buy = 20,00,000 − 3,88,900 = 16,11,100; NAL = **+1,52,725**. Lease becomes clearly better.\n- Resale ₹4,00,000 (after-tax 3,00,000): PV buy = 14,16,100; NAL = **-42,275**. The decision flips to buy.\nThe decision therefore turns on the resale estimate.\n\n**(g) Qualitative factors and recommendation.**\n- *Obsolescence:* the production head expects rapid technical change; leasing passes resale risk to the lessor, which supports leasing.\n- *Resale value:* the lessee gives up residual value; if the guess is low, leasing is cheaper, if the machine holds value it is dearer (part f).\n- *Flexibility:* a 5-year fixed rental locks the firm in; check for a cancellation or upgrade clause.\n- *Balance sheet:* under Ind AS 116 the lease is on-balance-sheet either way, so there is no off-balance-sheet gain; gearing is similar.\n- *Tax position:* the firm must have taxable profit to use the shield; if it does not, leasing is stronger.\n- *Control:* ownership gives freedom to modify the machine.\n\n**Recommendation:** on the numbers, lease by ₹55,225 in PV, which is marginal. Given that the saving disappears if the resale value is about ₹4,00,000 and that obsolescence risk points the other way, I recommend **leasing**, subject to negotiating the rental to below the ceiling of about ₹5,18,934 or obtaining a cancellation or upgrade option.",
+    "marking_scheme": [
+      {
+        "point": "Discount rate with reasons",
+        "marks": 2
+      },
+      {
+        "point": "PV cost of leasing with check",
+        "marks": 3
+      },
+      {
+        "point": "PV cost of buying: shield, after-tax resale, total",
+        "marks": 4
+      },
+      {
+        "point": "NAL with sign and decision",
+        "marks": 2
+      },
+      {
+        "point": "Break-even rental",
+        "marks": 2
+      },
+      {
+        "point": "Sensitivity to resale value, both cases",
+        "marks": 2
+      },
+      {
+        "point": "Qualitative factors (obsolescence, resale, flexibility, Ind AS 116, tax position)",
+        "marks": 3
+      },
+      {
+        "point": "Final recommendation linked to margin and sensitivity",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "LH-4-01",
+    "node": "LH-4",
+    "unit": "SFM Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "In evaluating a lease from the lessor's side, which cash flows enter the NPV?",
+    "options": [
+      "A) After-tax rentals and after-tax salvage only, since depreciation is the lessee's concern",
+      "B) Pre-tax rentals less cost, discounted at the lessee's Kd(1 − t)",
+      "C) Cost (outflow), after-tax rentals, depreciation tax shield and after-tax salvage",
+      "D) Rentals and the lessee's depreciation tax shield"
+    ],
+    "answer": "C",
+    "explanation": "The lessor owns the asset, so it claims depreciation and gets the tax shield, along with rentals and salvage, and it discounts at its own after-tax cost of capital. The tempting option drops the depreciation shield. That would understate the lessor's inflows and overstate its break-even rental."
+  },
+  {
+    "id": "LH-4-02",
+    "node": "LH-4",
+    "unit": "SFM Unit 4",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "A lessor buys equipment for ₹12,00,000 (life 4 years, SLM depreciation to nil, no salvage) and offers it on lease at ₹3,80,000 a year, payable at the end of each year. Tax rate 30%; lessor's after-tax required return 9%. PV factors at 9%: 0.917, 0.842, 0.772, 0.708. Compute the lessor's NPV and the break-even rental. Should the lessor lease at the offered rental?",
+    "model_answer": "Annuity factor (4 years, 9%) = 0.917 + 0.842 + 0.772 + 0.708 = 3.239.\n\n| Item | Annual | × 3.239 | PV |\n|---|---|---|---|\n| After-tax rental 3,80,000 × 0.70 | 2,66,000 | 3.239 | 8,61,574 |\n| Depreciation shield (3,00,000 × 0.30) | 90,000 | 3.239 | 2,91,510 |\n| Total inflow | | | 11,53,084 |\n| Cost | | | (12,00,000) |\n| **NPV** | | | **-46,916** |\n\n**Decision:** NPV is negative, so the lessor earns less than 9% after tax at ₹3,80,000 and should **not** lease at this rental.\n\n**Break-even rental (NPV = 0).** Needed PV of after-tax rental = 12,00,000 − 2,91,510 = 9,08,490. After-tax rental = 9,08,490 ÷ 3.239 = 2,80,485. Pre-tax = 2,80,485 ÷ 0.70 = **about ₹4,00,692**. The lessor should lease only above this figure.",
+    "marking_scheme": [
+      {
+        "point": "PV of after-tax rentals",
+        "marks": 1
+      },
+      {
+        "point": "Depreciation shield and its PV",
+        "marks": 1
+      },
+      {
+        "point": "NPV with sign",
+        "marks": 1
+      },
+      {
+        "point": "Break-even rental",
+        "marks": 1
+      },
+      {
+        "point": "Decision with reason",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "LH-4-03",
+    "node": "LH-4",
+    "unit": "SFM Unit 4",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "hard",
+    "question": "A lessee (tax rate 25%, pre-tax borrowing rate 12%) is offered a ₹15,00,000 machine on lease for 5 years, rentals at the end of each year. The lessor (tax rate 30%, after-tax required return 8%) would buy the machine for the same ₹15,00,000. Both use SLM depreciation to nil over 5 years and there is no salvage. PV factors at 9%: 0.917, 0.842, 0.772, 0.708, 0.650. PV factors at 8%: 0.926, 0.857, 0.794, 0.735, 0.681.\n\n(a) Find the maximum annual rental the lessee can pay. (3)\n(b) Find the minimum annual rental the lessor will accept. (3)\n(c) Does a mutually acceptable rental exist? Test a rental of ₹4,11,000. (2)\n(d) Explain why a bargaining zone can exist in a lease. (2)",
+    "model_answer": "**(a) Lessee ceiling (NAL = 0).** Kd(1 − t) = 12% × 0.75 = 9%; annuity factor = 3.889. Depreciation shield = 3,00,000 × 0.25 = 75,000. PV cost of buying = 15,00,000 − 75,000 × 3.889 = 15,00,000 − 2,91,675 = 12,08,325. After-tax rental = 12,08,325 ÷ 3.889 = 3,10,703; pre-tax = ÷ 0.75 = **₹4,14,271**.\n\n**(b) Lessor floor (NPV = 0).** Factor at 8% = 3.993. Shield = 3,00,000 × 0.30 = 90,000; PV = 3,59,370. Needed PV of after-tax rentals = 15,00,000 − 3,59,370 = 11,40,630. After-tax = ÷ 3.993 = 2,85,657; pre-tax = ÷ 0.70 = **₹4,08,082**.\n\n**(c) Zone.** Lessor floor ₹4,08,082 < lessee ceiling ₹4,14,271, so a bargaining zone of about ₹6,189 exists. Test at ₹4,11,000:\n- Lessee: PV lease = 4,11,000 × 0.75 × 3.889 = 11,98,784; NAL = 12,08,325 − 11,98,784 = **+9,541** (lease is cheaper).\n- Lessor: NPV = 4,11,000 × 0.70 × 3.993 + 3,59,370 − 15,00,000 = **+8,156**.\nBoth gain, so a rental of ₹4,11,000 is acceptable to both.\n\n**(d)** The zone appears because the parties differ in tax rate and cost of funds. Here the lessor has a higher tax rate (30% against 25%), so the depreciation shield is worth more to it, and a lower required return (8% against 9%). The lessor values the asset's tax benefits more than the lessee does, and the gap is shared through the rental. If the lessor's floor were above the lessee's ceiling, there would be no lease.",
+    "marking_scheme": [
+      {
+        "point": "Lessee ceiling computed correctly",
+        "marks": 3
+      },
+      {
+        "point": "Lessor floor computed correctly",
+        "marks": 3
+      },
+      {
+        "point": "Zone identified and tested at 4,11,000 for both parties",
+        "marks": 2
+      },
+      {
+        "point": "Explanation: differences in tax position and cost of funds",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "LH-5-01",
+    "node": "LH-5",
+    "unit": "SFM Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Cash price ₹2,00,000; down payment ₹50,000; the balance is repaid in 3 yearly instalments of ₹60,000. Using the sum-of-years'-digits method, the interest included in the first year's instalment is:",
+    "options": [
+      "A) ₹15,000",
+      "B) ₹10,000",
+      "C) ₹30,000",
+      "D) ₹5,000"
+    ],
+    "answer": "A",
+    "explanation": "Total instalments 1,80,000 less financed amount 1,50,000 = 30,000 interest. Sum of digits = 6, and year 1 gets 3/6, so interest = 15,000. The tempting option is ₹10,000, an equal split over three years; SOYD front-loads the interest. ₹30,000 is the total, not year 1."
+  },
+  {
+    "id": "LH-5-02",
+    "node": "LH-5",
+    "unit": "SFM Unit 4",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Sundaram Farm Equipment (fictional) buys a tractor on hire purchase. Cash price ₹6,00,000; down payment ₹2,00,000; the balance is repaid in 4 yearly instalments of ₹1,15,000 at the end of each year. (a) Split each instalment into interest and principal by the sum-of-years'-digits method. (b) Compute the flat rate. (c) Say why the flat rate understates the true cost.",
+    "model_answer": "**(a)** Financed amount = 6,00,000 − 2,00,000 = 4,00,000. Total instalments = 1,15,000 × 4 = 4,60,000. Total interest = 4,60,000 − 4,00,000 = **₹60,000**. Sum of digits = 4 + 3 + 2 + 1 = 10.\n\n| Year | Share | Interest | Principal in instalment |\n|---|---|---|---|\n| 1 | 4/10 | 24,000 | 91,000 |\n| 2 | 3/10 | 18,000 | 97,000 |\n| 3 | 2/10 | 12,000 | 1,03,000 |\n| 4 | 1/10 | 6,000 | 1,09,000 |\n| Total | | 60,000 | 4,00,000 |\n\n**(b) Flat rate** = 60,000 ÷ 4,00,000 ÷ 4 = **3.75% a year**.\n\n**(c)** The flat rate charges interest on the full ₹4,00,000 for all four years, although the balance falls with each instalment. The effective rate solves 4,00,000 = 1,15,000 × annuity factor (4 years): factor = 3.4783, which gives about **5.8%**, roughly 1.6 times the flat quote. Compare HP offers on the effective rate. *(Interest is split by SOYD as assumed; an effective-rate split would give slightly lower early-year interest.)*",
+    "marking_scheme": [
+      {
+        "point": "Total interest and sum of digits",
+        "marks": 1
+      },
+      {
+        "point": "Year-wise interest by SOYD",
+        "marks": 1
+      },
+      {
+        "point": "Principal in each instalment",
+        "marks": 1
+      },
+      {
+        "point": "Flat rate",
+        "marks": 1
+      },
+      {
+        "point": "Why flat understates; effective rate indicated",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "LH-5-03",
+    "node": "LH-5",
+    "unit": "SFM Unit 4",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "Distinguish leasing from hire purchase on five points.",
+    "model_answer": "| Basis | Leasing | Hire purchase |\n|---|---|---|\n| Ownership | Stays with the lessor | Passes to the hirer on the last instalment or on exercising the option |\n| Depreciation claim | Lessor | Hirer (treated as owner from the start) |\n| Tax on payments | Rentals deductible for the lessee | Interest and depreciation deductible for the hirer |\n| Down payment | Usually none | Usually required |\n| Financing | Close to 100% | Partial (cost less down payment) |\n| Salvage value | Belongs to the lessor | Belongs to the hirer |\n\n**Conclusion:** leasing is use without ownership, HP is a staged purchase. In both cases the asset and liability now appear on the balance sheet (Ind AS 116 for the lease).",
+    "marking_scheme": [
+      {
+        "point": "Ownership",
+        "marks": 1
+      },
+      {
+        "point": "Depreciation claim",
+        "marks": 1
+      },
+      {
+        "point": "Tax treatment of payments",
+        "marks": 1
+      },
+      {
+        "point": "Down payment or financing extent",
+        "marks": 1
+      },
+      {
+        "point": "Salvage or accounting, with conclusion",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "LH-6-01",
+    "node": "LH-6",
+    "unit": "SFM Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "In a lease vs HP evaluation by the hirer, the net cash outflow in a year (after the down payment) is:",
+    "options": [
+      "A) Instalment − tax shield on interest only",
+      "B) Instalment − tax shield on interest − tax shield on depreciation",
+      "C) Instalment × (1 − t)",
+      "D) Instalment − tax shield on the principal part"
+    ],
+    "answer": "B",
+    "explanation": "The hirer is treated as owner, so it claims depreciation on the full cost and deducts the interest element. Both shields reduce the outflow. The tempting option omits the depreciation shield. The principal part of an instalment is not deductible, so a shield on principal does not exist."
+  },
+  {
+    "id": "LH-6-02",
+    "node": "LH-6",
+    "unit": "SFM Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "The Hire Purchase Act, 1972 in India:",
+    "options": [
+      "A) is in force and regulates repossession by financiers",
+      "B) was repealed when the RBI issued the Fair Practices Code",
+      "C) applies only to NBFCs and not to banks",
+      "D) was passed but has never been brought into force, so HP runs on contract law, bailment and the Sale of Goods Act"
+    ],
+    "answer": "D",
+    "explanation": "The Act was enacted but never notified. The tempting option assumes a statute exists because HP is common. The RBI Fair Practices Code is a partial remedy, not a replacement. (Course material marks this point [VERIFY]; confirm the current status with the faculty.)"
+  },
+  {
+    "id": "LH-6-03",
+    "node": "LH-6",
+    "unit": "SFM Unit 4",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "State any four problems of hire purchase in India and name one regulatory safeguard.",
+    "model_answer": "1. **Hidden high effective rate:** a low flat rate disguises a much higher effective rate, so borrowers misjudge cost.\n2. **No operative statute:** the Hire Purchase Act 1972 was never brought into force, so hirer protection depends on contract and consumer law.\n3. **Repossession disputes:** forcible repossession and misuse of recovery agents; courts have held repossession without due process unlawful.\n4. **Tax and stamp-duty burden:** GST and stamp duty on agreements add cost and complexity.\n5. *(Also acceptable)* high credit risk in small-ticket finance, and forfeiture of paid instalments on default.\n\n**Safeguard:** the RBI Fair Practices Code for NBFCs, which requires written disclosure of rate and terms, no change of terms without notice, notice before repossession, and no harassment by recovery agents.",
+    "marking_scheme": [
+      {
+        "point": "Each valid problem, with a brief explanation (4 × 1)",
+        "marks": 4
+      },
+      {
+        "point": "Regulatory safeguard named and described",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "LH-6-04",
+    "node": "LH-6",
+    "unit": "SFM Unit 4",
+    "type": "case",
+    "marks": 20,
+    "difficulty": "hard",
+    "question": "**Meghdoot Logistics Pvt Ltd** (fictional) plans to add a delivery truck costing ₹12,00,000 with a 4-year life, SLM depreciation to nil and no salvage. Tax rate 30%; pre-tax borrowing rate 10%. Three financing offers:\n\n- **Borrow and buy:** pay the cost at t = 0 (loan at 10%).\n- **Lease:** ₹3,75,000 a year, end of each year for 4 years.\n- **Hire purchase:** down payment ₹2,40,000 at t = 0 and four year-end instalments of ₹2,95,000. Allocate HP interest by the sum-of-years'-digits method.\n\nPV factors at 7%: 0.935, 0.873, 0.816, 0.763. The finance manager has only ₹3,00,000 of free cash this quarter.\n\n(a) State the discount rate and key assumptions. (2)\n(b) Compute the PV cost of leasing and of borrow-and-buy. (4)\n(c) Prepare the HP table and its PV cost. (6)\n(d) Rank the three options and state the decision. (2)\n(e) Find the lease rental at which leasing would match HP. (2)\n(f) Comment on the non-numerical factors and make a recommendation. (4)",
+    "model_answer": "**(a)** Discount rate = Kd(1 − t) = 10% × 0.70 = **7%** (lease and HP are debt-like; the alternative is borrowing; interest is deductible). Annuity factor = 3.387. Assumptions: rentals in arrears, SLM, nil salvage, HP interest by SOYD, tax effects in the year of cash flow, the hirer claims depreciation on the full cost.\n\n**(b) Lease.** After-tax rental = 3,75,000 × 0.70 = 2,62,500; PV = 2,62,500 × 3.387 = **₹8,89,088**.\n**Buy.** Shield = 3,00,000 × 0.30 = 90,000; PV of shield = 3,04,830. PV cost = 12,00,000 − 3,04,830 = **₹8,95,170**.\n\n**(c) HP.** Financed = 12,00,000 − 2,40,000 = 9,60,000. Total instalments = 11,80,000; total interest = **₹2,20,000**; sum of digits = 10, so interest is 4/10, 3/10, 2/10, 1/10 of this.\n\n| Year | Instalment | Interest | Interest shield (30%) | Depreciation shield | Net outflow | Factor | PV |\n|---|---|---|---|---|---|---|---|\n| 0 | Down payment 2,40,000 | | | | 2,40,000 | 1.000 | 2,40,000 |\n| 1 | 2,95,000 | 88,000 | 26,400 | 90,000 | 1,78,600 | 0.935 | 1,66,991 |\n| 2 | 2,95,000 | 66,000 | 19,800 | 90,000 | 1,85,200 | 0.873 | 1,61,680 |\n| 3 | 2,95,000 | 44,000 | 13,200 | 90,000 | 1,91,800 | 0.816 | 1,56,509 |\n| 4 | 2,95,000 | 22,000 | 6,600 | 90,000 | 1,98,400 | 0.763 | 1,51,379 |\n| | **PV of HP cost** | | | | | | **8,76,559** |\n\n**(d) Ranking.**\n\n| Option | PV cost |\n|---|---|\n| Hire purchase | 8,76,559 |\n| Lease | 8,89,088 |\n| Borrow and buy | 8,95,170 |\n\nHP is cheapest: ₹12,529 below leasing and ₹18,611 below buying. Leasing is also cheaper than buying (NAL = +6,082).\n\n**(e)** To match HP, after-tax rental = 8,76,559 ÷ 3.387 = 2,58,801; pre-tax = ÷ 0.70 = **about ₹3,69,716**. The lessor would have to cut the rental by about ₹5,284 a year for the lease to win on cost.\n\n**(f) Qualitative.**\n- *Cash:* HP needs ₹2,40,000 up front, within the ₹3,00,000 free cash but leaving little buffer; leasing needs none.\n- *Cost of HP:* the HP financing has an effective pre-tax rate of about 8.8%, below the 10% bank rate, which is why it wins. The quote must be checked for processing fees and insurance not shown here.\n- *Ownership and residual value:* HP gives ownership and salvage; lease does not (salvage nil here, so no loss).\n- *Obsolescence and flexibility:* a truck is not highly technology-sensitive; the lease's flexibility advantage is small.\n- *Balance sheet:* Ind AS 116 and HP both put the liability on the balance sheet, so neither hides debt.\n- *Risk:* HP carries repossession risk on default; check Fair Practices Code protections.\n\n**Recommendation:** on cost, **hire purchase** wins at ₹8,76,559, but its margin over leasing is only ₹12,529 (about 1.4%), so liquidity should decide. If the ₹2,40,000 down payment can be funded and still leave a cash buffer, choose HP and gain ownership. If the manager wants to keep the free cash, lease is the sensible fallback: it costs only ₹12,529 more in PV and needs no cash up front. Either way, negotiate the rental toward ₹3,69,716; borrow-and-buy is the dearest option and should be dropped.",
+    "marking_scheme": [
+      {
+        "point": "Discount rate and assumptions",
+        "marks": 2
+      },
+      {
+        "point": "PV cost of leasing",
+        "marks": 2
+      },
+      {
+        "point": "PV cost of borrow-and-buy",
+        "marks": 2
+      },
+      {
+        "point": "HP interest split by SOYD and net outflows",
+        "marks": 4
+      },
+      {
+        "point": "PV of HP cost",
+        "marks": 2
+      },
+      {
+        "point": "Ranking and decision",
+        "marks": 2
+      },
+      {
+        "point": "Break-even lease rental versus HP",
+        "marks": 2
+      },
+      {
+        "point": "Qualitative factors and final recommendation",
+        "marks": 4
+      }
+    ]
+  },
+  {
+    "id": "LH-7-01",
+    "node": "LH-7",
+    "unit": "SFM Unit 4",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Why is the after-tax cost of debt, Kd(1 − t), used to discount cash flows in a lease vs buy decision? Show with an illustration what happens if WACC is used instead. (Use an after-tax lease outflow of ₹1,00,000 a year for 5 years, Kd(1 − t) = 7%, WACC = 12%. PV factors at 7%: 0.935, 0.873, 0.816, 0.763, 0.713; at 12%: 0.893, 0.797, 0.712, 0.636, 0.567.)",
+    "model_answer": "**Three reasons.**\n1. The lease is a fixed, contractual, debt-like obligation, so its risk is that of debt, not of the business.\n2. The alternative to leasing is borrowing, so the opportunity cost of funds is the borrowing rate.\n3. Interest is tax-deductible, so the relevant rate is net of tax: Kd(1 − t).\n\n**Illustration.** At 7%, annuity factor = 4.1, so PV of the lease outflow = 1,00,000 × 4.1 = ₹4,10,000. At WACC 12%, factor = 3.605, PV = ₹3,60,500.\n\nUsing WACC understates the cost of leasing by ₹49,500, so leasing looks cheaper than it is and the NAL is overstated. The discount rate can change the answer from buy to lease, which is why the choice must be justified.",
+    "marking_scheme": [
+      {
+        "point": "Debt-like risk of the lease",
+        "marks": 1
+      },
+      {
+        "point": "Borrowing is the alternative",
+        "marks": 1
+      },
+      {
+        "point": "Interest tax-deductible, net rate",
+        "marks": 1
+      },
+      {
+        "point": "PV at 7% and 12% computed",
+        "marks": 1
+      },
+      {
+        "point": "Conclusion: WACC understates lease cost and may flip the decision",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "LH-7-02",
+    "node": "LH-7",
+    "unit": "SFM Unit 4",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "A lease vs buy computation shows a small NAL in favour of buying. List five qualitative factors the lessee should weigh before deciding.",
+    "model_answer": "1. **Flexibility:** a lease may be cancellable or allow upgrades; buying locks the firm in.\n2. **Obsolescence risk:** in operating leases the lessor bears it; useful for technology-sensitive assets.\n3. **Residual value:** buying keeps the salvage value; leasing forfeits it.\n4. **Balance-sheet effect:** under Ind AS 116 the lease is on the balance sheet either way, so there is no off-balance-sheet gain; check covenants and debt capacity.\n5. **Tax position:** a loss-making firm cannot use the depreciation shield, which favours leasing.\n6. **Strategic fit and control:** ownership allows customisation; leasing preserves cash and borrowing capacity.\n\n**Link back:** a small NAL can be outweighed by these, so state which factor drives the final choice.",
+    "marking_scheme": [
+      {
+        "point": "Any five factors, with a one-line reason each (5 × 1)",
+        "marks": 5
+      }
+    ]
+  },
+  {
+    "id": "LH-7-03",
+    "node": "LH-7",
+    "unit": "SFM Unit 4",
+    "type": "case",
+    "marks": 20,
+    "difficulty": "hard",
+    "question": "**Tungabhadra Packaging Ltd** (fictional) is choosing between buying and leasing a labelling line costing ₹16,00,000, to be used for 3 years.\n\n- **Lease:** annual rental ₹5,80,000, payable at the **beginning** of each year (t = 0, 1, 2).\n- **Buy:** loan at 10% pre-tax. Depreciation is on the **WDV method at 40%** a year. At the end of year 3 the line is sold for ₹2,50,000, and the difference between the closing WDV and the sale price is allowed as a short-term capital loss, giving a tax saving at the same rate in year 3.\n\nTax rate 30%; tax effects arise in the year of the cash flow. PV factors at 7%: t = 1, 2, 3 are 0.935, 0.873, 0.816.\n\nThe CFO asks you to advise the board and also to explain how Ind AS 116 changes the way the lease would appear in the accounts.\n\n(a) State the discount rate and assumptions, including rental timing. (2)\n(b) Compute the PV cost of leasing. (3)\n(c) Compute the depreciation schedule and the PV cost of buying. (6)\n(d) Compute the NAL and decide. (2)\n(e) Show how the answer changes if rentals were paid at the end of each year, and find the break-even rental (advance basis). (3)\n(f) Explain the Ind AS 116 effects and give the recommendation. (4)",
+    "model_answer": "**(a)** Discount rate = Kd(1 − t) = 10% × 0.70 = **7%**. Assumptions: rentals in advance (t = 0, 1, 2); WDV 40%; sale at end of year 3; tax saving on the capital loss in year 3; tax effects in the year of cash flow.\n\n**(b) PV of leasing.** After-tax rental = 5,80,000 × 0.70 = 4,06,000.\n\n| Time | After-tax rental | Factor | PV |\n|---|---|---|---|\n| 0 | 4,06,000 | 1.000 | 4,06,000 |\n| 1 | 4,06,000 | 0.935 | 3,79,610 |\n| 2 | 4,06,000 | 0.873 | 3,54,438 |\n| | | | **11,40,048** |\n\nCheck: 4,06,000 × 2.808 = 11,40,048.\n\n**(c) Buy.** WDV schedule: year 1 depreciation = 16,00,000 × 40% = 6,40,000; WDV = 9,60,000. Year 2: 3,84,000; WDV = 5,76,000. Year 3: 2,30,400; closing WDV = **3,45,600**. Loss on sale = 3,45,600 − 2,50,000 = 95,600; tax saving = 28,680.\n\n| Time | Item | Cash flow | Factor | PV |\n|---|---|---|---|---|\n| 0 | Purchase price | 16,00,000 | 1.000 | 16,00,000 |\n| 1 | Depreciation 6,40,000 × 30% | (1,92,000) | 0.935 | (1,79,520) |\n| 2 | Depreciation 3,84,000 × 30% | (1,15,200) | 0.873 | (1,00,570) |\n| 3 | Depreciation 2,30,400 × 30% | (69,120) | 0.816 | (56,402) |\n| 3 | Sale proceeds | (2,50,000) | 0.816 | (2,04,000) |\n| 3 | Tax saving on loss 95,600 × 30% | (28,680) | 0.816 | (23,403) |\n| | **Net PV cost of buying** | | | **10,36,106** |\n\n**(d) NAL** = PV buy − PV lease = 10,36,106 − 11,40,048 = **-1,03,942**. NAL is negative, so **buy**.\n\n**(e)** If rentals were in arrears the factor sum is 2.624, PV lease = 4,06,000 × 2.624 = 10,65,344, and NAL = 10,36,106 − 10,65,344 = **-29,238**. Buy is still preferred, but the gap narrows by ₹74,704, which shows why timing must be stated. **Break-even rental (advance):** after-tax = 10,36,106 ÷ 2.808 = 3,68,983; pre-tax = **about ₹5,27,119**. Leasing wins only if the annual rental is below this, against the offered ₹5,80,000.\n\n**(f) Ind AS 116.** Under Ind AS 116 the lessee recognises a right-of-use asset and a lease liability at the PV of lease payments. The P&L shows ROU depreciation plus interest rather than rent, so total expense is front-loaded and EBITDA rises. Debt and gearing rise. The firm gains no off-balance-sheet benefit from leasing, so it cannot argue for the lease on balance-sheet grounds. (For a 3-year lease the short-term exemption of 12 months does not apply.)\n\n**Recommendation:** buy. The lease costs ₹1,03,942 more in PV and remains dearer even on an arrears basis. Leasing would only be justified by an obsolescence or flexibility argument; for a 3-year line with a known resale value of ₹2,50,000, those are weak. Negotiate the rental below ₹5,27,119 or buy.",
+    "marking_scheme": [
+      {
+        "point": "Discount rate and assumptions (rental timing, WDV, sale)",
+        "marks": 2
+      },
+      {
+        "point": "PV cost of leasing with advance factors",
+        "marks": 3
+      },
+      {
+        "point": "WDV schedule and tax shields",
+        "marks": 3
+      },
+      {
+        "point": "Sale proceeds, capital-loss shield and PV cost of buying",
+        "marks": 3
+      },
+      {
+        "point": "NAL with sign and decision",
+        "marks": 2
+      },
+      {
+        "point": "Arrears comparison and break-even rental",
+        "marks": 3
+      },
+      {
+        "point": "Ind AS 116 effects and recommendation",
+        "marks": 4
+      }
+    ]
+  }
+]
