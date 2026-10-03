@@ -398,8 +398,9 @@ function QuestionBlock({
                 key={i}
                 type="button"
                 className={cls}
-                disabled={Boolean(a?.choice) || reviewing}
-                onClick={() => onChange({ choice: letter })}
+                aria-pressed={chosen}
+                disabled={reviewing}
+                onClick={() => onChange({ choice: chosen ? undefined : letter })}
               >
                 <span dangerouslySetInnerHTML={{ __html: q.optionsHtml?.[i] ?? opt }} />
               </button>
