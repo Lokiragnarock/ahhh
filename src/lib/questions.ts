@@ -111,7 +111,7 @@ export async function getPracticeIndex(
   const [questions, topics] = await Promise.all([getQuestions(subject), getAllTopics(subject)]);
   const nodes = new Map<string, NodeIndex>();
   for (const t of topics) {
-    nodes.set(t.id, { id: t.id, unit: t.unit, title: t.title.replace(new RegExp(`^(${t.id}|${t.unit})\\s*[—–-]\\s*`), ""), slug: t.slug, qCount: 0 });
+    nodes.set(t.id, { id: t.id, unit: t.unit, title: t.title.replace(new RegExp(`^(${t.id}|${t.unit})\\s*[—–:-]\\s*`), ""), slug: t.slug, qCount: 0 });
   }
   for (const q of questions) {
     const n = nodes.get(q.node) ?? { id: q.node, unit: q.unit, title: q.node, qCount: 0 };

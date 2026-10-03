@@ -1,0 +1,992 @@
+[
+  {
+    "id": "WC-1-01",
+    "node": "WC-1",
+    "unit": "SFM Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "A manufacturer holds raw material for 25 days, work-in-progress for 10 days and finished goods for 15 days. It collects from customers in 40 days and pays suppliers in 30 days. Its operating cycle is:",
+    "options": [
+      "A) 90 days",
+      "B) 120 days",
+      "C) 50 days",
+      "D) 60 days"
+    ],
+    "answer": "D",
+    "explanation": "Operating cycle = RMCP + WIPCP + FGCP + RCP - PDP = 25 + 10 + 15 + 40 - 30 = 60 days. The tempting option is 90 days, which leaves out the payables deferral period: supplier credit shortens the time the firm's own cash is tied up, so PDP is subtracted. 120 days adds PDP instead of subtracting it. 50 days drops the WIP stage."
+  },
+  {
+    "id": "WC-1-02",
+    "node": "WC-1",
+    "unit": "SFM Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A firm's balance sheet shows stock ₹4,80,000, debtors ₹3,20,000, cash ₹60,000 and prepaid expenses ₹20,000. Current liabilities are creditors ₹2,10,000, outstanding expenses ₹40,000 and bank overdraft ₹1,00,000. Its net working capital is:",
+    "options": [
+      "A) ₹5,10,000",
+      "B) ₹8,80,000",
+      "C) ₹6,30,000",
+      "D) ₹5,30,000"
+    ],
+    "answer": "D",
+    "explanation": "Current assets = 4,80,000 + 3,20,000 + 60,000 + 20,000 = 8,80,000. Current liabilities = 2,10,000 + 40,000 + 1,00,000 = 3,50,000 (the overdraft is repayable on demand, so it is a current liability). NWC = 8,80,000 - 3,50,000 = ₹5,30,000. The tempting option is ₹8,80,000, which is gross working capital. ₹6,30,000 leaves the overdraft out of current liabilities. ₹5,10,000 leaves prepaid expenses out of current assets."
+  },
+  {
+    "id": "WC-1-03",
+    "node": "WC-1",
+    "unit": "SFM Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "A seasonal firm's current assets never fall below ₹6,00,000 in the slowest month and rise to ₹9,50,000 in the peak month. Its permanent and temporary working capital are, respectively:",
+    "options": [
+      "A) ₹3,50,000 and ₹6,00,000",
+      "B) ₹9,50,000 and ₹6,00,000",
+      "C) ₹6,00,000 and ₹3,50,000",
+      "D) ₹7,75,000 and ₹1,75,000"
+    ],
+    "answer": "C",
+    "explanation": "Permanent (fixed) WC is the minimum level of current assets needed at all times: ₹6,00,000. Temporary (variable) WC is the seasonal part above it: 9,50,000 - 6,00,000 = ₹3,50,000. The tempting option (₹3,50,000 as permanent and ₹6,00,000 as temporary) reverses the two labels. The ₹7,75,000 option uses the midpoint of the range, which has no meaning in this classification."
+  },
+  {
+    "id": "WC-1-04",
+    "node": "WC-1",
+    "unit": "SFM Unit 3",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Estimate the operating cycle of Kalpavriksha Packaging Ltd (fictional) from the following data (360-day year), and the working capital needed to support annual cash operating costs of ₹9,00,000.\n\n| Item | Average balance (₹) | Annual flow it is measured against (₹) |\n|---|---|---|\n| Raw material stock | 1,20,000 | Raw material consumed 7,20,000 |\n| Work-in-progress | 90,000 | Cost of production 10,80,000 |\n| Finished goods | 75,000 | Cost of goods sold 9,00,000 |\n| Debtors | 1,50,000 | Credit sales 12,00,000 |\n| Creditors | 90,000 | Credit purchases 7,20,000 |\n\nHow much working capital would be released if the firm cut the cycle by 15 days?",
+    "model_answer": "**Step 1: period (days) = average balance ÷ annual flow × 360.**\n\n| Component | Working | Days |\n|---|---|---|\n| RMCP | 1,20,000 ÷ 7,20,000 × 360 | 60 |\n| WIPCP | 90,000 ÷ 10,80,000 × 360 | 30 |\n| FGCP | 75,000 ÷ 9,00,000 × 360 | 30 |\n| RCP | 1,50,000 ÷ 12,00,000 × 360 | 45 |\n| PDP | 90,000 ÷ 7,20,000 × 360 | 45 |\n\n**Step 2: operating cycle** = 60 + 30 + 30 + 45 - 45 = **120 days**. Cash is tied up for 120 days between paying suppliers and collecting from customers; the cycle turns 360 ÷ 120 = 3 times a year.\n\n**Step 3: working capital needed** = annual cash operating cost × cycle ÷ 360 = 9,00,000 × 120 ÷ 360 = **₹3,00,000**.\n\n**Step 4: release from a 15-day cut** = 9,00,000 × 15 ÷ 360 = **₹37,500**, for example by collecting debtors in 30 days instead of 45, or by cutting stock holding.\n\n*Assumption: each component is measured against the flow it relates to, and the 360-day year is used.*",
+    "marking_scheme": [
+      {
+        "point": "Each period computed against the correct flow",
+        "marks": 2
+      },
+      {
+        "point": "Operating cycle of 120 days with PDP subtracted",
+        "marks": 1
+      },
+      {
+        "point": "Working capital requirement of ₹3,00,000",
+        "marks": 1
+      },
+      {
+        "point": "Release from a 15-day reduction (₹37,500)",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "WC-1-05",
+    "node": "WC-1",
+    "unit": "SFM Unit 3",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "Distinguish between (a) gross and net working capital and (b) permanent and temporary working capital. State any three factors that determine a firm's working capital requirement.",
+    "model_answer": "**(a) Gross vs net.** *Gross working capital* = total current assets. *Net working capital* = current assets - current liabilities. Gross is the focus when managing the use of funds in each asset; net shows the part of current assets financed by long-term funds and indicates liquidity.\n\n**(b) Permanent vs temporary.** *Permanent (fixed) WC* is the minimum level of current assets needed at all times, even in the slowest season. *Temporary (variable) WC* is the seasonal or fluctuating part above that minimum. Permanent WC grows with the scale of the business; temporary WC rises and falls with the season.\n\n**Determinants (any three):**\n1. Nature of business and length of the operating cycle: a manufacturer needs more than a retailer selling for cash.\n2. Seasonality and scale of operations: higher sales need more stock and debtors.\n3. Credit policy: longer credit to customers raises debtors; longer credit from suppliers reduces the need.\n4. Production policy, inventory holding, availability of raw material and lead times.\n5. Operating efficiency, price level changes and growth plans.\n\n**Link:** the longer the operating cycle, the larger the working capital needed.",
+    "marking_scheme": [
+      {
+        "point": "Gross and net working capital defined with formula",
+        "marks": 1
+      },
+      {
+        "point": "Net WC interpreted (financed by long-term funds, liquidity)",
+        "marks": 1
+      },
+      {
+        "point": "Permanent and temporary WC defined",
+        "marks": 1
+      },
+      {
+        "point": "Contrast with a seasonality illustration",
+        "marks": 1
+      },
+      {
+        "point": "Three determinants with one-line reasons",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "WC-2-01",
+    "node": "WC-2",
+    "unit": "SFM Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A supplier offers terms of 2/15 net 45. Using a 365-day year, the annualised cost of forgoing the cash discount is closest to:",
+    "options": [
+      "A) 24.33%",
+      "B) 24.83%",
+      "C) 8.11%",
+      "D) 2.04%"
+    ],
+    "answer": "B",
+    "explanation": "Cost = [d ÷ (100 - d)] × [365 ÷ (credit period - discount period)] = (2 ÷ 98) × (365 ÷ 30) = 0.020408 × 12.1667 = 24.83%. The tempting option is 24.33%, which divides the discount by 100 instead of 98 (0.02 × 365 ÷ 30): the discount is a saving on the amount actually paid, so the denominator is 100 - d. The 8.11% option is 0.02 × 365 ÷ 90, using the wrong time base. The 2.04% option is the unannualised 2 ÷ 98."
+  },
+  {
+    "id": "WC-2-02",
+    "node": "WC-2",
+    "unit": "SFM Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A firm funds its fixed assets, all of its permanent current assets and ₹3,00,000 of its ₹4,00,000 peak temporary current assets with long-term funds. The remaining ₹1,00,000 of temporary current assets is financed by short-term bank credit. This is:",
+    "options": [
+      "A) Matching (hedging) approach",
+      "B) Conservative approach",
+      "C) Cash credit approach",
+      "D) Aggressive approach"
+    ],
+    "answer": "B",
+    "explanation": "Conservative: part of the temporary current assets is also funded by long-term sources, so liquidity risk is lowest and cost highest. The tempting option is the matching approach, because short-term funds are used for temporary assets. But matching funds all of the temporary assets that way; here ₹3,00,000 of them sit on long-term funds. Aggressive would put part of the permanent current assets on short-term funds. 'Cash credit' is a source of finance, not an approach."
+  },
+  {
+    "id": "WC-2-03",
+    "node": "WC-2",
+    "unit": "SFM Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Terms are 2/10 net 60 (365-day year). The firm's bank charges 12% a year. The better decision is:",
+    "options": [
+      "A) Be indifferent, because the discount and the bank rate are similar",
+      "B) Forgo the discount, because 2% is smaller than 12%",
+      "C) Forgo the discount, because trade credit is a free source of finance",
+      "D) Take the discount and borrow from the bank to pay on day 10, because the cost of forgoing is 14.90%, above 12%"
+    ],
+    "answer": "D",
+    "explanation": "Cost of forgoing = (2 ÷ 98) × (365 ÷ 50) = 14.90% a year. The bank loan costs 12%, so paying early with borrowed money is cheaper: take the discount. The tempting option compares the 2% discount with the 12% annual rate, which mixes a 50-day rate with an annual rate. Trade credit is free only if the discount is taken; once forgone it carries the annualised cost computed above."
+  },
+  {
+    "id": "WC-2-04",
+    "node": "WC-2",
+    "unit": "SFM Unit 3",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Palar Textiles Ltd (fictional) has fixed assets of ₹20,00,000, permanent current assets of ₹8,00,000, and temporary current assets that average ₹3,00,000 and peak at ₹5,00,000. Long-term funds cost 12% and short-term funds cost 9% a year. Compute the annual financing cost under the matching, conservative and aggressive approaches and say which carries most risk. (Assume surplus long-term funds in slack periods earn nothing, and short-term funds are used only for the average amount actually needed.)",
+    "model_answer": "**Matching.** Long-term: fixed assets + permanent CA = 20,00,000 + 8,00,000 = 28,00,000. Short-term: average temporary CA = 3,00,000.\nCost = 28,00,000 × 12% + 3,00,000 × 9% = 3,36,000 + 27,000 = **₹3,63,000**.\n\n**Conservative.** Long-term funds cover the peak: 28,00,000 + 5,00,000 = 33,00,000; short-term nil.\nCost = 33,00,000 × 12% = **₹3,96,000** (the idle surplus in slack months earns nothing).\n\n**Aggressive.** Long-term: fixed assets only = 20,00,000. Short-term: permanent CA + average temporary CA = 8,00,000 + 3,00,000 = 11,00,000.\nCost = 20,00,000 × 12% + 11,00,000 × 9% = 2,40,000 + 99,000 = **₹3,39,000**.\n\n| Approach | Annual cost | Risk |\n|---|---|---|\n| Aggressive | ₹3,39,000 | Highest (refinancing and liquidity risk) |\n| Matching | ₹3,63,000 | Moderate |\n| Conservative | ₹3,96,000 | Lowest |\n\nThe aggressive approach is cheapest because short-term funds are cheaper, but it funds permanent assets with funds that must be renewed continually, so it carries the most risk. Conservative is safest and costliest. Matching balances the two by matching the maturity of funds with the life of the assets.",
+    "marking_scheme": [
+      {
+        "point": "Matching cost ₹3,63,000",
+        "marks": 1
+      },
+      {
+        "point": "Conservative cost ₹3,96,000",
+        "marks": 1
+      },
+      {
+        "point": "Aggressive cost ₹3,39,000",
+        "marks": 1
+      },
+      {
+        "point": "Ranking by cost and risk",
+        "marks": 1
+      },
+      {
+        "point": "Trade-off explained, matching principle",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "WC-2-05",
+    "node": "WC-2",
+    "unit": "SFM Unit 3",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "Briefly explain the Tandon Committee (1975) and Chore Committee (1980) recommendations on bank finance for working capital. How is bank working capital assessed today?",
+    "model_answer": "**Tandon Committee (1975).** It moved bank lending from a security-based approach to a need-based one: banks should lend on the borrower's projected need and operating cycle, with discipline on stock levels. It introduced the **maximum permissible bank finance (MPBF)**: the borrower must fund a minimum margin from long-term sources, so the bank finances only the rest of the working capital gap. Three methods were suggested, differing in the margin the borrower brings:\n- Method I: the borrower funds at least 25% of the working capital gap.\n- Method II: the borrower funds at least 25% of total current assets (a current ratio of about 1.33).\n- Method III: the borrower funds 25% of current assets after excluding core (permanent) current assets.\n\n**Chore Committee (1980).** It reviewed the working of cash credit: it favoured the second method, asked for quarterly information from borrowers, and pushed for discipline in the use of cash credit.\n\n**Present position.** The MPBF framework was relaxed in 1997 and banks now assess working capital on their own judgement (turnover method for smaller limits, cash budget for larger limits). Cite the committees as history. **",
+    "marking_scheme": [
+      {
+        "point": "Tandon: need-based lending and MPBF idea",
+        "marks": 1
+      },
+      {
+        "point": "Three methods and borrower margin",
+        "marks": 2
+      },
+      {
+        "point": "Chore Committee points",
+        "marks": 1
+      },
+      {
+        "point": "Present assessment practice",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "WC-2-06",
+    "node": "WC-2",
+    "unit": "SFM Unit 3",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "hard",
+    "question": "Vaigai Auto Components Ltd (fictional) buys raw material worth ₹36,00,000 a year (evenly through the year, 365-day year) from one supplier on terms of 2/10 net 45. The firm can borrow from its bank on cash credit at 16% a year.\n\n(a) Compute the annualised cost of forgoing the cash discount. (2)\n(b) Should the firm take the discount and borrow to pay on day 10? Support with the rupee saving for the year. (4)\n(c) If the supplier changed the terms to 2/10 net 90, would the decision change? Find the credit period at which the firm would be indifferent. (2)\n(d) Name two non-cost factors the firm should consider before stretching payables. (2)",
+    "model_answer": "**(a)** Cost = [d ÷ (100 - d)] × [365 ÷ (credit period - discount period)] = (2 ÷ 98) × (365 ÷ 35) = 0.020408 × 10.4286 = **21.28% a year**.\n\n**(b) Decision.** Cost of forgoing 21.28% > bank rate 16%, so take the discount and finance the early payment from the bank.\n\nRupee check:\n- Discount for the year = 2% × 36,00,000 = ₹72,000. Amount paid early = 36,00,000 - 72,000 = ₹35,28,000.\n- Paying on day 10 instead of day 45 means borrowing for 35 days. Average extra borrowing = 35,28,000 × 35 ÷ 365 = ₹3,38,301.\n- Interest at 16% = 3,38,301 × 16% = ₹54,128.\n- **Net annual saving = 72,000 - 54,128 = ₹17,872.**\n\nTake the discount.\n\n**(c) Terms 2/10 net 90.** Cost = 0.020408 × (365 ÷ 80) = 0.020408 × 4.5625 = **9.31%**, below the 16% bank rate, so the firm should now **forgo** the discount and use the longer credit.\nIndifference: 0.020408 × 365 ÷ (n - 10) = 0.16, so 365 ÷ (n - 10) = 7.84, giving n - 10 = 46.56 and **n = about 56.6 days**. If the credit period exceeds about 57 days, forgo the discount; below it, take the discount.\n\n**(d) Non-cost factors (any two).** Supplier goodwill and reliability of supply if payments are stretched; the supplier's possible price increase to compensate for longer credit; the firm's borrowing capacity under its cash credit limit; the risk that the bank limit is not renewed.",
+    "marking_scheme": [
+      {
+        "point": "(a) Cost of forgoing 21.28% with formula",
+        "marks": 2
+      },
+      {
+        "point": "(b) Rupee computation of discount, borrowing and interest",
+        "marks": 3
+      },
+      {
+        "point": "(b) Net saving and decision",
+        "marks": 1
+      },
+      {
+        "point": "(c) 9.31% and decision change, indifference period of about 57 days",
+        "marks": 2
+      },
+      {
+        "point": "(d) Two non-cost factors",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "WC-3-01",
+    "node": "WC-3",
+    "unit": "SFM Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "A firm needs ₹2,50,000 of cash over the year, spread evenly. Each sale of securities costs ₹80 and the opportunity cost of holding cash is 10% a year. Under the Baumol model the optimum amount to raise each time is:",
+    "options": [
+      "A) ₹20,000",
+      "B) ₹2,000",
+      "C) ₹40,000",
+      "D) ₹14,142"
+    ],
+    "answer": "A",
+    "explanation": "C* = √(2 × T × b ÷ i) = √(2 × 2,50,000 × 80 ÷ 0.10) = √40,00,00,000 = ₹20,000. The tempting option is ₹14,142, which drops the factor 2 (√(T × b ÷ i)). ₹2,000 enters the rate as 10 instead of 0.10. ₹40,000 is simply double the answer."
+  },
+  {
+    "id": "WC-3-02",
+    "node": "WC-3",
+    "unit": "SFM Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "In the Baumol model with the data above (optimum ₹20,000 at an interest rate of 10%), the opportunity cost of holding cash doubles to 20%. The new optimum transaction size is:",
+    "options": [
+      "A) ₹20,000",
+      "B) ₹10,000",
+      "C) ₹28,284",
+      "D) ₹14,142"
+    ],
+    "answer": "D",
+    "explanation": "C* varies with 1 ÷ √i. Doubling i divides C* by √2: 20,000 ÷ 1.4142 = ₹14,142 (check: √(2 × 2,50,000 × 80 ÷ 0.20) = √20,00,00,000 = 14,142). The tempting option is ₹10,000, which assumes C* halves when i doubles; the square root means it falls by only about 29%. ₹28,284 moves in the wrong direction. ₹20,000 ignores the change."
+  },
+  {
+    "id": "WC-3-03",
+    "node": "WC-3",
+    "unit": "SFM Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Under the Miller-Orr model the lower control limit is ₹10,000 and the spread between the limits is ₹24,000. The return point and the upper limit are:",
+    "options": [
+      "A) Return point ₹22,000; upper limit ₹34,000",
+      "B) Return point ₹18,000; upper limit ₹34,000",
+      "C) Return point ₹8,000; upper limit ₹34,000",
+      "D) Return point ₹18,000; upper limit ₹24,000"
+    ],
+    "answer": "B",
+    "explanation": "Return point = lower limit + spread ÷ 3 = 10,000 + 8,000 = ₹18,000. Upper limit = lower limit + spread = ₹34,000. The tempting option (return point ₹22,000) places the return point halfway (lower + spread ÷ 2), as in a symmetric band. Miller-Orr places the return point one third of the way up, not halfway. The option with an upper limit of ₹24,000 forgets to add the lower limit to the spread; the option with a return point of ₹8,000 reports spread ÷ 3 without adding the lower limit."
+  },
+  {
+    "id": "WC-3-04",
+    "node": "WC-3",
+    "unit": "SFM Unit 3",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Chambal Chemicals Ltd (fictional) expects to use ₹3,60,000 of cash over the year in a steady stream with no receipts. Each conversion of securities to cash costs ₹125 and securities earn 10% a year. Using the Baumol model, compute the optimum cash raised each time, the number of conversions, and the total annual cost. State two assumptions of the model.",
+    "model_answer": "**Optimum amount.** C* = √(2Tb ÷ i) = √(2 × 3,60,000 × 125 ÷ 0.10) = √90,00,00,000 = **₹30,000**.\n\n**Number of conversions** = T ÷ C* = 3,60,000 ÷ 30,000 = **12 a year** (one a month).\n\n**Costs at C\\*:**\n- Transaction cost = 12 × 125 = ₹1,500.\n- Holding (opportunity) cost = (C* ÷ 2) × i = 15,000 × 10% = ₹1,500.\n- **Total cost = ₹3,000.** The two parts are equal at the optimum, which confirms the answer.\n\n**Assumptions (any two):** cash outflow is steady and predictable; no cash receipts during the period; constant transaction cost per conversion; constant opportunity cost; no minimum safety balance.\n\n**Limitation:** real flows are uneven and uncertain, so for volatile flows Miller-Orr is better.",
+    "marking_scheme": [
+      {
+        "point": "Formula and C* = ₹30,000",
+        "marks": 2
+      },
+      {
+        "point": "Number of conversions (12)",
+        "marks": 1
+      },
+      {
+        "point": "Transaction cost, holding cost and total ₹3,000",
+        "marks": 1
+      },
+      {
+        "point": "Two assumptions (and limitation)",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "WC-3-05",
+    "node": "WC-3",
+    "unit": "SFM Unit 3",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "hard",
+    "question": "Nagarjuna Retail Ltd (fictional) has uncertain daily cash flows. The variance of its daily net cash flows is based on a standard deviation of ₹2,000. Each securities transaction costs ₹100. The interest rate on securities is 10.95% a year (use 365 days, so 0.03% a day). Management wants a minimum balance of ₹15,000.\n\n(a) Compute the spread, the return point and the upper limit under the Miller-Orr model. (3)\n(b) State what the treasurer should do if the balance reaches ₹45,000, and if it falls to ₹15,000. Also state the action on days when the balance is ₹46,500 and ₹14,200. (2)\n(c) Why is Miller-Orr more suitable than Baumol for this firm? (2)\n(d) If the standard deviation of daily flows rises to ₹3,000, recompute the spread and explain what happens to the control limits. (3)",
+    "model_answer": "**(a)** σ² = (2,000)² = 40,00,000; i = 0.0003 a day.\nSpread = 3 × (¾ × b × σ² ÷ i)^(1/3) = 3 × (0.75 × 100 × 40,00,000 ÷ 0.0003)^(1/3) = 3 × (1,000,00,00,00,000)^(1/3) = 3 × 10,000 = **₹30,000**.\n(Inside the bracket: 0.75 × 100 × 40,00,000 = 30,00,00,000; ÷ 0.0003 = 1.0 × 10¹²; cube root = 10,000.)\nReturn point = lower limit + spread ÷ 3 = 15,000 + 10,000 = **₹25,000**.\nUpper limit = lower limit + spread = 15,000 + 30,000 = **₹45,000**.\n\n**(b) Actions.**\n- At ₹45,000 (upper limit): buy securities worth 45,000 - 25,000 = **₹20,000**, returning to ₹25,000.\n- At ₹15,000 (lower limit): sell securities worth 25,000 - 15,000 = **₹10,000**.\n- At ₹46,500 (above the upper limit): buy securities worth 46,500 - 25,000 = **₹21,500**.\n- At ₹14,200 (below the lower limit): sell securities worth 25,000 - 14,200 = **₹10,800**.\nBalances inside the band need no action.\n\n**(c)** Miller-Orr is built for random, fluctuating daily flows with receipts and payments, using two control limits and a return point. Baumol assumes a steady outflow with no receipts, which does not fit a retailer whose daily flows are uncertain.\n\n**(d)** New σ² = 90,00,000. Inside the bracket: 0.75 × 100 × 90,00,000 ÷ 0.0003 = 2.25 × 10¹²; cube root = 13,104. Spread = 3 × 13,104 = **about ₹39,311**. The upper limit becomes 15,000 + 39,311 = ₹54,311 and the return point 15,000 + 13,104 = ₹28,104. The spread widens (by about 31%) because it rises with the cube root of the variance: more volatile flows need a wider band to avoid frequent transactions. A higher transaction cost also widens it; a higher interest rate narrows it.",
+    "marking_scheme": [
+      {
+        "point": "(a) Spread, return point and upper limit",
+        "marks": 3
+      },
+      {
+        "point": "(b) Actions at limits and outside them with amounts",
+        "marks": 2
+      },
+      {
+        "point": "(c) Reason Miller-Orr suits uncertain flows",
+        "marks": 2
+      },
+      {
+        "point": "(d) Revised spread and explanation of the effect on limits",
+        "marks": 3
+      }
+    ]
+  },
+  {
+    "id": "WC-4-01",
+    "node": "WC-4",
+    "unit": "SFM Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Sales are ₹40,00,000 on 30 days' credit. A relaxed policy of 60 days' credit raises sales to ₹44,00,000. Variable cost is 75% of sales, the required return on investment is 20% and a 360-day year is used. Investing in debtors at variable cost, the incremental profit from the relaxed policy is:",
+    "options": [
+      "A) -₹10,000",
+      "B) ₹1,00,000",
+      "C) ₹40,000",
+      "D) ₹20,000"
+    ],
+    "answer": "C",
+    "explanation": "Incremental contribution = 4,00,000 × 25% = 1,00,000. Debtors before = 40,00,000 × 30 ÷ 360 = 3,33,333; after = 44,00,000 × 60 ÷ 360 = 7,33,333. At 75% variable cost the investment is 2,50,000 before and 5,50,000 after: an increase of 3,00,000, costing 60,000 at 20%. Net = 1,00,000 - 60,000 = ₹40,000. The tempting option is ₹20,000, which values the debtors at sales (increase 4,00,000, cost 80,000). The -₹10,000 option charges 20% on the whole new investment of 5,50,000 instead of the increase. ₹1,00,000 ignores the cost of the extra investment."
+  },
+  {
+    "id": "WC-4-02",
+    "node": "WC-4",
+    "unit": "SFM Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Credit sales are ₹24,00,000, receivables turnover is 4, bad debts are ₹1,20,000, variable cost is 75% of sales and the required return on investment in receivables is 20%. Using the total approach (investment at variable cost), the final contribution is:",
+    "options": [
+      "A) ₹4,80,000",
+      "B) ₹5,10,000",
+      "C) ₹3,90,000",
+      "D) ₹3,60,000"
+    ],
+    "answer": "C",
+    "explanation": "Contribution = 25% × 24,00,000 = 6,00,000. Average receivables = 24,00,000 ÷ 4 = 6,00,000; investment at variable cost = 75% × 6,00,000 = 4,50,000; cost at 20% = 90,000. Final contribution = 6,00,000 - 1,20,000 - 90,000 = ₹3,90,000. The tempting option is ₹3,60,000, which invests at the full sales value (6,00,000 × 20% = 1,20,000). ₹5,10,000 forgets the bad debts. ₹4,80,000 forgets the cost of the investment."
+  },
+  {
+    "id": "WC-4-03",
+    "node": "WC-4",
+    "unit": "SFM Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "A prospective customer has strong cash flows and low borrowings, but has a record of paying suppliers late and disputing invoices. Which of the 5 Cs is the main weakness?",
+    "options": [
+      "A) Capacity",
+      "B) Conditions",
+      "C) Character",
+      "D) Capital"
+    ],
+    "answer": "C",
+    "explanation": "Character is the customer's willingness to pay, judged from payment history and conduct. The tempting option is Capacity (ability to repay from cash flows), but here the ability is strong; the problem is the willingness, shown by late payment and disputes. Capital is financial strength (low borrowings are a positive here), and Conditions refer to the economic and industry environment."
+  },
+  {
+    "id": "WC-4-04",
+    "node": "WC-4",
+    "unit": "SFM Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "hard",
+    "question": "A firm has credit sales of ₹20,00,000 with an average collection period of 60 days (360-day year). It considers offering 2/10 net 60; 40% of sales will be paid on day 10 and the rest on day 60. Variable cost is 70% of sales and the required return on investment is 20%. Assume investment in debtors at variable cost. The net effect of the discount policy is approximately:",
+    "options": [
+      "A) A gain of ₹6,222, so adopt",
+      "B) A loss of ₹444, so reject",
+      "C) A loss of ₹16,000, so reject",
+      "D) A gain of ₹15,556, so adopt"
+    ],
+    "answer": "B",
+    "explanation": "New average period = 0.4 × 10 + 0.6 × 60 = 40 days. Debtors fall from 3,33,333 to 2,22,222, a drop of 1,11,111; at 70% variable cost the investment falls by 77,778, saving 20% = ₹15,556. Cost of the discount = 20,00,000 × 40% × 2% = ₹16,000. Net = 15,556 - 16,000 = -₹444: reject (marginal). The tempting option is the gain of ₹6,222, which values the fall in debtors at sales (1,11,111 × 20% = 22,222, less 16,000). The ₹15,556 gain counts the saving but forgets the discount cost; the ₹16,000 loss counts the discount cost but forgets the saving."
+  },
+  {
+    "id": "WC-4-05",
+    "node": "WC-4",
+    "unit": "SFM Unit 3",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "Explain the 5 Cs of credit. How do they help in setting credit standards, and what is the trade-off in tightening them?",
+    "model_answer": "**The 5 Cs** are used to judge the credit quality of a customer:\n1. **Character:** willingness to pay, judged from payment history, reputation and conduct.\n2. **Capacity:** ability to repay out of operating cash flows and liquidity.\n3. **Capital:** financial strength: net worth and gearing, as a cushion if cash flows fail.\n4. **Collateral:** security the customer can pledge if it defaults.\n5. **Conditions:** the economic and industry environment and any special circumstances affecting the customer.\n\n**Use in credit standards.** The firm scores applicants on the Cs and sets a minimum standard (accept, accept with limit or security, reject). Credit terms (for example net 30, or 2/10 net 30) and the collection policy follow from the standard.\n\n**Trade-off.** Tighter standards cut bad debts, the collection cost and the investment in receivables, but they lose sales and contribution from marginal customers. Looser standards raise sales but also bad debts and the receivables investment. The firm should relax standards only while the incremental contribution exceeds the incremental cost of bad debts and financing.",
+    "marking_scheme": [
+      {
+        "point": "All five Cs named",
+        "marks": 2
+      },
+      {
+        "point": "Each C described correctly",
+        "marks": 1
+      },
+      {
+        "point": "Use in setting credit standards and terms",
+        "marks": 1
+      },
+      {
+        "point": "Trade-off between lost sales and bad debts",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "WC-4-06",
+    "node": "WC-4",
+    "unit": "SFM Unit 3",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Karuna Garments Ltd (fictional) has annual credit sales of ₹1,80,00,000 and an average collection period of 60 days (360-day year). A factor offers to buy the receivables **without recourse**: it will advance 80% of the receivables at 14% interest, charge a commission of 2% of the invoices, and take over collection and credit risk. The firm would save in-house credit administration of ₹3,00,000 a year and bad debts of 1% of sales. The firm's own cost of funds is 12%. Evaluate the offer.",
+    "model_answer": "**Average receivables** = 1,80,00,000 × 60 ÷ 360 = ₹30,00,000. **Advance** at 80% = ₹24,00,000.\n\n| Item | Working | ₹ |\n|---|---|---|\n| Interest on advance | 24,00,000 × 14% | 3,36,000 |\n| Factoring commission | 1,80,00,000 × 2% | 3,60,000 |\n| **Total cost of factoring** |  | **6,96,000** |\n| Credit administration saved | given | 3,00,000 |\n| Bad debts saved (without recourse) | 1% × 1,80,00,000 | 1,80,000 |\n| Cost of own funds released | 24,00,000 × 12% | 2,88,000 |\n| **Total benefit** |  | **7,68,000** |\n\n**Net benefit = 7,68,000 - 6,96,000 = ₹72,000 a year, so accept the offer.**\n\nThe benefit is thin: without the bad-debt saving (1,80,000) the offer would lose ₹1,08,000. Check the factor's credit approval limits and whether customers will accept payment to a third party. With recourse, the bad-debt saving disappears but the commission would be lower. *(Assumes the advance bears interest at 14% on the average amount outstanding.)*",
+    "marking_scheme": [
+      {
+        "point": "Average receivables and advance",
+        "marks": 1
+      },
+      {
+        "point": "Total cost of factoring (interest and commission)",
+        "marks": 1
+      },
+      {
+        "point": "Benefits: administration, bad debts, funds released",
+        "marks": 2
+      },
+      {
+        "point": "Net benefit and decision with caveat",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "WC-4-07",
+    "node": "WC-4",
+    "unit": "SFM Unit 3",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "hard",
+    "question": "Rangoli Appliances Ltd (fictional) sells ₹40,00,000 a year on 30 days' credit. Variable cost is 75% of sales and fixed cost is ₹5,00,000 a year. The required pre-tax return on investment is 20%. Use a 360-day year, and **invest in debtors at total cost (variable plus fixed)**, as in the class method. Three relaxed policies are being considered.\n\n| Policy | Collection period | Sales (₹) |\n|---|---|---|\n| Present | 30 days | 40,00,000 |\n| A | 45 days | 44,00,000 |\n| B | 60 days | 47,00,000 |\n| C | 90 days | 48,50,000 |\n\n(a) Evaluate the policies by the incremental approach and show the working. (6)\n(b) Which policy should be adopted? (1)\n(c) Check whether the decision changes if the investment in debtors is taken at variable cost only. (2)\n(d) Why is the policy with the highest sales not the best? (1)",
+    "model_answer": "**(a) Incremental approach, investment at total cost (total cost = 0.75 × sales + 5,00,000).** Contribution margin = 25%.\n\n| (₹) | Present (30d) | A (45d) | B (60d) | C (90d) |\n|---|---|---|---|---|\n| Sales | 40,00,000 | 44,00,000 | 47,00,000 | 48,50,000 |\n| Debtors turnover (360 ÷ days) | 12 | 8 | 6 | 4 |\n| Total cost (0.75 × sales + 5,00,000) | 35,00,000 | 38,00,000 | 40,25,000 | 41,37,500 |\n| Average investment in debtors | 2,91,667 | 4,75,000 | 6,70,833 | 10,34,375 |\n| Additional investment | - | 1,83,333 | 3,79,167 | 7,42,708 |\n| Cost of additional investment at 20% | - | 36,667 | 75,833 | 1,48,542 |\n| Incremental sales | - | 4,00,000 | 7,00,000 | 8,50,000 |\n| Incremental contribution at 25% | - | 1,00,000 | 1,75,000 | 2,12,500 |\n| **Incremental profit** | - | **63,333** | **99,167** | **63,958** |\n\n**(b) Decision.** **Adopt Policy B (60 days)**, which gives the highest incremental profit of ₹99,167 a year.\n\n**(c) Variable-cost basis** (investment = 0.75 × sales ÷ turnover): investments are 2,50,000, 4,12,500, 5,87,500, 9,09,375 for Present, A, B and C. Incremental profit is A ₹67,500, B ₹1,07,500, C ₹80,625. **B still wins**, so the decision is unchanged. Variable cost is the usual textbook basis, because fixed cost does not change with the credit policy; total cost is used here because the problem gives fixed cost and signals it. Always state the basis as an assumption.\n\n**(d)** Policy C has the highest sales, but over Policy B its extra sales of ₹1,50,000 add only ₹37,500 of contribution, while the additional investment in debtors rises by about ₹3,63,542 and costs about ₹72,708 a year at 20%. At 20% the cost of that investment outweighs the added contribution, so profit falls. Sales growth is worth having only while the incremental contribution exceeds the incremental cost of financing the extra debtors (and any extra bad debts).",
+    "marking_scheme": [
+      {
+        "point": "(a) Turnover, total cost and investment for each policy",
+        "marks": 2
+      },
+      {
+        "point": "(a) Additional investment and its cost at 20%",
+        "marks": 2
+      },
+      {
+        "point": "(a) Incremental contribution and incremental profit",
+        "marks": 2
+      },
+      {
+        "point": "(b) Decision: Policy B with amount",
+        "marks": 1
+      },
+      {
+        "point": "(c) Variable-cost check with same conclusion",
+        "marks": 2
+      },
+      {
+        "point": "(d) Highest sales not best: incremental logic",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "WC-5-01",
+    "node": "WC-5",
+    "unit": "SFM Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A firm uses 6,000 kg of a material every **quarter**. Ordering cost is ₹60 per order, the price is ₹25 per kg, and carrying cost is 8% of price a year. The EOQ is:",
+    "options": [
+      "A) 1,697 kg",
+      "B) 2,400 kg",
+      "C) 600 kg",
+      "D) 1,200 kg"
+    ],
+    "answer": "D",
+    "explanation": "Annual usage A = 6,000 × 4 = 24,000 kg. Carrying cost C = 8% × 25 = ₹2 per kg per year. EOQ = √(2AO ÷ C) = √(2 × 24,000 × 60 ÷ 2) = √14,40,000 = 1,200 kg. The tempting option is 600 kg, which uses the quarterly figure of 6,000 without annualising (√(2 × 6,000 × 60 ÷ 2) = 600). 2,400 is double the EOQ. 1,697 uses a carrying cost of ₹1 instead of ₹2."
+  },
+  {
+    "id": "WC-5-02",
+    "node": "WC-5",
+    "unit": "SFM Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Maximum usage is 500 units a day, normal usage 400, minimum usage 300. Lead time is at most 10 days, normally 8 days and at least 6 days. The reorder quantity is 2,400 units. The maximum stock level is:",
+    "options": [
+      "A) 5,600 units",
+      "B) 3,800 units",
+      "C) 4,200 units",
+      "D) 7,400 units"
+    ],
+    "answer": "A",
+    "explanation": "Reorder level = max usage × max lead time = 500 × 10 = 5,000. Maximum level = ROL + ROQ - (min usage × min lead time) = 5,000 + 2,400 - (300 × 6) = 5,600. The tempting option is 7,400, which is ROL + ROQ and does not deduct the minimum consumption during the minimum lead time. 4,200 deducts normal usage × normal lead time (400 × 8, the term in the minimum level formula). 3,800 uses normal figures to get the reorder level (3,200) as well."
+  },
+  {
+    "id": "WC-5-03",
+    "node": "WC-5",
+    "unit": "SFM Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "At the EOQ, a firm's annual carrying cost is ₹4,800. Its total annual ordering plus carrying cost is:",
+    "options": [
+      "A) ₹19,200",
+      "B) ₹4,800",
+      "C) ₹2,400",
+      "D) ₹9,600"
+    ],
+    "answer": "D",
+    "explanation": "At the EOQ, annual ordering cost equals annual carrying cost, so the total is 4,800 + 4,800 = ₹9,600. The tempting option is ₹4,800, which gives only one component. ₹2,400 halves it (as if the cost was shared); ₹19,200 doubles the total."
+  },
+  {
+    "id": "WC-5-04",
+    "node": "WC-5",
+    "unit": "SFM Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "hard",
+    "question": "A supplier offers a lower price for orders above the EOQ. Which is the correct way to decide whether to accept it?",
+    "options": [
+      "A) Accept whenever the discount quantity is below twice the EOQ",
+      "B) Compare total annual cost (purchase + ordering + carrying) at the EOQ and at the discount quantity, with carrying cost based on the price paid in each case",
+      "C) Reject whenever the carrying cost at the discount quantity is higher than at the EOQ",
+      "D) Compare only ordering plus carrying cost, because the purchase price is the same either way"
+    ],
+    "answer": "B",
+    "explanation": "The discount changes the purchase cost, so purchase cost must be in the comparison, and carrying cost expressed as a percentage of price changes with the price. The tempting option is the one that compares only ordering plus carrying cost: leaving out the purchase cost is a classic error, because the discount lowers it. Rejecting whenever carrying cost rises looks at one cost only; a higher carrying cost can be far outweighed by the purchase saving."
+  },
+  {
+    "id": "WC-5-05",
+    "node": "WC-5",
+    "unit": "SFM Unit 3",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Tapovan Spares Ltd (fictional) has the following data for a component: maximum usage 800 units a week, minimum usage 400, normal usage 600; lead time minimum 3 weeks, maximum 5 weeks, normal 4 weeks; reorder quantity 3,000 units. Compute the reorder level, minimum level, maximum level, danger level and average stock level. (Assume an emergency lead time of 2 weeks, and use the average-stock formula: minimum level + ½ ROQ.)",
+    "model_answer": "**Reorder level** = max usage × max lead time = 800 × 5 = **4,000 units**.\n\n**Minimum level** = ROL - (normal usage × normal lead time) = 4,000 - (600 × 4) = **1,600 units**.\n\n**Maximum level** = ROL + ROQ - (min usage × min lead time) = 4,000 + 3,000 - (400 × 3) = **5,800 units**.\n\n**Danger level** = normal usage × emergency lead time = 600 × 2 = **1,200 units** (the emergency lead time is not given, so 2 weeks is assumed; minimum usage × minimum lead time = 400 × 3 = 1,200 gives the same figure).\n\n**Average stock** = minimum level + ½ ROQ = 1,600 + 1,500 = **3,100 units**. (The alternative (minimum + maximum) ÷ 2 = (1,600 + 5,800) ÷ 2 = 3,700; state the formula used.)",
+    "marking_scheme": [
+      {
+        "point": "Reorder level 4,000",
+        "marks": 1
+      },
+      {
+        "point": "Minimum level 1,600",
+        "marks": 1
+      },
+      {
+        "point": "Maximum level 5,800",
+        "marks": 1
+      },
+      {
+        "point": "Danger level with stated assumption",
+        "marks": 1
+      },
+      {
+        "point": "Average stock with formula stated",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "WC-5-06",
+    "node": "WC-5",
+    "unit": "SFM Unit 3",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "hard",
+    "question": "Meenakshi Hardware Ltd (fictional) uses 18,000 units of an item a year at ₹50 a unit. Ordering cost is ₹200 per order and carrying cost is 10% of the purchase price a year. The supplier offers the following price schedule: ₹50 per unit for orders below 2,000; ₹48 per unit for orders of 2,000 to 2,999; ₹47.50 per unit for orders of 3,000 or more.\n\n(a) Compute the EOQ at the base price, the number of orders and the annual ordering plus carrying cost. (3)\n(b) Compute the total annual cost at the EOQ, at 2,000 units and at 3,000 units. (4)\n(c) State the best order size and the saving over ordering at the EOQ. (1)\n(d) Give two practical considerations other than cost before accepting the largest quantity. (2)",
+    "model_answer": "**(a)** C = 10% × 50 = ₹5. EOQ = √(2AO ÷ C) = √(2 × 18,000 × 200 ÷ 5) = √14,40,000 = **1,200 units**. Orders = 18,000 ÷ 1,200 = **15**. Ordering cost = 15 × 200 = ₹3,000; carrying cost = (1,200 ÷ 2) × 5 = ₹3,000; ordering plus carrying = **₹6,000**.\n\n**(b) Total cost = purchase + ordering + carrying (carrying at 10% of the price paid).**\n\n|  | At EOQ | At 2,000 units | At 3,000 units |\n|---|---|---|---|\n| Price per unit | ₹50.00 | ₹48.00 | ₹47.50 |\n| Carrying cost per unit (10% of price) | ₹5.00 | ₹4.80 | ₹4.75 |\n| Order size | 1,200 | 2,000 | 3,000 |\n| Orders a year | 15 | 9 | 6 |\n| Purchase cost | 9,00,000 | 8,64,000 | 8,55,000 |\n| Ordering cost | 3,000 | 1,800 | 1,200 |\n| Carrying cost | 3,000 | 4,800 | 7,125 |\n| **Total cost** | **9,06,000** | **8,70,600** | **8,63,325** |\n\n**(c)** The total cost is lowest at 3,000 units: **₹8,63,325**. Saving over the EOQ policy = 9,06,000 - 8,63,325 = **₹42,675** a year (the 2,000-unit offer saves ₹35,400).\n\n**(d)** Storage space and handling for a 3,000-unit lot (average stock of 1,500 units); the money tied up in stock; risk of obsolescence, damage or price fall; the firm's liquidity (a larger lot means a bigger payment per order) and reliability of the supplier.",
+    "marking_scheme": [
+      {
+        "point": "(a) EOQ, orders and cost at EOQ",
+        "marks": 3
+      },
+      {
+        "point": "(b) Purchase, ordering and carrying cost at each quantity",
+        "marks": 3
+      },
+      {
+        "point": "(b) Totals for the three alternatives",
+        "marks": 1
+      },
+      {
+        "point": "(c) Best quantity and saving",
+        "marks": 1
+      },
+      {
+        "point": "(d) Two practical considerations",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "WC-6-01",
+    "node": "WC-6",
+    "unit": "SFM Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A project needs a machine costing ₹8,00,000 and net working capital of ₹1,50,000 at the start, which is recovered at the end of year 3. Annual cash inflows are ₹3,50,000 for 3 years. Cost of capital is 10% (PV factors: 0.9091, 0.8264, 0.7513). The NPV including working capital is:",
+    "options": [
+      "A) ₹70,380",
+      "B) ₹1,07,685",
+      "C) -₹79,620",
+      "D) ₹33,075"
+    ],
+    "answer": "D",
+    "explanation": "PV of inflows = 3,50,000 × 2.4868 = 8,70,380, so NPV before working capital = ₹70,380. Working capital is a ₹1,50,000 outflow now and a recovery of 1,50,000 × 0.7513 = 1,12,695 at the end; net cost = 37,305. NPV = 70,380 - 37,305 = ₹33,075. The tempting option is ₹70,380, which ignores working capital. -₹79,620 treats working capital as a sunk cost that is never recovered. ₹1,07,685 adds the net working capital cost instead of subtracting it."
+  },
+  {
+    "id": "WC-6-02",
+    "node": "WC-6",
+    "unit": "SFM Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A new project will raise stock by ₹3,00,000 and debtors by ₹2,00,000, and creditors will rise by ₹1,50,000. The working capital outflow in the project's cash flows is:",
+    "options": [
+      "A) ₹5,00,000",
+      "B) ₹1,50,000",
+      "C) ₹3,50,000",
+      "D) ₹6,50,000"
+    ],
+    "answer": "C",
+    "explanation": "The relevant outflow is the increase in net working capital: (3,00,000 + 2,00,000) - 1,50,000 = ₹3,50,000. The tempting option is ₹5,00,000, which counts the increase in current assets and ignores the financing provided by creditors. ₹1,50,000 is the creditors alone, and ₹6,50,000 adds the creditors instead of subtracting them."
+  },
+  {
+    "id": "WC-6-03",
+    "node": "WC-6",
+    "unit": "SFM Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Credit sales are January ₹40,000, February ₹50,000, March ₹60,000, April ₹70,000. Customers pay after 2 months. Cash collected from debtors in April is:",
+    "options": [
+      "A) ₹60,000",
+      "B) ₹70,000",
+      "C) ₹50,000",
+      "D) ₹1,20,000"
+    ],
+    "answer": "C",
+    "explanation": "With a two-month lag, April's collections come from February's sales: ₹50,000. The tempting option is ₹70,000, which puts credit sales in the month they are made. ₹60,000 uses a one-month lag. ₹1,20,000 adds two months of sales."
+  },
+  {
+    "id": "WC-6-04",
+    "node": "WC-6",
+    "unit": "SFM Unit 3",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Prepare a cash budget for October to December from the data below and state in which month cash is tightest. Opening cash on 1 October is ₹20,000 and the minimum balance the firm wants is ₹15,000.\n\n| | Aug | Sep | Oct | Nov | Dec |\n|---|---|---|---|---|---|\n| Credit sales (₹) | 30,000 | 36,000 | 40,000 | 44,000 | 50,000 |\n| Purchases (₹) | | 18,000 | 22,000 | 24,000 | 28,000 |\n| Expenses (₹) | | | 5,000 | 5,500 | 6,000 |\n\nCredit sales are collected after 2 months. Purchases are paid after 1 month. Expenses are paid in the month incurred. A machine costing ₹20,000 is bought in November and a dividend of ₹8,000 is paid in December.",
+    "model_answer": "**Working notes (lags).** October collections = August sales 30,000; November = September sales 36,000; December = October sales 40,000. October purchase payments = September purchases 18,000; November = 22,000; December = 24,000. Expenses, machine and dividend fall in the month they occur. November and December sales and December purchases are not used in this window.\n\n| (₹) | Oct | Nov | Dec |\n|---|---|---|---|\n| Opening balance | 20,000 | 27,000 | 15,500 |\n| Collections from debtors (2-month lag) | 30,000 | 36,000 | 40,000 |\n| **Cash available** | **50,000** | **63,000** | **55,500** |\n| Purchases paid (1-month lag) | 18,000 | 22,000 | 24,000 |\n| Expenses (paid in month) | 5,000 | 5,500 | 6,000 |\n| Machine | - | 20,000 | - |\n| Dividend | - | - | 8,000 |\n| **Total payments** | **23,000** | **47,500** | **38,000** |\n| **Closing balance** | **27,000** | **15,500** | **17,500** |\n\n**Interpretation.** Cash is **tightest in November** (₹15,500, only ₹500 above the ₹15,000 minimum) because the ₹20,000 machine purchase falls in the same month as modest collections. Closing balances are above the minimum throughout, so no borrowing is needed, but any slip in collections or an early dividend would require a short-term arrangement. Surplus above the minimum in October (₹12,000) could be parked in short-term securities.",
+    "marking_scheme": [
+      {
+        "point": "Correct lags applied to collections and purchase payments",
+        "marks": 2
+      },
+      {
+        "point": "Payments (expenses, machine, dividend) in the right month",
+        "marks": 1
+      },
+      {
+        "point": "Opening, closing balances rolled forward correctly",
+        "marks": 1
+      },
+      {
+        "point": "Tightest month identified with comment",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "WC-6-05",
+    "node": "WC-6",
+    "unit": "SFM Unit 3",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "Why must working capital be included in the cash flows of a capital investment project? Explain how excess or inadequate inventory affects both liquidity and the long-term investment.",
+    "model_answer": "**Treatment in capital budgeting.** A project needs stock, debtors and cash to run, not only a machine. The **increase in net working capital** is a cash outflow when it arises (usually t0, and again if the business grows), and it is recovered as an inflow at the end of the project's life. Depreciation is non-cash; working capital is a real cash outflow. Leaving it out overstates the NPV, because the PV of the net working capital cost is the amount invested minus the discounted recovery.\n\n**Excess inventory.** Locks up cash, adds carrying cost and obsolescence risk, strains liquidity, and reduces the funds available for the capital project. NPV falls because the working capital outflow is larger.\n\n**Inadequate inventory.** Causes stock-outs, lost sales and idle capacity. The project's cash inflows fall, and so does its NPV.\n\n**Conclusion.** A project forecast must carry a realistic working capital line; working capital policy and the capital budget are one decision, not two. Larger working capital, or a slower recovery, can turn a positive NPV negative.",
+    "marking_scheme": [
+      {
+        "point": "Increase in net WC as an outflow, recovery at the end",
+        "marks": 2
+      },
+      {
+        "point": "Depreciation vs WC distinction and NPV effect of omission",
+        "marks": 1
+      },
+      {
+        "point": "Excess inventory effects",
+        "marks": 1
+      },
+      {
+        "point": "Inadequate inventory effects and conclusion",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "WC-6-06",
+    "node": "WC-6",
+    "unit": "SFM Unit 3",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "hard",
+    "question": "Hemavathi Foods Ltd (fictional) is evaluating a bakery line costing ₹12,00,000 with a 5-year life and nil scrap, depreciated on the straight-line method. Annual earnings before depreciation and tax are ₹4,20,000. Tax rate is 30%. The project needs net working capital (stock + debtors + cash - creditors) of ₹3,00,000 at the start and a further ₹50,000 at the end of year 2; all ₹3,50,000 is recovered at the end of year 5. The cost of capital is 12% (PV factors for years 1 to 5: 0.8929, 0.7972, 0.7118, 0.6355, 0.5674; sum 3.6048).\n\n(a) Compute the annual cash inflow after tax. (2)\n(b) Compute the NPV ignoring working capital. (2)\n(c) Compute the present value of the net cost of working capital. (3)\n(d) Compute the NPV including working capital, state the decision and explain the lesson. (3)",
+    "model_answer": "**(a) Annual CFAT.** Depreciation = 12,00,000 ÷ 5 = 2,40,000. EBIT = 4,20,000 - 2,40,000 = 1,80,000. Tax at 30% = 54,000. PAT = 1,26,000. CFAT = PAT + depreciation = 1,26,000 + 2,40,000 = **₹3,66,000** (equivalently 4,20,000 × 0.70 + 2,40,000 × 0.30).\n\n**(b) NPV ignoring WC.** PV of inflows = 3,66,000 × 3.6048 = ₹13,19,357. NPV = 13,19,357 - 12,00,000 = **₹1,19,357** (positive, so the project looks acceptable).\n\n**(c) Working capital.**\n\n| Year | Item | Cash flow | Factor | PV |\n|---|---|---|---|---|\n| 0 | Initial net WC | (3,00,000) | 1.0000 | (3,00,000) |\n| 2 | Additional WC | (50,000) | 0.7972 | (39,860) |\n| 5 | Recovery of WC | 3,50,000 | 0.5674 | 1,98,590 |\n|  | **Net PV cost of WC** |  |  | **(1,41,270)** |\n\n**(d) NPV including WC** = 1,19,357 - 1,41,270 = **-₹21,913**. The NPV turns negative, so **reject** the project as proposed.\n\n**Lesson.** Ignoring working capital overstated the NPV by ₹1,41,270 and led to a wrong accept decision. Working capital is a real cash outflow whose recovery comes late, so its discounted recovery is much smaller than the amount invested. The firm could still accept if it cut working capital (shorter stock holding or credit), or negotiated more supplier credit, or raised the margin.",
+    "marking_scheme": [
+      {
+        "point": "(a) Depreciation, tax and CFAT 3,66,000",
+        "marks": 2
+      },
+      {
+        "point": "(b) PV of inflows and NPV before WC",
+        "marks": 2
+      },
+      {
+        "point": "(c) Timing of WC flows, PVs and net cost",
+        "marks": 3
+      },
+      {
+        "point": "(d) NPV including WC, decision, lesson",
+        "marks": 3
+      }
+    ]
+  },
+  {
+    "id": "WC-6-07",
+    "node": "WC-6",
+    "unit": "SFM Unit 3",
+    "type": "case",
+    "marks": 20,
+    "difficulty": "hard",
+    "question": "**Sahyadri Components Ltd** (fictional) is preparing its working capital plan for the quarter January to March. The controller gives the following data.\n\n**Cash.** Opening cash on 1 January is ₹25,000 and the minimum balance the firm wants is ₹30,000. Credit sales are collected after 2 months. Purchases are paid after 1 month. Wages are paid in the month after they are incurred. Overheads are paid in the month incurred. A machine costing ₹20,000 is bought in February and a dividend of ₹6,000 is paid in March.\n\n| ₹ | Nov | Dec | Jan | Feb | Mar |\n|---|---|---|---|---|---|\n| Credit sales | 40,000 | 45,000 | 50,000 | 55,000 | 60,000 |\n| Purchases | | 22,000 | 26,000 | 28,000 | 30,000 |\n| Wages | | 4,000 | 4,200 | 4,500 | 4,800 |\n| Overheads | | | 3,000 | 3,200 | 3,500 |\n\n**Credit policy.** Sales are ₹24,00,000 a year, receivables turnover is 6 and bad debts are ₹36,000. Variable cost is 60% of sales and the required return on investment in receivables is 20% (invest at variable cost). Two relaxed options are proposed:\n- Option I: sales ₹30,00,000, turnover 4, bad debts ₹90,000.\n- Option II: sales ₹33,00,000, turnover 3, bad debts ₹1,50,000.\n\n**Raw material.** Usage is 7,200 kg a quarter (360-day year, even usage). Ordering cost is ₹50 per order, price is ₹20 per kg and carrying cost is 10% of price a year. Daily usage: normal 80 kg, maximum 100 kg, minimum 60 kg. Lead time: normal 15 days, maximum 20 days, minimum 10 days. The reorder quantity is the EOQ.\n\n(a) State the assumptions you are using. (1)\n(b) Prepare the cash budget for January to March. (5)\n(c) State the borrowing or surplus position against the ₹30,000 minimum. (1)\n(d) Evaluate the credit policy options by the total approach and choose one. (5)\n(e) Compute the EOQ and the number of orders a year. (2)\n(f) Compute the reorder, minimum, maximum, danger and average stock levels. (3)\n(g) Combine the three analyses into a recommendation to the board. (3)",
+    "model_answer": "**(a) Assumptions.** 360-day year; collections, payments and lags as given; investment in debtors at variable cost; the credit period equals the collection period implied by the turnover; tax ignored; emergency lead time for the danger level taken as 5 days (not given); average stock = minimum level + ½ ROQ; closing cash before any borrowing is shown.\n\n**(b) Cash budget.** Lags: January collects November sales; February collects December; March collects January. Purchases paid: January pays December; February pays January; March pays February. Wages: January pays December wages (and so on).\n\n| (₹) | Jan | Feb | Mar |\n|---|---|---|---|\n| Opening balance | 25,000 | 36,000 | 27,600 |\n| Collections from debtors | 40,000 | 45,000 | 50,000 |\n| **Cash available** | **65,000** | **81,000** | **77,600** |\n| Purchases paid | 22,000 | 26,000 | 28,000 |\n| Wages paid | 4,000 | 4,200 | 4,500 |\n| Overheads | 3,000 | 3,200 | 3,500 |\n| Machine | - | 20,000 | - |\n| Dividend | - | - | 6,000 |\n| **Total payments** | **29,000** | **53,400** | **42,000** |\n| **Closing balance** | **36,000** | **27,600** | **35,600** |\n\n**(c) Position.** January closes with a surplus of ₹6,000 over the ₹30,000 minimum. **February closes at ₹27,600, ₹2,400 below the minimum**, because the machine (₹20,000) falls in the same month; a short-term borrowing of about ₹2,400 is needed at the end of February. March closes at ₹35,600, ₹5,600 above the minimum (if the ₹2,400 is borrowed at the end of February and repaid in March, the March closing balance is ₹33,200 after the repayment, still above the minimum).\n\n**(d) Credit policy (total approach, investment at variable cost).**\n\n| (₹) | Present | Option I | Option II |\n|---|---|---|---|\n| Credit sales | 24,00,000 | 30,00,000 | 33,00,000 |\n| Receivables turnover | 6 | 4 | 3 |\n| Average receivables (sales ÷ turnover) | 4,00,000 | 7,50,000 | 11,00,000 |\n| Investment at variable cost (60%) | 2,40,000 | 4,50,000 | 6,60,000 |\n| Cost of investment at 20% | 48,000 | 90,000 | 1,32,000 |\n| Contribution (40% of sales) | 9,60,000 | 12,00,000 | 13,20,000 |\n| Less bad debts | 36,000 | 90,000 | 1,50,000 |\n| Less cost of investment | 48,000 | 90,000 | 1,32,000 |\n| **Final contribution** | **8,76,000** | **10,20,000** | **10,38,000** |\n\nOption II gives the highest final contribution (₹10,38,000): ₹18,000 above Option I and ₹1,62,000 above the present policy.\n\n**(e) EOQ.** Annual usage A = 7,200 × 4 = 28,800 kg (the quarterly figure must be annualised). Carrying cost C = 10% × 20 = ₹2 per kg. EOQ = √(2AO ÷ C) = √(2 × 28,800 × 50 ÷ 2) = √14,40,000 = **1,200 kg**. Orders a year = 28,800 ÷ 1,200 = **24** (one every 15 days).\n\n**(f) Stock levels (ROQ = 1,200 kg).**\n\n| Level | Working | kg |\n|---|---|---|\n| Reorder level | 100 × 20 | 2,000 |\n| Minimum level | 2,000 - (80 × 15) | 800 |\n| Maximum level | 2,000 + 1,200 - (60 × 10) | 2,600 |\n| Danger level | 80 × 5 (assumed emergency lead time) | 400 |\n| Average stock | 800 + ½ × 1,200 | 1,400 |\n\n**(g) Integrated recommendation.** On the numbers, adopt **Option II**: it adds ₹18,000 over Option I. But it raises the investment in receivables from ₹2,40,000 to ₹6,60,000 (₹4,20,000 more than now, ₹2,10,000 more than Option I), while the cash budget shows February already ₹2,400 below the minimum and only ₹5,600 above it in March, so the extra debtors would have to be funded by bank credit or a lower dividend; the 20% required return already charges for this. Bad debts also rise from 1.5% to 4.5% of sales, and the margin over Option I is only about 1.8%, so Option I is the safer choice if customer quality cannot be vetted (5 Cs). Inventory is a small call on funds (average 1,400 kg, about ₹28,000 at ₹20), and ordering at the EOQ in lots of 1,200 kg keeps it so; holding stock between 800 and 2,600 kg protects against stock-outs. **Decision: Option II, provided short-term bank limits are arranged before February and credit approvals are tightened; otherwise Option I.** The recommendation holds only under the stated cost basis and required return.",
+    "marking_scheme": [
+      {
+        "point": "(a) Assumptions stated (basis, days, danger-level assumption)",
+        "marks": 1
+      },
+      {
+        "point": "(b) Correct lags and cash budget with closing balances",
+        "marks": 5
+      },
+      {
+        "point": "(c) February shortfall of ₹2,400 identified",
+        "marks": 1
+      },
+      {
+        "point": "(d) Investment, cost, bad debts, final contribution and decision (Option II)",
+        "marks": 5
+      },
+      {
+        "point": "(e) Annualised usage, EOQ 1,200 kg and 24 orders",
+        "marks": 2
+      },
+      {
+        "point": "(f) The five stock levels",
+        "marks": 3
+      },
+      {
+        "point": "(g) Integrated recommendation linking cash, receivables and inventory",
+        "marks": 3
+      }
+    ]
+  },
+  {
+    "id": "WC-6-08",
+    "node": "WC-6",
+    "unit": "SFM Unit 3",
+    "type": "case",
+    "marks": 20,
+    "difficulty": "hard",
+    "question": "**Mahanadi Fasteners Ltd** (fictional) sells ₹60,00,000 a year on 30 days' credit and bad debts are 1% of sales. Variable cost is 70% of sales and fixed cost is ₹8,00,000 a year. The required pre-tax return on investment in receivables is 18%. The sales manager proposes three relaxed policies; the finance team estimates the effect of each on sales and bad debts (use a 360-day year):\n\n| Policy | Collection period | Sales (₹) | Bad debts (% of sales) |\n|---|---|---|---|\n| Present | 30 days | 60,00,000 | 1% |\n| A | 45 days | 66,00,000 | 1.5% |\n| B | 60 days | 69,00,000 | 2% |\n| C | 90 days | 72,00,000 | 4% |\n\nThe sales manager says Policy C should be adopted because it gives the highest sales. The credit controller says existing customers will also expect the longer terms.\n\n(a) State the assumptions, including the cost basis for the investment in debtors. (2)\n(b) Prepare working notes for each policy. (8)\n(c) Prepare the comparison table of final contribution and incremental profit. (4)\n(d) Name the policy to adopt and show whether the decision changes if the investment is taken at total cost (variable plus fixed). (2)\n(e) Give the qualitative factors the board should weigh and respond to the sales manager and the credit controller. (4)",
+    "model_answer": "**(a) Assumptions.** 360-day year; the credit period equals the average collection period; investment in debtors is taken at **variable cost** (the textbook default, since fixed cost does not change with the policy); the required return of 18% is charged on the investment; bad debts are as given and are lost in full; no change in collection or administration cost; tax ignored; the new terms apply to all customers.\n\n**(b) Working notes (total approach, final contribution).**\n\n| (₹) | Present (30d) | A (45d) | B (60d) | C (90d) |\n|---|---|---|---|---|\n| Credit sales | 60,00,000 | 66,00,000 | 69,00,000 | 72,00,000 |\n| Average receivables (sales × days ÷ 360) | 5,00,000 | 8,25,000 | 11,50,000 | 18,00,000 |\n| Investment at variable cost (70%) | 3,50,000 | 5,77,500 | 8,05,000 | 12,60,000 |\n| Cost of investment at 18% | 63,000 | 1,03,950 | 1,44,900 | 2,26,800 |\n| Contribution (30% of sales) | 18,00,000 | 19,80,000 | 20,70,000 | 21,60,000 |\n| Bad debts | 60,000 | 99,000 | 1,38,000 | 2,88,000 |\n| **Final contribution** | **16,77,000** | **17,77,050** | **17,87,100** | **16,45,200** |\n\nMethod: investment = 70% × sales × days ÷ 360; contribution = 30% of sales; final contribution = contribution - bad debts - cost of investment.\n\n**(c) Comparison.**\n\n| (₹) | A | B | C |\n|---|---|---|---|\n| Final contribution | 17,77,050 | 17,87,100 | 16,45,200 |\n| Less present policy | 16,77,000 | 16,77,000 | 16,77,000 |\n| **Incremental profit over present** | **1,00,050** | **1,10,100** | **-31,800** |\n| Incremental profit over previous policy | 1,00,050 | 10,050 | -1,41,900 |\n\nPolicy B has the highest final contribution, but its edge over A is small.\n\n**(d) Decision.** **Adopt Policy B (60 days)**: final contribution ₹17,87,100, which is ₹1,10,100 above the present policy and ₹10,050 above Policy A. Policy C is worse than the present policy by ₹31,800, because its bad debts (4%) and debtors investment eat the extra contribution.\n*Check at total cost* (investment = (0.7 × sales + 8,00,000) × days ÷ 360): final contribution Present ₹16,65,000; A ₹17,59,050; B ₹17,63,100; C ₹16,09,200. **B still wins**, by only ₹4,050 over A, so the decision is unchanged but sensitive.\n\n**(e) Qualitative factors and responses.**\n- *Sales manager:* highest sales is not the best policy. Policy C raises sales by ₹12,00,000, but the extra 3% bad debts and 60 more days of credit cost more than the extra contribution; profit would fall.\n- *Credit controller:* if existing customers demand the longer terms too, the investment applies to the whole base (as assumed here); if they pay later without a corresponding rise in sales, Policy B or A would earn less than computed, and the margin over A is only ₹10,050.\n- *Bad-debt risk and customer quality (5 Cs):* the extra sales come from weaker customers, so the 2% bad-debt estimate is uncertain; a small rise would eliminate B's advantage over A.\n- *Liquidity and cost of finance:* B's receivables are ₹11,50,000 against ₹5,00,000 today; funding the extra investment needs bank limits, and a higher borrowing cost reduces the gain.\n- *Competitors' terms and goodwill:* longer terms may be needed to hold customers; the sales increase must be repeatable.\n\n**Recommendation:** adopt Policy B with credit approval based on the 5 Cs and monthly monitoring of the collection period; fall back to Policy A if collections slip. The recommendation holds only under the stated cost basis and required return.",
+    "marking_scheme": [
+      {
+        "point": "(a) Assumptions including cost basis",
+        "marks": 2
+      },
+      {
+        "point": "(b) Receivables, investment and cost of investment for each policy",
+        "marks": 4
+      },
+      {
+        "point": "(b) Contribution, bad debts and final contribution",
+        "marks": 4
+      },
+      {
+        "point": "(c) Comparison table with incremental profit",
+        "marks": 4
+      },
+      {
+        "point": "(d) Decision with amount, and total-cost check",
+        "marks": 2
+      },
+      {
+        "point": "(e) Qualitative factors and replies to the managers",
+        "marks": 4
+      }
+    ]
+  },
+  {
+    "id": "WC-7-01",
+    "node": "WC-7",
+    "unit": "SFM Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "In a 20-mark credit policy case, the assumptions section should state:",
+    "options": [
+      "A) The qualitative factors affecting customers",
+      "B) The final decision and its reasons",
+      "C) The cost basis for investment in debtors, the days in the year, whether bad debts or collection cost change, and that tax is ignored",
+      "D) Only the required rate of return"
+    ],
+    "answer": "C",
+    "explanation": "The layout gives about 2 marks for assumptions before any working: cost basis (total, variable or sales value), 360 or 365 days, treatment of bad debts and collection cost, tax, and that the credit period equals the average collection period. The tempting option (only the required rate of return) gives a necessary input but misses the cost basis, the assumption that most often changes the answer. The decision and the qualitative factors come at the end, not in the assumptions."
+  },
+  {
+    "id": "WC-7-02",
+    "node": "WC-7",
+    "unit": "SFM Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A stock-level question gives normal usage and lead time but does not give an emergency lead time for the danger level. The best exam practice is to:",
+    "options": [
+      "A) Skip the danger level, because it cannot be computed",
+      "B) Use the maximum lead time as the emergency lead time without comment",
+      "C) State an assumed emergency lead time and the danger-level formula used, and compute on that basis",
+      "D) Use the minimum level as the danger level"
+    ],
+    "answer": "C",
+    "explanation": "Marks go for method and stated assumptions. The faculty's Arjun Enterprises solution assumed a 2-week emergency lead time and used average usage × emergency lead time. The tempting option is to skip the item because the data is missing, which loses the marks the method would earn. Using the maximum lead time or the minimum level confuses the danger level with other levels."
+  },
+  {
+    "id": "WC-7-03",
+    "node": "WC-7",
+    "unit": "SFM Unit 3",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "Compare the Baumol and Miller-Orr models for managing cash. When would you use each?",
+    "model_answer": "**Baumol model (inventory approach).** Treats cash like inventory. **C\\* = √(2Tb ÷ i)**, where T is the cash needed for the period, b the cost per transaction and i the opportunity cost. At C\\* the transaction cost equals the holding cost. Assumes steady, predictable outflows, no receipts, constant costs and no safety balance. One control: the size of each conversion.\n\n**Miller-Orr model (control limits).** For random, fluctuating daily flows. **Spread = 3 × (¾ × b × σ² ÷ i)^(1/3)**; **return point = lower limit + spread ÷ 3**; **upper limit = lower limit + spread**. The lower limit is set by management; σ² is the variance of daily net cash flows and i the daily rate. Cash is left alone inside the band; at the upper limit the firm buys securities back to the return point; at the lower limit it sells securities back to the return point.\n\n| Basis | Baumol | Miller-Orr |\n|---|---|---|\n| Cash flows | Certain, steady | Uncertain, random |\n| Receipts | None | Included in net flow |\n| Control | One optimum size | Upper limit, lower limit, return point |\n| Inputs | T, b, i | b, σ², i, lower limit |\n\n**Use:** Baumol where outflows are predictable (e.g. fixed payroll); Miller-Orr for volatile flows. The spread widens with higher transaction cost and variance, and narrows with a higher interest rate.",
+    "marking_scheme": [
+      {
+        "point": "Baumol formula and meaning of terms",
+        "marks": 1
+      },
+      {
+        "point": "Baumol assumptions or limitation",
+        "marks": 1
+      },
+      {
+        "point": "Miller-Orr formulas for spread, return point, upper limit",
+        "marks": 1
+      },
+      {
+        "point": "Contrast points (flows, controls)",
+        "marks": 1
+      },
+      {
+        "point": "When to use each",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "WC-7-04",
+    "node": "WC-7",
+    "unit": "SFM Unit 3",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "Explain how the cost of trade credit is computed. A supplier offers 3/10 net 40 (365-day year). If the firm can borrow at 18%, should it take the discount?",
+    "model_answer": "**Formula.** Annualised cost of forgoing the discount = [d ÷ (100 - d)] × [365 ÷ (credit period - discount period)].\n\n**Working.** d = 3, credit period = 40, discount period = 10.\nCost = (3 ÷ 97) × (365 ÷ 30) = 0.030928 × 12.1667 = **37.63% a year**.\n\n**Decision rule.** Take the discount if the cost of forgoing it exceeds the cost of short-term borrowing. Here 37.63% > 18%, so **take the discount** and borrow to pay on day 10: each ₹100 of invoice costs ₹97 early, and the 30 days of extra credit cost much more than the bank's 18%.\n\n**Note.** Trade credit is free only if the discount is not offered or is taken. If the terms were 3/10 net 120, the cost would be 0.030928 × (365 ÷ 110) = 10.26%, below 18%, and the firm should forgo the discount and use the full credit period.",
+    "marking_scheme": [
+      {
+        "point": "Formula with 100 - d in the denominator",
+        "marks": 1
+      },
+      {
+        "point": "Substitution and annualisation",
+        "marks": 1
+      },
+      {
+        "point": "Cost 37.63%",
+        "marks": 1
+      },
+      {
+        "point": "Decision rule and comparison with 18%",
+        "marks": 1
+      },
+      {
+        "point": "Note on how the longer credit period changes the answer",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "WC-7-05",
+    "node": "WC-7",
+    "unit": "SFM Unit 3",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Write a five-mark answer on EOQ and the stock levels. Illustrate EOQ for annual usage of 14,400 units, ordering cost of ₹50 per order and carrying cost of ₹4 per unit per year.",
+    "model_answer": "**EOQ.** The order size that minimises the total of ordering and carrying cost: **EOQ = √(2AO ÷ C)** (A = annual usage, O = ordering cost per order, C = carrying cost per unit per year). Assumptions: constant demand, constant costs, instant delivery, no quantity discounts. At EOQ, ordering cost = carrying cost.\n\n**Illustration.** EOQ = √(2 × 14,400 × 50 ÷ 4) = √3,60,000 = **600 units**; orders a year = 14,400 ÷ 600 = 24; ordering cost = 24 × 50 = ₹1,200; carrying cost = (600 ÷ 2) × 4 = ₹1,200; total ₹2,400.\n\n**Stock levels.**\n- Reorder level = maximum usage × maximum lead time.\n- Minimum level = ROL - (normal usage × normal lead time).\n- Maximum level = ROL + ROQ - (minimum usage × minimum lead time).\n- Danger level = normal (or average) usage × emergency lead time (state the assumption).\n- Average stock = minimum level + ½ ROQ (alternatively (minimum + maximum) ÷ 2; state the one used).\n\n**Trap:** if usage is given per quarter or per month, annualise it before using the EOQ formula.",
+    "marking_scheme": [
+      {
+        "point": "EOQ formula, terms and assumptions",
+        "marks": 1
+      },
+      {
+        "point": "Numerical illustration (600 units, orders, total cost)",
+        "marks": 2
+      },
+      {
+        "point": "Stock level formulas",
+        "marks": 1
+      },
+      {
+        "point": "Assumption notes (danger level, average stock) and annualising trap",
+        "marks": 1
+      }
+    ]
+  }
+]
