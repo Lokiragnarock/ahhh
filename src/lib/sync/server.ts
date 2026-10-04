@@ -1,5 +1,6 @@
 import { randomBytes } from "node:crypto";
 import { cookies } from "next/headers";
+import { NextResponse } from "next/server";
 import { KV_ENABLED, kv } from "./kv";
 import { isValidSyncKey, mergeRecords, SYNC_COOKIE, SyncRecord } from "./shared";
 import type { TopicState } from "../study-types";
@@ -184,4 +185,100 @@ export async function loadAllNames(): Promise<Record<string, string>> {
 
 export async function setUserName(key: string, name: string) {
   await kv("HSET", NAMES_KEY, key, name);
+}
+
+// ---------------------------------------------------------------- reissue
+// A sync link is the login, so "reissue" moves everything to a new key and
+// kills the old one. Revoked keys leave a tombstone (1 year, longer than any
+// cookie can live) so a device still holding the old link gets a 410 instead
+// of silently starting a fresh empty record under it.
+const REVOKED_TTL_S = 365 * 24 * 60 * 60;
+const revokedKey = (key: string) => `ahhh:revoked:${key}`;
+
+export async function isRevokedKey(key: string): Promise<boolean> {
+  return (await kv<number>("EXISTS", revokedKey(key))) === 1;
+}
+
+// The guard for routes that read or write a person's data: their key, null when
+// this device isn't syncing, or a ready-made 410 when the key was replaced.
+export async function requireLiveKey(): Promise<string | NextResponse | null> {
+  const key = currentSyncKey();
+  if (!key) return null;
+  if (await isRevokedKey(key)) return NextResponse.json({ error: "link replaced" }, { status: 410 });
+  return key;
+}
+
+async function scanKeys(pattern: string): Promise<string[]> {
+  const found: string[] = [];
+  let cursor = "0";
+  do {
+    const [next, batch] = await kv<[string, string[]]>("SCAN", cursor, "MATCH", pattern, "COUNT", 200);
+    cursor = String(next);
+    found.push(...batch);
+  } while (cursor !== "0");
+  return [...new Set(found)]; // SCAN may repeat keys
+}
+
+// COPY keeps type and TTL in one command (Redis 6.2+). Older servers reject it,
+// so fall back to rebuilding the three shapes this app uses.
+async function copyKey(src: string, dst: string) {
+  try {
+    await kv("COPY", src, dst, "REPLACE");
+    return;
+  } catch {
+    // fall through to the manual copy
+  }
+  const type = await kv<string>("TYPE", src);
+  const ttl = await kv<number>("PTTL", src);
+  await kv("DEL", dst);
+  if (type === "string") {
+    const v = await kv<string | null>("GET", src);
+    if (v !== null) await kv("SET", dst, v);
+  } else if (type === "hash") {
+    const flat = (await kv<string[]>("HGETALL", src)) ?? [];
+    for (let i = 0; i < flat.length; i += 2) await kv("HSET", dst, flat[i], flat[i + 1]);
+  } else if (type === "list") {
+    const items = (await kv<string[]>("LRANGE", src, 0, -1)) ?? [];
+    for (const item of items) await kv("RPUSH", dst, item);
+  } else if (type !== "none") {
+    throw new Error(`cannot copy ${type} key`);
+  }
+  if (ttl > 0) await kv("PEXPIRE", dst, ttl);
+}
+
+// Moves every `ahhh:u:<old>:*` key (record, snap:1/2 strings, topics hash, log
+// list) and the leaderboard name from oldKey to newKey. Copy, verify, then
+// tombstone and delete, so a failure before the tombstone leaves the old key
+// fully working (the half-made copies are cleaned up).
+export async function rekeyUser(oldKey: string, newKey: string): Promise<void> {
+  const prefix = `${ns(oldKey)}:`;
+  const srcs = await scanKeys(`${prefix}*`);
+  const dsts = srcs.map((k) => `${ns(newKey)}:${k.slice(prefix.length)}`);
+  const name = await kv<string | null>("HGET", NAMES_KEY, oldKey);
+
+  try {
+    for (let i = 0; i < srcs.length; i++) await copyKey(srcs[i], dsts[i]);
+    if (name !== null) await kv("HSET", NAMES_KEY, newKey, name);
+
+    for (const dst of dsts) {
+      if ((await kv<number>("EXISTS", dst)) !== 1) throw new Error("copy verification failed");
+    }
+    if (name !== null && (await kv<string | null>("HGET", NAMES_KEY, newKey)) !== name) {
+      throw new Error("name copy verification failed");
+    }
+    await kv("SET", revokedKey(oldKey), new Date().toISOString(), "EX", REVOKED_TTL_S);
+  } catch (err) {
+    // old key untouched; drop the partial copy
+    await Promise.allSettled([...dsts.map((d) => kv("DEL", d)), kv("HDEL", NAMES_KEY, newKey)]);
+    throw err;
+  }
+
+  // New key is complete and the old one is tombstoned. A failure from here is
+  // only leftover garbage under a dead key, so it doesn't fail the reissue.
+  try {
+    if (srcs.length) await kv("DEL", ...srcs);
+    await kv("HDEL", NAMES_KEY, oldKey);
+  } catch (err) {
+    console.error("rekeyUser: old key cleanup failed", err);
+  }
 }

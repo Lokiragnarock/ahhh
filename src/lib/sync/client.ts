@@ -10,7 +10,10 @@ import { deviceFromUserAgent, isSyncedKey, STORE_EVENT, SyncRecord } from "./sha
 const META_KEY = "sync.meta.v1"; // localStorage key -> ms of its last change
 const PUSH_DELAY_MS = 2000;
 
+export const REVOKED_EVENT = "sync-revoked";
+
 let enabled = false;
+let revoked = false;
 let pushTimer: ReturnType<typeof setTimeout> | null = null;
 const dirty = new Set<string>();
 
@@ -102,6 +105,18 @@ function outgoing(remote: SyncRecord): SyncRecord {
   return out;
 }
 
+// 410 = the link was replaced on another device: stop syncing and say so.
+function markRevoked() {
+  enabled = false;
+  revoked = true;
+  dirty.clear();
+  window.dispatchEvent(new Event(REVOKED_EVENT));
+}
+
+export function isRevoked() {
+  return revoked;
+}
+
 async function send(record: SyncRecord, keepalive = false) {
   const res = await fetch("/api/sync", {
     method: "POST",
@@ -109,6 +124,7 @@ async function send(record: SyncRecord, keepalive = false) {
     body: JSON.stringify({ record }),
     keepalive,
   });
+  if (res.status === 410) return markRevoked();
   if (res.status !== 200) return;
   applyRemote(((await res.json()) as { record: SyncRecord }).record);
 }
@@ -116,6 +132,7 @@ async function send(record: SyncRecord, keepalive = false) {
 export async function pull() {
   try {
     const res = await fetch("/api/sync", { cache: "no-store" });
+    if (res.status === 410) return markRevoked();
     enabled = res.status === 200;
     if (!enabled) return;
     const { record } = (await res.json()) as { record: SyncRecord };

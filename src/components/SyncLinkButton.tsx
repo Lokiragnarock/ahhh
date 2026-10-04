@@ -13,10 +13,12 @@ type LinkState =
 export function SyncLinkButton() {
   const [state, setState] = useState<LinkState>({ status: "idle" });
   const [copied, setCopied] = useState(false);
+  const [reissue, setReissue] = useState<"idle" | "confirm" | "working" | "failed" | "done">("idle");
 
   async function open() {
     setState({ status: "loading" });
     setCopied(false);
+    setReissue("idle");
     try {
       const res = await fetch("/api/sync/link");
       const body = (await res.json()) as { configured: boolean; path?: string };
@@ -32,6 +34,20 @@ export function SyncLinkButton() {
 
   function close() {
     setState({ status: "idle" });
+  }
+
+  async function reissueLink() {
+    setReissue("working");
+    try {
+      const res = await fetch("/api/sync/reissue", { method: "POST" });
+      const body = (await res.json()) as { link?: string };
+      if (!res.ok || !body.link) throw new Error("reissue failed");
+      setState({ status: "ready", href: `${window.location.origin}${body.link}` });
+      setCopied(false);
+      setReissue("done");
+    } catch {
+      setReissue("failed");
+    }
   }
 
   async function copy(href: string) {
@@ -112,6 +128,44 @@ export function SyncLinkButton() {
                     {copied ? "Copied" : "Copy"}
                   </button>
                 </div>
+
+                {reissue === "idle" && (
+                  <button
+                    type="button"
+                    onClick={() => setReissue("confirm")}
+                    className="mt-3 text-[11px] text-[#888] hover:text-[#111] underline underline-offset-2 transition-colors"
+                  >
+                    Reissue link
+                  </button>
+                )}
+                {(reissue === "confirm" || reissue === "working" || reissue === "failed") && (
+                  <div className="mt-3">
+                    <p className="text-[12px] text-[#666] mb-2">
+                      {reissue === "failed"
+                        ? "Couldn't reissue the link. Your current link still works."
+                        : "Your current link stops working on every device. You'll need to open the new link on your other devices."}
+                    </p>
+                    <div className="flex items-center gap-2">
+                      <button
+                        type="button"
+                        onClick={reissueLink}
+                        disabled={reissue === "working"}
+                        className="px-3 py-1 rounded-lg bg-[#111] text-white text-[12px] font-semibold hover:bg-[#333] transition-colors disabled:opacity-50"
+                      >
+                        {reissue === "working" ? "Reissuing…" : reissue === "failed" ? "Try again" : "Confirm"}
+                      </button>
+                      <button
+                        type="button"
+                        onClick={() => setReissue("idle")}
+                        disabled={reissue === "working"}
+                        className="px-3 py-1 rounded-lg text-[12px] font-semibold text-[#666] hover:bg-[#f2f2f2] transition-colors disabled:opacity-50"
+                      >
+                        Cancel
+                      </button>
+                    </div>
+                  </div>
+                )}
+                {reissue === "done" && <p className="mt-3 text-[12px] text-[#888]">Old link revoked.</p>}
               </>
             )}
           </div>

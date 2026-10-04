@@ -8,6 +8,7 @@ import {
   generateSyncKey,
   loadAllNames,
   loadRecord,
+  requireLiveKey,
   setUserName,
 } from "@/lib/sync/server";
 import { SYNC_COOKIE, SYNC_COOKIE_MAX_AGE } from "@/lib/sync/shared";
@@ -126,7 +127,8 @@ export async function POST(req: NextRequest) {
   const name = typeof body.name === "string" ? body.name.trim().slice(0, 40) : "";
   if (!name) return NextResponse.json({ error: "name is required" }, { status: 400 });
 
-  let key = currentSyncKey();
+  let key = await requireLiveKey();
+  if (key instanceof NextResponse) return key;
   const isNewKey = !key;
   if (!key) key = generateSyncKey();
 

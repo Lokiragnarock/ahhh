@@ -1,6 +1,6 @@
 import { NextRequest, NextResponse } from "next/server";
 import { getTopic, setTopicState, VAULT_IS_LIVE } from "@/lib/vault";
-import { appendActivity, currentSyncKey, saveTopicState } from "@/lib/sync/server";
+import { appendActivity, requireLiveKey, saveTopicState } from "@/lib/sync/server";
 import { deviceFromUserAgent } from "@/lib/sync/shared";
 import { TopicState } from "@/lib/study-types";
 
@@ -38,7 +38,8 @@ export async function POST(req: NextRequest) {
   }
 
   const next = state as TopicState;
-  const key = currentSyncKey();
+  const key = await requireLiveKey();
+  if (key instanceof NextResponse) return key;
   let ok = false;
   if (key) {
     try {

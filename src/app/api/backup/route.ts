@@ -68,9 +68,16 @@ async function dumpBackup(): Promise<BackupPayload> {
     if (m) userKeys.add(m[1]);
   }
 
+  // A straggler write under a replaced key must not look like a live user.
+  const live = (
+    await Promise.all(
+      Array.from(userKeys).map(async (k) => ((await kv<number>("EXISTS", `ahhh:revoked:${k}`)) === 1 ? null : k))
+    )
+  ).filter((k): k is string => k !== null);
+
   const users: Record<string, BackupUserData> = {};
   await Promise.all(
-    Array.from(userKeys).map(async (userKey) => {
+    live.map(async (userKey) => {
       const ns = `ahhh:u:${userKey}`;
       const [record, topicsFlat, log] = await Promise.all([
         kv<string | null>("GET", `${ns}:record`),

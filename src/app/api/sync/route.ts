@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from "next/server";
-import { currentSyncKey, loadRecord, mergeRecord } from "@/lib/sync/server";
+import { loadRecord, mergeRecord, requireLiveKey } from "@/lib/sync/server";
 import type { SyncRecord } from "@/lib/sync/shared";
 import { isSyncedKey } from "@/lib/sync/shared";
 
@@ -8,15 +8,19 @@ export const dynamic = "force-dynamic";
 // 204 = this device isn't syncing (no key, or storage not configured); the
 // client then stays local-only, exactly like before sync existed.
 export async function GET() {
-  const key = currentSyncKey();
+  const key = await requireLiveKey();
+  if (key instanceof NextResponse) return key;
   if (!key) return new NextResponse(null, { status: 204 });
   return NextResponse.json({ record: await loadRecord(key) });
 }
 
+// 410 (from requireLiveKey) = this key was replaced by "Reissue link"; the
+// client tells the person to open their new link instead of syncing.
 // Body: { record: SyncRecord } with only the entries this device changed.
 // Returns the merged record so the device can pick up anything newer.
 export async function POST(req: NextRequest) {
-  const key = currentSyncKey();
+  const key = await requireLiveKey();
+  if (key instanceof NextResponse) return key;
   if (!key) return new NextResponse(null, { status: 204 });
 
   let body: { record?: unknown };

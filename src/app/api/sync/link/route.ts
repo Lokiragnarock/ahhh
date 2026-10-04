@@ -1,6 +1,6 @@
 import { NextRequest, NextResponse } from "next/server";
 import { KV_ENABLED } from "@/lib/sync/kv";
-import { currentSyncKey, generateSyncKey } from "@/lib/sync/server";
+import { currentSyncKey, generateSyncKey, isRevokedKey } from "@/lib/sync/server";
 import { SYNC_COOKIE, SYNC_COOKIE_MAX_AGE } from "@/lib/sync/shared";
 
 export const dynamic = "force-dynamic";
@@ -11,7 +11,9 @@ export const dynamic = "force-dynamic";
 export async function GET(req: NextRequest) {
   if (!KV_ENABLED) return NextResponse.json({ configured: false });
 
+  // A replaced key never comes back: this device gets a fresh one instead.
   let key = currentSyncKey();
+  if (key && (await isRevokedKey(key))) key = null;
   const isNewKey = !key;
   if (!key) key = generateSyncKey();
 

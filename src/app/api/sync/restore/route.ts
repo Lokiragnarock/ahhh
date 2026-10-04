@@ -1,12 +1,13 @@
 import { NextRequest, NextResponse } from "next/server";
-import { currentSyncKey, restoreSnapshot, SNAP_SLOTS, type SnapSlot } from "@/lib/sync/server";
+import { requireLiveKey, restoreSnapshot, SNAP_SLOTS, type SnapSlot } from "@/lib/sync/server";
 
 export const dynamic = "force-dynamic";
 
 // Body: { slot: 1 | 2 }. Restores that server-side backup for this device's
 // own key. The current state is snapshotted first, so it can be undone.
 export async function POST(req: NextRequest) {
-  const key = currentSyncKey();
+  const key = await requireLiveKey();
+  if (key instanceof NextResponse) return key;
   if (!key) return new NextResponse(null, { status: 204 });
 
   let slot: unknown;
