@@ -182,6 +182,7 @@ function parseNote(filename: string, raw: string): TopicNode | null {
     unit: sectionFromFilename(filename),
     minutes,
     deps: Array.isArray(data.deps) ? data.deps.map(String) : [],
+    weight: typeof data.weight === "number" ? data.weight : 0,
     state,
     examFocus: Boolean(data.exam_focus),
     sections,

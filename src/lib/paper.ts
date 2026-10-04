@@ -56,8 +56,10 @@ function typeSections(qs: RenderedQuestion[]): PaperSection[] {
   })).filter((s) => s.questionIds.length > 0);
 }
 
-export function buildMini(pool: RenderedQuestion[], node: string): Paper {
-  const qs = pool.filter((q) => q.node === node);
+// `limit` draws a random subset, for the short set a Drill rolls into.
+export function buildMini(pool: RenderedQuestion[], node: string, limit?: number): Paper {
+  const all = pool.filter((q) => q.node === node);
+  const qs = limit ? shuffle(all).slice(0, limit) : all;
   return { kind: "mini", scope: node, title: `${node} mini test`, durationMin: null, sections: typeSections(qs), notes: [] };
 }
 

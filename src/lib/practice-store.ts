@@ -183,6 +183,33 @@ export const useSession = () => useStored<SessionState | null>(KEYS(useSubject()
 const EMPTY_ROUNDS: RoundsState = { topics: {} };
 export const useRounds = () => useStored<RoundsState>(KEYS(useSubject()).rounds, EMPTY_ROUNDS);
 
+// Rounds for several subjects at once (the GMAT home spans every gmat-* folder).
+// Null until the first read, since localStorage only exists on the client.
+export function useRoundsOf(subjects: string[]): Record<string, RoundsState> | null {
+  const [all, setAll] = useState<Record<string, RoundsState> | null>(null);
+  const subjectsKey = subjects.join(",");
+  useEffect(() => {
+    const list = subjectsKey ? subjectsKey.split(",") : [];
+    const keys: string[] = list.map((s) => KEYS(s).rounds);
+    const load = () =>
+      setAll(Object.fromEntries(list.map((s) => [s, readStored<RoundsState>(KEYS(s).rounds, EMPTY_ROUNDS)])));
+    load();
+    const onLocal = (e: Event) => {
+      if (keys.includes(String((e as CustomEvent).detail))) load();
+    };
+    const onStorage = (e: StorageEvent) => {
+      if (e.key === null || keys.includes(e.key)) load();
+    };
+    window.addEventListener(STORE_EVENT, onLocal);
+    window.addEventListener("storage", onStorage);
+    return () => {
+      window.removeEventListener(STORE_EVENT, onLocal);
+      window.removeEventListener("storage", onStorage);
+    };
+  }, [subjectsKey]);
+  return all;
+}
+
 // ---------------------------------------------------------------- helpers
 
 export function uid(): string {

@@ -1,10 +1,12 @@
 "use client";
 
 import Link from "next/link";
-import { useRef, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import { ERROR_TYPES, ErrorEntry, ErrorStatus } from "@/lib/practice-types";
 import {
   applyReview,
+  blockElapsed,
+  blockPhase,
   cleanStreak,
   countByType,
   dayKey,
@@ -14,6 +16,7 @@ import {
   importAll,
   isDue,
   makeError,
+  useBlockTimer,
   useErrors,
 } from "@/lib/practice-store";
 import { EMPTY_FIELDS, ErrorFieldValues, ErrorFields } from "./ErrorFields";
@@ -41,9 +44,20 @@ export function ErrorBook({ nodes }: { nodes: NodeOpt[] }) {
   const subject = useSubject();
   const [errors, setErrors, hydrated] = useErrors();
   const [filters, setFilters] = useState({ unit: "", node: "", type: "", status: "" });
+  const [timer, , timerReady] = useBlockTimer();
   const [showManual, setShowManual] = useState(false);
   const [flash, setFlash] = useState("");
   const fileRef = useRef<HTMLInputElement>(null);
+
+  // Opened from a block's log phase: show that node's misses from this block.
+  const scoped = useRef(false);
+  useEffect(() => {
+    if (scoped.current || !hydrated || !timerReady) return;
+    scoped.current = true;
+    if (!timer?.node || blockPhase(blockElapsed(timer)) !== "log") return;
+    const mine = errors.find((e) => e.node === timer.node && Date.parse(e.createdAt) >= timer.firstStart);
+    if (mine) setFilters((f) => ({ ...f, unit: mine.unit, node: mine.node }));
+  }, [hydrated, timerReady, timer, errors]);
 
   const today = dayKey();
   const due = errors.filter((e) => isDue(e, today)).sort((a, b) => a.nextReview.localeCompare(b.nextReview));

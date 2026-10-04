@@ -33,10 +33,11 @@ interface Props {
   scope: string;
   resolveEntryId?: string;
   next?: Step;
+  limit?: number; // mini tests only: ask this many questions instead of the whole pool
 }
 
-function build(pool: RenderedQuestion[], kind: TestKind, scope: string): Paper {
-  if (kind === "mini") return buildMini(pool, scope);
+function build(pool: RenderedQuestion[], kind: TestKind, scope: string, limit?: number): Paper {
+  if (kind === "mini") return buildMini(pool, scope, limit);
   if (kind === "sectional") return buildSectional(pool, scope);
   if (kind === "mock") return buildMock(pool);
   const q = pool.find((x) => x.id === scope);
@@ -105,7 +106,7 @@ export function scorePaper(paper: Paper, answers: Record<string, AnswerState>, q
   return { results, score, max };
 }
 
-export function TestRunner({ pool, kind, scope, resolveEntryId, next }: Props) {
+export function TestRunner({ pool, kind, scope, resolveEntryId, next, limit }: Props) {
   const subject = useSubject();
   const keys = useMemo(() => KEYS(subject), [subject]);
   const key = `${kind}:${scope}`;
@@ -115,8 +116,8 @@ export function TestRunner({ pool, kind, scope, resolveEntryId, next }: Props) {
   const [now, setNow] = useState(() => Date.now());
 
   const fresh = useCallback((): SessionState => {
-    return { key, paper: build(pool, kind, scope), startedAt: Date.now(), endedAt: null, answers: {}, phase: "answer" };
-  }, [key, pool, kind, scope]);
+    return { key, paper: build(pool, kind, scope, limit), startedAt: Date.now(), endedAt: null, answers: {}, phase: "answer" };
+  }, [key, pool, kind, scope, limit]);
 
   useEffect(() => {
     const stored = readStored<Sessions>(keys.session, {})[key];
@@ -651,6 +652,23 @@ function MissList({
 
   const alreadyOpen = new Set(errors.filter((e) => e.status !== "mastered").map((e) => e.questionId));
   const remaining = misses.filter((r) => !logged[r.questionId]).length;
+
+  // GMAT logs its misses on its own, so the block's error-log phase opens on
+  // them without a click. Questions already open in the error book are left
+  // alone. AHH keeps the manual buttons.
+  const autoLog = trackOfSubject(useSubject()) === "gmat";
+  const [autoLogged, setAutoLogged] = useState(false);
+  useEffect(() => {
+    if (!autoLog || autoLogged) return;
+    setAutoLogged(true);
+    const fresh = misses
+      .filter((r) => !logged[r.questionId] && !alreadyOpen.has(r.questionId))
+      .map((r) => entryFor(r, EMPTY_FIELDS));
+    if (fresh.length === 0) return;
+    setErrors((prev) => [...prev, ...fresh]);
+    setLogged((l) => ({ ...l, ...Object.fromEntries(fresh.map((e) => [e.questionId!, e.id])) }));
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [autoLog, autoLogged]);
 
   if (misses.length === 0) {
     return <p className="sp-body-text">Clean paper. Nothing to log.</p>;

@@ -32,6 +32,7 @@ export interface TopicNode {
   unit: string; // unit label from the filename prefix, e.g. "Unit 3A"
   minutes: number;
   deps: string[];
+  weight: number; // frontmatter `weight`, 0 when absent
   state: TopicState;
   examFocus: boolean;
   sections: NoteSection[];

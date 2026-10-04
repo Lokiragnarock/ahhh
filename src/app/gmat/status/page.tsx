@@ -2,9 +2,11 @@ import Link from "next/link";
 import { PageHead } from "@/components/PageHead";
 import { TopNav } from "@/components/TopNav";
 import { LogOfficial } from "@/components/gmat/LogOfficial";
+import { NextBlockCard } from "@/components/gmat/NextBlockCard";
 import { Notice, TopicTable } from "@/components/gmat/bits";
 import { currentPlayer } from "@/lib/gmat/current";
 import { fmtDay, ordinal } from "@/lib/gmat/format";
+import { nextBlockInputs } from "@/lib/gmat/next-block-data";
 import { groundCovered, RECENT_WINDOW, standing, type Standing, type TopicStat } from "@/lib/gmat/stats";
 
 export const dynamic = "force-dynamic";
@@ -28,11 +30,16 @@ export default async function StatusPage() {
     }
   }
 
+  const { nodes, sectionGap } = await nextBlockInputs(std?.plan ?? null);
+
   return (
     <main className="sp-page pt-12">
       <TopNav />
       <div className="max-w-[900px] mx-auto px-4 md:px-6 py-10">
         <PageHead title="Status" sub={me.state === "ok" ? me.player.displayName : undefined} />
+        <div className="mb-10">
+          <NextBlockCard nodes={nodes} sectionGap={sectionGap} />
+        </div>
         {me.state === "no-db" || failed ? (
           <Notice>The database is not reachable from here, so there is nothing to show yet. Practice still works and stays on this device.</Notice>
         ) : me.state === "no-player" ? (
