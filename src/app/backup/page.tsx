@@ -69,7 +69,7 @@ export default function BackupPage() {
             </button>
           </div>
           {error && <p className="text-[13.5px] text-[#e03e3e]">{error}</p>}
-          {ok && <p className="text-[13.5px] text-[#111]">{ok}</p>}
+          {ok && <p className="text-[13.5px] text-[color:var(--sp-ink)]">{ok}</p>}
         </div>
       </div>
     </main>

@@ -226,11 +226,11 @@ export function TestRunner({ pool, kind, scope, resolveEntryId, next, limit }: P
         <div className="max-w-[860px] mx-auto px-4 py-3 flex items-center gap-4">
           <div className="min-w-0 flex-1">
             <div className="sp-label mb-0 truncate">{paper.title}</div>
-            <div className="text-[12px] text-[#888]">
+            <div className="text-[12px] text-[color:var(--sp-muted)]">
               {phase === "answer" ? `${answeredCount} of ${allIds.length} touched` : phase === "mark" ? "Marking" : "Done"}
             </div>
           </div>
-          <div className={`text-[20px] font-semibold tabular-nums ${timeUp ? "text-[#e03e3e]" : "text-[#111]"}`}>
+          <div className={`text-[20px] font-semibold tabular-nums ${timeUp ? "text-[#e03e3e]" : "text-[color:var(--sp-ink)]"}`}>
             {phase === "answer" ? clock : fmtClock(elapsed)}
           </div>
           {phase === "answer" && (
@@ -269,7 +269,7 @@ export function TestRunner({ pool, kind, scope, resolveEntryId, next, limit }: P
               hit. Use the override box if your answer earns part of a point.
             </p>
             <div className="text-[13px] text-[#555]">
-              Running score <strong className="text-[#111]">{live.score} / {live.max}</strong>
+              Running score <strong className="text-[color:var(--sp-ink)]">{live.score} / {live.max}</strong>
               {unmarked > 0 && <span className="text-[#e03e3e]"> · {unmarked} written not yet marked</span>}
             </div>
           </div>
@@ -294,12 +294,12 @@ export function TestRunner({ pool, kind, scope, resolveEntryId, next, limit }: P
 
         {paper.sections.map((s) => (
           <section key={s.id} className="mb-10">
-            <div className="flex items-baseline justify-between gap-4 border-b border-[#111] pb-2 mb-1">
+            <div className="flex items-baseline justify-between gap-4 border-b border-[color:var(--sp-accent)] pb-2 mb-1">
               <h2 className="sp-h2 !mb-0">{s.title}</h2>
-              {s.instruction && <span className="text-[12px] text-[#888]">{s.instruction}</span>}
+              {s.instruction && <span className="text-[12px] text-[color:var(--sp-muted)]">{s.instruction}</span>}
             </div>
             {s.questionIds.length === 0 && (
-              <p className="text-[13px] text-[#888] py-4">No questions of this type in the bank yet.</p>
+              <p className="text-[13px] text-[color:var(--sp-muted)] py-4">No questions of this type in the bank yet.</p>
             )}
             {s.questionIds.map((id) => {
               const q = qmap.get(id);
@@ -322,7 +322,7 @@ export function TestRunner({ pool, kind, scope, resolveEntryId, next, limit }: P
         ))}
 
         {allIds.length > 0 && (
-          <div className="flex flex-wrap items-center gap-3 pt-4 border-t border-[#e5e5e5]">
+          <div className="flex flex-wrap items-center gap-3 pt-4 border-t border-[color:var(--sp-line)]">
             {phase === "answer" && (
               <button type="button" className="sp-btn" onClick={submit}>
                 Submit paper
@@ -373,7 +373,7 @@ function QuestionBlock({
   return (
     <div className={`sp-q ${a?.skipped ? "opacity-50" : ""}`}>
       <div className="flex flex-wrap items-center gap-2 mb-3">
-        <span className="text-[13px] font-bold text-[#111] mr-1">Q{n}</span>
+        <span className="text-[13px] font-bold text-[color:var(--sp-ink)] mr-1">Q{n}</span>
         <span className="sp-chip">{TYPE_LABEL[q.type]}</span>
         <span className="sp-chip">{q.marks} {q.marks === 1 ? "mark" : "marks"}</span>
         <span className="sp-chip">{q.difficulty}</span>
@@ -495,7 +495,7 @@ function WrittenReveal({
                     }
                   />
                   <span className="flex-1" dangerouslySetInnerHTML={{ __html: q.schemeHtml?.[i] ?? p.point }} />
-                  <span className="text-[#888] tabular-nums">{p.marks}</span>
+                  <span className="text-[color:var(--sp-muted)] tabular-nums">{p.marks}</span>
                 </label>
               </li>
             ))}
@@ -507,7 +507,7 @@ function WrittenReveal({
         <strong className="text-[16px] tabular-nums">
           {score} / {q.marks}
         </strong>
-        <label className="flex items-center gap-2 text-[#888]">
+        <label className="flex items-center gap-2 text-[color:var(--sp-muted)]">
           override
           <input
             type="number"
@@ -560,7 +560,7 @@ function Results({
           <div className="sp-label">Score</div>
           <div className="text-[40px] font-semibold leading-none tabular-nums">
             {score}
-            <span className="text-[#888] text-[22px]"> / {max}</span>
+            <span className="text-[color:var(--sp-muted)] text-[22px]"> / {max}</span>
           </div>
         </div>
         <div>
@@ -594,7 +594,7 @@ function Results({
         <Link href="/practice" className="sp-btn sp-btn-ghost">Practice hub</Link>
         <Link href="/errors" className="sp-btn sp-btn-ghost">Error book</Link>
       </div>
-      <p className="text-[12px] text-[#888] mt-4">Full review of every question is below.</p>
+      <p className="text-[12px] text-[color:var(--sp-muted)] mt-4">Full review of every question is below.</p>
     </div>
   );
 }
@@ -676,7 +676,7 @@ function MissList({
 
   return (
     <div>
-      <div className="flex flex-wrap items-center justify-between gap-3 border-b border-[#e5e5e5] pb-2 mb-1">
+      <div className="flex flex-wrap items-center justify-between gap-3 border-b border-[color:var(--sp-line)] pb-2 mb-1">
         <div className="sp-h2 !mb-0">Below full marks · {misses.length}</div>
         <button type="button" className="sp-btn sp-btn-sm" disabled={remaining === 0} onClick={logAll}>
           {remaining === 0 ? "All logged" : `Log all misses (${remaining})`}
@@ -686,12 +686,12 @@ function MissList({
         {misses.map((r) => {
           const q = qmap.get(r.questionId);
           return (
-            <li key={r.questionId} className="border-b border-[#eee] py-3">
+            <li key={r.questionId} className="border-b border-[color:var(--sp-line)] py-3">
               <div className="flex items-start gap-3">
                 <span className="sp-miss-dot mt-[7px]" />
                 <div className="min-w-0 flex-1">
-                  <div className="text-[13px] font-semibold text-[#111]">
-                    {r.questionId} <span className="text-[#888] font-normal">· {TYPE_LABEL[r.type]}</span>
+                  <div className="text-[13px] font-semibold text-[color:var(--sp-ink)]">
+                    {r.questionId} <span className="text-[color:var(--sp-muted)] font-normal">· {TYPE_LABEL[r.type]}</span>
                   </div>
                   <div className="text-[13px] text-[#555] line-clamp-2">{q ? snippet(q.question, 160) : ""}</div>
                 </div>
@@ -714,7 +714,7 @@ function MissList({
                 )}
               </div>
               {alreadyOpen.has(r.questionId) && !logged[r.questionId] && (
-                <p className="text-[12px] text-[#888] mt-1 ml-[18px]">Already has an open error-book entry.</p>
+                <p className="text-[12px] text-[color:var(--sp-muted)] mt-1 ml-[18px]">Already has an open error-book entry.</p>
               )}
               {open === r.questionId && (
                 <div className="mt-4 ml-[18px]">
@@ -729,7 +729,7 @@ function MissList({
         })}
       </ul>
       {Object.keys(logged).length > 0 && (
-        <p className="text-[12px] text-[#888] mt-3">
+        <p className="text-[12px] text-[color:var(--sp-muted)] mt-3">
           Quick-logged entries can be filled in later from the <Link href="/errors" className="underline">error book</Link>.
         </p>
       )}
@@ -753,7 +753,7 @@ function ResolveVerdict({ entryId, full, score, max }: { entryId?: string; full:
     <div className="sp-panel mb-10">
       <div className="sp-label">Re-solve</div>
       <div className="text-[32px] font-semibold tabular-nums mb-4">
-        {score} <span className="text-[#888] text-[20px]">/ {max}</span>
+        {score} <span className="text-[color:var(--sp-muted)] text-[20px]">/ {max}</span>
       </div>
       {!entry ? (
         <p className="sp-body-text">No error-book entry linked to this re-solve.</p>

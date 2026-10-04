@@ -33,7 +33,7 @@ export default async function TopicPage({ params }: { params: { slug: string } }
       <TopNav />
       <div className="px-5 py-10">
         <div className="max-w-[1100px] mx-auto mb-4 flex flex-wrap items-center gap-x-6 gap-y-2">
-          <Link href="/" className="text-[12px] uppercase tracking-[0.08em] text-[#888] hover:text-[#111] mr-auto">
+          <Link href="/" className="text-[12px] uppercase tracking-[0.08em] text-[color:var(--sp-muted)] hover:text-[color:var(--sp-ink)] mr-auto">
             &larr; Territory
           </Link>
           {flow?.prev && (
@@ -58,7 +58,7 @@ export default async function TopicPage({ params }: { params: { slug: string } }
               <div className="sp-label">Unit</div>
               <div className="sp-value">
                 {topic.unit}
-                {topic.section !== topic.unit && <span className="text-[#888]"> · {topic.section}</span>}
+                {topic.section !== topic.unit && <span className="text-[color:var(--sp-muted)]"> · {topic.section}</span>}
               </div>
             </div>
             <div className="sp-meta-block">
@@ -78,7 +78,7 @@ export default async function TopicPage({ params }: { params: { slug: string } }
             <div className="sp-meta-block">
               <div className="sp-label">Mini test</div>
               <div className="sp-value">
-                {questionCount > 0 ? <LastMiniScore node={topic.id} /> : <span className="text-[#888]">No questions yet</span>}
+                {questionCount > 0 ? <LastMiniScore node={topic.id} /> : <span className="text-[color:var(--sp-muted)]">No questions yet</span>}
               </div>
             </div>
             <div className="sp-meta-block">
@@ -90,7 +90,7 @@ export default async function TopicPage({ params }: { params: { slug: string } }
               <div className="sp-label">Depends on</div>
               <div className="sp-value">
                 {depTopics.length === 0 ? (
-                  <span className="text-[#888]">None</span>
+                  <span className="text-[color:var(--sp-muted)]">None</span>
                 ) : (
                   <div className="flex flex-col gap-1">
                     {depTopics.map((d) => (
@@ -105,7 +105,7 @@ export default async function TopicPage({ params }: { params: { slug: string } }
           </aside>
 
           <div className="sp-content">
-            <header className="pb-7 border-b border-[#e5e5e5] mb-0">
+            <header className="pb-7 border-b border-[color:var(--sp-line)] mb-0">
               <h1 className="sp-h1 mb-2">{topic.title}</h1>
               <p className="text-[15px] text-[#555]">{topic.docTitle}</p>
             </header>
@@ -124,21 +124,21 @@ export default async function TopicPage({ params }: { params: { slug: string } }
             <div className="pt-8 flex gap-3">
               <Link
                 href={`/focus/${encodeURIComponent(topic.slug)}`}
-                className="block flex-1 text-center bg-[#111] hover:bg-black text-white text-[13px] font-bold uppercase tracking-[0.08em] py-4"
+                className="block flex-1 text-center bg-[color:var(--sp-accent)] hover:bg-black text-white text-[13px] font-bold uppercase tracking-[0.08em] py-4"
               >
                 Enter focus
               </Link>
               {questionCount > 0 && (
                 <Link
                   href={`/practice/topic/${encodeURIComponent(topic.id)}`}
-                  className="block text-center bg-white hover:bg-[#f2f2f2] text-[#111] border border-[#111] text-[13px] font-bold uppercase tracking-[0.08em] py-4 px-8"
+                  className="block text-center bg-white hover:bg-[#f2f2f2] text-[color:var(--sp-ink)] border border-[color:var(--sp-accent)] text-[13px] font-bold uppercase tracking-[0.08em] py-4 px-8"
                 >
                   Mini test · {questionCount}
                 </Link>
               )}
             </div>
             {flow && (
-              <div className="flex flex-wrap items-center justify-between gap-3 pt-6 mt-6 border-t border-[#e5e5e5]">
+              <div className="flex flex-wrap items-center justify-between gap-3 pt-6 mt-6 border-t border-[color:var(--sp-line)]">
                 {flow.prev ? (
                   <Link href={topicHref(flow.prev)} className="sp-quiet-link">
                     &larr; {flow.prev.id}

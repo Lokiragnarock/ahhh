@@ -66,7 +66,7 @@ export function PracticeHub({
       <div className="sp-panel mb-8 flex flex-wrap items-center gap-6">
         <div className="flex-1 min-w-[240px]">
           <div className="sp-label">R3 · Full ESE mock</div>
-          <div className="text-[18px] font-semibold text-[#111] mb-1">50 marks · 2 hours</div>
+          <div className="text-[18px] font-semibold text-[color:var(--sp-ink)] mb-1">50 marks · 2 hours</div>
           <div className="text-[13px] text-[#555]">
             A: any 3 of 5 short · B: any 2 of 3 long · C: 1 case. Pool now: {mockPool.short} short, {mockPool.long} long,{" "}
             {mockPool.case} case.
@@ -77,7 +77,7 @@ export function PracticeHub({
           <div className="text-[20px] font-semibold tabular-nums">
             {lastMock ? `${pct(lastMock.score, lastMock.max)}%` : "—"}
           </div>
-          {lastMock && <div className="text-[12px] text-[#888]">{fmtDate(lastMock.date)}</div>}
+          {lastMock && <div className="text-[12px] text-[color:var(--sp-muted)]">{fmtDate(lastMock.date)}</div>}
         </div>
         {mockReady ? (
           <Link href="/practice/mock" className="sp-btn">
@@ -94,10 +94,10 @@ export function PracticeHub({
           const lastSec = lastAttempt(attempts, "sectional", u.unit);
           return (
             <section key={u.unit} className="sp-panel">
-              <div className="flex flex-wrap items-center gap-4 border-b border-[#111] pb-3 mb-1">
+              <div className="flex flex-wrap items-center gap-4 border-b border-[color:var(--sp-accent)] pb-3 mb-1">
                 <div className="flex-1 min-w-[160px]">
                   <h2 className="sp-h2 !mb-0">{u.unit}</h2>
-                  <div className="text-[12px] text-[#888]">
+                  <div className="text-[12px] text-[color:var(--sp-muted)]">
                     {u.nodes.length} node{u.nodes.length === 1 ? "" : "s"} · {u.qCount} questions
                   </div>
                 </div>
@@ -132,16 +132,16 @@ export function PracticeHub({
                             n.title
                           )}
                         </div>
-                        <div className="sm:hidden text-[12px] text-[#888] mt-0.5">
+                        <div className="sm:hidden text-[12px] text-[color:var(--sp-muted)] mt-0.5">
                           {n.qCount} q · {last ? `${pct(last.score, last.max)}% ×${tries}` : "not taken"}
                         </div>
                       </div>
-                      <span className="hidden sm:block text-[12px] text-[#888] w-12 text-right shrink-0">{n.qCount} q</span>
+                      <span className="hidden sm:block text-[12px] text-[color:var(--sp-muted)] w-12 text-right shrink-0">{n.qCount} q</span>
                       <span className="hidden sm:block text-[13px] tabular-nums w-24 text-right shrink-0">
                         {last ? (
                           <>
                             <strong>{pct(last.score, last.max)}%</strong>
-                            <span className="text-[#888]"> ×{tries}</span>
+                            <span className="text-[color:var(--sp-muted)]"> ×{tries}</span>
                           </>
                         ) : (
                           <span className="text-[#bbb]">not taken</span>

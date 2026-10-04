@@ -158,7 +158,7 @@ export default function HelpPage() {
 function Section({ title, children }: { title: string; children: React.ReactNode }) {
   return (
     <section className="mb-10">
-      <h2 className="sp-h2 border-b border-[#111] pb-2 mb-3">{title}</h2>
+      <h2 className="sp-h2 border-b border-[color:var(--sp-accent)] pb-2 mb-3">{title}</h2>
       <div className="flex flex-col gap-3 text-[14.5px] text-[#333] leading-relaxed">{children}</div>
     </section>
   );

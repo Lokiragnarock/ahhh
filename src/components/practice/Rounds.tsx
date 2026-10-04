@@ -43,7 +43,7 @@ export function RoundToggles({ node, withDates = false }: { node: string; withDa
         return withDates ? (
           <div key={r} className="flex items-center gap-2">
             {btn}
-            <span className="text-[12px] text-[#888]">{date ? `done ${fmtDate(date)}` : "not done"}</span>
+            <span className="text-[12px] text-[color:var(--sp-muted)]">{date ? `done ${fmtDate(date)}` : "not done"}</span>
           </div>
         ) : (
           btn
@@ -72,7 +72,7 @@ export function TerritoryStats({ topics }: { topics: (FlowTopic & { minutes: num
     .reduce((s, t) => s + t.minutes, 0);
 
   return (
-    <div className="grid grid-cols-3 gap-px bg-[#e5e5e5] border border-[#e5e5e5] mb-6 max-w-[560px]">
+    <div className="grid grid-cols-3 gap-px bg-[#e5e5e5] border border-[color:var(--sp-line)] mb-6 max-w-[560px]">
       <Stat label="Minutes remaining" value={minutesRemaining} />
       <Stat label="Topics" value={topics.length} />
       <Stat label="Drilled" value={drilledCount} />
@@ -123,7 +123,7 @@ export function RoundsStrip({ topics }: { topics: FlowTopic[] }) {
               {n}
               <span className={isCurrent ? "text-[#999]" : "text-[#aaa]"}>/{nodes.length}</span>
               {r === "R3" && (
-                <span className={`text-[13px] font-normal ml-3 ${isCurrent ? "text-[#ccc]" : "text-[#888]"}`}>
+                <span className={`text-[13px] font-normal ml-3 ${isCurrent ? "text-[#ccc]" : "text-[color:var(--sp-muted)]"}`}>
                   {mocks} mock{mocks === 1 ? "" : "s"} taken
                 </span>
               )}
@@ -145,13 +145,13 @@ export function UpNext({ topics }: { topics: FlowTopic[] }) {
   const href = next ? (round === "R3" ? "/practice/mock" : topicHref(next)) : "/practice/mock";
 
   return (
-    <div className="sp-panel mb-8 flex flex-wrap items-center gap-5 !border-[#111]">
+    <div className="sp-panel mb-8 flex flex-wrap items-center gap-5 !border-[color:var(--sp-accent)]">
       <div className="flex-1 min-w-[220px]">
         <div className="sp-label">Up next · {round}</div>
         {next ? (
-          <div className="text-[18px] font-semibold text-[#111] leading-snug">
+          <div className="text-[18px] font-semibold text-[color:var(--sp-ink)] leading-snug">
             {next.id} <span className="font-normal text-[#555]">{next.title}</span>
-            <div className="text-[12px] text-[#888] font-normal mt-0.5">{next.unit}</div>
+            <div className="text-[12px] text-[color:var(--sp-muted)] font-normal mt-0.5">{next.unit}</div>
           </div>
         ) : (
           <div className="text-[18px] font-semibold">Every topic has R3 marked. Keep taking mocks.</div>
@@ -177,14 +177,14 @@ export function RoundsBoard({ units }: { units: BoardUnit[] }) {
         const nodes = u.topics.map((t) => t.id);
         return (
           <section key={u.unit} className="sp-panel min-w-0">
-            <div className="flex flex-wrap items-start gap-3 border-b border-[#111] pb-3 mb-1">
+            <div className="flex flex-wrap items-start gap-3 border-b border-[color:var(--sp-accent)] pb-3 mb-1">
               <div className="flex-1 min-w-[140px]">
                 <h2 className="sp-h2 !mb-1">{u.unit}</h2>
-                <div className="text-[12px] text-[#888] tabular-nums">
+                <div className="text-[12px] text-[color:var(--sp-muted)] tabular-nums">
                   {ROUNDS.map((r) => {
                     const n = roundCount(rounds, nodes, r);
                     return (
-                      <span key={r} className={`mr-3 ${n === nodes.length ? "text-[#111] font-semibold" : ""}`}>
+                      <span key={r} className={`mr-3 ${n === nodes.length ? "text-[color:var(--sp-ink)] font-semibold" : ""}`}>
                         {r} {n}/{nodes.length}
                         {n === nodes.length && " ✓"}
                       </span>

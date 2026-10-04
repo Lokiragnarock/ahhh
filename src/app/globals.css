@@ -426,6 +426,12 @@ body {
   white-space: nowrap;
 }
 .sp-btn:hover { background: #000; }
+.sp-btn, .sp-pill, .sp-pill-static, .sp-trackbtn { transition: transform 160ms cubic-bezier(0.23, 1, 0.32, 1), background-color 120ms ease, border-color 120ms ease; }
+.sp-btn:active:not(:disabled), .sp-pill:active:not(:disabled), .sp-pill-static:active:not(:disabled), .sp-trackbtn:active:not(:disabled) { transform: scale(0.97); }
+@media (prefers-reduced-motion: reduce) {
+  .sp-btn, .sp-pill, .sp-pill-static, .sp-trackbtn { transition: none; }
+  .sp-btn:active, .sp-pill:active, .sp-pill-static:active, .sp-trackbtn:active { transform: none; }
+}
 .sp-btn:disabled { opacity: 0.4; cursor: default; }
 .sp-btn-ghost {
   background: #fff;

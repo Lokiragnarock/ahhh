@@ -56,7 +56,7 @@ export function Treemap({ units }: { units: UnitGroup[] }) {
               }}
             >
               <div
-                className="absolute top-0 left-0 right-0 flex items-center px-2 text-[10.5px] font-semibold uppercase tracking-[0.06em] text-[#888] border-b border-[#e9e9e9]"
+                className="absolute top-0 left-0 right-0 flex items-center px-2 text-[10.5px] font-semibold uppercase tracking-[0.06em] text-[color:var(--sp-muted)] border-b border-[#e9e9e9]"
                 style={{ height: UNIT_LABEL_H }}
               >
                 {unit.label}

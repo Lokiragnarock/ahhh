@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import { createPortal } from "react-dom";
 import { Check, Link2, X } from "lucide-react";
 
 type LinkState =
@@ -64,25 +65,25 @@ export function SyncLinkButton() {
       <button
         type="button"
         onClick={open}
-        className="shrink-0 flex items-center gap-1.5 text-[11px] font-semibold uppercase tracking-[0.09em] text-[#888] hover:text-[#111] transition-colors"
+        className="shrink-0 flex items-center gap-1.5 text-[11px] font-semibold uppercase tracking-[0.09em] text-[color:var(--sp-muted)] hover:text-[color:var(--sp-ink)] transition-colors"
         title="Get this device's sync link"
       >
         <Link2 size={13} />
         <span className="hidden sm:inline">Sync</span>
       </button>
 
-      {state.status !== "idle" && (
+      {state.status !== "idle" && createPortal(
         <div className="fixed inset-0 z-50 flex items-center justify-center px-4">
           <div className="absolute inset-0 bg-black/15 backdrop-blur-[1.5px]" onClick={close} />
           <div className="relative z-10 w-full max-w-[420px] bg-white rounded-xl shadow-xl p-5">
             <div className="flex items-center justify-between mb-3">
-              <span className="text-[13px] font-semibold uppercase tracking-[0.09em] text-[#111]">
+              <span className="text-[13px] font-semibold uppercase tracking-[0.09em] text-[color:var(--sp-ink)]">
                 Sync this device
               </span>
               <button
                 type="button"
                 onClick={close}
-                className="p-1 rounded text-[#888] hover:text-[#111] hover:bg-[#f2f2f2] transition-colors"
+                className="p-1 rounded text-[color:var(--sp-muted)] hover:text-[color:var(--sp-ink)] hover:bg-[#f2f2f2] transition-colors"
                 aria-label="Close"
               >
                 <X size={16} />
@@ -90,18 +91,18 @@ export function SyncLinkButton() {
             </div>
 
             {state.status === "loading" && (
-              <p className="text-[13px] text-[#888]">Getting your link…</p>
+              <p className="text-[13px] text-[color:var(--sp-muted)]">Getting your link…</p>
             )}
 
             {state.status === "unconfigured" && (
-              <p className="text-[13px] text-[#888]">
+              <p className="text-[13px] text-[color:var(--sp-muted)]">
                 Sync storage isn&apos;t configured on this deployment, so there&apos;s no link to
                 share yet.
               </p>
             )}
 
             {state.status === "error" && (
-              <p className="text-[13px] text-[#888]">
+              <p className="text-[13px] text-[color:var(--sp-muted)]">
                 Couldn&apos;t reach the server. Try again in a moment.
               </p>
             )}
@@ -117,12 +118,12 @@ export function SyncLinkButton() {
                     readOnly
                     value={state.href}
                     onFocus={(e) => e.currentTarget.select()}
-                    className="flex-1 min-w-0 px-2.5 py-1.5 rounded-lg bg-[#f2f2f2] text-[12px] font-mono text-[#111] outline-none"
+                    className="flex-1 min-w-0 px-2.5 py-1.5 rounded-lg bg-[#f2f2f2] text-[12px] font-mono text-[color:var(--sp-ink)] outline-none"
                   />
                   <button
                     type="button"
                     onClick={() => copy(state.href)}
-                    className="shrink-0 flex items-center gap-1 px-3 py-1.5 rounded-lg bg-[#111] text-white text-[12px] font-semibold hover:bg-[#333] transition-colors"
+                    className="shrink-0 flex items-center gap-1 px-3 py-1.5 rounded-lg bg-[color:var(--sp-accent)] text-white text-[12px] font-semibold hover:bg-[#333] transition-colors"
                   >
                     {copied ? <Check size={13} /> : null}
                     {copied ? "Copied" : "Copy"}
@@ -133,7 +134,7 @@ export function SyncLinkButton() {
                   <button
                     type="button"
                     onClick={() => setReissue("confirm")}
-                    className="mt-3 text-[11px] text-[#888] hover:text-[#111] underline underline-offset-2 transition-colors"
+                    className="mt-3 text-[11px] text-[color:var(--sp-muted)] hover:text-[color:var(--sp-ink)] underline underline-offset-2 transition-colors"
                   >
                     Reissue link
                   </button>
@@ -150,7 +151,7 @@ export function SyncLinkButton() {
                         type="button"
                         onClick={reissueLink}
                         disabled={reissue === "working"}
-                        className="px-3 py-1 rounded-lg bg-[#111] text-white text-[12px] font-semibold hover:bg-[#333] transition-colors disabled:opacity-50"
+                        className="px-3 py-1 rounded-lg bg-[color:var(--sp-accent)] text-white text-[12px] font-semibold hover:bg-[#333] transition-colors disabled:opacity-50"
                       >
                         {reissue === "working" ? "Reissuing…" : reissue === "failed" ? "Try again" : "Confirm"}
                       </button>
@@ -165,11 +166,12 @@ export function SyncLinkButton() {
                     </div>
                   </div>
                 )}
-                {reissue === "done" && <p className="mt-3 text-[12px] text-[#888]">Old link revoked.</p>}
+                {reissue === "done" && <p className="mt-3 text-[12px] text-[color:var(--sp-muted)]">Old link revoked.</p>}
               </>
             )}
           </div>
-        </div>
+        </div>,
+        document.body,
       )}
     </>
   );

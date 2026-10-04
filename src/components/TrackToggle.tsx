@@ -84,7 +84,7 @@ export function TrackToggle() {
         <button
           type="submit"
           disabled={busy || !name.trim()}
-          className="px-2 py-1 border border-[#ccc] hover:border-[#111] text-[11px] font-semibold uppercase tracking-[0.09em] disabled:opacity-60"
+          className="sp-trackbtn px-2 py-1 border border-[#ccc] hover:border-[#111] text-[11px] font-semibold uppercase tracking-[0.09em] disabled:opacity-60"
         >
           Go
         </button>
@@ -98,7 +98,7 @@ export function TrackToggle() {
       onClick={flip}
       disabled={busy}
       title={`Switch to ${target.toUpperCase()}`}
-      className={`shrink-0 px-2 py-1 border border-[#ccc] hover:border-[#111] text-[11px] font-semibold uppercase tracking-[0.09em] ${
+      className={`sp-trackbtn shrink-0 px-2 py-1 border border-[#ccc] hover:border-[#111] text-[11px] font-semibold uppercase tracking-[0.09em] ${
         track === "gmat" ? "text-[#111]" : "text-[#888] hover:text-[#111]"
       } ${busy ? "opacity-60" : ""}`}
     >

@@ -97,7 +97,7 @@ export function BlockTimerView({ nodes }: { nodes: { id: string; title: string; 
           </p>
           <button
             type="button"
-            className="text-[12px] text-[#888] hover:text-[#111] shrink-0"
+            className="text-[12px] text-[color:var(--sp-muted)] hover:text-[color:var(--sp-ink)] shrink-0"
             onClick={() => setNudgeDismissed(true)}
             aria-label="Dismiss"
           >
@@ -124,7 +124,7 @@ export function BlockTimerView({ nodes }: { nodes: { id: string; title: string; 
                   </button>
                 ))}
               </div>
-              <p className="text-[12.5px] text-[#888] mt-2">
+              <p className="text-[12.5px] text-[color:var(--sp-muted)] mt-2">
                 R1 first pass over every topic · R2 error-book revisits · R3 full mocks
               </p>
             </div>
@@ -155,14 +155,14 @@ export function BlockTimerView({ nodes }: { nodes: { id: string; title: string; 
                 {!timer.runningSince && " · paused"}
               </span>
             </div>
-            <div className="text-[64px] md:text-[88px] font-semibold tabular-nums leading-none tracking-[-0.03em] text-[#111] my-4">
+            <div className="text-[64px] md:text-[88px] font-semibold tabular-nums leading-none tracking-[-0.03em] text-[color:var(--sp-ink)] my-4">
               {fmtClock(remaining)}
             </div>
             <div className="relative h-[6px] bg-[#eee] mb-2">
-              <div className="absolute inset-y-0 left-0 bg-[#111]" style={{ width: `${Math.min(100, (elapsed / TOTAL_MS) * 100)}%` }} />
+              <div className="absolute inset-y-0 left-0 bg-[color:var(--sp-accent)]" style={{ width: `${Math.min(100, (elapsed / TOTAL_MS) * 100)}%` }} />
               <div className="absolute inset-y-[-4px] w-px bg-[#888]" style={{ left: `${(STUDY_MIN / (STUDY_MIN + LOG_MIN)) * 100}%` }} />
             </div>
-            <div className="flex justify-between text-[11px] text-[#888] uppercase tracking-[0.08em] mb-6">
+            <div className="flex justify-between text-[11px] text-[color:var(--sp-muted)] uppercase tracking-[0.08em] mb-6">
               <span>Study {STUDY_MIN}:00</span>
               <span>Log {LOG_MIN}:00</span>
             </div>
@@ -211,16 +211,16 @@ export function BlockTimerView({ nodes }: { nodes: { id: string; title: string; 
       <section className="sp-panel">
         <h2 className="sp-h2">Today</h2>
         {todays.length === 0 ? (
-          <p className="text-[13.5px] text-[#888]">No blocks logged today.</p>
+          <p className="text-[13.5px] text-[color:var(--sp-muted)]">No blocks logged today.</p>
         ) : (
           <ul>
             {[...todays].reverse().map((b) => (
               <li key={b.id} className="sp-row">
-                <span className="tabular-nums text-[#888] w-24">
+                <span className="tabular-nums text-[color:var(--sp-muted)] w-24">
                   {new Date(b.startedAt).toLocaleTimeString("en-IN", { hour: "2-digit", minute: "2-digit" })}
                 </span>
                 <span className="sp-chip sp-chip-dark">{b.round}</span>
-                <span className="text-[12px] text-[#888] w-24 truncate">{subjectLabel(b.subject)}</span>
+                <span className="text-[12px] text-[color:var(--sp-muted)] w-24 truncate">{subjectLabel(b.subject)}</span>
                 <span className="flex-1">{b.node ?? "—"}</span>
                 <span className="tabular-nums">{b.minutes} min</span>
                 <span className={`sp-chip ${b.complete ? "" : "sp-chip-red"}`}>{b.complete ? "complete" : "partial"}</span>

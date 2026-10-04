@@ -39,7 +39,7 @@ export default async function RevealPage({ params }: { params: { slug: string } 
       <FlowBar flow={flow} current="reveal" />
       <div className="px-5 py-10">
         <div className="max-w-[1200px] mx-auto mb-4">
-          <Link href="/" className="text-[12px] uppercase tracking-[0.08em] text-[#888] hover:text-[#111]">
+          <Link href="/" className="text-[12px] uppercase tracking-[0.08em] text-[color:var(--sp-muted)] hover:text-[color:var(--sp-ink)]">
             &larr; Territory
           </Link>
         </div>

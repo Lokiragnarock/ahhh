@@ -96,15 +96,15 @@ export function Standing({ units }: { units: UnitLite[] }) {
             <Sparkline values={mocks.map((a) => pct(a.score, a.max))} width={110} />
           </div>
           {papers.length === 0 ? (
-            <p className="text-[13.5px] text-[#888]">No sectional tests or mocks yet.</p>
+            <p className="text-[13.5px] text-[color:var(--sp-muted)]">No sectional tests or mocks yet.</p>
           ) : (
             <ul>
               {papers.map((a) => (
                 <li key={a.id} className="sp-row">
-                  <span className="text-[#888] w-16 shrink-0">{fmtDate(a.date)}</span>
+                  <span className="text-[color:var(--sp-muted)] w-16 shrink-0">{fmtDate(a.date)}</span>
                   <span className="sp-chip">{a.kind}</span>
                   <span className="flex-1">{a.kind === "mock" ? "Full mock" : a.scope}</span>
-                  <span className="tabular-nums text-[#888]">
+                  <span className="tabular-nums text-[color:var(--sp-muted)]">
                     {a.score}/{a.max}
                   </span>
                   <strong className="tabular-nums w-12 text-right">{pct(a.score, a.max)}%</strong>
@@ -126,7 +126,7 @@ export function Standing({ units }: { units: UnitLite[] }) {
               <li key={t} className="flex items-center gap-3 text-[13px]">
                 <span className="w-44 shrink-0 text-[#333]">{t}</span>
                 <span className="flex-1 h-[6px] bg-[#f0f0f0]">
-                  <span className="block h-full bg-[#111]" style={{ width: `${(types[t] / maxType) * 100}%` }} />
+                  <span className="block h-full bg-[color:var(--sp-accent)]" style={{ width: `${(types[t] / maxType) * 100}%` }} />
                 </span>
                 <span className="w-6 text-right tabular-nums">{types[t]}</span>
               </li>
@@ -158,11 +158,11 @@ function UnitRows({
   const us = summary(unitSeries);
   return (
     <>
-      <tr className="border-t border-[#111]">
+      <tr className="border-t border-[color:var(--sp-accent)]">
         <td className="py-2.5">
           <span className="font-bold uppercase tracking-[0.05em] text-[12px]">{u.unit}</span>
           {ids.length > 0 && (
-            <span className="ml-3 text-[11.5px] text-[#888] tabular-nums">
+            <span className="ml-3 text-[11.5px] text-[color:var(--sp-muted)] tabular-nums">
               {ROUNDS.map((r) => `${r} ${roundCount(rounds, ids, r)}/${ids.length}`).join(" · ")}
             </span>
           )}
@@ -172,13 +172,13 @@ function UnitRows({
       {u.nodes.map((n) => {
         const series = byNode.get(n.id) ?? [];
         return (
-          <tr key={n.id} className="border-t border-[#eee]">
+          <tr key={n.id} className="border-t border-[color:var(--sp-line)]">
             <td className="py-2 pl-3">
               <span className="font-semibold">{n.id}</span>{" "}
-              <span className="text-[10.5px] text-[#111] tracking-[0.04em]">
+              <span className="text-[10.5px] text-[color:var(--sp-ink)] tracking-[0.04em]">
                 {ROUNDS.filter((r) => rounds.topics?.[n.id]?.[r]).join(" ")}
               </span>{" "}
-              <span className="text-[#888] hidden sm:inline">{n.title.length > 42 ? n.title.slice(0, 41) + "…" : n.title}</span>
+              <span className="text-[color:var(--sp-muted)] hidden sm:inline">{n.title.length > 42 ? n.title.slice(0, 41) + "…" : n.title}</span>
             </td>
             <Cells s={summary(series)} series={series} />
           </tr>
@@ -194,7 +194,7 @@ function Cells({ s, series, bold }: { s: ReturnType<typeof summary>; series: Ser
     <>
       <td className={`text-right tabular-nums ${bold ? "font-semibold" : ""}`}>{s ? `${s.latest}%` : dash}</td>
       <td className="text-right tabular-nums">{s ? `${s.best}%` : dash}</td>
-      <td className="text-right tabular-nums text-[#888]">{s ? s.n : 0}</td>
+      <td className="text-right tabular-nums text-[color:var(--sp-muted)]">{s ? s.n : 0}</td>
       <td className="pl-6 py-1">
         <Sparkline values={series.map((p) => p.pct)} width={100} height={22} />
       </td>

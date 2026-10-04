@@ -154,7 +154,7 @@ export function ErrorBook({ nodes }: { nodes: NodeOpt[] }) {
         </div>
       </PageHead>
 
-      {flash && <div className="mb-4 text-[13px] bg-[#111] text-white px-4 py-2 inline-block">{flash}</div>}
+      {flash && <div className="mb-4 text-[13px] bg-[color:var(--sp-accent)] text-white px-4 py-2 inline-block">{flash}</div>}
 
       {showManual && (
         <ManualEntry
@@ -188,9 +188,9 @@ export function ErrorBook({ nodes }: { nodes: NodeOpt[] }) {
       </div>
 
       <section className="mb-12">
-        <h2 className="sp-h2 border-b border-[#111] pb-2">Due today</h2>
+        <h2 className="sp-h2 border-b border-[color:var(--sp-accent)] pb-2">Due today</h2>
         {!hydrated ? null : due.length === 0 ? (
-          <p className="text-[13.5px] text-[#888] py-3">Nothing due. {errors.length ? "Come back tomorrow." : "Log misses from any test."}</p>
+          <p className="text-[13.5px] text-[color:var(--sp-muted)] py-3">Nothing due. {errors.length ? "Come back tomorrow." : "Log misses from any test."}</p>
         ) : (
           <ul>
             {due.map((e) => (
@@ -201,7 +201,7 @@ export function ErrorBook({ nodes }: { nodes: NodeOpt[] }) {
       </section>
 
       <section>
-        <div className="flex flex-wrap items-center gap-2 border-b border-[#111] pb-2 mb-2">
+        <div className="flex flex-wrap items-center gap-2 border-b border-[color:var(--sp-accent)] pb-2 mb-2">
           <h2 className="sp-h2 !mb-0 mr-auto">All entries · {filtered.length}</h2>
           <select className="sp-select" value={filters.unit} onChange={(e) => setFilters({ ...filters, unit: e.target.value, node: "" })}>
             <option value="">All units</option>
@@ -228,7 +228,7 @@ export function ErrorBook({ nodes }: { nodes: NodeOpt[] }) {
             ))}
           </select>
         </div>
-        {filtered.length === 0 && hydrated && <p className="text-[13.5px] text-[#888] py-3">No entries.</p>}
+        {filtered.length === 0 && hydrated && <p className="text-[13.5px] text-[color:var(--sp-muted)] py-3">No entries.</p>}
         <div className="flex flex-col gap-4">
           {filtered.map((e) => (
             <EntryCard key={e.id} e={e} onUpdate={update} onDelete={() => remove(e.id)} />
@@ -243,14 +243,14 @@ function DueRow({ e, onUpdate }: { e: ErrorEntry; onUpdate: (e: ErrorEntry) => v
   const [open, setOpen] = useState(false);
   const overdue = e.nextReview < dayKey();
   return (
-    <li className="border-b border-[#eee] py-3">
+    <li className="border-b border-[color:var(--sp-line)] py-3">
       <div className="flex flex-wrap items-center gap-3">
         <span className="font-semibold text-[13.5px] w-20 shrink-0">{e.questionId ?? e.node}</span>
         <span className="flex-1 min-w-[180px] text-[13px] text-[#555] line-clamp-2">
           {e.questionText || e.what || e.correct || "Manual entry"}
         </span>
         <span className="sp-chip">{e.errorType}</span>
-        <span className={`text-[12px] ${overdue ? "text-[#e03e3e]" : "text-[#888]"}`}>
+        <span className={`text-[12px] ${overdue ? "text-[#e03e3e]" : "text-[color:var(--sp-muted)]"}`}>
           {overdue ? `overdue · ${fmtDate(e.nextReview)}` : "today"} · streak {cleanStreak(e)}/3
         </span>
         {e.questionId ? (
@@ -305,7 +305,7 @@ function EntryCard({ e, onUpdate, onDelete }: { e: ErrorEntry; onUpdate: (e: Err
         <span className={`sp-chip ${e.status === "mastered" ? "sp-chip-dark" : e.status === "open" ? "sp-chip-red" : ""}`}>
           {e.status}
         </span>
-        <span className="text-[12px] text-[#888] ml-auto">
+        <span className="text-[12px] text-[color:var(--sp-muted)] ml-auto">
           {e.source}
           {e.scoreText ? ` · ${e.scoreText}` : ""} · logged {fmtDate(e.createdAt)}
           {e.status !== "mastered" && e.nextReview ? ` · next ${fmtDate(e.nextReview)}` : ""}
@@ -342,7 +342,7 @@ function EntryCard({ e, onUpdate, onDelete }: { e: ErrorEntry; onUpdate: (e: Err
                 v ? (
                   <div key={k}>
                     <dt className="sp-label">{k}</dt>
-                    <dd className="text-[13.5px] text-[#111] whitespace-pre-wrap">{v}</dd>
+                    <dd className="text-[13.5px] text-[color:var(--sp-ink)] whitespace-pre-wrap">{v}</dd>
                   </div>
                 ) : null
               )}
@@ -376,7 +376,7 @@ function EntryCard({ e, onUpdate, onDelete }: { e: ErrorEntry; onUpdate: (e: Err
                 Reopen
               </button>
             )}
-            <span className="text-[12px] text-[#888]">
+            <span className="text-[12px] text-[color:var(--sp-muted)]">
               {e.reviews.length} re-solve{e.reviews.length === 1 ? "" : "s"} ·{" "}
               {e.reviews.map((r) => (r.clean ? "✓" : "✗")).join(" ")}
             </span>

@@ -43,8 +43,8 @@ export function SubjectTabs({ subjects, current }: { subjects: SubjectInfo[]; cu
             disabled={pending}
             className={`px-3 py-1.5 text-[12px] font-semibold uppercase tracking-[0.06em] border ${
               active
-                ? "bg-[#111] text-white border-[#111]"
-                : "bg-white text-[#555] border-[#ccc] hover:border-[#111] hover:text-[#111]"
+                ? "bg-[color:var(--sp-accent)] text-white border-[color:var(--sp-accent)]"
+                : "bg-white text-[#555] border-[#ccc] hover:border-[color:var(--sp-accent)] hover:text-[color:var(--sp-ink)]"
             } ${switching === s.slug ? "opacity-60" : ""}`}
           >
             {s.label}
