@@ -4,8 +4,10 @@ import Link from "next/link";
 import type { UnitIndex } from "@/lib/questions";
 import type { SessionState } from "@/lib/practice-types";
 import { fmtDate, isDue, KEYS, lastAttempt, pct, useAttempts, useErrors, useStored } from "@/lib/practice-store";
+import { fmtDay } from "@/lib/gmat/format";
 import { useSubject } from "@/lib/subject/context";
 import { subjectLabel } from "@/lib/subject/shared";
+import { useTrack } from "@/lib/tracks-context";
 import { PageHead, RepsStrip } from "./bits";
 
 const NO_SESSIONS: Record<string, SessionState> = {};
@@ -14,12 +16,15 @@ export function PracticeHub({
   units,
   mockPool,
   total,
+  lastSitting,
 }: {
   units: UnitIndex[];
   mockPool: { short: number; long: number; case: number };
   total: number;
+  lastSitting: { total: number; takenOn: string } | null;
 }) {
   const subject = useSubject();
+  const gmat = useTrack() === "gmat";
   const [attempts] = useAttempts();
   const [errors] = useErrors();
   const [sessions] = useStored(KEYS(subject).session, NO_SESSIONS);
@@ -41,6 +46,23 @@ export function PracticeHub({
         <RepsStrip />
       </div>
 
+      {gmat ? (
+        <div className="sp-panel mb-8 flex flex-wrap items-center gap-6">
+          <div className="flex-1 min-w-[240px]">
+            <div className="sp-label">Diagnostic</div>
+            <div className="text-[18px] font-semibold text-[color:var(--sp-ink-strong)] mb-1">Full-length · 64 Q · 2h15</div>
+            <div className="text-[13px] text-[color:var(--sp-muted)]">Adaptive, three timed sections. Saved as a sitting on Status.</div>
+          </div>
+          <div className="text-right">
+            <div className="sp-label">Last sitting</div>
+            <div className="text-[20px] font-semibold sp-num">{lastSitting ? lastSitting.total : "—"}</div>
+            {lastSitting && <div className="text-[12px] text-[color:var(--sp-muted)]">{fmtDay(lastSitting.takenOn)}</div>}
+          </div>
+          <Link href="/gmat/diagnostic" className="sp-btn">
+            Diagnostic
+          </Link>
+        </div>
+      ) : (
       <div className="sp-panel mb-8 flex flex-wrap items-center gap-6">
         <div className="flex-1 min-w-[240px]">
           <div className="sp-label">R3 · Full ESE mock</div>
@@ -65,6 +87,7 @@ export function PracticeHub({
           <span className="sp-btn opacity-40">Full mock</span>
         )}
       </div>
+      )}
 
       <div className="flex flex-col gap-6">
         {units.map((u) => {

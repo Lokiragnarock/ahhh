@@ -1,7 +1,9 @@
 import { cache } from "react";
+import { marked } from "marked";
 import { db } from "./db";
 import { GMAT_NODES, nodesOfTopic } from "./nodes";
-import type { Difficulty, Question } from "../question-types";
+import { optionLetter, type Difficulty, type Question } from "../question-types";
+import { sectionKeyFromLabel, type SectionKey } from "./scoring";
 
 interface Row {
   id: string;
@@ -28,7 +30,7 @@ const DS_OPTIONS = [
   "E) Statements (1) and (2) together are not sufficient.",
 ];
 
-function letter(a: string | null): string | undefined {
+export function answerLetter(a: string | null): string | undefined {
   const c = (a ?? "").trim().charAt(0).toUpperCase();
   return /[A-E]/.test(c) ? c : undefined;
 }
@@ -46,7 +48,7 @@ function toQuestion(r: Row, node: string): Question | null {
   const ds = r.type === "data_sufficiency";
   if (!ds && r.type !== "mcq") return null;
   const options = ds ? DS_OPTIONS : Array.isArray(r.options) ? r.options.map(String) : [];
-  const answer = letter(r.correct_answer);
+  const answer = answerLetter(r.correct_answer);
   if (options.length === 0 || !answer) return null;
   const difficulty: Difficulty = r.difficulty === "easy" || r.difficulty === "medium" ? r.difficulty : "hard";
   return {
@@ -94,4 +96,41 @@ export async function getGmatQuestions(subject: string): Promise<Question[]> {
   }
   const order = Object.keys(GMAT_NODES);
   return out.sort((a, b) => order.indexOf(a.node) - order.indexOf(b.node) || a.id.localeCompare(b.id));
+}
+
+// One question of the adaptive diagnostic. Markdown is pre-rendered; the
+// answer ships to the browser because the sim adapts client-side, the same
+// way practice questions already carry theirs.
+export interface DiagQuestion {
+  id: string;
+  section: SectionKey;
+  topic: string;
+  difficulty: Difficulty;
+  questionHtml: string;
+  optionsHtml: string[];
+  // The letter each option carries, same order as optionsHtml.
+  letters: string[];
+  answer: string;
+}
+
+// Every non-archived question in the three Focus sections, once each (a
+// shared-pool question is one row, not one per node).
+export async function getDiagnosticPool(): Promise<DiagQuestion[]> {
+  const out: DiagQuestion[] = [];
+  for (const r of await loadRows()) {
+    const section = sectionKeyFromLabel(r.section);
+    const q = section && toQuestion(r, "");
+    if (!section || !q || !q.options || !q.answer) continue;
+    out.push({
+      id: q.id,
+      section,
+      topic: r.topic,
+      difficulty: q.difficulty,
+      questionHtml: marked.parse(q.question, { gfm: true, async: false }) as string,
+      optionsHtml: q.options.map((o) => marked.parseInline(o, { gfm: true, async: false }) as string),
+      letters: q.options.map(optionLetter),
+      answer: q.answer,
+    });
+  }
+  return out;
 }

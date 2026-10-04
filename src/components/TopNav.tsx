@@ -7,12 +7,13 @@ import { blockElapsed, blockPhase, finishBlock, fmtClock, STUDY_MIN, LOG_MIN, us
 import { SyncLinkButton } from "@/components/SyncLinkButton";
 import { useSubject } from "@/lib/subject/context";
 import { TrackToggle } from "@/components/TrackToggle";
-import { useTrack } from "@/lib/tracks-context";
+import { useRole, useTrack } from "@/lib/tracks-context";
 import { TRACKS } from "@/lib/tracks";
 
 export function TopNav() {
   const pathname = usePathname() ?? "/";
-  const links = TRACKS[useTrack()].nav;
+  const role = useRole();
+  const links = TRACKS[useTrack()].nav.filter((l) => !l.ownerOnly || role === "owner");
   return (
     <header className="fixed top-0 left-0 right-0 z-40 bg-white/95 backdrop-blur border-b border-[color:var(--sp-line)]">
       <div className="h-12 max-w-[1200px] mx-auto px-4 flex items-center gap-5">

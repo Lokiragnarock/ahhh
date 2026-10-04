@@ -11,6 +11,8 @@ export const DEFAULT_TRACK: TrackSlug = "ahh";
 export interface TrackNavLink {
   href: string;
   label: string;
+  // Shown only to the GMAT owner (see TrackProvider's role).
+  ownerOnly?: boolean;
 }
 
 export interface TrackConfig {
@@ -42,8 +44,9 @@ export const TRACKS: Record<TrackSlug, TrackConfig> = {
   gmat: {
     label: "GMAT",
     prefix: "gmat-",
-    home: "/",
+    home: "/gmat/status",
     nav: [
+      { href: "/gmat/status", label: "Status" },
       { href: "/", label: "Territory" },
       { href: "/practice", label: "Practice" },
       { href: "/errors", label: "Error book" },
@@ -51,6 +54,7 @@ export const TRACKS: Record<TrackSlug, TrackConfig> = {
       { href: "/block", label: "Block" },
       { href: "/backup", label: "Backup" },
       { href: "/help", label: "Help" },
+      { href: "/gmat/versus", label: "Versus", ownerOnly: true },
     ],
   },
 };
