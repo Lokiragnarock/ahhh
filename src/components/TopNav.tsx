@@ -14,7 +14,7 @@ export function TopNav() {
   const pathname = usePathname() ?? "/";
   const links = TRACKS[useTrack()].nav;
   return (
-    <header className="fixed top-0 left-0 right-0 z-40 bg-white/95 backdrop-blur border-b border-[#e5e5e5]">
+    <header className="fixed top-0 left-0 right-0 z-40 bg-white/95 backdrop-blur border-b border-[color:var(--sp-line)]">
       <div className="h-12 max-w-[1200px] mx-auto px-4 flex items-center gap-5">
         <nav className="flex items-center gap-5 overflow-x-auto min-w-0 flex-1 no-scrollbar">
           {links.map((l) => {
@@ -23,8 +23,10 @@ export function TopNav() {
               <Link
                 key={l.href}
                 href={l.href}
-                className={`shrink-0 text-[11px] font-semibold uppercase tracking-[0.09em] py-1 border-b ${
-                  active ? "text-[#111] border-[#111]" : "text-[#888] border-transparent hover:text-[#111]"
+                className={`shrink-0 text-[11px] font-semibold uppercase tracking-[0.09em] py-1 border-b-2 ${
+                  active
+                    ? "text-[color:var(--sp-ink)] border-[color:var(--sp-accent)]"
+                    : "text-[color:var(--sp-muted)] border-transparent hover:text-[color:var(--sp-ink)]"
                 }`}
               >
                 {l.label}
@@ -64,14 +66,14 @@ function BlockIndicator() {
   return (
     <Link
       href={phase === "log" ? "/errors" : "/block"}
-      className="shrink-0 flex items-center gap-2 text-[11px] font-semibold uppercase tracking-[0.09em] text-[#111]"
+      className="shrink-0 flex items-center gap-2 text-[11px] font-semibold uppercase tracking-[0.09em] text-[color:var(--sp-ink)]"
       title="Block timer"
     >
       <span
-        className={`inline-block w-[7px] h-[7px] ${timer.runningSince ? "bg-[#111] animate-pulse" : "bg-[#bbb]"}`}
+        className={`inline-block w-[7px] h-[7px] ${timer.runningSince ? "bg-[color:var(--sp-accent)] animate-pulse" : "bg-[#bbb]"}`}
       />
       <span className="hidden sm:inline">{phase === "study" ? `${timer.round} study` : "Error log"}</span>
-      <span className="tabular-nums">{fmtClock(remaining)}</span>
+      <span className="sp-num">{fmtClock(remaining)}</span>
     </Link>
   );
 }

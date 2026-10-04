@@ -1,10 +1,10 @@
-import Link from "next/link";
 import { getUnitGroups, listSubjects } from "@/lib/vault";
 import { currentSubject } from "@/lib/subject/server";
 import { currentTrack } from "@/lib/tracks-server";
 import { TRACKS } from "@/lib/tracks";
 import { subjectLabel } from "@/lib/subject/shared";
 import { Treemap } from "@/components/study/Treemap";
+import { PageHead } from "@/components/PageHead";
 import { TopNav } from "@/components/TopNav";
 import { SubjectTabs } from "@/components/SubjectTabs";
 import { RoundsBoard, RoundsStrip, TerritoryStats, UpNext } from "@/components/practice/Rounds";
@@ -33,12 +33,7 @@ export default async function TerritoryPage() {
     <main className="sp-page pt-12">
       <TopNav />
       <div className="max-w-[1200px] mx-auto px-4 md:px-6 py-10">
-        <div className="flex items-baseline justify-between flex-wrap gap-4 mb-8">
-          <h1 className="sp-h1">Territory</h1>
-          <Link href="/calendar" className="text-[12px] uppercase tracking-[0.08em] text-[#888] hover:text-[#111]">
-            Old calendar &rarr;
-          </Link>
-        </div>
+        <PageHead title="Territory" />
 
         <SubjectTabs subjects={subjects} current={subject} />
 

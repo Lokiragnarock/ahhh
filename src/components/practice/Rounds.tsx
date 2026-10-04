@@ -84,7 +84,7 @@ function Stat({ label, value }: { label: string; value: number }) {
   return (
     <div className="bg-white px-5 py-4">
       <div className="sp-label mb-1">{label}</div>
-      <div className="text-[22px] font-semibold text-[#111]">{value}</div>
+      <div className="text-[22px] font-semibold text-[color:var(--sp-ink)] sp-num">{value}</div>
     </div>
   );
 }
@@ -102,7 +102,7 @@ export function RoundsStrip({ topics }: { topics: FlowTopic[] }) {
         const n = roundCount(rounds, nodes, r);
         const isCurrent = hydrated && r === current;
         return (
-          <div key={r} className={`sp-stat ${isCurrent ? "!bg-[#111] text-white" : ""}`}>
+          <div key={r} className={`sp-stat ${isCurrent ? "!bg-[color:var(--sp-accent)] text-white" : ""}`}>
             <div className="flex items-center justify-between">
               <div className={`sp-label ${isCurrent ? "!text-[#bbb]" : ""}`}>
                 {r} {isCurrent && "· current"}

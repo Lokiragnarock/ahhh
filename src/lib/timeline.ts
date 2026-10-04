@@ -144,12 +144,16 @@ export function typicalStart(sessions: Session[]): number | null {
 
 // ------------------------------------------------------------ activity feed
 
-export type FeedItem =
+// Items carry the subject they came from (topic events don't have one).
+export type FeedItem = (
   | { kind: "block"; at: number; block: BlockLog }
   | { kind: "attempt"; at: number; attempt: Attempt }
   | { kind: "errors-logged"; at: number; count: number }
   | { kind: "resolves"; at: number; count: number; clean: number }
-  | { kind: "topic"; at: number; event: TopicEvent };
+  | { kind: "topic"; at: number; event: TopicEvent }
+) & { subject?: string };
+
+type Tag = { subject?: string };
 
 export interface FeedDay {
   day: string;
@@ -160,9 +164,9 @@ export interface FeedDay {
 
 export function buildFeed(
   timeline: Timeline,
-  blocks: BlockLog[],
-  attempts: Attempt[],
-  errors: ErrorEntry[],
+  blocks: (BlockLog & Tag)[],
+  attempts: (Attempt & Tag)[],
+  errors: (ErrorEntry & Tag)[],
   topicEvents: TopicEvent[]
 ): FeedDay[] {
   const days = new Map<string, FeedDay>();
@@ -180,32 +184,35 @@ export function buildFeed(
   for (const b of blocks) {
     const at = Date.parse(b.startedAt);
     const k = dayKey(new Date(at));
-    get(k).items.push({ kind: "block", at, block: b });
+    get(k).items.push({ kind: "block", at, block: b, subject: b.subject });
     seen(k, b.device);
   }
   for (const a of attempts) {
     const at = Date.parse(a.date);
     const k = dayKey(new Date(at));
-    get(k).items.push({ kind: "attempt", at, attempt: a });
+    get(k).items.push({ kind: "attempt", at, attempt: a, subject: a.subject });
     seen(k, a.device);
   }
 
-  const logged = new Map<string, { at: number; count: number }>();
-  const resolves = new Map<string, { at: number; count: number; clean: number }>();
+  // One "logged" and one "re-solved" line per day per subject.
+  const logged = new Map<string, { day: string; subject?: string; at: number; count: number }>();
+  const resolves = new Map<string, { day: string; subject?: string; at: number; count: number; clean: number }>();
   for (const e of errors) {
     const at = Date.parse(e.createdAt);
     const k = dayKey(new Date(at));
-    const l = logged.get(k) ?? { at, count: 0 };
-    logged.set(k, { at: Math.max(l.at, at), count: l.count + 1 });
+    const lk = `${k}|${e.subject ?? ""}`;
+    const l = logged.get(lk) ?? { day: k, subject: e.subject, at, count: 0 };
+    logged.set(lk, { ...l, at: Math.max(l.at, at), count: l.count + 1 });
     for (const r of e.reviews) {
       const rat = Date.parse(r.date);
       const rk = dayKey(new Date(rat));
-      const v = resolves.get(rk) ?? { at: rat, count: 0, clean: 0 };
-      resolves.set(rk, { at: Math.max(v.at, rat), count: v.count + 1, clean: v.clean + (r.clean ? 1 : 0) });
+      const vk = `${rk}|${e.subject ?? ""}`;
+      const v = resolves.get(vk) ?? { day: rk, subject: e.subject, at: rat, count: 0, clean: 0 };
+      resolves.set(vk, { ...v, at: Math.max(v.at, rat), count: v.count + 1, clean: v.clean + (r.clean ? 1 : 0) });
     }
   }
-  logged.forEach((v, k) => get(k).items.push({ kind: "errors-logged", ...v }));
-  resolves.forEach((v, k) => get(k).items.push({ kind: "resolves", ...v }));
+  logged.forEach(({ day, ...v }) => get(day).items.push({ kind: "errors-logged", ...v }));
+  resolves.forEach(({ day, ...v }) => get(day).items.push({ kind: "resolves", ...v }));
 
   for (const ev of topicEvents) {
     const at = Date.parse(ev.at);

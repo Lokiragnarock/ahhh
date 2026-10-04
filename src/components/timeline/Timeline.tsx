@@ -1,7 +1,10 @@
 "use client";
 
 import { useEffect, useMemo, useRef, useState } from "react";
-import { dayKey, fmtDate, pct, useAttempts, useBlocks, useErrors } from "@/lib/practice-store";
+import { dayKey, fmtDate, pct, useAllOf } from "@/lib/practice-store";
+import type { Attempt, BlockLog, ErrorEntry } from "@/lib/practice-types";
+import { trackOfSubject } from "@/lib/tracks";
+import { subjectLabel, type SubjectInfo } from "@/lib/subject/shared";
 import {
   buildFeed,
   buildTimeline,
@@ -20,8 +23,9 @@ const UNTRACKED = "Before tracking";
 
 const WEEKS = 26; // six months
 const WEEKDAYS = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"];
-// Sequential grey ramp, light -> dark: none, <30m, <1h, <2h, 2h+.
-const LEVELS = ["#ececec", "#c9c9c9", "#999999", "#5c5c5c", "#111111"];
+// Sequential ramp, light -> dark: none, <30m, <1h, <2h, 2h+. Colours come
+// from the track tokens (grey for AHH, blue tints for GMAT).
+const LEVELS = [0, 1, 2, 3, 4].map((i) => `var(--sp-heat-${i})`);
 const LEVEL_LABELS = ["No study", "Under 30m", "30m–1h", "1–2h", "2h+"];
 
 function level(min: number): number {
@@ -52,16 +56,56 @@ function useTopicEvents(): TopicEvent[] {
   return events;
 }
 
-export function Timeline() {
-  const [blocks] = useBlocks();
-  const [attempts] = useAttempts();
-  const [errors] = useErrors();
+type Filter = "all" | "gmat" | "notes";
+const FILTERS: { id: Filter; label: string }[] = [
+  { id: "all", label: "All" },
+  { id: "gmat", label: "GMAT" },
+  { id: "notes", label: "Notes" },
+];
+const FILTER_KEY = "timeline.filter.v1";
+
+// Notes = the AHH track's subjects (the university-subject notes prep).
+function inFilter(subject: string, f: Filter): boolean {
+  return f === "all" || (f === "gmat" ? trackOfSubject(subject) === "gmat" : trackOfSubject(subject) === "ahh");
+}
+
+export function Timeline({ subjects }: { subjects: SubjectInfo[] }) {
+  const allBlocks = useAllOf<BlockLog>("blocks");
+  const allAttempts = useAllOf<Attempt>("attempts");
+  const allErrors = useAllOf<ErrorEntry>("errors");
   const topicEvents = useTopicEvents();
+
+  const [filter, setFilter] = useState<Filter>("all");
+  useEffect(() => {
+    try {
+      const v = window.localStorage.getItem(FILTER_KEY);
+      if (v === "all" || v === "gmat" || v === "notes") setFilter(v);
+    } catch {
+      // storage unavailable: stay on All
+    }
+  }, []);
+  function pick(f: Filter) {
+    setFilter(f);
+    try {
+      window.localStorage.setItem(FILTER_KEY, f);
+    } catch {
+      // not remembered
+    }
+  }
+
+  const labels = useMemo(() => new Map(subjects.map((s) => [s.slug, s.label])), [subjects]);
+  const label = (slug: string) => labels.get(slug) ?? subjectLabel(slug);
+
+  const blocks = useMemo(() => allBlocks.filter((b) => inFilter(b.subject, filter)), [allBlocks, filter]);
+  const attempts = useMemo(() => allAttempts.filter((a) => inFilter(a.subject, filter)), [allAttempts, filter]);
+  const errors = useMemo(() => allErrors.filter((e) => inFilter(e.subject, filter)), [allErrors, filter]);
+  // Topic events have no subject; they are notes activity.
+  const events = useMemo(() => (filter === "gmat" ? [] : topicEvents), [topicEvents, filter]);
 
   const timeline = useMemo(() => buildTimeline(blocks, attempts), [blocks, attempts]);
   const feed = useMemo(
-    () => buildFeed(timeline, blocks, attempts, errors, topicEvents),
-    [timeline, blocks, attempts, errors, topicEvents]
+    () => buildFeed(timeline, blocks, attempts, errors, events),
+    [timeline, blocks, attempts, errors, events]
   );
 
   const today = new Date();
@@ -79,7 +123,15 @@ export function Timeline() {
 
   return (
     <div className="sp-wrap">
-      <PageHead title="Timeline" kicker="When, how much, where" />
+      <PageHead title="Timeline" kicker="When, how much, where">
+        <div className="sp-seg" role="group" aria-label="Filter by track">
+          {FILTERS.map((x) => (
+            <button key={x.id} type="button" aria-pressed={filter === x.id} onClick={() => pick(x.id)}>
+              {x.label}
+            </button>
+          ))}
+        </div>
+      </PageHead>
 
       <div className="sp-stat-grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 mb-8">
         <Stat label="Last 30 days" value={fmtMinutes(min30)} sub={`${active30} of 30 days active`} />
@@ -124,7 +176,7 @@ export function Timeline() {
 
       <section className="sp-panel">
         <h2 className="sp-h2">Activity</h2>
-        <Feed days={feed} />
+        <Feed days={feed} label={label} />
       </section>
     </div>
   );
@@ -175,13 +227,13 @@ function Heatmap({ byDay }: { byDay: Map<string, number> }) {
           {monthLabels.map((w) => {
             const d0 = weeks[w][0].date;
             return (
-              <text key={`m${w}`} x={left + w * (cell + gap)} y={10} fontSize={10} fill="#888">
+              <text key={`m${w}`} x={left + w * (cell + gap)} y={10} fontSize={10} fill="var(--sp-muted)">
                 {d0.toLocaleDateString("en-IN", { month: "short" })}
               </text>
             );
           })}
           {[0, 2, 4].map((d) => (
-            <text key={d} x={0} y={top + d * (cell + gap) + cell - 3} fontSize={10} fill="#888">
+            <text key={d} x={0} y={top + d * (cell + gap) + cell - 3} fontSize={10} fill="var(--sp-muted)">
               {WEEKDAYS[d]}
             </text>
           ))}
@@ -195,8 +247,8 @@ function Heatmap({ byDay }: { byDay: Map<string, number> }) {
                   width={cell}
                   height={cell}
                   rx={2}
-                  fill={LEVELS[level(min)]}
-                  stroke={hover === k ? "#111" : "none"}
+                  style={{ fill: LEVELS[level(min)] }}
+                  stroke={hover === k ? "var(--sp-ink)" : "none"}
                   strokeWidth={1.5}
                   onMouseEnter={() => setHover(k)}
                   onMouseLeave={() => setHover(null)}
@@ -209,8 +261,8 @@ function Heatmap({ byDay }: { byDay: Map<string, number> }) {
           )}
         </svg>
       </div>
-      <div className="flex flex-wrap items-center justify-between gap-3 mt-3 text-[12px] text-[#888]">
-        <span className="tabular-nums text-[#111] min-h-[18px]">
+      <div className="flex flex-wrap items-center justify-between gap-3 mt-3 text-[12px] text-[color:var(--sp-muted)]">
+        <span className="sp-num text-[color:var(--sp-ink)] min-h-[18px]">
           {hovered ? `${longDay(hovered.k)} · ${hovered.min >= 1 ? fmtMinutes(hovered.min) : "no study"}` : "Hover or tap a day"}
         </span>
         <span className="flex items-center gap-1.5">
@@ -240,15 +292,15 @@ function Bars({
 }) {
   const [hover, setHover] = useState<number | null>(null);
   const max = Math.max(...values);
-  if (max < 1) return <p className="text-[13px] text-[#888]">{empty}</p>;
+  if (max < 1) return <p className="text-[13px] text-[color:var(--sp-muted)]">{empty}</p>;
   const peak = values.indexOf(max);
   const h = 96;
   const shown = hover ?? peak;
 
   return (
     <div>
-      <div className="text-[12px] text-[#888] mb-2 min-h-[18px]">
-        <span className="text-[#111] tabular-nums">{labels[shown]}</span> · {fmtMinutes(values[shown])}
+      <div className="text-[12px] text-[color:var(--sp-muted)] mb-2 min-h-[18px]">
+        <span className="text-[color:var(--sp-ink)] sp-num">{labels[shown]}</span> · {fmtMinutes(values[shown])}
         {hover === null && " (peak)"}
       </div>
       <div className="flex items-end gap-[2px]" style={{ height: h }} onMouseLeave={() => setHover(null)}>
@@ -264,15 +316,16 @@ function Bars({
               className="w-full rounded-t-[4px]"
               style={{
                 height: v >= 1 ? Math.max(3, (v / max) * h) : 1,
-                background: v >= 1 ? (hover === i ? "#555" : "#111") : "#e5e5e5",
+                background: v >= 1 ? "var(--sp-accent)" : "var(--sp-line)",
+                opacity: v >= 1 && hover === i ? 0.7 : 1,
               }}
             />
           </div>
         ))}
       </div>
-      <div className="flex gap-[2px] mt-1.5 border-t border-[#e5e5e5] pt-1">
+      <div className="flex gap-[2px] mt-1.5 border-t border-[color:var(--sp-line)] pt-1">
         {values.map((_, i) => (
-          <div key={i} className="flex-1 text-[10px] text-[#888] overflow-visible whitespace-nowrap">
+          <div key={i} className="flex-1 text-[10px] text-[color:var(--sp-muted)] overflow-visible whitespace-nowrap">
             {tick(i)}
           </div>
         ))}
@@ -303,7 +356,7 @@ function Weekly({ byDay }: { byDay: Map<string, number> }) {
 }
 
 function Devices({ rows }: { rows: { device: string; minutes: number }[] }) {
-  if (rows.length === 0) return <p className="text-[13px] text-[#888]">Nothing logged yet.</p>;
+  if (rows.length === 0) return <p className="text-[13px] text-[color:var(--sp-muted)]">Nothing logged yet.</p>;
   const total = rows.reduce((s, r) => s + r.minutes, 0);
   const max = Math.max(...rows.map((r) => r.minutes));
   const ordered = [...rows.filter((r) => r.device !== UNTRACKED), ...rows.filter((r) => r.device === UNTRACKED)];
@@ -312,15 +365,15 @@ function Devices({ rows }: { rows: { device: string; minutes: number }[] }) {
       {ordered.map((r) => (
         <li key={r.device}>
           <div className="flex justify-between text-[13px] mb-1">
-            <span className={r.device === UNTRACKED ? "text-[#888]" : "text-[#111]"}>{r.device}</span>
-            <span className="tabular-nums text-[#888]">
+            <span className={r.device === UNTRACKED ? "text-[color:var(--sp-muted)]" : "text-[color:var(--sp-ink)]"}>{r.device}</span>
+            <span className="sp-num text-[color:var(--sp-muted)]">
               {fmtMinutes(r.minutes)} · {pct(r.minutes, total)}%
             </span>
           </div>
           <div className="h-[6px] bg-[#f0f0f0] rounded-[3px]">
             <div
               className="h-full rounded-[3px]"
-              style={{ width: `${(r.minutes / max) * 100}%`, background: r.device === UNTRACKED ? "#c9c9c9" : "#111" }}
+              style={{ width: `${(r.minutes / max) * 100}%`, background: r.device === UNTRACKED ? "var(--sp-heat-1)" : "var(--sp-accent)" }}
             />
           </div>
         </li>
@@ -373,17 +426,17 @@ function describe(item: FeedItem): { title: string; detail: string } {
   }
 }
 
-function Feed({ days }: { days: FeedDay[] }) {
+function Feed({ days, label }: { days: FeedDay[]; label: (slug: string) => string }) {
   const [shown, setShown] = useState(14);
-  if (days.length === 0) return <p className="text-[13px] text-[#888]">Your study history will build up here.</p>;
+  if (days.length === 0) return <p className="text-[13px] text-[color:var(--sp-muted)]">Your study history will build up here.</p>;
   return (
     <div>
       <ol>
         {days.slice(0, shown).map((d) => (
-          <li key={d.day} className="border-t border-[#eee] first:border-t-0 py-4">
+          <li key={d.day} className="border-t border-[color:var(--sp-line)] first:border-t-0 py-4">
             <div className="flex flex-wrap items-baseline justify-between gap-2 mb-2">
-              <span className="text-[13px] font-semibold text-[#111]">{longDay(d.day)}</span>
-              <span className="text-[12px] text-[#888] tabular-nums">
+              <span className="text-[13px] font-semibold text-[color:var(--sp-ink)]">{longDay(d.day)}</span>
+              <span className="text-[12px] text-[color:var(--sp-muted)] sp-num">
                 {d.minutes >= 1 ? fmtMinutes(d.minutes) : "—"}
                 {d.devices.length > 0 && ` · ${d.devices.join(", ")}`}
               </span>
@@ -393,10 +446,15 @@ function Feed({ days }: { days: FeedDay[] }) {
                 const { title, detail } = describe(item);
                 return (
                   <li key={i} className="grid grid-cols-[44px_1fr] gap-2 text-[13px]">
-                    <span className="text-[#888] tabular-nums">{time(item.at)}</span>
+                    <span className="text-[color:var(--sp-muted)] sp-num">{time(item.at)}</span>
                     <span className="min-w-0">
-                      <span className="text-[#111]">{title}</span>
-                      <span className="text-[#888]"> · {detail}</span>
+                      <span className="text-[color:var(--sp-ink)]">{title}</span>
+                      <span className="text-[color:var(--sp-muted)]"> · {detail}</span>
+                      {item.subject && (
+                        <span className="ml-2 text-[10px] font-semibold uppercase tracking-[0.06em] text-[color:var(--sp-muted)] border border-[color:var(--sp-line)] px-1 py-px whitespace-nowrap">
+                          {label(item.subject)}
+                        </span>
+                      )}
                     </span>
                   </li>
                 );

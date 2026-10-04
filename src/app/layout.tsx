@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Inter } from "next/font/google";
+import { Hanken_Grotesk, Inter, JetBrains_Mono } from "next/font/google";
 import "./globals.css";
 import { SyncAgent } from "@/components/SyncAgent";
 import { SubjectProvider } from "@/lib/subject/context";
@@ -12,6 +12,11 @@ const inter = Inter({
   variable: "--font-inter",
   display: "swap",
 });
+
+// GMAT skin fonts. Loaded for both tracks (variables only); applied under
+// [data-track="gmat"] in globals.css.
+const hanken = Hanken_Grotesk({ subsets: ["latin"], variable: "--font-hanken", display: "swap" });
+const jbmono = JetBrains_Mono({ subsets: ["latin"], variable: "--font-jbmono", display: "swap" });
 
 export const metadata: Metadata = {
   title: "Study Planner",
@@ -26,8 +31,8 @@ export default function RootLayout({
   const subject = currentSubject();
   const track = currentTrack();
   return (
-    <html lang="en" className={inter.variable}>
-      <body className="bg-background font-body-md text-body-md text-on-surface antialiased">
+    <html lang="en" className={`${inter.variable} ${hanken.variable} ${jbmono.variable}`}>
+      <body data-track={track} className="bg-background font-body-md text-body-md text-on-surface antialiased">
         <TrackProvider track={track}>
           <SubjectProvider subject={subject}>
             <SyncAgent />

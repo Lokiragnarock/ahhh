@@ -137,6 +137,47 @@ export function useAllBlocks(): SubjectBlock[] {
   }, []);
   return blocks;
 }
+// Same idea for attempts, errors and blocks, each tagged with its subject.
+// Used by the shared timeline.
+export type Tagged<T> = T & { subject: string };
+
+function readAllOf<T>(kind: "attempts" | "errors" | "blocks"): Tagged<T>[] {
+  const re = new RegExp("^([a-z0-9][a-z0-9-]*)\\.practice\\." + kind + "\\.v1$");
+  const out: Tagged<T>[] = [];
+  try {
+    for (let i = 0; i < window.localStorage.length; i++) {
+      const key = window.localStorage.key(i);
+      const m = key && re.exec(key);
+      if (!m) continue;
+      for (const x of readStored<T[]>(key, [])) out.push({ ...x, subject: m[1] });
+    }
+  } catch {
+    // storage unavailable: nothing to show
+  }
+  return out;
+}
+
+export function useAllOf<T>(kind: "attempts" | "errors" | "blocks"): Tagged<T>[] {
+  const [items, setItems] = useState<Tagged<T>[]>([]);
+  useEffect(() => {
+    const re = new RegExp("\\.practice\\." + kind + "\\.v1$");
+    const load = () => setItems(readAllOf<T>(kind));
+    load();
+    const onLocal = (e: Event) => {
+      if (re.test(String((e as CustomEvent).detail))) load();
+    };
+    const onStorage = (e: StorageEvent) => {
+      if (e.key === null || re.test(e.key)) load();
+    };
+    window.addEventListener(STORE_EVENT, onLocal);
+    window.addEventListener("storage", onStorage);
+    return () => {
+      window.removeEventListener(STORE_EVENT, onLocal);
+      window.removeEventListener("storage", onStorage);
+    };
+  }, [kind]);
+  return items;
+}
 export const useBlockTimer = () => useStored<BlockTimer | null>(KEYS(useSubject()).timer, null);
 export const useSession = () => useStored<SessionState | null>(KEYS(useSubject()).session, null);
 const EMPTY_ROUNDS: RoundsState = { topics: {} };

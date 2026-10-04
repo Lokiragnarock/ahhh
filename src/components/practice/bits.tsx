@@ -1,12 +1,13 @@
 "use client";
 
+import { PageHead as SharedPageHead } from "@/components/PageHead";
 import { reps, useAttempts, useBlocks, useErrors } from "@/lib/practice-store";
 
 export function Stat({ label, value, sub }: { label: string; value: React.ReactNode; sub?: string }) {
   return (
     <div className="sp-stat">
       <div className="sp-label">{label}</div>
-      <div className="sp-stat-value">{value}</div>
+      <div className="sp-stat-value sp-num">{value}</div>
       {sub && <div className="sp-stat-sub">{sub}</div>}
     </div>
   );
@@ -39,20 +40,17 @@ export function Sparkline({ values, width = 120, height = 28 }: { values: number
   return (
     <svg width={width} height={height} viewBox={`0 0 ${width} ${height}`} role="img" aria-label={`Trend, latest ${last}%`}>
       <line x1={0} x2={width} y1={y(50)} y2={y(50)} stroke="#eee" strokeDasharray="2 3" />
-      {values.length > 1 && <polyline points={points} fill="none" stroke="#111" strokeWidth={1.5} />}
-      <circle cx={x(values.length - 1)} cy={y(last)} r={2.5} fill="#111" />
+      {values.length > 1 && <polyline points={points} fill="none" stroke="var(--sp-accent)" strokeWidth={1.5} />}
+      <circle cx={x(values.length - 1)} cy={y(last)} r={2.5} fill="var(--sp-accent)" />
     </svg>
   );
 }
 
+// Kept as the old call shape (kicker -> sub line under the title).
 export function PageHead({ title, kicker, children }: { title: string; kicker?: string; children?: React.ReactNode }) {
   return (
-    <div className="flex flex-wrap items-end justify-between gap-4 mb-8">
-      <div>
-        {kicker && <div className="sp-label">{kicker}</div>}
-        <h1 className="sp-h1">{title}</h1>
-      </div>
+    <SharedPageHead title={title} sub={kicker}>
       {children}
-    </div>
+    </SharedPageHead>
   );
 }

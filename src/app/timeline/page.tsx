@@ -1,13 +1,16 @@
 import { TopNav } from "@/components/TopNav";
 import { Timeline } from "@/components/timeline/Timeline";
+import { listSubjects } from "@/lib/vault";
 
 export const dynamic = "force-dynamic";
 
-export default function TimelinePage() {
+// Common to both tracks: no track arg, so every subject is listed.
+export default async function TimelinePage() {
+  const subjects = await listSubjects();
   return (
     <main className="sp-page">
       <TopNav />
-      <Timeline />
+      <Timeline subjects={subjects} />
     </main>
   );
 }

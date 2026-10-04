@@ -104,13 +104,13 @@ function TopicRect({
     >
       {/* Bottom-up fill, one ink, four heights */}
       <div
-        className="absolute bottom-0 left-0 right-0 bg-[#111]"
+        className="absolute bottom-0 left-0 right-0 bg-[color:var(--sp-accent)]"
         style={{ height: `${fill * 100}%` }}
       />
       {!tiny && (
         <div
           className={`relative h-full w-full p-2 flex flex-col justify-end gap-0.5 ${
-            fullyInked ? "text-white" : "text-[#111]"
+            fullyInked ? "text-white" : "text-[color:var(--sp-ink)]"
           }`}
         >
           <span className="text-[10px] font-semibold uppercase tracking-[0.04em] opacity-80">
