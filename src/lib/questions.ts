@@ -3,6 +3,8 @@ import path from "node:path";
 import { marked } from "marked";
 import { getAllTopics } from "./vault";
 import { currentSubject } from "./subject/server";
+import { trackOfSubject } from "./tracks";
+import { getGmatQuestions } from "./gmat/questions";
 import { Question, QuestionType, RenderedQuestion, TYPE_ORDER } from "./question-types";
 
 export const QUESTIONS_ROOT = path.join(process.cwd(), "content", "tests");
@@ -53,6 +55,8 @@ function render(q: Question): RenderedQuestion {
 }
 
 export async function getQuestions(subject: string = currentSubject()): Promise<RenderedQuestion[]> {
+  // GMAT subjects live in Neon, not content/tests.
+  if (trackOfSubject(subject) === "gmat") return (await getGmatQuestions(subject)).map(render);
   const dir = questionsDir(subject);
   let files: string[];
   try {

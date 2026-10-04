@@ -20,6 +20,8 @@ import {
 import { EMPTY_FIELDS, ErrorFieldValues, ErrorFields } from "./ErrorFields";
 import { currentDevice } from "@/lib/sync/client";
 import { useSubject } from "@/lib/subject/context";
+import { trackOfSubject } from "@/lib/tracks";
+import { recordGmatAttempt } from "@/lib/gmat/client";
 import { MarkRoundPrompt } from "./Rounds";
 import type { Step } from "@/lib/flow";
 
@@ -190,6 +192,7 @@ export function TestRunner({ pool, kind, scope, resolveEntryId, next }: Props) {
         device: currentDevice(),
       };
       updateStored<Attempt[]>(keys.attempts, [], (prev) => [...prev, attempt!]);
+      if (trackOfSubject(subject) === "gmat") recordGmatAttempt(results, answers, attempt.durationSec);
     }
     clearSession();
     setDone({ attempt });

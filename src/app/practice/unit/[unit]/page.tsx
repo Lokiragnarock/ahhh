@@ -8,7 +8,8 @@ export const dynamic = "force-dynamic";
 export default async function SectionalTestPage({ params }: { params: { unit: string } }) {
   const unit = decodeURIComponent(params.unit);
   const [all, next] = await Promise.all([getQuestions(), getUnitExit(unit)]);
-  const pool = all.filter((q) => q.unit === unit);
+  // A shared-pool question is listed once per node; a paper wants it once.
+  const pool = Array.from(new Map(all.filter((q) => q.unit === unit).map((q) => [q.id, q])).values());
   return (
     <main className="sp-page pt-12">
       <TopNav />
