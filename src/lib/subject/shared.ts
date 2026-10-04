@@ -23,8 +23,12 @@ export function isValidSubjectSlug(slug: string | null | undefined): slug is str
 // title-casing looks wrong.
 const LABEL_OVERRIDES: Record<string, string> = {
   taxation: "Taxation Law",
+  "gmat-di": "GMAT Data Insights",
+  "gmat-quant": "GMAT Quant",
+  "gmat-verbal": "GMAT Verbal",
+  "gmat-strategy": "GMAT Strategy",
 };
-const ACRONYM_WORDS = new Set(["sapm", "sfm", "moc"]);
+const ACRONYM_WORDS = new Set(["sapm", "sfm", "moc", "gmat"]);
 
 export function subjectLabel(slug: string): string {
   const override = LABEL_OVERRIDES[slug];

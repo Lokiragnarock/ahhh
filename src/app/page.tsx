@@ -1,6 +1,8 @@
 import Link from "next/link";
 import { getUnitGroups, listSubjects } from "@/lib/vault";
 import { currentSubject } from "@/lib/subject/server";
+import { currentTrack } from "@/lib/tracks-server";
+import { TRACKS } from "@/lib/tracks";
 import { subjectLabel } from "@/lib/subject/shared";
 import { Treemap } from "@/components/study/Treemap";
 import { TopNav } from "@/components/TopNav";
@@ -14,7 +16,8 @@ export const dynamic = "force-dynamic";
 
 export default async function TerritoryPage() {
   const subject = currentSubject();
-  const [units, subjects] = await Promise.all([getUnitGroups(subject), listSubjects()]);
+  const track = currentTrack();
+  const [units, subjects] = await Promise.all([getUnitGroups(subject), listSubjects(track)]);
   const topics = units.flatMap((u) => u.topics);
   const lite = (t: (typeof topics)[number]): FlowTopic & { minutes: number } => ({
     id: t.id,
@@ -39,7 +42,9 @@ export default async function TerritoryPage() {
 
         <SubjectTabs subjects={subjects} current={subject} />
 
-        {topics.length === 0 ? (
+        {topics.length === 0 && subjects.length === 0 && track !== "ahh" ? (
+          <p className="text-[14.5px] text-[#555] max-w-[60ch]">No {TRACKS[track].label} notes yet.</p>
+        ) : topics.length === 0 ? (
           <p className="text-[14.5px] text-[#555] max-w-[60ch]">
             No topic notes found for <strong>{subjectLabel(subject)}</strong> under{" "}
             <code>{`content/recall/${subject}`}</code>. A topic note needs a <code>node</code> field in its

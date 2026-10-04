@@ -47,7 +47,7 @@ export async function GET() {
     return NextResponse.json({ configured: false, entries: [], totalTopics: 0, subjects: [] });
   }
 
-  const subjects = await listSubjects();
+  const subjects = await listSubjects("ahh");
   const [names, topicsBySubject] = await Promise.all([
     loadAllNames(),
     Promise.all(subjects.map((s) => getAllTopics(s.slug))),

@@ -6,6 +6,7 @@ import { cache } from "react";
 import { currentSyncKey, loadTopicStates } from "./sync/server";
 import { currentSubject } from "./subject/server";
 import { subjectLabel, SubjectInfo } from "./subject/shared";
+import { trackOfSubject, type TrackSlug } from "./tracks";
 import {
   Flashcard,
   NoteSection,
@@ -37,7 +38,7 @@ function subjectDir(subject: string): string {
 // Every subject subfolder under content/recall that has at least one .md
 // file. Sorted with the default subject first (existing users' Territory tab
 // order stays stable), then alphabetically by label.
-export async function listSubjects(): Promise<SubjectInfo[]> {
+export async function listSubjects(track?: TrackSlug): Promise<SubjectInfo[]> {
   let entries: import("node:fs").Dirent[];
   try {
     entries = await fs.readdir(VAULT_ROOT, { withFileTypes: true });
@@ -49,6 +50,7 @@ export async function listSubjects(): Promise<SubjectInfo[]> {
   for (const d of dirs) {
     try {
       const files = await fs.readdir(path.join(VAULT_ROOT, d.name));
+      if (track && trackOfSubject(d.name) !== track) continue;
       if (files.some((f) => f.toLowerCase().endsWith(".md"))) {
         subjects.push({ slug: d.name, label: subjectLabel(d.name) });
       }

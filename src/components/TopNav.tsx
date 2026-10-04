@@ -6,26 +6,18 @@ import { useEffect, useState } from "react";
 import { blockElapsed, blockPhase, finishBlock, fmtClock, STUDY_MIN, LOG_MIN, useBlockTimer } from "@/lib/practice-store";
 import { SyncLinkButton } from "@/components/SyncLinkButton";
 import { useSubject } from "@/lib/subject/context";
-
-const LINKS = [
-  { href: "/", label: "Territory" },
-  { href: "/practice", label: "Practice" },
-  { href: "/errors", label: "Error book" },
-  { href: "/standing", label: "Standing" },
-  { href: "/timeline", label: "Timeline" },
-  { href: "/duel", label: "Duel" },
-  { href: "/block", label: "Block" },
-  { href: "/backup", label: "Backup" },
-  { href: "/help", label: "Help" },
-];
+import { TrackToggle } from "@/components/TrackToggle";
+import { useTrack } from "@/lib/tracks-context";
+import { TRACKS } from "@/lib/tracks";
 
 export function TopNav() {
   const pathname = usePathname() ?? "/";
+  const links = TRACKS[useTrack()].nav;
   return (
     <header className="fixed top-0 left-0 right-0 z-40 bg-white/95 backdrop-blur border-b border-[#e5e5e5]">
       <div className="h-12 max-w-[1200px] mx-auto px-4 flex items-center gap-5">
         <nav className="flex items-center gap-5 overflow-x-auto min-w-0 flex-1 no-scrollbar">
-          {LINKS.map((l) => {
+          {links.map((l) => {
             const active = l.href === "/" ? pathname === "/" : pathname.startsWith(l.href);
             return (
               <Link
@@ -40,6 +32,7 @@ export function TopNav() {
             );
           })}
         </nav>
+        <TrackToggle />
         <SyncLinkButton />
         <BlockIndicator />
       </div>

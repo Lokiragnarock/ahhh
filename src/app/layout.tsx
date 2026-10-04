@@ -4,6 +4,8 @@ import "./globals.css";
 import { SyncAgent } from "@/components/SyncAgent";
 import { SubjectProvider } from "@/lib/subject/context";
 import { currentSubject } from "@/lib/subject/server";
+import { TrackProvider } from "@/lib/tracks-context";
+import { currentTrack } from "@/lib/tracks-server";
 
 const inter = Inter({
   subsets: ["latin"],
@@ -22,13 +24,16 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   const subject = currentSubject();
+  const track = currentTrack();
   return (
     <html lang="en" className={inter.variable}>
       <body className="bg-background font-body-md text-body-md text-on-surface antialiased">
-        <SubjectProvider subject={subject}>
-          <SyncAgent />
-          {children}
-        </SubjectProvider>
+        <TrackProvider track={track}>
+          <SubjectProvider subject={subject}>
+            <SyncAgent />
+            {children}
+          </SubjectProvider>
+        </TrackProvider>
       </body>
     </html>
   );

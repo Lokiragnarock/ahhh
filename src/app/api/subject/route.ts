@@ -1,5 +1,6 @@
 import { NextRequest, NextResponse } from "next/server";
 import { isValidSubjectSlug, SUBJECT_COOKIE, SUBJECT_COOKIE_MAX_AGE } from "@/lib/subject/shared";
+import { trackOfSubject, trackSubjectCookie } from "@/lib/tracks";
 
 export const dynamic = "force-dynamic";
 
@@ -20,6 +21,14 @@ export async function POST(req: NextRequest) {
 
   const res = NextResponse.json({ ok: true, subject: body.subject });
   res.cookies.set(SUBJECT_COOKIE, body.subject, {
+    httpOnly: false,
+    secure: req.nextUrl.protocol === "https:",
+    sameSite: "lax",
+    path: "/",
+    maxAge: SUBJECT_COOKIE_MAX_AGE,
+  });
+  // Remember it as this track's last subject (see /api/track).
+  res.cookies.set(trackSubjectCookie(trackOfSubject(body.subject)), body.subject, {
     httpOnly: false,
     secure: req.nextUrl.protocol === "https:",
     sameSite: "lax",
