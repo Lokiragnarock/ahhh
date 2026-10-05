@@ -1,0 +1,397 @@
+[
+  {
+    "id": "BF-1-01",
+    "node": "BF-1",
+    "unit": "Bond Market Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "Which body regulates the issuance and trading of corporate bonds in India?",
+    "options": [
+      "A) RBI",
+      "B) SEBI",
+      "C) CCIL",
+      "D) FBIL"
+    ],
+    "answer": "B",
+    "explanation": "SEBI regulates corporate bond issuance, listing and trading. RBI regulates government securities, the money market and repo. CCIL is a clearing corporation, not a regulator. FBIL publishes benchmark rates."
+  },
+  {
+    "id": "BF-1-02",
+    "node": "BF-1",
+    "unit": "Bond Market Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "Indian commercial banks are the largest holders of government securities mainly because:",
+    "options": [
+      "A) G-secs pay the highest yields in the market",
+      "B) The Statutory Liquidity Ratio requires them to hold liquid assets such as G-secs",
+      "C) SEBI forbids banks from holding corporate bonds",
+      "D) G-secs are tax-free"
+    ],
+    "answer": "B",
+    "explanation": "The SLR requires banks to hold a share of their deposits in liquid assets, chiefly G-secs. G-secs yield less than corporate bonds of the same maturity (no credit risk). Banks can hold corporate bonds. G-sec interest is taxable."
+  },
+  {
+    "id": "BF-1-03",
+    "node": "BF-1",
+    "unit": "Bond Market Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "An Indian company issues rupee-denominated bonds to investors in London. These are called:",
+    "options": [
+      "A) Yankee bonds",
+      "B) Samurai bonds",
+      "C) Masala bonds",
+      "D) STRIPS"
+    ],
+    "answer": "C",
+    "explanation": "Rupee-denominated bonds issued outside India are masala bonds; the foreign investor bears the rupee's currency risk. Yankee bonds are dollar bonds issued in the US by foreign issuers; Samurai bonds are yen bonds issued in Japan by foreign issuers. STRIPS are separated coupon and principal parts of G-secs."
+  },
+  {
+    "id": "BF-1-04",
+    "node": "BF-1",
+    "unit": "Bond Market Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "A Treasury bill is best described as:",
+    "options": [
+      "A) A long-term coupon bond issued by state governments",
+      "B) A short-term zero-coupon instrument issued at a discount by the central government",
+      "C) A floating-rate corporate bond",
+      "D) An inflation-indexed bond"
+    ],
+    "answer": "B",
+    "explanation": "T-bills (91, 182 and 364 days) are issued at a discount and redeemed at par by the central government, with no coupon. State government bonds are SDLs. Floating-rate and inflation-indexed bonds are separate instruments."
+  },
+  {
+    "id": "BF-1-05",
+    "node": "BF-1",
+    "unit": "Bond Market Unit 1",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "medium",
+    "question": "Explain the structure of the Indian bond market: its segments, regulators, participants and instruments. How is it connected to the global bond market?",
+    "model_answer": "**Segments.**\n| Segment | Issuer | Regulator |\n|---|---|---|\n| G-secs (dated securities, T-bills, CMBs) | Central government | RBI |\n| SDLs | State governments | RBI |\n| Corporate bonds | PSUs, companies, banks, NBFCs | SEBI |\n| Money market (CP, CD, repo, TREPS) | Banks, companies, government | RBI |\n\nG-secs are the largest and most liquid segment and the risk-free benchmark; the corporate segment is smaller, mostly AAA/AA and privately placed.\n\n**Regulators and infrastructure.** RBI (debt manager and G-sec/money market regulator), SEBI (corporate bonds), CCIL (central counterparty, T+1 DvP settlement), NSE/BSE (EBP and RFQ platforms), FBIL (benchmarks), rating agencies (CRISIL, ICRA, CARE, India Ratings), depositories.\n\n**Participants.** Issuers (governments, PSUs, companies). Investors: banks (SLR holdings), insurers and provident/pension funds (long maturities), mutual funds, primary dealers (underwrite auctions, make markets), FPIs, retail (RBI Retail Direct, OBPPs).\n\n**Instruments.** Fixed-coupon, zero-coupon/T-bills, floating rate bonds, inflation-indexed bonds, STRIPS, callable/puttable, convertible, perpetual, green bonds.\n\n**Global connection.** FPIs invest through general limits and the Fully Accessible Route; India joined the JP Morgan GBI-EM index from June 2024, bringing index-linked flows; Indian firms raise money abroad through foreign-currency bonds and rupee-denominated masala bonds; US Treasury yields and global risk appetite influence Indian yields through FPI flows.\n\n**Conclusion.** The market is government-dominated and bank-held, with a developing corporate segment that reforms (EBP, RFQ, OBPPs, index inclusion) aim to deepen.",
+    "marking_scheme": [
+      {
+        "point": "Segments with regulators",
+        "marks": 2.5
+      },
+      {
+        "point": "Infrastructure institutions",
+        "marks": 1.5
+      },
+      {
+        "point": "Participants",
+        "marks": 2
+      },
+      {
+        "point": "Instruments",
+        "marks": 1.5
+      },
+      {
+        "point": "Global connection",
+        "marks": 1.5
+      },
+      {
+        "point": "Conclusion",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "BF-1-06",
+    "node": "BF-1",
+    "unit": "Bond Market Unit 1",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "Explain any five types of bonds traded in the Indian bond market, with one feature of each.",
+    "model_answer": "1. **Fixed-coupon bond:** pays the same coupon every period until maturity; most dated G-secs.\n2. **Zero-coupon bond / T-bill:** issued at a discount and redeemed at par; return is the discount (91-, 182-, 364-day T-bills).\n3. **Floating rate bond (FRB):** coupon resets periodically against a benchmark (e.g. T-bill yields), so its price is less sensitive to rate changes.\n4. **Inflation-indexed bond:** principal or coupon is adjusted for inflation, protecting real returns.\n5. **Callable / puttable bond:** issuer can redeem early (call) when rates fall, or the investor can demand early repayment (put).\n6. **Convertible bond:** can be converted into the issuer's equity shares at set terms.\n7. **STRIPS:** coupons and principal of a G-sec traded separately as zero-coupon securities.\n8. **Green bonds:** proceeds used for environmental projects; India issued sovereign green bonds from 2023.\n\n*(Any five, one feature each.)*",
+    "marking_scheme": [
+      {
+        "point": "Five types correctly named",
+        "marks": 2.5
+      },
+      {
+        "point": "One accurate feature each",
+        "marks": 2.5
+      }
+    ]
+  },
+  {
+    "id": "BF-2-01",
+    "node": "BF-2",
+    "unit": "Bond Market Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "Secondary-market trading in Indian government securities takes place mainly on:",
+    "options": [
+      "A) The EBP platform",
+      "B) NDS-OM",
+      "C) RBI Retail Direct only",
+      "D) The MSF window"
+    ],
+    "answer": "B",
+    "explanation": "NDS-OM is RBI's anonymous order-matching system for G-sec secondary trading. EBP is used for primary issuance of privately placed corporate bonds. Retail Direct serves individuals but is a small part of volume. MSF is an RBI borrowing facility, not a trading platform."
+  },
+  {
+    "id": "BF-2-02",
+    "node": "BF-2",
+    "unit": "Bond Market Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Most corporate bonds in India by value are issued through:",
+    "options": [
+      "A) Public issues with a prospectus",
+      "B) Private placement, with bids collected on the Electronic Book Provider platform",
+      "C) RBI auctions",
+      "D) Rights issues"
+    ],
+    "answer": "B",
+    "explanation": "Private placement to institutions, routed through the NSE/BSE EBP platforms above a size threshold, is the dominant route because it is faster and cheaper than a public issue. RBI auctions are for government securities. Rights issues are an equity route."
+  },
+  {
+    "id": "BF-2-03",
+    "node": "BF-2",
+    "unit": "Bond Market Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A G-sec with a 7.2% coupon (semi-annual, 30/360) is bought at a clean price of ₹101.20, 60 days after the last coupon date. The dirty price paid is:",
+    "options": [
+      "A) ₹101.20",
+      "B) ₹102.40",
+      "C) ₹100.00",
+      "D) ₹108.40"
+    ],
+    "answer": "B",
+    "explanation": "Accrued interest = 7.2 × 60 ÷ 360 = ₹1.20 per ₹100; dirty price = clean + accrued = 101.20 + 1.20 = ₹102.40. ₹101.20 is only the clean price. ₹108.40 adds the full annual coupon."
+  },
+  {
+    "id": "BF-2-04",
+    "node": "BF-2",
+    "unit": "Bond Market Unit 1",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Distinguish between the primary and secondary bond markets, and explain how government securities are issued and traded in India.",
+    "model_answer": "**Primary market:** new bonds are issued and the money goes to the issuer (capital raising). **Secondary market:** existing bonds trade between investors (liquidity and price discovery). Each supports the other: investors pay more for new bonds they know they can sell.\n\n**G-sec issuance (primary).**\n1. Half-yearly borrowing calendar announced by the government and RBI.\n2. RBI notifies each auction (security, amount, method).\n3. Auction on RBI's e-Kuber: competitive bids by price or yield; non-competitive bids by retail at the weighted-average price.\n4. Primary dealers underwrite each issue.\n5. Settlement T+1 into SGL/CSGL accounts.\n\n**G-sec trading (secondary).**\n1. Mostly on **NDS-OM**, RBI's anonymous order-matching platform; OTC deals are reported on it.\n2. **CCIL** clears as central counterparty; settlement T+1, delivery versus payment.\n3. Retail access through RBI Retail Direct and stock exchange platforms.\n4. Quoted at clean prices; buyers pay dirty price (clean + accrued interest).",
+    "marking_scheme": [
+      {
+        "point": "Primary vs secondary distinction",
+        "marks": 1.5
+      },
+      {
+        "point": "G-sec issuance steps",
+        "marks": 2
+      },
+      {
+        "point": "G-sec trading and settlement",
+        "marks": 1.5
+      }
+    ]
+  },
+  {
+    "id": "BF-3-01",
+    "node": "BF-3",
+    "unit": "Bond Market Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "In a uniform-price (Dutch) auction of government securities, successful bidders pay:",
+    "options": [
+      "A) Their own bid price",
+      "B) The cut-off price",
+      "C) The highest bid price",
+      "D) The face value"
+    ],
+    "answer": "B",
+    "explanation": "In a uniform-price auction all winners pay the same cut-off price. Paying one's own bid is a multiple-price (French) auction. Nobody pays the highest bid unless it is the cut-off. Face value is unrelated to the clearing price."
+  },
+  {
+    "id": "BF-3-02",
+    "node": "BF-3",
+    "unit": "Bond Market Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "RBI notifies a ₹500 crore new G-sec (yield-based auction). Bids: 7.05% for ₹150 crore, 7.08% for ₹200 crore, 7.10% for ₹250 crore, 7.12% for ₹100 crore. The cut-off yield and the pro-rata allotment at the cut-off are:",
+    "options": [
+      "A) 7.12%; 100%",
+      "B) 7.10%; 60%",
+      "C) 7.08%; 100%",
+      "D) 7.10%; 40%"
+    ],
+    "answer": "B",
+    "explanation": "In a yield auction the lowest yields (highest prices) are accepted first: 150 + 200 = 350 crore, leaving 150 crore. The 7.10% bids total 250 crore, so they get 150 ÷ 250 = 60% and 7.10% is the cut-off (and the new security's coupon). 7.12% bids are rejected. 40% is the unfilled share."
+  },
+  {
+    "id": "BF-3-03",
+    "node": "BF-3",
+    "unit": "Bond Market Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "The ceiling of RBI's liquidity adjustment facility corridor, at which banks can borrow overnight even against SLR securities, is the:",
+    "options": [
+      "A) Standing Deposit Facility",
+      "B) Marginal Standing Facility",
+      "C) Reverse repo",
+      "D) TREPS rate"
+    ],
+    "answer": "B",
+    "explanation": "The MSF, priced above the repo rate, is the corridor's ceiling. The SDF is the floor, where banks park surplus funds. Reverse repo is the lender's side of a repo. TREPS is a market repo segment, not a policy rate."
+  },
+  {
+    "id": "BF-3-04",
+    "node": "BF-3",
+    "unit": "Bond Market Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "In a repo, the lender advances ₹9.8 lakh against G-secs worth ₹10 lakh. The ₹20,000 difference is the:",
+    "options": [
+      "A) Repo interest",
+      "B) Haircut",
+      "C) Accrued interest",
+      "D) Greenshoe"
+    ],
+    "answer": "B",
+    "explanation": "A haircut is the margin between collateral value and cash lent, protecting the lender if the security's price falls. Repo interest is the difference between the second-leg and first-leg amounts. Accrued interest is coupon interest since the last payment date. Greenshoe is an auction option to accept extra bids."
+  },
+  {
+    "id": "BF-3-05",
+    "node": "BF-3",
+    "unit": "Bond Market Unit 1",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "A mutual fund lends cash through a repo against G-secs of face value ₹5 crore, priced at ₹98. The haircut is 3%, the repo rate is 6.25% and the term is 14 days (365-day year; ignore accrued interest). Compute the first-leg amount, the repo interest and the second-leg amount. Explain why repo is safer for the lender than an unsecured loan.",
+    "model_answer": "**Step 1: market value** = 5 crore × 98 ÷ 100 = ₹4.90 crore.\n\n**Step 2: first leg** (after 3% haircut) = 4,90,00,000 × 0.97 = **₹4,75,30,000**.\n\n**Step 3: interest** = 4,75,30,000 × 6.25% × 14 ÷ 365 = **₹1,13,942**.\n\n**Step 4: second leg** = 4,75,30,000 + 1,13,942 = **₹4,76,43,942**.\n\n**Why safer:** the fund holds G-secs (sovereign, liquid) as collateral; if the borrower fails to repurchase, the fund sells them. The 3% haircut covers a fall in price, and CCIL's central counterparty role (for cleared repos and TREPS) guarantees settlement. So repo rates are lower than unsecured call money rates.",
+    "marking_scheme": [
+      {
+        "point": "First leg with haircut",
+        "marks": 1.5
+      },
+      {
+        "point": "Interest ₹1,13,942",
+        "marks": 1.5
+      },
+      {
+        "point": "Second leg",
+        "marks": 1
+      },
+      {
+        "point": "Safety explanation",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "BF-3-06",
+    "node": "BF-3",
+    "unit": "Bond Market Unit 1",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "medium",
+    "question": "Explain the auction mechanisms used for government securities in India and the working of the repo market, including RBI's liquidity adjustment facility. Illustrate an auction allotment.",
+    "model_answer": "**Auctions.**\n- *Yield-based* (new issue; cut-off yield becomes the coupon) or *price-based* (reissue of an existing security).\n- *Multiple-price (French):* each winner pays its own bid; risk of winner's curse. *Uniform-price (Dutch):* all pay the cut-off; encourages aggressive bidding. RBI announces the method in each notification.\n- *Competitive bids* by institutions; *non-competitive bids* (retail, up to 5% of the notified amount for dated securities) at the weighted-average price.\n- *Primary dealers* underwrite; shortfalls devolve on them; *greenshoe* lets RBI accept more when demand is strong.\n\n**Illustration.** ₹1,000 crore notified; bids at 100.40 (300), 100.25 (250), 100.10 (300), 99.95 (400), 99.80 (200). Cumulating from the highest price: 850 crore filled above 99.95; 150 of 400 crore at 99.95 (37.5% pro rata); cut-off ₹99.95. Raised: ₹1,002.05 crore (multiple-price) or ₹999.50 crore (uniform).\n\n**Repo market.**\n- A repo is a sale with an agreement to repurchase: a short-term collateralised loan. First leg: borrower sells securities, receives cash (less a haircut). Second leg: repays cash plus interest, gets securities back. Lender's side = reverse repo.\n- *Market repo:* bilateral repo and TREPS (CCIL as tri-party agent; the largest money-market segment, used by mutual funds and banks).\n\n**Liquidity adjustment facility.**\n- *Repo rate:* RBI lends to banks against G-secs; the policy rate.\n- *Standing Deposit Facility:* floor of the corridor; banks deposit surplus funds without collateral.\n- *Marginal Standing Facility:* ceiling (repo + 25 bps); emergency overnight borrowing, even against SLR securities.\n- Variable rate repo/reverse repo auctions fine-tune liquidity.\n\n**Why it matters.** The corridor keeps overnight rates near the repo rate, so policy changes pass through to T-bill and short G-sec yields, and from there to the whole yield curve.",
+    "marking_scheme": [
+      {
+        "point": "Auction types and bid categories",
+        "marks": 2.5
+      },
+      {
+        "point": "PD underwriting, devolvement, greenshoe",
+        "marks": 1
+      },
+      {
+        "point": "Auction illustration",
+        "marks": 2
+      },
+      {
+        "point": "Repo mechanics and market repo",
+        "marks": 2
+      },
+      {
+        "point": "LAF corridor",
+        "marks": 1.5
+      },
+      {
+        "point": "Policy transmission",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "BF-3-07",
+    "node": "BF-3",
+    "unit": "Bond Market Unit 1",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Distinguish between uniform-price and multiple-price auctions of government securities. Which would you recommend in a volatile market, and why?",
+    "model_answer": "**Multiple-price (discriminatory, French) auction:** bids are accepted from the highest price downwards and **each winner pays its own bid price**. The issuer captures each bidder's willingness to pay, but bidders fear the **winner's curse** (overpaying relative to others) and shade their bids down.\n\n**Uniform-price (Dutch) auction:** bids are accepted the same way but **all winners pay the single cut-off price**. Bidders can bid closer to their true valuation without fear of overpaying, so participation is wider.\n\n| Basis | Multiple-price | Uniform-price |\n|---|---|---|\n| Price paid | Own bid | Cut-off |\n| Winner's curse | Yes | Reduced |\n| Bidding | Cautious, shaded | Aggressive |\n| Issuer's revenue | Higher for the same bids | Lower for the same bids, but bids may be higher |\n\n*Example:* the BF-3 bids raise ₹1,002.05 crore multiple-price vs ₹999.50 crore uniform.\n\n**Recommendation in a volatile market:** **uniform-price**. When price uncertainty is high, the winner's curse is worse, so bidders shade more under multiple-price auctions and some stay away; a uniform price encourages participation and can raise more in practice.",
+    "marking_scheme": [
+      {
+        "point": "Multiple-price explained",
+        "marks": 1.5
+      },
+      {
+        "point": "Uniform-price explained",
+        "marks": 1.5
+      },
+      {
+        "point": "Comparison",
+        "marks": 1
+      },
+      {
+        "point": "Recommendation with reason",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "BF-4-01",
+    "node": "BF-4",
+    "unit": "Bond Market Unit 1",
+    "type": "case",
+    "marks": 15,
+    "difficulty": "hard",
+    "question": "**Case: a treasury's week.** The treasury of Vindhya Bank (fictional) faces three decisions this week.\n\n**1. Auction.** RBI is reissuing ₹1,000 crore of an existing 10-year G-sec in a price-based auction. The bank expects these competitive bids from the market (including its own bid of ₹200 crore at ₹100.10):\n\n| Price (₹) | Amount (₹ crore) |\n|---|---|\n| 100.40 | 300 |\n| 100.25 | 250 |\n| 100.10 | 300 |\n| 99.95 | 400 |\n| 99.80 | 200 |\n\n**2. Funding.** It needs 7-day funds against G-secs of face value ₹10 crore priced at ₹101, with a 2% haircut. Market repo trades at 6.5%; the MSF rate is 6.75%.\n\n**3. Policy.** RBI has just cut the repo rate by 25 bps.\n\n(a) Find the cut-off price, the allotment to each price level, and the amount raised under multiple-price and uniform-price formats. How much does Vindhya Bank receive? (6)\n(b) Compute the repo first leg, interest and second leg, and the saving compared with borrowing the same amount at MSF. (5)\n(c) Explain how the repo rate cut is likely to affect short-term G-sec yields and the bank's G-sec portfolio. (4)",
+    "model_answer": "**(a) Auction.** Sort by price and cumulate: 300 (300) → 250 (550) → 300 (850) → 400 (1,250 > 1,000).\n- **Cut-off price ₹99.95.** Bids at 100.40, 100.25 and 100.10 are filled in full (850 crore); at 99.95 only 150 of 400 crore (**37.5% pro rata**); 99.80 rejected.\n- **Multiple-price:** 300 × 1.0040 + 250 × 1.0025 + 300 × 1.0010 + 150 × 0.9995 = 301.20 + 250.63 + 300.30 + 149.93 = **₹1,002.05 crore**.\n- **Uniform-price:** 1,000 × 0.9995 = **₹999.50 crore**.\n- **Vindhya Bank** bid at 100.10, above the cut-off, so it receives its **full ₹200 crore**; it pays ₹100.10 (₹200.20 crore) under multiple-price, or ₹99.95 (₹199.90 crore) under uniform-price.\n\n**(b) Repo.**\n- Market value = 10 crore × 1.01 = ₹10.10 crore; first leg = 10.10 crore × 0.98 = **₹9,89,80,000**.\n- Interest at 6.5% for 7 days = 9,89,80,000 × 0.065 × 7 ÷ 365 = **₹1,23,386**.\n- Second leg = **₹9,91,03,386**.\n- At MSF (6.75%): 9,89,80,000 × 0.0675 × 7 ÷ 365 = ₹1,28,132. **Saving by using market repo ≈ ₹4,746.**\n\n**(c) Rate cut.**\n- The LAF corridor (SDF, repo, MSF) shifts down by 25 bps, so overnight call, TREPS and repo rates fall; **T-bill and short-dated G-sec yields fall** closely with them.\n- Longer yields usually fall less (they also reflect growth, inflation and supply), so the curve tends to **steepen**.\n- Falling yields **raise the prices** of the bank's G-sec holdings: a mark-to-market gain, largest on long-duration securities (Unit 2: price change ≈ −modified duration × Δy). The newly bought 10-year G-sec gains if yields fall after the auction.\n- Funding costs (repo) fall, improving the carry on its holdings.\n\n*Conclusion:* the bank's bid is fully allotted, market repo is the cheaper funding route, and the rate cut supports bond prices and lowers funding costs.",
+    "marking_scheme": [
+      {
+        "point": "Cut-off and pro rata",
+        "marks": 2
+      },
+      {
+        "point": "Amount raised under both formats",
+        "marks": 2
+      },
+      {
+        "point": "Bank's allotment and payment",
+        "marks": 2
+      },
+      {
+        "point": "Repo legs",
+        "marks": 3
+      },
+      {
+        "point": "MSF comparison",
+        "marks": 2
+      },
+      {
+        "point": "Rate cut effects on yields and portfolio",
+        "marks": 4
+      }
+    ]
+  }
+]

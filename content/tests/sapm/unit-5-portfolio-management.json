@@ -1,0 +1,746 @@
+[
+  {
+    "id": "PM-1-01",
+    "node": "PM-1",
+    "unit": "SAPM Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "An investor puts 70% of her money in a stock expected to return 18% and 30% in a stock expected to return 8%. The expected portfolio return is:",
+    "options": [
+      "A) 13%",
+      "B) 15%",
+      "C) 26%",
+      "D) 12.6%"
+    ],
+    "answer": "B",
+    "explanation": "E(Rp) = 0.7 × 18 + 0.3 × 8 = 12.6 + 2.4 = 15%. 13% is the simple average, which ignores the weights. 26% adds the two returns. 12.6% is only the first stock's contribution."
+  },
+  {
+    "id": "PM-1-02",
+    "node": "PM-1",
+    "unit": "SAPM Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Two stocks have SDs of 25% and 15%. A 50:50 portfolio of them has an SD of exactly 20%. The correlation between them must be:",
+    "options": [
+      "A) 0",
+      "B) −1",
+      "C) +1",
+      "D) +0.5"
+    ],
+    "answer": "C",
+    "explanation": "Portfolio SD equals the weighted average of SDs (0.5 × 25 + 0.5 × 15 = 20%) only when ρ = +1, because then there is no diversification benefit. With ρ = 0 the SD would be √(0.25 × 0.0625 + 0.25 × 0.0225) = 14.58%; with ρ = −1 it would be |12.5 − 7.5| = 5%; with ρ = 0.5 it would fall between 14.58% and 20%."
+  },
+  {
+    "id": "PM-1-03",
+    "node": "PM-1",
+    "unit": "SAPM Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "The covariance between stocks A and B is 0.006. The SD of A is 20% and of B is 10%. The correlation coefficient is:",
+    "options": [
+      "A) 0.03",
+      "B) 0.30",
+      "C) 0.006",
+      "D) 3.0"
+    ],
+    "answer": "B",
+    "explanation": "ρ = Cov ÷ (σ_A × σ_B) = 0.006 ÷ (0.20 × 0.10) = 0.006 ÷ 0.02 = 0.30. 0.006 is the covariance itself, not the correlation. 0.03 divides by the sum of SDs (0.2 + 0.1 = 0.3) or misplaces a decimal. 3.0 is impossible: correlation must lie between −1 and +1."
+  },
+  {
+    "id": "PM-1-04",
+    "node": "PM-1",
+    "unit": "SAPM Unit 5",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Stock C has an expected return of 16% and SD of 24%. Stock D has an expected return of 11% and SD of 15%. The correlation between them is 0.2. An investor puts 40% in C and 60% in D. Calculate the expected return and risk of the portfolio, and comment on the effect of diversification.",
+    "model_answer": "**Step 1: expected return.** E(Rp) = 0.4 × 16 + 0.6 × 11 = 6.4 + 6.6 = **13%**.\n\n**Step 2: covariance.** Cov = ρ × σ_C × σ_D = 0.2 × 0.24 × 0.15 = 0.0072.\n\n**Step 3: portfolio variance.**\nσp² = w_C²σ_C² + w_D²σ_D² + 2w_Cw_D Cov\n= 0.16 × 0.0576 + 0.36 × 0.0225 + 2 × 0.4 × 0.6 × 0.0072\n= 0.009216 + 0.0081 + 0.003456 = 0.020772\n\n**Step 4: portfolio SD** = √0.020772 = **14.41%**.\n\n**Comment:** the weighted average of the two SDs is 0.4 × 24 + 0.6 × 15 = 18.6%. The portfolio's SD is only 14.41% because the stocks are weakly correlated (ρ = 0.2). Diversification has removed about 4.2 percentage points of risk without lowering the 13% return.",
+    "marking_scheme": [
+      {
+        "point": "Expected return 13%",
+        "marks": 1
+      },
+      {
+        "point": "Covariance 0.0072",
+        "marks": 1
+      },
+      {
+        "point": "Variance with all three terms",
+        "marks": 1.5
+      },
+      {
+        "point": "SD 14.41%",
+        "marks": 0.5
+      },
+      {
+        "point": "Comparison with 18.6% weighted average and diversification comment",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "PM-1-05",
+    "node": "PM-1",
+    "unit": "SAPM Unit 5",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Stock A has an SD of 30% and Stock B an SD of 20%. Their correlation is 0.25. Find the weights of the minimum-variance portfolio and its SD.",
+    "model_answer": "**Step 1: covariance.** Cov = 0.25 × 0.30 × 0.20 = 0.015.\n\n**Step 2: minimum-variance weight in A.**\nw_A = (σ_B² − Cov) ÷ (σ_A² + σ_B² − 2Cov) = (0.04 − 0.015) ÷ (0.09 + 0.04 − 0.03) = 0.025 ÷ 0.10 = **0.25**.\nw_B = 1 − 0.25 = **0.75**.\n\n**Step 3: portfolio variance.**\nσp² = 0.0625 × 0.09 + 0.5625 × 0.04 + 2 × 0.25 × 0.75 × 0.015 = 0.005625 + 0.0225 + 0.005625 = 0.03375.\n\n**Step 4: SD** = √0.03375 = **18.37%**.\n\n**Interpretation:** putting 25% in the riskier stock A actually lowers risk below B's own 20%, because the two are not perfectly correlated. No other mix of A and B has a lower SD.",
+    "marking_scheme": [
+      {
+        "point": "Covariance",
+        "marks": 1
+      },
+      {
+        "point": "Minimum-variance formula",
+        "marks": 1
+      },
+      {
+        "point": "Weights 25% / 75%",
+        "marks": 1
+      },
+      {
+        "point": "Portfolio SD 18.37%",
+        "marks": 1
+      },
+      {
+        "point": "Interpretation: below B's SD",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "PM-1-06",
+    "node": "PM-1",
+    "unit": "SAPM Unit 5",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "hard",
+    "question": "The returns of Stock X and Stock Y under three states of the economy are:\n\n| State | Probability | X | Y |\n|---|---|---|---|\n| Boom | 0.25 | 30% | 4% |\n| Normal | 0.50 | 12% | 10% |\n| Recession | 0.25 | −6% | 12% |\n\n(a) Compute the expected return and SD of each stock. (4)\n(b) Compute the covariance and correlation between X and Y. (3)\n(c) Compute the expected return and SD of a portfolio with 60% in X and 40% in Y, and comment. (3)",
+    "model_answer": "**(a) Expected returns.**\nE(X) = 0.25(30) + 0.5(12) + 0.25(−6) = 7.5 + 6 − 1.5 = **12%**.\nE(Y) = 0.25(4) + 0.5(10) + 0.25(12) = 1 + 5 + 3 = **9%**.\n\nDeviations (in %):\n\n| State | p | d_X | d_Y | p·d_X² | p·d_Y² | p·d_X·d_Y |\n|---|---|---|---|---|---|---|\n| Boom | 0.25 | 18 | −5 | 81 | 6.25 | −22.5 |\n| Normal | 0.50 | 0 | 1 | 0 | 0.5 | 0 |\n| Recession | 0.25 | −18 | 3 | 81 | 2.25 | −13.5 |\n| **Total** | | | | **162** | **9** | **−36** |\n\nσ_X = √162 = **12.73%**; σ_Y = √9 = **3%**.\n\n**(b)** Cov(X, Y) = **−36** (%²), i.e. −0.0036. ρ = −36 ÷ (12.73 × 3) = **−0.94**.\n\n**(c)** E(Rp) = 0.6 × 12 + 0.4 × 9 = **10.8%**.\nσp² = 0.36 × 162 + 0.16 × 9 + 2 × 0.6 × 0.4 × (−36) = 58.32 + 1.44 − 17.28 = 42.48; σp = **6.52%**.\n\n**Comment:** X alone gives 12% at 12.73% risk. The portfolio gives 10.8% at roughly half that risk (6.52%), because the strong negative correlation (−0.94) means Y rises when X falls. The investor gives up 1.2 points of return for a 6.2-point cut in risk, a good trade for a risk-averse investor.",
+    "marking_scheme": [
+      {
+        "point": "Expected returns 12% and 9%",
+        "marks": 2
+      },
+      {
+        "point": "SDs 12.73% and 3% with deviation table",
+        "marks": 2
+      },
+      {
+        "point": "Covariance −36",
+        "marks": 2
+      },
+      {
+        "point": "Correlation −0.94",
+        "marks": 1
+      },
+      {
+        "point": "Portfolio return 10.8%",
+        "marks": 1
+      },
+      {
+        "point": "Portfolio SD 6.52%",
+        "marks": 1
+      },
+      {
+        "point": "Comment on diversification",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "PM-2-01",
+    "node": "PM-2",
+    "unit": "SAPM Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "Which of the following risks can be reduced by holding a well-diversified portfolio?",
+    "options": [
+      "A) A rise in RBI's repo rate",
+      "B) A fall in GDP growth",
+      "C) A strike at one company's main plant",
+      "D) A rise in inflation"
+    ],
+    "answer": "C",
+    "explanation": "A strike at one company is unsystematic (company-specific) risk, which other stocks in the portfolio offset. A repo rate rise, a GDP slowdown and inflation hit almost every stock: they are systematic (market) risks that diversification cannot remove."
+  },
+  {
+    "id": "PM-2-02",
+    "node": "PM-2",
+    "unit": "SAPM Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A risk-free portfolio can be built from two risky stocks only if their correlation is:",
+    "options": [
+      "A) 0",
+      "B) +1",
+      "C) −1",
+      "D) +0.5"
+    ],
+    "answer": "C",
+    "explanation": "With ρ = −1 the stocks move exactly opposite, so the weights w_A = σ_B ÷ (σ_A + σ_B) make portfolio SD zero. At ρ = 0 risk falls but stays positive. At +1 there is no diversification benefit at all, and at +0.5 only a partial one."
+  },
+  {
+    "id": "PM-2-03",
+    "node": "PM-2",
+    "unit": "SAPM Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "In Markowitz's framework, the efficient frontier is the set of portfolios that:",
+    "options": [
+      "A) Have the lowest return for each level of risk",
+      "B) Have the highest return for each level of risk",
+      "C) Contain only risk-free assets",
+      "D) Have a beta of exactly 1"
+    ],
+    "answer": "B",
+    "explanation": "The efficient frontier is the upper-left edge of the feasible set: for each SD, no other portfolio gives a higher return. The lowest-return edge below the minimum-variance point is dominated. Risk-free assets and a beta of 1 belong to CAPM, not to the definition of the frontier."
+  },
+  {
+    "id": "PM-2-04",
+    "node": "PM-2",
+    "unit": "SAPM Unit 5",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Stock A has an expected return of 14% and SD of 18%. Stock B has an expected return of 8% and SD of 9%. Their correlation is −1. Find the weights that make the portfolio risk-free, and the return of that portfolio. What does this show about Markowitz diversification?",
+    "model_answer": "**Step 1: zero-risk weights.** With ρ = −1, σp = |w_Aσ_A − w_Bσ_B|. Setting it to zero:\nw_A = σ_B ÷ (σ_A + σ_B) = 9 ÷ (18 + 9) = 9 ÷ 27 = **1/3 (33.3%)**; w_B = **2/3 (66.7%)**.\n\nCheck: (1/3)(18) − (2/3)(9) = 6 − 6 = 0.\n\n**Step 2: return.** E(Rp) = (1/3)(14) + (2/3)(8) = 4.67 + 5.33 = **10%** with zero risk.\n\n**What it shows:** a security's effect on portfolio risk depends on its correlation with the other holdings, not just its own SD. Markowitz's insight is that combining assets with low (here perfectly negative) correlation can cut risk sharply, in this extreme case to zero, without giving up all the return.",
+    "marking_scheme": [
+      {
+        "point": "Formula for zero-risk weight",
+        "marks": 1
+      },
+      {
+        "point": "Weights 1/3 and 2/3",
+        "marks": 1.5
+      },
+      {
+        "point": "Return 10%",
+        "marks": 1
+      },
+      {
+        "point": "Explanation of correlation's role",
+        "marks": 1.5
+      }
+    ]
+  },
+  {
+    "id": "PM-2-05",
+    "node": "PM-2",
+    "unit": "SAPM Unit 5",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "medium",
+    "question": "Explain Markowitz's portfolio theory. Your answer should cover its assumptions, the efficient frontier (with a diagram), the choice of the optimal portfolio, and its limitations.",
+    "model_answer": "**Contribution.** Markowitz (1952) showed that the risk of a portfolio depends not only on the risk of each security but on how securities move together (covariance). Investors should therefore select portfolios, not individual stocks, by trading off expected return against portfolio variance.\n\n**Assumptions.**\n1. Investors are rational and risk-averse.\n2. They decide on expected return and variance (SD) only.\n3. Returns are normally distributed.\n4. Single-period horizon.\n5. Perfect markets: no taxes, no transaction costs, divisible assets.\n6. Investors prefer more return to less.\n\n**Diversification and correlation.** σp² = Σw²σ² + ΣΣ w_iw_j Cov. The lower the correlation, the larger the fall in risk; at ρ = −1, risk can be eliminated.\n\n**Efficient frontier (diagram).** Plot return (y) against SD (x). All feasible portfolios form a region. Its upper-left boundary from the minimum-variance portfolio upward is the efficient frontier: highest return for each level of risk. Portfolios inside the region or on the lower edge are dominated.\n\n*Diagram: a curve bulging up and to the left; the leftmost point labelled minimum-variance portfolio; the upper segment labelled efficient frontier; dots inside labelled inefficient.*\n\n**Optimal portfolio.** The investor's indifference curves (equal-utility combinations of risk and return) slope upward. The optimal portfolio is where the highest attainable indifference curve is tangent to the frontier: near the minimum-variance end for a conservative investor, further up for an aggressive one.\n\n**Limitations.**\n1. Huge input needs: n(n−1)/2 covariances (4,950 for 100 stocks).\n2. Relies on historical estimates that may not hold.\n3. Normality and rationality assumptions fail in real markets.\n4. Ignores costs and taxes; single-period only.\n\nSharpe's single index model was developed to solve the input problem.",
+    "marking_scheme": [
+      {
+        "point": "Contribution: portfolio-level risk via covariance",
+        "marks": 1.5
+      },
+      {
+        "point": "Four or more assumptions",
+        "marks": 2
+      },
+      {
+        "point": "Correlation and diversification",
+        "marks": 1.5
+      },
+      {
+        "point": "Efficient frontier with labelled diagram",
+        "marks": 2.5
+      },
+      {
+        "point": "Optimal portfolio via indifference curves",
+        "marks": 1.5
+      },
+      {
+        "point": "Limitations",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "PM-3-01",
+    "node": "PM-3",
+    "unit": "SAPM Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "The risk-free rate is 7%, the expected market return is 14% and a stock's beta is 1.3. Its required return under CAPM is:",
+    "options": [
+      "A) 18.2%",
+      "B) 16.1%",
+      "C) 9.1%",
+      "D) 25.2%"
+    ],
+    "answer": "B",
+    "explanation": "E(R) = R_f + β(R_m − R_f) = 7 + 1.3 × (14 − 7) = 7 + 9.1 = 16.1%. 18.2% is β × R_m (1.3 × 14), which forgets to subtract R_f. 9.1% is only the risk premium. 25.2% is 7 + 1.3 × 14, using R_m instead of the market risk premium."
+  },
+  {
+    "id": "PM-3-02",
+    "node": "PM-3",
+    "unit": "SAPM Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "A stock has a beta of 0.6. If the market falls by 10%, the stock is expected to:",
+    "options": [
+      "A) Fall by 6%",
+      "B) Fall by 16%",
+      "C) Rise by 6%",
+      "D) Fall by 10%"
+    ],
+    "answer": "A",
+    "explanation": "Beta measures sensitivity to market moves: 0.6 × (−10%) = −6%. It is a defensive stock. A fall of 16% would need a beta of 1.6; a 10% fall a beta of 1. A rise would need a negative beta."
+  },
+  {
+    "id": "PM-3-03",
+    "node": "PM-3",
+    "unit": "SAPM Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A stock's expected return plots above the Security Market Line. The stock is:",
+    "options": [
+      "A) Overvalued, so sell it",
+      "B) Undervalued, so buy it",
+      "C) Fairly priced",
+      "D) Risk-free"
+    ],
+    "answer": "B",
+    "explanation": "Above the SML means the stock offers more return than CAPM requires for its beta. A high expected return for a given risk means its price is too low: it is undervalued, so buy. Below the line would be overvalued; on the line, fairly priced. Position relative to the SML says nothing about being risk-free."
+  },
+  {
+    "id": "PM-3-04",
+    "node": "PM-3",
+    "unit": "SAPM Unit 5",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "The returns of a stock and the market index over five years are given. Compute the stock's beta and interpret it.\n\n| Year | Market | Stock |\n|---|---|---|\n| 1 | 8% | 9% |\n| 2 | 12% | 15% |\n| 3 | −4% | −9% |\n| 4 | 16% | 21% |\n| 5 | 8% | 9% |",
+    "model_answer": "**Step 1: means.** R̄_m = 40 ÷ 5 = 8%; R̄_i = 45 ÷ 5 = 9%.\n\n**Step 2: deviations.**\n\n| Year | d_m | d_i | d_m × d_i | d_m² |\n|---|---|---|---|---|\n| 1 | 0 | 0 | 0 | 0 |\n| 2 | 4 | 6 | 24 | 16 |\n| 3 | −12 | −18 | 216 | 144 |\n| 4 | 8 | 12 | 96 | 64 |\n| 5 | 0 | 0 | 0 | 0 |\n| **Total** | | | **336** | **224** |\n\n**Step 3: beta.** Cov = 336 ÷ 5 = 67.2; Var(m) = 224 ÷ 5 = 44.8. β = 67.2 ÷ 44.8 = **1.5**.\n\n**Interpretation:** the stock is aggressive. For every 1% move in the market it is expected to move 1.5% in the same direction, so it carries 50% more systematic risk than the market and CAPM will require a higher return from it.",
+    "marking_scheme": [
+      {
+        "point": "Means",
+        "marks": 1
+      },
+      {
+        "point": "Deviation table",
+        "marks": 1.5
+      },
+      {
+        "point": "Covariance and variance",
+        "marks": 1
+      },
+      {
+        "point": "Beta 1.5",
+        "marks": 0.5
+      },
+      {
+        "point": "Interpretation as aggressive",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "PM-3-05",
+    "node": "PM-3",
+    "unit": "SAPM Unit 5",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "A portfolio holds three stocks: 40% in a stock with beta 1.4, 35% in a stock with beta 0.9 and 25% in a stock with beta 0.6. The risk-free rate is 6.5% and the expected market return is 12.5%. Find the portfolio beta and the portfolio's required return. Is the portfolio aggressive or defensive?",
+    "model_answer": "**Step 1: portfolio beta** = Σ wβ = 0.40 × 1.4 + 0.35 × 0.9 + 0.25 × 0.6 = 0.56 + 0.315 + 0.15 = **1.025**.\n\n**Step 2: required return** = R_f + β_p(R_m − R_f) = 6.5 + 1.025 × (12.5 − 6.5) = 6.5 + 6.15 = **12.65%**.\n\n**Step 3: classification.** β_p is just above 1, so the portfolio is **slightly aggressive**: it carries about the same systematic risk as the market (2.5% more), and its required return is just above the market's 12.5%.\n\n*Note: beta, unlike SD, is a simple weighted average.*",
+    "marking_scheme": [
+      {
+        "point": "Weighted-average beta",
+        "marks": 1.5
+      },
+      {
+        "point": "Beta 1.025",
+        "marks": 1
+      },
+      {
+        "point": "CAPM required return 12.65%",
+        "marks": 1.5
+      },
+      {
+        "point": "Classification with reason",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "PM-3-06",
+    "node": "PM-3",
+    "unit": "SAPM Unit 5",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "medium",
+    "question": "Explain the Capital Asset Pricing Model. Cover the logic behind it, the formula, the meaning of beta, the Security Market Line (with a diagram), the assumptions and the limitations. Illustrate with R_f = 6%, R_m = 12% and a stock with beta 1.25 whose expected return is 13%.",
+    "model_answer": "**Logic.** Diversification removes unsystematic risk at no cost, so the market rewards only systematic risk. Beta measures systematic risk, so required return depends on beta.\n\n**Formula.** E(Rᵢ) = R_f + βᵢ(R_m − R_f), where R_f is the risk-free rate, R_m the market return and (R_m − R_f) the market risk premium.\n\n**Beta.** β = Cov(Rᵢ, R_m) ÷ σ_m². β > 1 aggressive, β = 1 market-like, β < 1 defensive, β = 0 risk-free.\n\n**SML (diagram).** Required return on the y-axis, beta on the x-axis; a straight line from R_f at β = 0 through the market at β = 1, slope = R_m − R_f. Stocks above the line are undervalued (buy); below, overvalued (sell).\n\n**Illustration.** Required return = 6 + 1.25 × (12 − 6) = 6 + 7.5 = **13.5%**. Expected return 13% < 13.5%, so the stock plots **below** the SML: **overvalued**, avoid or sell.\n\n**Assumptions.** Risk-averse, diversified investors; unlimited borrowing and lending at R_f; homogeneous expectations; single period; perfect markets with no taxes or costs; price-taking investors.\n\n**Limitations.** Historical beta is unstable; the true market portfolio can't be observed; unlimited risk-free borrowing is unrealistic; empirical tests find low-beta stocks outperforming CAPM's prediction; other factors (size, value, momentum) also explain returns.",
+    "marking_scheme": [
+      {
+        "point": "Logic: only systematic risk priced",
+        "marks": 1.5
+      },
+      {
+        "point": "Formula with terms",
+        "marks": 1.5
+      },
+      {
+        "point": "Beta and interpretation",
+        "marks": 1.5
+      },
+      {
+        "point": "SML diagram and rule",
+        "marks": 2
+      },
+      {
+        "point": "Illustration 13.5% vs 13%, overvalued",
+        "marks": 1.5
+      },
+      {
+        "point": "Assumptions and limitations",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "PM-4-01",
+    "node": "PM-4",
+    "unit": "SAPM Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Under Sharpe's single index model, how many inputs are needed to analyse a portfolio of 50 stocks?",
+    "options": [
+      "A) 1,275",
+      "B) 152",
+      "C) 1,325",
+      "D) 100"
+    ],
+    "answer": "B",
+    "explanation": "The index model needs α, β and residual variance for each stock (3n = 150) plus the market's expected return and variance (2): 3 × 50 + 2 = 152. 1,225 covariances plus 50 returns and 50 variances (1,325) is what Markowitz needs. 1,275 is n(n+1)/2. 100 counts only two inputs per stock and forgets the market."
+  },
+  {
+    "id": "PM-4-02",
+    "node": "PM-4",
+    "unit": "SAPM Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Under the single index model, two stocks have betas of 1.1 and 0.9, and the market variance is 0.04. The covariance between them is:",
+    "options": [
+      "A) 0.0396",
+      "B) 0.04",
+      "C) 0.08",
+      "D) 0.99"
+    ],
+    "answer": "A",
+    "explanation": "Cov(i, j) = βᵢβⱼσ_m² = 1.1 × 0.9 × 0.04 = 0.0396. 0.04 is just the market variance. 0.08 adds the betas (2.0 × 0.04). 0.99 is the product of the betas without the market variance."
+  },
+  {
+    "id": "PM-4-03",
+    "node": "PM-4",
+    "unit": "SAPM Unit 5",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Under Sharpe's single index model, a stock has a beta of 0.9 and a residual (unsystematic) variance of 0.0124. The market's SD is 20%. Compute the stock's total risk and the share of it that is systematic. What does this tell an investor?",
+    "model_answer": "**Step 1: systematic risk** = β²σ_m² = 0.81 × 0.04 = **0.0324**.\n\n**Step 2: total variance** = 0.0324 + 0.0124 = **0.0448**; total SD = √0.0448 = **21.17%**.\n\n**Step 3: systematic share** = 0.0324 ÷ 0.0448 = **72.3%**; unsystematic share 27.7%.\n\n**Interpretation:** about 72% of the stock's variance comes from market movements and can't be diversified away. The remaining 28% is company-specific and will largely disappear when the stock is held in a well-diversified portfolio, so the investor should judge it mainly by its beta (0.9, mildly defensive).",
+    "marking_scheme": [
+      {
+        "point": "Systematic variance 0.0324",
+        "marks": 1.5
+      },
+      {
+        "point": "Total variance and SD 21.17%",
+        "marks": 1.5
+      },
+      {
+        "point": "Systematic share 72.3%",
+        "marks": 1
+      },
+      {
+        "point": "Interpretation",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "PM-4-04",
+    "node": "PM-4",
+    "unit": "SAPM Unit 5",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "hard",
+    "question": "Using Sharpe's cut-off method, find the optimal portfolio from the following stocks. The risk-free rate is 5% and the market variance σ_m² is 12 (in %²).\n\n| Stock | Expected return % | Beta | Residual variance σ²_e |\n|---|---|---|---|\n| A | 17 | 1.2 | 30 |\n| B | 14 | 0.8 | 16 |\n| C | 21 | 2.0 | 50 |\n| D | 10 | 1.0 | 25 |\n\n(a) Rank the stocks and compute the cut-off point C\\*. (6)\n(b) Find the proportion of each selected stock. (4)",
+    "model_answer": "**(a) Step 1: excess return to beta, ERB = (R − R_f) ÷ β.**\nA = 12 ÷ 1.2 = 10.00; B = 9 ÷ 0.8 = 11.25; C = 16 ÷ 2.0 = 8.00; D = 5 ÷ 1.0 = 5.00.\nRank: **B, A, C, D**.\n\n**Step 2: running cut-off** Cᵢ = σ_m² Σ[(R − R_f)β/σ²_e] ÷ (1 + σ_m² Σ[β²/σ²_e]).\n\n| Rank | Stock | ERB | (R−R_f)β/σ²_e | β²/σ²_e | Σ₁ | Σ₂ | Cᵢ |\n|---|---|---|---|---|---|---|---|\n| 1 | B | 11.25 | 0.450 | 0.040 | 0.450 | 0.040 | 3.65 |\n| 2 | A | 10.00 | 0.480 | 0.048 | 0.930 | 0.088 | 5.43 |\n| 3 | C | 8.00 | 0.640 | 0.080 | 1.570 | 0.168 | 6.25 |\n| 4 | D | 5.00 | 0.200 | 0.040 | 1.770 | 0.208 | 6.08 |\n\nExample: C₃ = 12 × 1.570 ÷ (1 + 12 × 0.168) = 18.84 ÷ 3.016 = 6.25.\n\nB, A and C each have ERB above their Cᵢ. D's ERB (5.00) is below 6.08, so **D is excluded**. **C\\* = 6.25**.\n\n**(b) Weights.** Zᵢ = (βᵢ/σ²_eᵢ)(ERBᵢ − C\\*):\n- B = (0.8/16)(11.25 − 6.25) = 0.05 × 5.00 = 0.2502\n- A = (1.2/30)(10.00 − 6.25) = 0.04 × 3.75 = 0.1501\n- C = (2.0/50)(8.00 − 6.25) = 0.04 × 1.75 = 0.0701\nΣZ = 0.4704.\n\n**Proportions: B 53.2%, A 31.9%, C 14.9%, D nil.**\n\n**Interpretation:** B gets the most weight because it has the highest reward per unit of beta and low residual risk. D's excess return per unit of beta is below the portfolio's hurdle, so adding it would lower the portfolio's risk-adjusted return.",
+    "marking_scheme": [
+      {
+        "point": "ERB and ranking",
+        "marks": 1.5
+      },
+      {
+        "point": "Running sums and Cᵢ for each stock",
+        "marks": 3
+      },
+      {
+        "point": "C* = 6.25 with D excluded",
+        "marks": 1.5
+      },
+      {
+        "point": "Z values",
+        "marks": 2
+      },
+      {
+        "point": "Weights 53.2 / 31.9 / 14.9%",
+        "marks": 1
+      },
+      {
+        "point": "Interpretation",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "PM-5-01",
+    "node": "PM-5",
+    "unit": "SAPM Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "A fund earned 16% with an SD of 20% and a beta of 1.25. The risk-free rate is 6%. Its Sharpe ratio is:",
+    "options": [
+      "A) 0.80",
+      "B) 8.0",
+      "C) 0.50",
+      "D) 0.30"
+    ],
+    "answer": "C",
+    "explanation": "Sharpe = (R_p − R_f) ÷ σ_p = (16 − 6) ÷ 20 = 0.50. 8.0 is the Treynor ratio (10 ÷ 1.25). 0.80 is 16 ÷ 20, which forgets to subtract R_f. 0.30 is 6 ÷ 20."
+  },
+  {
+    "id": "PM-5-02",
+    "node": "PM-5",
+    "unit": "SAPM Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "For the same fund (return 16%, SD 20%, beta 1.25, R_f 6%), the Treynor ratio is:",
+    "options": [
+      "A) 8.0",
+      "B) 12.8",
+      "C) 0.50",
+      "D) 4.8"
+    ],
+    "answer": "A",
+    "explanation": "Treynor = (R_p − R_f) ÷ β = 10 ÷ 1.25 = 8.0. 12.8 is 16 ÷ 1.25, which forgets R_f. 0.50 is the Sharpe ratio. 4.8 divides R_f by beta."
+  },
+  {
+    "id": "PM-5-03",
+    "node": "PM-5",
+    "unit": "SAPM Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "An investor will put all her savings into a single mutual fund. Which measure is most appropriate to compare funds for her?",
+    "options": [
+      "A) Treynor ratio",
+      "B) Jensen's alpha",
+      "C) Sharpe ratio",
+      "D) Beta"
+    ],
+    "answer": "C",
+    "explanation": "When the fund is the whole portfolio, its unsystematic risk is not diversified away elsewhere, so total risk (SD) matters. The Sharpe ratio uses SD. Treynor and Jensen use beta and suit a fund that is one part of a diversified portfolio. Beta alone is a risk measure, not a performance measure."
+  },
+  {
+    "id": "PM-5-04",
+    "node": "PM-5",
+    "unit": "SAPM Unit 5",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "A fund earned 14% last year with a beta of 0.8. The risk-free rate was 6% and the market returned 13%. Calculate Jensen's alpha and interpret it. Would your conclusion change if the fund's beta were 1.2?",
+    "model_answer": "**Step 1: CAPM required return** = 6 + 0.8 × (13 − 6) = 6 + 5.6 = **11.6%**.\n\n**Step 2: Jensen's alpha** = 14 − 11.6 = **+2.4%**.\n\n**Interpretation:** the fund earned 2.4 percentage points more than CAPM required for its level of market risk: superior risk-adjusted performance, from skill or luck.\n\n**With beta 1.2:** required return = 6 + 1.2 × 7 = 14.4%; alpha = 14 − 14.4 = **−0.4%**. The same 14% return would then be **below** what its higher market risk deserved. The conclusion reverses: return alone never tells you whether a fund did well.",
+    "marking_scheme": [
+      {
+        "point": "CAPM return 11.6%",
+        "marks": 1.5
+      },
+      {
+        "point": "Alpha +2.4%",
+        "marks": 1
+      },
+      {
+        "point": "Interpretation",
+        "marks": 1
+      },
+      {
+        "point": "Beta 1.2 case: −0.4% and reversal",
+        "marks": 1.5
+      }
+    ]
+  },
+  {
+    "id": "PM-5-05",
+    "node": "PM-5",
+    "unit": "SAPM Unit 5",
+    "type": "case",
+    "marks": 15,
+    "difficulty": "hard",
+    "question": "**Case: choosing a fund for two investors.** The following data relate to four equity mutual funds over the last year. The risk-free rate was 7%. The market (Nifty 50) returned 13% with an SD of 16%.\n\n| Fund | Return | SD | Beta |\n|---|---|---|---|\n| P | 18% | 20% | 1.2 |\n| Q | 15% | 14% | 1.0 |\n| R | 20% | 28% | 1.5 |\n| S | 12% | 10% | 0.7 |\n\n(a) Compute the Sharpe ratio of each fund and the market, and rank the funds. (4)\n(b) Compute the Treynor ratio of each fund and the market, and rank the funds. (4)\n(c) Compute Jensen's alpha for each fund and rank them. (3)\n(d) Investor 1 will invest all her savings in one fund. Investor 2 already holds a well-diversified portfolio and wants to add one fund. Advise each, explaining why the rankings differ. (4)",
+    "model_answer": "**(a) Sharpe = (R − R_f) ÷ σ**\n- P = 11 ÷ 20 = **0.550**\n- Q = 8 ÷ 14 = **0.571**\n- R = 13 ÷ 28 = **0.464**\n- S = 5 ÷ 10 = **0.500**\n- Market = 6 ÷ 16 = **0.375**\n\nRank: **Q, P, S, R**. All beat the market.\n\n**(b) Treynor = (R − R_f) ÷ β**\n- P = 11 ÷ 1.2 = **9.17**\n- Q = 8 ÷ 1.0 = **8.00**\n- R = 13 ÷ 1.5 = **8.67**\n- S = 5 ÷ 0.7 = **7.14**\n- Market = 6 ÷ 1 = **6.00**\n\nRank: **P, R, Q, S**. All beat the market.\n\n**(c) Jensen's alpha = R − [R_f + β(R_m − R_f)]**\n\n| Fund | CAPM return | Alpha |\n|---|---|---|\n| P | 7 + 1.2 × 6 = 14.2 | **+3.8%** |\n| Q | 7 + 1.0 × 6 = 13.0 | **+2.0%** |\n| R | 7 + 1.5 × 6 = 16.0 | **+4.0%** |\n| S | 7 + 0.7 × 6 = 11.2 | **+0.8%** |\n\nRank: **R, P, Q, S**.\n\n**Summary**\n\n| Fund | Sharpe rank | Treynor rank | Jensen rank |\n|---|---|---|---|\n| P | 2 | 1 | 2 |\n| Q | 1 | 3 | 3 |\n| R | 4 | 2 | 1 |\n| S | 3 | 4 | 4 |\n\n**(d) Advice.**\n- **Investor 1 (one fund is her whole portfolio):** total risk matters, so use Sharpe. Choose **Q** (0.571): the best return per unit of total risk.\n- **Investor 2 (adding to a diversified portfolio):** only the fund's market risk adds to her risk, so use Treynor and Jensen. Choose **P**: first on Treynor (9.17) and second on alpha (+3.8%), and second on Sharpe too, so it is the most consistent.\n- **Why the rankings differ:** R has a very high SD (28%) relative to its beta (1.5). Much of its risk is unsystematic. Sharpe penalises this and ranks R last; Treynor and Jensen ignore it and rank R high. Q is the opposite: low SD, so it shines on Sharpe, but its beta-adjusted excess return is modest.\n\n*Conclusion:* the right fund depends on whether it is the investor's whole portfolio (Sharpe) or one part of a diversified portfolio (Treynor and Jensen).",
+    "marking_scheme": [
+      {
+        "point": "Sharpe ratios and market 0.375",
+        "marks": 3
+      },
+      {
+        "point": "Sharpe ranking",
+        "marks": 1
+      },
+      {
+        "point": "Treynor ratios and market 6.00",
+        "marks": 3
+      },
+      {
+        "point": "Treynor ranking",
+        "marks": 1
+      },
+      {
+        "point": "Jensen's alpha via CAPM",
+        "marks": 2.5
+      },
+      {
+        "point": "Jensen ranking",
+        "marks": 0.5
+      },
+      {
+        "point": "Advice to each investor with the right measure",
+        "marks": 2.5
+      },
+      {
+        "point": "Explanation of why rankings differ",
+        "marks": 1.5
+      }
+    ]
+  },
+  {
+    "id": "PM-6-01",
+    "node": "PM-6",
+    "unit": "SAPM Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "The performance of an index fund is best judged by its:",
+    "options": [
+      "A) Jensen's alpha",
+      "B) Tracking error",
+      "C) Sector rotation",
+      "D) Beta above 1"
+    ],
+    "answer": "B",
+    "explanation": "A passive fund aims to match its index, so the test is how closely it does so: tracking error, the SD of the difference between fund and index returns. Alpha measures beating the benchmark, which an index fund doesn't try to do. Sector rotation is an active strategy. An index fund's beta should be close to 1, not above it."
+  },
+  {
+    "id": "PM-6-02",
+    "node": "PM-6",
+    "unit": "SAPM Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "A manager overweights capital-goods stocks at the start of an economic recovery and shifts into FMCG stocks as growth slows. This is an example of:",
+    "options": [
+      "A) Passive indexing",
+      "B) Buy-and-hold",
+      "C) Sector rotation",
+      "D) Rupee cost averaging"
+    ],
+    "answer": "C",
+    "explanation": "Moving between sectors according to the phase of the business cycle is sector rotation, an active strategy. Indexing and buy-and-hold are passive and don't shift with the cycle. Rupee cost averaging is investing a fixed amount at regular intervals."
+  },
+  {
+    "id": "PM-6-03",
+    "node": "PM-6",
+    "unit": "SAPM Unit 5",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "Distinguish between active and passive equity investment strategies, with two examples of each.",
+    "model_answer": "**Active strategy:** the manager tries to **beat** a benchmark (earn positive alpha) by deviating from it, on the belief that markets are not fully efficient. Examples: **market timing** (raise equity exposure before rallies), **sector rotation**, **stock selection** using fundamental or technical analysis, style investing (value, growth).\n\n**Passive strategy:** the manager tries to **match** the benchmark, on the belief that markets are efficient enough that beating them after costs is unlikely. Examples: **index funds** (Nifty 50 index fund), **ETFs** (Nifty BeES), buy-and-hold.\n\n| Basis | Active | Passive |\n|---|---|---|\n| Objective | Beat the benchmark | Match the benchmark |\n| Belief | Markets inefficient | Markets efficient |\n| Cost | High expense ratio | Low expense ratio |\n| Turnover | High | Low |\n| Judged by | Alpha, Sharpe, Treynor | Tracking error |\n\n**Conclusion:** passive suits long-term, cost-conscious investors; active suits those who trust a manager's skill to cover the extra cost.",
+    "marking_scheme": [
+      {
+        "point": "Definition of active",
+        "marks": 1
+      },
+      {
+        "point": "Two active examples",
+        "marks": 1
+      },
+      {
+        "point": "Definition of passive",
+        "marks": 1
+      },
+      {
+        "point": "Two passive examples",
+        "marks": 1
+      },
+      {
+        "point": "Comparison points",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "PM-7-01",
+    "node": "PM-7",
+    "unit": "SAPM Unit 5",
+    "type": "case",
+    "marks": 15,
+    "difficulty": "hard",
+    "question": "**Case: building a two-stock portfolio.** An advisory team is considering Alpha Ltd (fictional) and Beta Ltd (fictional) for a client. Their returns under three states of the economy are:\n\n| State | Probability | Alpha Ltd | Beta Ltd |\n|---|---|---|---|\n| Boom | 0.2 | 28% | 6% |\n| Normal | 0.5 | 14% | 12% |\n| Recession | 0.3 | −2% | 10% |\n\nAlpha Ltd's beta is 1.3 and Beta Ltd's beta is 0.6. The risk-free rate is 6% and the expected market return is 12%.\n\n(a) Compute the expected return and SD of each stock. (4)\n(b) Compute the covariance and correlation between them. (2)\n(c) Compute the expected return and SD of a 50:50 portfolio. (3)\n(d) Find the minimum-variance weights and the SD of that portfolio. (2)\n(e) Using CAPM, say whether each stock is under- or overvalued, and recommend a portfolio to the client. (4)",
+    "model_answer": "**(a) Expected returns.**\nE(Alpha) = 0.2(28) + 0.5(14) + 0.3(−2) = 5.6 + 7 − 0.6 = **12%**.\nE(Beta) = 0.2(6) + 0.5(12) + 0.3(10) = 1.2 + 6 + 3 = **10.2%**.\n\n| State | p | d_A | d_B | p·d_A² | p·d_B² | p·d_A·d_B |\n|---|---|---|---|---|---|---|\n| Boom | 0.2 | 16 | −4.2 | 51.2 | 3.528 | −13.44 |\n| Normal | 0.5 | 2 | 1.8 | 2.0 | 1.620 | 1.80 |\n| Recession | 0.3 | −14 | −0.2 | 58.8 | 0.012 | 0.84 |\n| **Total** | | | | **112.0** | **5.16** | **−10.80** |\n\nσ_A = √112 = **10.58%**; σ_B = √5.16 = **2.27%**.\n\n**(b)** Cov = **−10.8** (%²). ρ = −10.8 ÷ (10.58 × 2.27) = **−0.45**.\n\n**(c) 50:50 portfolio.** E(Rp) = 0.5(12) + 0.5(10.2) = **11.1%**.\nσp² = 0.25(112) + 0.25(5.16) + 2(0.25)(−10.8) = 28 + 1.29 − 5.4 = 23.89; σp = **4.89%**.\n\n**(d) Minimum variance.** w_A = (σ_B² − Cov) ÷ (σ_A² + σ_B² − 2Cov) = (5.16 + 10.8) ÷ (112 + 5.16 + 21.6) = 15.96 ÷ 138.76 = **0.115**; w_B = **0.885**.\nE(R) = 0.115(12) + 0.885(10.2) = **10.41%**; σ² = 0.0132(112) + 0.7832(5.16) + 2(0.115)(0.885)(−10.8) = 1.48 + 4.04 − 2.20 = 3.32; σ = **1.82%**, lower than either stock alone.\n\n**(e) CAPM check.**\n- Alpha: required = 6 + 1.3 × 6 = **13.8%**; expected 12% < 13.8%, below the SML: **overvalued**.\n- Beta: required = 6 + 0.6 × 6 = **9.6%**; expected 10.2% > 9.6%, above the SML: **undervalued**.\n- 50:50 portfolio: β = 0.95, required = 6 + 0.95 × 6 = 11.7% vs expected 11.1%.\n\n**Recommendation:** tilt towards **Beta Ltd**. It is undervalued and has very low risk; the minimum-variance mix (about 11.5% Alpha, 88.5% Beta) gives 10.41% at only 1.82% risk, above Beta's CAPM requirement. A 50:50 mix falls short of its CAPM required return because Alpha Ltd is overvalued. Hold a small Alpha stake only for diversification (its negative correlation with Beta cuts portfolio risk), and revisit if its price falls.",
+    "marking_scheme": [
+      {
+        "point": "Expected returns 12% and 10.2%",
+        "marks": 1.5
+      },
+      {
+        "point": "SDs 10.58% and 2.27% with table",
+        "marks": 2.5
+      },
+      {
+        "point": "Covariance and correlation",
+        "marks": 2
+      },
+      {
+        "point": "50:50 return and SD",
+        "marks": 3
+      },
+      {
+        "point": "Minimum-variance weights and SD",
+        "marks": 2
+      },
+      {
+        "point": "CAPM required returns and valuation verdicts",
+        "marks": 2.5
+      },
+      {
+        "point": "Recommendation",
+        "marks": 1.5
+      }
+    ]
+  }
+]

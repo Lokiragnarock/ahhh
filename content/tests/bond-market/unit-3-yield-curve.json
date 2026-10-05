@@ -1,0 +1,499 @@
+[
+  {
+    "id": "YC-1-01",
+    "node": "YC-1",
+    "unit": "Bond Market Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "A yield curve on which short-term G-sec yields are higher than long-term yields is called:",
+    "options": [
+      "A) Normal",
+      "B) Inverted",
+      "C) Flat",
+      "D) Steep"
+    ],
+    "answer": "B",
+    "explanation": "When short yields exceed long yields the curve slopes downward: an inverted curve, usually read as markets expecting rates to fall in a slowdown. A normal curve slopes upward; a flat curve has similar yields at all maturities; a steep curve is a strongly upward-sloping normal curve."
+  },
+  {
+    "id": "YC-1-02",
+    "node": "YC-1",
+    "unit": "Bond Market Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Which theory best explains why the yield curve is upward-sloping even when investors expect short-term rates to stay unchanged?",
+    "options": [
+      "A) Pure expectations theory",
+      "B) Liquidity preference theory",
+      "C) Market segmentation theory",
+      "D) Purchasing power parity"
+    ],
+    "answer": "B",
+    "explanation": "Liquidity preference adds a premium that rises with maturity, because investors prefer short, liquid bonds. Even with flat expected short rates, long yields are higher. Pure expectations would give a flat curve in that case. Segmentation explains slope only through separate supply and demand, not through expectations being flat. Purchasing power parity is an exchange-rate theory."
+  },
+  {
+    "id": "YC-1-03",
+    "node": "YC-1",
+    "unit": "Bond Market Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Under the pure expectations theory, the 1-year rate is 6% and the 2-year rate is 7%. The expected 1-year rate one year from now is approximately:",
+    "options": [
+      "A) 7.0%",
+      "B) 6.5%",
+      "C) 8.0%",
+      "D) 13.0%"
+    ],
+    "answer": "C",
+    "explanation": "(1.07)² = 1.06 × (1 + r), so r = 1.1449 ÷ 1.06 − 1 = 8.01%. The 2-year rate is an average of 6% and the expected rate, so the expected rate must be about 8%. 7% just repeats the 2-year rate; 6.5% averages the two given rates; 13% adds them."
+  },
+  {
+    "id": "YC-1-04",
+    "node": "YC-1",
+    "unit": "Bond Market Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "In India, which end of the G-sec yield curve is most directly anchored by RBI's repo rate?",
+    "options": [
+      "A) The 30-year end",
+      "B) The 10-year benchmark",
+      "C) The short end (overnight to T-bills)",
+      "D) None; the repo rate affects only bank deposits"
+    ],
+    "answer": "C",
+    "explanation": "The repo rate is RBI's overnight policy rate, so money-market and T-bill yields track it closely. Long yields (10-year, 30-year) also reflect growth and inflation expectations and government borrowing, so they move less directly. The repo rate clearly affects market yields, not only deposits."
+  },
+  {
+    "id": "YC-1-05",
+    "node": "YC-1",
+    "unit": "Bond Market Unit 3",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "Explain the different types of yield curves with diagrams. What does each shape signal about the economy?",
+    "model_answer": "**Yield curve:** a plot of yields of bonds of the same credit quality (usually G-secs) against maturity.\n\n1. **Normal (upward-sloping):** long yields above short. *Diagram: rising curve.* Signals healthy expected growth and a term premium for lending longer.\n2. **Inverted (downward-sloping):** short yields above long. *Diagram: falling curve.* Signals that rates are expected to fall, usually because a slowdown or recession is expected, or policy is currently very tight.\n3. **Flat:** similar yields across maturities. *Diagram: horizontal line.* A transition between expansion and slowdown; policy outlook uncertain.\n4. **Humped:** medium yields above both ends. *Diagram: hill shape.* Rates expected to rise briefly and then fall; often a turning point.\n\n**Use:** the slope (10-year minus 2-year) is watched as a leading indicator; an inversion has preceded most US recessions.",
+    "marking_scheme": [
+      {
+        "point": "Definition",
+        "marks": 1
+      },
+      {
+        "point": "Four shapes with diagrams",
+        "marks": 2
+      },
+      {
+        "point": "Economic signal of each",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "YC-1-06",
+    "node": "YC-1",
+    "unit": "Bond Market Unit 3",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "medium",
+    "question": "Critically explain the theories of the term structure of interest rates. Which theory best explains the usual shape of the Indian G-sec yield curve?",
+    "model_answer": "**1. Pure expectations theory.** Long rates are the geometric average of current and expected future short rates: (1 + ₀R₂)² = (1 + ₀R₁)(1 + E(₁r₁)). Investors are indifferent between maturities. Example: 6% now and 8% expected next year give a 2-year rate of √(1.06 × 1.08) − 1 = 6.995%. *Critique:* implies upward curves only when rates are expected to rise, yet curves slope up most of the time.\n\n**2. Liquidity preference theory (Hicks).** Investors prefer short, liquid bonds and demand a liquidity premium for lending longer; the premium rises with maturity. Long rate = expected short rates + premium. *Strength:* explains the usual upward slope. An inverted curve then signals a strong expected fall in rates.\n\n**3. Market segmentation theory.** Investors stay in their own maturity segment (banks short, insurers and pension funds long); each segment's yield is set by its own supply and demand. *Strength:* explains kinks and humps. *Critique:* ignores arbitrage between segments.\n\n**4. Preferred habitat theory (Modigliani-Sutch).** Investors prefer a segment but will move for a large enough premium. Combines expectations with segment premiums and can explain any shape.\n\n| Theory | Long rate set by | Explains usual upward slope? |\n|---|---|---|\n| Expectations | Expected short rates | Only if rises expected |\n| Liquidity preference | Expectations + rising premium | Yes |\n| Segmentation | Segment supply and demand | Yes, case by case |\n| Preferred habitat | Expectations + habitat premiums | Yes |\n\n**Indian G-sec curve:** usually upward-sloping, with demand concentrated in segments (banks hold short and medium G-secs for SLR; insurers and the EPFO buy 30-to-40-year bonds). Liquidity preference explains the general slope, and preferred habitat explains the kinks where institutional demand clusters and the long end where heavy government borrowing must be absorbed. So a **liquidity premium plus preferred habitat** explanation fits best.",
+    "marking_scheme": [
+      {
+        "point": "Pure expectations with formula and critique",
+        "marks": 2
+      },
+      {
+        "point": "Liquidity preference with critique",
+        "marks": 2
+      },
+      {
+        "point": "Market segmentation with critique",
+        "marks": 2
+      },
+      {
+        "point": "Preferred habitat",
+        "marks": 1.5
+      },
+      {
+        "point": "Comparison",
+        "marks": 1
+      },
+      {
+        "point": "Application to the Indian curve",
+        "marks": 1.5
+      }
+    ]
+  },
+  {
+    "id": "YC-2-01",
+    "node": "YC-2",
+    "unit": "Bond Market Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "A 2-year zero-coupon G-sec with face value ₹100 trades at ₹87.34. Its 2-year spot rate is approximately:",
+    "options": [
+      "A) 14.50%",
+      "B) 6.33%",
+      "C) 7.00%",
+      "D) 12.66%"
+    ],
+    "answer": "C",
+    "explanation": "s₂ = (100 ÷ 87.34)^(1/2) − 1 = √1.14495 − 1 = 7.00%. 14.50% is the total two-year return without the square root. 12.66% is (100 − 87.34) ÷ 100, the discount as a share of face. 6.33% halves that discount, a simple-interest shortcut that ignores compounding."
+  },
+  {
+    "id": "YC-2-02",
+    "node": "YC-2",
+    "unit": "Bond Market Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "The 1-year spot rate is 6.5% and the 2-year spot rate is 7.0%. The implied 1-year forward rate one year from now is approximately:",
+    "options": [
+      "A) 7.50%",
+      "B) 6.75%",
+      "C) 0.50%",
+      "D) 13.50%"
+    ],
+    "answer": "A",
+    "explanation": "₁f₁ = (1.07)² ÷ 1.065 − 1 = 1.1449 ÷ 1.065 − 1 = 7.50%. 6.75% is the simple average of the two spot rates. 0.50% is their difference. 13.50% adds them."
+  },
+  {
+    "id": "YC-2-03",
+    "node": "YC-2",
+    "unit": "Bond Market Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "On an upward-sloping yield curve, how do spot rates compare with par yields of the same maturity (beyond one year)?",
+    "options": [
+      "A) Spot rates are below par yields",
+      "B) Spot rates equal par yields",
+      "C) Spot rates are above par yields",
+      "D) There is no relationship"
+    ],
+    "answer": "C",
+    "explanation": "A par yield is a blend of all the spot rates up to that maturity. On a rising curve the earlier spot rates are lower, so the blend (par yield) is below the final spot rate. In the worked example the 3-year par yield is 7.00% and the 3-year spot is 7.048%. They are equal only for a flat curve or at one year."
+  },
+  {
+    "id": "YC-2-04",
+    "node": "YC-2",
+    "unit": "Bond Market Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "Bootstrapping is used to:",
+    "options": [
+      "A) Estimate a company's credit rating",
+      "B) Derive spot rates from coupon-bond prices, one maturity at a time",
+      "C) Compute duration from convexity",
+      "D) Convert clean prices into dirty prices"
+    ],
+    "answer": "B",
+    "explanation": "Bootstrapping strips each coupon bond's earlier coupons at already-known spot rates to solve for the next spot rate. Credit ratings come from rating agencies; duration and convexity are separate measures; dirty price = clean price + accrued interest."
+  },
+  {
+    "id": "YC-2-05",
+    "node": "YC-2",
+    "unit": "Bond Market Unit 3",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Spot rates are 7.0% for 1 year and 7.519% for 2 years. Find the price of a 2-year G-sec with a 9% annual coupon (face ₹100). Would you buy it at ₹103.50?",
+    "model_answer": "**Step 1: discount factors.** (1.07)¹ = 1.07; (1.07519)² = 1.15603.\n\n**Step 2: present values.**\n- Year 1 coupon: 9 ÷ 1.07 = 8.4112\n- Year 2 coupon + principal: 109 ÷ 1.15603 = 94.2882\n\n**Step 3: price** = 8.4112 + 94.2882 = **₹102.70**.\n\n**Decision:** at ₹103.50 the bond is about ₹0.80 above its fair value off the spot curve: it is **rich (overpriced)**. Don't buy; an investor could replicate its cash flows more cheaply with zero-coupon bonds.\n\n*Each cash flow is discounted at its own spot rate, not at a single YTM.*",
+    "marking_scheme": [
+      {
+        "point": "Discount factors",
+        "marks": 1
+      },
+      {
+        "point": "PV of each cash flow at its own spot rate",
+        "marks": 2
+      },
+      {
+        "point": "Price ₹102.70",
+        "marks": 1
+      },
+      {
+        "point": "Decision: rich, don't buy",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "YC-2-06",
+    "node": "YC-2",
+    "unit": "Bond Market Unit 3",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "hard",
+    "question": "Par yields on annual-coupon government bonds are: 1 year 7.0%, 2 years 7.5%, 3 years 8.0%.\n\n(a) Bootstrap the 1-, 2- and 3-year spot rates. (5)\n(b) Compute the 1-year forward rates for years 2 and 3, and the 2-year rate starting one year from now. (3)\n(c) What do the forward rates imply about expected interest rates? (2)",
+    "model_answer": "**(a) Spot rates.**\n\n*1 year:* the bond pays 107 for 100, so **s₁ = 7.000%**.\n\n*2 years:* the par bond pays 7.5 and 107.5.\n- PV of year-1 coupon = 7.5 ÷ 1.07 = 7.0093\n- Remaining = 100 − 7.0093 = 92.9907\n- (1+s₂)² = 107.5 ÷ 92.9907 = 1.15603\n- **s₂ = √1.15603 − 1 = 7.519%**\n\n*3 years:* the par bond pays 8, 8, 108.\n- PV of coupons = 8 ÷ 1.07 + 8 ÷ 1.15603 = 7.4766 + 6.9203 = 14.3969\n- Remaining = 100 − 14.3969 = 85.6031\n- (1+s₃)³ = 108 ÷ 85.6031 = 1.26164\n- **s₃ = 1.26164^(1/3) − 1 = 8.055%**\n\n**(b) Forward rates.**\n- ₁f₁ = 1.15603 ÷ 1.07 − 1 = **8.040%**\n- ₂f₁ = 1.26164 ÷ 1.15603 − 1 = **9.135%**\n- ₁f₂ = (1.26164 ÷ 1.07)^(1/2) − 1 = √1.17911 − 1 = **8.586%** (2-year rate starting in one year)\n\n**(c) Interpretation.** Forward rates (8.04%, 9.14%) are above the current 1-year rate (7%) and rise with time. Under the pure expectations theory, the market expects short-term rates to rise; under liquidity preference, part of the rise is a term premium. The curve is normal (upward-sloping), consistent with expected growth and possibly tighter policy ahead.",
+    "marking_scheme": [
+      {
+        "point": "s₁ = 7%",
+        "marks": 0.5
+      },
+      {
+        "point": "s₂ = 7.519% with working",
+        "marks": 2
+      },
+      {
+        "point": "s₃ = 8.055% with working",
+        "marks": 2.5
+      },
+      {
+        "point": "₁f₁ and ₂f₁",
+        "marks": 2
+      },
+      {
+        "point": "₁f₂ = 8.586%",
+        "marks": 1
+      },
+      {
+        "point": "Interpretation",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "YC-2-07",
+    "node": "YC-2",
+    "unit": "Bond Market Unit 3",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Zero-coupon G-secs (face ₹100) trade at ₹93.90 (1 year), ₹87.70 (2 years) and ₹81.80 (3 years). (a) Find the 1-, 2- and 3-year spot rates. (b) Find the 1-year forward rates for years 2 and 3. (c) Price a 3-year 5% annual-coupon G-sec.",
+    "model_answer": "**(a) Spot rates** sₙ = (100 ÷ P)^(1/n) − 1:\n- s₁ = 100 ÷ 93.90 − 1 = **6.50%**\n- s₂ = √(100 ÷ 87.70) − 1 = √1.14025 − 1 = **6.78%**\n- s₃ = (100 ÷ 81.80)^(1/3) − 1 = 1.22249^(1/3) − 1 = **6.93%**\n\n**(b) Forward rates.** With zero prices, (1+sₙ)ⁿ = 100 ÷ Pₙ, so ₜf₁ = Pₜ ÷ Pₜ₊₁ − 1:\n- ₁f₁ = 93.90 ÷ 87.70 − 1 = **7.07%**\n- ₂f₁ = 87.70 ÷ 81.80 − 1 = **7.21%**\n\n**(c) Price.** The zero prices are discount factors per ₹100, so the price = 5 × 0.9390 + 5 × 0.8770 + 105 × 0.8180 = 4.695 + 4.385 + 85.890 = **₹94.97**.\n\n*The curve is gently upward-sloping; forwards above spots imply slowly rising expected short rates.*",
+    "marking_scheme": [
+      {
+        "point": "Three spot rates",
+        "marks": 2
+      },
+      {
+        "point": "Two forward rates",
+        "marks": 1.5
+      },
+      {
+        "point": "Price ₹94.97 using discount factors",
+        "marks": 1.5
+      }
+    ]
+  },
+  {
+    "id": "YC-1-07",
+    "node": "YC-1",
+    "unit": "Bond Market Unit 3",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "medium",
+    "question": "\"The yield curve is the bond market's verdict on monetary policy and growth.\" Explain how the yield curve is shaped by RBI policy, inflation and government borrowing, how it is used as an economic signal, and what 'riding the yield curve' means.",
+    "model_answer": "**What sets each end.**\n- **Short end:** anchored by RBI's repo rate and liquidity operations; overnight rates and T-bills move almost one-for-one with policy.\n- **Long end:** reflects expected future short rates, expected inflation, a term premium, and supply: a larger fiscal deficit means heavier G-sec issuance and higher long yields.\n\n**Policy transmission.**\n- A **repo cut** pulls the short end down; if growth expectations hold, the curve **steepens**.\n- A **repo hike** lifts the short end; if markets expect the hike to slow growth and inflation, long yields rise less and the curve **flattens**, possibly **inverts**.\n- RBI's open market operations (buying or selling long G-secs) act directly on the long end.\n\n**As an economic signal.**\n- Normal, steep curve: expansion or early recovery.\n- Flat curve: late cycle, transition.\n- Inverted curve: markets expect rate cuts because growth is expected to slow; in the US an inversion of the 10-year minus 2-year spread has preceded most recessions.\n- The term spread (10-year minus 2-year or 91-day) is tracked as a leading indicator.\n\n**Riding the yield curve.** On an upward-sloping curve, an investor with a one-year horizon buys a two- or three-year bond instead of a one-year bill. As a year passes, the bond's remaining maturity shortens and it is valued at a lower point on the curve, so its price rises. Total return = coupon + roll-down gain, which beats the one-year yield **if the curve does not shift up**. The risk is that rates rise and the capital loss wipes out the roll-down.\n\n**Conclusion:** the short end tells you what RBI is doing; the long end tells you what the market expects about growth, inflation and fiscal supply. Their difference is the market's verdict.",
+    "marking_scheme": [
+      {
+        "point": "Short end and policy",
+        "marks": 2
+      },
+      {
+        "point": "Long end: expectations, inflation, supply",
+        "marks": 2
+      },
+      {
+        "point": "Repo changes and steepening or flattening",
+        "marks": 2
+      },
+      {
+        "point": "Curve as an economic signal",
+        "marks": 2
+      },
+      {
+        "point": "Riding the curve with its risk",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "YC-3-01",
+    "node": "YC-3",
+    "unit": "Bond Market Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "Which Excel function returns the yield to maturity of a bond given its clean price?",
+    "options": [
+      "A) PRICE",
+      "B) YIELD",
+      "C) MDURATION",
+      "D) ACCRINT"
+    ],
+    "answer": "B",
+    "explanation": "YIELD(settlement, maturity, rate, pr, redemption, frequency, basis) returns the YTM. PRICE does the reverse (price from yield). MDURATION returns modified duration. ACCRINT returns accrued interest."
+  },
+  {
+    "id": "YC-3-02",
+    "node": "YC-3",
+    "unit": "Bond Market Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "A 182-day Indian T-bill is priced at ₹96.60 (face ₹100). Using the Indian 365-day convention, its annualised yield is approximately:",
+    "options": [
+      "A) 3.40%",
+      "B) 6.96%",
+      "C) 7.06%",
+      "D) 6.82%"
+    ],
+    "answer": "C",
+    "explanation": "Yield = (100 − 96.60) ÷ 96.60 × 365 ÷ 182 = 0.035197 × 2.00549 = 7.06%. 3.40% is the discount for the 182 days, not annualised. 6.96% uses a 360-day year (the US convention behind Excel's TBILLYIELD). 6.82% divides by face value instead of price."
+  },
+  {
+    "id": "YC-3-03",
+    "node": "YC-3",
+    "unit": "Bond Market Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "The 3-year G-sec yield is 6.50% and the 5-year yield is 6.90%. Using linear interpolation, the 4-year yield is:",
+    "options": [
+      "A) 6.70%",
+      "B) 6.60%",
+      "C) 6.80%",
+      "D) 13.40%"
+    ],
+    "answer": "A",
+    "explanation": "y = 6.50 + (6.90 − 6.50) × (4 − 3) ÷ (5 − 3) = 6.50 + 0.20 = 6.70%. 4 years is exactly halfway between 3 and 5, so the yield is halfway between them. 6.60% and 6.80% use a quarter or three-quarters of the gap; 13.40% adds the yields."
+  },
+  {
+    "id": "YC-3-04",
+    "node": "YC-3",
+    "unit": "Bond Market Unit 3",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Explain the steps you would follow to construct and analyse a G-sec yield curve in Excel. Given 2-year, 5-year and 10-year yields of 6.60%, 7.10% and 7.30%, compute the slope and butterfly measures and interpret them.",
+    "model_answer": "**Steps.**\n1. Collect same-date G-sec data (FBIL, CCIL, RBI).\n2. Lay out maturity, coupon and price; compute YTM with `YIELD`.\n3. Bootstrap spot rates with formulas or Goal Seek; compute forward rates.\n4. Chart maturity against yield with an XY scatter (smooth line).\n5. Interpolate missing maturities with `FORECAST.LINEAR`.\n6. Measure level, slope and curvature; run parallel-shift scenarios with a Data Table.\n\n**Measures.**\n- Slope = 10-year − 2-year = 7.30 − 6.60 = **+70 bps**: an upward-sloping (normal) curve.\n- Butterfly = 2 × 5-year − 2-year − 10-year = 14.20 − 6.60 − 7.30 = **+30 bps**: the 5-year is high relative to the ends, so the belly is humped (concave), with most of the rise in yields coming between 2 and 5 years.\n\n**Interpretation:** markets expect rates to rise over the medium term, then level off; the curve is normal with a concave middle.",
+    "marking_scheme": [
+      {
+        "point": "Six workflow steps",
+        "marks": 2.5
+      },
+      {
+        "point": "Slope +70 bps",
+        "marks": 1
+      },
+      {
+        "point": "Butterfly +30 bps",
+        "marks": 1
+      },
+      {
+        "point": "Interpretation",
+        "marks": 0.5
+      }
+    ]
+  },
+  {
+    "id": "YC-4-01",
+    "node": "YC-4",
+    "unit": "Bond Market Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "Which Bloomberg function shows a bond's price, yield, spread over benchmark, duration and DV01 in one screen?",
+    "options": [
+      "A) DES",
+      "B) YAS",
+      "C) SRCH",
+      "D) WIRP"
+    ],
+    "answer": "B",
+    "explanation": "YAS (Yield and Spread Analysis) is the main bond pricing screen. DES gives the bond's description (issuer, coupon, maturity). SRCH screens for bonds by criteria. WIRP shows market-implied probabilities of central bank rate moves."
+  },
+  {
+    "id": "YC-4-02",
+    "node": "YC-4",
+    "unit": "Bond Market Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A corporate bond's spread over the same-maturity G-sec widens from 120 bps to 180 bps while G-sec yields are unchanged. The most likely reading is:",
+    "options": [
+      "A) The bond's credit or liquidity risk is seen as higher",
+      "B) RBI has cut the repo rate",
+      "C) The bond's coupon has risen",
+      "D) The G-sec curve has inverted"
+    ],
+    "answer": "A",
+    "explanation": "With the benchmark unchanged, a wider spread means investors demand more compensation for the bond's own risk: credit or liquidity. A repo cut or a curve inversion would move G-sec yields, which the question rules out. A bond's coupon is fixed at issue."
+  },
+  {
+    "id": "YC-4-03",
+    "node": "YC-4",
+    "unit": "Bond Market Unit 3",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "Explain how the Bloomberg terminal is used in bond pricing and data interpretation. Name and explain at least five functions.",
+    "model_answer": "The Bloomberg terminal gives real-time and historical data, analytics and news for bond markets. A user types the security, a market-sector key (Govt, Corp) and a function.\n\n1. **DES:** the bond's description: issuer, coupon, maturity, rating, call features, day-count.\n2. **YAS:** yield and spread analysis: price ↔ yield, YTM/YTC/yield to worst, spreads over the G-sec curve, modified duration, DV01 and convexity.\n3. **GC:** plots government yield curves today and in the past, to see shifts, steepening or inversion.\n4. **SRCH:** screens bonds by issuer, rating, maturity and coupon to build a shortlist.\n5. **ALLQ / FIT:** live dealer quotes, showing liquidity and the best price.\n6. **BVAL:** evaluated prices for thinly traded bonds.\n\n**Interpretation:** compare a bond's spread over time and against similar ratings; read curve moves against RBI policy (WIRP shows implied rate changes); check the price source and liquidity before trusting a yield.",
+    "marking_scheme": [
+      {
+        "point": "Purpose of the terminal",
+        "marks": 1
+      },
+      {
+        "point": "Five functions explained",
+        "marks": 3
+      },
+      {
+        "point": "Interpretation points",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "YC-5-01",
+    "node": "YC-5",
+    "unit": "Bond Market Unit 3",
+    "type": "case",
+    "marks": 15,
+    "difficulty": "hard",
+    "question": "**Case: is the 6% G-sec cheap?** A treasury desk sees the following par yields on annual-coupon government bonds: 1 year 7.0%, 2 years 7.5%, 3 years 8.0%. A 3-year G-sec with a 6% annual coupon (face ₹100) trades at ₹93.90. A junior dealer says: \"Its YTM is about 8%, the same as the 3-year par yield, so it's fairly priced.\"\n\n(a) Bootstrap the spot rates for years 1 to 3. (5)\n(b) Compute the 1-year forward rates for years 2 and 3. (2)\n(c) Value the 6% bond using the spot rates and compare with the market price. (3)\n(d) Is the dealer's reasoning correct? Advise the desk. (3)\n(e) What does the shape of this curve suggest about expected interest rates and monetary policy? (2)",
+    "model_answer": "**(a) Spot rates.**\n- s₁ = **7.000%** (1-year par bond: 107 ÷ 100 − 1).\n- 2 years: 100 − 7.5 ÷ 1.07 = 92.9907; (1+s₂)² = 107.5 ÷ 92.9907 = 1.15603; **s₂ = 7.519%**.\n- 3 years: 100 − 8 ÷ 1.07 − 8 ÷ 1.15603 = 100 − 7.4766 − 6.9203 = 85.6031; (1+s₃)³ = 108 ÷ 85.6031 = 1.26164; **s₃ = 8.055%**.\n\n**(b) Forward rates.** ₁f₁ = 1.15603 ÷ 1.07 − 1 = **8.040%**; ₂f₁ = 1.26164 ÷ 1.15603 − 1 = **9.135%**.\n\n**(c) Value of the 6% bond.**\n\n| Year | Cash flow | Discount factor | PV |\n|---|---|---|---|\n| 1 | 6 | 1.07 | 5.6075 |\n| 2 | 6 | 1.15603 | 5.1902 |\n| 3 | 106 | 1.26164 | 84.0179 |\n| | | **Fair value** | **94.82** |\n\nMarket price ₹93.90 is **₹0.92 below** fair value: the bond is **cheap**.\n\n**(d) The dealer's reasoning.** Wrong on two counts. First, a single YTM assumes a flat curve; on a rising curve, a low-coupon bond has more of its value in the final payment, which should be discounted at the highest (3-year) spot rate, so its fair YTM is about 8.01% (above the 8.0% par yield), not equal to it. Second, the right test is price against the spot-curve value, not YTM against a par yield. At ₹93.90 its YTM is above the yield the curve justifies. **Advice: buy** the bond (or buy it and sell the replicating zero-coupon strips), provided liquidity is adequate.\n\n**(e) Curve shape.** Normal and upward-sloping (7.0 → 8.0%), with forwards rising to 9.1%. Under the expectations theory, markets expect short rates to rise; under liquidity preference, part is a term premium. This is consistent with an RBI expected to hold or tighten, and with steady growth and inflation expectations; it gives no recession signal (that would be an inverted curve).\n\n*The verdict holds only if all yields are for the same date and the bond is of the same sovereign credit quality.*",
+    "marking_scheme": [
+      {
+        "point": "Spot rates with working",
+        "marks": 4.5
+      },
+      {
+        "point": "s₁ stated",
+        "marks": 0.5
+      },
+      {
+        "point": "Forward rates",
+        "marks": 2
+      },
+      {
+        "point": "Spot-curve value ₹94.82",
+        "marks": 2.5
+      },
+      {
+        "point": "Cheap by ₹0.92",
+        "marks": 0.5
+      },
+      {
+        "point": "Critique of the YTM reasoning",
+        "marks": 2
+      },
+      {
+        "point": "Advice",
+        "marks": 1
+      },
+      {
+        "point": "Curve interpretation",
+        "marks": 2
+      }
+    ]
+  }
+]

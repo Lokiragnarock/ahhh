@@ -1,0 +1,410 @@
+[
+  {
+    "id": "FA-1-01",
+    "node": "FA-1",
+    "unit": "SAPM Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "In the EIC framework, the correct top-down order of analysis is:",
+    "options": [
+      "A) Company → industry → economy",
+      "B) Economy → industry → company",
+      "C) Industry → company → economy",
+      "D) Company → economy → industry"
+    ],
+    "answer": "B",
+    "explanation": "Top-down analysis starts with the economy (the ceiling for all firms), narrows to the industry (competitive context) and ends with the company (the investment thesis). Starting from the company is the bottom-up approach."
+  },
+  {
+    "id": "FA-1-02",
+    "node": "FA-1",
+    "unit": "SAPM Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Which of the following is a leading economic indicator?",
+    "options": [
+      "A) Unemployment rate",
+      "B) Purchasing Managers' Index (PMI)",
+      "C) CPI inflation",
+      "D) Interest rates on bank loans"
+    ],
+    "answer": "B",
+    "explanation": "PMI surveys new orders and business conditions and turns before the economy does. Unemployment, CPI inflation and loan rates are lagging indicators that change after the economy has turned."
+  },
+  {
+    "id": "FA-1-03",
+    "node": "FA-1",
+    "unit": "SAPM Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "During an economic contraction, which sector is most likely to hold up best?",
+    "options": [
+      "A) Automobiles",
+      "B) Capital goods",
+      "C) FMCG",
+      "D) Real estate"
+    ],
+    "answer": "C",
+    "explanation": "FMCG is defensive: people keep buying daily necessities in a slowdown. Automobiles, capital goods and real estate are cyclical and suffer most in contractions."
+  },
+  {
+    "id": "FA-1-04",
+    "node": "FA-1",
+    "unit": "SAPM Unit 2",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "Explain the EIC framework of fundamental analysis. Why is the analysis done top-down?",
+    "model_answer": "**Fundamental analysis** estimates intrinsic value by examining the factors that drive a company's earnings, growth and risk. It is done at three levels:\n\n| Level | What is assessed | Key signals |\n|---|---|---|\n| Economy | Macro environment | GDP growth, inflation, interest rates, fiscal and monetary policy, exchange rate, business cycle |\n| Industry | Competitive context | Life-cycle stage, entry barriers, rivalry, regulation (five forces) |\n| Company | The investment target | Management, moat, governance, financial statements, ratios, valuation |\n\n**Why top-down:** each level is a filter. The economy sets the ceiling every company operates under; the industry sets what growth is available inside that ceiling; only then does company analysis decide which firm captures it. Screening macro and structural risks first avoids wasting effort on a strong company in a collapsing industry or a recession, and focuses analysis on company-specific factors where it adds value.",
+    "marking_scheme": [
+      {
+        "point": "Definition",
+        "marks": 1
+      },
+      {
+        "point": "Three levels with signals",
+        "marks": 2.5
+      },
+      {
+        "point": "Reason for top-down order",
+        "marks": 1.5
+      }
+    ]
+  },
+  {
+    "id": "FA-2-01",
+    "node": "FA-2",
+    "unit": "SAPM Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "In which stage of the industry life cycle are investors most likely to find the best risk-reward opportunities?",
+    "options": [
+      "A) Introduction",
+      "B) Growth",
+      "C) Maturity",
+      "D) Decline"
+    ],
+    "answer": "B",
+    "explanation": "In the growth stage demand rises fast and margins improve while the industry's survival is no longer in doubt. Introduction is speculative; maturity offers steady dividends but slower growth; decline should usually be avoided."
+  },
+  {
+    "id": "FA-2-02",
+    "node": "FA-2",
+    "unit": "SAPM Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Which of the following increases the attractiveness (profitability) of an industry under Porter's five forces?",
+    "options": [
+      "A) Low entry barriers",
+      "B) Many close substitutes",
+      "C) High switching costs for buyers",
+      "D) A few powerful suppliers"
+    ],
+    "answer": "C",
+    "explanation": "High switching costs reduce buyers' bargaining power, protecting margins. Low entry barriers invite competitors, substitutes cap prices, and powerful suppliers squeeze margins."
+  },
+  {
+    "id": "FA-2-03",
+    "node": "FA-2",
+    "unit": "SAPM Unit 2",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Explain the industry life cycle and its implications for an equity investor.",
+    "model_answer": "*(Draw an S-shaped curve of industry sales over time with four labelled stages.)*\n\n1. **Introduction (pioneering):** few firms, new product, high costs, uncertain demand; earnings negative or erratic; heavy capital needs. *Implication:* speculative; most firms may fail.\n2. **Growth (expansion):** demand rises fast, margins improve, new entrants arrive. *Implication:* best risk-reward window; pick the likely winners.\n3. **Maturity (stabilisation):** growth slows to GDP rate, competition is intense, weaker firms consolidate out; firms are cash-generative and pay dividends. *Implication:* steady returns, income stocks; value by dividends and cash flow.\n4. **Decline:** demand shrinks through substitution or obsolescence; firms exit. *Implication:* avoid unless there is a turnaround or high-dividend harvest thesis.\n\n**Key point:** ratios must be read for the stage: cash burn is normal in introduction; flat revenue is normal in maturity.",
+    "marking_scheme": [
+      {
+        "point": "Four stages with characteristics",
+        "marks": 3
+      },
+      {
+        "point": "Investor implication for each",
+        "marks": 1.5
+      },
+      {
+        "point": "Reading ratios by stage",
+        "marks": 0.5
+      }
+    ]
+  },
+  {
+    "id": "FA-2-04",
+    "node": "FA-2",
+    "unit": "SAPM Unit 2",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "medium",
+    "question": "Explain economy and industry analysis as parts of fundamental analysis. Which economic variables and industry factors should an analyst study, and how do they affect the choice of shares?",
+    "model_answer": "**Fundamental analysis** works top-down (EIC): economy → industry → company. Economy and industry analysis set the context before any company is chosen.\n\n**Economy analysis (the ceiling).**\n- *GDP growth:* aggregate corporate revenue tracks output.\n- *Inflation:* squeezes margins of firms without pricing power and pushes up interest rates.\n- *Interest rates:* the discount rate for all cash flows; higher rates compress valuations and hurt leveraged firms.\n- *Fiscal policy:* government spending and taxes shift demand between sectors (infrastructure spend lifts cement, steel).\n- *Monetary policy:* RBI's repo rate and liquidity push money into or out of equities.\n- *Exchange rate:* a weak rupee helps exporters (IT, pharma), hurts importers.\n- *Business cycle:* cyclicals lead in expansion; defensives (FMCG, pharma) hold up in contraction.\n- *Indicators:* leading (PMI, stock index), coincident (IIP, GDP), lagging (unemployment, CPI).\n\n**Industry analysis (the context).**\n- *Life-cycle stage:* introduction (speculative), growth (best risk-reward), maturity (dividends), decline (avoid).\n- *Porter's five forces:* entry barriers, supplier and buyer power, substitutes, rivalry.\n- *Classification:* growth, cyclical, defensive industries.\n- *Other factors:* cost structure and operating leverage, government regulation and incentives (PLI), technology and disruption, raw materials, labour, demand outlook, ESG rules.\n- *Positioning:* low cost vs differentiation; avoid stuck in the middle.\n\n**Effect on share selection.** The analyst overweights sectors favoured by the current economic phase and industries in the growth stage with favourable five forces, then picks the strongest companies within them. A strong company in a declining industry during a downturn faces a lower ceiling than a similar firm in a growing industry.",
+    "marking_scheme": [
+      {
+        "point": "EIC context",
+        "marks": 1
+      },
+      {
+        "point": "Economic variables with effects",
+        "marks": 3
+      },
+      {
+        "point": "Business cycle and indicators",
+        "marks": 1.5
+      },
+      {
+        "point": "Industry life cycle and five forces",
+        "marks": 2.5
+      },
+      {
+        "point": "Other industry factors and positioning",
+        "marks": 1
+      },
+      {
+        "point": "Effect on share selection",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "FA-3-01",
+    "node": "FA-3",
+    "unit": "SAPM Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A company's net profit rose 25% this year while its cash flow from operations fell 30%. The most likely concern is:",
+    "options": [
+      "A) The company is too liquid",
+      "B) Profits may be accrual-driven, e.g. rising receivables or inventory",
+      "C) The company has paid too high a dividend",
+      "D) Its P/E ratio is too low"
+    ],
+    "answer": "B",
+    "explanation": "When profit rises but operating cash falls, the profit is not turning into cash: often uncollected sales (receivables), inventory build-up or aggressive accounting. Liquidity, dividends and the P/E don't explain the divergence."
+  },
+  {
+    "id": "FA-3-02",
+    "node": "FA-3",
+    "unit": "SAPM Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "Which financial statement best shows whether a company's reported profit has turned into cash?",
+    "options": [
+      "A) Profit and loss account",
+      "B) Balance sheet",
+      "C) Cash flow statement",
+      "D) Directors' report"
+    ],
+    "answer": "C",
+    "explanation": "The cash flow statement's operating section shows cash actually generated; comparing it with net profit tests earnings quality. The P&L shows accrual profit; the balance sheet shows position at a date; the directors' report is narrative."
+  },
+  {
+    "id": "FA-3-04",
+    "node": "FA-3",
+    "unit": "SAPM Unit 2",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Explain how qualitative and quantitative factors are used in company analysis. Why should qualitative factors be assessed first?",
+    "model_answer": "**Qualitative factors**\n1. Management quality and track record (delivery on guidance, capital allocation, succession).\n2. Competitive advantage (moat): brand, patents, switching costs, network effects, cost leadership.\n3. Corporate governance: board independence, related-party transactions, promoter holding and pledging, auditor quality.\n4. Business model, products, market share, pricing power.\n\n**Quantitative factors**\n1. **P&L:** revenue growth, margins, profit trend.\n2. **Balance sheet:** liquidity, debt, capital structure, asset base.\n3. **Cash flow:** operating cash vs profit (earnings quality), capex, funding.\n4. **Ratios** (profitability, solvency, efficiency, valuation) benchmarked to the industry, and **valuation** with a margin of safety.\n\n**Why qualitative first:** management, moat and governance decide whether the reported numbers can be trusted at all. A company with weak governance or aggressive accounting can show excellent ratios that don't reflect reality, so the numbers are only meaningful once the qualitative checks pass.",
+    "marking_scheme": [
+      {
+        "point": "Qualitative factors",
+        "marks": 2
+      },
+      {
+        "point": "Quantitative factors",
+        "marks": 2
+      },
+      {
+        "point": "Reason for order",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "FA-4-01",
+    "node": "FA-4",
+    "unit": "SAPM Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Firm A has a net margin of 5%, asset turnover of 2.0 and an equity multiplier of 2.0. Firm B has a net margin of 10%, asset turnover of 1.0 and an equity multiplier of 1.2. Which statement is correct?",
+    "options": [
+      "A) A's ROE is 20% and B's is 12%; A's higher ROE relies on turnover and leverage",
+      "B) Both have an ROE of 10%",
+      "C) B's ROE is higher because its margin is higher",
+      "D) A's ROE is 9%"
+    ],
+    "answer": "A",
+    "explanation": "Du Pont: A = 5% × 2.0 × 2.0 = 20%; B = 10% × 1.0 × 1.2 = 12%. A earns a higher ROE despite half the margin, through faster asset turnover and twice the leverage. A higher margin alone doesn't give a higher ROE; 9% adds the components instead of multiplying."
+  },
+  {
+    "id": "FA-4-02",
+    "node": "FA-4",
+    "unit": "SAPM Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "A company has EBIT of ₹160 crore and interest expense of ₹60 crore. Its interest coverage ratio is:",
+    "options": [
+      "A) 0.375×",
+      "B) 2.67×",
+      "C) 100×",
+      "D) 1.6×"
+    ],
+    "answer": "B",
+    "explanation": "Interest coverage = EBIT ÷ interest = 160 ÷ 60 = 2.67 times. 0.375 inverts the ratio; 100 is EBIT minus interest in rupees; 1.6 divides by 100."
+  },
+  {
+    "id": "FA-4-03",
+    "node": "FA-4",
+    "unit": "SAPM Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Why is the quick ratio more conservative than the current ratio?",
+    "options": [
+      "A) It includes long-term debt",
+      "B) It excludes inventory, the current asset least easily turned into cash",
+      "C) It uses market values instead of book values",
+      "D) It excludes cash"
+    ],
+    "answer": "B",
+    "explanation": "Quick ratio = (current assets − inventory) ÷ current liabilities. Inventory may take time to sell or be sold at a discount, so excluding it tests whether the firm can meet short-term obligations without relying on stock. It doesn't include long-term debt, use market values or exclude cash."
+  },
+  {
+    "id": "FA-4-04",
+    "node": "FA-4",
+    "unit": "SAPM Unit 2",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "hard",
+    "question": "**Kaveri Foods Ltd (fictional), ₹ crore.** Revenue 800; cost of goods sold 520; operating expenses 120; interest 60; tax rate 25%. Total assets 1,000 (current assets 300, of which inventory 120); current liabilities 200; long-term debt 350; equity 450. Shares outstanding 5 crore; market price ₹180; dividend per share ₹3; cash flow from operations ₹95 crore. Industry averages: ROE 14%, D/E 0.6, P/E 14, current ratio 1.5, interest coverage 4×.\n\n(a) Compute EPS, ROE, ROA, net profit margin, current ratio, quick ratio, debt-to-equity, interest coverage, P/E, P/B and dividend yield. (6)\n(b) Decompose ROE using Du Pont. (2)\n(c) Interpret the company's profitability, solvency and valuation against the industry. (2)",
+    "model_answer": "**Workings.** EBIT = 800 − 520 − 120 = **160**; PBT = 160 − 60 = 100; tax 25; **PAT = 75**.\n\n**(a)**\n\n| Ratio | Working | Value | Industry |\n|---|---|---|---|\n| EPS | 75 ÷ 5 | **₹15** | |\n| ROE | 75 ÷ 450 | **16.7%** | 14% |\n| ROA | 75 ÷ 1,000 | **7.5%** | |\n| Net margin | 75 ÷ 800 | **9.4%** | |\n| Current ratio | 300 ÷ 200 | **1.5** | 1.5 |\n| Quick ratio | (300 − 120) ÷ 200 | **0.9** | |\n| D/E | 350 ÷ 450 | **0.78** | 0.6 |\n| Interest coverage | 160 ÷ 60 | **2.67×** | 4× |\n| P/E | 180 ÷ 15 | **12.0** | 14 |\n| P/B | 180 ÷ (450 ÷ 5 = 90) | **2.0** | |\n| Dividend yield | 3 ÷ 180 | **1.67%** | |\n\n**(b) Du Pont:** net margin 9.375% × asset turnover (800 ÷ 1,000 = 0.8) × equity multiplier (1,000 ÷ 450 = 2.222) = **16.7%**.\n\n**(c) Interpretation.** ROE (16.7%) beats the industry (14%), but Du Pont shows a high equity multiplier (2.22) doing much of the work: the margin is modest. Leverage is above the industry (D/E 0.78 vs 0.6) and interest cover is thin (2.67× vs 4×), so financial risk is high. Liquidity is adequate (current ratio 1.5) but the quick ratio of 0.9 relies on inventory. Valuation is cheap (P/E 12 vs 14), and cash conversion is good (CFO 95 vs PAT 75). **Verdict:** a reasonably cheap, cash-generative firm whose above-average ROE is partly debt-driven: attractive only with a margin of safety and watching interest cover.",
+    "marking_scheme": [
+      {
+        "point": "PAT workings",
+        "marks": 1
+      },
+      {
+        "point": "Profitability ratios",
+        "marks": 1.5
+      },
+      {
+        "point": "Liquidity and solvency ratios",
+        "marks": 2
+      },
+      {
+        "point": "Valuation ratios",
+        "marks": 1.5
+      },
+      {
+        "point": "Du Pont",
+        "marks": 2
+      },
+      {
+        "point": "Interpretation vs industry",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "FA-5-01",
+    "node": "FA-5",
+    "unit": "SAPM Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "An analyst estimates intrinsic value at ₹210. The share trades at ₹180. The margin of safety is about:",
+    "options": [
+      "A) 16.7%",
+      "B) 14.3%",
+      "C) 30%",
+      "D) 85.7%"
+    ],
+    "answer": "B",
+    "explanation": "Margin of safety = (210 − 180) ÷ 210 = 30 ÷ 210 = 14.3%. 16.7% divides by the price instead of the intrinsic value; 30 is the rupee gap; 85.7% is price ÷ value."
+  },
+  {
+    "id": "FA-5-02",
+    "node": "FA-5",
+    "unit": "SAPM Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Intrinsic value is ₹210 and the investor requires a 20% margin of safety. The maximum price she should pay is:",
+    "options": [
+      "A) ₹168",
+      "B) ₹175",
+      "C) ₹190",
+      "D) ₹252"
+    ],
+    "answer": "A",
+    "explanation": "Maximum buy price = intrinsic value × (1 − 0.20) = 210 × 0.80 = ₹168. ₹175 divides 210 by 1.2; ₹190 subtracts only ₹20; ₹252 adds 20%."
+  },
+  {
+    "id": "FA-5-03",
+    "node": "FA-5",
+    "unit": "SAPM Unit 2",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "Explain the margin of safety concept. Why should an investor not buy a share at its estimated intrinsic value?",
+    "model_answer": "**Concept (Benjamin Graham).** The margin of safety is the gap an investor deliberately leaves between a share's estimated intrinsic value and the price paid:\n**Margin of safety = (Intrinsic value − Market price) ÷ Intrinsic value × 100.**\n\n**Why not buy at intrinsic value:** every valuation input (growth, discount rate, margins) is an estimate and may be wrong; unforeseeable events can hurt the business. Buying at the estimate leaves no room for error, so any mistake becomes a loss. The margin is the buffer that absorbs the error in your own analysis.\n\n**How large:** larger for uncertain, cyclical, leveraged or poorly governed firms; smaller for stable, predictable ones. Maximum buy price = intrinsic value × (1 − required margin).\n\n*Example:* intrinsic value ₹210, price ₹180: margin 14.3%; for a 20% margin, buy below ₹168.\n\n**Benefit:** protection against error and bad luck, plus upside when price returns to value; it forces a disciplined, numerical recommendation.",
+    "marking_scheme": [
+      {
+        "point": "Concept and formula",
+        "marks": 1.5
+      },
+      {
+        "point": "Why not buy at intrinsic value",
+        "marks": 1.5
+      },
+      {
+        "point": "Required size and max buy price",
+        "marks": 1
+      },
+      {
+        "point": "Example",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "FA-6-01",
+    "node": "FA-6",
+    "unit": "SAPM Unit 2",
+    "type": "case",
+    "marks": 15,
+    "difficulty": "hard",
+    "question": "**Case: should a fund buy Kaveri Foods?** **Kaveri Foods Ltd (fictional), ₹ crore.** Revenue 800; cost of goods sold 520; operating expenses 120; interest 60; tax rate 25%. Total assets 1,000 (current assets 300, of which inventory 120); current liabilities 200; long-term debt 350; equity 450. Shares outstanding 5 crore; market price ₹180; dividend per share ₹3; cash flow from operations ₹95 crore. Industry averages: ROE 14%, D/E 0.6, P/E 14, current ratio 1.5, interest coverage 4×.\n\nContext: India's GDP is growing at about 6.5%; food inflation is easing; RBI has paused rate hikes. The packaged-foods industry is in its growth stage, with rising rural demand but intense competition from large FMCG brands. Kaveri's promoters hold 55% with no pledging; the founder-CEO has met guidance in four of the last five years.\n\n(a) Place the company in the EIC framework. (3)\n(b) Compute and benchmark the key profitability, solvency and valuation ratios, and check earnings quality. (6)\n(c) Estimate intrinsic value using the industry P/E and compute the margin of safety. (3)\n(d) Give your investment recommendation with reasons. (3)",
+    "model_answer": "**(a) EIC.**\n- *Economy:* supportive: steady growth (6.5%), easing inflation, RBI on pause; lower rate pressure helps a leveraged firm.\n- *Industry:* packaged foods in the growth stage (best risk-reward), but rivalry from large FMCG brands is intense (five forces: high rivalry, strong buyer choice).\n- *Company:* clean governance (no pledging, 55% promoter stake), credible management (guidance met 4 of 5 years).\n\n**(b) Ratios** (PAT = 75 after EBIT 160, interest 60, tax 25):\n\n| Ratio | Value | Industry | Reading |\n|---|---|---|---|\n| ROE | 16.7% | 14% | Better |\n| Net margin | 9.4% | | Modest |\n| D/E | 0.78 | 0.6 | Higher leverage |\n| Interest coverage | 2.67× | 4× | Weak |\n| Current ratio | 1.5 | 1.5 | In line |\n| Quick ratio | 0.9 | | Relies on inventory |\n| P/E | 12 | 14 | Cheaper |\n| P/B | 2.0 | | |\n\nDu Pont: 9.375% × 0.8 × 2.222 = 16.7%: a large part of ROE comes from leverage.\n**Earnings quality:** CFO 95 vs PAT 75 → **1.27**: profits are well backed by cash, a positive sign.\n\n**(c) Valuation.** Intrinsic value = EPS × industry P/E = 15 × 14 = **₹210**. Margin of safety = (210 − 180) ÷ 210 = **14.3%**. For a 20% margin, buy below ₹168.\n\n**(d) Recommendation: Buy (accumulate), with conditions.** Supportive macro, a growth-stage industry, clean governance and strong cash conversion; the share trades 14% below its peer-based value. Risks: above-industry leverage and thin interest cover (2.67×) in an intensely competitive industry. Build the position gradually; add more below ₹168 (20% margin); review if interest cover falls below 2× or margins come under pressure from the big brands.",
+    "marking_scheme": [
+      {
+        "point": "EIC placement",
+        "marks": 3
+      },
+      {
+        "point": "Ratios computed and benchmarked",
+        "marks": 4
+      },
+      {
+        "point": "Du Pont and earnings quality",
+        "marks": 2
+      },
+      {
+        "point": "Intrinsic value and margin of safety",
+        "marks": 3
+      },
+      {
+        "point": "Recommendation with conditions",
+        "marks": 3
+      }
+    ]
+  }
+]

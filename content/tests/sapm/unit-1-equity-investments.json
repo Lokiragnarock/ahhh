@@ -1,0 +1,365 @@
+[
+  {
+    "id": "EI-1-01",
+    "node": "EI-1",
+    "unit": "SAPM Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "Which activity aims to earn a riskless profit by simultaneously buying and selling the same asset in two markets?",
+    "options": [
+      "A) Investment",
+      "B) Speculation",
+      "C) Arbitrage",
+      "D) Gambling"
+    ],
+    "answer": "C",
+    "explanation": "Arbitrage exploits a price difference with simultaneous trades, so in principle it carries no price risk. Investment and speculation both bear price risk over a holding period; gambling depends on chance."
+  },
+  {
+    "id": "EI-1-02",
+    "node": "EI-1",
+    "unit": "SAPM Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A trader borrows money to buy a stock he expects to jump after next week's results, planning to sell immediately afterwards. This is best described as:",
+    "options": [
+      "A) Investment",
+      "B) Speculation",
+      "C) Arbitrage",
+      "D) Hedging"
+    ],
+    "answer": "B",
+    "explanation": "A short horizon, borrowed funds and a bet on a price move make this speculation. Investment is long-term and based on fundamentals. Arbitrage needs simultaneous offsetting trades. Hedging reduces an existing risk rather than taking a new one."
+  },
+  {
+    "id": "EI-1-03",
+    "node": "EI-1",
+    "unit": "SAPM Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A share trades at ₹820 on NSE and ₹823 on BSE at the same moment. Ignoring costs, the arbitrage profit on 500 shares is:",
+    "options": [
+      "A) ₹1,500 by buying on BSE and selling on NSE",
+      "B) ₹1,500 by buying on NSE and selling on BSE",
+      "C) ₹3,000",
+      "D) Nil, because arbitrage is illegal"
+    ],
+    "answer": "B",
+    "explanation": "Buy where cheaper (NSE, ₹820) and sell where dearer (BSE, ₹823): 3 × 500 = ₹1,500. Doing it the other way round loses ₹1,500. ₹3,000 doubles the gap. Arbitrage between exchanges is legal and helps align prices."
+  },
+  {
+    "id": "EI-1-04",
+    "node": "EI-1",
+    "unit": "SAPM Unit 1",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "Distinguish between investment, speculation and gambling.",
+    "model_answer": "| Basis | Investment | Speculation | Gambling |\n|---|---|---|---|\n| Horizon | Long term | Short term | One event / very short |\n| Risk | Moderate, calculated | High, calculated | Very high, uncalculated |\n| Return sought | Moderate, steady (dividends + growth) | High, from price changes | Very high, from chance |\n| Basis | Fundamental analysis | Technical analysis, market information | Luck, rumour |\n| Funds | Own | Often borrowed | Own or borrowed |\n| Economic role | Productive: funds companies | Liquidity, price discovery | None |\n| Legality | Legal, encouraged | Legal, regulated | Often illegal |\n\n**Conclusion:** the difference lies in the person's horizon, risk attitude and basis of decision, not the asset: the same share can be an investment for one person and a speculation for another.",
+    "marking_scheme": [
+      {
+        "point": "At least five bases of distinction",
+        "marks": 4
+      },
+      {
+        "point": "Conclusion",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "EI-2-01",
+    "node": "EI-2",
+    "unit": "SAPM Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "Which of the following is a systematic risk?",
+    "options": [
+      "A) A labour strike at one company",
+      "B) A rise in inflation across the economy",
+      "C) A company's heavy borrowing",
+      "D) Thin trading in a small-cap stock"
+    ],
+    "answer": "B",
+    "explanation": "Inflation affects all securities, so it is systematic (purchasing power) risk and can't be diversified away. A strike is business risk, heavy borrowing is financial risk, and thin trading is liquidity risk: all specific to particular companies."
+  },
+  {
+    "id": "EI-2-02",
+    "node": "EI-2",
+    "unit": "SAPM Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Two companies in the same industry have identical operations, but Company X is financed entirely by equity and Company Y is 60% debt-financed. Y has higher:",
+    "options": [
+      "A) Business risk",
+      "B) Financial risk",
+      "C) Market risk",
+      "D) Purchasing power risk"
+    ],
+    "answer": "B",
+    "explanation": "Debt adds fixed interest obligations that magnify the variability of shareholders' returns: financial risk. Business risk comes from operations, which are identical here. Market and purchasing power risk are systematic and affect both firms alike."
+  },
+  {
+    "id": "EI-2-03",
+    "node": "EI-2",
+    "unit": "SAPM Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "Unsystematic risk can be reduced mainly by:",
+    "options": [
+      "A) Holding cash",
+      "B) Diversification across companies and sectors",
+      "C) Buying only blue-chip stocks",
+      "D) Increasing the holding period"
+    ],
+    "answer": "B",
+    "explanation": "Company-specific risks offset each other in a portfolio of many unrelated stocks. Holding cash avoids equity risk altogether rather than reducing unsystematic risk. A single blue-chip stock still has its own specific risk. A longer holding period doesn't remove company-specific events."
+  },
+  {
+    "id": "EI-2-04",
+    "node": "EI-2",
+    "unit": "SAPM Unit 1",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "medium",
+    "question": "Explain the meaning of risk in equity investment. Discuss systematic and unsystematic risk, explaining market, business, financial and liquidity risk with examples. How can an investor manage each?",
+    "model_answer": "**Meaning.** Risk is the possibility that actual return differs from expected return, especially falls short. It is measured by the standard deviation of returns. Total risk = systematic + unsystematic.\n\n**Systematic risk** (economy-wide, non-diversifiable, measured by beta):\n- *Market risk:* swings in overall market sentiment (bull and bear phases); in a crash (March 2020) even sound shares fall.\n- *Interest rate risk:* rising rates raise required returns and lower share prices.\n- *Purchasing power risk:* inflation erodes real returns.\n\n**Unsystematic risk** (company/industry-specific, diversifiable):\n- *Business risk:* variability in operating income from demand, competition, costs, technology, strikes (e.g. a pharma firm's plant receiving a regulatory warning).\n- *Financial risk:* variability added by debt; fixed interest magnifies EPS swings and raises default risk (e.g. a highly leveraged infrastructure company).\n- *Liquidity risk:* inability to sell quickly at a fair price (thinly traded small-caps, stocks stuck at circuit limits).\n\n| Basis | Systematic | Unsystematic |\n|---|---|---|\n| Source | Economy | Company/industry |\n| Diversifiable | No | Yes |\n| Measure | Beta | Residual variance |\n| Rewarded | Yes | No |\n\n**Managing risk.** Systematic: asset allocation (equity/debt/gold), hedging with index futures and options, matching equity to long horizons. Unsystematic: diversification across 15–20 stocks in different sectors, research into business and debt levels, preferring liquid stocks.",
+    "marking_scheme": [
+      {
+        "point": "Meaning and measurement",
+        "marks": 1.5
+      },
+      {
+        "point": "Systematic risks with examples",
+        "marks": 2.5
+      },
+      {
+        "point": "Business, financial, liquidity risk with examples",
+        "marks": 3
+      },
+      {
+        "point": "Comparison",
+        "marks": 1
+      },
+      {
+        "point": "Risk management",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "EI-3-01",
+    "node": "EI-3",
+    "unit": "SAPM Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "An investor buys a share at ₹400, receives a dividend of ₹12 and sells it a year later at ₹440. The holding period return is:",
+    "options": [
+      "A) 10%",
+      "B) 13%",
+      "C) 3%",
+      "D) 11.8%"
+    ],
+    "answer": "B",
+    "explanation": "HPR = (440 − 400 + 12) ÷ 400 = 52 ÷ 400 = 13%. 10% is the capital gain alone; 3% is the dividend yield alone; 11.8% divides by the selling price instead of the purchase price."
+  },
+  {
+    "id": "EI-3-02",
+    "node": "EI-3",
+    "unit": "SAPM Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A stock's returns over three years were 5%, 15% and 10%. Its standard deviation (dividing by n) is approximately:",
+    "options": [
+      "A) 4.08%",
+      "B) 16.67%",
+      "C) 5.00%",
+      "D) 10.00%"
+    ],
+    "answer": "A",
+    "explanation": "Mean = 10%; squared deviations 25, 25, 0; variance = 50 ÷ 3 = 16.67; SD = √16.67 = 4.08%. 16.67 is the variance, not the SD. 5% is the average absolute deviation of the two outer years; 10% is the mean."
+  },
+  {
+    "id": "EI-3-03",
+    "node": "EI-3",
+    "unit": "SAPM Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Stock X has a mean return of 12% and SD of 6%; Stock Y has a mean return of 20% and SD of 14%. On a risk-per-unit-of-return basis:",
+    "options": [
+      "A) Y is less risky, because its return is higher",
+      "B) X is less risky: CV 0.5 vs 0.7",
+      "C) They are equally risky",
+      "D) X is riskier, because its return is lower"
+    ],
+    "answer": "B",
+    "explanation": "CV = SD ÷ mean: X = 6 ÷ 12 = 0.5; Y = 14 ÷ 20 = 0.7. X carries less risk per unit of return. A higher return doesn't make a stock less risky; comparing raw SDs or returns alone ignores the other dimension."
+  },
+  {
+    "id": "EI-3-04",
+    "node": "EI-3",
+    "unit": "SAPM Unit 1",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "An investor bought a share at ₹120. Over two years she received dividends of ₹3 and ₹3.50 and then sold the share at ₹150. Compute the holding period return, its split into dividend and capital gain, and the annualised (compound) return. Ignore the timing of dividends.",
+    "model_answer": "**Step 1: total HPR** = (P₁ − P₀ + D) ÷ P₀ = (150 − 120 + 6.50) ÷ 120 = 36.50 ÷ 120 = **30.42%**.\n\n**Step 2: split.** Dividend yield = 6.50 ÷ 120 = **5.42%**; capital gain = 30 ÷ 120 = **25.00%**.\n\n**Step 3: annualised** = (1.3042)^(1/2) − 1 = **14.20% a year** (not 30.42 ÷ 2 = 15.21%, which ignores compounding).\n\n**Interpretation:** most of the return came from price appreciation; 14.2% a year comfortably beats typical deposit rates, but the investor should compare it with the risk taken (SD) and with the market's return over the same period.",
+    "marking_scheme": [
+      {
+        "point": "HPR 30.42%",
+        "marks": 1.5
+      },
+      {
+        "point": "Split",
+        "marks": 1
+      },
+      {
+        "point": "Annualised 14.20% with compounding",
+        "marks": 1.5
+      },
+      {
+        "point": "Interpretation",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "EI-3-05",
+    "node": "EI-3",
+    "unit": "SAPM Unit 1",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "hard",
+    "question": "The annual returns of Stock C and Stock D over five years are:\n\n| Year | C | D |\n|---|---|---|\n| 1 | 15% | 6% |\n| 2 | 5% | 9% |\n| 3 | −5% | 12% |\n| 4 | 25% | 3% |\n| 5 | 10% | 10% |\n\n(a) Compute the mean return, standard deviation and coefficient of variation of each stock (divide by n). (5)\n(b) Compute the covariance and correlation between them. (3)\n(c) Advise an investor who is choosing between them or considering a 50:50 mix. (2)",
+    "model_answer": "**(a)** Means: C = 50 ÷ 5 = **10%**; D = 40 ÷ 5 = **8%**.\n\n| Year | d_C | d_D | d_C² | d_D² | d_C × d_D |\n|---|---|---|---|---|---|\n| 1 | 5 | −2 | 25 | 4 | −10 |\n| 2 | −5 | 1 | 25 | 1 | −5 |\n| 3 | −15 | 4 | 225 | 16 | −60 |\n| 4 | 15 | −5 | 225 | 25 | −75 |\n| 5 | 0 | 2 | 0 | 4 | 0 |\n| **Total** | | | **500** | **50** | **−150** |\n\nσ_C = √(500 ÷ 5) = √100 = **10%**; σ_D = √(50 ÷ 5) = √10 = **3.16%**.\nCV: C = 10 ÷ 10 = **1.00**; D = 3.16 ÷ 8 = **0.40**.\n\n**(b)** Covariance = −150 ÷ 5 = **−30**. Correlation = −30 ÷ (10 × 3.16) = **−0.95**.\n\n**(c) Advice.** C has the higher return but far higher risk (CV 1.00 vs 0.40); alone, D is the better choice for a risk-averse investor. But the two move almost exactly opposite (ρ = −0.95): a 50:50 mix gives a return of 9% with SD √(0.25 × 100 + 0.25 × 10 + 2 × 0.25 × (−30)) = √12.5 = **3.54%**, almost D's risk with a higher return. **Recommend the 50:50 mix** (or a D-heavy mix): diversification between negatively correlated stocks lowers risk sharply.",
+    "marking_scheme": [
+      {
+        "point": "Means",
+        "marks": 1
+      },
+      {
+        "point": "SDs with table",
+        "marks": 2.5
+      },
+      {
+        "point": "CVs",
+        "marks": 1.5
+      },
+      {
+        "point": "Covariance and correlation",
+        "marks": 3
+      },
+      {
+        "point": "Advice with diversification",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "EI-4-01",
+    "node": "EI-4",
+    "unit": "SAPM Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "SEBI was given statutory powers by the:",
+    "options": [
+      "A) Companies Act, 2013",
+      "B) Securities Contracts (Regulation) Act, 1956",
+      "C) SEBI Act, 1992",
+      "D) Depositories Act, 1996"
+    ],
+    "answer": "C",
+    "explanation": "SEBI was set up in 1988 and became a statutory body under the SEBI Act, 1992. The SCRA 1956 regulates exchanges and contracts; the Companies Act 2013 governs companies and their issues; the Depositories Act 1996 enables demat holdings."
+  },
+  {
+    "id": "EI-4-02",
+    "node": "EI-4",
+    "unit": "SAPM Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "An investor refuses to sell a share that has fallen 40% because she 'doesn't want to book a loss', yet quickly sells shares that rise 10%. This reflects:",
+    "options": [
+      "A) Herd behaviour",
+      "B) The disposition effect (loss aversion)",
+      "C) Arbitrage",
+      "D) Overconfidence"
+    ],
+    "answer": "B",
+    "explanation": "Holding losers and selling winners early is the disposition effect, driven by loss aversion. Herding is copying others; overconfidence is overestimating one's own skill; arbitrage is a trading strategy, not a bias."
+  },
+  {
+    "id": "EI-4-03",
+    "node": "EI-4",
+    "unit": "SAPM Unit 1",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "State the objectives and functions of SEBI.",
+    "model_answer": "**SEBI** (Securities and Exchange Board of India): set up in 1988, statutory under the **SEBI Act, 1992**.\n\n**Objectives:** (1) protect the interests of investors in securities; (2) promote the development of the securities market; (3) regulate the securities market.\n\n**Functions:**\n- *Protective:* prohibit insider trading and fraudulent, unfair trade practices; investor education; grievance redressal through SCORES.\n- *Regulatory:* register and regulate intermediaries (brokers, merchant bankers, mutual funds, portfolio managers, rating agencies, depositories); disclosure rules for issuers (ICDR, LODR); takeover regulations (SAST); regulate stock exchanges.\n- *Developmental:* train intermediaries, encourage new products and technology (ASBA, UPI for IPOs, T+1 settlement), promote fair and efficient markets.\n\n**Powers:** make regulations, inspect and investigate, impose penalties and bans; appeals lie to the Securities Appellate Tribunal.",
+    "marking_scheme": [
+      {
+        "point": "Establishment and Act",
+        "marks": 0.5
+      },
+      {
+        "point": "Three objectives",
+        "marks": 1.5
+      },
+      {
+        "point": "Protective, regulatory, developmental functions with examples",
+        "marks": 2.5
+      },
+      {
+        "point": "Powers / SAT",
+        "marks": 0.5
+      }
+    ]
+  },
+  {
+    "id": "EI-5-01",
+    "node": "EI-5",
+    "unit": "SAPM Unit 1",
+    "type": "case",
+    "marks": 15,
+    "difficulty": "hard",
+    "question": "**Case: advising a first-time investor.** A 27-year-old software engineer has ₹5 lakh of savings, a 10-year horizon and says: \"My friends all made money in small-caps last year, so I want to put everything into Stock C.\" Stock C is a small-cap with high debt and low daily trading volume. Stock D is a large-cap FMCG company. Five-year returns:\n\n| Year | C | D |\n|---|---|---|\n| 1 | 15% | 6% |\n| 2 | 5% | 9% |\n| 3 | −5% | 12% |\n| 4 | 25% | 3% |\n| 5 | 10% | 10% |\n\n(a) Classify the investor's risk profile and identify one behavioural bias in his statement. (3)\n(b) Compute the mean, SD and CV of each stock, and their correlation (divide by n). (6)\n(c) Identify the types of risk in Stock C, distinguishing systematic and unsystematic. (3)\n(d) Recommend an allocation and justify it. (3)",
+    "model_answer": "**(a) Profile:** young, salaried, long horizon (10 years): able to bear **moderate-to-high risk**. Bias: **herd behaviour** (copying friends) plus **recency bias** (extrapolating last year's small-cap gains).\n\n**(b) Numbers.** Means: C **10%**, D **8%**. Squared deviations sum: C 500, D 50; cross-products −150.\n- σ_C = √100 = **10%**; σ_D = √10 = **3.16%**.\n- CV: C **1.00**; D **0.40**.\n- Covariance = −30; correlation = −30 ÷ (10 × 3.16) = **−0.95**.\n\n**(c) Risks in C.**\n- *Unsystematic:* **financial risk** (high debt magnifies earnings swings, default risk); **liquidity risk** (low volume: hard to sell ₹5 lakh quickly at a fair price); **business risk** (small firm, more vulnerable to competition and cycles).\n- *Systematic:* market risk (small-caps typically have high beta and fall hardest in market corrections), interest rate risk (rising rates hurt leveraged firms).\n\n**(d) Recommendation.** Don't put everything in C. C has the higher mean (10%) but twice the risk per unit of return (CV 1.00 vs 0.40), plus specific risks that diversification would remove. Because C and D are strongly negatively correlated (−0.95), a mix sharply cuts risk: 50:50 gives 9% with SD about 3.5%.\n**Suggested allocation:** about 60–70% in D or a large-cap/index fund (core), 20–30% across two or three small/mid-caps (not C alone), and a small emergency fund in liquid debt; invest through SIPs over 6–12 months to avoid timing errors. Revisit after building a written plan, not on friends' tips.",
+    "marking_scheme": [
+      {
+        "point": "Risk profile",
+        "marks": 1.5
+      },
+      {
+        "point": "Behavioural bias",
+        "marks": 1.5
+      },
+      {
+        "point": "Means, SDs, CVs",
+        "marks": 4
+      },
+      {
+        "point": "Correlation",
+        "marks": 2
+      },
+      {
+        "point": "Risk types in C",
+        "marks": 3
+      },
+      {
+        "point": "Recommendation with justification",
+        "marks": 3
+      }
+    ]
+  }
+]

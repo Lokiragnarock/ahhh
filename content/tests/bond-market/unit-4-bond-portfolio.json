@@ -1,0 +1,454 @@
+[
+  {
+    "id": "BP-1-01",
+    "node": "BP-1",
+    "unit": "Bond Market Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "A portfolio is immunized against interest-rate changes for a 6-year horizon when:",
+    "options": [
+      "A) Its average maturity is 6 years",
+      "B) Its Macaulay duration equals 6 years and its PV equals the liability's PV",
+      "C) It holds only 6-year zero-coupon bonds",
+      "D) Its coupon rate equals the market yield"
+    ],
+    "answer": "B",
+    "explanation": "Immunization needs the portfolio's duration (not its maturity) to match the horizon, with PV matching the liability, so price risk and reinvestment risk offset. Average maturity overstates the time-weighting of coupon bonds. A 6-year zero does immunize, but it is one way, not the condition. Coupon equal to yield only means the bond trades at par."
+  },
+  {
+    "id": "BP-1-02",
+    "node": "BP-1",
+    "unit": "Bond Market Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "A bond fund manager expects RBI to cut rates sharply over the next six months. Under an interest-rate anticipation strategy, she should:",
+    "options": [
+      "A) Shorten portfolio duration",
+      "B) Lengthen portfolio duration",
+      "C) Move entirely to T-bills",
+      "D) Keep duration unchanged and add credit risk"
+    ],
+    "answer": "B",
+    "explanation": "If yields are expected to fall, prices rise most for long-duration bonds, so she lengthens duration to maximise the gain. Shortening duration or moving to T-bills is the right move when rates are expected to rise. Adding credit risk is a separate (spread) bet, not rate anticipation."
+  },
+  {
+    "id": "BP-1-03",
+    "node": "BP-1",
+    "unit": "Bond Market Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A manager sells a bond and buys an almost identical bond (same issuer type, coupon, maturity and rating) that trades at a slightly higher yield. This is a:",
+    "options": [
+      "A) Substitution swap",
+      "B) Tax swap",
+      "C) Rate anticipation swap",
+      "D) Inter-market spread swap"
+    ],
+    "answer": "A",
+    "explanation": "Swapping into an identical bond that is temporarily mispriced (higher yield) is a substitution swap. A tax swap realises a loss for tax purposes. A rate anticipation swap changes duration on a rate view. An inter-market spread swap moves between sectors (e.g. G-sec to corporate) when the spread looks out of line."
+  },
+  {
+    "id": "BP-1-04",
+    "node": "BP-1",
+    "unit": "Bond Market Unit 4",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "An insurance company must pay ₹20,00,000 in 6 years. The market yield is 8%. It can invest in Bond P (duration 4 years) and Bond Q (duration 10 years). (a) How much must it invest today? (b) How should it split the money to immunize the liability? (c) Explain why this works and what it must do afterwards.",
+    "model_answer": "**(a) PV of the liability** = 20,00,000 ÷ 1.08⁶ = 20,00,000 ÷ 1.58687 = **₹12,60,339**.\n\n**(b) Duration matching:** w_P × 4 + (1 − w_P) × 10 = 6 → 10 − 6w_P = 6 → **w_P = 2/3**, w_Q = 1/3.\nInvest **₹8,40,226 in P** and **₹4,20,113 in Q**.\n\n**(c) Why it works:** a rise in rates lowers bond prices (price risk) but lets coupons be reinvested at higher rates (reinvestment risk); a fall does the reverse. When the portfolio's duration equals the 6-year horizon, the two effects roughly offset, so the portfolio grows to about ₹20,00,000 at year 6 whatever rates do.\n\n**Afterwards:** duration drifts as time passes and rates change, so the company must **rebalance periodically** to keep duration equal to the remaining horizon (and check that the portfolio's convexity is at least the liability's).",
+    "marking_scheme": [
+      {
+        "point": "PV ₹12,60,339",
+        "marks": 1
+      },
+      {
+        "point": "Weights 2/3 and 1/3",
+        "marks": 1.5
+      },
+      {
+        "point": "Rupee amounts",
+        "marks": 0.5
+      },
+      {
+        "point": "Explanation of offsetting risks",
+        "marks": 1.5
+      },
+      {
+        "point": "Rebalancing",
+        "marks": 0.5
+      }
+    ]
+  },
+  {
+    "id": "BP-1-05",
+    "node": "BP-1",
+    "unit": "Bond Market Unit 4",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "medium",
+    "question": "Distinguish between passive and active bond portfolio management strategies. Explain the main strategies under each, including immunization, and state which investors each approach suits.",
+    "model_answer": "**Spectrum.** Passive (match the market at low cost), structured (meet a liability whatever rates do), active (beat a benchmark by forecasting).\n\n**Passive strategies.**\n1. *Buy and hold:* buy quality bonds and hold to maturity; return ≈ YTM at purchase; lowest cost.\n2. *Indexing:* replicate a bond index (CRISIL Composite, NSE G-sec indices, Bharat Bond ETF) by sampling; judged by tracking error.\n\n**Structured strategies.**\n1. *Immunization:* set PV and Macaulay duration equal to the liability's so price and reinvestment risk offset; convexity ≥ liability's; rebalance. Example: a 5-year liability at 7% with bonds of duration 3 and 8 → 60/40.\n2. *Cash-flow matching:* buy bonds whose cash flows match each liability date; no reinvestment risk but costlier.\n3. *Contingent immunization:* manage actively above a safety floor; immunize if it is hit.\n\n**Active strategies.**\n1. *Interest-rate anticipation:* lengthen duration if rates are expected to fall, shorten if expected to rise.\n2. *Yield-curve strategies:* bullet, barbell, ladder; riding the curve.\n3. *Credit and sector rotation:* move into corporates when spreads are expected to narrow, into G-secs when they may widen.\n4. *Bond swaps:* substitution, inter-market spread, rate anticipation, pure yield pickup, tax swaps.\n\n| Basis | Passive | Active |\n|---|---|---|\n| Objective | Match market / fund liability | Beat benchmark |\n| Forecasting | None | Rates, curve, credit |\n| Cost and turnover | Low | High |\n| Judged by | Tracking error | Alpha, Sharpe, information ratio |\n\n**Suitability.** Passive: retail investors, trusts, index funds. Structured: insurers, pension funds, banks' ALM. Active: bond mutual funds and treasuries with research capacity and a mandate to beat a benchmark.",
+    "marking_scheme": [
+      {
+        "point": "Spectrum",
+        "marks": 1
+      },
+      {
+        "point": "Passive strategies",
+        "marks": 2
+      },
+      {
+        "point": "Immunization with conditions and example",
+        "marks": 2.5
+      },
+      {
+        "point": "Other structured strategies",
+        "marks": 0.5
+      },
+      {
+        "point": "Active strategies including swaps",
+        "marks": 2.5
+      },
+      {
+        "point": "Comparison and suitability",
+        "marks": 1.5
+      }
+    ]
+  },
+  {
+    "id": "BP-2-01",
+    "node": "BP-2",
+    "unit": "Bond Market Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A manager expects the yield curve to steepen (long yields rising more than medium yields). Compared with a barbell of the same duration, a bullet portfolio will most likely:",
+    "options": [
+      "A) Underperform",
+      "B) Outperform",
+      "C) Perform identically",
+      "D) Default"
+    ],
+    "answer": "B",
+    "explanation": "A barbell holds very long bonds, whose yields rise most in a steepening, so its long leg loses heavily. A bullet clustered in the middle avoids the long end and outperforms. They perform identically only for a small parallel shift. Default is a credit event unrelated to the curve's shape."
+  },
+  {
+    "id": "BP-2-02",
+    "node": "BP-2",
+    "unit": "Bond Market Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "An investor puts ₹3,00,000 each into bonds maturing in 1, 2, 3, 4 and 5 years and plans to reinvest each maturing bond in a new 5-year bond. This is a:",
+    "options": [
+      "A) Barbell strategy",
+      "B) Bullet strategy",
+      "C) Ladder strategy",
+      "D) Contingent immunization"
+    ],
+    "answer": "C",
+    "explanation": "Equal amounts spread across consecutive maturities, rolled to the long end as they mature, is a ladder. A barbell concentrates at the two ends; a bullet clusters around one maturity; contingent immunization switches between active management and immunization."
+  },
+  {
+    "id": "BP-2-03",
+    "node": "BP-2",
+    "unit": "Bond Market Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Compared with a bullet portfolio of the same duration, a barbell portfolio usually has:",
+    "options": [
+      "A) Lower convexity",
+      "B) Higher convexity",
+      "C) The same convexity",
+      "D) Zero convexity"
+    ],
+    "answer": "B",
+    "explanation": "Spreading cash flows to the two ends raises convexity: in the worked example a 2y/10y barbell has convexity 39.30 against 26.20 for a 5-year bullet, at the same duration. Higher convexity means bigger gains when rates fall and smaller losses when they rise, for large parallel moves."
+  },
+  {
+    "id": "BP-2-04",
+    "node": "BP-2",
+    "unit": "Bond Market Unit 4",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Yields are 8% at all maturities. A manager can hold a bullet of 4-year zero-coupon bonds, or a barbell of 1-year and 9-year zeros with the same duration. (a) Find the barbell weights. (b) Compare the convexity of the two portfolios (convexity of an annual zero ≈ n(n+1)/(1+y)²). (c) Which would you choose if you expected a large parallel move but were unsure of its direction?",
+    "model_answer": "**(a)** A zero's duration equals its maturity. w × 1 + (1 − w) × 9 = 4 → 9 − 8w = 4 → **w = 0.625** in the 1-year zero, **0.375** in the 9-year.\n\n**(b)** (1.08)² = 1.1664.\n- Bullet (4-year): 4 × 5 ÷ 1.1664 = **17.15**.\n- 1-year: 1 × 2 ÷ 1.1664 = 1.71; 9-year: 9 × 10 ÷ 1.1664 = 77.16.\n- Barbell: 0.625 × 1.71 + 0.375 × 77.16 = 1.07 + 28.94 = **30.01**.\n\n**(c)** The **barbell**: at the same duration its convexity (30.01) is much higher than the bullet's (17.15), so for a large parallel move either way it gains more when rates fall and loses less when they rise. The cost is that the barbell often yields slightly less, and it would lose to the bullet if the curve steepened.",
+    "marking_scheme": [
+      {
+        "point": "Barbell weights",
+        "marks": 1.5
+      },
+      {
+        "point": "Bullet convexity 17.15",
+        "marks": 1
+      },
+      {
+        "point": "Barbell convexity 30.01",
+        "marks": 1.5
+      },
+      {
+        "point": "Choice with reasoning",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "BP-2-05",
+    "node": "BP-2",
+    "unit": "Bond Market Unit 4",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "Explain the buy-and-hold bond strategy. What return does a buy-and-hold investor earn, what risks remain, and who should use it?",
+    "model_answer": "**Strategy:** buy bonds and hold them to maturity regardless of interest-rate movements; no trading on rate views.\n\n**Return:** if the issuer does not default, the investor receives every coupon and the face value; the realised return is approximately the **YTM at purchase**, provided coupons are reinvested at that yield. Price swings in between don't matter if the bond is never sold.\n\n**Risks that remain:**\n1. *Reinvestment risk:* coupons may be reinvested at lower rates.\n2. *Credit risk:* a downgrade or default can't be avoided without selling, so bonds must be screened carefully at purchase.\n3. *Opportunity cost:* if rates rise, the investor is locked into a lower yield.\n4. *Inflation risk:* fixed coupons lose purchasing power.\n\n**Who should use it:** investors with a known horizon and steady income needs: retirees, trusts, banks' held-to-maturity books, target-maturity fund investors (e.g. Bharat Bond ETF).",
+    "marking_scheme": [
+      {
+        "point": "Definition",
+        "marks": 1
+      },
+      {
+        "point": "Return ≈ YTM with the reinvestment condition",
+        "marks": 1.5
+      },
+      {
+        "point": "Remaining risks",
+        "marks": 1.5
+      },
+      {
+        "point": "Suitable investors",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "BP-3-01",
+    "node": "BP-3",
+    "unit": "Bond Market Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A bond portfolio has modified duration 4.5 and convexity 30. If yields rise by 150 bps, its value changes by about:",
+    "options": [
+      "A) −6.75%",
+      "B) −6.41%",
+      "C) −7.09%",
+      "D) +6.41%"
+    ],
+    "answer": "B",
+    "explanation": "%ΔP ≈ −4.5 × 0.015 + ½ × 30 × 0.015² = −6.75% + 0.34% = −6.41%. −6.75% ignores convexity; −7.09% subtracts the convexity term instead of adding it; a rise in yields can't increase the value."
+  },
+  {
+    "id": "BP-3-02",
+    "node": "BP-3",
+    "unit": "Bond Market Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "A ₹20 crore bond portfolio has a modified duration of 4. Its DV01 (value change for a 1-bp move) is about:",
+    "options": [
+      "A) ₹8,000",
+      "B) ₹80,000",
+      "C) ₹8,00,000",
+      "D) ₹20,000"
+    ],
+    "answer": "B",
+    "explanation": "DV01 = D_mod × value × 0.0001 = 4 × 20,00,00,000 × 0.0001 = ₹80,000. ₹8,000 and ₹8,00,000 are decimal-place slips. ₹20,000 ignores duration."
+  },
+  {
+    "id": "BP-3-03",
+    "node": "BP-3",
+    "unit": "Bond Market Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Which stress test is most relevant to the losses Indian credit-risk debt funds suffered after the IL&FS default in 2018?",
+    "options": [
+      "A) A parallel shift of +200 bps in G-sec yields",
+      "B) Credit spread widening and liquidity stress",
+      "C) A fall in the repo rate",
+      "D) A steepening of the G-sec curve only"
+    ],
+    "answer": "B",
+    "explanation": "The IL&FS default hit funds through credit-spread widening, downgrades and the inability to sell lower-rated paper: credit and liquidity stress. A G-sec parallel shift or curve steepening tests interest-rate risk, not credit. A repo cut would have helped bond prices."
+  },
+  {
+    "id": "BP-3-04",
+    "node": "BP-3",
+    "unit": "Bond Market Unit 4",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "A fund holds two bonds: ₹30 crore in Bond X (modified duration 3, convexity 12) and ₹20 crore in Bond Y (modified duration 9, convexity 100). (a) Find the portfolio's modified duration, convexity and DV01. (b) Estimate the rupee change in value for +100 bps, +200 bps and −200 bps. (c) If the loss limit for a 200-bp rise is 8%, what should the manager do?",
+    "model_answer": "**(a)** Total ₹50 crore; weights 0.6 and 0.4.\n- D_mod = 0.6 × 3 + 0.4 × 9 = **5.4**\n- Convexity = 0.6 × 12 + 0.4 × 100 = **47.2**\n- DV01 = 5.4 × 50 crore × 0.0001 = **₹2.7 lakh per bp**\n\n**(b)** %ΔP ≈ −5.4Δy + ½ × 47.2 × Δy²\n\n| Shock | Duration effect | Convexity effect | Total | ₹ crore |\n|---|---|---|---|---|\n| +100 bps | −5.40% | +0.24% | −5.16% | −2.58 |\n| +200 bps | −10.80% | +0.94% | −9.86% | −4.93 |\n| −200 bps | +10.80% | +0.94% | +11.74% | +5.87 |\n\n**(c)** A −9.86% loss breaches the 8% limit. The manager should **shorten duration**, e.g. shift money from Bond Y into Bond X or T-bills, or **hedge** with interest rate futures or a pay-fixed swap, until the estimated 200-bp loss is within 8%.",
+    "marking_scheme": [
+      {
+        "point": "Portfolio duration, convexity, DV01",
+        "marks": 1.5
+      },
+      {
+        "point": "Stress table",
+        "marks": 2.5
+      },
+      {
+        "point": "Breach identified and corrective action",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "BP-3-05",
+    "node": "BP-3",
+    "unit": "Bond Market Unit 4",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "medium",
+    "question": "What is stress testing of a bond portfolio? Explain how interest-rate, curve, credit and liquidity stress tests are carried out, illustrate the interest-rate test with a portfolio of modified duration 6 and convexity 50 worth ₹50 crore, and explain how the results should be used.",
+    "model_answer": "**Meaning.** Stress testing estimates how much a portfolio would lose under severe but plausible shocks, to check whether risk limits, capital and liquidity are adequate. RBI requires banks to stress-test their investment books; SEBI requires debt funds to stress-test for interest-rate, credit and liquidity risk.\n\n**1. Interest-rate (parallel shift).** %ΔP ≈ −D_mod × Δy + ½ × C × Δy².\n\n| Shock | % change | ₹ crore |\n|---|---|---|\n| +100 bps | −6% + 0.25% = −5.75% | −2.875 |\n| +200 bps | −12% + 1% = −11% | −5.50 |\n| −200 bps | +12% + 1% = +13% | +6.50 |\n\nDV01 = 6 × 50 crore × 0.0001 = ₹3 lakh per bp. Convexity makes losses smaller than gains.\n\n**2. Curve (twist) tests.** Steepening or flattening scenarios using key-rate durations (sensitivity at each maturity point); barbells and bullets react differently.\n\n**3. Credit stress.** Widen corporate spreads by 100–300 bps, or assume a downgrade or default of the largest issuer (IL&FS 2018).\n\n**4. Liquidity stress.** Assume heavy redemptions force sales at wide bid-ask spreads (Franklin Templeton 2020).\n\n**5. Historical and reverse tests.** Replay the 2013 taper tantrum or March 2020; or find the shock that would breach the limit and judge its plausibility.\n\n**Using the results.** Compare losses with limits and capital; if breached, shorten duration, hedge with interest rate futures or swaps, raise the G-sec and cash share, diversify credit; report to the board with assumptions.\n\n**Limits.** The duration-convexity estimate is approximate for large moves and option-embedded bonds; scenarios are judgment calls; correlations between shocks rise in crises.",
+    "marking_scheme": [
+      {
+        "point": "Meaning and regulatory context",
+        "marks": 1.5
+      },
+      {
+        "point": "Parallel-shift formula and table",
+        "marks": 3
+      },
+      {
+        "point": "Curve, credit and liquidity tests",
+        "marks": 2.5
+      },
+      {
+        "point": "Historical / reverse tests",
+        "marks": 0.5
+      },
+      {
+        "point": "Use of results and limits",
+        "marks": 2.5
+      }
+    ]
+  },
+  {
+    "id": "BP-4-01",
+    "node": "BP-4",
+    "unit": "Bond Market Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "A gilt fund returned 9.1% with an SD of 2.5%. The 91-day T-bill yield was 6.6%. Its Sharpe ratio is:",
+    "options": [
+      "A) 3.64",
+      "B) 1.00",
+      "C) 2.64",
+      "D) 0.27"
+    ],
+    "answer": "B",
+    "explanation": "Sharpe = (9.1 − 6.6) ÷ 2.5 = 2.5 ÷ 2.5 = 1.00. 3.64 divides the total return by SD without subtracting R_f; 2.64 divides R_f by SD; 0.27 inverts the ratio."
+  },
+  {
+    "id": "BP-4-02",
+    "node": "BP-4",
+    "unit": "Bond Market Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "The same gilt fund (return 9.1%, beta 1.2) is benchmarked against a gilt index that returned 8.4%. The T-bill yield was 6.6%. Its Jensen's alpha is:",
+    "options": [
+      "A) +0.70%",
+      "B) +0.34%",
+      "C) −0.34%",
+      "D) +2.50%"
+    ],
+    "answer": "B",
+    "explanation": "Required return = 6.6 + 1.2 × (8.4 − 6.6) = 6.6 + 2.16 = 8.76%; α = 9.1 − 8.76 = +0.34%. +0.70% just subtracts the index return, ignoring beta. +2.50% is the excess over the T-bill. A negative alpha would need a return below 8.76%."
+  },
+  {
+    "id": "BP-4-03",
+    "node": "BP-4",
+    "unit": "Bond Market Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "Tracking error for a bond index fund measures:",
+    "options": [
+      "A) The fund's default probability",
+      "B) The SD of the difference between the fund's and the index's returns",
+      "C) The fund's duration",
+      "D) The fund's expense ratio"
+    ],
+    "answer": "B",
+    "explanation": "Tracking error is the volatility of the return gap between fund and index; low tracking error means the fund replicates the index well. Default probability, duration and expense ratio are separate characteristics (the expense ratio is one cause of tracking error, not the measure)."
+  },
+  {
+    "id": "BP-4-04",
+    "node": "BP-4",
+    "unit": "Bond Market Unit 4",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Two bond funds are compared with the CRISIL Composite Bond Index for last year. The index returned 8.0% with an SD of 3.0%; the T-bill yield was 6.5%.\n\n| Fund | Return | SD | Beta |\n|---|---|---|---|\n| Gilt fund | 9.2% | 4.5% | 1.4 |\n| Short-term fund | 7.6% | 1.5% | 0.5 |\n\nCompute the Sharpe ratio, Treynor ratio and Jensen's alpha of each fund and the index, and interpret.",
+    "model_answer": "| | Sharpe (R − 6.5)/σ | Treynor (R − 6.5)/β | CAPM return | Alpha |\n|---|---|---|---|---|\n| Gilt fund | 2.7 ÷ 4.5 = **0.600** | 2.7 ÷ 1.4 = **1.93** | 6.5 + 1.4 × 1.5 = 8.60 | **+0.60%** |\n| Short-term | 1.1 ÷ 1.5 = **0.733** | 1.1 ÷ 0.5 = **2.20** | 6.5 + 0.5 × 1.5 = 7.25 | **+0.35%** |\n| Index | 1.5 ÷ 3.0 = **0.500** | **1.50** | 8.00 | 0 |\n\n**Interpretation:**\n- Both funds beat the index on Sharpe and Treynor and have positive alpha.\n- The **short-term fund** gives the best return per unit of risk (Sharpe 0.733, Treynor 2.20) despite the lowest raw return.\n- The **gilt fund** earns the highest return and the largest alpha (+0.60%), but its beta of 1.4 shows it is a long-duration bet; much of its return comes from rates falling, so it will lose more if they rise.\n- For a conservative investor the short-term fund is the better risk-adjusted choice; a duration-matched benchmark (a gilt index) would be the fairer test for the gilt fund.",
+    "marking_scheme": [
+      {
+        "point": "Sharpe ratios",
+        "marks": 1.5
+      },
+      {
+        "point": "Treynor ratios",
+        "marks": 1
+      },
+      {
+        "point": "Alphas via CAPM",
+        "marks": 1.5
+      },
+      {
+        "point": "Interpretation",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "BP-5-01",
+    "node": "BP-5",
+    "unit": "Bond Market Unit 4",
+    "type": "case",
+    "marks": 15,
+    "difficulty": "hard",
+    "question": "**Case: the Coastal Workers' Provident Trust (fictional).** The trust holds a ₹50 crore bond portfolio: ₹30 crore in a 3-year G-sec (modified duration 3, convexity 12) and ₹20 crore in a long corporate bond (modified duration 9, convexity 100). It must pay members a lump sum in about 5 years. Its board limits the estimated loss from a 200-bp rise in yields to 8%. Last year the portfolio returned 8.6% with an SD of 3.2% and a beta of 1.1 against the CRISIL Composite Bond Index, which returned 7.8% with an SD of 2.8%. The 91-day T-bill yielded 6.5%.\n\n(a) Compute the portfolio's modified duration, convexity and DV01. (3)\n(b) Stress-test the portfolio for +100 and +200 bps and say whether it meets the board's limit. (3)\n(c) The trustees want to immunize the 5-year liability using the two existing bonds. Find the new weights, and re-run the +200 bps test (treat the durations given as the relevant durations). (4)\n(d) Evaluate last year's performance using the Sharpe ratio and Jensen's alpha. (3)\n(e) Give two further recommendations to the trustees. (2)",
+    "model_answer": "**(a)** Weights 0.6 (G-sec) and 0.4 (corporate).\n- D_mod = 0.6 × 3 + 0.4 × 9 = **5.4**\n- Convexity = 0.6 × 12 + 0.4 × 100 = **47.2**\n- DV01 = 5.4 × 50 crore × 0.0001 = **₹2.7 lakh per bp**\n\n**(b)**\n- +100 bps: −5.4% + ½ × 47.2 × 0.0001 = −5.40% + 0.24% = **−5.16% (−₹2.58 crore)**\n- +200 bps: −10.8% + ½ × 47.2 × 0.0004 = −10.80% + 0.94% = **−9.86% (−₹4.93 crore)**\n\nThe 200-bp loss of 9.86% **breaches the 8% limit**.\n\n**(c) Immunize at 5 years.** w × 3 + (1 − w) × 9 = 5 → 9 − 6w = 5 → **w = 2/3** in the G-sec (₹33.33 crore) and **1/3** in the corporate bond (₹16.67 crore). Shift about ₹3.33 crore from the corporate bond to the G-sec.\nNew convexity = (2/3)(12) + (1/3)(100) = 8 + 33.33 = **41.33**.\n+200 bps: −5 × 0.02 + ½ × 41.33 × 0.0004 = −10.00% + 0.83% = **−9.17%**.\n\n**Still above 8%.** Immunization matches the horizon, but at duration 5 a 200-bp shock still costs about 9.2% in marked-to-market value. Because the trust's liability is at 5 years, this interim loss is offset by higher reinvestment income by the payment date; if the board insists on the 8% mark-to-market limit, it must shorten duration further (to about 4.3) or hedge part of the rate risk with interest rate futures, accepting some reinvestment risk.\n\n**(d) Performance.**\n- Sharpe: portfolio (8.6 − 6.5) ÷ 3.2 = **0.656**; index (7.8 − 6.5) ÷ 2.8 = **0.464**.\n- Jensen's alpha: 8.6 − [6.5 + 1.1 × (7.8 − 6.5)] = 8.6 − 7.93 = **+0.67%**.\nThe portfolio outperformed on a risk-adjusted basis. Part of the excess likely comes from the corporate bond's credit spread, which neither SD nor beta captures in a calm year.\n\n**(e) Recommendations.**\n1. Review the corporate bond's credit quality and concentration (40% in one issuer is high for a provident trust); consider spreading across AAA issuers or moving part to G-secs/SDLs.\n2. Run credit-spread and liquidity stress tests as well as rate shocks, and rebalance the immunized portfolio every quarter as duration drifts.\n\n*The stress estimates assume parallel shifts; a curve twist needs key-rate durations.*",
+    "marking_scheme": [
+      {
+        "point": "Duration, convexity, DV01",
+        "marks": 3
+      },
+      {
+        "point": "Stress results and breach",
+        "marks": 3
+      },
+      {
+        "point": "Immunization weights",
+        "marks": 2
+      },
+      {
+        "point": "Re-test −9.17% and honest interpretation",
+        "marks": 2
+      },
+      {
+        "point": "Sharpe and alpha",
+        "marks": 2
+      },
+      {
+        "point": "Credit caveat",
+        "marks": 1
+      },
+      {
+        "point": "Two recommendations",
+        "marks": 2
+      }
+    ]
+  }
+]
