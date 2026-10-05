@@ -1,0 +1,610 @@
+                                      COURSE PLAN
+                                  ODD SEMESTER 2026-27
+                                          SECTION I
+
+Semester       V                      Program & Class     5BBA
+
+Course         BBA303F-5              Course Type         Discipline Specific
+Code
+
+Course Title BOND     MARKET LCA                          No
+               OPERATIONS
+               AND ANALYTICS
+
+Total Hours    45                     Hours per week      3
+
+Faculty        Dr. G N P V Babu       Contact Details veerabhadra.babu@christuniversit
+Name                                  and Office Hours y.in
+
+Class                  All students are required to adhere to the norms of conduct as per
+Policies and            the policies of the school.
+Guidelines
+                       Students are expected to be present and seated before the session
+                        begins.
+                       Students should review previous topics and bring required materials
+                        for every session.
+                       Students are encouraged to engage in class discussions, case studies,
+                        and problem-solving activities.
+                       Smartphones/laptops/other electronic devices can be used during the
+                        session only with the prior permission of the faculty member.
+                       Respectful listening and contribution are key to meaningful
+                        learning.
+                       Maintain classroom decorum, respect peers and faculty, and use
+                        appropriate academic language.
+                       Plagiarism or copying during assignments, quizzes, or class
+                        exercises will result in disciplinary action.
+                       All assignments and Continuous Internal Assessments (CIAs) must
+                        be submitted on or before the due date.
+                       Late submissions will not be accepted without valid reasons and
+                        prior approval.
+                       Students should regularly check their institutional email, google
+                        classroom and official WhatsApp group for the subject related
+                        official updates.
+                       Use of mobile phone for calculations is not allowed
+Course
+Description
+
+Course        CO1: Explain the structure and functioning of the bond market in India.
+Objectives
+              CO2: Demonstrate techniques for bond valuation and risk assessment.
+              CO3: Analyse yield curves and their implications for market trends and
+              policy decisions.
+              CO4: Develop and evaluate bond portfolio strategies using practical tools.
+              CO5: Understand and discuss emerging trends in the bond market,
+              including green bonds and fintech innovations.
+
+
+
+
+Course
+Outcomes
+
+
+
+                                        Section - II
+
+Wee    Uni    Lectur     Topics              Andragogy         Ungraded        Reference
+k      t      e                                                Formative       Resources
+                                                               Assessments
+Week   U1     1          U1-T1:              Lecture,          MCQs,           Fabozzi et
+1             2          Introduction to     Concept           Group           al. (2021)
+                         Bond Markets –      Mapping, Case     Discussion
+              3          Structure,          Discussion
+                         Participants, and
+                         Instruments in
+                         Indian and Global
+                         Contexts
+Week   U1     4          Primary and         Lecture,          Quiz, Case      Reilly &
+2             5          Secondary Bond      Experiential      Reflection      Brown
+                         Markets –           Learning                          (2020)
+              6          Issuance
+                         Processes and
+                         Trading
+                         Mechanisms
+Week   U1     7          Auction             Demonstration     Analytical      Prasanna
+3             8          Mechanisms and      , Problem-        Exercises       Chandra
+                         Repo Markets in     Based                             (2025)
+              9
+                 India                Learning
+Week   U2   10   Time Value of        Lecture,        Numerical     Fabozzi et
+4           11   Money and Bond       Numerical       Exercises     al. (2021)
+                 Valuation Basics     Demonstration
+            12
+Week   U2   13   Yield Measures –     Lecture,        Numerical     Reilly &
+5           14   YTM, YTC,            Problem         Quiz          Brown
+                 Price-Yield          Solving                       (2020)
+            15   Relationship,
+                 Pull-to-Par Effect
+Week   U2   16   Duration,            Hands-on        Problem-      Fabozzi et
+6           17   Modified             Learning,       Based Tasks   al. (2021)
+                 Duration, and        Demonstration
+            18   Convexity
+Week   U2   19   Bond Risk            Case Study,     Analytical    Fischer &
+7                Analysis – Credit    Lecture         Exercises     Jordan
+                 Risk, Interest                                     (2010)
+                 Rate Risk, and
+                 Reinvestment
+                 Risk
+       U3   20   Types of Yield       Lecture, Case   Conceptual    Reilly &
+                 Curves – Normal,     Analysis        Quiz          Brown
+            21   Inverted, and Flat                                 (2020)
+                 Yield Curves
+Week   U3   22   Construction of      Demonstration   Lab           Fabozzi et
+8           23   Yield Curves         , Hands-on      Exercises     al. (2021)
+                 using                Learning
+            24   Bootstrapping
+                 Techniques
+Week   U3   25   Yield Curve          Experiential    Practical     Prasanna
+9           26   Analytics using      Learning,       Exercises     Chandra
+                 Excel                Spreadsheet                   (2025)
+            27                        Practice
+Week   U3   28   Introduction to      Demonstration   Mini Lab      Bloomber
+10               Bloomberg            , Guided        Tasks         g Market
+            29   Analytics for        Practice                      Concepts
+                 Bond Pricing and
+                 Data
+                 Interpretation
+       U4   30   Bond Portfolio       Lecture, Case   Group         Reilly &
+Week   U4   31   Strategies –         Study           Discussion    Brown
+11               Active vs Passive                                  (2020)
+            32   Approaches
+            33
+Week   U4   34   Laddering,           Problem-        Scenario      Fabozzi et
+12               Barbell, Buy-and-    Based           Analysis      al. (2021)
+              35           Hold Strategies      Learning,
+                           and Stress Testing   Simulation
+              36
+Week    U4    37           Performance          Demonstration     Numerical         Prasanna
+13                         Metrics – Sharpe     , Analytical      Interpretatio     Chandra
+                           Ratio, Alpha,        Learning          n Tasks           (2025)
+                           Beta
+        U5    38           Green Bonds and      Seminar, Case     Presentation      Fabozzi et
+                           Sustainability-      Discussion                          al. (2021)
+              39           Linked Bonds
+Week    U5    40           Digital and          Lecture,          Project           Recent
+14            41           Tokenized Bonds      Project-Based     Presentation      Industry
+                                                Learning                            Reports
+              42
+Week    U5    43           Blockchain           Lecture,          Project           Recent
+15            44           Applications, and    Project-Based     Presentation      Industry
+                           Future               Learning                            Reports
+              45           Innovations
+
+                                        SECTION III
+
+CO-PO MAPPING
+  CO/PO            PO1              PO2             PO3             PO4              PSO1
+   CO1              2                1               1               1                 2
+   CO2              2                3               2               2                 3
+   CO3              3                3               2               3                 3
+   CO4              2                3               3               3                 3
+   CO5              2                2               1               3                 2
+
+
+
+
+COURSE FOCUS AREAS
+Uni Unit Title             Unit     Developmen               Skills Focused       Cross
+t No                       Teaching t Needs                                       Cutting
+                           Hours                                                  Issues
+U1     Foundations of Bond 9        Global,                  Employability,       None
+       Markets                      National                 Analytical
+                                                             Thinking
+U2     The Mathematics of      10          Global            Employability,       None
+       Bond Valuation                                        Quantitative
+                                                             Skills
+U3     Riding the Yield        10          Global            Analytical           Professional
+       Curve – Analytics                                     Thinking,            Ethics
+       and Applications                                           Decision
+                                                                  Making
+U4     Strategic Bond          8             Global               Skill                Professional
+       Portfolio                                                  Development,         Ethics
+       Management                                                 Problem
+                                                                  Solving
+U5     Future of Bond          8             Global               Employability,       Sustainabilit
+       Markets –                                                  Innovation,          y
+       Sustainability and                                         Strategic
+       Innovation                                                 Thinking
+
+
+Mapping of needs with the syllabus:
+
+Course Outcomes    Local,       Regional,   Cross-cutting issues Employability/Entr Sustainable
+                   National, Global and     relating          to epreneurship/ Skill Development Goals
+                   Development     Needs    Professional Ethics, Development
+                   (LRNG)                   Gender,       Human
+                                            Values,
+                                            Environment      and
+                                            Sustainability
+CO1:     Explain Local                      Professional Ethics     Employability        SDG       4-Quality
+the    structure                                                                         Education
+and functioning
+                                                                                         SDG8 – Decent work
+of the bond
+                                                                                         and      Economic
+market in India.                                                                         growth
+
+CO2:             National                   Professional Ethics     Entrepreneurship     SDG       4-Quality
+Demonstrate                                                                              Education
+techniques for
+                                                                                         SDG8 – Decent work
+bond valuation
+                                                                                         and      Economic
+and         risk                                                                         growth
+assessment.
+
+CO3: Analyse National                       Professional Ethics     Entrepreneurship     SDG       4-Quality
+yield curves and                                                                         Education
+their
+                                                                                         SDG8 – Decent work
+implications for
+                                                                                         and      Economic
+market trends                                                                            growth
+and        policy
+decisions.
+
+CO4: Develop National                       Professional Ethics     Employability        SDG       4-Quality
+and     evaluate                                                    Entrepreneurship     Education
+bond     portfolio
+                                                                                         SDG8 – Decent work
+strategies using
+                                                                                         and      Economic
+practical tools.
+                                                                     growth
+
+CO5:             Global     Professional Ethics   Employability/     SDG       4-Quality
+Understand and                                    Entrepreneurship   Education
+discuss
+                                                                     SDG8 – Decent work
+emerging trends
+                                                                     and      Economic
+in the bond                                                          growth
+market,
+including green
+bonds        and
+fintech
+innovations.
+
+
+Topic/Module
+Details
+I                National   None                  Employability,     SDG       4-Quality
+                                                  Analytical         Education
+                                                  Thinking
+                                                                     SDG8 – Decent work
+                                                                     and      Economic
+                                                                     growth
+
+
+II               National   None                  Employability,     SDG       4-Quality
+                                                  Quantitative       Education
+                                                  Skills
+                                                                     SDG8 – Decent work
+                                                                     and      Economic
+                                                                     growth
+
+
+III              Global     Professional          Analytical         SDG       4-Quality
+                            Ethics                Thinking,          Education
+                                                  Decision Making
+                                                                     SDG8 – Decent work
+                                                                     and      Economic
+                                                                     growth
+
+
+IV               Global     Professional          Skill              SDG       4-Quality
+                            Ethics                Development,       Education
+                                                  Problem Solving
+                                                                     SDG8 – Decent work
+                                                                     and      Economic
+                                                                     growth
+
+
+V                Global     Sustainability        Employability,     SDG       4-Quality
+                                                  Innovation,        Education
+                                                  Strategic
+                                                  Thinking           SDG8 – Decent work
+                                                                                   and         Economic
+                                                                                   growth
+
+
+
+
+Course Outcomes       Components of assessment (with the breakup of marks)
+
+                      CIA I                     CIA II             CIA III            ESE
+
+CO 1                          10 Marks              25 Marks                                5 Marks
+
+CO 2                          10 Marks              25 Marks                                5 Marks
+
+CO 3                                                                  10 Marks            20 Marks
+
+CO 4                                                                   5 Marks            15 Marks
+
+CO 5                                                                   5 Marks              5 Marks
+
+
+Assessment outline:
+
+                              Components of assessment
+
+Components             CIA I               CIA II              CIA III              ESE
+
+Marks/Percentage       20 Marks            50        Marks 20 Marks                 30 Marks
+                                           (Converted to 20
+                                           Marks)
+
+
+
+
+                                         SECTION IV
+
+
+CIA I Details:
+Course Objectives         CO1: Explain the structure and functioning of the bond market in
+                          India.
+                          CO2: Demonstrate techniques for bond valuation and risk assessment.
+Assignment Details        Indian Bond Market Dynamics and Bond Valuation Analytics: A
+                          Comparative Study of Government and Corporate Bonds
+Assignment                This assignment requires students to analyze the structure and
+description               functioning of the Indian Bond Market with reference to Government
+                          Securities (G-Secs) and Corporate Bonds using real-time data from
+                          the last 5–10 years. Students are expected to study the functioning of
+                          primary and secondary bond markets, auction mechanisms, repo
+                          markets, and bond valuation techniques.
+                          The assignment should include practical application of bond valuation
+                          concepts such as Time Value of Money (TVM), Yield to Maturity
+                          (YTM), Duration, Convexity, and risk analysis. Students must
+                          interpret bond market trends using data from RBI, SEBI, NSE, BSE,
+                          CCIL, or other reliable financial databases.
+                          Students should critically evaluate how interest rate movements,
+                          inflation, and liquidity conditions influence bond prices and
+                          yields. They should also discuss the contribution of efficient
+                          bond markets toward economic growth and financial market
+                          stability, linking their analysis with SDG 8 – Decent Work and
+                          Economic Growth.
+Submission mode           Moodle
+Submission deadline
+Individual/Group          Individual
+Assignment
+Submission                Select one Government Bond and one Corporate Bond listed in
+Guidelines                India for comparative analysis.
+                               Provide a brief justification for selecting the bonds,
+                                  highlighting market relevance, maturity profile, and investor
+                                  importance.
+                               Collect and analyze historical data related to:
+                                       o Bond prices
+                                       o Coupon rates
+                                       o Yield movements
+                                       o RBI auction data
+                                       o Repo rate trends
+                               Apply at least two bond valuation or risk assessment
+                                  techniques learned in Units 1 and 2.
+                               Demonstrate interpretation of auction mechanisms and market
+                                  behavior.
+                               Use graphs, yield trend charts, duration tables, and valuation
+                                  illustrations for better clarity.
+                               Include proper citations, references, and data sources.
+
+Evaluation Rubric/s:
+PLG            PLG 4 - Problem Solving
+PLO 4.1        Evaluate complex business issues and their implications (RBTL5)
+CLO            CLO 1: Explain the structure and functioning of the bond market in India.
+               CLO 2: Demonstrate techniques for bond valuation and risk assessment.
+Maximum        20 Marks
+Marks
+Criteria /                        Very Good                                          Below
+                   Excellent (5)                      Good (3)     Average (2)
+Weightage                         (4)                                             Average (1)
+1. Data        Used 5–10 years of Used              Used           Insufficient   Data
+Accuracy &       data from 3 or more adequate data       limited data   data and       inaccurate or
+Research         reliable sources with from 2            with some      weak           unreliable
+Quality (PLO     proper citations and reliable           missing        citation       sources
+4.1)             accuracy.             sources with      details.       support.       used.
+                                       minor citation
+                                       issues.
+                 Applied 3 or
+2. Analysis &
+                 more                  Applied 2
+Application of                                           Applied 1      Weak or        No proper
+                 valuation/risk        models
+Bond                                                     model with     incorrect      valuation
+                 models correctly      correctly with
+Valuation                                                basic          application    analysis
+                 with strong           good
+Concepts                                                 explanation.   of concepts.   attempted.
+                 quantitative          interpretation.
+(PLO 4.1)
+                 interpretation
+                 Excellent
+                 comparison
+3.
+                 between               Good
+Comparative                                              Basic          Superficial    No
+                 Government and        comparison
+Insights    &                                            comparison     comparison     meaningful
+                 Corporate Bonds       with
+Market                                                   with limited   and unclear    comparison
+                 with strong           meaningful
+Understandin                                             insights.      findings.      attempted.
+                 insights on risks,    interpretation.
+g (PLO 4.1)
+                 auctions, and
+                 yields.
+                 Well-structured,
+4.                                                                                     Unstructured
+                 analytical,           Good              Adequate       Poor
+Presentation                                                                           report
+                 visually rich         structure and     presentation   organization
+& Report                                                                               without
+                 report with           visuals with      and            and limited
+Quality (PLO                                                                           references or
+                 excellent             minor issues.     formatting.    visuals.
+4.1)                                                                                   visuals.
+                 referencing.
+
+CIA-II Details:
+Course Objectives           CO3: Analyse yield curves and their implications for market
+                            trends and policy decisions.
+Assignment Details          Written Test during Mid-Term Examination
+Assignment                  Section – A: Short Answer Questions - Student Should answer
+description                 Three out of Five Questions. Each Question Carries FIVE
+                            Marks. 3 X 5 = 15 Marks.
+                            Section – B: Long Answer Questions – Student should answer
+                            two questions with internal Choice. 2 X 10 = 20 Marks.
+                            Section – C: Case Study (Compulsory) – 15 Marks
+Submission mode             Moodle
+Submission deadline
+Individual/Group            Individual
+Assignment
+Submission
+Guidelines
+
+
+
+
+CIA-III Details:
+Course Objectives     CO4: Develop and evaluate bond portfolio strategies using
+                      practical tools.
+                      CO5: Understand and discuss emerging trends in the bond market,
+                      including green bonds and fintech innovations.
+Assignment Details    Sustainable and Digital Bond Markets: Innovations, Green
+                      Finance, and the Future of Fixed Income Securities
+Assignment            This group presentation requires students to explore emerging
+description           trends and innovations transforming global and Indian bond
+                      markets, with special focus on sustainability-linked bonds, green
+                      bonds, digital bonds, tokenized securities, and fintech-enabled
+                      bond analytics.
+                      Students are expected to critically analyze how technological
+                      innovations such as blockchain, fintech platforms, AI-driven
+                      analytics, and tokenization are reshaping the bond market
+                      ecosystem. The presentation should also examine the role of
+                      sustainable finance instruments in supporting environmental and
+                      economic objectives aligned with the United Nations
+                      Sustainable Development Goals (SDGs).
+                      Each group must evaluate recent developments in India and
+                      compare them with global practices in sustainable and digital
+                      bond markets. Students should use current market data, industry
+                      reports, RBI/SEBI guidelines, and case studies to demonstrate
+                      analytical understanding and practical relevance.
+                      The work should reflect conceptual clarity, teamwork, analytical
+                      thinking, presentation effectiveness, and linkage to SDG 9
+                      (Industry, Innovation and Infrastructure) and SDG 8
+                      (Decent Work and Economic Growth).
+Submission mode       Class Room Presentation / Submission in Moodle
+Submission deadline
+Individual/Group      Group
+Assignment
+Submission                   Each group shall consist of 4–5 students.
+Guidelines                   Each group must select one specific theme/topic related to
+                              Unit 5 to avoid duplication across groups.
+                             Suggested themes include:
+                                           o   Green Bonds in India
+                                           o   Sustainability-Linked Bonds
+                                           o   Blockchain and Tokenized Bonds
+                                           o   Digital Bond Platforms
+                                           o   ESG Investing and Fixed Income Markets
+                                           o   Fintech Innovations in Bond Analytics
+                                           o   Role of AI and Data Analytics in Bond Markets
+                                           o   Global vs Indian Green Bond Markets
+                                      The presentation must include:
+                                           o Conceptual explanation
+                                           o Industry examples/case studies
+                                           o Current market trends and statistics
+                                           o Regulatory developments
+                                           o Risks and future opportunities
+                                           o SDG linkage and economic implications
+                                      Students are expected to include visuals such as:
+                                           o Infographics
+                                           o Charts and graphs
+                                           o Comparative tables
+                                           o Market trend analysis
+                                      All sources, references, and data citations should be properly
+                                       acknowledged.
+
+Evaluation Rubric/s:
+PLG             PLG 4 - Problem Solving
+PLO 4.1         Evaluate complex business issues and their implications (RBTL5)
+CLO             CLO4: Develop and evaluate bond portfolio strategies using practical
+                tools.
+                CLO 5: Understand and discuss emerging trends in the bond market, including
+                green bonds and fintech innovations.
+Maximum         20 Marks
+Marks
+Criteria /                              Very Good                                           Below
+                  Excellent (5)                           Good (3)      Average (2)
+Weightage                               (4)                                               Average (1)
+                Extensive use of
+1. Research                                             Adequate                          Inaccurate
+                current and reliable    Good use of                     Limited
+Quality &                                               research                          or
+                sources with            reliable data                   research and
+Data                                                    with limited                      insufficient
+                excellent data          sources with                    weak data
+Accuracy                                                supporting                        research
+                interpretation and      minor gaps.                     interpretation.
+(PLO 4.1)                                               data.                             evidence.
+                citations.
+2. Conceptual   Demonstrates            Good            Basic           Superficial       Concepts
+Understandin    deep                    conceptual      understandin    discussion        unclear or
+g           &   understanding of        understandin    g with          and weak          incorrectly
+Analytical      sustainability/digit    g with          limited         interpretation.   explained.
+Insights (PLO   al bond concepts        meaningful      analytical
+4.1)            with strong             analysis.       depth.
+                analytical insights
+                and industry
+               relevance.
+               Excellent
+3.             comparison of        Good            Limited        Weak            No
+Comparative    Indian and global    comparison      comparison     industry        meaningful
+& Industry     practices with       and practical   and            relevance and   comparison
+Application    strong practical     examples        moderate       incomplete      or practical
+(PLO 4.1)      relevance and        used.           application.   comparison.     application.
+               SDG linkage.
+               Highly engaging
+4.                                  Good            Adequate                       Disorganize
+               presentation,
+Presentation                        delivery and    presentation   Weak            d
+               excellent
+Skills &                            coordination    with           communicatio    presentation
+               teamwork, visuals,
+Team                                with            moderate       n or poor       with lack of
+               communication,
+Coordination                        effective       coordination   coordination.   participatio
+               and time
+(PLO 4.1)                           visuals.        .                              n.
+               management.
+
+Suggested Areas for Analysis
+Sustainability-Linked Bonds
+Students may analyze:
+     Green bonds and ESG financing
+     Role of sustainable bonds in economic development
+     Regulatory framework for green finance
+     Global growth of ESG investing
+     Challenges in sustainable bond markets
+Digital and Tokenized Bonds
+Students may analyze:
+     Blockchain applications in bond issuance
+     Smart contracts in fixed income securities
+     Tokenized debt instruments
+     Fintech platforms for bond trading
+     Cybersecurity and operational risks
+Analytics and Innovation
+Students may discuss:
+     Use of Excel and Bloomberg in bond analytics
+     AI-driven bond valuation tools
+     Data visualization in debt market analysis
+     Predictive analytics in fixed income markets
+
+Recommended Data Sources
+    Reserve Bank of India (RBI)
+    Securities and Exchange Board of India (SEBI)
+    NSE India
+    BSE India
+    CCIL
+    IMF Database
+    World Bank Database
+    Investing.com / Bloomberg / Trading Economics
+CIA-IV: End Semester Examination
+
+
+       QUESTION PAPER PATTERN FOR END SEMESTER EXAMINATION (ESE)
+
+
+   Section A has 3 questions with internal choice (of 5 marks each) (3x5=15 marks): 1a or
+    1b, 2a or 2b, 3a or 3b
+   Section B has 2 questions with internal choice (of 10 marks each) (2x10=20 marks): 4a
+    or 4b, 5a or 5b
+   Section C has 1 compulsory question (of 15 marks) (1x15=15 marks)
+
+
+
+
+         Prepared by:                        Reviewed by                     Approved by:
+      Dr. G N P V Babu                   Dr. Rameesha Kalra
+
+
+             Signature:                      Signature:                        Signature:
+

@@ -1,0 +1,680 @@
+                                   COURSE PLAN
+                              EVEN SEMESTER 2026-27
+                                      SECTION I
+
+
+
+Semester         V                                 Programme      &    5 BBA
+                                                   Class
+
+Course Code      BBA301F-5                         Course Type         DSE
+
+Course Title     Security    Analysis        and LCA                  No
+                 Portfolio Management
+
+Total Hours      45                                Hours per week      3
+
+
+
+Faculty Name     Dr Nijumon K John                 Contact Details
+                                                   and Office Hours nijumon.k.john@christuni
+                                                                    versity.in
+
+Class Policies        •   All students are required to adhere to the norms of conduct as per the
+and Guidelines            policies of the school.
+                      •   Students are expected to be present and seated before the session
+                          begins.
+                      •   Students should review previous topics and bring required materials for
+                          every session.
+                      •   Students are encouraged to engage in class discussions, case studies,
+                          and problem-solving activities.
+                      •   Smartphones/laptops/other electronic devices can be used during the
+                          session only with the prior permission of the faculty member.
+                      •   Respectful listening and contribution are key to meaningful learning.
+                      •   Maintain classroom decorum, respect peers and faculty, and use
+                          appropriate academic language.
+                      •   Plagiarism or copying during assignments, quizzes, or class exercises
+                          will result in disciplinary action.
+                      •   All assignments and Continuous Internal Assessments (CIAs) must be
+                          submitted on or before the due date.
+                      •   Late submissions will not be accepted without valid reasons and prior
+                          approval.
+                      •   Students should regularly check their institutional email, google
+                          classroom and official WhatsApp group for the subject related official
+                          updates.
+Course        This course provides students with a comprehensive understanding of
+Description   investment strategies and portfolio construction. It covers basic investment
+              concepts and types of financial instruments. The course then delves into
+              security analysis, including both fundamental and technical analysis methods
+              for evaluating stocks, bonds, and other assets. Students will learn security
+              pricing and valuation techniques to determine the true value of investments.
+              The course further explores portfolio models and analysis, emphasizing
+              optimal portfolio construction and risk-return trade-offs. It also covers
+              portfolio evaluation, focusing on performance measurement and techniques for
+              assessing portfolio success. This course equips students with the skills needed
+              to analyze securities, construct diversified portfolios, and evaluate investment
+              performance effectively.
+
+Course        This course will help the learner to
+Objectives       1. Understand key investment concepts and financial instruments
+                 2. Apply fundamental and technical analysis techniques to evaluate
+                     securities.
+                 3. Analyze different methods of security pricing and valuation to
+                     determine the intrinsic value of various investment instruments.
+                 4. Construct optimal portfolios using portfolio theory and models
+                 5. Evaluate the success of investment portfolios by applying appropriate
+                     performance measurement tools
+
+Course        On having completed this course student should be able to:
+Outcomes      CLO1 Explain the key investment concepts, financial markets, and various
+              financial instruments used in investment decisions.
+              CLO2 Apply fundamental and technical analysis techniques to assess and
+              evaluate securities in different market situations.
+              CLO3 Analyze security pricing and valuation methods to determine the
+              intrinsic value of investment instruments
+              CLO4 Construct optimal investment portfolios using portfolio theories and
+              portfolio management models.
+              CLO5 Evaluate the performance and success of investment portfolios using
+              appropriate performance measurement techniques.
+
+
+
+
+                                     SECTION II
+Week (starting Module/ Unit/ Topic details           Andragogy/Teac Resource/          Reference
+and end dates)                                       hing-Learning  details
+                                                     strategies
+
+
+
+
+                    Unit 1: Introduction to Lecture                 &    Frank K. Reilly & Keith
+                    Equity Investments                Discussion/        C. Brown (2020)
+Week 1 and 2        (8 Hrs)                           Simulation    of
+                                                      investor           Investment Analysis &
+                    Meaning and objectives of profiling                  Portfolio Management
+                    equity investment, Importance
+                    of savings and equity                                Fischer D.E. (2018).
+6th July-11th Jul   investment in wealth creation,                       Security Analysis and
+                    Investment,          speculation,                    Portfolio  Management.
+                    gambling, and arbitrage in                           Pearson Education
+13th Jul-18th Jul   equity markets, Risk in equity
+                    investment: Systematic and
+                    unsystematic risk, Market                            Harvard Business School
+                    risk, business risk, financial                       – Windward Investment
+                    risk, liquidity risk.                                Management Case
+
+                    Risk –Return Analysis for
+                    Single Security: Holding
+                    Period Return, Total Return,
+                    Standard Deviation, Variance,
+                    Correlation,       Covariance,
+                    Regulatory framework of
+                    equity markets in India (SEBI,
+                    stock exchanges),Profile of
+                    Indian equity investors and
+                    factors influencing equity
+                    investment decisions
+                    Unit 2: Equity Security
+                    Analysis – Fundamental
+Week 3,4 and 5      Analysis
+                    (9Hrs)
+                                                                Fischer D.E. (2018).
+20th Jul-25th Jul
+                Concept and importance of                       Security Analysis and
+                fundamental          analysis, Lecture/Discussi Portfolio     Management.
+                Economy analysis: ,Industry on/ Case Study/ Pearson Education
+                analysis                        Simulation
+                                                (Boardroom)/Tr Harvard Business School
+                Company analysis, Analysis ading                – Apple Inc. in 2020
+                of financial statements: Profit Simulation      (Covers           company
+                & Loss Account, Balance                         analysis,          industry
+  th    st
+27 Jul-1 Aug Sheet, Cash Flow Statement                         position,         financial
+                                                                statement         analysis,
+                Equity-focused       financial                  profitability, cash flows,
+                ratios and valuation ratios,                    and valuation aspects)
+2nd Aug-7th Aug Margin of safety concept
+
+
+
+
+Week 6,7 and 8      Unit 3: Equity Security Case                      Fischer D.E. (2018).
+                    Analysis      –      Technical Study/Lecture/D    Security Analysis and
+                    Analysis (11 hrs)              iscussions/Probl   Portfolio  Management.
+                                                   em                 Pearson Education
+                    Introduction and assumptions Solving/Trading
+16th Aug-21th       of technical analysis,Charting Simulation         Madhumati, R.M. (2008).
+Aug                 techniques: line, bar, point                      Investment Analysis and
+                    and figure charts ,Japanese                       Portfolio  Management.
+                    candlestick charts, Single                        New Delhi:      Pearson
+                    candlestick                                       Education
+                    patterns:Marubozu, Doji,
+                    Spinning Top ,Hammer,
+                    Hanging Man, Shooting Star                        Harvard Business Review
+23rd Aug-28th                                                         – What Drives Stock
+Aug                 Multiple candlestick patterns:                    Prices?
+                    Engulfing, Harami,                                (Discusses market trends,
+                    Piercing,Dark Cloud Cover,                        investor        behaviour,
+                    Gaps,Morning Star and                             momentum, and price
+30th Aug-4th Sep    Evening Star                                      movement factors relevant
+                                                                      to technical analysis)
+                    Dow Theory        and trend
+                    analysis,           Technical
+                   indicators:    Support  and
+                   resistance, RSI- Practical
+                   Problems, ROC- Practical
+                   problems, Moving averages
+                   (SMA and EMA) – Practical
+                   problems,             MACD-
+                   (Interpretation only)
+
+
+
+
+                   Unit 4: Equity Valuation                             Bhalla, V.K. (2008).
+Week 9 and 10      and Pricing                                          Investment Management.
+                   (08 hrs)                                             New Delhi: S. Chand
+
+                   Concept of equity valuation       Lecture/Discussi   Harvard Business School
+                   and intrinsic value ,Factors      on/ Problems       – Valuing Peloton
+6th Sep-11th Sep   influencing              equity   Solving/Trading    (Practical valuation case
+                   prices,Earnings       valuation   Simulation         involving equity pricing,
+                   model      and    P/E     ratio                      growth expectations, and
+                   analysis,Relative valuation:                         intrinsic value estimation)
+13th Sep-18th      P/B ratio and P/S ratio
+Sep
+                   Dividend           valuation
+                   models:Zero          growth
+                   model,Constant       growth
+                   model,Estimation of intrinsic
+                   value         of      equity
+                   shares,Forecasting    future
+                   equity prices
+                Unit 5: Equity Portfolio
+                Management and
+                Evaluation
+                (9 hrs)
+
+                Meaning and objectives of        Lecture/Discussi    Madhumati, R.M. (2008).
+                equity portfolio management,     on/Problem          Investment Analysis and
+20th Sep-25th   Portfolio return and portfolio   solving/Portfolio   Portfolio  Management.
+Sep             risk,Diversification and risk–   presentation        New Delhi:      Pearson
+                return trade-off in equity                           Education
+                portfolios
+                Modern Portfolio Theory                              Rina              Castillo:
+26th Sep-30th   (MPT):Contribution of Harry                          Implementing         Asset
+Sep             Markowitz,Efficient frontier                         Allocation Principles
+                and optimal equity portfolio                         (introductory    portfolio
+                                                                     management case on
+                Capital Asset Pricing Model                          diversification        and
+                (CAPM);Concept of beta and                           optimal          portfolio
+                systematic risk;Application of                       allocation)
+                CAPM in equity investment
+                decisions
+                Sharpe’s Single Index
+                Model:Assumptions and
+                relevance in equity portfolio
+                construction
+                Equity portfolio evaluation
+                measures:Sharpe
+                Ratio,Treynor Ratio,Jensen’s
+                Alpha
+                Equity investment
+                strategies:Active equity
+                investment strategies.Passive
+                equity investment strategies
+                Emerging trends in equity
+                portfolio management
+                                           SECTION III
+Mapping:
+
+ Programme Outcomes             CO1               CO2           CO3              CO4         CO5
+
+ PO3                            3                 3
+
+
+ PO4                                                            3                3           3
+
+
+
+Mapping of needs with the syllabus:
+
+ Course Outcomes         Local, Regional,    Cross-cutting issues Employability/Entr    Sustainable
+                         National, Global    relating          to epreneurship/ Skill   Development Goals
+                         and Development     Professional Ethics, Development
+                         Needs (LRNG)        Gender,       Human
+                                             Values,
+                                             Environment      and
+                                             Sustainability
+
+ CO1    Understand      National             NA                     Employability,      SDG 4
+ key        investment                                              Entrepreneurship
+ concepts and financial
+ instruments
+
+ CO2             Apply National, Global      NA                     Employability,      SDG 4
+ fundamental       and                                              Entrepreneurship
+                                                                    Skill Development
+ technical     analysis
+ techniques to evaluate
+ securities
+
+ CO3 Analyze different   National,Global     NA                     Employability,      SDG 4
+ methods of security                                                Entrepreneurship,
+                                                                    Skill Development
+ pricing and valuation
+ to    determine   the
+ intrinsic value of
+ various    investment
+ instruments
+
+ CO4 Construct optimal   National, Global    NA                     Employability       SDG 4
+                                                                    Entrepreneurship,
+ portfolios      using                                              Skill Development
+ portfolio theory and
+ models
+ CO5     Evaluate the National, Global     NA                 Employability       SDG 4
+ success of investment                                        Entrepreneurship,
+                                                              Skill Development
+ portfolios by applying
+ appropriate
+ performance
+ measurement tools
+
+ Topic/Module Details
+ I                      National           NA                 Employability       SDG 4
+
+
+ II                     National, Global   NAN                Employability       SDG 4
+                                                              Entrepreneurship
+
+ III                    National, Global   NA                 Employability       SDG 4
+                                                              Entrepreneurship
+
+ IV                     National, Global   NA                 Employability       SDG 4
+                                                              Entrepreneurship
+
+ V                      National, Global   NA                 Employability       SDG 4
+                                                              Entrepreneurship
+
+
+
+
+ Course Outcomes          Components of assessment (with the breakup of marks)
+
+
+                          CIA I                  CIA 2            CIA III           ESE
+
+
+ CO 1                          10 Marks            25 Marks                               5 Marks
+
+ CO 2                          10 Marks            25 Marks                               5 Marks
+
+ CO 3                                                                10 Marks         20 Marks
+
+ CO 4                                                                 5 Marks         15 Marks
+
+ CO 5                                                                 5 Marks             5 Marks
+
+
+
+Assessment outline:
+                     Components of assessment
+
+Components           CIA I                CIA II               CIA III              ESE
+
+Marks/Percentage     20 Marks             50        Marks 20 Marks                  50        Marks
+                                          (Converted to 25                          (Converted to 30
+                                          Marks)                                    Marks)
+
+
+                                     SECTION IV
+CIA I A
+Course Outcomes              CLO 1: Explain the key investment concepts, financial markets, and
+                             various financial instruments used in investment decisions
+                             CLO 2: Apply fundamental and technical analysis techniques to
+                             assess and evaluate securities in different market situations
+Assignment Details           Investment Behaviour and Emerging Investment Avenues in India
+
+
+Assignment description              Students shall undertake a practical and analytical study on
+                                    investment behaviour and emerging investment avenues in India by
+                                    interacting with investors and relating their observations to concepts
+                                    learned in class.
+                                    Task Requirements:
+                                    Part A: Investor Interaction
+                                    Interview any two investors from different backgrounds such as:
+                                •   Salary earner
+                                •   Trader
+                                •   Retired person
+                                •   Entrepreneur
+                                •   Student
+                                •   Business person
+
+                                    Students should collect information regarding:
+                                •   Preferred investment avenues
+                                •   Risk perception and return expectations
+                                •   Tax considerations influencing investment decisions
+                                •   Attitude towards speculation and emerging investments such as
+                                    cryptocurrencies
+                                •   Awareness of financial markets and investment instruments
+                                    Part B: Literature Review and AI-Based Comparative Analysis
+
+                                    Prepare a literature review on "Investment Behaviour and
+                                    Emerging Investment Avenues." The review should cover investor
+                                    behaviour, behavioural biases, and emerging investment avenues
+                                    such as ESG investments, REITs, InvITs, ETFs, thematic funds,
+                                    fintech-enabled investments, and other contemporary investment
+                                    opportunities.
+                                     The review must be based on at least 10 scholarly sources, including
+                                     peer-reviewed journal articles, books, and credible industry reports.
+
+                                     Use an AI tool (e.g., ChatGPT, Gemini, Claude, or similar) to
+                                     conduct a comparative analysis of the investment perceptions and
+                                     behaviour of people belonging to the same demographic group in
+                                     at least two different countries.
+                                     Compare the AI-generated insights with the findings from the
+                                     literature review and discuss the key similarities, differences, and
+                                     possible reasons for the observed variations. Students must also
+                                     disclose the AI tool and prompts used.
+
+
+
+
+ Submission mode             Google Classroom
+
+
+ Submission deadline         25th July 2026
+
+ Individual/Group            Individual
+ Assignment
+ Submission Guidelines       Report should be neatly formatted with proper headings
+                             Include interview summary, analysis, and conclusion
+
+Evaluation Rubrics
+
+PCG 2: Functional Knowledge and Application
+PCG3: Communication
+PLO 3.1 Develop professional presentations demonstrating effective visual presentation and oral
+skills (RBTL 3)
+CLO1: Explain the key investment concepts, financial markets, and various financial instruments
+used in investment decisions
+CLO2: Apply fundamental and technical analysis techniques to assess and evaluate securities in
+different market situations
+Maximum Marks (Converted to): 20 marks
+    Criteria /           (5)            (4)            (3)               (2)                (1)
+   Weightage*
+
+
+Analysis of        Thoroughly Effectively Provides                  Limited analysis Minimal or no
+Investment         analyzes        analyzes       adequate          with weak         meaningful
+Behaviour (Based investor          investor       analysis with connections           analysis.
+on investor        behaviour by behaviour         limited           between           Information is
+interactions) (PLO integrating     with good      integration of interviews and       largely
+3.1-CLO 1)         interview       linkage        interview         literature.       descriptive or
+                   findings with between          findings and      Important aspects incomplete.
+                                                  literature.       are overlooked.
+                   literature.     interviews and
+                                                  Interpretation is
+                   Identifies      literature.
+                                                  mostly
+                   patterns,       Minor gaps in descriptive.
+                   behavioural interpretation.
+                   biases, and
+                   emerging
+                   investment
+                   preferences
+                   with strong
+                   logical
+                   interpretation.
+Evaluation of AI- Critically       Evaluates AI- Makes a basic Comparison is          No meaningful
+Based              evaluates AI- generated        comparison        superficial with evaluation of AI-
+Comparative        generated       findings with  between   AI      little evidence-  generated
+Analysis (PLO      insights        relevant       output and        based evaluation findings or
+3.1-CLO 2)         against         comparison to literature with or justification     literature; lacks
+                   scholarly       literature.    limited  critical                   critical
+                   literature.     Provides       evaluation.                         judgement.
+                   Justifies       reasonable
+                   similarities justification
+                   and             with minor
+                   differences omissions
+                   across
+                   countries with
+                   well-
+                   supported
+                   arguments and
+                  acknowledges
+                  AI limitations
+
+
+
+CIAI B
+Course Outcomes                              CLO 1: Explain the key investment
+                                             concepts, financial markets, and various
+                                             financial instruments used in investment
+                                             decisions
+                                             CLO 2: Apply fundamental and technical
+                                             analysis techniques to assess and evaluate
+                                             securities in different market situations
+Assignment Details                           CIA I B
+Assignment description                       There will be 20 questions on understanding
+                                             concepts, each worth one mark. Each
+                                             question carries a weight of 50%, with no
+                                             negative markings
+Submission mode                              Classroom
+Submission deadline                          25th July 2026
+Individual/Group Assignment                  Individual
+Submission Guidelines                        MCQ
+
+
+
+
+CIA II
+
+Course Outcomes              CLO1: Explain the key investment concepts, financial markets, and
+                             various financial instruments used in investment decisions
+                             CLO2: Apply fundamental and technical analysis techniques to assess
+                             and evaluate securities in different market situations
+Individual Assignment        Mid-semester examination – Compulsory Case Study
+Details
+Assignment description       Evaluation based on embedded questions-Case study question
+Submission mode              Written Exam
+ Submission deadline           Mid-Semester Examination (any scheduled day from 9th Aug to 16th
+                               Aug 2026)
+ Individual/Group              Individual
+ Assignment
+ Submission Guidelines         Handwritten
+
+
+
+
+Evaluation Rubrics
+
+PCG 2: Functional Knowledge and Application
+PCG3: Communication
+PCG4: Problem Solving
+PLO 2.1 Analyse theories/techniques/concepts related to business and mangement domain
+PLO4.1 Evaluate complex business issues and their implications
+
+CLO1: Explain the key investment concepts, financial markets, and various financial instruments
+used in investment decisions
+CLO2: Apply fundamental and technical analysis techniques to assess and evaluate securities in
+different market situations
+
+Maximum Marks (Converted to): 15
+     Criteria /               (5)             (4)            (3)             (2)          (1)
+    Weightage*
+ Understanding andDemonstrates      Shows good         Shows          Shows basic   Shows poor
+ Interpretation  ofexcellent        understanding      moderate       understanding understanding
+ Fundamental       understanding with relevant         understanding with errors
+ Analysis          and accurate     interpretation     with limited
+ (CLO 2- PLO 4.2) interpretation of                    interpretation
+RBTL 2             company and
+                       financial data
+Application of         Accurately        Applies tools Applies tools Limited          Incorrect or
+Technical Analysis     applies technical correctly with with moderate application and incomplete
+Tools and Problem      tools and         minor errors accuracy        weak analysis application
+Solving (CLO 3 –       indicators with
+PLO 4.2)               clear analytical
+                       reasoning
+Analytical             Provides highly Provides good Provides         Weak            No proper
+Conclusion and         logical, data-    analytical     satisfactory conclusion with analysis or
+Investment             supported         conclusion     conclusion    limited         recommendatio
+Recommendatio          conclusions and with proper with some          analytical      n
+n (CLO 3- PLO          strong            justification justification support
+4.2)                investment
+RBTL 4              recommendation
+
+
+
+CIA III
+
+ Course Outcomes          CLO 5: Evaluate the performance and success of investment portfolios
+                          using appropriate performance measurement techniques
+ Group Assignment         Build Your Gen Z Smart Equity Portfolio
+ Details
+ Assignment description   Students will work in groups as a young investment advisory team managing
+                          a hypothetical investment fund for Gen Z investors. The assignment integrates
+                          equity valuation, portfolio construction, portfolio performance evaluation, and
+                          investment communication using contemporary portfolio management
+                          techniques.
+                          Phase 1: Equity Valuation and Analysis
+                          Select 3–5 listed Indian equity stocks from different sectors. Analyze the
+                          factors influencing their prices and estimate their intrinsic values using
+                          appropriate valuation techniques such as P/E Ratio, P/B Ratio, P/S Ratio,
+                          and Dividend Valuation Models. Compare intrinsic values with market
+                          prices, forecast future price movements, and identify undervalued or
+                          overvalued stocks.
+                          Deliverable: A valuation summary table and analytical interpretation
+                          Phase 2: Portfolio Construction
+                          Construct an equity portfolio for a hypothetical investment amount
+                          (₹10,00,000). Justify the allocation based on the risk-return trade-off and
+                          apply any two portfolio management concepts such as Modern Portfolio
+                          Theory (MPT), CAPM, or Sharpe's Single Index Model.
+                          Deliverable: Portfolio allocation chart and risk-return analysis
+                          Phase 3: Portfolio Evaluation and Gen Z Pitch
+                          Evaluate the portfolio using Sharpe Ratio, Treynor Ratio, and Jensen's
+                          Alpha. Present the investment strategy through a 5-minute Gen Z-style
+                          digital pitch (Reel, Canva presentation, or Digital Poster) highlighting
+                          portfolio suitability, expected returns, risks, and long-term investment
+                          strategy.
+                          Deliverable: Written Report (2500–3000 words), Creative Digital Pitch
+                          Presentation
+
+                          Mock Stock Challenge
+                          Each group will participate in two Mock Stock Market trading sessions, where
+                          portfolio decisions and investment strategies will be tested in a simulated
+                          market environment. Performance in the simulation, investment rationale, and
+                          decision-making process will contribute 25% of the overall assignment marks.
+ Submission mode               Google Classroom and pitch presentation inside the class
+
+
+
+ Submission deadline           24th Sep 2026
+ Individual/Group              Group of 4 students
+ Assignment
+
+ Submission Guidelines             •   Each group shall submit soft copy containing valuation
+                                       analysis, portfolio construction, portfolio evaluation, and
+                                       investment recommendations.
+                                   •   The report must include supporting financial data, charts,
+                                       calculations, references, and screenshots/source links used for
+                                       analysis.
+                                   •   The creative investment pitch (Reel/Canva/Digital Poster
+                                       Presentation) should be within 5 minutes and all group
+                                       members must participate in the presentation.
+                                   •   Proper citation of financial data sources, annual reports, stock
+                                       exchange data, or investment websites must be included to
+                                       avoid plagiarism
+
+
+Evaluation Rubric – CIAIII
+PCG 4 Problem Solving
+PLO 4.1 Evaluate complex business issues and their implications
+PLO 4.2 Propose solutions for complex business problems to operate effectively in the dynamic business
+environment
+Maximum Marks (Converted to): 20 Marks
+    Criteria /
+   Weightage*              5                4                 3                 2                1
+
+ Equity Valuation Thoroughly
+    and Stock        analyzes
+                                 Sound analysis
+  Analysis (PLO stocks using                        Adequate
+                                       with                                 Limited
+   4.1-CLO 3)      appropriate                    analysis with                         Minimal analysis
+                                   appropriate                           analysis with
+                     valuation                     acceptable                              with little
+                                    valuation                             incorrect or
+                   models with                    application of                          evidence of
+                                  methods and                             incomplete
+                     accurate                       valuation                           understanding or
+                                     logical                             application of
+                  interpretation                 techniques but                            incorrect
+                                 interpretation.                           valuation
+                    and strong                       limited                               valuation.
+                                 Minor gaps in                              methods
+                   justification                 interpretation.
+                                  justification.
+                     for price
+                    forecasts.
+                   Develops a
+                   well-
+                   diversified    Constructs a
+                                                                    Portfolio lacks
+Portfolio          portfolio with suitable         Portfolio is                     Portfolio is
+                                                                    diversification
+Construction and excellent        portfolio with   reasonably                       poorly designed
+                                                                    or demonstrates
+Risk–Return        application of good             constructed with                 with little or no
+                                                                    weak
+Analysis (PLO 4.2- portfolio      application of   basic                            analytical
+                                                                    application of
+CLO 4)             theories and portfolio          justification.                   justification.
+                                                                    concepts.
+                   clear risk-    concepts.
+                   return
+                   justification.
+Evaluation of      Critically     Effectively      Basic evaluation Superficial      No meaningful
+Portfolio          evaluates      evaluates        with limited      evaluation with evaluation or
+Performance and portfolio         portfolio        interpretation of weak            incorrect
+Investment         performance performance         performance       conclusions and interpretation of
+Decisions (PLO using              with relevant    measures          limited         portfolio
+4.2-CLO 5)         appropriate conclusions.                          evidence.       performance.
+                 measures and
+                 provides well-
+                 supported
+                 investment
+                 recommendati
+                 ons.
+                 Delivers a
+                 highly
+                 persuasive
+                                                                                Poor
+                 investment
+                                                                Presentation    presentation and
+                 pitch          Presents
+Investment Pitch supported by convincing      Communicates lacks clarity or ineffective
+                                              ideas adequately evidence, and investment
+and Mock Stock strong           recommendatio
+                                              with satisfactory investment      decisions with
+Performance (PLO evidence and ns with good
+                                              simulation        decisions are minimal
+4.2-CLO 5)       demonstrates performance in
+                                              performance.      weak during the participation in
+                 outstanding the simulation.
+                                                                simulation.     the Mock Stock
+                 decision-
+                                                                                Challenge.
+                 making during
+                 Mock Stock
+                 sessions
+
+
+
+            Prepared by:                      Reviewed by:                        Approved by:
+
+        Dr Nijumon K John                     Dr Suresha B                       Dr Anuradha R
+Signature:   Signature:   Signature:
+
