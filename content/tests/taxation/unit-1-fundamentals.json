@@ -1,62 +1,62 @@
 [
   {
-    "id": "U1-1-01", "node": "U1-1", "unit": "Unit 1", "type": "mcq", "marks": 1, "difficulty": "easy",
-    "question": "A levy that is added to the tax payable and must be spent only on a specified purpose is a:",
-    "options": ["A) Surcharge", "B) Cess", "C) Duty", "D) Fee"],
-    "answer": "B",
-    "explanation": "Cess is a tax on tax earmarked for a specific purpose (e.g. health and education). Surcharge is also levied on tax but goes to general revenue."
+    "id": "U1-1-01", "node": "U1-1", "unit": "Unit 1", "type": "mcq", "marks": 1, "difficulty": "medium",
+    "question": "Hari's income-tax on his total income, before surcharge and cess, is ₹3,00,000. Surcharge is 10% of that tax and health and education cess is 4%. What is the total tax Hari must pay?",
+    "options": ["A) ₹3,43,200", "B) ₹3,42,000", "C) ₹3,12,000", "D) ₹3,31,200"],
+    "answer": "A",
+    "explanation": "Surcharge = ₹30,000; cess = 4% of (₹3,00,000 + ₹30,000) = ₹13,200; total ₹3,43,200. The most tempting wrong option, ₹3,42,000, charges cess on the basic tax only (₹12,000) and ignores that cess is a tax on tax-plus-surcharge. ₹3,12,000 forgets the surcharge altogether."
   },
   {
     "id": "U1-1-02", "node": "U1-1", "unit": "Unit 1", "type": "mcq", "marks": 1, "difficulty": "easy",
-    "question": "Which of the following is a direct tax?",
-    "options": ["A) GST", "B) Customs duty", "C) Income tax", "D) Excise duty"],
-    "answer": "C",
-    "explanation": "The incidence of income tax cannot be shifted; it is borne by the person on whom it is levied. GST, customs and excise are passed on to buyers."
+    "question": "Shalini runs a bakery. She sells a cake for ₹500 plus ₹25 GST and, at year end, pays income tax on her profit. Which statement is correct?",
+    "options": ["A) Both are direct, because Shalini is the person who pays both to the government", "B) Income tax is direct (she bears it, cannot shift it); GST is indirect (she collects it from the buyer and passes it to the government)", "C) GST is direct because it is levied on her sale", "D) Both are indirect because both are collected by the government"],
+    "answer": "B",
+    "explanation": "Direct versus indirect depends on who finally bears the burden, not on who writes the cheque. Income tax stays with Shalini; GST is recovered from the customer through the price. The tempting wrong option is that both are direct because Shalini remits both: that confuses legal liability to deposit with incidence."
   },
   {
     "id": "U1-1-03", "node": "U1-1", "unit": "Unit 1", "type": "mcq", "marks": 1, "difficulty": "medium",
-    "question": "Deduction of tax at source from salary each month best illustrates which canon of taxation?",
-    "options": ["A) Canon of economy", "B) Canon of convenience", "C) Canon of equity", "D) Canon of diversity"],
-    "answer": "B",
-    "explanation": "Convenience: tax is collected at a time and in a manner convenient to the taxpayer, here as income is received."
+    "question": "A civic body demands a licence levy from street vendor Raju. The amount is 'to be fixed later by the inspecting officer' and the due date is announced only after the date has passed. Which canon of taxation is most directly violated?",
+    "options": ["A) Certainty", "B) Convenience", "C) Economy", "D) Diversity"],
+    "answer": "A",
+    "explanation": "The assessee must know how much, when and how to pay. Here amount and time are arbitrary, so certainty fails. Convenience (option for the payer's ease of timing, e.g. TDS) is the tempting wrong choice, but it concerns a suitable mode and time of payment, not whether the liability itself is fixed."
   },
   {
     "id": "U1-1-04", "node": "U1-1", "unit": "Unit 1", "type": "mcq", "marks": 1, "difficulty": "medium",
-    "question": "The slab rates applicable for a particular assessment year are prescribed by:",
-    "options": ["A) The Income-tax Rules, 1962", "B) CBDT circulars", "C) The annual Finance Act", "D) The Constitution of India"],
+    "question": "Ravi is a resident with total income of ₹3,80,000 for AY 2026-27 (new regime). The Finance Act fixes the nil slab at ₹4,00,000. A local tax office's internal letter tells him that tax is payable on income above ₹3,00,000. Is Ravi liable to pay tax?",
+    "options": ["A) Yes — the officer's letter overrides the Finance Act because the officer administers the Act", "B) Yes — CBDT circulars and letters prevail over the annual Finance Act", "C) No — slab rates are fixed by the Finance Act, an administrative letter cannot override it, and ₹3,80,000 is within the nil slab", "D) No — slab rates are fixed by the Income-tax Rules, 1962, which say ₹4,00,000"],
     "answer": "C",
-    "explanation": "The Income-tax Act is the permanent framework; each year's Finance Act amends rates, slabs and specific provisions."
+    "explanation": "Rates and slabs are fixed by the annual Finance Act. Circulars and letters only explain or administer the law and cannot create a liability the Act does not impose. Option C reaches the right result for the wrong reason: the Rules deal with procedure and valuation, not slabs."
   },
   {
     "id": "U1-1-05", "node": "U1-1", "unit": "Unit 1", "type": "short", "marks": 5, "difficulty": "easy",
-    "question": "Distinguish between direct and indirect taxes, with two examples of each.",
-    "model_answer": "| Basis | Direct tax | Indirect tax |\n|---|---|---|\n| Levy and burden | Levied on and borne by the same person | Levied on one person (seller), burden passed to another (buyer) |\n| Shifting of incidence | Cannot be shifted | Can be shifted through price |\n| Nature | Generally progressive, based on ability to pay | Generally regressive, same rate for all buyers |\n| Base | Income, wealth | Goods and services, transactions |\n| Examples | Income tax, (erstwhile) wealth tax | GST, customs duty |",
+    "question": "For each situation, state whether the tax is DIRECT or INDIRECT, and whether the person named can legally shift the burden to someone else (Yes/No with reason):\n\n(i) Meera, a freelance designer, pays income tax of ₹40,000 on her annual profit.\n(ii) Arun's store pays customs duty of ₹2,00,000 on imported speakers and adds it to the shelf price.\n(iii) A restaurant charges 5% GST on a ₹2,000 bill to the guest.\n(iv) Mr. Das's employer deducts ₹6,000 per month as TDS from his salary.\n(v) A manufacturing company pays corporate income tax on its profit of ₹50 lakh.",
+    "model_answer": "| Situation | Type | Can burden be shifted? | Deciding rule |\n|---|---|---|---|\n| (i) Meera's income tax | Direct | **No** | Levied on and borne by the same person; incidence cannot be shifted |\n| (ii) Customs duty | Indirect | **Yes** — to customers via price | Tax on goods; importer pays but recovers it from buyers |\n| (iii) GST on restaurant bill | Indirect | **Yes** — the guest bears it | Collected by the seller, borne by the buyer |\n| (iv) TDS on salary | Direct | **No** | TDS is only a *mode of collection* (convenience); the tax is still Mr. Das's income tax |\n| (v) Corporate tax | Direct | **No** | Levied on the company's own income; it cannot be passed to customers as a tax |\n\nTrap: (iv) is not indirect just because the employer hands the money to the government.",
     "marking_scheme": [
-      { "point": "Incidence/shifting distinction clearly stated", "marks": 1 },
-      { "point": "Who is levied vs who bears the burden", "marks": 1 },
-      { "point": "Progressive vs regressive nature", "marks": 1 },
-      { "point": "Base of tax (income vs goods/services)", "marks": 1 },
-      { "point": "Two correct examples of each", "marks": 1 }
+      {"point": "(i) Direct, cannot shift, with the same-person rule", "marks": 1},
+      {"point": "(ii) Indirect, burden passed on via price", "marks": 1},
+      {"point": "(iii) Indirect, buyer bears it", "marks": 1},
+      {"point": "(iv) Direct; TDS recognised as a collection mechanism, not a different tax", "marks": 1},
+      {"point": "(v) Direct, cannot shift", "marks": 1}
     ]
   },
   {
     "id": "U1-1-06", "node": "U1-1", "unit": "Unit 1", "type": "short", "marks": 5, "difficulty": "medium",
-    "question": "Explain any five principles (canons) of a good taxation system.",
-    "model_answer": "1. **Equity** — tax according to ability to pay; progressive rates.\n2. **Certainty** — the amount, time and manner of payment must be clear, not arbitrary.\n3. **Convenience** — collected at a time and in a manner convenient to the taxpayer (e.g. TDS).\n4. **Economy** — cost of collection should be small relative to revenue.\n5. **Productivity / elasticity** — should yield adequate revenue that grows with the economy.\n\nAlso acceptable: simplicity, diversity, flexibility.",
+    "question": "Name the canon of taxation that is VIOLATED (or, in (iv), satisfied) in each situation and justify in one line:\n\n(i) It costs the government ₹40 to collect every ₹100 of a new levy on roadside tea stalls.\n(ii) A wealthy trader and a daily-wage worker each pay a flat annual levy of ₹5,000.\n(iii) Farmers are allowed to pay their tax in two instalments after the harvest is sold.\n(iv) The tax slabs, due dates and rates for the year are published in the Finance Act before the year starts.\n(v) The government raises almost all its revenue from a single tax on petrol.",
+    "model_answer": "| Situation | Canon | Reason |\n|---|---|---|\n| (i) ₹40 cost per ₹100 raised | **Economy violated** | Cost of collection is too high relative to yield |\n| (ii) Flat ₹5,000 on rich and poor | **Equity violated** | Burden is not according to ability to pay; no progression |\n| (iii) Post-harvest instalments | **Convenience satisfied** | Time and manner suit the taxpayer's cash flow (same idea as TDS on salary) |\n| (iv) Published slabs and dates | **Certainty satisfied** | Taxpayer knows amount, time and manner in advance |\n| (v) Single-tax reliance | **Diversity violated** (also productivity/elasticity risk) | Revenue should come from many sources; one source is fragile |\n\nNote that (iii) is *satisfied* convenience, not a violation.",
     "marking_scheme": [
-      { "point": "Equity explained", "marks": 1 },
-      { "point": "Certainty explained", "marks": 1 },
-      { "point": "Convenience explained (with example)", "marks": 1 },
-      { "point": "Economy explained", "marks": 1 },
-      { "point": "Any fifth canon explained", "marks": 1 }
+      {"point": "(i) Economy violated with reason", "marks": 1},
+      {"point": "(ii) Equity violated with reason", "marks": 1},
+      {"point": "(iii) Convenience, correctly read as satisfied", "marks": 1},
+      {"point": "(iv) Certainty satisfied", "marks": 1},
+      {"point": "(v) Diversity violated", "marks": 1}
     ]
   },
   {
     "id": "U1-2-01", "node": "U1-2", "unit": "Unit 1", "type": "mcq", "marks": 1, "difficulty": "easy",
-    "question": "Income earned during 1 April 2025 to 31 March 2026 is assessed in:",
-    "options": ["A) AY 2025-26", "B) AY 2026-27", "C) AY 2027-28", "D) PY 2026-27"],
-    "answer": "B",
-    "explanation": "The previous year 2025-26 is followed by assessment year 2026-27."
+    "question": "Ashok started a trading business on 1 January 2026 and earned a profit of ₹90,000 by 31 March 2026 and a further ₹4,00,000 between April and September 2026. In which assessment year is the ₹90,000 assessed?",
+    "options": ["A) AY 2026-27 — his first previous year runs from 1 January 2026 to 31 March 2026", "B) AY 2027-28 — he must complete 12 months in business first", "C) AY 2025-26 — income is assessed in the year it is earned", "D) AY 2027-28 — together with the ₹4,00,000 earned later"],
+    "answer": "A",
+    "explanation": "A new business's first previous year runs from the date of setting up to the next 31 March, so the ₹90,000 belongs to PY 2025-26 and is assessed in AY 2026-27. The tempting option is the 12-months idea: a previous year need not be a full 12 months in the first year. The ₹4,00,000 earned from April 2026 falls in PY 2026-27 (AY 2027-28)."
   },
   {
     "id": "U1-2-02", "node": "U1-2", "unit": "Unit 1", "type": "mcq", "marks": 1, "difficulty": "medium",
@@ -67,28 +67,28 @@
   },
   {
     "id": "U1-2-03", "node": "U1-2", "unit": "Unit 1", "type": "mcq", "marks": 1, "difficulty": "medium",
-    "question": "A resident individual is 'not ordinarily resident' if he:",
-    "options": ["A) Stayed less than 182 days in the PY", "B) Fails either of the two additional conditions", "C) Is a foreign citizen", "D) Has income only from outside India"],
-    "answer": "B",
-    "explanation": "ROR requires both: resident in 2 of the 10 preceding years and 730 days in the 7 preceding years. Failing either makes a resident RNOR."
+    "question": "Dev is an Indian citizen who stayed in India for 182 days in PY 2025-26. He was resident in India in only 1 of the 10 preceding years and was in India for 800 days in the 7 preceding years. His residential status for AY 2026-27 is:",
+    "options": ["A) Resident but not ordinarily resident (RNOR)", "B) Resident and ordinarily resident (ROR), since 800 days is above 730", "C) Non-resident, since he was resident in only 1 of 10 years", "D) Deemed resident under section 6(1A)"],
+    "answer": "A",
+    "explanation": "182 days satisfies the first basic condition, so he is resident. ROR needs BOTH additional conditions; he meets the 730-day test (800) but fails the 2-of-10-years test, so he is RNOR. The tempting option is ROR on the strength of 800 days alone; one failed test is enough to make him RNOR. Failing the additional tests never makes a resident non-resident."
   },
   {
     "id": "U1-2-04", "node": "U1-2", "unit": "Unit 1", "type": "mcq", "marks": 1, "difficulty": "hard",
-    "question": "Income from a business in Singapore, controlled from India, received in Singapore is taxable in India in the case of:",
-    "options": ["A) ROR only", "B) ROR and RNOR", "C) All three statuses", "D) NR only"],
-    "answer": "B",
-    "explanation": "ROR is taxed on worldwide income. RNOR is also taxed on foreign income derived from a business controlled from or profession set up in India. NR is not."
+    "question": "Kabir is a resident but not ordinarily resident (RNOR) in PY 2025-26. He earns (a) ₹3,00,000 profit from a Singapore trading business controlled from Pune, received in Singapore, and (b) ₹2,00,000 rent from a London flat, received in London. His taxable income from these two items in India is:",
+    "options": ["A) ₹3,00,000", "B) ₹5,00,000", "C) ₹2,00,000", "D) Nil"],
+    "answer": "A",
+    "explanation": "An RNOR is taxed on foreign income only if it comes from a business controlled in India or a profession set up in India. (a) is controlled from Pune, so taxable; (b) is ordinary foreign rent received abroad, so not taxable. ₹5,00,000 is the ROR answer (worldwide income); Nil ignores the 'controlled from India' exception."
   },
   {
     "id": "U1-2-05", "node": "U1-2", "unit": "Unit 1", "type": "short", "marks": 5, "difficulty": "medium",
-    "question": "Explain the basic and additional conditions under Section 6 for determining the residential status of an individual.",
-    "model_answer": "**Basic conditions (either one makes the individual resident):**\n1. In India for **182 days or more** in the previous year; or\n2. In India for **60 days or more** in the PY **and 365 days or more** in the 4 preceding years.\n   The 60 days become **182** for an Indian citizen leaving India for employment or as crew, and for an Indian citizen/PIO visiting India (**120 days** if Indian income exceeds ₹15 lakh).\n\n**Additional conditions (both needed for ROR):**\n1. Resident in at least **2 of the 10** preceding years; and\n2. In India for **730 days or more** in the **7** preceding years.\n\nResident + both additional → **ROR**; resident failing either → **RNOR**; neither basic condition → **NR**. A citizen with Indian income over ₹15 lakh not taxed elsewhere is a **deemed resident** (RNOR) u/s 6(1A).",
+    "question": "State whether each person is RESIDENT or NON-RESIDENT in India for PY 2025-26 (basic conditions only), with the deciding rule:\n\n(i) Raj, an Indian citizen, was in India for 190 days in PY 2025-26.\n(ii) Tom, a US citizen, was in India for 70 days in PY 2025-26 and for 380 days in the four preceding years.\n(iii) Meena, an Indian citizen, left on 1 September 2025 to take up a job in Qatar. She was in India for 153 days in PY 2025-26 and 1,460 days in the four preceding years.\n(iv) Sophie, a French citizen, came to India for the first time and stayed 175 days in PY 2025-26 (nil in earlier years).\n(v) Ravi, an Indian citizen settled in Canada, visited India for 130 days in PY 2025-26 (900 days in the four preceding years). His Indian-source income is ₹9,00,000.",
+    "model_answer": "| Person | Status | Deciding rule |\n|---|---|---|\n| (i) Raj | **Resident** | 190 ≥ 182 days; citizenship is irrelevant, only presence counts |\n| (ii) Tom | **Resident** | 70 ≥ 60 days in the PY **and** 380 ≥ 365 days in the 4 preceding years; foreign nationality does not matter |\n| (iii) Meena | **Non-resident** | An Indian citizen leaving for employment abroad gets the 60-day limb replaced by 182 days; 153 < 182, so the 60 + 365 test (which she would otherwise pass) is not available |\n| (iv) Sophie | **Non-resident** | 175 < 182, and 60 + 365 fails because she has 0 days in the preceding four years; being 7 days short is still non-resident |\n| (v) Ravi | **Non-resident** | Visiting citizen/PIO: the 60-day limb becomes 182 days (120 only if Indian income exceeds ₹15 lakh; here ₹9 lakh); 130 < 182 |",
     "marking_scheme": [
-      { "point": "182-day basic condition", "marks": 1 },
-      { "point": "60 + 365-day basic condition with the citizen/PIO exception", "marks": 1 },
-      { "point": "2 of 10 years additional condition", "marks": 1 },
-      { "point": "730 days in 7 years additional condition", "marks": 1 },
-      { "point": "Correct conclusion rules for ROR / RNOR / NR", "marks": 1 }
+      {"point": "(i) Resident via 182 days", "marks": 1},
+      {"point": "(ii) Resident via 60 + 365", "marks": 1},
+      {"point": "(iii) NR; 182-day substitution for citizen leaving for employment", "marks": 1},
+      {"point": "(iv) NR; both tests failed", "marks": 1},
+      {"point": "(v) NR; visiting-citizen substitution with the ₹15 lakh threshold checked", "marks": 1}
     ]
   },
   {
@@ -96,67 +96,67 @@
     "question": "Ms. Yuki, a Japanese citizen, came to India for the first time on 1.10.2021 and has stayed continuously since. Days in India: PY 2021-22: 182; 2022-23: 365; 2023-24: 366; 2024-25: 365; 2025-26: 365.\n\nHer incomes for PY 2025-26:\n(a) Salary for services rendered in India ₹12,00,000\n(b) Rent from a house in London, received in London ₹3,00,000\n(c) Interest on fixed deposit with SBI, Mumbai ₹50,000\n(d) Profit from a business in Singapore controlled from India, received in Singapore ₹4,00,000\n(e) Dividend from a US company, received in the US ₹1,00,000\n(f) Income of PY 2020-21 earned and received in Japan, brought to India during the year ₹2,00,000\n\n(i) Determine her residential status for AY 2026-27. (ii) Compute her gross total income assuming she is (1) ROR, (2) RNOR, (3) NR.",
     "model_answer": "**(i) Residential status**\n- PY 2025-26: 365 days ≥ 182 → **Resident**.\n- Resident in preceding 10 years: 2021-22 (182 days), 2022-23, 2023-24, 2024-25 → 4 years ≥ 2 ✔\n- Days in preceding 7 years: 182 + 365 + 366 + 365 = 1,278 ≥ 730 ✔\n- Both additional conditions satisfied → **Resident and Ordinarily Resident**.\n\n**(ii) Gross total income**\n\n| Income | ROR | RNOR | NR |\n|---|---|---|---|\n| (a) Salary for services in India (accrues in India) | 12,00,000 | 12,00,000 | 12,00,000 |\n| (b) London rent received abroad | 3,00,000 | — | — |\n| (c) Interest from SBI (accrues in India) | 50,000 | 50,000 | 50,000 |\n| (d) Business in Singapore controlled from India | 4,00,000 | 4,00,000 | — |\n| (e) US dividend received abroad | 1,00,000 | — | — |\n| (f) Past foreign income remitted to India | — | — | — |\n| **GTI** | **20,50,000** | **16,50,000** | **12,50,000** |\n\n(f) is not income of the current year; remittance of past income is not taxable. (Rent would be computed under HP rules in a full problem; taken as given here.)",
     "marking_scheme": [
-      { "point": "Basic condition applied: resident (365 ≥ 182)", "marks": 1 },
-      { "point": "2-of-10 condition tested with years counted", "marks": 1 },
-      { "point": "730-in-7 condition tested with days totalled", "marks": 1 },
-      { "point": "Conclusion: ROR", "marks": 1 },
-      { "point": "Indian-source items (a), (c) taxable in all three", "marks": 1 },
-      { "point": "Foreign rent and dividend taxable only for ROR", "marks": 1 },
-      { "point": "Business controlled from India taxable for ROR and RNOR", "marks": 1 },
-      { "point": "Past remitted income excluded with reason", "marks": 1 },
-      { "point": "Correct GTI totals for all three statuses", "marks": 2 }
+      {"point": "Basic condition applied: resident (365 ≥ 182)", "marks": 1},
+      {"point": "2-of-10 condition tested with years counted", "marks": 1},
+      {"point": "730-in-7 condition tested with days totalled", "marks": 1},
+      {"point": "Conclusion: ROR", "marks": 1},
+      {"point": "Indian-source items (a), (c) taxable in all three", "marks": 1},
+      {"point": "Foreign rent and dividend taxable only for ROR", "marks": 1},
+      {"point": "Business controlled from India taxable for ROR and RNOR", "marks": 1},
+      {"point": "Past remitted income excluded with reason", "marks": 1},
+      {"point": "Correct GTI totals for all three statuses", "marks": 2}
     ]
   },
   {
     "id": "U1-3-01", "node": "U1-3", "unit": "Unit 1", "type": "mcq", "marks": 1, "difficulty": "easy",
-    "question": "A capital receipt is:",
-    "options": ["A) Always taxable", "B) Exempt unless specifically made taxable", "C) Always exempt", "D) Taxable only for companies"],
-    "answer": "B",
-    "explanation": "Capital receipts are exempt by default; a specific provision like s. 45 (capital gains) or s. 28(va) is needed to tax them."
+    "question": "Ravi, a trader, receives a bank loan of ₹6,00,000 to fund stock purchases. Is the ₹6,00,000 taxable in his hands?",
+    "options": ["A) No — it is a capital receipt (a liability, not income) and no provision taxes it", "B) Yes — it funds trading, so it is a revenue receipt", "C) Yes — every receipt of a trader is business income", "D) No — it is exempt under section 10(1)"],
+    "answer": "A",
+    "explanation": "A loan creates a liability to repay, so it is a capital receipt; capital receipts are exempt unless a specific provision (like s. 45) taxes them, and none does here. The tempting option is the first, which treats the purpose (trading) as deciding the nature; the nature of the receipt decides, not the use of the money. Section 10(1) is for agricultural income."
   },
   {
     "id": "U1-3-02", "node": "U1-3", "unit": "Unit 1", "type": "mcq", "marks": 1, "difficulty": "medium",
-    "question": "Income from agricultural land situated in Nepal received by a resident Indian is:",
-    "options": ["A) Exempt u/s 10(1)", "B) Taxable under Income from Other Sources", "C) Taxable under PGBP only", "D) Subject to partial integration"],
-    "answer": "B",
-    "explanation": "Section 10(1) exempts only agricultural income from land in India. Foreign agricultural income is taxable, generally under IFOS."
+    "question": "Mrs. Rao, a resident and ordinarily resident individual, leases out her agricultural land in Nepal and receives ₹2,00,000 as rent in her Indian bank account. This income is:",
+    "options": ["A) Taxable under Income from Other Sources", "B) Exempt u/s 10(1) as agricultural income", "C) Taxable under PGBP only", "D) Exempt because it is rent from agricultural land"],
+    "answer": "A",
+    "explanation": "Section 10(1) exempts only agricultural income from land situated in India. Rent from Nepal land is not agricultural income under s. 2(1A), so it is taxable (as ROR she is taxed on worldwide income) under IFOS. The tempting wrong option is the exemption: the nature (agricultural rent) is right but the location (outside India) disqualifies it."
   },
   {
     "id": "U1-3-03", "node": "U1-3", "unit": "Unit 1", "type": "mcq", "marks": 1, "difficulty": "easy",
-    "question": "Share of profit received by a partner from a firm is:",
-    "options": ["A) Taxable as business income", "B) Taxable under IFOS", "C) Exempt u/s 10(2A)", "D) Taxable as salary"],
+    "question": "Ajay is a partner in a firm. For the year he receives: share of profit ₹4,00,000; interest on capital ₹1,00,000 and partner's salary ₹1,20,000 (both within the limits allowed to the firm). How much is taxable in Ajay's hands as business income?",
+    "options": ["A) ₹7,20,000", "B) ₹4,00,000", "C) ₹2,20,000", "D) Nil"],
     "answer": "C",
-    "explanation": "The firm is taxed on its profits, so the partner's share is exempt u/s 10(2A). Contrast salary/interest from the firm, which is taxable u/s 28(v)."
+    "explanation": "Share of profit is exempt u/s 10(2A) because the firm has already paid tax on it. Interest and salary were deducted by the firm, so they are taxed in Ajay's hands u/s 28(v): ₹1,00,000 + ₹1,20,000 = ₹2,20,000. The tempting option is Nil, which wrongly extends the 'firm already taxed' logic to the amounts the firm was allowed to deduct."
   },
   {
     "id": "U1-3-04", "node": "U1-3", "unit": "Unit 1", "type": "mcq", "marks": 1, "difficulty": "medium",
-    "question": "Replacing a machine's major component so that its life is extended by five years is:",
-    "options": ["A) Revenue expenditure", "B) Capital expenditure", "C) A deferred revenue expense fully deductible", "D) Personal expenditure"],
+    "question": "Mehta Traders spent ₹40,000 on routine repairs of a machine and ₹3,00,000 on replacing its motor with one that extends the machine's life by six years. How much is deductible as revenue expenditure in the year?",
+    "options": ["A) ₹3,40,000", "B) ₹40,000", "C) ₹3,00,000", "D) Nil"],
     "answer": "B",
-    "explanation": "Expenditure that brings an enduring benefit or extends an asset's life is capital; it is recovered through depreciation."
+    "explanation": "Routine repairs keep the machine running, so they are revenue. The motor replacement gives an enduring benefit (six extra years) and is capital, recovered only through depreciation. The tempting option is ₹3,40,000, which treats everything spent on 'repairs' to the machine as revenue."
   },
   {
     "id": "U1-3-05", "node": "U1-3", "unit": "Unit 1", "type": "short", "marks": 5, "difficulty": "medium",
-    "question": "Define agricultural income under Section 2(1A). Is it taxable? Explain briefly how partial integration works and whether it applies under the new regime.",
-    "model_answer": "**Agricultural income (s. 2(1A))** means:\n1. Any **rent or revenue** derived from **land in India** used for agricultural purposes;\n2. Income from **agricultural operations** on such land, including **processing** of produce to make it marketable;\n3. Income from a **farmhouse** on or near such land, used by the cultivator/receiver of rent, subject to conditions.\n\n**Taxability:** exempt u/s **10(1)**.\n\n**Partial integration (old regime):** where net agricultural income exceeds ₹5,000 and non-agricultural income exceeds the basic exemption limit, tax is computed on (non-agri + agri income) minus tax on (basic exemption + agri income). The agricultural income is not taxed itself but raises the rate on non-agricultural income.\n\n**New regime:** partial integration is generally treated as **not applicable** under s. 115BAC; agricultural income remains exempt and does not affect the rate.",
+    "question": "Is each income exempt under section 10(1) as agricultural income? Answer Yes/No with the reason.\n\n(i) Ms. Devi sells sugarcane grown on her own 5-acre farm in Karnataka for ₹6,00,000.\n(ii) She leases another plot in Karnataka to a cultivator and receives ₹1,00,000 rent.\n(iii) Her brother earns ₹4,00,000 from a poultry farm in Karnataka.\n(iv) Her cousin, a resident Indian, earns ₹2,00,000 from a rice farm in Sri Lanka.\n(v) Devi's total income (non-agricultural) is ₹14,00,000 and net agricultural income ₹3,00,000. Under the new regime (s. 115BAC), does the agricultural income raise the rate of tax on her ₹14,00,000?",
+    "model_answer": "| Case | Exempt? | Deciding rule |\n|---|---|---|\n| (i) Sugarcane sale | **Yes** | Income from agricultural operations on land in India, s. 2(1A)(b) |\n| (ii) Rent from agri plot | **Yes** | Rent or revenue from land in India used for agriculture, s. 2(1A)(a) |\n| (iii) Poultry farm | **No** | Not income from land by cultivation; taxable as business income |\n| (iv) Sri Lanka farm | **No** | Section 10(1) covers only land situated in India; taxable under IFOS for a resident |\n| (v) Partial integration | **No effect** | Under 115BAC partial integration is treated as not applicable; agricultural income stays exempt and simply does not change the slab tax on ₹14 lakh (it is only disclosed in Schedule EI) |",
     "marking_scheme": [
-      { "point": "Rent/revenue from land in India used for agriculture", "marks": 1 },
-      { "point": "Agricultural operations including processing; farmhouse", "marks": 1 },
-      { "point": "Exempt u/s 10(1); foreign land excluded", "marks": 1 },
-      { "point": "Partial integration conditions and two-step method", "marks": 1 },
-      { "point": "Position under the new regime stated", "marks": 1 }
+      {"point": "(i) Exempt, 2(1A)(b) operations", "marks": 1},
+      {"point": "(ii) Exempt, rent from Indian agri land", "marks": 1},
+      {"point": "(iii) Not exempt, poultry is not agricultural", "marks": 1},
+      {"point": "(iv) Not exempt, foreign land", "marks": 1},
+      {"point": "(v) No rate effect under new regime", "marks": 1}
     ]
   },
   {
-    "id": "U1-3-06", "node": "U1-3", "unit": "Unit 1", "type": "short", "marks": 5, "difficulty": "easy",
-    "question": "Classify the following receipts as capital or revenue, and state whether taxable: (i) sale proceeds of goods by a trader, (ii) loan received from a bank, (iii) compensation received on compulsory acquisition of land, (iv) rent received from a business property by the owner, (v) sum received for a non-compete agreement.",
-    "model_answer": "| Receipt | Nature | Taxable? |\n|---|---|---|\n| (i) Sale of goods | Revenue | Yes — business income |\n| (ii) Bank loan | Capital | No — it is a liability, not income |\n| (iii) Compensation on compulsory acquisition | Capital | Yes — compulsory acquisition is a 'transfer', so capital gains (s. 45) |\n| (iv) Rent from property owned | Revenue | Yes — House Property |\n| (v) Non-compete fee | Capital in nature | Yes — specifically taxed u/s 28(va) |",
+    "id": "U1-3-06", "node": "U1-3", "unit": "Unit 1", "type": "short", "marks": 5, "difficulty": "medium",
+    "question": "For each receipt state whether it is taxable (Yes/No) and give the deciding rule:\n\n(i) Sandeep, a trader, sells goods worth ₹3,00,000 during the year.\n(ii) Priya takes a ₹5,00,000 loan from a bank to start a shop.\n(iii) Govt acquires Naveen's urban plot (held as an investment for 6 years; cost ₹8,00,000) compulsorily and pays ₹20,00,000.\n(iv) Leena lets out her own flat for ₹12,000 per month (₹1,44,000 a year).\n(v) Rahul, a doctor, receives ₹3,00,000 for agreeing not to practise in a particular city for 3 years (non-compete).",
+    "model_answer": "| Case | Taxable? | Deciding rule |\n|---|---|---|\n| (i) Sale of goods | **Yes** | Revenue receipt; business income |\n| (ii) Bank loan | **No** | Capital receipt, a liability not income; no section taxes it |\n| (iii) Compulsory acquisition | **Yes** — capital gain ₹12,00,000 (before any exemption/indexation rules) | A capital receipt, but compulsory acquisition is a 'transfer' and s. 45 specifically taxes the gain |\n| (iv) Rent | **Yes** | Revenue receipt; Income from House Property |\n| (v) Non-compete fee | **Yes** | Capital in nature, but s. 28(va) specifically taxes it as business/professional income |\n\nTraps: (ii) is not taxable even though it is a receipt; (iii) and (v) are capital receipts that are taxable because a specific provision says so.",
     "marking_scheme": [
-      { "point": "(i) revenue, taxable", "marks": 1 },
-      { "point": "(ii) capital, not taxable", "marks": 1 },
-      { "point": "(iii) capital, taxable as capital gains", "marks": 1 },
-      { "point": "(iv) revenue, taxable under HP", "marks": 1 },
-      { "point": "(v) capital, taxable u/s 28(va)", "marks": 1 }
+      {"point": "(i) Taxable, revenue", "marks": 1},
+      {"point": "(ii) Not taxable, capital liability", "marks": 1},
+      {"point": "(iii) Taxable under s. 45 despite being capital", "marks": 1},
+      {"point": "(iv) Taxable under House Property", "marks": 1},
+      {"point": "(v) Taxable under s. 28(va)", "marks": 1}
     ]
   }
 ]

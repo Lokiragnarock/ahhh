@@ -1,0 +1,1074 @@
+[
+  {
+    "id": "OS-1-A01",
+    "node": "OS-1",
+    "unit": "Unit 4B",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "Ravi receives dividend of ₹40,000 from an Indian company and pays his bank ₹600 as commission for collecting it. Can he deduct the ₹600 in computing IFOS?",
+    "options": [
+      "A) Yes — reasonable collection commission is deductible against all IFOS income",
+      "B) Yes, but only up to 20% of the dividend",
+      "C) No — against dividend only interest on borrowings (max 20%) is deductible, not commission",
+      "D) No — dividend is exempt in the hands of the shareholder"
+    ],
+    "answer": "C",
+    "explanation": "s. 57(i) proviso allows only interest, capped at 20% of dividend. Commission is allowed against interest on securities, which is why A is tempting; it is wrong for dividend. Dividend is taxable at slab rates since AY 2021-22, so D is wrong."
+  },
+  {
+    "id": "OS-1-A02",
+    "node": "OS-1",
+    "unit": "Unit 4B",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Priya received dividend of ₹60,000 and paid ₹18,000 interest on a loan taken to buy those shares. Interest deductible and dividend taxable are:",
+    "options": [
+      "A) ₹18,000 and ₹42,000",
+      "B) ₹12,000 and ₹48,000",
+      "C) ₹18,000 and ₹60,000",
+      "D) ₹6,000 and ₹54,000"
+    ],
+    "answer": "B",
+    "explanation": "Cap = 20% × 60,000 = 12,000; taxable 60,000 − 12,000 = 48,000. A allows the full interest, forgetting the 20% cap."
+  },
+  {
+    "id": "OS-1-A03",
+    "node": "OS-1",
+    "unit": "Unit 4B",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Mrs. Rao, a widow, receives family pension of ₹72,000 in the year. Under the new regime her taxable family pension is:",
+    "options": [
+      "A) ₹47,000",
+      "B) ₹48,000",
+      "C) ₹57,000",
+      "D) ₹72,000"
+    ],
+    "answer": "B",
+    "explanation": "Deduction = lower of 1/3 × 72,000 = 24,000 and ₹25,000 = ₹24,000; taxable ₹48,000. A applies the ₹25,000 limit without comparing it with 1/3."
+  },
+  {
+    "id": "OS-1-A04",
+    "node": "OS-1",
+    "unit": "Unit 4B",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "The same family pension of ₹72,000 is received by Mrs. Rao, who computes tax under the old regime. Taxable family pension is:",
+    "options": [
+      "A) ₹47,000",
+      "B) ₹48,000",
+      "C) ₹57,000",
+      "D) ₹72,000"
+    ],
+    "answer": "C",
+    "explanation": "Old-regime deduction is the lower of 1/3 (₹24,000) and ₹15,000 = ₹15,000; taxable ₹57,000. B uses the new-regime figure."
+  },
+  {
+    "id": "OS-1-A05",
+    "node": "OS-1",
+    "unit": "Unit 4B",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "Mr. Sen, a retired teacher, receives pension of ₹30,000 per month from his former school. Can he claim the s. 57(iia) family pension deduction?",
+    "options": [
+      "A) Yes — all pension is IFOS and 1/3 or ₹25,000 is deductible",
+      "B) Yes — but only ₹15,000",
+      "C) No — pension to the retired employee himself is salary, and s. 57(iia) applies only to family pension",
+      "D) No — pension is fully exempt"
+    ],
+    "answer": "C",
+    "explanation": "Family pension is received by legal heirs and is IFOS; the employee's own pension is salary (standard deduction under Unit 2 applies instead). A mixes the two."
+  },
+  {
+    "id": "OS-1-A06",
+    "node": "OS-1",
+    "unit": "Unit 4B",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "hard",
+    "question": "Kiran (new regime) earns ₹4,200 interest on his individual post office savings account and ₹4,200 interest on a bank savings account. Taxable interest is:",
+    "options": [
+      "A) Nil",
+      "B) ₹1,400",
+      "C) ₹4,900",
+      "D) ₹8,400"
+    ],
+    "answer": "C",
+    "explanation": "PO savings exemption u/s 10(15)(i) is ₹3,500 and applies only to that account; bank interest is fully taxable (no 80TTA): 700 + 4,200 = ₹4,900. A wrongly applies a ₹10,000 80TTA, which is not available under 115BAC."
+  },
+  {
+    "id": "OS-1-A07",
+    "node": "OS-1",
+    "unit": "Unit 4B",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Anil, a tenant, sublets part of his rented flat. He receives ₹90,000 for the year and pays the landlord ₹60,000 for that portion. The income is:",
+    "options": [
+      "A) ₹63,000 under House Property after 30% standard deduction",
+      "B) ₹30,000 under Income from Other Sources",
+      "C) ₹90,000 under Income from Other Sources",
+      "D) ₹30,000 under House Property"
+    ],
+    "answer": "B",
+    "explanation": "A tenant is not the owner, so House Property cannot apply; subletting is IFOS and rent paid for that portion is deductible u/s 57(iii): 90,000 − 60,000 = 30,000."
+  },
+  {
+    "id": "OS-1-A08",
+    "node": "OS-1",
+    "unit": "Unit 4B",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "hard",
+    "question": "Vikram holds 15% voting power in Zeta Pvt Ltd (closely held). The company lends him ₹5,00,000 while its accumulated profits are ₹3,00,000. Deemed dividend in his hands is:",
+    "options": [
+      "A) Nil — a loan is not income",
+      "B) ₹3,00,000",
+      "C) ₹5,00,000",
+      "D) ₹2,00,000"
+    ],
+    "answer": "B",
+    "explanation": "s. 2(22)(e): loan to a shareholder with at least 10% voting power is deemed dividend to the extent of accumulated profits, i.e. ₹3,00,000. C ignores the accumulated-profit ceiling."
+  },
+  {
+    "id": "OS-1-A09",
+    "node": "OS-1",
+    "unit": "Unit 4B",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "hard",
+    "question": "In December 2025 Asha tendered shares (cost ₹1,20,000) in a company buy-back and received ₹2,00,000. How is the receipt treated?",
+    "options": [
+      "A) Capital gain of ₹80,000",
+      "B) Dividend of ₹2,00,000 under IFOS, and ₹1,20,000 capital loss",
+      "C) Dividend of ₹80,000 under IFOS",
+      "D) Not taxable"
+    ],
+    "answer": "B",
+    "explanation": "From 1.10.2024 buy-back proceeds are deemed dividend (s. 2(22)(f)) in full; the cost becomes a capital loss. A is the pre-October-2024 answer."
+  },
+  {
+    "id": "OS-1-A10",
+    "node": "OS-1",
+    "unit": "Unit 4B",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Deepa, a resident, earns ₹1,50,000 from farming land she owns in Nepal. Is it exempt as agricultural income?",
+    "options": [
+      "A) Yes — all agricultural income is exempt u/s 10(1)",
+      "B) No — s. 10(1) covers only land in India, so it is taxed under IFOS",
+      "C) No — it is business income",
+      "D) Yes — but only up to ₹1,00,000"
+    ],
+    "answer": "B",
+    "explanation": "Only agricultural income from Indian land is exempt; foreign agricultural income is IFOS. A is the tempting wrong option."
+  },
+  {
+    "id": "OS-2-A01",
+    "node": "OS-2",
+    "unit": "Unit 4B",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Neha received ₹35,000 from a friend on Diwali and ₹20,000 from a colleague on her birthday in the same year. Taxable u/s 56(2)(x):",
+    "options": [
+      "A) Nil",
+      "B) ₹5,000",
+      "C) ₹55,000",
+      "D) ₹35,000"
+    ],
+    "answer": "C",
+    "explanation": "Neither is a relative and neither occasion is exempt; aggregate ₹55,000 exceeds ₹50,000 so the whole ₹55,000 is taxable. B treats ₹50,000 as an exemption instead of a threshold."
+  },
+  {
+    "id": "OS-2-A02",
+    "node": "OS-2",
+    "unit": "Unit 4B",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "Raj receives ₹1,00,000 from a friend of his father as a gift on the occasion of Raj's own marriage. Is it taxable?",
+    "options": [
+      "A) Yes — donor is not a relative",
+      "B) No — gifts on the occasion of the individual's marriage are exempt from anyone",
+      "C) Yes — only ₹50,000 is exempt",
+      "D) No — but only if the donor is a relative"
+    ],
+    "answer": "B",
+    "explanation": "Marriage of the recipient is an exempt occasion, irrespective of donor. A is tempting because it confuses the occasion exemption with the relative exemption."
+  },
+  {
+    "id": "OS-2-A03",
+    "node": "OS-2",
+    "unit": "Unit 4B",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "Rohit receives ₹1,00,000 by cheque from his cousin on his birthday. Is it taxable?",
+    "options": [
+      "A) No — a cousin is a relative",
+      "B) No — birthday gifts are exempt",
+      "C) Yes — a cousin is not a relative and a birthday is not an exempt occasion",
+      "D) Yes — but only ₹50,000"
+    ],
+    "answer": "C",
+    "explanation": "Cousins are outside the list of relatives; only marriage is an exempt occasion. Whole ₹1,00,000 taxable. A is the tempting error."
+  },
+  {
+    "id": "OS-2-A04",
+    "node": "OS-2",
+    "unit": "Unit 4B",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "Sheela receives ₹2,00,000 from her husband's brother. Taxable amount?",
+    "options": [
+      "A) ₹2,00,000",
+      "B) ₹1,50,000",
+      "C) ₹50,000",
+      "D) Nil"
+    ],
+    "answer": "D",
+    "explanation": "Spouse's brother is a relative; gifts from relatives are exempt without limit. B wrongly subtracts ₹50,000."
+  },
+  {
+    "id": "OS-2-A05",
+    "node": "OS-2",
+    "unit": "Unit 4B",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Tara received a gold necklace (FMV ₹45,000) from one friend and listed shares (FMV ₹30,000) from another friend, both without consideration. Taxable under s. 56(2)(x):",
+    "options": [
+      "A) Nil — each is below ₹50,000",
+      "B) ₹25,000",
+      "C) ₹75,000",
+      "D) ₹45,000"
+    ],
+    "answer": "C",
+    "explanation": "Jewellery and shares are specified movable property; FMV is aggregated: ₹75,000 > ₹50,000, so the whole is taxable. A tests each gift separately."
+  },
+  {
+    "id": "OS-2-A06",
+    "node": "OS-2",
+    "unit": "Unit 4B",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "hard",
+    "question": "Manoj bought land from a stranger for ₹30,00,000; its stamp duty value is ₹32,40,000. Taxable u/s 56(2)(x):",
+    "options": [
+      "A) ₹2,40,000",
+      "B) ₹1,90,000",
+      "C) ₹32,40,000",
+      "D) Nil"
+    ],
+    "answer": "D",
+    "explanation": "Difference ₹2,40,000 does not exceed the higher of ₹50,000 and 10% of consideration (₹3,00,000), so nothing is taxable. A taxes the difference by ignoring the 10% tolerance."
+  },
+  {
+    "id": "OS-2-A07",
+    "node": "OS-2",
+    "unit": "Unit 4B",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Rahul's only income is lottery winnings of ₹1,00,000 gross (new regime). Ignoring surcharge and the s. 87A rebate, his tax including 4% cess is:",
+    "options": [
+      "A) Nil — within the basic exemption limit",
+      "B) ₹31,200",
+      "C) ₹30,000",
+      "D) ₹1,00,000"
+    ],
+    "answer": "B",
+    "explanation": "s. 115BB: flat 30% with no basic exemption: 30,000 + 4% cess 1,200 = ₹31,200. C omits cess; A applies the basic exemption, which is not allowed against winnings."
+  },
+  {
+    "id": "OS-2-A08",
+    "node": "OS-2",
+    "unit": "Unit 4B",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Lalit received ₹2,10,000 from a lottery after TDS at 30%. His taxable winnings are:",
+    "options": [
+      "A) ₹2,10,000",
+      "B) ₹2,73,000",
+      "C) ₹3,00,000",
+      "D) ₹63,000"
+    ],
+    "answer": "C",
+    "explanation": "Gross = 2,10,000 × 100/70 = ₹3,00,000. B multiplies by 1.3, a common error."
+  },
+  {
+    "id": "OS-2-A09",
+    "node": "OS-2",
+    "unit": "Unit 4B",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "hard",
+    "question": "Mr. Nair owns race horses. His income from races is ₹5,00,000 and the cost of maintaining the horses is ₹1,20,000. His income from races is:",
+    "options": [
+      "A) ₹5,00,000 — s. 58(4) allows no expenditure",
+      "B) ₹3,80,000 — horse maintenance is deductible",
+      "C) ₹3,50,000 (30% flat expense)",
+      "D) Nil"
+    ],
+    "answer": "B",
+    "explanation": "The proviso to s. 58(4) allows an owner of race horses to deduct maintenance expenditure. A applies the general rule without the proviso."
+  },
+  {
+    "id": "OS-2-A10",
+    "node": "OS-2",
+    "unit": "Unit 4B",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "hard",
+    "question": "A HUF receives ₹2,00,000 as a gift from one of its members. Is it taxable in the HUF's hands?",
+    "options": [
+      "A) Yes — a member is a separate person",
+      "B) No — for a HUF, any member is a relative, so the gift is exempt",
+      "C) Yes — only if it exceeds ₹5,00,000",
+      "D) No — HUFs cannot receive gifts"
+    ],
+    "answer": "B",
+    "explanation": "A HUF receiving from a member falls under the relative exemption (any member is a relative of the HUF). A is the tempting error."
+  },
+  {
+    "id": "OS-2-A11",
+    "node": "OS-2",
+    "unit": "Unit 4B",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "hard",
+    "question": "Gaurav, an individual, receives ₹3,00,000 in cash from a HUF (of which his uncle is karta; Gaurav is not a member), on no special occasion. Under the list of relatives in s. 56(2)(x):",
+    "options": [
+      "A) Not taxable — the karta is his uncle",
+      "B) Taxable — an HUF is not in the list of relatives of an individual, and the occasion is not exempt",
+      "C) Not taxable — HUFs are local authorities",
+      "D) Taxable only ₹2,50,000"
+    ],
+    "answer": "B",
+    "explanation": "The list of relatives of an individual contains persons, not HUFs; the whole ₹3,00,000 is taxable. A is tempting because the karta is a relative, but the donor is the HUF, not the karta."
+  },
+  {
+    "id": "OS-3-A01",
+    "node": "OS-3",
+    "unit": "Unit 4B",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Sohan lets out his furniture (not his business) for ₹80,000. He pays ₹14,000 in cash on one day to one repairer for current repairs. Is the ₹14,000 deductible?",
+    "options": [
+      "A) Yes — current repairs are allowed u/s 57(ii)",
+      "B) No — cash payment above ₹10,000 to one person in a day is disallowed (s. 58(2) read with s. 40A(3))",
+      "C) Yes, but only up to 20%",
+      "D) No — repairs are never deductible against IFOS"
+    ],
+    "answer": "B",
+    "explanation": "s. 57(ii) allows repairs, but s. 58(2) imports s. 40A, which disallows cash payments above ₹10,000. A ignores the payment mode."
+  },
+  {
+    "id": "OS-3-A02",
+    "node": "OS-3",
+    "unit": "Unit 4B",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Leena earns FD interest of ₹60,000 and paid ₹35,000 interest on a loan she took to place that deposit. Her net IFOS from the FD is:",
+    "options": [
+      "A) ₹60,000 — loan interest is a personal cost",
+      "B) ₹25,000 — loan interest is wholly and exclusively for earning that income (s. 57(iii))",
+      "C) ₹48,000 — capped at 20%",
+      "D) ₹95,000"
+    ],
+    "answer": "B",
+    "explanation": "The 20% cap applies only to dividend. Borrowing to earn interest income is deductible under s. 57(iii). A treats it as non-deductible."
+  },
+  {
+    "id": "OS-3-A03",
+    "node": "OS-3",
+    "unit": "Unit 4B",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Interest on enhanced compensation of ₹1,20,000 was received by Dhruv during the year (relating to earlier years). Taxable this year:",
+    "options": [
+      "A) ₹1,20,000 spread over the earlier years",
+      "B) ₹60,000 in the year of receipt",
+      "C) ₹84,000",
+      "D) Nil — compensation is a capital receipt"
+    ],
+    "answer": "B",
+    "explanation": "Taxed in the year of receipt with 50% deduction u/s 57(iv). A spreads the receipt back, which the Act does not do."
+  },
+  {
+    "id": "OS-3-A04",
+    "node": "OS-3",
+    "unit": "Unit 4B",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Harsh let out machinery (not his business) for ₹1,50,000. Current repairs ₹12,000 (cheque), insurance ₹3,000, depreciation ₹20,000, and his personal travel ₹6,000. Income from the letting is:",
+    "options": [
+      "A) ₹1,09,000",
+      "B) ₹1,15,000",
+      "C) ₹1,21,000",
+      "D) ₹1,50,000"
+    ],
+    "answer": "B",
+    "explanation": "Allowed: 12,000 + 3,000 + 20,000 = 35,000; 1,50,000 − 35,000 = 1,15,000. Personal travel is disallowed (s. 58(1)(a)(i)). A deducts it too."
+  },
+  {
+    "id": "OS-3-A05",
+    "node": "OS-3",
+    "unit": "Unit 4B",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "hard",
+    "question": "Mr. Bose lets his factory building and its machinery together for ₹4,00,000 (building ₹3,00,000, machinery ₹1,00,000). The tenant would not take one without the other; letting is not Bose's business. The ₹3,00,000 for the building is taxed under:",
+    "options": [
+      "A) House Property, and ₹1,00,000 under IFOS",
+      "B) IFOS, because the lettings are inseparable (whole ₹4,00,000)",
+      "C) PGBP",
+      "D) Not taxable"
+    ],
+    "answer": "B",
+    "explanation": "Inseparable composite letting is IFOS under s. 56(2)(iii) for the whole rent. A is correct only if the lettings were separable."
+  },
+  {
+    "id": "OS-3-A06",
+    "node": "OS-3",
+    "unit": "Unit 4B",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Debenture interest of ₹40,000 is received. Bank charges ₹800 to realise it and the interest on a loan to buy the debentures is ₹5,000. Taxable interest on securities:",
+    "options": [
+      "A) ₹40,000",
+      "B) ₹39,200",
+      "C) ₹34,200",
+      "D) ₹32,000"
+    ],
+    "answer": "C",
+    "explanation": "Both banker's commission and interest on borrowing are allowed against interest on securities: 40,000 − 800 − 5,000 = 34,200. B forgets the loan interest; D wrongly applies the 20% dividend cap."
+  },
+  {
+    "id": "OS-3-A07",
+    "node": "OS-3",
+    "unit": "Unit 4B",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "hard",
+    "question": "Ritu received dividend of ₹1,00,000 and paid ₹20,000 interest to a non-resident lender, with no TDS deducted, on a loan to buy the shares. Deductible interest is:",
+    "options": [
+      "A) ₹20,000",
+      "B) ₹10,000",
+      "C) Nil — interest payable outside India without TDS is disallowed by s. 58(1)(a)(ii)",
+      "D) ₹12,000"
+    ],
+    "answer": "C",
+    "explanation": "The 20% cap would permit ₹20,000, which makes A tempting, but s. 58(1)(a)(ii) disallows foreign interest on which TDS was not deducted."
+  },
+  {
+    "id": "OS-4-A01",
+    "node": "OS-4",
+    "unit": "Unit 4B",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Dev (new regime) has dividend ₹50,000 (loan interest to buy the shares ₹4,000), FD interest ₹20,000 and PPF interest ₹12,000. His IFOS is:",
+    "options": [
+      "A) ₹78,000",
+      "B) ₹66,000",
+      "C) ₹70,000",
+      "D) ₹58,000"
+    ],
+    "answer": "B",
+    "explanation": "Dividend 50,000 − 4,000 (below the 20% cap of 10,000) = 46,000; plus FD 20,000 = 66,000; PPF exempt. A includes PPF."
+  },
+  {
+    "id": "OS-4-A02",
+    "node": "OS-4",
+    "unit": "Unit 4B",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "Isha receives an income-tax refund of ₹30,000 with interest of ₹2,400. Amount taxable under IFOS:",
+    "options": [
+      "A) ₹32,400",
+      "B) ₹30,000",
+      "C) ₹2,400",
+      "D) Nil"
+    ],
+    "answer": "C",
+    "explanation": "The refund is her own money returned; only the interest is income. A adds the refund."
+  },
+  {
+    "id": "OS-4-A03",
+    "node": "OS-4",
+    "unit": "Unit 4B",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "hard",
+    "question": "Jai has savings bank interest ₹15,000 and received ₹40,000 cash from one friend and ₹8,000 from another (no occasion). IFOS at normal rates (new regime):",
+    "options": [
+      "A) ₹15,000",
+      "B) ₹63,000",
+      "C) ₹53,000",
+      "D) ₹5,000"
+    ],
+    "answer": "A",
+    "explanation": "Money gifts aggregate ₹48,000, which does not exceed ₹50,000, so not taxable. Savings interest is fully taxable (no 80TTA). Taxable ₹15,000. D wrongly applies 80TTA."
+  },
+  {
+    "id": "OS-4-A04",
+    "node": "OS-4",
+    "unit": "Unit 4B",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "hard",
+    "question": "Uma has crossword winnings ₹40,000 gross (entry fees ₹3,000), dividend ₹10,000 (no borrowing) and a ₹50,000 cash gift from a friend. Her IFOS at normal rates and at the special rate respectively:",
+    "options": [
+      "A) ₹10,000 and ₹37,000",
+      "B) ₹60,000 and ₹40,000",
+      "C) ₹10,000 and ₹40,000",
+      "D) ₹50,000 and ₹40,000"
+    ],
+    "answer": "C",
+    "explanation": "The gift of exactly ₹50,000 does not exceed the threshold; dividend ₹10,000 is at normal rates; winnings ₹40,000 gross at 30% with no deduction of the ₹3,000 fee (A deducts it)."
+  },
+  {
+    "id": "OS-1-A11",
+    "node": "OS-1",
+    "unit": "Unit 4B",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Decide the head and taxability for each receipt (resident, new regime).\n\n1. Kamal lent ₹2,00,000 to a friend and received ₹16,000 interest. Is it taxable under IFOS?\n2. Nisha writes one book as a hobby and earns ₹1,20,000 royalty. Which head?\n3. Rajiv is a full-time professional author and earns ₹3,00,000 royalty. Is it IFOS?\n4. Dr. Shah, a managing director under a contract of service, gets ₹6,00,000 remuneration. Is it IFOS?\n5. An MLA receives a ₹5,000-a-month allowance. Which head?\n\nFor each, answer **Yes / No** (or give the amount asked) and state the deciding rule (1 mark each).",
+    "model_answer": "1. **Yes** — Interest on a private loan is not claimed by any other head (he is not in the money-lending business).\n2. **IFOS** — Royalty of a non-professional author falls under the residuary head.\n3. **No** — Writing is his profession, so the royalty is PGBP.\n4. **No** — Employer-employee relationship exists, so it is salary.\n5. **IFOS** — No employer-employee relationship, so not salary.",
+    "marking_scheme": [
+      {
+        "point": "Situation 1: Yes with the correct deciding rule",
+        "marks": 1
+      },
+      {
+        "point": "Situation 2: IFOS with the correct deciding rule",
+        "marks": 1
+      },
+      {
+        "point": "Situation 3: No with the correct deciding rule",
+        "marks": 1
+      },
+      {
+        "point": "Situation 4: No with the correct deciding rule",
+        "marks": 1
+      },
+      {
+        "point": "Situation 5: IFOS with the correct deciding rule",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "OS-1-A12",
+    "node": "OS-1",
+    "unit": "Unit 4B",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "State whether the interest is taxable in the year (resident individual, new regime).\n\n1. Aditi's Sukanya Samriddhi account is credited with ₹9,000 interest. Taxable?\n2. Bhuvan holds NSC and earns ₹6,000 interest. Taxable?\n3. Charu's cumulative FD accrued ₹14,000 interest, none received. Taxable this year?\n4. Deepak's interest on an individual post office savings account is ₹3,000. Taxable?\n5. Esha claims ₹8,000 deduction u/s 80TTA on savings bank interest of ₹8,000. Allowed?\n\nFor each, answer **Yes / No** (or give the amount asked) and state the deciding rule (1 mark each).",
+    "model_answer": "1. **No** — Exempt u/s 10(11).\n2. **Yes** — NSC interest is not exempt; IFOS.\n3. **Yes** — Taxed on accrual basis each year.\n4. **No** — Fully covered by the ₹3,500 exemption u/s 10(15)(i).\n5. **No** — 80TTA is withdrawn under s. 115BAC.",
+    "marking_scheme": [
+      {
+        "point": "Situation 1: No with the correct deciding rule",
+        "marks": 1
+      },
+      {
+        "point": "Situation 2: Yes with the correct deciding rule",
+        "marks": 1
+      },
+      {
+        "point": "Situation 3: Yes with the correct deciding rule",
+        "marks": 1
+      },
+      {
+        "point": "Situation 4: No with the correct deciding rule",
+        "marks": 1
+      },
+      {
+        "point": "Situation 5: No with the correct deciding rule",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "OS-2-A12",
+    "node": "OS-2",
+    "unit": "Unit 4B",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Decide whether the gift is taxable u/s 56(2)(x) (each is Faisal's only receipt in the year).\n\n1. ₹60,000 in cash from his cousin on his birthday.\n2. ₹3,00,000 in cash from his father's brother.\n3. ₹80,000 from a colleague at his wedding.\n4. A car worth ₹7,00,000 from a friend.\n5. A painting (FMV ₹45,000) from one friend and shares (FMV ₹20,000) from another.\n\nFor each, answer **Yes / No** (or give the amount asked) and state the deciding rule (1 mark each).",
+    "model_answer": "1. **Yes** — Cousin is not a relative and a birthday is not exempt; above ₹50,000 the whole ₹60,000 is taxable.\n2. **No** — Father's brother is a relative.\n3. **No** — Marriage of the recipient is an exempt occasion.\n4. **No** — A car is not specified movable property.\n5. **Yes** — Specified movable property is aggregated: ₹65,000 > ₹50,000, so ₹65,000 is taxable.",
+    "marking_scheme": [
+      {
+        "point": "Situation 1: Yes with the correct deciding rule",
+        "marks": 1
+      },
+      {
+        "point": "Situation 2: No with the correct deciding rule",
+        "marks": 1
+      },
+      {
+        "point": "Situation 3: No with the correct deciding rule",
+        "marks": 1
+      },
+      {
+        "point": "Situation 4: No with the correct deciding rule",
+        "marks": 1
+      },
+      {
+        "point": "Situation 5: Yes with the correct deciding rule",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "OS-2-A13",
+    "node": "OS-2",
+    "unit": "Unit 4B",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "hard",
+    "question": "Gwen acquires property. State whether anything is taxable u/s 56(2)(x) and how much.\n\n1. A flat with stamp duty value ₹6,00,000 gifted by a friend.\n2. Land bought from a stranger for ₹40,00,000, SDV ₹43,00,000.\n3. Land bought for ₹10,00,000, SDV ₹12,00,000.\n4. Listed shares, FMV ₹3,00,000, bought from a friend for ₹2,60,000.\n5. Gold coins (bullion) with FMV ₹1,80,000 bought from a friend for ₹1,20,000.\n\nFor each, answer **Yes / No** (or give the amount asked) and state the deciding rule (1 mark each).",
+    "model_answer": "1. **₹6,00,000** — Immovable gift without consideration, SDV above ₹50,000: whole SDV taxable.\n2. **Nil** — Difference ₹3,00,000 is within the higher of ₹50,000 and 10% (₹4,00,000).\n3. **₹2,00,000** — Difference ₹2,00,000 exceeds the higher of ₹50,000 and ₹1,00,000, so the difference is taxed.\n4. **Nil** — Difference ₹40,000 does not exceed ₹50,000.\n5. **₹60,000** — Difference ₹60,000 exceeds ₹50,000, so the difference is taxed.",
+    "marking_scheme": [
+      {
+        "point": "Situation 1: ₹6,00,000 with the correct deciding rule",
+        "marks": 1
+      },
+      {
+        "point": "Situation 2: Nil with the correct deciding rule",
+        "marks": 1
+      },
+      {
+        "point": "Situation 3: ₹2,00,000 with the correct deciding rule",
+        "marks": 1
+      },
+      {
+        "point": "Situation 4: Nil with the correct deciding rule",
+        "marks": 1
+      },
+      {
+        "point": "Situation 5: ₹60,000 with the correct deciding rule",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "OS-2-A14",
+    "node": "OS-2",
+    "unit": "Unit 4B",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "hard",
+    "question": "Decide the treatment of winnings (new regime; ignore surcharge, cess and rebate).\n\n1. Meera won ₹1,00,000 gross in a lottery after buying tickets for ₹6,000. Taxable amount?\n2. Narain has no other income and wins ₹5,00,000 gross. Is the basic exemption applied?\n3. Oma received ₹1,05,000 after 30% TDS. Taxable winnings?\n4. Pran lost ₹20,000 at cards earlier in the year and won ₹50,000 later. Can the loss be set off?\n5. Qadir (race-horse owner) earns ₹3,00,000 from races and spends ₹80,000 on maintaining the horses. Deductible?\n\nFor each, answer **Yes / No** (or give the amount asked) and state the deciding rule (1 mark each).",
+    "model_answer": "1. **₹1,00,000** — s. 58(4): no expense is deductible.\n2. **No** — s. 115BB taxes winnings at a flat 30% with no basic exemption; tax ₹1,50,000.\n3. **₹1,50,000** — Gross up: 1,05,000 × 100/70.\n4. **No** — No loss from any source may be set off against winnings; ₹50,000 is taxable.\n5. **Yes** — The proviso to s. 58(4) allows maintenance expenditure of race horses; income ₹2,20,000.",
+    "marking_scheme": [
+      {
+        "point": "Situation 1: ₹1,00,000 with the correct deciding rule",
+        "marks": 1
+      },
+      {
+        "point": "Situation 2: No with the correct deciding rule",
+        "marks": 1
+      },
+      {
+        "point": "Situation 3: ₹1,50,000 with the correct deciding rule",
+        "marks": 1
+      },
+      {
+        "point": "Situation 4: No with the correct deciding rule",
+        "marks": 1
+      },
+      {
+        "point": "Situation 5: Yes with the correct deciding rule",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "OS-3-A08",
+    "node": "OS-3",
+    "unit": "Unit 4B",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Decide whether the deduction is allowed in computing IFOS.\n\n1. Ruchi earns debenture interest of ₹30,000 and pays her banker ₹500 for realising it.\n2. Sanjay received interest on enhanced compensation ₹70,000. How much is deductible?\n3. Tina borrowed to buy debentures and paid ₹5,000 interest on the loan. Deductible against the debenture interest?\n4. Uday spent ₹3,000 travelling to attend a lottery draw he won. Deductible?\n5. Vani paid her son's school fees of ₹12,000 from her IFOS receipts. Deductible?\n\nFor each, answer **Yes / No** (or give the amount asked) and state the deciding rule (1 mark each).",
+    "model_answer": "1. **Yes** — Commission for realising interest on securities is allowed u/s 57(i).\n2. **₹35,000** — s. 57(iv): 50% of the interest and nothing else.\n3. **Yes** — Interest on money borrowed to earn interest on securities is allowed.\n4. **No** — s. 58(4): no expenditure against winnings.\n5. **No** — Personal expenses are disallowed u/s 58(1)(a)(i); not wholly and exclusively for earning the income.",
+    "marking_scheme": [
+      {
+        "point": "Situation 1: Yes with the correct deciding rule",
+        "marks": 1
+      },
+      {
+        "point": "Situation 2: ₹35,000 with the correct deciding rule",
+        "marks": 1
+      },
+      {
+        "point": "Situation 3: Yes with the correct deciding rule",
+        "marks": 1
+      },
+      {
+        "point": "Situation 4: No with the correct deciding rule",
+        "marks": 1
+      },
+      {
+        "point": "Situation 5: No with the correct deciding rule",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "OS-3-A09",
+    "node": "OS-3",
+    "unit": "Unit 4B",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Decide the head of income for each letting (none is the owner's business unless stated).\n\n1. Waman lets only a crane (plant) to a contractor.\n2. Xena lets a flat with furniture under a separate, separately priced furniture agreement. Where is the flat rent taxed?\n3. Yogesh lets a hotel with all its fixtures as one going unit that the tenant would not take in parts. Which head?\n4. Zara regularly buys and rents out equipment as her business. Which head?\n5. Arvind claims depreciation on his let-out machinery against the rent. Allowed?\n\nFor each, answer **Yes / No** (or give the amount asked) and state the deciding rule (1 mark each).",
+    "model_answer": "1. **IFOS** — Rent from plant, machinery or furniture is IFOS u/s 56(2)(ii).\n2. **House Property** — The lettings are separable, so building rent goes to House Property and furniture rent to IFOS.\n3. **IFOS** — Inseparable composite letting is IFOS for the whole rent.\n4. **PGBP** — Letting as a regular commercial activity is business income.\n5. **Yes** — s. 57(ii) allows depreciation as under ss. 30-32.",
+    "marking_scheme": [
+      {
+        "point": "Situation 1: IFOS with the correct deciding rule",
+        "marks": 1
+      },
+      {
+        "point": "Situation 2: House Property with the correct deciding rule",
+        "marks": 1
+      },
+      {
+        "point": "Situation 3: IFOS with the correct deciding rule",
+        "marks": 1
+      },
+      {
+        "point": "Situation 4: PGBP with the correct deciding rule",
+        "marks": 1
+      },
+      {
+        "point": "Situation 5: Yes with the correct deciding rule",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "OS-3-A10",
+    "node": "OS-3",
+    "unit": "Unit 4B",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "hard",
+    "question": "Decide whether each expenditure can be deducted from IFOS and say how much.\n\n1. Bina paid ₹12,000 in cash on one day to one mechanic for current repairs of her let-out machinery.\n2. Chetan paid ₹30,000 salary to an employee abroad, no TDS deducted, to manage investments earning IFOS.\n3. Dhara paid ₹2,000 for insurance of her let-out furniture.\n4. Eshan paid ₹70,000 interest to buy shares yielding ₹1,00,000 dividend.\n5. Fiza paid wealth tax of ₹5,000 on her investments.\n\nFor each, answer **Yes / No** (or give the amount asked) and state the deciding rule (1 mark each).",
+    "model_answer": "1. **Nil** — Cash payment above ₹10,000 per day to one person is disallowed (s. 58(2), s. 40A(3)).\n2. **Nil** — s. 58(1)(a)(iii): salary payable outside India without TDS is disallowed.\n3. **₹2,000** — Insurance is allowed u/s 57(ii).\n4. **₹20,000** — Capped at 20% of dividend.\n5. **Nil** — s. 58(1)(a)(iv): wealth tax is not deductible.",
+    "marking_scheme": [
+      {
+        "point": "Situation 1: Nil with the correct deciding rule",
+        "marks": 1
+      },
+      {
+        "point": "Situation 2: Nil with the correct deciding rule",
+        "marks": 1
+      },
+      {
+        "point": "Situation 3: ₹2,000 with the correct deciding rule",
+        "marks": 1
+      },
+      {
+        "point": "Situation 4: ₹20,000 with the correct deciding rule",
+        "marks": 1
+      },
+      {
+        "point": "Situation 5: Nil with the correct deciding rule",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "OS-4-A05",
+    "node": "OS-4",
+    "unit": "Unit 4B",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Mrs. Nandini, a resident (new regime), has: dividend ₹80,000 (interest on loan to buy shares ₹22,000); family pension ₹54,000; interest on her individual post office savings account ₹4,500; PPF interest ₹10,000. Compute her Income from Other Sources, stating for each item whether it is fully taxable.",
+    "model_answer": "1. Dividend: **No (partly)** — interest capped at 20% × 80,000 = ₹16,000 (₹22,000 is more); taxable 80,000 − 16,000 = **₹64,000**.\n2. Family pension: **No (partly)** — deduction is the lower of 1/3 (₹18,000) and ₹25,000 = ₹18,000; taxable **₹36,000**.\n3. PO savings interest: **No (partly)** — ₹3,500 is exempt u/s 10(15)(i); taxable **₹1,000**.\n4. PPF interest: **No** — exempt u/s 10(11); taxable ₹0.\n\n**IFOS = 64,000 + 36,000 + 1,000 = ₹1,01,000.**",
+    "marking_scheme": [
+      {
+        "point": "Dividend with 20% cap: 64,000",
+        "marks": 1
+      },
+      {
+        "point": "Family pension 1/3 vs 25,000: 36,000",
+        "marks": 1
+      },
+      {
+        "point": "PO savings exemption: 1,000",
+        "marks": 1
+      },
+      {
+        "point": "PPF exempt",
+        "marks": 1
+      },
+      {
+        "point": "Total ₹1,01,000",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "OS-4-A06",
+    "node": "OS-4",
+    "unit": "Unit 4B",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Decide whether each receipt of Jaya goes into the normal-rate part of her IFOS computation.\n\n1. Income-tax refund of ₹25,000.\n2. Interest of ₹2,000 on that refund.\n3. ₹30,000 and ₹15,000 cash from two friends (no occasion).\n4. PPF interest of ₹18,000.\n5. Lottery winnings of ₹90,000 gross.\n\nFor each, answer **Yes / No** (or give the amount asked) and state the deciding rule (1 mark each).",
+    "model_answer": "1. **No** — A refund of her own tax is not income.\n2. **Yes** — Interest on refund is IFOS at normal rates.\n3. **No** — Aggregate ₹45,000 does not exceed ₹50,000.\n4. **No** — Exempt u/s 10(11).\n5. **No** — Taxed in the special-rate part at 30% (s. 115BB), not at normal rates.",
+    "marking_scheme": [
+      {
+        "point": "Situation 1: No with the correct deciding rule",
+        "marks": 1
+      },
+      {
+        "point": "Situation 2: Yes with the correct deciding rule",
+        "marks": 1
+      },
+      {
+        "point": "Situation 3: No with the correct deciding rule",
+        "marks": 1
+      },
+      {
+        "point": "Situation 4: No with the correct deciding rule",
+        "marks": 1
+      },
+      {
+        "point": "Situation 5: No with the correct deciding rule",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "OS-1-A13",
+    "node": "OS-1",
+    "unit": "Unit 4B",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "hard",
+    "question": "Mr. Dinesh, a resident (new regime), has for PY 2025-26:\n1. Savings bank interest ₹22,000.\n2. Dividend from Indian companies ₹1,20,000; interest on loan to buy the shares ₹30,000; bank commission for collecting dividend ₹1,500.\n3. Interest on his individual post office savings account ₹6,000.\n4. Interest on Sukanya Samriddhi account ₹14,000.\n5. Income-tax refund ₹40,000 with interest ₹3,000.\n6. Sitting fees as a director of a company (he is not an employee) ₹45,000.\n7. Royalty from a book written as a hobby ₹70,000; typing and proof-reading costs for it ₹8,000.\n8. Pension from his former employer ₹2,40,000.\n\nCompute his Income from Other Sources. For each item state whether it is included and why.",
+    "model_answer": "| Item | Include? | Rule | ₹ |\n|---|---|---|---|\n| Savings interest | Yes | No 80TTA in new regime | 22,000 |\n| Dividend 1,20,000 | Yes, less interest | Interest ₹30,000 capped at 20% = ₹24,000; commission not allowed | 96,000 |\n| PO savings 6,000 | Yes, less exemption | ₹3,500 exempt u/s 10(15)(i) | 2,500 |\n| Sukanya interest | No | Exempt u/s 10(11) | - |\n| Refund ₹40,000 | No | Not income | - |\n| Interest on refund | Yes | IFOS | 3,000 |\n| Sitting fees | Yes | Non-employee director: IFOS | 45,000 |\n| Royalty 70,000 | Yes, less costs | Non-professional author; costs allowed u/s 57(iii) | 62,000 |\n| Pension from ex-employer | No | Salary, not IFOS | - |\n\n**IFOS = 22,000 + 96,000 + 2,500 + 3,000 + 45,000 + 62,000 = ₹2,30,500.**",
+    "marking_scheme": [
+      {
+        "point": "Savings interest fully taxable: 22,000",
+        "marks": 1
+      },
+      {
+        "point": "Dividend: 20% cap (24,000), commission refused: 96,000",
+        "marks": 2
+      },
+      {
+        "point": "PO savings exemption: 2,500",
+        "marks": 1
+      },
+      {
+        "point": "Interest on refund 3,000 (refund excluded)",
+        "marks": 1
+      },
+      {
+        "point": "Sitting fees 45,000",
+        "marks": 1
+      },
+      {
+        "point": "Royalty net of costs: 62,000",
+        "marks": 1
+      },
+      {
+        "point": "Sukanya excluded and pension as salary, with reasons",
+        "marks": 2
+      },
+      {
+        "point": "Total ₹2,30,500",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "OS-2-A15",
+    "node": "OS-2",
+    "unit": "Unit 4B",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "hard",
+    "question": "Ms. Pooja received the following during PY 2025-26. She was married in March 2026.\n1. ₹40,000 cash from a friend on her birthday.\n2. ₹15,000 cash from a colleague on Diwali.\n3. ₹3,00,000 cash from her mother's brother.\n4. ₹1,50,000 cheque from friends at her wedding.\n5. A flat bought from a stranger for ₹36,00,000; stamp duty value ₹40,00,000.\n6. Gold jewellery (FMV ₹35,000) from one friend and listed shares (FMV ₹28,000) from another friend.\n7. A scooter worth ₹90,000 from a friend.\n8. ₹60,000 cash from her cousin.\n\nFor each item state Yes/No (taxable) with the rule, and compute the total taxable u/s 56(2)(x).",
+    "model_answer": "| # | Taxable? | Rule |\n|---|---|---|\n| 1, 2, 8 | Yes (money) | Friend, colleague and cousin are not relatives; birthday/Diwali not exempt. Aggregate 40,000 + 15,000 + 60,000 = ₹1,15,000 > ₹50,000, so whole |\n| 3 | No | Mother's brother is a relative |\n| 4 | No | Received on the occasion of her marriage |\n| 5 | Yes, ₹4,00,000 | Difference 40,00,000 − 36,00,000 = 4,00,000 > higher of 50,000 and 10% × 36,00,000 = 3,60,000, so the whole difference is taxed |\n| 6 | Yes, ₹63,000 | Specified movable property aggregated: 35,000 + 28,000 = 63,000 > 50,000, so whole |\n| 7 | No | A scooter is not specified movable property |\n\n**Total = 1,15,000 + 4,00,000 + 63,000 = ₹5,78,000.**",
+    "marking_scheme": [
+      {
+        "point": "Money gifts 1, 2, 8 aggregated as non-relatives: ₹1,15,000",
+        "marks": 2
+      },
+      {
+        "point": "Item 3 exempt (relative) and 4 exempt (marriage)",
+        "marks": 2
+      },
+      {
+        "point": "Flat: threshold 3,60,000 and taxable ₹4,00,000",
+        "marks": 2
+      },
+      {
+        "point": "Movable property aggregated ₹63,000",
+        "marks": 2
+      },
+      {
+        "point": "Scooter excluded with reason",
+        "marks": 1
+      },
+      {
+        "point": "Total ₹5,78,000",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "OS-3-A11",
+    "node": "OS-3",
+    "unit": "Unit 4B",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "hard",
+    "question": "Mr. Harsh, a resident (new regime), provides for PY 2025-26:\n(a) Rent from machinery let out (not his business) ₹2,40,000. Current repairs ₹18,000, of which ₹12,000 was paid in cash on one day to one mechanic and ₹6,000 by cheque; insurance ₹5,000; depreciation ₹30,000; personal vehicle expenses ₹7,000.\n(b) Dividend ₹75,000; interest on loan to buy the shares ₹20,000; bank commission ₹900.\n(c) Interest on debentures ₹50,000; banker's commission ₹1,000; interest on loan to buy the debentures ₹6,000.\n(d) Interest on enhanced compensation received ₹90,000.\n(e) Lottery winnings ₹80,000 (gross); ticket cost ₹5,000.\n\nCompute his IFOS at normal rates and at the special rate, and state for each expense whether it is deductible and why.",
+    "model_answer": "**(a) Machinery rent:** 2,40,000 less repairs by cheque ₹6,000 (**Yes**, s. 57(ii)), insurance ₹5,000 (**Yes**), depreciation ₹30,000 (**Yes**). Cash repairs ₹12,000 (**No** — above ₹10,000 per day, s. 58(2)/40A(3)); personal vehicle ₹7,000 (**No** — s. 58(1)(a)(i)). Net = 2,40,000 − 41,000 = **₹1,99,000**.\n\n**(b) Dividend:** interest ₹20,000 capped at 20% × 75,000 = ₹15,000 (**partly**); commission **No**. Net = **₹60,000**.\n\n**(c) Debenture interest:** commission ₹1,000 **Yes**; loan interest ₹6,000 **Yes** (the 20% cap is for dividend only). Net = 50,000 − 7,000 = **₹43,000**.\n\n**(d) Enhanced compensation:** 50% deduction, **₹45,000**.\n\n**Normal-rate IFOS = 1,99,000 + 60,000 + 43,000 + 45,000 = ₹3,47,000.**\n\n**(e) Lottery:** **No** deduction of the ₹5,000 ticket cost (s. 58(4)); special-rate income **₹80,000** @ 30% u/s 115BB.",
+    "marking_scheme": [
+      {
+        "point": "Machinery rent: allowed items identified (repairs by cheque, insurance, depreciation)",
+        "marks": 1
+      },
+      {
+        "point": "Cash repairs and personal expense disallowed with reasons",
+        "marks": 1
+      },
+      {
+        "point": "Rent net ₹1,99,000",
+        "marks": 1
+      },
+      {
+        "point": "Dividend: 20% cap and commission refused; ₹60,000",
+        "marks": 2
+      },
+      {
+        "point": "Debenture interest: commission and loan interest allowed; ₹43,000",
+        "marks": 2
+      },
+      {
+        "point": "Enhanced compensation ₹45,000",
+        "marks": 1
+      },
+      {
+        "point": "Lottery ₹80,000 at special rate, ticket cost disallowed",
+        "marks": 1
+      },
+      {
+        "point": "Normal-rate total ₹3,47,000",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "OS-4-A07",
+    "node": "OS-4",
+    "unit": "Unit 4B",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "hard",
+    "question": "Mrs. Sheela, a 62-year-old widow and resident (new regime), has for PY 2025-26:\n1. Family pension ₹1,50,000.\n2. Interest accrued on a cumulative FD ₹48,000 (not received).\n3. Savings bank interest ₹16,000.\n4. PPF interest ₹30,000.\n5. ₹40,000 cash from a neighbour on her birthday and ₹20,000 from her nephew.\n6. ₹2,00,000 from her son's wife.\n7. Horse-race winnings received ₹1,12,000 after TDS at 30%; she spent ₹10,000 on travel to the race.\n8. She sublets a room: rent received ₹1,00,000, rent paid to her landlord for it ₹72,000.\n9. Dividend ₹30,000; interest on loan to buy the shares ₹9,000.\n\nCompute IFOS at normal rates and at special rates, and list the excluded items with reasons.",
+    "model_answer": "**A. Normal rates**\n\n| Item | ₹ | Rule |\n|---|---|---|\n| Family pension 1,50,000 − 25,000 | 1,25,000 | Lower of 1/3 (50,000) and 25,000 |\n| FD interest | 48,000 | Accrual basis |\n| Savings interest | 16,000 | No 80TTA/80TTB under new regime |\n| Gifts 40,000 + 20,000 | 60,000 | Neighbour and nephew not relatives; aggregate > 50,000 so whole |\n| Subletting 1,00,000 − 72,000 | 28,000 | IFOS; rent paid allowed u/s 57(iii) |\n| Dividend 30,000 − 6,000 | 24,000 | Interest 9,000 capped at 20% = 6,000 |\n| **Total A** | **3,01,000** | |\n\n**B. Special rate:** winnings grossed up 1,12,000 × 100/70 = **₹1,60,000** @ 30% (tax ₹48,000); travel ₹10,000 disallowed u/s 58(4).\n\n**Excluded:** PPF interest ₹30,000 (exempt u/s 10(11)); ₹2,00,000 from son's wife (spouse of a lineal descendant is a relative); travel ₹10,000 (s. 58(4)).",
+    "marking_scheme": [
+      {
+        "point": "Family pension ₹1,25,000",
+        "marks": 1
+      },
+      {
+        "point": "FD accrual and savings interest (no 80TTB)",
+        "marks": 1
+      },
+      {
+        "point": "Gifts aggregated, whole ₹60,000",
+        "marks": 2
+      },
+      {
+        "point": "Subletting net ₹28,000 as IFOS",
+        "marks": 1
+      },
+      {
+        "point": "Dividend cap ₹24,000",
+        "marks": 1
+      },
+      {
+        "point": "Winnings grossed up ₹1,60,000, special rate, no expense",
+        "marks": 2
+      },
+      {
+        "point": "Exclusions with reasons (PPF, son's wife, travel)",
+        "marks": 1
+      },
+      {
+        "point": "Total A ₹3,01,000",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "OS-2-A16",
+    "node": "OS-2",
+    "unit": "Unit 4B",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "hard",
+    "question": "Mr. Joshi, a resident (new regime), received ₹1,75,000 from a lottery after TDS at 30% in PY 2025-26. He had spent ₹12,000 on tickets. His only other income is dividend of ₹40,000 on which he paid ₹12,000 interest on the loan taken to buy the shares. Ignore surcharge and s. 87A rebate; cess is 4%.\n(a) Compute his IFOS at normal and special rates, saying whether the ticket cost can be deducted.\n(b) Can he use his unused basic exemption against the winnings? Yes/No and why.\n(c) Compute the tax on winnings including cess and the balance payable after TDS.\n(d) Comment on why the law treats winnings so harshly.",
+    "model_answer": "**(a)** Dividend 40,000 − interest limited to 20% (₹8,000) = **₹32,000** at normal rates. Winnings grossed up 1,75,000 × 100/70 = **₹2,50,000**; ticket cost ₹12,000 **cannot** be deducted (s. 58(4)).\n\n**(b)** **No.** Winnings are taxed at flat 30% u/s 115BB; no basic exemption or Chapter VI-A deduction is available. His normal income of ₹32,000 is anyway within the exemption limit, so it bears no tax.\n\n**(c)** Tax = 30% × 2,50,000 = ₹75,000; cess 4% = ₹3,000; total ₹78,000. TDS already deducted = ₹75,000 (2,50,000 − 1,75,000). **Balance payable = ₹3,000** (the cess).\n\n**(d)** Winnings are pure windfall with no cost of earning and no link to labour or capital, so the Act taxes them at the highest rate, allows no expenses and no set-off of losses, and collects tax at source to discourage evasion.",
+    "marking_scheme": [
+      {
+        "point": "Dividend with 20% cap: ₹32,000",
+        "marks": 1
+      },
+      {
+        "point": "Gross-up of winnings to ₹2,50,000",
+        "marks": 2
+      },
+      {
+        "point": "Ticket cost refused with s. 58(4)",
+        "marks": 1
+      },
+      {
+        "point": "Basic exemption not available: No, with reason",
+        "marks": 2
+      },
+      {
+        "point": "Tax ₹75,000 + cess ₹3,000 = ₹78,000",
+        "marks": 1
+      },
+      {
+        "point": "TDS ₹75,000, balance ₹3,000",
+        "marks": 1
+      },
+      {
+        "point": "Rationale: windfall, highest rate, no deductions",
+        "marks": 2
+      }
+    ]
+  }
+]
