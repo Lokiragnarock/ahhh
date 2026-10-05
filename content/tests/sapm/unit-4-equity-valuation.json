@@ -1,0 +1,552 @@
+[
+  {
+    "id": "EV-1-01",
+    "node": "EV-1",
+    "unit": "SAPM Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "An analyst estimates a share's intrinsic value at ₹540. It trades at ₹600. The share is:",
+    "options": [
+      "A) Undervalued; buy",
+      "B) Overvalued; sell or avoid",
+      "C) Fairly valued; hold",
+      "D) Impossible to judge without its beta"
+    ],
+    "answer": "B",
+    "explanation": "Intrinsic value (₹540) is below the market price (₹600), so the market is paying more than the fundamentals justify: overvalued, sell or avoid. Undervalued would need value above price. Beta helps estimate the required return behind the value, but once the value is given, the comparison is enough."
+  },
+  {
+    "id": "EV-1-02",
+    "node": "EV-1",
+    "unit": "SAPM Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Holding everything else constant, a rise in market interest rates is most likely to:",
+    "options": [
+      "A) Raise share values, because savers earn more",
+      "B) Lower share values, because the required return rises",
+      "C) Have no effect on share values",
+      "D) Raise share values only for high-dividend stocks"
+    ],
+    "answer": "B",
+    "explanation": "Higher interest rates raise the risk-free rate and therefore the required return k. Intrinsic value is the present value of future cash at k, so a higher k lowers value. Higher deposit rates also pull money away from equities. High-dividend stocks are often hit hardest, because they compete with bonds for income investors."
+  },
+  {
+    "id": "EV-1-03",
+    "node": "EV-1",
+    "unit": "SAPM Unit 4",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "Explain the concept of intrinsic value. What factors influence equity share prices?",
+    "model_answer": "**Intrinsic value** is the value of a share justified by its fundamentals: the present value of the cash it is expected to deliver to shareholders (dividends or earnings capacity), discounted at the return investors require for its risk. It is an estimate, compared with the market price to decide: value > price, undervalued (buy); value < price, overvalued (sell); equal, fairly valued (hold).\n\n**Factors influencing equity prices:**\n1. **Company:** earnings and growth, dividend policy, management and governance, debt levels, competitive position, corporate actions (bonus, split, buyback).\n2. **Industry:** life-cycle stage, competition, regulation, input costs.\n3. **Economy and market:** interest rates, inflation, GDP growth, government policy and budget, FPI/DII flows, exchange rates, global markets.\n4. **Behavioural:** sentiment, herd behaviour, news and rumours, speculation.\n\nIn the long run price follows earnings and cash flow; in the short run sentiment and flows can push it away from intrinsic value.",
+    "marking_scheme": [
+      {
+        "point": "Definition of intrinsic value",
+        "marks": 1.5
+      },
+      {
+        "point": "Decision rule",
+        "marks": 0.5
+      },
+      {
+        "point": "Company factors",
+        "marks": 1
+      },
+      {
+        "point": "Industry and economy factors",
+        "marks": 1.5
+      },
+      {
+        "point": "Behavioural factors and long-run vs short-run",
+        "marks": 0.5
+      }
+    ]
+  },
+  {
+    "id": "EV-2-01",
+    "node": "EV-2",
+    "unit": "SAPM Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "A company's EPS is ₹18 and the appropriate P/E ratio is 22. The estimated share value is:",
+    "options": [
+      "A) ₹396",
+      "B) ₹40",
+      "C) ₹1.22",
+      "D) ₹818"
+    ],
+    "answer": "A",
+    "explanation": "Value = EPS × P/E = 18 × 22 = ₹396. ₹40 adds the two numbers; ₹1.22 divides P/E by EPS; ₹818 has no basis in the formula."
+  },
+  {
+    "id": "EV-2-02",
+    "node": "EV-2",
+    "unit": "SAPM Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A no-growth company pays out all its earnings. EPS is ₹15 and the required return is 10%. Under the earnings capitalisation model, the share is worth:",
+    "options": [
+      "A) ₹15",
+      "B) ₹150",
+      "C) ₹1.50",
+      "D) ₹165"
+    ],
+    "answer": "B",
+    "explanation": "P₀ = E ÷ k = 15 ÷ 0.10 = ₹150. ₹1.50 multiplies instead of dividing; ₹15 ignores the discounting; ₹165 adds a year's growth that the no-growth model rules out."
+  },
+  {
+    "id": "EV-2-03",
+    "node": "EV-2",
+    "unit": "SAPM Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A stock has a P/E of 30 and expected EPS growth of 20%. Its PEG ratio is:",
+    "options": [
+      "A) 0.67",
+      "B) 600",
+      "C) 1.5",
+      "D) 10"
+    ],
+    "answer": "C",
+    "explanation": "PEG = P/E ÷ growth (in %) = 30 ÷ 20 = 1.5, above 1, so the stock looks expensive relative to its growth. 0.67 inverts the ratio; 600 multiplies; 10 subtracts."
+  },
+  {
+    "id": "EV-2-04",
+    "node": "EV-2",
+    "unit": "SAPM Unit 4",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "A company's forecast EPS for next year is ₹32. Four comparable companies trade at P/E ratios of 12, 14, 16 and 18. The company's share price is ₹520. Value the share using P/E and advise. State two limitations of your method.",
+    "model_answer": "**Step 1: benchmark P/E** = (12 + 14 + 16 + 18) ÷ 4 = **15**.\n\n**Step 2: value** = forecast EPS × benchmark P/E = 32 × 15 = **₹480**.\n\n**Step 3: compare.** Price ₹520 > value ₹480: the share is **overvalued by ₹40** (price 8.3% above value). **Avoid or sell**, unless the company's growth or risk clearly justifies a higher P/E than its peers (check its PEG).\n\n**Limitations:**\n1. The result depends on how comparable the peers really are (growth, risk, capital structure).\n2. EPS can be distorted by one-off items or accounting choices; for cyclical firms P/E misleads at earnings peaks and troughs.",
+    "marking_scheme": [
+      {
+        "point": "Benchmark P/E 15",
+        "marks": 1
+      },
+      {
+        "point": "Value ₹480",
+        "marks": 1.5
+      },
+      {
+        "point": "Verdict: overvalued",
+        "marks": 1
+      },
+      {
+        "point": "Two limitations",
+        "marks": 1.5
+      }
+    ]
+  },
+  {
+    "id": "EV-2-05",
+    "node": "EV-2",
+    "unit": "SAPM Unit 4",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "hard",
+    "question": "A company pays out 50% of its earnings, its ROE is 16% and its required return is 13%. Last year's EPS was ₹20. (a) Compute the justified trailing P/E. (b) Value the share. (c) The share trades at a P/E of 14 on last year's EPS. Advise.",
+    "model_answer": "**(a)** g = retention × ROE = 0.50 × 16% = **8%**.\nJustified trailing P/E = payout × (1 + g) ÷ (k − g) = 0.50 × 1.08 ÷ (0.13 − 0.08) = 0.54 ÷ 0.05 = **10.8**.\n(Forward P/E = 0.50 ÷ 0.05 = 10.)\n\n**(b)** Value = EPS₀ × trailing P/E = 20 × 10.8 = **₹216**. (Check with Gordon: D₁ = 20 × 1.08 × 0.5 = 10.80; 10.80 ÷ 0.05 = ₹216.)\n\n**(c)** Market price = 20 × 14 = ₹280. Value ₹216 < price ₹280: **overvalued**. The market's P/E of 14 implies higher growth or lower risk than the fundamentals support. **Avoid or sell.**",
+    "marking_scheme": [
+      {
+        "point": "g = 8%",
+        "marks": 1
+      },
+      {
+        "point": "Justified trailing P/E 10.8",
+        "marks": 1.5
+      },
+      {
+        "point": "Value ₹216",
+        "marks": 1
+      },
+      {
+        "point": "Market price ₹280 and overvalued verdict",
+        "marks": 1.5
+      }
+    ]
+  },
+  {
+    "id": "EV-3-01",
+    "node": "EV-3",
+    "unit": "SAPM Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "A bank's book value per share is ₹120 and comparable banks trade at a P/B of 1.5. The estimated value is:",
+    "options": [
+      "A) ₹80",
+      "B) ₹180",
+      "C) ₹121.50",
+      "D) ₹240"
+    ],
+    "answer": "B",
+    "explanation": "Value = BVPS × peer P/B = 120 × 1.5 = ₹180. ₹80 divides by 1.5; ₹121.50 adds; ₹240 uses a P/B of 2."
+  },
+  {
+    "id": "EV-3-02",
+    "node": "EV-3",
+    "unit": "SAPM Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A firm's ROE is 12%, its required return is 15% and its growth is 6%. Its justified P/B ratio is:",
+    "options": [
+      "A) 2.0",
+      "B) 1.0",
+      "C) 0.67",
+      "D) 1.33"
+    ],
+    "answer": "C",
+    "explanation": "Justified P/B = (ROE − g) ÷ (k − g) = (12 − 6) ÷ (15 − 6) = 6 ÷ 9 = 0.67. It is below 1 because ROE is below the cost of equity: the firm destroys value on each rupee of book equity, so it should trade below book. 1.33 inverts the ratio; 2.0 and 1.0 have no basis here."
+  },
+  {
+    "id": "EV-3-03",
+    "node": "EV-3",
+    "unit": "SAPM Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "For which company is the P/S ratio the most useful valuation multiple?",
+    "options": [
+      "A) A large, steadily profitable FMCG company",
+      "B) A loss-making start-up with fast-growing revenue",
+      "C) A bank",
+      "D) A company with stable dividends"
+    ],
+    "answer": "B",
+    "explanation": "A loss-maker has negative EPS, so P/E is meaningless, but it has sales, so P/S works. A profitable FMCG firm can use P/E; a bank is usually valued on P/B; a stable dividend payer suits the DDM."
+  },
+  {
+    "id": "EV-3-04",
+    "node": "EV-3",
+    "unit": "SAPM Unit 4",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "A private-sector bank has a book value per share of ₹240, ROE of 16%, required return of 14% and sustainable growth of 10%. Comparable banks trade at a P/B of 1.4. The share price is ₹300. Value the share using (a) peer P/B and (b) justified P/B, and advise. Why is P/B preferred for banks?",
+    "model_answer": "**(a) Peer P/B:** value = 240 × 1.4 = **₹336**.\n\n**(b) Justified P/B** = (ROE − g) ÷ (k − g) = (16 − 10) ÷ (14 − 10) = 6 ÷ 4 = **1.5**. Value = 240 × 1.5 = **₹360**.\n\n**Advice:** both values (₹336 and ₹360) exceed the price ₹300: **undervalued, buy**. The justified P/B is above 1 because the bank's ROE (16%) exceeds its cost of equity (14%).\n\n**Why P/B for banks:** a bank's assets and liabilities are mostly financial and carried close to market value, so book value is a meaningful measure of what shareholders own; earnings are volatile with provisions, and regulators set capital in book terms.",
+    "marking_scheme": [
+      {
+        "point": "Peer P/B value ₹336",
+        "marks": 1
+      },
+      {
+        "point": "Justified P/B 1.5 and value ₹360",
+        "marks": 1.5
+      },
+      {
+        "point": "Verdict: undervalued",
+        "marks": 1
+      },
+      {
+        "point": "Reason P/B suits banks",
+        "marks": 1.5
+      }
+    ]
+  },
+  {
+    "id": "EV-4-01",
+    "node": "EV-4",
+    "unit": "SAPM Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "A preference share pays a fixed dividend of ₹9 a year forever. The required return is 12%. Its value is:",
+    "options": [
+      "A) ₹108",
+      "B) ₹75",
+      "C) ₹100",
+      "D) ₹10.80"
+    ],
+    "answer": "B",
+    "explanation": "Zero-growth model: P₀ = D ÷ k = 9 ÷ 0.12 = ₹75. ₹108 multiplies the dividend by 12; ₹100 assumes face value; ₹10.80 adds 20% to the dividend."
+  },
+  {
+    "id": "EV-4-02",
+    "node": "EV-4",
+    "unit": "SAPM Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A company has just paid a dividend of ₹4. Dividends grow at 5% a year and the required return is 15%. The share's value is:",
+    "options": [
+      "A) ₹40.00",
+      "B) ₹26.67",
+      "C) ₹42.00",
+      "D) ₹28.00"
+    ],
+    "answer": "C",
+    "explanation": "D₁ = D₀ × 1.05 = 4.20; P₀ = D₁ ÷ (k − g) = 4.20 ÷ 0.10 = ₹42. ₹40 uses D₀ instead of D₁, the most common trap. ₹26.67 divides by k alone (4 ÷ 0.15); ₹28 divides D₁ by k alone."
+  },
+  {
+    "id": "EV-4-03",
+    "node": "EV-4",
+    "unit": "SAPM Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A share trades at ₹50. Next year's dividend is expected to be ₹3, growing at 7% a year. The market's implied required return is:",
+    "options": [
+      "A) 6%",
+      "B) 13%",
+      "C) 10%",
+      "D) 7%"
+    ],
+    "answer": "B",
+    "explanation": "k = D₁ ÷ P₀ + g = 3 ÷ 50 + 7% = 6% + 7% = 13%. 6% is only the dividend yield, 7% only the growth, and 10% adds 3 to 7."
+  },
+  {
+    "id": "EV-4-04",
+    "node": "EV-4",
+    "unit": "SAPM Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "A company pays out 30% of its earnings and earns an ROE of 20%. Its sustainable growth rate is:",
+    "options": [
+      "A) 6%",
+      "B) 14%",
+      "C) 20%",
+      "D) 50%"
+    ],
+    "answer": "B",
+    "explanation": "g = retention ratio × ROE = (1 − 0.30) × 20% = 0.70 × 20% = 14%. 6% uses the payout ratio instead of retention. 20% is just the ROE. 50% adds the two percentages."
+  },
+  {
+    "id": "EV-4-05",
+    "node": "EV-4",
+    "unit": "SAPM Unit 4",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "A company has just paid a dividend of ₹8. Dividends are expected to grow at 7% a year forever. Its beta is 0.9, the risk-free rate is 6.5% and the expected market return is 13.5%. The share trades at ₹160. Find its intrinsic value and advise.",
+    "model_answer": "**Step 1: required return (CAPM)** k = 6.5 + 0.9 × (13.5 − 6.5) = 6.5 + 6.3 = **12.8%**.\n\n**Step 2: next dividend** D₁ = 8 × 1.07 = **₹8.56**.\n\n**Step 3: Gordon value** P₀ = 8.56 ÷ (0.128 − 0.07) = 8.56 ÷ 0.058 = **₹147.59**.\n\n**Step 4: decision.** Value ₹147.59 < price ₹160: **overvalued**; the price exceeds value by about 8.4%. **Avoid or sell**, unless growth is expected to exceed 7%.",
+    "marking_scheme": [
+      {
+        "point": "CAPM k 12.8%",
+        "marks": 1.5
+      },
+      {
+        "point": "D₁ ₹8.56",
+        "marks": 1
+      },
+      {
+        "point": "Value ₹147.59",
+        "marks": 1.5
+      },
+      {
+        "point": "Decision",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "EV-4-06",
+    "node": "EV-4",
+    "unit": "SAPM Unit 4",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "hard",
+    "question": "A company has just paid a dividend of ₹3. Dividends are expected to grow at 15% for the next two years, and at 6% a year forever after that. The required return is 12%. Value the share.",
+    "model_answer": "**Step 1: high-growth dividends.** D₁ = 3 × 1.15 = **3.45**; D₂ = 3.45 × 1.15 = **3.9675**.\n\n**Step 2: PV of these dividends.** 3.45 ÷ 1.12 = 3.0804; 3.9675 ÷ 1.2544 = 3.1629. Total = **6.2433**.\n\n**Step 3: terminal price at end of year 2** (Gordon from year 3): D₃ = 3.9675 × 1.06 = 4.2056; P₂ = 4.2056 ÷ (0.12 − 0.06) = **70.09**.\n\n**Step 4: PV of terminal price** = 70.09 ÷ 1.2544 = **55.88**.\n\n**Step 5: value** = 6.24 + 55.88 = **₹62.12**.\n\n*About 90% of the value comes from the terminal price, which is why the long-run growth assumption matters most.*",
+    "marking_scheme": [
+      {
+        "point": "D₁ and D₂",
+        "marks": 1
+      },
+      {
+        "point": "PV of high-growth dividends",
+        "marks": 1
+      },
+      {
+        "point": "Terminal price P₂",
+        "marks": 1.5
+      },
+      {
+        "point": "PV of terminal price and total ₹62.12",
+        "marks": 1.5
+      }
+    ]
+  },
+  {
+    "id": "EV-4-07",
+    "node": "EV-4",
+    "unit": "SAPM Unit 4",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "medium",
+    "question": "Explain the dividend discount models used to value equity shares. Illustrate the zero-growth and constant-growth models with your own figures, and state the assumptions and limitations of the constant-growth model.",
+    "model_answer": "**General model.** A share is worth the present value of all expected future dividends: P₀ = Σ Dₜ ÷ (1 + k)ᵗ. Even an investor who sells is paid a price that is the PV of later dividends.\n\n**Zero-growth model.** Constant dividend forever: P₀ = D ÷ k. *Illustration:* D = ₹12, k = 15%: P₀ = ₹80. Used for preference shares and mature, no-growth firms.\n\n**Constant-growth (Gordon) model.** Dividends grow at g forever: P₀ = D₁ ÷ (k − g), D₁ = D₀(1 + g). *Illustration:* D₀ = ₹10, g = 6%, k = 14%: D₁ = 10.60; P₀ = 10.60 ÷ 0.08 = ₹132.50.\n\n**Inputs.** g = retention × ROE (e.g. 0.6 × 15% = 9%); k from CAPM (e.g. 6 + 1.2 × 7 = 14.4%). Rearranged, k = D₁/P₀ + g (dividend yield + growth).\n\n**Assumptions of Gordon's model.**\n1. Dividends grow at a constant rate forever.\n2. k > g.\n3. k and g are constant.\n4. Retained earnings are reinvested at a constant ROE.\n5. Risk (and financing) stays stable.\n\n**Limitations.**\n1. Can't value firms that pay no dividends.\n2. Extremely sensitive to k − g: with k 14.4%, moving g from 9% to 8% cuts value by about 16%.\n3. Constant growth forever is unrealistic for young firms (use the two-stage model).\n4. Breaks down when g ≥ k.\n5. Ignores buybacks.\n\n**Decision use.** Compare the value with the market price: value > price, buy; value < price, sell.",
+    "marking_scheme": [
+      {
+        "point": "General model",
+        "marks": 1.5
+      },
+      {
+        "point": "Zero-growth model with illustration",
+        "marks": 2
+      },
+      {
+        "point": "Gordon model with illustration",
+        "marks": 2.5
+      },
+      {
+        "point": "Estimating g and k",
+        "marks": 1
+      },
+      {
+        "point": "Assumptions",
+        "marks": 1.5
+      },
+      {
+        "point": "Limitations",
+        "marks": 1.5
+      }
+    ]
+  },
+  {
+    "id": "EV-5-01",
+    "node": "EV-5",
+    "unit": "SAPM Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "Under the constant-growth model, a share is worth ₹200 today and dividends grow at 8% a year. Its expected price after two years is:",
+    "options": [
+      "A) ₹232.00",
+      "B) ₹233.28",
+      "C) ₹216.00",
+      "D) ₹216.64"
+    ],
+    "answer": "B",
+    "explanation": "Price grows at g: P₂ = 200 × 1.08² = 200 × 1.1664 = ₹233.28. ₹232 uses simple growth (16%); ₹216 is one year only; ₹216.64 has no basis."
+  },
+  {
+    "id": "EV-5-02",
+    "node": "EV-5",
+    "unit": "SAPM Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "An investor expects a dividend of ₹5 and a price of ₹115 one year from now. Her required return is 12%. The most she should pay today is about:",
+    "options": [
+      "A) ₹120.00",
+      "B) ₹107.14",
+      "C) ₹102.68",
+      "D) ₹134.40"
+    ],
+    "answer": "B",
+    "explanation": "One-period model: P₀ = (D₁ + P₁) ÷ (1 + k) = 120 ÷ 1.12 = ₹107.14. ₹120 ignores discounting; ₹102.68 discounts only the price and ignores the dividend; ₹134.40 compounds instead of discounting."
+  },
+  {
+    "id": "EV-5-03",
+    "node": "EV-5",
+    "unit": "SAPM Unit 4",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "A company's EPS this year is ₹40 and is expected to grow at 10%. Analysts expect the share to trade at a P/E of 18 next year, and a dividend of ₹12 to be paid. The share trades at ₹700 and the investor's required return is 13%. Find the target price and expected holding period return, and advise.",
+    "model_answer": "**Step 1: forecast EPS** = 40 × 1.10 = **₹44**.\n\n**Step 2: target price** = 44 × 18 = **₹792**.\n\n**Step 3: expected HPR** = (D₁ + P₁ − P₀) ÷ P₀ = (12 + 792 − 700) ÷ 700 = 104 ÷ 700 = **14.86%**.\n\n**Step 4: decision.** 14.86% > required 13%: the share offers an expected excess return of about 1.9 points. **Buy**, noting that the result depends on the P/E of 18 holding; at a P/E of 16 the target falls to ₹704 and the HPR to about 2.3%.",
+    "marking_scheme": [
+      {
+        "point": "Forecast EPS ₹44",
+        "marks": 1
+      },
+      {
+        "point": "Target price ₹792",
+        "marks": 1
+      },
+      {
+        "point": "HPR 14.86%",
+        "marks": 1.5
+      },
+      {
+        "point": "Decision with sensitivity",
+        "marks": 1.5
+      }
+    ]
+  },
+  {
+    "id": "EV-6-01",
+    "node": "EV-6",
+    "unit": "SAPM Unit 4",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "medium",
+    "question": "\"No single valuation model is enough.\" Discuss the absolute, relative and asset-based approaches to equity valuation, with the strengths and weaknesses of each, and explain how an analyst should combine them.",
+    "model_answer": "**1. Absolute (intrinsic, DCF) approach.** Value from the firm's own expected cash flows discounted at the required return: dividend discount models (zero growth P = D/k; Gordon P = D₁/(k − g)), earnings capitalisation (P = E/k), free cash flow models.\n*Strengths:* grounded in fundamentals; independent of market mood; forces explicit assumptions.\n*Weaknesses:* very sensitive to k and g; hard for non-dividend payers and young firms.\n\n**2. Relative (multiples) approach.** Apply peers' P/E, P/B or P/S to the firm's EPS, book value or sales.\n*Strengths:* simple, market-based, quick; P/B suits banks, P/S suits loss-makers.\n*Weaknesses:* if the whole sector is mispriced, so is the answer; peers are never perfectly comparable; accounting differences.\n\n**3. Asset-based approach.** Net asset value per share (assets at fair value minus liabilities, divided by shares).\n*Strengths:* useful for holding companies, real estate, liquidation.\n*Weaknesses:* ignores earning power and intangibles; poor for service and tech firms.\n\n**Combining them.** Compute values by two or three methods, put them in a summary table, take an average or a range, and compare with price. Where methods disagree, explain why (high growth lifts DDM above P/B; a cyclical peak depresses P/E). Act only when the margin of safety is large enough to cover the uncertainty.\n\n*Example:* DDM ₹100.93, P/E ₹100, P/B ₹95, P/S ₹96: average ₹97.98 against a price of ₹92 gives a 6.1% margin of safety: mildly undervalued.",
+    "marking_scheme": [
+      {
+        "point": "Absolute approach with strengths and weaknesses",
+        "marks": 3
+      },
+      {
+        "point": "Relative approach with strengths and weaknesses",
+        "marks": 3
+      },
+      {
+        "point": "Asset-based approach",
+        "marks": 1.5
+      },
+      {
+        "point": "How to combine and reconcile",
+        "marks": 1.5
+      },
+      {
+        "point": "Illustration",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "EV-6-02",
+    "node": "EV-6",
+    "unit": "SAPM Unit 4",
+    "type": "case",
+    "marks": 15,
+    "difficulty": "hard",
+    "question": "**Case: is Sahyadri Consumer Ltd (fictional) worth ₹215?** The company has just paid a dividend of ₹6 per share. It retains 55% of its earnings and earns an ROE of 18%. Its beta is 1.1; the risk-free rate is 6% and the expected market return is 12.5%. The share trades at ₹215.\n\nPeer data: average P/E 13 (on next year's EPS), average P/B 2.3, average P/S 0.65. The company's book value per share is ₹85 and sales per share are ₹300.\n\n(a) State your assumptions. (1)\n(b) Compute the required return using CAPM and the sustainable growth rate. (3)\n(c) Value the share using the constant-growth DDM. (3)\n(d) Value the share using P/E, P/B and P/S. Next year's EPS = next year's dividend ÷ payout ratio. (4)\n(e) Summarise, compute the gap between price and value, and recommend. Show how sensitive the DDM value is to growth falling to 9%. (4)",
+    "model_answer": "**(a) Assumptions:** dividends grow at a constant rate forever; CAPM gives the cost of equity; peers are comparable in growth and risk; payout stays at 45%; no taxes.\n\n**(b)** k = 6 + 1.1 × (12.5 − 6) = 6 + 7.15 = **13.15%**. g = retention × ROE = 0.55 × 18% = **9.9%**.\n\n**(c)** D₁ = 6 × 1.099 = **₹6.594**. P₀ = 6.594 ÷ (0.1315 − 0.099) = 6.594 ÷ 0.0325 = **₹202.89**.\n\n**(d)**\n- Next year's EPS = 6.594 ÷ 0.45 = **₹14.65**; P/E value = 14.65 × 13 = **₹190.49**.\n- P/B value = 85 × 2.3 = **₹195.50**.\n- P/S value = 300 × 0.65 = **₹195.00**.\n\n**(e) Summary**\n\n| Method | Value (₹) |\n|---|---|\n| DDM | 202.89 |\n| P/E | 190.49 |\n| P/B | 195.50 |\n| P/S | 195.00 |\n| **Average** | **195.97** |\n\nPrice ₹215 is **₹19.03 (9.7%) above** the average value, and above every single estimate. **Overvalued: avoid or sell (do not buy at ₹215).**\n\n**Sensitivity:** if growth falls to 9%, D₁ = 6 × 1.09 = 6.54 and P₀ = 6.54 ÷ (0.1315 − 0.09) = 6.54 ÷ 0.0415 = **₹157.59**, 22% lower. The DDM is highly sensitive to the gap k − g, which makes the overvaluation verdict stronger, not weaker.\n\n**Recommendation:** at ₹215 the market is pricing in growth or a P/E above what fundamentals and peers support. Wait for a price below about ₹196 (better, below about ₹176 for a 10% margin of safety) before buying.",
+    "marking_scheme": [
+      {
+        "point": "Assumptions",
+        "marks": 1
+      },
+      {
+        "point": "CAPM k 13.15%",
+        "marks": 1.5
+      },
+      {
+        "point": "g 9.9%",
+        "marks": 1.5
+      },
+      {
+        "point": "DDM value ₹202.89",
+        "marks": 3
+      },
+      {
+        "point": "P/E value via EPS ₹14.65",
+        "marks": 1.5
+      },
+      {
+        "point": "P/B and P/S values",
+        "marks": 2.5
+      },
+      {
+        "point": "Summary, gap and verdict",
+        "marks": 2
+      },
+      {
+        "point": "Sensitivity ₹157.59 and recommendation",
+        "marks": 2
+      }
+    ]
+  }
+]

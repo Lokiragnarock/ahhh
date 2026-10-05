@@ -31,6 +31,7 @@ margin of safety).
 
 ## ESE node maps (built 2026-10-05)
 CIA3 was the group Gen Z portfolio assignment (due 24 Sep), so these target the ESE, which covers all five units.
+- [[SAPM Unit 4 - Equity Valuation MOC (Node Map)]] — EV-1 to EV-6: intrinsic value, P/E, P/B and P/S, dividend discount models, forecasting prices
 - [[SAPM Unit 5 - Portfolio Management MOC (Node Map)]] — PM-1 to PM-7: portfolio risk, Markowitz, CAPM, single index model, Sharpe/Treynor/Jensen, strategies
 
 ## Recall prompts
