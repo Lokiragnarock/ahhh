@@ -1,0 +1,666 @@
+[
+  {
+    "id": "CD-1-01",
+    "node": "CD-1",
+    "unit": "CRM Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "Which CRM platform is described as an integrated suite combining CRM and ERP that works with Office 365 and Azure and offers AI-driven insights?",
+    "options": [
+      "A) Salesforce",
+      "B) HubSpot",
+      "C) Microsoft Dynamics 365",
+      "D) Tableau"
+    ],
+    "answer": "C",
+    "explanation": "C is right. A (Salesforce, the tempting one) is the broad, highly customisable platform with strong tool integration, but its slide points are not CRM plus ERP on Microsoft tools. B (HubSpot) is the user-friendly inbound-marketing platform with a free tier. D (Tableau) is a business intelligence tool, not a CRM platform."
+  },
+  {
+    "id": "CD-1-02",
+    "node": "CD-1",
+    "unit": "CRM Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Which sequence gives the five components of the customer data ecosystem in flow order?",
+    "options": [
+      "A) Data processing and analytics, data sources, CDP/CRM database, business applications, customer experience",
+      "B) Customer data sources, CDP/CRM database, data processing and analytics, business applications, customer experience",
+      "C) Customer data sources, data processing and analytics, CDP/CRM database, customer experience, business applications",
+      "D) CDP/CRM database, customer data sources, business applications, data processing and analytics, customer experience"
+    ],
+    "answer": "B",
+    "explanation": "B follows the hook Sources, Store, Study, Serve, Satisfy. A analyses before data has been collected and stored. C analyses before storage and puts the customer experience before the applications that produce it. D stores data before it has any source."
+  },
+  {
+    "id": "CD-1-03",
+    "node": "CD-1",
+    "unit": "CRM Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "In the optional three-layer view of CRM architecture, dashboards, reports and alerts that carry insight to decision makers belong to the:",
+    "options": [
+      "A) Data layer",
+      "B) Application layer",
+      "C) Presentation layer",
+      "D) Strategic layer"
+    ],
+    "answer": "C",
+    "explanation": "C is right: the presentation layer delivers insight to decision makers. B (the tempting one) holds the four CRM types (analytical, operational, collaborative, strategic), which produce the insight. A is the data warehouse or CDP holding transactions and interaction logs. D is not one of the three layers; strategic is one of the four CRM types."
+  },
+  {
+    "id": "CD-1-04",
+    "node": "CD-1",
+    "unit": "CRM Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "A five-person start-up wants a user-friendly CRM with a free entry version and a focus on inbound marketing and lead nurturing. Which platform fits best from the class list?",
+    "options": [
+      "A) HubSpot",
+      "B) Microsoft Dynamics 365",
+      "C) Salesforce",
+      "D) SAP BusinessObjects"
+    ],
+    "answer": "A",
+    "explanation": "A is right: HubSpot is user-friendly, inbound-focused and has a free CRM with paid add-ons. C (Salesforce, the tempting one) is powerful but chosen for large customisable estates, which a five-person team does not need. B suits firms already on Microsoft tools or wanting CRM with ERP. D is a BI tool, not a CRM platform."
+  },
+  {
+    "id": "CD-2-01",
+    "node": "CD-2",
+    "unit": "CRM Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A telecom firm finds the same subscriber stored as two records in its CRM, so purchase history is split and the subscriber's value is understated. Which data quality characteristic fails?",
+    "options": [
+      "A) Accuracy",
+      "B) Consistency",
+      "C) Uniqueness",
+      "D) Timeliness"
+    ],
+    "answer": "C",
+    "explanation": "C is right: each customer should have one record, and duplicates split history and distort CLV. B (consistency, the tempting one) fails when the same fact differs between systems (for example two different addresses), not when a customer is simply stored twice. A concerns incorrect values. D concerns outdated values."
+  },
+  {
+    "id": "CD-2-02",
+    "node": "CD-2",
+    "unit": "CRM Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A customer's address is updated in the billing system after a house move but still shows the old address in the service system. Which characteristic is violated first?",
+    "options": [
+      "A) Consistency",
+      "B) Uniqueness",
+      "C) Completeness",
+      "D) Accuracy of the billing record"
+    ],
+    "answer": "A",
+    "explanation": "A is right: the same information differs across systems, which signals a data silo. D (the tempting one) is wrong because the billing record is correct; it is the mismatch between systems that fails. B is not violated (one record per system). C is not violated (nothing is missing)."
+  },
+  {
+    "id": "CD-2-03",
+    "node": "CD-2",
+    "unit": "CRM Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "A promotional SMS campaign goes to customers who changed their mobile numbers a year ago. Which characteristic of data quality has failed?",
+    "options": [
+      "A) Uniqueness",
+      "B) Completeness",
+      "C) Consistency",
+      "D) Timeliness"
+    ],
+    "answer": "D",
+    "explanation": "D is right: data that is not kept up to date sends campaigns to the wrong people. B (the tempting one) would apply if the number field were blank; here a number exists but is stale. A concerns duplicate records. C concerns differences between systems."
+  },
+  {
+    "id": "CD-2-04",
+    "node": "CD-2",
+    "unit": "CRM Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Which fix best addresses data quality problems caused by manual entry at the till or call centre?",
+    "options": [
+      "A) Matching and deduplication",
+      "B) Integration into a single customer view",
+      "C) Validation rules and drop-down fields",
+      "D) Appointing a CRM champion"
+    ],
+    "answer": "C",
+    "explanation": "C is right: validation rules and drop-downs stop errors at the point of entry. A fixes duplication from disconnected entry points. B fixes fragmentation across separate systems. D is a stakeholder-involvement fix and does not touch data entry."
+  },
+  {
+    "id": "CD-3-01",
+    "node": "CD-3",
+    "unit": "CRM Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "\"A detailed description of one customer's age, occupation, weekend shopping habits and favourite products\" is an example of:",
+    "options": [
+      "A) Customer segmentation",
+      "B) Customer profiling",
+      "C) Value-based segmentation",
+      "D) Data warehousing"
+    ],
+    "answer": "B",
+    "explanation": "B is right: profiling focuses on an individual customer. A (the tempting one) groups customers with similar traits, such as students versus professionals. C groups by value to the firm. D is a storage technology."
+  },
+  {
+    "id": "CD-3-02",
+    "node": "CD-3",
+    "unit": "CRM Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Which type of customer profiling explains WHY customers buy, through values, lifestyle and attitudes?",
+    "options": [
+      "A) Demographic",
+      "B) Geographic",
+      "C) Psychographic",
+      "D) Behavioural"
+    ],
+    "answer": "C",
+    "explanation": "C is right. D (behavioural, the tempting one) records what customers did (purchases, browsing) and predicts future actions, but it does not explain motives. A gives baseline traits such as age and income. B gives region and local preferences."
+  },
+  {
+    "id": "CD-3-03",
+    "node": "CD-3",
+    "unit": "CRM Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A firm scores customers 1 to 5 (5 is best) on recency, frequency and monetary value and adds the three. Rule: 12 to 15 is high value, 8 to 11 is core, below 8 is low value. A customer scores R = 4, F = 2, M = 5. Which segment is the customer in?",
+    "options": [
+      "A) High value",
+      "B) Core",
+      "C) Low value",
+      "D) Cannot be classified without more data"
+    ],
+    "answer": "B",
+    "explanation": "The total is 4 + 2 + 5 = 11, which is core. A (the tempting one) comes from noticing the strong M score and treating it as high value, or from misreading 11 as 12. C would need a total below 8. D is wrong because the rule gives a total that classifies the customer."
+  },
+  {
+    "id": "CD-3-04",
+    "node": "CD-3",
+    "unit": "CRM Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "\"New customers receive a welcome discount; loyal customers receive reward points; inactive customers receive re-engagement offers.\" Which of the five segmentation steps is this?",
+    "options": [
+      "A) Step 2: analyse the data",
+      "B) Step 3: create segments",
+      "C) Step 4: develop marketing strategies",
+      "D) Step 5: monitor results"
+    ],
+    "answer": "C",
+    "explanation": "C is right: assigning a different action to each segment is step 4. B (the tempting one) is forming the groups (premium, regular, discount seekers, new) by common traits, before any action is planned. A studies spending and visit patterns. D tracks sales growth, retention and satisfaction afterwards."
+  },
+  {
+    "id": "CD-4-01",
+    "node": "CD-4",
+    "unit": "CRM Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "A dashboard that shows annual revenue, market share and customer retention for the CEO is a:",
+    "options": [
+      "A) Operational dashboard",
+      "B) Tactical dashboard",
+      "C) Analytical dashboard",
+      "D) Strategic dashboard"
+    ],
+    "answer": "D",
+    "explanation": "D is right: long-term measures for top management are strategic. C (the tempting one) is the name some BI books give the middle tier, but this course says tactical. A tracks daily activity for supervisors. B tracks departmental performance for department managers."
+  },
+  {
+    "id": "CD-4-02",
+    "node": "CD-4",
+    "unit": "CRM Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Which is the correct order of the four components of business intelligence?",
+    "options": [
+      "A) Data collection, data analysis, data integration, data visualisation",
+      "B) Data integration, data collection, data analysis, data visualisation",
+      "C) Data collection, data integration, data analysis, data visualisation",
+      "D) Data visualisation, data collection, data integration, data analysis"
+    ],
+    "answer": "C",
+    "explanation": "C is right: collect, integrate, analyse, visualise. A analyses before the data from different sources has been combined. B integrates before there is anything to integrate. D shows results before any analysis exists."
+  },
+  {
+    "id": "CD-4-03",
+    "node": "CD-4",
+    "unit": "CRM Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A store supervisor checks daily sales, stock levels and the number of customer complaints each morning. The dashboard used is mainly:",
+    "options": [
+      "A) Tactical, used by department managers",
+      "B) Operational, used by supervisors and team leaders",
+      "C) Strategic, used by directors",
+      "D) A data warehouse"
+    ],
+    "answer": "B",
+    "explanation": "B is right: daily activity monitoring by supervisors is operational. A (the tempting one) covers departmental measures such as monthly campaign results. C covers multi-year decisions. D stores data; it is not a dashboard."
+  },
+  {
+    "id": "CD-5-01",
+    "node": "CD-5",
+    "unit": "CRM Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "hard",
+    "question": "A customer scores R = 1, F = 5, M = 5 (total 11 of 15). What is the best reading of this customer?",
+    "options": [
+      "A) Model customer: reward and retain",
+      "B) Low value: reduce service cost",
+      "C) High-value past spender who may be lapsing: run a win-back offer",
+      "D) New customer: send a second-purchase nudge"
+    ],
+    "answer": "C",
+    "explanation": "C is right: a very low recency with top frequency and spend means the customer used to buy often but has stopped, so win back first. A (the tempting one) reads the total and the two top scores while ignoring R. B ignores F and M. D confuses this with a recent buyer who has low F and M (high R, low F, low M)."
+  },
+  {
+    "id": "CD-1-05",
+    "node": "CD-1",
+    "unit": "CRM Unit 2",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "What is CRM architecture? Name its four components with the role of each in the architecture, and add the three-layer view as an extra.",
+    "model_answer": "**Definition.** CRM architecture is the overall framework of a CRM system showing how customer information is collected, stored, analysed and used by different departments to improve relationships.\n\n| Component | Architecture role |\n|---|---|\n| Analytical | Back-end: data warehouse and mining turn stored data into insight |\n| Operational | Front-end: SFA, marketing and service automation used in daily contact |\n| Collaborative | Channel layer: email, web, social and store feed one omnichannel view |\n| Strategic | Direction: customer-centric goals decide what is built |\n\n**Extra (not faculty content): three layers.** Data layer (transaction records, interaction logs, third-party data in a warehouse or CDP); application layer (the four CRM types); presentation layer (dashboards, reports, alerts).\n\n**Interpretation.** A fragmented architecture is a common root cause of CRM failure; it decides whether the firm can predict or only record.",
+    "marking_scheme": [
+      {
+        "point": "Definition (collected, stored, analysed, used)",
+        "marks": 1
+      },
+      {
+        "point": "Four components with architecture role",
+        "marks": 2.5
+      },
+      {
+        "point": "Three-layer view as an extra",
+        "marks": 1
+      },
+      {
+        "point": "Interpretation",
+        "marks": 0.5
+      }
+    ]
+  },
+  {
+    "id": "CD-1-06",
+    "node": "CD-1",
+    "unit": "CRM Unit 2",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Compare Salesforce, Microsoft Dynamics 365 and HubSpot on their strengths and the type of firm each suits.",
+    "model_answer": "| Platform | Strengths on the slide | Best fit |\n|---|---|---|\n| Salesforce | Comprehensive; many customisation options; products for sales, service and marketing; strong integration with other tools | Large firms needing a customisable estate |\n| Microsoft Dynamics 365 | Integrated CRM and ERP; works with Office 365 and Azure; AI-driven insights and predictive analytics | Firms already on Microsoft tools or wanting CRM with ERP |\n| HubSpot | User-friendly; inbound marketing and sales focus; free CRM with paid add-ons; content management and lead nurturing | Small teams starting inbound marketing |\n\n**Interpretation.** Choose by actual requirements, not by brand: selecting the wrong platform is the \"wrong software\" challenge in implementation.",
+    "marking_scheme": [
+      {
+        "point": "Salesforce points",
+        "marks": 1.5
+      },
+      {
+        "point": "Dynamics 365 points",
+        "marks": 1.5
+      },
+      {
+        "point": "HubSpot points",
+        "marks": 1.5
+      },
+      {
+        "point": "Fit logic and interpretation",
+        "marks": 0.5
+      }
+    ]
+  },
+  {
+    "id": "CD-2-05",
+    "node": "CD-2",
+    "unit": "CRM Unit 2",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "Explain the five characteristics of high-quality customer data. For each, state what goes wrong when it is absent.",
+    "model_answer": "A CRM is only as effective as the quality of the data it holds.\n\n| Characteristic | Meaning | What fails if absent |\n|---|---|---|\n| Accuracy | Information is correct | Wrong address or amount, so wrong action |\n| Completeness | No important information is missing | A missing contact channel blocks follow-up |\n| Consistency | Same information across systems | Mismatch signals a data silo |\n| Timeliness | Data is kept up to date | Stale data sends campaigns to the wrong people |\n| Uniqueness | One record per customer | Duplicates split history and distort CLV |\n\n**Fix.** Data audit before migration, cleansing and deduplication, single customer view. **Interpretation.** Poor data undermines every downstream use, from segmentation to dashboards. (Memory hook: A-C-C-T-U.)",
+    "marking_scheme": [
+      {
+        "point": "Five characteristics named correctly",
+        "marks": 2
+      },
+      {
+        "point": "Meaning and failure consequence for each",
+        "marks": 2
+      },
+      {
+        "point": "Fix and interpretation",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "CD-2-06",
+    "node": "CD-2",
+    "unit": "CRM Unit 2",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Describe four common customer data quality problems with their causes and fixes.",
+    "model_answer": "| Issue | Cause | Fix |\n|---|---|---|\n| Duplication | Disconnected entry points (store, web, call centre) | Matching and deduplication |\n| Fragmentation | Touchpoints tracked in separate systems | Integration, single customer view |\n| Decay | Customers change address, job, contact details | Regular updates, annual audit |\n| Human entry error | Manual entry at the till or call centre | Validation rules, drop-down fields |\n\n**Governance.** Underneath the fixes, data governance assigns ownership, access rights and quality standards to customer data, linked to privacy and consent.\n\n**Interpretation.** Duplicates and fragmentation distort CLV and segmentation, so data fixes come before analytics.",
+    "marking_scheme": [
+      {
+        "point": "Four issues",
+        "marks": 1.5
+      },
+      {
+        "point": "Causes",
+        "marks": 1
+      },
+      {
+        "point": "Fixes",
+        "marks": 1.5
+      },
+      {
+        "point": "Governance and interpretation",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "CD-3-05",
+    "node": "CD-3",
+    "unit": "CRM Unit 2",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "Distinguish customer profiling from customer segmentation. Give one example of each.",
+    "model_answer": "| Customer profiling | Customer segmentation |\n|---|---|\n| Focuses on an **individual** customer | Focuses on **groups** of customers |\n| Detailed description of a customer | Divides customers into similar groups |\n| Helps personalise services | Helps design targeted campaigns |\n| Example: one shopper's weekend habits and favourite products | Example: students versus professionals |\n\n**Link.** Profiling data (demographic, geographic, psychographic, behavioural) is the input; segmentation aggregates it into actionable groups.\n\n**Interpretation.** Profiling answers who this customer is; segmentation answers which groups to treat differently.",
+    "marking_scheme": [
+      {
+        "point": "Four-row difference",
+        "marks": 2.5
+      },
+      {
+        "point": "Example of each",
+        "marks": 1.5
+      },
+      {
+        "point": "Link or interpretation",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "CD-3-06",
+    "node": "CD-3",
+    "unit": "CRM Unit 2",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Explain the five steps in customer segmentation analytics, with the strategy for each segment in step 4.",
+    "model_answer": "Segmentation divides customers into groups with similar characteristics, needs or behaviours.\n\n| Step | Action |\n|---|---|\n| 1. Collect data | CRM, online purchases, loyalty cards, apps, social media, feedback |\n| 2. Analyse data | Purchase history, spending patterns, product preferences, visit frequency |\n| 3. Create segments | Group by common traits: premium, regular, discount seekers, new |\n| 4. Develop strategies | Premium: exclusive membership; new: welcome discount; loyal: reward points; inactive: re-engagement offers |\n| 5. Monitor results | Sales growth, retention, satisfaction |\n\nRFM (recency, frequency, monetary value) is a technique for step 3.\n\n**Interpretation.** Segmentation creates value only when each segment gets a different action and results are monitored.",
+    "marking_scheme": [
+      {
+        "point": "Five steps in order",
+        "marks": 2.5
+      },
+      {
+        "point": "Segment strategies in step 4",
+        "marks": 1.5
+      },
+      {
+        "point": "RFM mention and interpretation",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "CD-3-07",
+    "node": "CD-3",
+    "unit": "CRM Unit 2",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "hard",
+    "question": "A fictional online bookshop scores five customers on recency (R), frequency (F) and monetary value (M), each from 1 to 5 (5 is best):\n\n| Customer | R | F | M |\n|---|---|---|---|\n| D1 | 5 | 4 | 5 |\n| D2 | 1 | 5 | 4 |\n| D3 | 3 | 3 | 3 |\n| D4 | 2 | 1 | 1 |\n| D5 | 5 | 2 | 2 |\n\nRule: total = R + F + M; 12 to 15 is high value, 8 to 11 is core, below 8 is low value. (a) Compute the totals and segments. (b) Identify the customer for whom the total hides a risk and recommend an action. (c) Recommend an action for D5.",
+    "model_answer": "**(a)**\n| Customer | R | F | M | Total | Segment |\n|---|---|---|---|---|---|\n| D1 | 5 | 4 | 5 | 14 | High value |\n| D2 | 1 | 5 | 4 | 10 | Core |\n| D3 | 3 | 3 | 3 | 9 | Core |\n| D4 | 2 | 1 | 1 | 4 | Low value |\n| D5 | 5 | 2 | 2 | 9 | Core |\n\n**(b)** D2 totals 10 and sits in core, but R = 1 with F = 5 and M = 4: a frequent, high-spending customer who has not bought recently, so a high-value customer at risk of lapsing. Read R, F and M separately; the total alone hides this. Action: a personal win-back offer and a short feedback call before the customer is lost.\n\n**(c)** D5 totals 9 (core) but F = 2 and M = 2 with R = 5: probably a new or trial buyer. Action: a second-purchase nudge, such as a recommendation based on the first book.\n\nD1 is the model customer: retain and reward. Thresholds are set by the firm, not fixed.",
+    "marking_scheme": [
+      {
+        "point": "Totals and segments for all five customers",
+        "marks": 2
+      },
+      {
+        "point": "D2 identified as at risk with reason",
+        "marks": 1.5
+      },
+      {
+        "point": "Win-back action for D2",
+        "marks": 0.5
+      },
+      {
+        "point": "D5 reading and action",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "CD-4-04",
+    "node": "CD-4",
+    "unit": "CRM Unit 2",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Explain the qualities of a good dashboard and distinguish operational, tactical and strategic dashboards with an example of each.",
+    "model_answer": "**Five qualities:** easy to understand, interactive, visually attractive, accurate, user-friendly.\n\n| | Operational | Tactical | Strategic |\n|---|---|---|---|\n| Purpose | Monitor daily activity | Monitor departmental performance | Support long-term decisions |\n| Example | Daily sales, inventory, complaints | Campaign results, monthly sales, employee productivity | Annual revenue, market share, customer retention |\n| Used by | Supervisors, team leaders | Department managers | CEOs, directors, top management |\n\nUse the faculty word **tactical** for the middle tier, not \"analytical\".\n\n**Interpretation.** Matching the dashboard to the decision level avoids overload; dashboards also support management by exception, surfacing anomalies such as a spike in complaints.",
+    "marking_scheme": [
+      {
+        "point": "Five qualities",
+        "marks": 1.5
+      },
+      {
+        "point": "Three levels with purpose and users",
+        "marks": 2
+      },
+      {
+        "point": "Examples and interpretation",
+        "marks": 1.5
+      }
+    ]
+  },
+  {
+    "id": "CD-1-07",
+    "node": "CD-1",
+    "unit": "CRM Unit 2",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "medium",
+    "question": "Explain CRM architecture and the customer data ecosystem. How do data integration mechanisms and data quality affect them?",
+    "model_answer": "**Architecture.** CRM architecture is the framework showing how customer information is collected, stored, analysed and used by departments. Its four components are analytical (back-end data warehouse and mining), operational (front-end automation), collaborative (channel layer giving an omnichannel view) and strategic (customer-centric direction). An optional three-layer view adds the data, application and presentation layers.\n\n**Customer data ecosystem.** A network of people, technologies, systems and data sources that collect, integrate, store, analyse and use customer data to give a better experience. Flow:\n| # | Component | Example |\n|---|---|---|\n| 1 | Customer data sources | Website, social media, e-commerce, stores |\n| 2 | CDP / CRM database | Contact details, purchase history, preferences, complaints |\n| 3 | Processing and analytics | Buying patterns, CLV, segments, churn prediction |\n| 4 | Business applications | Marketing campaigns, sales, service, inventory planning, management reports |\n| 5 | Customer experience | Personalised recommendations, faster service, relevant offers |\n\nMemory hook: sources, store, study, serve, satisfy.\n\n**Integration.** APIs let systems such as an e-commerce platform and the CRM exchange data in real time. Middleware and ETL move and standardise data between systems; they are the glue.\n\n**Data quality as the gate.** Poor data at step 2 spoils steps 3 to 5: duplicates distort CLV, stale data misdirects campaigns. A fragmented architecture is a common root cause of CRM failure.\n\n**Distinction.** Architecture is the structure of the system; the ecosystem is the flow of data from source to experience.\n\n**Conclusion.** The chain is only as strong as its weakest component.",
+    "marking_scheme": [
+      {
+        "point": "Architecture definition and four components",
+        "marks": 2.5
+      },
+      {
+        "point": "Five ecosystem components in flow order with examples",
+        "marks": 3
+      },
+      {
+        "point": "Integration mechanisms (APIs, middleware, ETL)",
+        "marks": 1.5
+      },
+      {
+        "point": "Data quality impact",
+        "marks": 1.5
+      },
+      {
+        "point": "Distinction and conclusion",
+        "marks": 1.5
+      }
+    ]
+  },
+  {
+    "id": "CD-2-07",
+    "node": "CD-2",
+    "unit": "CRM Unit 2",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "medium",
+    "question": "Discuss customer databases and the management of data quality in CRM: benefits of a database, characteristics of quality data, common problems, single customer view and governance.",
+    "model_answer": "**Customer database.** A centralised collection of customer information in one place. **Six benefits:** all information in one place; personalised products and services; better service; targeted campaigns; higher retention; informed management decisions. A CRM is only as effective as the quality of the data it holds.\n\n**Five characteristics of quality data:** accuracy (correct), completeness (nothing important missing), consistency (same everywhere), timeliness (kept up to date), uniqueness (one record per customer). Failure examples: wrong address (accuracy), missing contact channel (completeness), mismatch between systems (consistency, a silo), stale data (timeliness), duplicates that split history and distort CLV (uniqueness).\n\n**Problems and fixes.**\n| Problem | Fix |\n|---|---|\n| Duplication | Matching and deduplication |\n| Fragmentation | Integration, single customer view |\n| Decay | Regular updates, annual audit |\n| Human entry error | Validation rules, drop-down fields |\n\n**Single customer view (golden record).** One authoritative record per customer, reached by deduplication, matching and master data management. It is a prerequisite for segmentation, personalisation and omnichannel service.\n\n**Governance.** Formal policies assigning ownership, access rights and quality standards, tied to privacy and consent.\n\n**Impact.** Poor data undermines CLV, segmentation and dashboards alike, so data fixes come first.",
+    "marking_scheme": [
+      {
+        "point": "Database definition and six benefits",
+        "marks": 2
+      },
+      {
+        "point": "Five quality characteristics with failure examples",
+        "marks": 3
+      },
+      {
+        "point": "Problems and fixes",
+        "marks": 2
+      },
+      {
+        "point": "Single customer view and governance",
+        "marks": 2
+      },
+      {
+        "point": "Impact on downstream analytics",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "CD-3-08",
+    "node": "CD-3",
+    "unit": "CRM Unit 2",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "hard",
+    "question": "Explain customer profiling and segmentation analytics: the four types of profiling, the five segmentation steps, the difference between profiling and segmentation, and the techniques used, with a note on turning segments into action.",
+    "model_answer": "**Profiling.** A detailed description of a customer from characteristics, preferences and buying behaviour. **Four types:** demographic (age, income, occupation: baseline traits), geographic (region, climate, culture: local habits), psychographic (values, lifestyle, interests: explains why customers buy), behavioural (purchases, browsing, engagement: predicts future actions).\n\n**Segmentation steps:** (1) collect data, (2) analyse it, (3) create segments (premium, regular, discount seekers, new), (4) develop strategies (premium: exclusive membership; new: welcome discount; loyal: reward points; inactive: re-engagement), (5) monitor results (sales growth, retention, satisfaction).\n\n**Profiling versus segmentation.** Profiling is about one individual and helps personalise; segmentation is about groups and helps targeted campaigns. Profiling data is the input to segmentation.\n\n**Techniques.**\n- **RFM:** score recency, frequency and monetary value; read the three scores separately because the total can hide a lapsing high-value customer.\n- **Cluster analysis (such as k-means):** groups similar customers with no preset categories.\n- **CHAID / decision trees:** split customers by variables that best predict an outcome such as churn.\n- **AI and machine learning:** find fine segments from large behavioural data.\n\n**From segments to action.** Each segment must get a different message, channel, offer or service level; segments feed value-based segmentation (Unit 3). Good segmentation needs clean data and a single customer view, and ethical use: no discriminatory targeting, and respect for consent.",
+    "marking_scheme": [
+      {
+        "point": "Profiling and four types",
+        "marks": 2
+      },
+      {
+        "point": "Five segmentation steps",
+        "marks": 2
+      },
+      {
+        "point": "Profiling versus segmentation",
+        "marks": 1.5
+      },
+      {
+        "point": "Techniques with RFM insight",
+        "marks": 2.5
+      },
+      {
+        "point": "From segments to action and cautions",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "CD-4-05",
+    "node": "CD-4",
+    "unit": "CRM Unit 2",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "medium",
+    "question": "Explain the role of business intelligence and dashboards in CRM. Cover the components of BI, qualities and features of dashboards, the three dashboard levels and the CRM KPIs tracked.",
+    "model_answer": "**BI.** A technology-driven process that analyses and presents business data to support better decisions, turning raw data into meaningful information for strategic, tactical and operational decisions. **Four components:** data collection, data integration, data analysis, data visualisation. Tools: Power BI, Tableau, Qlik Sense, SAP BusinessObjects, IBM Cognos, Google Looker Studio. In the architecture BI is where analytical CRM meets the presentation layer.\n\n**Dashboard.** A visual display of the most important business information with real-time updates, KPI tracking and interactive reports. **Five qualities:** easy to understand, interactive, visually attractive, accurate, user-friendly. **Features:** KPI monitoring, real-time updates, easy visualisation (charts, maps, gauges), faster decisions, better communication, early problem detection, strategic planning support.\n\n**Role of BI.** Better decisions (facts, not assumptions), customer understanding, trend identification, financial planning, sales performance tracking, forecasting, measuring actual against target.\n\n**Three levels.**\n| | Operational | Tactical | Strategic |\n|---|---|---|---|\n| Purpose | Daily activity | Department performance | Long-term decisions |\n| Examples | Daily sales, complaints | Campaign results | Annual revenue, retention |\n| Users | Supervisors | Department managers | CEOs, directors |\n\n**CRM KPIs.** CLV, churn rate, NPS and CSAT, conversion rate by funnel stage, customer acquisition cost and CLV to CAC ratio, share of wallet and cross-sell ratio.\n\n**Strategic value.** Dashboards enable management by exception. Too many metrics with no owner is a common reason analytics does not change decisions. BI is the process; a dashboard is one interface of BI.",
+    "marking_scheme": [
+      {
+        "point": "BI definition and four components",
+        "marks": 2
+      },
+      {
+        "point": "Dashboard qualities and features",
+        "marks": 2.5
+      },
+      {
+        "point": "Role of BI",
+        "marks": 1.5
+      },
+      {
+        "point": "Three levels table",
+        "marks": 2.5
+      },
+      {
+        "point": "KPIs and strategic value",
+        "marks": 1.5
+      }
+    ]
+  },
+  {
+    "id": "CD-5-02",
+    "node": "CD-5",
+    "unit": "CRM Unit 2",
+    "type": "case",
+    "marks": 15,
+    "difficulty": "hard",
+    "question": "**Case: BrewBox (fictional).** BrewBox (fictional) sells ground coffee on subscription. Orders arrive through its app, a WhatsApp number and a phone line. Each channel keeps its own customer list, so some households appear in two lists. The founders want to choose whom to target with next month's offer. An analyst scored six customers on recency (R), frequency (F) and monetary value (M), each from 1 to 5 (5 is best):\n\n| Customer | R | F | M |\n|---|---|---|---|\n| P1 | 5 | 4 | 5 |\n| P2 | 3 | 4 | 3 |\n| P3 | 1 | 5 | 5 |\n| P4 | 2 | 2 | 1 |\n| P5 | 5 | 1 | 2 |\n| P6 | 4 | 5 | 4 |\n\nRule: total = R + F + M; 12 to 15 is high value, 8 to 11 is core, below 8 is low value.\n\n(a) Diagnose the data problem using the customer data ecosystem and the data quality characteristics. (4)\n(b) Compute the totals and segments, and interpret the scores for P3 and P5. (4)\n(c) Design a dashboard for three named managers (supervisor, marketing manager, founders) with KPIs and level. (4)\n(d) Recommend an action plan for the offer and state the expected effect. (3)",
+    "model_answer": "**(a) Data diagnosis**\n| Symptom | Component or characteristic |\n|---|---|\n| Three separate lists | Ecosystem component 2 (CDP/CRM database) is not unified; consistency fails across systems |\n| Households in two lists | Uniqueness fails (duplicate records), distorting frequency and value |\n| Orders arrive in three channels | Collaborative CRM missing: no omnichannel view |\n\n**(b) Totals**\n| Customer | R | F | M | Total | Segment |\n|---|---|---|---|---|---|\n| P1 | 5 | 4 | 5 | 14 | High value |\n| P2 | 3 | 4 | 3 | 10 | Core |\n| P3 | 1 | 5 | 5 | 11 | Core |\n| P4 | 2 | 2 | 1 | 5 | Low value |\n| P5 | 5 | 1 | 2 | 8 | Core |\n| P6 | 4 | 5 | 4 | 13 | High value |\n\nP1 and P6 are high value; P2, P3 and P5 are core; P4 is low value. **P3** totals 11 (core) but R = 1 with F = 5 and M = 5: a very frequent, high-spending customer who has gone quiet, so high value at risk; the total understates the urgency. **P5** totals 8 (just core) but R = 5 with F = 1 and M = 2: a recent buyer who has bought little, probably new. Lesson: read R, F and M separately.\n\n**(c) Dashboards**\n| Level | Manager | KPIs |\n|---|---|---|\n| Operational | Supervisor | Daily orders by channel, late deliveries, complaints |\n| Tactical | Marketing manager | Offer response rate, repeat orders, subscription pauses by segment |\n| Strategic | Founders | Monthly retention, CLV, customer acquisition cost |\nQualities: accurate, user-friendly, interactive; management by exception for complaint spikes.\n\n**(d) Action plan**\n1. First merge the three lists into one record per household (deduplicate, match on phone number); segmentation on duplicates misleads.\n2. Offer: win-back for P3, second-purchase nudge for P5, loyalty reward for P1 and P6, cross-sell for P2, low-cost reminder for P4.\n3. Track response on the tactical dashboard and review monthly.\nExpected effect: lower waste on duplicate messages, recovery of lapsing high-value customers and better CLV estimates.\n\n*Clean, unified data comes first; segmentation and dashboards are only as good as the single customer record underneath them.*",
+    "marking_scheme": [
+      {
+        "point": "Data diagnosis (component and characteristic)",
+        "marks": 4
+      },
+      {
+        "point": "Totals and segments, P3 and P5 interpretation",
+        "marks": 4
+      },
+      {
+        "point": "Dashboard design by level with KPIs",
+        "marks": 4
+      },
+      {
+        "point": "Action plan and expected effect",
+        "marks": 3
+      }
+    ]
+  },
+  {
+    "id": "CD-2-08",
+    "node": "CD-2",
+    "unit": "CRM Unit 2",
+    "type": "case",
+    "marks": 15,
+    "difficulty": "hard",
+    "question": "**Case: MediKart (fictional).** MediKart (fictional), an online pharmacy, keeps customer records in three systems: the app, the store loyalty programme and the call centre. A data audit finds 12,000 customer records in total, which match to 9,000 unique customers. Last year the firm took 54,000 orders worth ₹2,70,00,000. Some records show different addresses for the same person, many phone numbers have not been updated for years, and call-centre staff type medicine names freely, leading to spelling variants. Management says \"the CRM is fine; it is just a marketing problem\". A refill-reminder SMS costs ₹4 and last month went to every record.\n\n(a) Quantify the duplicate problem: duplicate records, duplicate rate and the cost of wasted SMS in one campaign. (3)\n(b) Compute orders per customer and revenue per customer using (i) records and (ii) unique customers, and state the distortion. (4)\n(c) Name the data quality characteristics that fail, with the fix for each problem. (5)\n(d) Respond to management's view and recommend the order of action. (3)",
+    "model_answer": "**(a) Duplicates.** Duplicate records = 12,000 − 9,000 = **3,000**; duplicate rate = 3,000 ÷ 12,000 = **25%** of records. Wasted SMS in one campaign = 3,000 × ₹4 = **₹12,000**, plus annoyance from repeat messages.\n\n**(b) Distortion**\n| Measure | Per record | Per unique customer |\n|---|---|---|\n| Orders | 54,000 ÷ 12,000 = 4.5 | 54,000 ÷ 9,000 = 6 |\n| Revenue | ₹2,70,00,000 ÷ 12,000 = ₹2,250 | ₹2,70,00,000 ÷ 9,000 = ₹3,000 |\nPer-record figures understate real frequency and value by 25% of the true figure: a customer with 6 orders can look like three customers with 2 orders each, so CLV, RFM and segmentation all mislead.\n\n**(c) Characteristics and fixes**\n| Problem | Characteristic failing | Fix |\n|---|---|---|\n| Same person, several records | Uniqueness | Matching and deduplication |\n| Different addresses for one person | Consistency (data silo) | Integration into a single customer view |\n| Old phone numbers | Timeliness (also accuracy) | Regular updates, annual audit |\n| Spelling variants from free typing | Accuracy (human entry error) | Validation rules, drop-down medicine lists |\n\n**(d) Response.** The problem is not just marketing: bad data at the database stage spoils analytics, segmentation and campaigns, so \"the CRM is only as good as its data\". Order: (1) data audit and deduplication into one record per customer; (2) put validation rules at entry points; (3) set governance (ownership, access, quality standards); (4) only then re-run segmentation and the SMS campaign. Track the duplicate rate and bounced-message rate monthly.\n\n*Fix data first, then analyse.*",
+    "marking_scheme": [
+      {
+        "point": "Duplicates, rate and SMS cost computed correctly",
+        "marks": 3
+      },
+      {
+        "point": "Per-record versus per-customer metrics and distortion",
+        "marks": 4
+      },
+      {
+        "point": "Characteristics failing with fixes",
+        "marks": 5
+      },
+      {
+        "point": "Response to management and sequence of action",
+        "marks": 3
+      }
+    ]
+  }
+]

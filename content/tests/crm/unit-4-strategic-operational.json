@@ -1,0 +1,702 @@
+[
+  {
+    "id": "SO-1-01",
+    "node": "SO-1",
+    "unit": "CRM Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "Which of the following is NOT one of the four types of business customers in B2B marketing?",
+    "options": [
+      "A) Commercial enterprises",
+      "B) Government customers",
+      "C) Cooperative societies",
+      "D) Individual households"
+    ],
+    "answer": "D",
+    "explanation": "Individual households are consumers, so they belong to B2C. The four B2B customer types are commercial enterprises (distributors, OEMs, users), government customers, institutional customers (hospitals, colleges) and cooperative societies. A, B and C are all on the list, so they cannot be the answer."
+  },
+  {
+    "id": "SO-1-02",
+    "node": "SO-1",
+    "unit": "CRM Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "In a hospital's purchase of a new scanner, the purchasing agent's secretary decides which supplier representatives are allowed to meet the doctors and the administrator. This role in the buying centre is the:",
+    "options": [
+      "A) Influencer",
+      "B) Buyer",
+      "C) Gatekeeper",
+      "D) Approver"
+    ],
+    "answer": "C",
+    "explanation": "A gatekeeper controls the flow of information and access to other members. The influencer (A) helps define specifications and criteria, which this person does not do. The buyer (B) has formal authority to arrange terms and place the order; the tempting error is to pick this because the person sits in purchasing. The approver (D) gives final sign-off, usually a board or finance committee."
+  },
+  {
+    "id": "SO-1-03",
+    "node": "SO-1",
+    "unit": "CRM Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A college has finished writing a precise, written specification for its new laboratory computers. According to the eight-phase B2B buying process, the NEXT phase is:",
+    "options": [
+      "A) Obtaining and analysing supplier proposals",
+      "B) Determination of characteristics and quantity",
+      "C) Selection of an order routine",
+      "D) Search for and qualification of potential suppliers"
+    ],
+    "answer": "D",
+    "explanation": "Specification is phase 3; phase 4 is the search for and qualification of suppliers. A (phase 5) is the most tempting wrong option, because proposals can only be requested from suppliers who have first been qualified. B is phase 2, which comes before the specification. C is phase 7, the order routine, which is decided after supplier selection."
+  },
+  {
+    "id": "SO-2-01",
+    "node": "SO-2",
+    "unit": "CRM Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Which pairing of price strategy with customer type is correct?",
+    "options": [
+      "A) B2B: fixed prices and coupons; B2C: negotiated contracts",
+      "B) B2B: negotiation, contracts and volume discounts; B2C: fixed prices, coupons and promotions",
+      "C) B2B: promotional pricing; B2C: customised pricing",
+      "D) B2B and B2C both rely mainly on negotiated pricing"
+    ],
+    "answer": "B",
+    "explanation": "B2B pricing is negotiated, contract-based and volume-driven; B2C pricing is usually fixed, with discounts, coupons and promotional offers. A reverses the two. C also reverses them (customised pricing is a B2B feature). D ignores the difference: individual consumers rarely negotiate."
+  },
+  {
+    "id": "SO-2-02",
+    "node": "SO-2",
+    "unit": "CRM Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "A packaged-food maker sells through supermarkets but also runs its own app to build direct relationships with end consumers. The CRM it needs is called:",
+    "options": [
+      "A) B2B only, because it sells to supermarkets",
+      "B) B2B2C, needing both account depth and consumer scale",
+      "C) B2C at scale only, because it has an app",
+      "D) Key account management only"
+    ],
+    "answer": "B",
+    "explanation": "A maker selling through retailers while also engaging end consumers is a B2B2C case, so its CRM needs B2B depth (retailer accounts) and B2C scale (consumer data). A and D see only the retailer side; C sees only the app side. Each ignores one half of the model."
+  },
+  {
+    "id": "SO-2-03",
+    "node": "SO-2",
+    "unit": "CRM Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "hard",
+    "question": "Which item does a CRM supporting key account management need to track that a B2C at-scale CRM mostly does NOT?",
+    "options": [
+      "A) Individual transaction histories segmented in bulk",
+      "B) Loyalty-point balances of millions of members",
+      "C) Social media engagement per influencer post",
+      "D) Buying centre roles at each account and contract renewal dates"
+    ],
+    "answer": "D",
+    "explanation": "KAM tracks the organisation hierarchy, buying centre roles and contract and renewal dates. A and B are B2C-at-scale data (bulk segmentation, loyalty programmes). C is a B2C marketing measure. The tempting option is A because transaction history is used everywhere, but in B2C it is analysed in bulk, whereas B2B keeps the account-level role map."
+  },
+  {
+    "id": "SO-3-01",
+    "node": "SO-3",
+    "unit": "CRM Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A bank's marketing team advertises a new zero-fee savings account, but branch sales staff quote the old fee and the call centre has no information. Customers hear conflicting messages. The root problem is best described as:",
+    "options": [
+      "A) Lack of integration of marketing, sales and service",
+      "B) Poor quality of the customer database",
+      "C) Employee resistance to a CRM platform",
+      "D) Weak thought leadership in the market"
+    ],
+    "answer": "A",
+    "explanation": "The three functions did not share information about the offer, which is a failure of sales, marketing and service integration. Poor data quality (B) concerns wrong or duplicate records, not unshared campaign information. Resistance (C) is about adoption of a system, and no system change is described. Thought leadership (D) is a B2B content strategy and is unrelated to conflicting messages."
+  },
+  {
+    "id": "SO-3-02",
+    "node": "SO-3",
+    "unit": "CRM Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Which operational CRM component tickets customer cases, keeps case histories and tracks service-level agreements?",
+    "options": [
+      "A) Sales force automation",
+      "B) Customer service and support systems",
+      "C) Marketing automation",
+      "D) A data warehouse"
+    ],
+    "answer": "B",
+    "explanation": "Customer service and support systems handle tickets, case histories and SLA tracking. Sales force automation (A) covers leads, pipeline and quotes. Marketing automation (C) runs campaigns, lead scoring and triggered messages. A data warehouse (D) belongs to analytical CRM, not the day-to-day operational tools."
+  },
+  {
+    "id": "SO-3-03",
+    "node": "SO-3",
+    "unit": "CRM Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "hard",
+    "question": "\"Smarketing\" reduces lead leakage mainly because it:",
+    "options": [
+      "A) Gives sales and marketing a shared definition of a qualified lead and shared dashboards",
+      "B) Lets marketing take over the sales process",
+      "C) Replaces service teams with automation",
+      "D) Removes the need for a unified customer record"
+    ],
+    "answer": "A",
+    "explanation": "Smarketing aligns sales and marketing goals and definitions, such as what counts as a qualified lead, and uses shared dashboards, so good leads are not dropped at the hand-off. B is wrong because the two functions stay distinct. C and D are not part of the idea; a unified customer record is one of the mechanisms that supports integration, not something it removes."
+  },
+  {
+    "id": "SO-4-01",
+    "node": "SO-4",
+    "unit": "CRM Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "The six phases of the CRM-driven customer journey, in order, are:",
+    "options": [
+      "A) Awareness, acquisition, onboarding, engagement, retention, advocacy",
+      "B) Awareness, consideration, purchase, usage, retention, advocacy",
+      "C) Awareness, acquisition, engagement, onboarding, advocacy, retention",
+      "D) Need, search, evaluation, purchase, use, review"
+    ],
+    "answer": "A",
+    "explanation": "Option A is the framework in the notes. B is the tempting wrong option: it uses the laptop illustration's wording (consideration, purchase, usage), which is an example and not the six-phase framework. C swaps onboarding with engagement and retention with advocacy. D is a general buying-decision sequence, not the journey phases."
+  },
+  {
+    "id": "SO-4-02",
+    "node": "SO-4",
+    "unit": "CRM Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "A customer journey map should reflect:",
+    "options": [
+      "A) What management believes should happen",
+      "B) What actually happens to customers",
+      "C) What competitors' maps show",
+      "D) Only the stages that lead to a purchase"
+    ],
+    "answer": "B",
+    "explanation": "The map must show actual behaviour, thoughts, touchpoints and pain points. A produces an idealised map that hides friction, which defeats the purpose. C is irrelevant to this firm's own customers. D drops post-purchase stages (onboarding, retention, advocacy) that the six phases include."
+  },
+  {
+    "id": "SO-4-03",
+    "node": "SO-4",
+    "unit": "CRM Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "In the seven-step approach to mapping a customer journey, the step that comes IMMEDIATELY AFTER identifying touchpoints is:",
+    "options": [
+      "A) Understand customer thoughts and feelings",
+      "B) Identify pain points",
+      "C) Find opportunities",
+      "D) Identify customer actions"
+    ],
+    "answer": "A",
+    "explanation": "The order is customer, stages, actions, touchpoints, thoughts and feelings, pain points, opportunities. So thoughts and feelings (step 5) follow touchpoints (step 4). B is step 6, the tempting skip. C is the last step. D is step 3, which comes before touchpoints."
+  },
+  {
+    "id": "SO-5-01",
+    "node": "SO-5",
+    "unit": "CRM Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "After training, a sales team can explain every CRM screen and passed the assessment, but members say \"the old spreadsheet is easier\" and keep using it. Which ADKAR stage is weakest?",
+    "options": [
+      "A) Knowledge",
+      "B) Awareness",
+      "C) Reinforcement",
+      "D) Desire"
+    ],
+    "answer": "D",
+    "explanation": "They know how (so knowledge is in place), but they do not want to change: desire is missing. A is wrong because they pass the assessment. B is wrong because the symptom described is a preference for the old way, not ignorance of the need. C, reinforcement, is about sustaining a change already made, which has not yet happened."
+  },
+  {
+    "id": "SO-5-02",
+    "node": "SO-5",
+    "unit": "CRM Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "ADKAR differs from Kotter's eight steps mainly because ADKAR:",
+    "options": [
+      "A) Sequences organisation-wide leadership actions from urgency to embedding",
+      "B) Applies only to technology projects",
+      "C) Describes and diagnoses the individual employee's journey through change",
+      "D) Starts with generating short-term wins"
+    ],
+    "answer": "C",
+    "explanation": "ADKAR (awareness, desire, knowledge, ability, reinforcement) diagnoses where a particular person or team is stuck. A describes Kotter, not ADKAR; choosing it reverses the two models. B is false because both apply to any organisational change. D confuses ADKAR with Kotter's step 6."
+  },
+  {
+    "id": "SO-5-03",
+    "node": "SO-5",
+    "unit": "CRM Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "A company pilots its new CRM in one region first, and the pilot's visible results are used to win over other regions. In Kotter's eight steps this is: (textbook)",
+    "options": [
+      "A) Create urgency",
+      "B) Enlist a volunteer army",
+      "C) Generate short-term wins",
+      "D) Institute change"
+    ],
+    "answer": "C",
+    "explanation": "A pilot with visible results is a short-term win (step 6). Creating urgency (A) is step 1, explaining the cost of the status quo. A volunteer army (B) refers to early adopters and champions, which a pilot may use but is not the step itself. Instituting change (D) is the final step: embedding it into job descriptions, incentives and onboarding."
+  },
+  {
+    "id": "SO-6-01",
+    "node": "SO-6",
+    "unit": "CRM Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "In a hospital's MRI purchase, the finance committee that gives final sign-off on the large outlay plays the role of:",
+    "options": [
+      "A) Decider",
+      "B) Buyer",
+      "C) Approver",
+      "D) Initiator"
+    ],
+    "answer": "C",
+    "explanation": "Approvers give final sign-off, for example a board or finance committee. The decider (A) selects the supplier, typically the administrator or medical director; this is the tempting error because both roles are senior. The buyer (B) negotiates terms and places the order. The initiator (D) first recognises the need, such as the radiologist noticing long waiting lists."
+  },
+  {
+    "id": "SO-1-04",
+    "node": "SO-1",
+    "unit": "CRM Unit 4",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "A university is buying a campus-wide Wi-Fi system. Identify the seven roles in its buying centre, with one example of who could play each role.",
+    "model_answer": "**Buying centre:** the group of people who take part in an organisational purchase; the choice is almost never made by one person.\n\n| Role | Meaning | Example at the university |\n|---|---|---|\n| Initiator | First recognises the need | Faculty member whose online classes keep dropping |\n| User | Uses the system daily | Students and teaching staff |\n| Influencer | Helps set specifications and criteria | Network engineer from the IT department |\n| Decider | Selects the supplier | Registrar or IT head |\n| Approver | Gives final sign-off | Finance committee or governing board |\n| Buyer | Negotiates terms and places the order | Purchase officer |\n| Gatekeeper | Controls the flow of information | Purchase officer's assistant who controls access to the registrar |\n\n**CRM link:** the supplier's CRM should record every role at the account, so the sales team can reach all seven, not only the purchase officer. One person can hold more than one role.",
+    "marking_scheme": [
+      {
+        "point": "Buying centre defined (several people, not one)",
+        "marks": 0.5
+      },
+      {
+        "point": "All seven roles named correctly",
+        "marks": 2
+      },
+      {
+        "point": "Relevant university example for each role",
+        "marks": 1.5
+      },
+      {
+        "point": "CRM implication: record every role at the account",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "SO-1-05",
+    "node": "SO-1",
+    "unit": "CRM Unit 4",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "A cooperative sugar mill (a cooperative society) needs to buy a new boiler. Explain the eight phases of the B2B buying decision process as they would apply.",
+    "model_answer": "The mill is a **cooperative society** customer, so many members and officers are accountable and the process is formal.\n\n1. **Need:** frequent breakdowns and lost crushing time with the old boiler.\n2. **Characteristics and quantity:** steam capacity, fuel type, number of units.\n3. **Specifications:** a written technical specification fixed with the engineers.\n4. **Search and qualification:** list all available boiler suppliers and qualify those with proven installations.\n5. **Proposals:** invite quotations covering specification, price, delivery period, payment terms, taxes and duties, freight, transit insurance and free services.\n6. **Evaluation and selection:** compare product quality, service quality, price and reputation.\n7. **Order routine:** order quantity, delivery and installation schedule, spares inventory, payment terms.\n8. **Performance feedback:** the operations team reports whether the breakdown problem is solved; the review guides the next purchase.\n\nInterpretation: the process is long and rational because public or member funds are involved.",
+    "marking_scheme": [
+      {
+        "point": "Customer type identified (cooperative society)",
+        "marks": 0.5
+      },
+      {
+        "point": "Phases 1-3 correctly applied",
+        "marks": 1.25
+      },
+      {
+        "point": "Phases 4-6 correctly applied",
+        "marks": 1.5
+      },
+      {
+        "point": "Phases 7-8 correctly applied",
+        "marks": 1
+      },
+      {
+        "point": "Interpretation or link to B2B features",
+        "marks": 0.75
+      }
+    ]
+  },
+  {
+    "id": "SO-2-04",
+    "node": "SO-2",
+    "unit": "CRM Unit 4",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Explain two effective B2B strategies and three popular B2C strategies, stating why they suit each type of customer.",
+    "model_answer": "**B2B strategies (trust and rational proof):**\n1. **Thought leadership:** whitepapers, blogs and eBooks on industry challenges, LinkedIn posts, conference talks, co-authored content. It builds trust with decision makers who buy collectively and over a long cycle.\n2. **Webinars and case studies:** webinars with Q&A, customer success stories, video testimonials. They show real ROI, which suits the logical, cost-and-ROI buying decision.\n\n**B2C strategies (emotion and convenience):**\n1. **Influencer marketing:** choose influencers whose audience fits; insist on authenticity; track engagement and conversions.\n2. **Social media campaigns:** visual content, polls, contests, hashtags; measure impressions, clicks and engagement.\n3. **Brand loyalty programmes:** rewards such as points, cashback and personalised perks, kept simple, to encourage repeat purchase.\n\nWhy different: B2B decisions are made by several people on business value; B2C decisions are made by one person on experience, emotion and convenience.",
+    "marking_scheme": [
+      {
+        "point": "Two B2B strategies correctly explained",
+        "marks": 2
+      },
+      {
+        "point": "Three B2C strategies correctly explained",
+        "marks": 2
+      },
+      {
+        "point": "Link to buying logic of each customer type",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "SO-3-04",
+    "node": "SO-3",
+    "unit": "CRM Unit 4",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "A bank launches a new home-loan scheme. Evaluate the importance of integrating its sales, marketing and service functions, giving five benefits.",
+    "model_answer": "**Integration:** marketing, sales and service share customer information and goals. Marketing attracts, sales converts, service supports and retains.\n\n**Without integration:** the advertisement promises a rate the branch staff do not know and the call centre cannot explain, which leads to miscommunication, a poor experience and blame between departments.\n\n**Five benefits (applied):**\n1. **Consistent information:** all three state the same rate, fees and eligibility.\n2. **Better sales performance:** loan officers explain the scheme with confidence.\n3. **Better service:** the call centre answers queries accurately and sees the application history.\n4. **Better experience:** the same message from advertisement to after-sales support.\n5. **Higher retention:** satisfied borrowers stay and may take other products.\n\nFeedback loop: sales tells marketing which leads convert, service shares common complaints, and marketing sharpens the next campaign.\n\nInterpretation: integration protects both the advertising spend and the customer's trust.",
+    "marking_scheme": [
+      {
+        "point": "Integration defined with role of each function",
+        "marks": 1
+      },
+      {
+        "point": "Problem when functions work separately",
+        "marks": 1
+      },
+      {
+        "point": "Five benefits applied to the loan scheme",
+        "marks": 2
+      },
+      {
+        "point": "Feedback loop or interpretation",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "SO-4-04",
+    "node": "SO-4",
+    "unit": "CRM Unit 4",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Explain the seven steps of mapping a customer journey. Illustrate with one row for an online food-delivery app.",
+    "model_answer": "**Journey map:** a diagram of every typical interaction across the six stages (awareness, acquisition, onboarding, engagement, retention, advocacy); it must show what actually happens.\n\n| Step | Action |\n|---|---|\n| 1 | Identify the customer: needs, goals, frustrations, channels |\n| 2 | Define the journey stages |\n| 3 | Identify customer actions (search, compare, order, use, contact service, review) |\n| 4 | Identify touchpoints (social media, app, rider, email, support) |\n| 5 | Understand thoughts and feelings at each stage |\n| 6 | Identify pain points |\n| 7 | Find opportunities (pain point, opportunity, expected outcome) |\n\n**Example row (food app):**\n\n| Stage | Action | Touchpoint | Feeling | Pain point | Improvement |\n|---|---|---|---|---|---|\n| Purchase | Places order | App checkout | Hungry, impatient | Payment fails with no message | Offer several payment options, auto-retry, send a recovery link |\n\nInterpretation: map what really happens, find the biggest pain point and fix that first. CRM touchpoint data feeds the map.",
+    "marking_scheme": [
+      {
+        "point": "Journey map defined (actual, across six stages)",
+        "marks": 1
+      },
+      {
+        "point": "Seven steps correctly stated in order",
+        "marks": 2.5
+      },
+      {
+        "point": "Worked example row",
+        "marks": 1.5
+      }
+    ]
+  },
+  {
+    "id": "SO-4-05",
+    "node": "SO-4",
+    "unit": "CRM Unit 4",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "hard",
+    "question": "Distinguish omnichannel from multichannel customer engagement, and explain what a service blueprint adds to a journey map.",
+    "model_answer": "| Basis | Multichannel | Omnichannel |\n|---|---|---|\n| Channels | Many (store, web, app, call centre) | Many, integrated |\n| Customer data | Each channel keeps its own | One single customer view (CV-1) |\n| Customer experience | Customer repeats information in every channel | Context follows the customer across channels |\n| Maturity | Earlier stage | Mature form of multichannel |\n\nExample: a customer who orders on the app and then calls about the order must explain everything again in multichannel; in omnichannel the agent already sees the order.\n\n**Service blueprint:** it adds the **backstage** to the journey map: the internal processes, systems and employees that support each customer-facing touchpoint, separated by the **line of visibility**. It shows where hand-offs between sales, marketing and service break, so the root cause of a visible pain point (for example a late delivery update) can be traced and fixed.",
+    "marking_scheme": [
+      {
+        "point": "Multichannel versus omnichannel with three or more bases",
+        "marks": 2
+      },
+      {
+        "point": "Single customer view as the difference",
+        "marks": 1
+      },
+      {
+        "point": "Example",
+        "marks": 0.5
+      },
+      {
+        "point": "Service blueprint: backstage and line of visibility",
+        "marks": 1
+      },
+      {
+        "point": "Use of blueprint to trace hand-off failures",
+        "marks": 0.5
+      }
+    ]
+  },
+  {
+    "id": "SO-5-04",
+    "node": "SO-5",
+    "unit": "CRM Unit 4",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "An insurer is moving its agents to a new CRM platform and many keep their old paper diaries. Propose a change approach using the ADKAR model.",
+    "model_answer": "ADKAR describes the **individual employee's journey** through change.\n\n| Stage | Action for the insurer's agents | Purpose |\n|---|---|---|\n| Awareness | Explain why paper diaries cause missed renewals and lost leads | Show the need |\n| Desire | Involve agents in design talks, address worry about workload, show the time saved on renewals | Reduce resistance, create willingness |\n| Knowledge | Hands-on training on logging leads and viewing customer policies | Teach how to use it |\n| Ability | Practice time, coaching, a support desk | Build confidence in daily use |\n| Reinforcement | Track adoption, recognise active users, collect feedback, keep support going | Sustain the change |\n\n**Measures:** adoption rate (share of agents logging activity daily), data completeness, support tickets.\n\nInterpretation: skipping desire is the usual failure, as people who know how but do not want to will keep the old method.",
+    "marking_scheme": [
+      {
+        "point": "Five ADKAR stages correctly named",
+        "marks": 1.5
+      },
+      {
+        "point": "Action for each stage applied to the insurer",
+        "marks": 2
+      },
+      {
+        "point": "Measures of adoption",
+        "marks": 1
+      },
+      {
+        "point": "Interpretation (desire or reinforcement)",
+        "marks": 0.5
+      }
+    ]
+  },
+  {
+    "id": "SO-6-02",
+    "node": "SO-6",
+    "unit": "CRM Unit 4",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "Distinguish B2B and B2C marketing on six bases, ending with the main focus of each.",
+    "model_answer": "| # | Basis | B2B | B2C |\n|---|---|---|---|\n| 1 | Target customer | Other businesses or organisations | Individual consumers |\n| 2 | Decision making | Several people (manager, finance, procurement) | One person or a small household |\n| 3 | Buying decision | Logical and rational: cost, quality, ROI | Emotion, convenience, brand |\n| 4 | Sales process | Longer, many people involved | Shorter, often impulsive |\n| 5 | Customer retention | Contracts, service, account management | Loyalty programmes, rewards, good experience |\n| 6 | **Main focus** | **Trust + relationship + business value** | **Experience + emotion + convenience** |\n\nCRM implication: B2B needs account depth (key account management); B2C needs scale (segmentation and automation).",
+    "marking_scheme": [
+      {
+        "point": "Definition or target customer row",
+        "marks": 0.5
+      },
+      {
+        "point": "Four further rows, one mark each",
+        "marks": 4
+      },
+      {
+        "point": "Main focus row correct",
+        "marks": 0.5
+      }
+    ]
+  },
+  {
+    "id": "SO-1-06",
+    "node": "SO-1",
+    "unit": "CRM Unit 4",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "medium",
+    "question": "A university is buying a campus-wide learning management system (LMS). Explain the characteristics of B2B buying, the eight phases of the buying process and the buying centre roles as they apply, and state what this means for the supplier's CRM.",
+    "model_answer": "**B2B characteristics.** B2B selling is to other businesses or institutions (here an **institutional customer**); it has a longer sales cycle, several stakeholders and a focus on long-term value, with rational, collective decisions and higher-value contracts.\n\n**Eight phases applied.**\n\n| # | Phase | University LMS |\n|---|---|---|\n| 1 | Problem recognition | Present system crashes during exams |\n| 2 | Characteristics and quantity | Features, number of users |\n| 3 | Specifications | Written specification fixed with faculty and IT head |\n| 4 | Supplier search and qualification | Shortlist vendors with institutional references |\n| 5 | Proposals | Quotations covering price, delivery, payment terms, taxes, support and training |\n| 6 | Evaluation and selection | Quality, service, price, reputation |\n| 7 | Order routine | Phased roll-out, payment schedule, support terms |\n| 8 | Performance feedback | Faculty and students report whether the problem is solved |\n\n**Buying centre.**\n\n| Role | Who |\n|---|---|\n| Initiator | Faculty member or exam controller |\n| User | Students, faculty |\n| Influencer | IT architect who sets technical criteria |\n| Decider | Registrar or vice-chancellor |\n| Approver | Finance committee or board |\n| Buyer | Purchase officer |\n| Gatekeeper | Registrar's assistant controlling access |\n\nOne person can hold several roles, and one role can be held by several people.\n\n**CRM implications.** (a) Record every role at the account, not only the purchase officer; (b) assign a key account manager, as the account is strategic; (c) plan content for each role (technical detail for influencers, ROI for approvers); (d) track the phase the deal is in and renewal dates; (e) keep sales, marketing and service on one account view.\n\n**Interpretation.** A supplier that reaches only the buyer will be stalled by the decider or approver it has never met; the CRM must show who is missing.",
+    "marking_scheme": [
+      {
+        "point": "B2B characteristics and customer type",
+        "marks": 1.5
+      },
+      {
+        "point": "Eight phases applied to the LMS case",
+        "marks": 3
+      },
+      {
+        "point": "Seven buying centre roles applied",
+        "marks": 2.5
+      },
+      {
+        "point": "CRM implications (record all roles, KAM, role-specific content)",
+        "marks": 2
+      },
+      {
+        "point": "Interpretation",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "SO-2-05",
+    "node": "SO-2",
+    "unit": "CRM Unit 4",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "hard",
+    "question": "A bank buys CCTV cameras for its branches, and a household buys the same cameras for its home. Using the five-section template, compare the B2B and B2C strategies and give a managerial recommendation for each.",
+    "model_answer": "| Section | B2B: bank | B2C: household |\n|---|---|---|\n| **1. Product and customer context** | Security head needs reliable surveillance across many branches; large order | Family wants home security and peace of mind; one or two cameras |\n| **2. Customer decision analysis** | Initiator: security head; influencer: IT or risk team; approver: finance or board; buyer: procurement. Factors: reliability, compliance, cost, service contract | Mostly one adult with family influence. Factors: price, design, ease of installation, reviews |\n| **3. Strategic justification** | Rational and long-cycle: the purchase is high value, has several decision makers and needs after-sales service, so a relationship approach suits | Emotional and convenience-driven, short cycle: advertising, ratings and offers move a quick decision |\n| **4. Strategic adaptation** | Customised quotation, site survey, demonstration, volume discount, annual maintenance contract, case studies from other banks | Online and store listing, demo videos, EMI offers, free installation, influencer reviews |\n| **5. Managerial recommendation** | Key account approach with a service contract and an account manager who reaches every buying centre role | Digital marketing plus a loyalty or referral scheme, using CRM at scale and automation |\n\n**Differences to state.** Target (organisation vs individual); decision-makers (several vs one); price (negotiated contract vs fixed price and coupons); relationship (long-term vs by product); retention (contracts and account management vs rewards and good experience); main focus (trust, relationship, business value vs experience, emotion, convenience).\n\n**CRM design.** B2B: key account management, tracking organisation hierarchy, buying centre roles and contract renewals (account depth). B2C: segmentation, personalisation and marketing automation across many customers (scale). A firm selling both through retailers and directly is a **B2B2C** model needing both.\n\n**Interpretation.** The same product needs different CRM designs because buying logic differs; choose by size of the buying centre and depth of relationship.",
+    "marking_scheme": [
+      {
+        "point": "Section 1 and 2 (context and decision analysis)",
+        "marks": 2.5
+      },
+      {
+        "point": "Section 3 (justification)",
+        "marks": 1.5
+      },
+      {
+        "point": "Section 4 (adaptation)",
+        "marks": 2
+      },
+      {
+        "point": "Section 5 (recommendation)",
+        "marks": 1.5
+      },
+      {
+        "point": "Key differences stated",
+        "marks": 1
+      },
+      {
+        "point": "CRM design (KAM vs scale) and B2B2C",
+        "marks": 1.5
+      }
+    ]
+  },
+  {
+    "id": "SO-4-06",
+    "node": "SO-4",
+    "unit": "CRM Unit 4",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "hard",
+    "question": "An online grocery firm mapped its customer journey (below). Identify the ONE biggest problem, explain why it occurs, redesign that moment with a before-and-after comparison, and say how you would measure success. Also explain the six phases of the journey.\n\n| Stage | Customer action | Touchpoint | Feeling | Pain point |\n|---|---|---|---|---|\n| Awareness | Sees a social media advertisement | Instagram | Curious | Offer terms unclear |\n| Acquisition | Installs the app and signs up | App | Interested | Long sign-up form |\n| Onboarding | Places first order | App | Excited | Delivery slot not shown until checkout |\n| Engagement | Reorders weekly | App, email | Satisfied | Irrelevant promotions |\n| Retention | Orders drop | Email | Indifferent | Missing items not refunded quickly |\n| Advocacy | Recommends the app | Social media | Happy | None |",
+    "model_answer": "**Six phases.** Awareness (first meets the brand); acquisition (becomes a lead through an interaction); onboarding (just-bought customers at peak interest); engagement (stay buying, personalised content); retention (spot customers at risk of leaving, find out why, prevent churn); advocacy (speaks about the brand to others).\n\n**Biggest problem (chosen, argued): slow refund of missing items at the retention stage.** It is the only pain point that turns a satisfied customer into one at risk of leaving. The orders-drop feeling (indifferent) shows churn is already starting, and the problem hits the customer after a purchase was made, which damages the moment of truth. (A defensible alternative, such as the hidden delivery slot at onboarding, earns credit if argued.)\n\n**Why it occurs.** Refunds are handled manually by service, with no link between the delivery system, the order record and the service ticket; the hand-off between the delivery and service teams fails (a service-blueprint backstage problem).\n\n**Redesign.**\n- Customer reports the missing item in the app with a photo.\n- The CRM links the order, the delivery record and the customer's value tier and triggers an automatic credit for small amounts.\n- Service staff get discretion (empowerment) for larger amounts.\n- A confirmation message goes out instantly, with an apology voucher for repeat cases.\n\n| | Before | After |\n|---|---|---|\n| Report | Phone call, repeat the story | One tap in the app |\n| Resolution | Several days, no update | Instant credit or same-day review |\n| Customer feeling | Indifferent, leaving | Reassured, stays |\n\n**Measures.** Refund resolution time, repeat order rate after a complaint, retention or churn rate, complaint-related NPS.\n\n**Interpretation.** Map what actually happens, fix the single worst moment first, then move to the next pain point.",
+    "marking_scheme": [
+      {
+        "point": "Six phases explained",
+        "marks": 2
+      },
+      {
+        "point": "Biggest pain point chosen and justified",
+        "marks": 2
+      },
+      {
+        "point": "Cause (including hand-off or backstage failure)",
+        "marks": 1.5
+      },
+      {
+        "point": "Redesign with before-and-after",
+        "marks": 2.5
+      },
+      {
+        "point": "Measures",
+        "marks": 1
+      },
+      {
+        "point": "Interpretation",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "SO-5-05",
+    "node": "SO-5",
+    "unit": "CRM Unit 4",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "medium",
+    "question": "Propose a change management approach for the transition to a technology-enabled customer relationship platform in a company whose staff are resisting. Use ADKAR, add Kotter's steps, and explain the role of incentives.",
+    "model_answer": "**Why CRM is change, not IT.** Organisational alignment means goals, strategy, people, structure, processes and technology all work toward the same objectives. Change management is a structured way of preparing, equipping and enabling people to adopt change. Technology-only implementations fail when structure, incentives and culture are not realigned to the customer.\n\n**Why staff resist.** \"Why are we changing?\", \"Will my workload rise?\", \"Will I lose my job?\", \"I don't know how to use it\", \"The old system was easier.\"\n\n**ADKAR (individual level).**\n\n| Stage | Action |\n|---|---|\n| Awareness | Explain why the platform is introduced and the limits of the old method |\n| Desire | Involve staff, address concerns, show personal benefit |\n| Knowledge | Hands-on training on features and new processes |\n| Ability | Practice time, coaching, support teams |\n| Reinforcement | Monitor adoption, recognise users, collect feedback, continue support |\n\n**Kotter (organisation level), in brief.** Create urgency (for example churn data); build a guiding coalition of sales, marketing, service and IT; form a vision of customer-centricity; enlist early adopters; remove barriers such as conflicting KPIs; generate short-term wins with a pilot; sustain acceleration; institute change in job descriptions and onboarding. Kotter sequences leadership steps; ADKAR diagnoses where a person is stuck.\n\n**Incentives and empowerment.** If sales are paid only on new-customer volume they will resist retention work, so use shared cross-functional KPIs and reward data entry and customer outcomes. Give frontline staff authority to resolve issues.\n\n**Measures.** Adoption rate (share of staff logging activity daily), data completeness, support tickets, customer metrics.\n\n**Interpretation.** Adoption is won person by person; skipping desire or reinforcement is the usual cause of failure.",
+    "marking_scheme": [
+      {
+        "point": "Alignment and change management defined; CRM as change",
+        "marks": 1.5
+      },
+      {
+        "point": "Reasons for resistance",
+        "marks": 1
+      },
+      {
+        "point": "ADKAR table with applied actions",
+        "marks": 3
+      },
+      {
+        "point": "Kotter's steps and how they fit with ADKAR",
+        "marks": 2
+      },
+      {
+        "point": "Incentives, shared KPIs, empowerment",
+        "marks": 1.5
+      },
+      {
+        "point": "Measures and interpretation",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "SO-6-03",
+    "node": "SO-6",
+    "unit": "CRM Unit 4",
+    "type": "case",
+    "marks": 15,
+    "difficulty": "medium",
+    "question": "**Case: Gharkona Modular (fictional).** Gharkona Modular (fictional) makes modular kitchens. It sells to property developers (B2B) and, since last year, directly to homeowners through its website and app (B2C). Problems it faces:\n\n- Marketing announced a \"free chimney with every kitchen\" offer, but showroom sales staff and the call centre were not told, so customers received different answers.\n- Developer deals stall because the sales team deals only with a site engineer.\n- Online visitors leave the site at the final payment page.\n- A new CRM platform was installed six months ago, but most staff still keep their own notebooks.\n\n(a) Classify the two customer types and recommend a strategy for each. (4)\n(b) Identify the buying centre roles in a developer's purchase and say which is likely to be missing. (3)\n(c) Diagnose the integration gap and the biggest journey pain point, and give a fix for each. (4)\n(d) Propose an ADKAR plan with measures, and conclude. (4)",
+    "model_answer": "**(a) Customer types and strategy**\n\n| Basis | Developers (B2B, commercial enterprise) | Homeowners (B2C) |\n|---|---|---|\n| Decision | Several people, long cycle, rational (cost, quality, delivery) | One or two people, short cycle, emotional and practical |\n| Strategy | Key account manager, sample flats, case studies from earlier projects, volume pricing and contract terms | Social media, reviews, showroom visits, easy online payment, referral or loyalty offer |\n| Retention | Repeat project contracts, after-sales service agreement | Reminders, rewards, good after-sales service |\n\nCRM design: account depth for developers, scale and automation for homeowners.\n\n**(b) Buying centre.** Initiator: project manager; user: site and interior teams; influencer: architect or design head setting specifications; decider: project director; approver: finance head or board; buyer: procurement manager; gatekeeper: purchase assistant. The sales team reaches only the site engineer (a user or influencer), so the **decider, approver and buyer are missing**. Fix: record all roles in the CRM and plan contact with each.\n\n**(c) Integration and journey**\n- **Integration gap:** marketing, sales and service did not share the offer, so customers got conflicting messages. Fix: a single customer record, a shared briefing before every campaign, and shared KPIs (lead quality, close rate, post-sale satisfaction); smarketing definitions for a qualified lead.\n- **Biggest pain point:** abandonment at the payment page, because it loses a customer who has already decided. Fix: more payment options, saved details, automatic retry and a recovery message. Before: payment fails, no message, lost sale. After: instant retry and reminder, order confirmed.\n\n**(d) Change plan (ADKAR)**\n\n| Stage | Action |\n|---|---|\n| Awareness | Explain how notebooks cause lost leads and missed offers |\n| Desire | Involve staff, show less admin work and better follow-up |\n| Knowledge | Hands-on training in the CRM |\n| Ability | Practice sessions, coaching, support desk |\n| Reinforcement | Track adoption, recognise users, monthly review |\n\nMeasures: adoption rate, duplicate-record rate, payment success rate, repeat orders.\n\n**Conclusion.** B2B needs depth and every buying centre role; B2C needs scale and a smooth journey; both fail unless the three functions and the staff move together.",
+    "marking_scheme": [
+      {
+        "point": "(a) Types classified and strategies",
+        "marks": 4
+      },
+      {
+        "point": "(b) Seven roles and missing roles identified",
+        "marks": 3
+      },
+      {
+        "point": "(c) Integration gap and fix",
+        "marks": 2
+      },
+      {
+        "point": "(c) Journey pain point, reasoning and fix",
+        "marks": 2
+      },
+      {
+        "point": "(d) ADKAR actions",
+        "marks": 2.5
+      },
+      {
+        "point": "(d) Measures and conclusion",
+        "marks": 1.5
+      }
+    ]
+  },
+  {
+    "id": "SO-3-05",
+    "node": "SO-3",
+    "unit": "CRM Unit 4",
+    "type": "case",
+    "marks": 15,
+    "difficulty": "hard",
+    "question": "**Case: Suraksha Shield Insurance (fictional).** Suraksha Shield (fictional) launched a new health-insurance plan with a television campaign. Within weeks:\n\n- Branch sales staff could not explain the waiting-period rules, and some quoted the old plan's terms.\n- The service centre received many claim queries about benefits that marketing had advertised but the policy did not cover.\n- Marketing kept targeting people who had already bought, because it did not know which leads sales had closed.\n- Sales is rewarded only on new policies sold; renewals are not rewarded.\n- Management plans a pilot of a unified CRM in two cities.\n\n(a) Evaluate the importance of integration here, giving five benefits and the feedback loop that should operate. (5)\n(b) Recommend four mechanisms to achieve integration. (4)\n(c) Explain, with one example from the case, why incentives and the journey matter for retention. (3)\n(d) Apply Kotter's steps to the pilot and recommend whether to expand. (3)",
+    "model_answer": "**(a) Importance of integration (5)**\n\nIntegration means marketing, sales and service share customer information and goals: marketing attracts, sales converts, service supports and retains. Here they worked separately, which caused miscommunication, a poor customer experience and blame between departments.\n\n| Benefit | Effect in the case |\n|---|---|\n| Consistent information | One statement of waiting periods and cover across advertisement, branch and service |\n| Better sales | Staff explain the plan accurately and confidently |\n| Better service | Claims staff know what was promised and answer queries correctly |\n| Better experience | Same message from television to claim settlement |\n| Higher retention and lower cost | Fewer complaints and cancellations; no money wasted targeting existing buyers |\n\n**Feedback loop:** marketing attracts; sales tells marketing which leads close; service shares complaints and common queries; marketing uses these to target better; sales gets better leads; service prepares for the commonest queries.\n\n**(b) Mechanisms (4)**\n1. **Unified customer record** (single view) all three functions read and write, so closed leads drop out of campaigns.\n2. **Smarketing:** a shared definition of a qualified lead and shared dashboards.\n3. **Shared KPIs** linking lead quality, close rate and post-sale satisfaction.\n4. **Cross-functional governance:** a joint launch briefing and joint planning before every campaign, with an agreed sign-off of advertised claims.\n\n**(c) Incentives and journey (3)** Rewarding only new policies makes sales ignore renewals, which is a retention issue (retention stage of the journey). Fix with a shared KPI such as renewal rate and satisfaction. Example: the claim-query failure is a poor moment of truth in the engagement stage; each broken hand-off is where customers consider leaving.\n\n**(d) Kotter and recommendation (3)** Create urgency with complaint and cancellation data; build a coalition of sales, marketing, service and IT heads; the two-city pilot is the **short-term win** (step 6); enlist early adopters; remove barriers such as the sales-only incentive; then expand using pilot learning and institute the change in job descriptions and incentives. **Recommendation:** expand if the pilot shows fewer conflicting-message complaints, higher adoption and better renewal rate; track with ADKAR (desire and reinforcement) for staff who resist.\n\n**Conclusion.** Integration protects the advertising spend and the customer's trust; the technology works only if incentives and behaviour align.",
+    "marking_scheme": [
+      {
+        "point": "(a) Integration defined with problem and five benefits applied",
+        "marks": 3
+      },
+      {
+        "point": "(a) Feedback loop",
+        "marks": 2
+      },
+      {
+        "point": "(b) Four mechanisms with explanation",
+        "marks": 4
+      },
+      {
+        "point": "(c) Incentive misalignment and journey link with example",
+        "marks": 3
+      },
+      {
+        "point": "(d) Kotter applied and recommendation with criteria",
+        "marks": 3
+      }
+    ]
+  }
+]

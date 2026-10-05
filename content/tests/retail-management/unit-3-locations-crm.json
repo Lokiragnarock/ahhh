@@ -1,0 +1,710 @@
+[
+  {
+    "id": "RL-1-01",
+    "node": "RL-1",
+    "unit": "Retail Management Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "In Central Place Theory, the **threshold** of a product is:",
+    "options": [
+      "A) The maximum distance customers will travel to buy it",
+      "B) The minimum number of customers or level of demand needed to keep the business viable",
+      "C) The number of competing stores in a shopping cluster",
+      "D) The highest rent the retailer can afford at the site"
+    ],
+    "answer": "B",
+    "explanation": "Threshold is minimum demand. Option A is range, the term most often swapped with threshold. Option C describes agglomeration or saturation, not threshold. Option D is a site-economics test, not a central place concept."
+  },
+  {
+    "id": "RL-1-02",
+    "node": "RL-1",
+    "unit": "Retail Management Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Compared with milk and bread, higher-order goods such as jewellery and cars have:",
+    "options": [
+      "A) A shorter range and a smaller threshold",
+      "B) A longer range and a larger threshold",
+      "C) A longer range but a smaller threshold",
+      "D) A shorter range but a larger threshold"
+    ],
+    "answer": "B",
+    "explanation": "Higher-order goods are bought rarely and are costly, so customers travel farther (long range) and the store needs a bigger demand base (large threshold). Option C is the tempting half-right answer: a long range does not come with a smaller threshold. A is the lower-order pattern. D has the wrong range."
+  },
+  {
+    "id": "RL-1-03",
+    "node": "RL-1",
+    "unit": "Retail Management Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A new store needs annual sales of ₹90 lakh to break even. A typical household spends ₹5,000 a year on the category and the store expects to capture 30% of that spend. How many households does it need (its threshold)?",
+    "options": [
+      "A) 1,800",
+      "B) 6,000",
+      "C) 540",
+      "D) 60,000"
+    ],
+    "answer": "B",
+    "explanation": "Value of one household to the store = ₹5,000 x 30% = ₹1,500 a year; households needed = ₹90,00,000 ÷ ₹1,500 = 6,000. Option A divides by the full ₹5,000 and ignores the capture share, which is the most tempting slip. Option C applies 30% to the sales target instead of the household spend (₹27,00,000 ÷ ₹5,000). Option D is a decimal-place error."
+  },
+  {
+    "id": "RL-2-01",
+    "node": "RL-2",
+    "unit": "Retail Management Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A furniture category specialist is a destination store needing large floor space. According to the matching of format to location, the best fit is:",
+    "options": [
+      "A) The CBD",
+      "B) A power centre",
+      "C) An enclosed regional mall",
+      "D) A merchandise kiosk"
+    ],
+    "answer": "B",
+    "explanation": "Category specialists belong in power centres or free-standing sites: big boxes, lower rent, drive-in traffic, and shoppers come on purpose. The enclosed mall (C) is the department store and specialty apparel location, and its high rent buys pedestrian traffic that a destination format needs less. A CBD site (A) has poor parking for bulky purchases. A kiosk (D) is a small temporary selling station."
+  },
+  {
+    "id": "RL-2-02",
+    "node": "RL-2",
+    "unit": "Retail Management Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "Which location type typically combines high vehicle traffic with low pedestrian traffic?",
+    "options": [
+      "A) CBD",
+      "B) Enclosed mall",
+      "C) Free-standing site",
+      "D) Fashion and specialty centre"
+    ],
+    "answer": "C",
+    "explanation": "A free-standing store sits on its own with no neighbours to pull walkers, but road traffic is high and parking is easy. The CBD (A), enclosed mall (B) and fashion and specialty centre (D) all have high pedestrian traffic and low vehicle traffic. Vehicle and pedestrian traffic move in opposite directions across location types."
+  },
+  {
+    "id": "RL-2-03",
+    "node": "RL-2",
+    "unit": "Retail Management Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A store of 12,000 sq ft pays rent of ₹150 per sq ft per month. Expected annual sales are ₹15 crore. What is rent-to-sales?",
+    "options": [
+      "A) 1.2%",
+      "B) 14.4%",
+      "C) 7.2%",
+      "D) 144%"
+    ],
+    "answer": "B",
+    "explanation": "Annual rent = 12,000 x ₹150 x 12 = ₹2.16 crore; ₹2.16 crore ÷ ₹15 crore = 14.4%. Option A compares one month's rent (₹18 lakh) with a year's sales, the classic failure to annualise. Option C counts only six months of rent. Option D enters sales as ₹1.5 crore."
+  },
+  {
+    "id": "RL-3-01",
+    "node": "RL-3",
+    "unit": "Retail Management Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "In trading area analysis, the primary zone accounts for about what share of a store's customers?",
+    "options": [
+      "A) 10 to 15%",
+      "B) About 20%",
+      "C) 60 to 65%",
+      "D) Over 90%"
+    ],
+    "answer": "C",
+    "explanation": "The primary zone is the closest, densest patronage, about 60 to 65%. About 20% (B) is the secondary zone, and 10 to 15% (A) is too small for the core zone. The tertiary or fringe zone takes the remainder. Over 90% (D) would leave almost nothing for the outer zones."
+  },
+  {
+    "id": "RL-3-02",
+    "node": "RL-3",
+    "unit": "Retail Management Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Which of the following is a **site-level** factor rather than a region-level factor?",
+    "options": [
+      "A) Population growth of the area",
+      "B) Household size",
+      "C) Store frontage",
+      "D) Tourist inflow"
+    ],
+    "answer": "C",
+    "explanation": "Region analysis asks which area to enter (population, growth, household size, tourism, income). Site analysis asks where exactly to open: visibility, footfall, parking, rent and store frontage. A, B and D are all region factors; a good site in a weak region still fails."
+  },
+  {
+    "id": "RL-3-03",
+    "node": "RL-3",
+    "unit": "Retail Management Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "City A (4,00,000 people) and City B (1,00,000 people) compete for the retail trade of Town C, which is 30 km from A and 15 km from B. By Reilly's law, A's share of C's trade is:",
+    "options": [
+      "A) 80%",
+      "B) 50%",
+      "C) 66.7%",
+      "D) 94.1%"
+    ],
+    "answer": "B",
+    "explanation": "Ba/Bb = (4,00,000 ÷ 1,00,000) x (15 ÷ 30)² = 4 x 0.25 = 1.0, so the split is 50:50. Option A uses population alone and ignores distance. Option C is the tempting one: it does not square the distance (4 x 0.5 = 2, giving 66.7%). Option D inverts the distance ratio (4 x 4 = 16, giving 94.1%), which favours the farther city."
+  },
+  {
+    "id": "RL-3-04",
+    "node": "RL-3",
+    "unit": "Retail Management Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "hard",
+    "question": "City A has 9,00,000 people and City B has 1,00,000. They are 80 km apart. Using the breaking-point formula, the breaking point from the smaller city B is:",
+    "options": [
+      "A) 8 km",
+      "B) 20 km",
+      "C) 40 km",
+      "D) 60 km"
+    ],
+    "answer": "B",
+    "explanation": "Breaking point = Dab ÷ (1 + √(Pa/Pb)) = 80 ÷ (1 + 3) = 20 km from B. Option A forgets the square root (80 ÷ 10). Option C is the simple midpoint, which ignores the size difference. Option D is the distance of the same point from A (80 - 20), measured from the wrong city."
+  },
+  {
+    "id": "RL-3-05",
+    "node": "RL-3",
+    "unit": "Retail Management Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "hard",
+    "question": "Using the Huff model with λ = 2, a shopper zone has two stores. Store X is 36,000 sq ft and 6 minutes away. Store Y is 16,000 sq ft and 2 minutes away. The probability the shopper chooses X is:",
+    "options": [
+      "A) 20%",
+      "B) 69.2%",
+      "C) 42.9%",
+      "D) 80%"
+    ],
+    "answer": "A",
+    "explanation": "S ÷ T²: X = 36 ÷ 36 = 1.0; Y = 16 ÷ 4 = 4.0. P(X) = 1.0 ÷ 5.0 = 20%. Option B is size alone (36 ÷ 52), ignoring distance. Option C uses λ = 1 (6 ÷ 14). Option D is Y's share, a reversal of the two stores."
+  },
+  {
+    "id": "RL-4-01",
+    "node": "RL-4",
+    "unit": "Retail Management Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "A retailer records abandoned carts, email opens and app navigation paths for each customer. Which type of customer data is this?",
+    "options": [
+      "A) Demographic",
+      "B) Transactional",
+      "C) Behavioural",
+      "D) Psychographic"
+    ],
+    "answer": "C",
+    "explanation": "Pages visited, app paths, email opens and abandoned carts are behavioural data. Transactional data (B) records completed purchases, returns and spend, so an abandoned cart does not qualify. Demographic data (A) is age, income, location. Psychographic data (D) is interests, values and survey feedback."
+  },
+  {
+    "id": "RL-4-02",
+    "node": "RL-4",
+    "unit": "Retail Management Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A customer yields an annual gross margin of ₹2,400 and the retention rate is 75%. Using the simple formula, CLV is:",
+    "options": [
+      "A) ₹3,200",
+      "B) ₹9,600",
+      "C) ₹7,200",
+      "D) ₹1,800"
+    ],
+    "answer": "B",
+    "explanation": "Lifetime = 1 ÷ (1 - 0.75) = 4 years; CLV = ₹2,400 x 4 = ₹9,600. Option A divides margin by retention (2,400 ÷ 0.75). Option C is r ÷ (1 - r) = 3 years of future margin only, which leaves out the first year and is not the simple CLV. Option D multiplies margin by retention."
+  },
+  {
+    "id": "RL-4-03",
+    "node": "RL-4",
+    "unit": "Retail Management Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "A CRM trigger fires when a customer has had no activity or purchase for 30 to 60 or more days. Which lifecycle programme is this?",
+    "options": [
+      "A) Welcome and onboarding",
+      "B) Cart abandonment",
+      "C) Win-back",
+      "D) Cross-sell and up-sell"
+    ],
+    "answer": "C",
+    "explanation": "Win-back reactivates dormant customers after 30 to 60 or more days of silence. Welcome (A) is triggered by a new account. Cart abandonment (B) is triggered by items left in a cart, with a message within minutes to hours, not weeks. Cross-sell (D) is triggered by a completed purchase."
+  },
+  {
+    "id": "RL-4-04",
+    "node": "RL-4",
+    "unit": "Retail Management Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "hard",
+    "question": "A loyalty offer is sent to 5,000 members; a holdout group gets nothing. Members average 3.6 visits a quarter and the holdout 3.2. Margin per visit is ₹200. What is the incremental margin from the programme?",
+    "options": [
+      "A) ₹36,00,000",
+      "B) ₹4,00,000",
+      "C) ₹32,00,000",
+      "D) ₹8,00,000"
+    ],
+    "answer": "B",
+    "explanation": "Incremental visits = (3.6 - 3.2) x 5,000 = 2,000; 2,000 x ₹200 = ₹4,00,000. Option A counts all member visits as if the offer caused them. Option C is the baseline margin that the holdout shows would have occurred anyway. Option D uses a wrong member base of 10,000."
+  },
+  {
+    "id": "RL-5-01",
+    "node": "RL-5",
+    "unit": "Retail Management Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "In the 15-mark location-and-CRM case layout, the step that follows applying Reilly's law to choose the region is:",
+    "options": [
+      "A) Huff shares or a weighted scorecard to choose the site, with expected sales",
+      "B) Segmenting customers by RFM",
+      "C) Computing CLV",
+      "D) Writing the decision line"
+    ],
+    "answer": "A",
+    "explanation": "The layout runs region (Reilly), site (Huff or scorecard), economics (rent-to-sales and margin after rent), then the CRM recommendation. Options B and C belong to the last step. Option D comes only at the end, after the economics, because the decision must rest on the numbers."
+  },
+  {
+    "id": "RL-1-04",
+    "node": "RL-1",
+    "unit": "Retail Management Unit 3",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "Explain the Theory of Central Place with reference to **threshold** and **range**. Why do higher-order goods need a larger threshold and have a longer range than lower-order goods? Give one example of each.",
+    "model_answer": "**Theory (Christaller).** A store is a *central place* serving customers who live around it. A large shopping centre draws from a wide area; a neighbourhood grocer from a small one.\n\n- **Threshold:** the minimum number of customers or level of demand needed to keep the business viable.\n- **Range:** the maximum distance customers will travel for the product.\n\n**Lower-order goods** (milk, bread, groceries) are bought often and cheaply: short range (5 to 10 minutes), small threshold. Fits a convenience store or kirana.\n\n**Higher-order goods** (furniture, jewellery, cars) are bought rarely and cost more, so customers will travel farther (long range), but the store needs a big, high-purchasing-power base to survive (large threshold). Fits a hypermarket, regional mall or showroom.\n\n**Example:** a bakery survives on one neighbourhood; a luxury car showroom needs a whole city's high-income households and draws buyers from far away.\n\nMemory line: *threshold = minimum demand; range = how far they will go.*",
+    "marking_scheme": [
+      {
+        "point": "Christaller and the central place idea",
+        "marks": 0.5
+      },
+      {
+        "point": "Threshold defined",
+        "marks": 1
+      },
+      {
+        "point": "Range defined",
+        "marks": 1
+      },
+      {
+        "point": "Why higher-order goods need both more (frequency, price)",
+        "marks": 1.5
+      },
+      {
+        "point": "Two contrasting examples",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "RL-2-04",
+    "node": "RL-2",
+    "unit": "Retail Management Unit 3",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Name any five of the seven planned shopping-centre types listed in the course and give one defining feature and one Indian example of each.",
+    "model_answer": "| Type | Feature | Indian example |\n|---|---|---|\n| Neighbourhood and community (strip) centre | Attached stores, front parking, everyday needs; low rent, small trade area, no weather protection | Local sector market complexes, HUDA market strips (Gurgaon) |\n| Power centre | Big-box stores and category specialists in an open-air setup; free-standing anchors, low rent, large trade area | IKEA-anchored retail parks in suburban Noida and Gurgaon |\n| Enclosed mall | Multi-level, climate-controlled; department stores, specialty apparel, dining; needs anchors | Select CITYWALK (New Delhi), Phoenix Marketcity |\n| Lifestyle centre | Open-air; upscale chain specialty stores, restaurants, entertainment in affluent areas | CyberHub (Gurgaon), UB City (Bengaluru) |\n| Fashion and specialty centre | High-end fashion in tourist areas or CBD; no anchor; high rent | DLF Emporio (New Delhi) |\n| Outlet centre | Factory outlets and off-price retailers; very large trade area, low rent | Marathahalli Factory Outlets (Bengaluru) |\n| Theme and festival centre | Entertainment, dining and a tourist theme, often historic sites | Dilli Haat (New Delhi) |\n\n*(Any five. Each is a planned property: developed, owned and managed as one.)*",
+    "marking_scheme": [
+      {
+        "point": "Five types correctly named",
+        "marks": 1
+      },
+      {
+        "point": "One valid feature for each of five types",
+        "marks": 2
+      },
+      {
+        "point": "One Indian example for each of five types",
+        "marks": 1.5
+      },
+      {
+        "point": "Definition of a planned shopping centre or the rent-versus-traffic link",
+        "marks": 0.5
+      }
+    ]
+  },
+  {
+    "id": "RL-3-06",
+    "node": "RL-3",
+    "unit": "Retail Management Unit 3",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "hard",
+    "question": "City A has 4,50,000 people and City B has 50,000. They are 48 km apart. Town D lies on the road between them, 36 km from A and 12 km from B. (a) Use Reilly's law to find each city's share of Town D's retail trade. (b) Find the breaking point from B. (c) Interpret the result for a retailer in City A.",
+    "model_answer": "**(a) Reilly's law:** Ba/Bb = (Pa/Pb) x (Db/Da)²\n- Ba/Bb = (4,50,000 ÷ 50,000) x (12 ÷ 36)² = 9 x (1/9) = **1.0**\n- A's share = 1 ÷ 2 = **50%**; B's share = **50%**.\n\n**(b) Breaking point from B** = Dab ÷ (1 + √(Pa/Pb)) = 48 ÷ (1 + √9) = 48 ÷ 4 = **12 km**.\n\n**(c) Interpretation.** Town D is exactly 12 km from B, so it sits on the breaking point: the two cities draw equally from it, which agrees with the 50:50 split. City A is nine times larger, yet B matches it because B is three times closer and distance is squared. A retailer in A who wants more of D's trade must offer a pull that size alone does not give, such as a destination format or delivery, or open nearer to D.",
+    "marking_scheme": [
+      {
+        "point": "Reilly's law set up correctly",
+        "marks": 1
+      },
+      {
+        "point": "Ratio 1.0 and shares 50:50",
+        "marks": 1.5
+      },
+      {
+        "point": "Breaking point 12 km",
+        "marks": 1.5
+      },
+      {
+        "point": "Interpretation (size versus squared distance, action for A)",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "RL-3-07",
+    "node": "RL-3",
+    "unit": "Retail Management Unit 3",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Distinguish between **region analysis** and **site analysis** in choosing a retail location. Using a women's fashion store as an example, explain why 'best region + best site = better retail location'.",
+    "model_answer": "| | Region | Site |\n|---|---|---|\n| Scope | Large geographical area | Specific location |\n| Question | Which area should I enter? | Exactly where should I open? |\n| Analyse | Population, income, demographics, lifestyle, economic growth, competition, future development | Visibility, footfall, parking, accessibility, rent, store frontage, nearby businesses |\n\n**Example.** A women's fashion store first picks a region from options such as HSR Layout, Koramangala, Whitefield or Yelahanka using population, income, target customers, competition and growth. Then, inside the chosen region, it picks a site (Main Street, mall or residential street) using footfall, visibility, parking, rent and competition.\n\n**Why both matter.** A great site in a weak region fails because too few of the target customers live nearby; a strong region with a poor site (hidden, no parking, high rent) also fails. The two steps are sequential and complementary.",
+    "marking_scheme": [
+      {
+        "point": "Region defined with question and factors",
+        "marks": 1.5
+      },
+      {
+        "point": "Site defined with question and factors",
+        "marks": 1.5
+      },
+      {
+        "point": "Fashion store two-step example",
+        "marks": 1
+      },
+      {
+        "point": "Why both are needed (either alone fails)",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "RL-4-05",
+    "node": "RL-4",
+    "unit": "Retail Management Unit 3",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "Define retail CRM. State its three goals and explain the three-step CRM loop using a coffee-chain rewards app as the example.",
+    "model_answer": "**CRM** is a strategic framework for managing a company's interactions with current and potential customers, integrating technology, processes and data to track every interaction across the customer lifecycle.\n\n**Three goals:** (1) customer **retention** (keeping a customer is cheaper than winning a new one); (2) **maximising Customer Lifetime Value (CLV)**; (3) **personalisation** of messages, recommendations and offers.\n\n**CRM loop (coffee-chain rewards app):**\n1. **Collect data:** paying through the app captures purchase history, preferred stores, peak times and favourite drinks.\n2. **Identify targets:** segment into, for example, weekday morning commuters and occasional weekend afternoon visitors.\n3. **Develop programmes:** send the afternoon visitor a push notification with bonus points for trying a new drink.\n\nA fourth step, **measure and refine** (retention, CLV, programme ROI), closes the loop.",
+    "marking_scheme": [
+      {
+        "point": "Definition",
+        "marks": 1
+      },
+      {
+        "point": "Three goals",
+        "marks": 1.5
+      },
+      {
+        "point": "Three-step loop",
+        "marks": 1.5
+      },
+      {
+        "point": "Example applied to each step and measure step",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "RL-4-06",
+    "node": "RL-4",
+    "unit": "Retail Management Unit 3",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "List the five lifecycle CRM programmes. For each, give the trigger and one action.",
+    "model_answer": "| Programme | Trigger | Action |\n|---|---|---|\n| Welcome and onboarding | New account created | Email or push sequence with tutorials and a welcome offer |\n| Cart abandonment | Items in cart, no purchase | Message within 15 minutes to 3 hours with the cart link or a small discount |\n| Win-back | No activity for 30 to 60+ days | 'We miss you' offer to reactivate |\n| Cross-sell and up-sell | Purchase completed | Complementary add-on or upgrade to raise average order value and CLV |\n| Loyalty and VIP | Spend threshold or tier reached | Perks, private invites and priority support |\n\nPrice-sensitive customers respond to discounts; premium customers respond to exclusivity.",
+    "marking_scheme": [
+      {
+        "point": "Five programmes named",
+        "marks": 2.5
+      },
+      {
+        "point": "Triggers",
+        "marks": 1.5
+      },
+      {
+        "point": "Actions",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "RL-4-07",
+    "node": "RL-4",
+    "unit": "Retail Management Unit 3",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "A retailer scores customers from 1 to 5 on Recency (days since last purchase: up to 15 = 5, up to 60 = 4, up to 120 = 3, up to 180 = 2, above 180 = 1), Frequency (orders a year: 20 or more = 5, 10 to 19 = 4, 5 to 9 = 3, 2 to 4 = 2, 1 = 1) and Monetary (annual spend: ₹40,000 or more = 5, ₹20,000 to ₹39,999 = 4, ₹5,000 to ₹19,999 = 3, ₹1,000 to ₹4,999 = 2, below ₹1,000 = 1).\n\n| Customer | Days since last purchase | Orders a year | Annual spend |\n|---|---|---|---|\n| P | 12 | 24 | ₹45,000 |\n| Q | 50 | 8 | ₹15,000 |\n| R | 150 | 3 | ₹2,500 |\n\nCompute each customer's R, F, M and total, and recommend a programme for each.",
+    "model_answer": "| Customer | R | F | M | Total |\n|---|---|---|---|---|\n| P | 5 | 5 | 5 | **15** |\n| Q | 4 | 3 | 3 | **10** |\n| R | 2 | 2 | 2 | **6** |\n\n- **P (15): VIP.** Loyalty and VIP programme: perks, private previews, priority support; protect and build advocacy.\n- **Q (10): growth prospect.** Nudge frequency and basket with cross-sell and tier-upgrade offers.\n- **R (6): lapsing.** Win-back offer now, since recency is already 150 days; keep the cost low.\n\n**Interpretation.** RFM puts the deepest rewards where they change behaviour instead of treating all customers equally.",
+    "marking_scheme": [
+      {
+        "point": "Correct R, F, M scores for P",
+        "marks": 1
+      },
+      {
+        "point": "Correct scores for Q and R",
+        "marks": 1.5
+      },
+      {
+        "point": "Totals",
+        "marks": 0.5
+      },
+      {
+        "point": "Programme recommendation for each, with reason",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "RL-5-02",
+    "node": "RL-5",
+    "unit": "Retail Management Unit 3",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "A 15-mark location-and-CRM case answer has four parts. Name them, say what each should contain and give the mark weight a good answer should aim for. Explain what must close the answer.",
+    "model_answer": "| Part | Contents | Marks |\n|---|---|---|\n| **Region** | Reilly's law ratio, shares and breaking point; say which centre wins and why (distance is squared) | about 4 |\n| **Site** | Huff shares and expected sales for each site (state λ), or a weighted scorecard | about 4 |\n| **Economics** | Annual rent, rent-to-sales, margin after rent for each site | about 3 |\n| **CRM recommendation** | Data capture, RFM segmentation, two lifecycle programmes, measurement (incremental lift, CLV) | about 4 |\n\n**Closing:** a one-line **decision** (which site and region) followed by an **interpretation** and one sentence on assumptions (λ, spend per household, margin). Marks are paid for evaluation, not only arithmetic.\n\n**Time rule:** if short of time, do the Reilly ratio, the two Huff shares and the rent-to-sales line, then two lines on CRM.",
+    "marking_scheme": [
+      {
+        "point": "Four parts named",
+        "marks": 1
+      },
+      {
+        "point": "Contents of each part",
+        "marks": 2
+      },
+      {
+        "point": "Marks weights",
+        "marks": 0.5
+      },
+      {
+        "point": "Decision line plus interpretation",
+        "marks": 1
+      },
+      {
+        "point": "Assumptions sentence / time rule",
+        "marks": 0.5
+      }
+    ]
+  },
+  {
+    "id": "RL-1-05",
+    "node": "RL-1",
+    "unit": "Retail Management Unit 3",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "medium",
+    "question": "(a) Why is location a strategic element of the retail mix? (3) (b) List the nine factors of location theory. (3) (c) ZenBake (fictional) needs annual sales of ₹1.5 crore to break even at a new bakery. A household spends ₹7,500 a year on bakery products and the store expects to capture 20% of that spend. The primary zone has 8,000 households. Find the threshold in households, say whether the site clears it, and interpret. (4)",
+    "model_answer": "**(a) Why strategic.** Location is one of six retail-mix elements (assortment, pricing, communication, display and design, service, location). The other five can change in weeks; a location is slow and costly to reverse, and a prime site is hard for competitors to copy, so it can build sustainable competitive advantage. The own-or-lease decision adds risk.\n\n**(b) Nine factors (P-P-A-T-C-R-V-P-F):** customer population; purchasing power; accessibility; traffic and pedestrian flow; competition (a threat, or a cluster that draws shoppers); rent and operating cost; visibility; parking and transportation; future development.\n\n**(c) Threshold.**\n1. Value of one household = ₹7,500 x 20% = **₹1,500** a year.\n2. Threshold = ₹1,50,00,000 ÷ ₹1,500 = **10,000 households**.\n3. Primary-zone sales = 8,000 x ₹1,500 = **₹1,20,00,000**, short of break-even by **₹30,00,000** (2,000 households).\n\n**Decision:** the site does not clear its threshold. **Interpretation:** a bakery is a lower-order good with a short range, so the range cannot be stretched much. Options: choose a denser area, add delivery, move to a main road to widen the catchment, or raise capture share. Competition nearby need not be bad if it is an agglomeration that raises footfall.",
+    "marking_scheme": [
+      {
+        "point": "Why location is strategic (costly, hard to copy, own or lease)",
+        "marks": 3
+      },
+      {
+        "point": "Nine factors",
+        "marks": 3
+      },
+      {
+        "point": "Threshold calculation 10,000 households",
+        "marks": 2
+      },
+      {
+        "point": "Shortfall and decision",
+        "marks": 1
+      },
+      {
+        "point": "Interpretation with options",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "RL-2-05",
+    "node": "RL-2",
+    "unit": "Retail Management Unit 3",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "hard",
+    "question": "(a) Describe the four families of retail locations and the five trade-offs used to choose among them. (4) (b) Explain any three unplanned or alternative location types with one advantage and one disadvantage each. (3) (c) SmartHome (fictional), a furniture category specialist, needs 15,000 sq ft. Option 1 is a power centre at ₹80 per sq ft per month with expected annual sales of ₹18 crore. Option 2 is an enclosed mall at ₹200 per sq ft per month with expected annual sales of ₹22 crore. Compute annual rent and rent-to-sales for both and recommend a site. (3)",
+    "model_answer": "**(a) Four families:** free-standing sites; city or town locations (CBD, Main Street); shopping centres (strip centres and malls); other opportunities (airports, resorts, hospitals, store-within-a-store, pop-ups). **Five trade-offs:** trade area size, occupancy cost, pedestrian and vehicle traffic, restrictions on operations, customer convenience. The central seesaw is **rent versus traffic**: cheap sites have low traffic, high-traffic planned sites charge a premium.\n\n**(b) Types.**\n- **Free-standing:** advantage: high visibility and vehicle traffic, modest rent, no neighbouring competitor. Disadvantage: no foot traffic or drawing power from neighbours.\n- **CBD:** advantage: business-hours crowds, transport hub. Disadvantage: poor parking, security and shoplifting, quiet evenings and weekends.\n- **Pop-up store:** advantage: tests seasonal demand or a market without a long lease. Disadvantage: temporary, so brand building and repeat traffic are limited.\n*(Any three; Main Street, kiosk, airport, store-within-a-store are also acceptable.)*\n\n**(c) Economics.**\n- Power centre rent = 15,000 x ₹80 x 12 = **₹1,44,00,000** (₹1.44 crore); rent-to-sales = 1.44 ÷ 18 = **8.0%**.\n- Mall rent = 15,000 x ₹200 x 12 = **₹3,60,00,000** (₹3.60 crore); rent-to-sales = 3.60 ÷ 22 = **16.36%**.\n- The mall adds ₹4 crore of sales but ₹2.16 crore of extra rent.\n\n**Decision:** choose the **power centre**. **Interpretation:** furniture is a destination purchase, so mall footfall is worth less to this format; the matching table (category specialists to power centres) agrees with the numbers.",
+    "marking_scheme": [
+      {
+        "point": "Four families",
+        "marks": 1.5
+      },
+      {
+        "point": "Five trade-offs and rent versus traffic",
+        "marks": 2.5
+      },
+      {
+        "point": "Three location types with advantage and disadvantage",
+        "marks": 3
+      },
+      {
+        "point": "Rent and rent-to-sales for both sites",
+        "marks": 2
+      },
+      {
+        "point": "Decision with interpretation",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "RL-3-08",
+    "node": "RL-3",
+    "unit": "Retail Management Unit 3",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "hard",
+    "question": "CarePlus (fictional), a pharmacy chain, scores three candidate sites from 1 to 10 (10 is best; for rent, 10 means cheapest).\n\n| Factor | Weight | Near hospital | Market street | Mall |\n|---|---|---|---|---|\n| Footfall | 0.30 | 8 | 9 | 7 |\n| Visibility | 0.15 | 9 | 8 | 7 |\n| Rent | 0.20 | 5 | 4 | 3 |\n| Parking | 0.15 | 6 | 4 | 8 |\n| Competition | 0.10 | 5 | 4 | 6 |\n| Future growth | 0.10 | 7 | 6 | 8 |\n\n(a) Compute the weighted score of each site. (4) (b) Re-score with the rent weight raised to 0.30 and the footfall weight cut to 0.20, other weights unchanged. Does the ranking of the top site change? (3) (c) A site charges ₹3 lakh a month rent and expects annual sales of ₹20 lakh. Evaluate this. What annual sales would keep rent at 10% of sales? (3)",
+    "model_answer": "**(a) Weighted scores** (weight x rating, summed)\n- Near hospital: 2.40 + 1.35 + 1.00 + 0.90 + 0.50 + 0.70 = **6.85**\n- Market street: 2.70 + 1.20 + 0.80 + 0.60 + 0.40 + 0.60 = **6.30**\n- Mall: 2.10 + 1.05 + 0.60 + 1.20 + 0.60 + 0.80 = **6.35**\n\nNear hospital ranks first, then the mall, then the market street.\n\n**(b) Sensitivity** (rent 0.30, footfall 0.20)\n- Near hospital = **6.55**; mall = **5.95**; market street = **5.80**.\n- Near hospital stays first, and its lead over the mall widens from 0.50 to 0.60, because its rent score (5) beats the mall's (3). The decision is robust to this change of weights.\n\n**(c) Rent check.** Rent ₹3 lakh a month = ₹36 lakh a year, which is **180%** of ₹20 lakh sales: the site cannot work on those sales. At 10% rent-to-sales, annual sales must be ₹36 lakh ÷ 0.10 = **₹3.6 crore**. Expected sales must justify the rent before the lease is signed; if they cannot reach that level, choose a cheaper site even if its score is lower.",
+    "marking_scheme": [
+      {
+        "point": "Correct weighted scores for three sites",
+        "marks": 3
+      },
+      {
+        "point": "Ranking stated",
+        "marks": 1
+      },
+      {
+        "point": "Sensitivity re-scoring and conclusion",
+        "marks": 3
+      },
+      {
+        "point": "Rent-to-sales 180% and annualising",
+        "marks": 1.5
+      },
+      {
+        "point": "Required sales ₹3.6 crore and decision",
+        "marks": 1.5
+      }
+    ]
+  },
+  {
+    "id": "RL-4-08",
+    "node": "RL-4",
+    "unit": "Retail Management Unit 3",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "hard",
+    "question": "(a) Explain how a retailer moves from customer data to CRM programmes: data types, capture methods, single customer view, segmentation and programmes. (6) (b) A customer spends ₹15,000 a year at a 20% gross margin. Retention is 75% and acquisition cost is ₹3,000. Find simple CLV and the CLV to CAC ratio. Then find CLV if retention improves to 80%, and interpret. (4)",
+    "model_answer": "**(a) Database to programme.**\n- **Data types:** demographic (age, income, location), transactional (purchases, spend, returns), behavioural (app paths, email opens, abandoned carts), psychographic (interests, survey feedback).\n- **Capture:** POS (mobile number or email for a digital receipt), loyalty sign-up, website or app registration, in-app preferences, lead magnets such as a first-order discount; progressive profiling collects a little at each interaction.\n- **Single customer view (SCV)** unifies all touchpoint data on one person, held in a Customer Data Platform; data hygiene (deduplication, validation) and consent and privacy rules (India's Digital Personal Data Protection Act, 2023) apply.\n- **Segmentation:** RFM (recency, frequency, monetary) and behavioural (intent) segments.\n- **Programmes:** five lifecycle programmes (welcome, cart abandonment, win-back, cross-sell and up-sell, loyalty and VIP) plus tiered loyalty; premium customers get exclusivity, price-sensitive ones discounts.\n- **Measure:** retention, CLV and incremental lift against a holdout group.\n\n**(b) CLV.**\n1. Annual margin = ₹15,000 x 20% = **₹3,000**.\n2. Lifetime = 1 ÷ (1 - 0.75) = **4 years**; simple CLV = ₹3,000 x 4 = **₹12,000**.\n3. CLV : CAC = 12,000 ÷ 3,000 = **4 : 1**.\n4. At 80% retention: lifetime = 5 years; CLV = **₹15,000**, up **25%**; CLV : CAC = 5 : 1.\n\n**Interpretation:** five points of retention add a quarter to customer value, which is why CRM spends on retention before acquisition. State whether CLV is discounted (future margins only at a 10% discount rate would be ₹3,000 x 0.75 ÷ (1 + 0.10 - 0.75) = ₹6,428.57).",
+    "marking_scheme": [
+      {
+        "point": "Data types and capture",
+        "marks": 1.5
+      },
+      {
+        "point": "SCV, CDP, privacy",
+        "marks": 1
+      },
+      {
+        "point": "Segmentation (RFM)",
+        "marks": 1
+      },
+      {
+        "point": "Lifecycle programmes and tiers",
+        "marks": 1.5
+      },
+      {
+        "point": "Measurement (incrementality)",
+        "marks": 1
+      },
+      {
+        "point": "CLV and CLV:CAC",
+        "marks": 2
+      },
+      {
+        "point": "Improved retention and interpretation",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "RL-5-03",
+    "node": "RL-5",
+    "unit": "Retail Management Unit 3",
+    "type": "case",
+    "marks": 15,
+    "difficulty": "hard",
+    "question": "**Case: a supermarket chooses where to open.** FreshKart (fictional) wants a new 30,000 sq ft supermarket in whichever of two cities draws more of the grocery trade of Town C. City A has 4,50,000 people and City B has 50,000. They are 60 km apart; Town C lies on the road between them, 40 km from A and 20 km from B.\n\nIn the chosen city's catchment there are 6,000 households spending ₹4,000 a month on groceries. Two competitors serve the catchment: X (40,000 sq ft, 8 minutes away) and Y (25,000 sq ft, 5 minutes). FreshKart has two candidate sites, both 30,000 sq ft: Site P is 5 minutes from the catchment at ₹30 per sq ft per month; Site Q is 10 minutes away at ₹24 per sq ft per month. Gross margin is 18% and λ = 2.\n\nA typical customer spends ₹36,000 a year at FreshKart at the same 18% gross margin. Retention today is 80%; the CRM team aims for 85%.\n\n(a) Apply Reilly's law to Town C and find the breaking point from B. Which city is the better region? (4)\n(b) Use the Huff model to find FreshKart's share at Site P and Site Q. (4)\n(c) Compute annual sales, annual rent, rent-to-sales and gross margin after rent for each site, and recommend one. (4)\n(d) Recommend a CRM plan: data capture, two programmes and how to measure success, with the CLV effect of raising retention from 80% to 85%. (3)",
+    "model_answer": "**(a) Region (Reilly).** Ba/Bb = (4,50,000 ÷ 50,000) x (20 ÷ 40)² = 9 x 0.25 = **2.25**. A's share = 2.25 ÷ 3.25 = **69.23%**; B's share = **30.77%**. Breaking point from B = 60 ÷ (1 + √9) = **15 km**; Town C is 20 km from B, beyond it, so C leans to A. **Region: City A**, because A's size outweighs B's closer position at this distance.\n\n**(b) Site (Huff, λ = 2).** S ÷ T²: Site P = 30 ÷ 25 = 1.200; Site Q = 30 ÷ 100 = 0.300; X = 40 ÷ 64 = 0.625; Y = 25 ÷ 25 = 1.000.\n- With Site P: total = 2.825; share = **42.48%**.\n- With Site Q: total = 1.925; share = **15.58%**.\n\n**(c) Economics.** Catchment spend = 6,000 x ₹4,000 x 12 = ₹28.80 crore.\n\n| | Site P | Site Q |\n|---|---|---|\n| Huff share | 42.48% | 15.58% |\n| Annual sales | ₹12.23 crore | ₹4.49 crore |\n| Annual rent | ₹1.080 crore | ₹0.864 crore |\n| Rent-to-sales | 8.83% | 19.25% |\n| Gross margin (18%) less rent | ₹1.12 crore | -₹0.06 crore |\n\n**Decision: Site P in City A's catchment.** Site Q is cheaper per sq ft but is 5 minutes farther, loses 26.9 points of share, and its margin does not cover rent.\n\n**(d) CRM.** Capture the mobile number at billing to build a single customer view; enrol shoppers in a tiered loyalty scheme; segment by RFM. Run a welcome sequence for new members and a win-back message after 30 to 60 days of silence (a cross-sell on private-label staples after each basket is a third option). Measure success by **incremental visits against a holdout group**, retention and CLV, not enrolment. CLV: annual margin = ₹36,000 x 18% = ₹6,480; at 80% retention lifetime = 5 years and CLV = **₹32,400**; at 85% lifetime = 6.67 years and CLV = **₹43,200**, up **33.3%**.\n\n**Interpretation.** Proximity, not store size alone, drives share, and rent must be judged against sales, not per sq ft. The result rests on assumed λ, spend and margin; with λ = 1 distance matters less and Site Q's gap narrows.",
+    "marking_scheme": [
+      {
+        "point": "Reilly ratio, shares and breaking point",
+        "marks": 2.5
+      },
+      {
+        "point": "Region conclusion",
+        "marks": 1.5
+      },
+      {
+        "point": "Huff terms and shares for both sites",
+        "marks": 4
+      },
+      {
+        "point": "Sales, rent, rent-to-sales, margin after rent",
+        "marks": 2.5
+      },
+      {
+        "point": "Site decision with reasoning",
+        "marks": 1.5
+      },
+      {
+        "point": "CRM plan: capture, programmes, measurement",
+        "marks": 2
+      },
+      {
+        "point": "CLV effect of retention",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "RL-4-09",
+    "node": "RL-4",
+    "unit": "Retail Management Unit 3",
+    "type": "case",
+    "marks": 15,
+    "difficulty": "hard",
+    "question": "**Case: does the loyalty scheme pay?** StyleHub (fictional), an apparel retailer, runs a tiered loyalty programme with 8,000 members. A sample of five members is scored with this rule. Recency (days since last purchase): up to 15 = 5, up to 60 = 4, up to 120 = 3, up to 180 = 2, above 180 = 1. Frequency (orders a year): 20 or more = 5, 10 to 19 = 4, 5 to 9 = 3, 2 to 4 = 2, 1 = 1. Monetary (annual spend): ₹40,000 or more = 5, ₹20,000 to ₹39,999 = 4, ₹5,000 to ₹19,999 = 3, ₹1,000 to ₹4,999 = 2, below ₹1,000 = 1.\n\n| Member | Days since last purchase | Orders a year | Annual spend |\n|---|---|---|---|\n| K1 | 8 | 26 | ₹52,000 |\n| K2 | 55 | 11 | ₹26,000 |\n| K3 | 100 | 6 | ₹12,000 |\n| K4 | 170 | 3 | ₹4,200 |\n| K5 | 400 | 1 | ₹800 |\n\nThe average customer gives a gross margin of ₹3,500 a year; retention is 70% and acquisition cost (CAC) is ₹2,800. A tier-upgrade offer was sent to all 8,000 members at a cost of ₹5,00,000; a holdout group received nothing. Members averaged 3.4 visits in the quarter and the holdout 3.1. Margin per visit is ₹180.\n\n(a) Compute R, F, M and the total for each member. (4)\n(b) Name the segment of each member and recommend one programme for each. (3)\n(c) Compute simple CLV and the CLV to CAC ratio now, and with retention raised to 80%. (3)\n(d) Was the tier-upgrade offer incremental and profitable? Recommend what to do. (5)",
+    "model_answer": "**(a) RFM scores**\n\n| Member | R | F | M | Total |\n|---|---|---|---|---|\n| K1 | 5 | 5 | 5 | **15** |\n| K2 | 4 | 4 | 4 | **12** |\n| K3 | 3 | 3 | 3 | **9** |\n| K4 | 2 | 2 | 2 | **6** |\n| K5 | 1 | 1 | 1 | **3** |\n\n**(b) Segments and programmes**\n- **K1 VIP:** loyalty and VIP perks, private previews.\n- **K2 loyal:** cross-sell and tier-upgrade offers.\n- **K3 growth prospect:** nudge frequency and basket size with cross-sell.\n- **K4 lapsing:** win-back offer now.\n- **K5 effectively lost:** a low-cost win-back only; do not spend heavily.\n\n**(c) CLV**\n- Now: lifetime = 1 ÷ (1 - 0.70) = 3.33 years; CLV = 3,500 x 3.33 = **₹11,666.67**; CLV : CAC = 4.17 : 1.\n- At 80%: lifetime = 5 years; CLV = **₹17,500**; CLV : CAC = **6.25 : 1**, a rise of **50%**.\n\n**(d) Incrementality**\n1. Lift = 3.4 - 3.1 = 0.3 visits per member = 9.68% over the holdout.\n2. Incremental visits = 0.3 x 8,000 = **2,400**.\n3. Incremental margin = 2,400 x ₹180 = **₹432,000**, against cost ₹5,00,000: a **loss of ₹68,000**.\n\n**Decision and interpretation.** The offer lifts behaviour but does not pay for itself, even though participation looks healthy. Judge CRM on incremental behaviour, not enrolment. Recommend: stop blanket offers; target the tier upgrade at K2 and K3 type customers (high potential to move up), use cheaper win-back for K4 and K5, and re-test with a holdout. Because retention drives CLV, the programme may still be worth keeping if a retention gain from 70% to 80% is proven, but one quarter of visits does not show that.",
+    "marking_scheme": [
+      {
+        "point": "Correct RFM scores and totals",
+        "marks": 4
+      },
+      {
+        "point": "Segment names and programmes",
+        "marks": 3
+      },
+      {
+        "point": "CLV now and at 80%, CLV:CAC",
+        "marks": 3
+      },
+      {
+        "point": "Incremental visits, margin and loss",
+        "marks": 3
+      },
+      {
+        "point": "Interpretation (incremental versus enrolment) and recommendation",
+        "marks": 2
+      }
+    ]
+  }
+]

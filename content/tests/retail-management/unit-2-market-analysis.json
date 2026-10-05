@@ -1,0 +1,722 @@
+[
+  {
+    "id": "MA-1-01",
+    "node": "MA-1",
+    "unit": "Retail Management Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "The process of dividing a broad market of existing and potential customers into sub-groups with shared characteristics is called:",
+    "options": [
+      "A) retail mix",
+      "B) retail format",
+      "C) market segmentation",
+      "D) target market"
+    ],
+    "answer": "C",
+    "explanation": "C) is correct: segmentation is the process; the tempting error is treating it as the same thing as the target market, which is its outcome. A) is wrong: the retail mix (marketing sense) is the combination of variety, layout, pricing and service used to attract customers. B) is wrong: a format is the retailer's operating blueprint (mix of merchandise, price, design, location, service). D) is wrong: the target market is the segment the retailer chooses to serve; segmentation is the dividing process."
+  },
+  {
+    "id": "MA-1-02",
+    "node": "MA-1",
+    "unit": "Retail Management Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "According to the target-market-to-format table, which format best suits business customers making bulk purchases?",
+    "options": [
+      "A) convenience store or kirana",
+      "B) specialty store or luxury boutique",
+      "C) cash and carry or wholesale club",
+      "D) hypermarket or warehouse club for families"
+    ],
+    "answer": "C",
+    "explanation": "C) is correct: business customers buying in bulk match cash and carry or wholesale clubs; the near-miss is the warehouse club listed for family shoppers. A) is wrong: these suit convenience seekers who make quick purchases. B) is wrong: these suit premium, niche customers. D) is wrong: hypermarkets and warehouse clubs fit family shoppers; business customers (B2B) are matched to cash and carry and wholesale clubs."
+  },
+  {
+    "id": "MA-2-01",
+    "node": "MA-2",
+    "unit": "Retail Management Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "A discount chain opens stores in three new states, selling the same product range it already sells. On the Ansoff matrix this is:",
+    "options": [
+      "A) market penetration",
+      "B) diversification",
+      "C) market development",
+      "D) product development"
+    ],
+    "answer": "C",
+    "explanation": "C) is correct: existing products in new markets is market development (the slide's DMart example). A) is wrong: penetration sells more existing products to existing customers; here the markets are new. B) is wrong: diversification needs both new products and new markets. D) is wrong: product development means new products for existing customers; the products here are unchanged."
+  },
+  {
+    "id": "MA-2-02",
+    "node": "MA-2",
+    "unit": "Retail Management Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "In the strategic retail planning process, which step comes immediately after the SWOT analysis?",
+    "options": [
+      "A) Define mission and vision",
+      "B) Identify the target market",
+      "C) Set objectives",
+      "D) Select retail strategy"
+    ],
+    "answer": "C",
+    "explanation": "C) is correct: the order is mission, SWOT, objectives, target market, strategy, resources, implementation, evaluation; objectives follow SWOT. Placing target market before objectives is the common slip. A) is wrong: mission and vision is step 1, before SWOT. B) is wrong: target market is step 4; objectives (step 3) come first. D) is wrong: strategy selection is step 5, after objectives and target market."
+  },
+  {
+    "id": "MA-3-01",
+    "node": "MA-3",
+    "unit": "Retail Management Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "In the corrected VRIN test of a competitive advantage, the letter N stands for:",
+    "options": [
+      "A) non-substitutable",
+      "B) non-seasonal",
+      "C) necessary for customers",
+      "D) can the organisation exploit it"
+    ],
+    "answer": "A",
+    "explanation": "A) is correct: VRIN = Valuable, Rare, Inimitable, Non-substitutable; 'can the organisation exploit it' belongs to VRIO. B) is wrong: this is not part of the test. C) is wrong: this is not part of the test. D) is wrong: that is the O of the related VRIO test (Organised to capture value), which the student note merged into VRIN."
+  },
+  {
+    "id": "MA-3-02",
+    "node": "MA-3",
+    "unit": "Retail Management Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "\"Swiftcart (fictional)\" wins customers with 10-minute delivery from a dense network of dark stores and a frictionless app. Which generic positioning option is this?",
+    "options": [
+      "A) cost leadership and scale",
+      "B) stuck in the middle",
+      "C) differentiation and experiential retail",
+      "D) fulfilment and omnichannel speed (convenience-driven)"
+    ],
+    "answer": "D",
+    "explanation": "D) is correct: proximity, rapid delivery and app integration define the convenience-driven option (the slide's Blinkit and Zepto pattern). A) is wrong: cost leadership relies on operational frugality, inventory turns and everyday low prices; dense dark stores carry high fixed cost. B) is wrong: this describes a firm that commits to none of the three; Swiftcart clearly commits to speed. C) is wrong: differentiation relies on in-store experience and curated lines, not delivery speed."
+  },
+  {
+    "id": "MA-4-01",
+    "node": "MA-4",
+    "unit": "Retail Management Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A neighbourhood supermarket loses weekly top-up trips to quick-commerce apps. Which level of competition is this?",
+    "options": [
+      "A) channel or vertical competition",
+      "B) no competition, since apps do not hold store stock",
+      "C) intra-type competition",
+      "D) inter-type competition"
+    ],
+    "answer": "A",
+    "explanation": "A) is correct: different selling mediums (offline store versus quick commerce) is channel competition, the newest and fastest-growing level. B) is wrong: apps compete on fulfilment speed and convenience, which is the channel level. C) is wrong: intra-type means retailers of the same format; apps are a different selling medium. D) is wrong: inter-type means different store formats selling similar categories, such as a specialty store against a hypermarket section."
+  },
+  {
+    "id": "MA-4-02",
+    "node": "MA-4",
+    "unit": "Retail Management Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "In Porter's Five Forces applied to retail in the notes, which force is rated moderate to low?",
+    "options": [
+      "A) threat of substitutes",
+      "B) rivalry among existing competitors",
+      "C) bargaining power of suppliers",
+      "D) bargaining power of buyers"
+    ],
+    "answer": "C",
+    "explanation": "C) is correct: large chains hold scale leverage over FMCG brands, so supplier power is moderate to low (it flips high for must-stock brands). A) is wrong: substitutes are rated high. B) is wrong: rivalry is rated very high. D) is wrong: buyer power is rated very high because of price transparency and low switching costs."
+  },
+  {
+    "id": "MA-5-01",
+    "node": "MA-5",
+    "unit": "Retail Management Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A category has sales Rs. 10.0 crore, COGS Rs. 7.6 crore, opening inventory Rs. 0.7 crore and closing inventory Rs. 0.9 crore (inventory at cost). Its GMROI is:",
+    "options": [
+      "A) 12.5",
+      "B) 2.67",
+      "C) 24.0",
+      "D) 3.0"
+    ],
+    "answer": "D",
+    "explanation": "D) is correct: gross margin = 10.0-7.6 = 2.4; average inventory = (0.7+0.9)/2 = 0.8; GMROI = 2.4/0.8 = 3.0. A) is wrong: this divides sales (at retail) by average inventory at cost, a unit mismatch that is not GMROI. B) is wrong: this divides gross margin by closing inventory instead of average inventory. C) is wrong: this is the gross margin percentage; GMROI is a ratio of margin to inventory at cost."
+  },
+  {
+    "id": "MA-5-02",
+    "node": "MA-5",
+    "unit": "Retail Management Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A store has sales Rs. 12 crore, COGS Rs. 9 crore, opening inventory Rs. 1.0 crore and closing inventory Rs. 1.4 crore, both at cost. Its inventory turnover is:",
+    "options": [
+      "A) 9.0 times",
+      "B) 7.5 times",
+      "C) 10.0 times",
+      "D) 6.43 times"
+    ],
+    "answer": "B",
+    "explanation": "B) is correct: turnover = COGS / average inventory at cost = 9/1.2 = 7.5 times. A) is wrong: this uses opening inventory only instead of the average. C) is wrong: this divides sales by cost inventory, mixing retail and cost valuation. D) is wrong: this uses closing inventory instead of the average."
+  },
+  {
+    "id": "MA-5-03",
+    "node": "MA-5",
+    "unit": "Retail Management Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Two stores sold Rs. 40 crore last year and Rs. 44 crore this year. A third store opened this year and sold Rs. 6 crore. The same-store sales growth is:",
+    "options": [
+      "A) 9.1%",
+      "B) 10.0%",
+      "C) 25.0%",
+      "D) 15.0%"
+    ],
+    "answer": "B",
+    "explanation": "B) is correct: SSSG counts only stores open in both periods: (44-40)/40 = 10.0%. A) is wrong: this divides the increase by this year's sales instead of last year's. C) is wrong: this is total growth, which includes the new store. D) is wrong: this is the new store's sales as a share of last year's comparable sales, not growth."
+  },
+  {
+    "id": "MA-5-04",
+    "node": "MA-5",
+    "unit": "Retail Management Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A store of 8,000 sq. ft. pays rent of Rs. 60 per sq. ft. per month and has annual sales of Rs. 6 crore. Its rent-to-sales ratio is:",
+    "options": [
+      "A) 57.6%",
+      "B) 9.6%",
+      "C) 0.8%",
+      "D) 10.4%"
+    ],
+    "answer": "B",
+    "explanation": "B) is correct: annual rent = 60 x 8,000 x 12 = Rs. 57.6 lakh; ratio = 57.6/600 = 9.6%. A) is wrong: this reads the annual rent in lakh as a percentage without dividing by sales. C) is wrong: this compares one month's rent per sq. ft. with annual sales per sq. ft.; rent must be annualised. D) is wrong: this inverts the ratio (sales/rent in lakh divided by 100), not rent/sales."
+  },
+  {
+    "id": "MA-6-01",
+    "node": "MA-6",
+    "unit": "Retail Management Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "Tracking competitors' prices and new product launches belongs to which RMIS component?",
+    "options": [
+      "A) marketing research",
+      "B) internal records",
+      "C) marketing intelligence",
+      "D) decision support system"
+    ],
+    "answer": "C",
+    "explanation": "C) is correct: information about competitors and market trends is marketing intelligence; mistaking components for sources is a common error. A) is wrong: marketing research gathers customer-specific information through surveys and focus groups. B) is wrong: internal records hold the retailer's own sales, inventory and billing data. D) is wrong: the DSS analyses data for decisions such as forecasting; it does not collect competitor information."
+  },
+  {
+    "id": "MA-6-02",
+    "node": "MA-6",
+    "unit": "Retail Management Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A retailer must decide where to open a new store. Which retail market research domain should come first?",
+    "options": [
+      "A) category and assortment research",
+      "B) shopper and store behaviour research",
+      "C) pricing and elasticity research",
+      "D) location and site research"
+    ],
+    "answer": "D",
+    "explanation": "D) is correct: site choice needs spatial analysis (gravity models, footfall heatmaps, census and GIS), so location research comes first. A) is wrong: this guides SKU depth, private-label launches and category management. B) is wrong: this optimises aisle flow and planograms inside an existing store. C) is wrong: this guides markdown timing and promotions, not site choice."
+  },
+  {
+    "id": "MA-7-01",
+    "node": "MA-7",
+    "unit": "Retail Management Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Which investment is primarily a phygital (front-end experience) investment rather than an omnichannel (backend) one?",
+    "options": [
+      "A) AR try-on mirrors in stores",
+      "B) a customer data platform linking all channels",
+      "C) a single stock database for stores and app",
+      "D) real-time linking of ERP, POS and CRM"
+    ],
+    "answer": "A",
+    "explanation": "A) is correct: AR try-ons, smart mirrors and interactive store interfaces blend physical and digital in the front end, which is phygital. B) is wrong: a unified data layer or CDP is the omnichannel enabler. C) is wrong: unified inventory is an omnichannel backend feature. D) is wrong: this systemic integration is the omnichannel backend."
+  },
+  {
+    "id": "MA-7-02",
+    "node": "MA-7",
+    "unit": "Retail Management Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "hard",
+    "question": "An app has 8,000 orders a month with a 15% return rate, and each return costs Rs. 150 to process. An AR try-on feature costs Rs. 45,000 a month and is expected to cut returns to 10%. The monthly net benefit from return handling is:",
+    "options": [
+      "A) Rs. 60,000",
+      "B) Rs. 15,000",
+      "C) Rs. 105,000",
+      "D) Rs. 135,000"
+    ],
+    "answer": "B",
+    "explanation": "B) is correct: returns fall from 1,200 to 800, so 400 fewer returns x Rs. 150 = Rs. 60,000; less AR cost Rs. 45,000 = Rs. 15,000. A) is wrong: this is the gross saving; the AR cost has not been deducted. C) is wrong: this adds the AR cost to the saving instead of deducting it. D) is wrong: this treats all current returns as saved rather than only the 5-percentage-point reduction."
+  },
+  {
+    "id": "MA-1-03",
+    "node": "MA-1",
+    "unit": "Retail Management Unit 2",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "A retailer plans a store for health-conscious, high-income urban households who want organic and healthy products. Define target market and segmentation, recommend a format using the fit tables, and describe the four characteristics that define it.",
+    "model_answer": "**Definitions.** *Market segmentation* is dividing a broad market into sub-groups with shared characteristics (textbook bases: geographic, demographic, psychographic, behavioural). A *target market* is the specific group the retailer chooses to serve. A *retail format* is the blueprint: mix of merchandise and services, pricing, store design, location and service. The principle: **format follows target market.**\n\n**Segment here:** demographic (high income, urban) plus psychographic (health-conscious).\n\n**Fit table.** Health-conscious customers match an organic store, pharmacy or health store (the notes' examples are Nature's Basket and Organic World); a premium market matches a specialty store or boutique.\n\n| Characteristic | Recommended choice | Reason |\n|---|---|---|\n| Size and layout | compact specialty store, free-flow/boutique layout | leisurely exploration and brand visibility |\n| Width and depth | narrow and deep in organic and health lines | specialty store pattern |\n| Customer service | assisted or personalised service | product advice builds trust |\n| Pricing | value-based or premium pricing | premium segment |\n\n**Decision and interpretation:** an organic specialty store with assisted service and premium pricing. Using hypermarket-style EDLP and self-service would contradict the segment's expectations.",
+    "marking_scheme": [
+      {
+        "point": "Definitions of segmentation, target market, format",
+        "marks": 1.5
+      },
+      {
+        "point": "Segment identification and fit-table match",
+        "marks": 1.5
+      },
+      {
+        "point": "Four characteristics applied",
+        "marks": 1.5
+      },
+      {
+        "point": "Decision with interpretation",
+        "marks": 0.5
+      }
+    ]
+  },
+  {
+    "id": "MA-2-03",
+    "node": "MA-2",
+    "unit": "Retail Management Unit 2",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Classify each move on the Ansoff matrix and rank by risk (illustrative): (a) a supermarket chain launches a coupon campaign for its current shoppers; (b) it opens stores in a neighbouring state with the same range; (c) it adds a private-label bakery range to its existing stores; (d) it starts an unrelated mobile-recharge and loan business.",
+    "model_answer": "**Method:** for each move ask whether the products are new and whether the markets are new.\n\n| Move | Product | Market | Quadrant | Risk rank |\n|---|---|---|---|---|\n| (a) coupons for current shoppers | existing | existing | market penetration | 1 (lowest) |\n| (b) neighbouring state | existing | new | market development | 2 or 3 |\n| (c) private-label bakery | new | existing | product development | 2 or 3 |\n| (d) recharge and loan business | new | new | diversification | 4 (highest) |\n\n**Decision:** pursue (a) first, then (b) and (c) in the order capability allows, and avoid (d) for now. **Interpretation:** penetration and development build on existing capabilities, while diversification needs new competencies and carries the highest failure risk. The matrix does not rank (b) against (c); call both medium and justify with the firm's strengths.",
+    "marking_scheme": [
+      {
+        "point": "2 x 2 matrix logic stated",
+        "marks": 1
+      },
+      {
+        "point": "Correct quadrant for each move",
+        "marks": 2
+      },
+      {
+        "point": "Risk ranking",
+        "marks": 1
+      },
+      {
+        "point": "Decision and interpretation",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "MA-3-03",
+    "node": "MA-3",
+    "unit": "Retail Management Unit 2",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "\"Cedar Fresh (fictional)\" claims two advantages: (i) a 10% discount every Tuesday; (ii) a five-year exclusive contract with an organic farm cooperative supplying fresh produce to its stores only. Test each using the VRIN test and conclude.",
+    "model_answer": "**VRIN:** Valuable, Rare, Inimitable (hard to imitate), Non-substitutable.\n\n| Test | (i) Tuesday discount | (ii) Exclusive farm contract |\n|---|---|---|\n| Valuable | Yes, drives traffic | Yes, quality and freshness |\n| Rare | No, most chains run offers | Yes, only Cedar Fresh has the supply |\n| Inimitable | No, copied within weeks | Largely yes, protected by the contract |\n| Non-substitutable | No, rivals use other discounts | Partly: rivals can find other organic produce, so the differentiation must be marketed |\n\n**Decision:** (i) is **competitive parity**, not a sustainable advantage; (ii) is a **candidate SCA** because it is valuable, rare and hard to copy. **Interpretation:** durable advantage needs a structural source (exclusive or private-label product, supply chain, technology) beneath a visible tactic like discounts; the contract should be stacked with brand and service, and its five-year term means the advantage must be renewed or replaced.",
+    "marking_scheme": [
+      {
+        "point": "VRIN stated correctly with N = non-substitutable",
+        "marks": 1
+      },
+      {
+        "point": "Test applied to (i)",
+        "marks": 1.5
+      },
+      {
+        "point": "Test applied to (ii)",
+        "marks": 1.5
+      },
+      {
+        "point": "Conclusion with interpretation",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "MA-4-03",
+    "node": "MA-4",
+    "unit": "Retail Management Unit 2",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "A premium electronics specialty chain (fictional) sees online marketplaces cutting prices and offering fast delivery. Apply Porter's Five Forces to its position and recommend a response.",
+    "model_answer": "| Force | Rating | Evidence |\n|---|---|---|\n| Rivalry | very high | price wars, thin margins, low switching costs |\n| Buyer power | very high | online price transparency makes switching free |\n| Supplier power | moderate to low (higher for must-stock brands) | brand makers also sell through the marketplaces; but large chains hold scale leverage |\n| New entrants | moderate to high | online and D2C entry needs little capital |\n| Substitutes | high | marketplaces, D2C websites and quick-commerce replace store visits |\n\n**Decision:** the most urgent force is **substitutes** (channel competition), compounded by buyer power. **Interpretation:** the chain cannot win on price alone. It should move towards omnichannel and experiential retail (demos, expert advice, assisted service), push exclusive or private-label lines, and use scale to protect supplier terms; it must also monitor channel rivals, not only other chains, to avoid competitive myopia.",
+    "marking_scheme": [
+      {
+        "point": "Five forces rated with intensity",
+        "marks": 2
+      },
+      {
+        "point": "Evidence for each in the case",
+        "marks": 1
+      },
+      {
+        "point": "Most urgent force identified",
+        "marks": 1
+      },
+      {
+        "point": "Recommended response and interpretation",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "MA-5-05",
+    "node": "MA-5",
+    "unit": "Retail Management Unit 2",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "hard",
+    "question": "A store reports, for the year (Rs. crore): Dairy - sales 6.0, COGS 5.1, average inventory at cost 0.17; Apparel - sales 4.0, COGS 2.4, average inventory 1.0; Home - sales 3.0, COGS 2.1, average inventory 0.6. Compute gross margin %, inventory turnover and GMROI for each and recommend where to allocate space.",
+    "model_answer": "**Formulas:** gross margin = sales - COGS; turnover = COGS / average inventory at cost; GMROI = gross margin / average inventory at cost (check: turnover x margin/COGS).\n\n| Category | Gross margin (Rs. crore) | GM % | Turnover | GMROI |\n|---|---|---|---|---|\n| Dairy | 0.9 | 15.0% | 30.0 | **5.29** |\n| Apparel | 1.6 | 40.0% | 2.4 | **1.60** |\n| Home | 0.9 | 30.0% | 3.5 | **1.50** |\n\nCheck for Dairy: 30.0 x (0.9/5.1) = 5.29.\n\n**Decision:** give more space and inventory budget to dairy, and tighten apparel and home stock. **Interpretation:** apparel has the best margin (40%) but ties up Rs. 1.0 crore of stock and earns only Rs. 1.60 per Re. 1 of inventory; dairy's thin 15% margin is overcome by 30 turns. Ranking by margin % alone would have misled the buyer. Whether a GMROI is good depends on the retailer's hurdle and peers.",
+    "marking_scheme": [
+      {
+        "point": "Formulas stated",
+        "marks": 1
+      },
+      {
+        "point": "Gross margin and turnover correct",
+        "marks": 1.5
+      },
+      {
+        "point": "GMROI correct for all three",
+        "marks": 1.5
+      },
+      {
+        "point": "Decision and interpretation",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "MA-5-06",
+    "node": "MA-5",
+    "unit": "Retail Management Unit 2",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "A loyalty drive spends Rs. 1,20,00,000 and wins 6,000 customers. Each customer gives annual gross profit of Rs. 1,500 for an expected 4 years. Compute CAC, the simple CLV and CLV/CAC, then the discounted CLV at 10% (annuity factor for 4 years = 3.170). Comment.",
+    "model_answer": "- **CAC** = 1,20,00,000 / 6,000 = **Rs. 2,000**.\n- **Simple CLV** = 1,500 x 4 = **Rs. 6,000**; CLV/CAC = 6,000/2,000 = **3.0**.\n- **Discounted CLV** = 1,500 x 3.170 = **Rs. 4,755**; CLV/CAC = 4,755/2,000 = **2.38**.\n\n**Decision and interpretation:** the drive just meets a common 3:1 rule of thumb on the simple basis but falls to about 2.4 once discounted, so the return is thin **[VERIFY: 3:1 is a marketing heuristic, not on the slides]**. CLV must meaningfully exceed CAC; raise retention (longer life) or cut acquisition cost before scaling.",
+    "marking_scheme": [
+      {
+        "point": "CAC",
+        "marks": 1
+      },
+      {
+        "point": "Simple CLV and ratio",
+        "marks": 1.5
+      },
+      {
+        "point": "Discounted CLV and ratio",
+        "marks": 1.5
+      },
+      {
+        "point": "Decision and interpretation",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "MA-6-03",
+    "node": "MA-6",
+    "unit": "Retail Management Unit 2",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "A store's POS shows sales in one category fell from Rs. 20.0 crore to Rs. 19.0 crore. A syndicated audit shows the category in its catchment fell from Rs. 400 crore to Rs. 360 crore. List the four RMIS components, then diagnose using both data sources.",
+    "model_answer": "**RMIS components:** internal records (store performance data), marketing intelligence (competitors and trends), marketing research (customer-specific information), decision support system (analyses data for decisions).\n\n**Triangulation (market share = own sales / category sales):**\n\n| Item | Last year | This year | Change |\n|---|---|---|---|\n| Own sales (POS, internal), Rs. crore | 20.0 | 19.0 | -5.0% |\n| Category market (audit, external), Rs. crore | 400 | 360 | -10.0% |\n| Market share | 5.00% | 5.28% | +0.28 points |\n\n**Decision:** the decline is a **category downturn, not a company-specific failure**; the store is gaining share. **Interpretation:** POS alone would suggest failure, while the external audit shows outperformance. Protect share, manage stock for a shrinking category with the DSS, and do not cut service. A complete RMIS needs both internal records and external data.",
+    "marking_scheme": [
+      {
+        "point": "Four RMIS components",
+        "marks": 1.5
+      },
+      {
+        "point": "Own change, market change and share computed",
+        "marks": 2
+      },
+      {
+        "point": "Diagnosis",
+        "marks": 1
+      },
+      {
+        "point": "Interpretation (need both sources)",
+        "marks": 0.5
+      }
+    ]
+  },
+  {
+    "id": "MA-7-03",
+    "node": "MA-7",
+    "unit": "Retail Management Unit 2",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "Differentiate multichannel, omnichannel and phygital retailing in a table, and explain why RFID and smart shelving are called a bridge between omnichannel and phygital.",
+    "model_answer": "| Dimension | Multichannel | Omnichannel | Phygital |\n|---|---|---|---|\n| Core philosophy | multiple independent sales channels | unifies all channels into one journey | blends physical environments with digital technology |\n| Integration focus | low, siloed (store stock differs from app stock) | high, systemic (ERP, POS, CRM linked in real time) | experiential (sensory, interactive interfaces) |\n| Customer journey | fragmented | seamless | immersive |\n| Primary enabler | basic e-commerce plus stores | unified data layer or CDP | IoT, AR/VR, RFID, smart mirrors |\n\nCore idea: omnichannel is a **systems and data problem** (backend); phygital is a **customer-experience design problem** (front end).\n\n**RFID bridge:** RFID and smart shelving give real-time inventory visibility (the omnichannel backend) and a frictionless, interactive store (the phygital front end), reducing stock-outs and shrinkage. **Interpretation:** treat the two as separate investment tracks and fix the invisible backend first; otherwise customers see the gadget and then meet stock-outs or inconsistent prices.",
+    "marking_scheme": [
+      {
+        "point": "Table of three models",
+        "marks": 2.5
+      },
+      {
+        "point": "Backend versus front-end idea",
+        "marks": 0.5
+      },
+      {
+        "point": "RFID bridge explained",
+        "marks": 1.5
+      },
+      {
+        "point": "Investment-order interpretation",
+        "marks": 0.5
+      }
+    ]
+  },
+  {
+    "id": "MA-4-04",
+    "node": "MA-4",
+    "unit": "Retail Management Unit 2",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "medium",
+    "question": "Apply Porter's Five Forces to retailing and explain strategic group analysis. Four retailers are scored (price/quality, assortment width, 1-10): P (3, 9), Q (4, 8), R (8, 3), S (6, 4). Group them and identify white space. (Scores are the examiner's illustrative judgement.)",
+    "model_answer": "**Five Forces in retail.**\n\n| Force | Intensity | Key drivers | Strategic impact |\n|---|---|---|---|\n| Rivalry | very high | low switching costs, saturation, thin margins | price wars, loyalty programmes, network expansion |\n| Buyer power | very high | price transparency, abundant options | value propositions, experience, private labels |\n| Supplier power | moderate to low | scale leverage over FMCG brands; niche suppliers stronger | slotting fees, trade margins, credit terms |\n| New entrants | moderate to high | low online barriers, high capital for physical chains | moats: prime real estate, supply chain, technology |\n| Substitutes | high | D2C sites, quick commerce, rental platforms | pivot to omnichannel and experiential retail |\n\n**Reading:** very high rivalry plus very high buyer power squeeze margins from both sides; moderate-to-low supplier power is the one force working for retailers; substitutes are the most urgent because they threaten the format itself.\n\n**Strategic group analysis.** Axes: x = price/quality positioning, y = assortment width. Retailers in the same region form a strategic group and compete most directly. It reveals the most dangerous rivals, white space and mobility barriers (brand perception, supply chain, real estate). Limitation: two dimensions leave out service, technology and brand equity.\n\n**Application.** P (3, 9) and Q (4, 8) sit close together: a broad value group, direct rivals (intra-type). R (8, 3) is a narrow premium player and S (6, 4) a narrow mid-priced specialist; both are far from P and Q, so they do not compete directly. **White space:** nothing sits at high price/quality with broad assortment (top right), so a premium full-range store would face no group rival.\n\n**Interpretation.** P moving into the white space would face mobility barriers (a low-price brand image, a volume-tuned supply chain). Scores are assumptions, not data, and should be stated as such.",
+    "marking_scheme": [
+      {
+        "point": "Five Forces table with intensity, drivers, impact",
+        "marks": 3.5
+      },
+      {
+        "point": "Reading and most urgent force",
+        "marks": 1.5
+      },
+      {
+        "point": "Strategic group method, uses and limitation",
+        "marks": 2
+      },
+      {
+        "point": "Grouping of P, Q, R, S and white space",
+        "marks": 2
+      },
+      {
+        "point": "Interpretation (mobility barriers)",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "MA-2-04",
+    "node": "MA-2",
+    "unit": "Retail Management Unit 2",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "medium",
+    "question": "Explain the strategic retail planning process and growth strategies. Use the eight steps, the Ansoff matrix with retail examples, and the areas of retail operations management.",
+    "model_answer": "**Eight-step process (long-term, iterative).**\n1. Define mission and vision. 2. Conduct SWOT analysis. 3. Set objectives (SMART). 4. Identify the target market. 5. Select retail strategy. 6. Allocate resources. 7. Implement the strategy (retail mix: location, merchandise, pricing, promotion, service). 8. Evaluate and control performance, which feeds back into steps 3 and 5.\nSlide example: a supermarket picks young families as its target (step 4) and plans promotions for them (step 7). SWOT prevents over-optimistic goals; jumping from mission to strategy is a common failure.\n\n**Ansoff matrix (growth strategies).**\n\n| | Existing products | New products |\n|---|---|---|\n| Existing markets | Market penetration (lowest risk) | Product development |\n| New markets | Market development | Diversification (highest risk) |\n\nExamples: DMart opening stores in new cities = market development; Apple launching a new iPhone = product development; a grocer launching unrelated financial services = diversification. Sequence growth from lower to higher risk.\n\n**Operations management (the daily version of step 7), seven areas:** inventory management; store layout and visual merchandising; customer service; billing and POS; staff scheduling and training; supply chain coordination; performance monitoring (KPIs such as sales, footfall, conversion). Example: Reliance Smart keeps shelves stocked, staff available and billing quick.\n\n**Link and conclusion.** The KPIs of the performance-metrics node are the control tools of step 8. A weakness in one operations area (say scheduling) spills into others (service, billing), so strategy succeeds only if operations execute it.",
+    "marking_scheme": [
+      {
+        "point": "Eight steps with feedback loop and example",
+        "marks": 3
+      },
+      {
+        "point": "Ansoff matrix with correct quadrants and examples",
+        "marks": 3
+      },
+      {
+        "point": "Seven operations areas with example",
+        "marks": 2.5
+      },
+      {
+        "point": "Link to metrics and conclusion",
+        "marks": 1.5
+      }
+    ]
+  },
+  {
+    "id": "MA-3-04",
+    "node": "MA-3",
+    "unit": "Retail Management Unit 2",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "medium",
+    "question": "Explain how a retailer builds a sustainable competitive advantage and chooses its competitive positioning. Include sources with company examples, the VRIN test, and the three generic positioning options with their limitations.",
+    "model_answer": "**Definition.** A sustainable competitive advantage (SCA) lets a retailer outperform rivals over a long period through unique products, services or experiences that are hard to replicate. Retail needs it because entry barriers are low and imitation is quick. Core strategies: loyalty programmes, unique merchandise, superior service.\n\n**Sources with examples.**\n\n| Source | Example |\n|---|---|\n| Low cost | Walmart (supply chain, bulk buying), DMart (owned locations, essentials) |\n| Differentiation | IKEA (flat-pack, affordable style), Apple (premium experience) |\n| Technology and fast delivery | Amazon (Prime, AI, logistics) |\n| Fast supply chain | Zara (quick trend response) |\n| Private label | Decathlon, Costco's Kirkland Signature |\n| Loyalty and service | Starbucks Rewards, Amazon Prime |\n\nThe strongest firms **stack reinforcing advantages** (Amazon: technology, logistics and membership).\n\n**VRIN durability test.** Valuable, Rare, Inimitable, Non-substitutable. Loyalty programmes alone fail the test (rivals copy them); a durable advantage needs a structural source underneath.\n\n**Three generic positions.**\n\n| Option | Focus | Advantage | Limitation |\n|---|---|---|---|\n| Cost leadership and scale | low prices, high turns, procurement volume (DMart) | high volume, resilient to price wars | thin margins, vulnerable to lower-cost entrants |\n| Differentiation and experiential | experience, curated lines (Nature's Basket) | strong margins, loyal base | limited volume, premium perception can erode |\n| Fulfilment and omnichannel speed | proximity, rapid delivery (Blinkit, Zepto) | stickiness once habituated | high fixed logistics cost, unclear profitability |\n\n**Stuck in the middle.** A firm that commits to none risks being neither cheapest, most differentiated nor fastest; choose early and reflect the choice in the whole retail mix (discount pricing with premium store design sends mixed signals).\n\n**Conclusion.** No advantage is permanent; pick one position, stack supporting sources and re-test them as technology and entrants change.",
+    "marking_scheme": [
+      {
+        "point": "SCA definition and why needed",
+        "marks": 1.5
+      },
+      {
+        "point": "Sources with examples",
+        "marks": 2
+      },
+      {
+        "point": "VRIN test correctly stated and applied",
+        "marks": 2
+      },
+      {
+        "point": "Three positions with limitations",
+        "marks": 3
+      },
+      {
+        "point": "Stuck in the middle and conclusion",
+        "marks": 1.5
+      }
+    ]
+  },
+  {
+    "id": "MA-6-04",
+    "node": "MA-6",
+    "unit": "Retail Management Unit 2",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "medium",
+    "question": "Explain the Retail Market Information System (RMIS). Describe its four components, the internal and external data sources, the four retail market research domains, and why internal and external data should be triangulated.",
+    "model_answer": "**RMIS.** A system that collects, stores, analyses and distributes information to help retailers decide on customers, products, pricing, inventory, competitors and sales.\n\n**Four components.**\n\n| Component | Purpose | Example |\n|---|---|---|\n| Internal records | store performance | daily sales, inventory, billing |\n| Marketing intelligence | competitors and trends | competitor pricing, launches |\n| Marketing research | customer-specific information | satisfaction surveys, focus groups |\n| Decision support system | analyses data for decisions | sales forecasting, demand prediction |\n\nInternal records are passive, intelligence and research active, the DSS analytical. The DSS turns data into decisions but creates no raw data.\n\n**Data sources.**\n- Internal: POS (SKU transactions, basket size), loyalty and CRM (purchase history, CLV, RFM), web and app analytics (click-through, cart abandonment), in-store sensors and Wi-Fi (footfall, dwell time).\n- External: syndicated audits (NielsenIQ, Kantar), industry reports, census and GIS data, competitive web scraping.\n\n**Research domains.**\n\n| Domain | Focus | Methods |\n|---|---|---|\n| Location and site | new store sites | gravity models, footfall heatmaps |\n| Shopper and store behaviour | movement and dwell | eye-tracking, video analytics, mystery shopping |\n| Pricing and elasticity | price sensitivity | conjoint analysis, A/B tests |\n| Category and assortment | SKU depth and width | brand tracking, basket analysis |\n\nMatch the domain to the decision (site choice needs location research; a margin problem needs pricing or category research).\n\n**Triangulation.** Internal data is accurate but silent on the market; external data gives context but is less granular and may lag. Example: own category sales down 5% while the audited market is down 10% means share is rising, a category downturn rather than a company problem. **Governance:** finer in-store tracking raises privacy questions.\n\n**Conclusion.** A complete RMIS needs all four components and both data types, with the DSS turning them into decisions.",
+    "marking_scheme": [
+      {
+        "point": "RMIS definition",
+        "marks": 1
+      },
+      {
+        "point": "Four components with purpose and example",
+        "marks": 2.5
+      },
+      {
+        "point": "Internal and external sources",
+        "marks": 2
+      },
+      {
+        "point": "Four research domains and decision matching",
+        "marks": 2
+      },
+      {
+        "point": "Triangulation with example and governance",
+        "marks": 2.5
+      }
+    ]
+  },
+  {
+    "id": "MA-8-01",
+    "node": "MA-8",
+    "unit": "Retail Management Unit 2",
+    "type": "case",
+    "marks": 15,
+    "difficulty": "hard",
+    "question": "**Lakeview Supermarkets (fictional)** runs two stores in a city. Quick-commerce apps have launched locally and the chain is considering its own app.\n\n| Item | North store | South store |\n|---|---|---|\n| Area (sq. ft.) | 16,000 | 8,000 |\n| Sales this year (Rs. crore) | 11.20 | 5.60 |\n| Sales last year (Rs. crore) | 10.00 | 5.20 |\n| COGS (Rs. crore) | 8.40 | 4.48 |\n| Opening / closing inventory at cost (Rs. crore) | 1.10 / 1.30 | 0.90 / 1.10 |\n| Rent (Rs. per sq. ft. per month) | 35 | 70 |\n| Book / physical inventory (Rs. crore) | 1.300 / 1.274 | 1.100 / 1.067 |\n\nApp project: CAC Rs. 1,200; annual gross profit per app customer Rs. 1,000; expected life 4 years; discount rate 10% (annuity factor for 4 years = 3.170).\n\n(a) Compute for each store: sales per sq. ft. a year, SSSG, inventory turnover, GMROI, rent-to-sales and shrinkage as a percentage of book inventory. (6)\n(b) Interpret and compare the stores across the four metric pillars. (4)\n(c) Recommend a positioning option, name the Five Forces issue and place the moves on the Ansoff matrix. (3)\n(d) Give two fixes with numbers for the weaker store and a decision on the app. (2)",
+    "model_answer": "**(a) Computation (6).** Formulas first (textbook): sales per sq. ft. = sales/area; SSSG = (this - last)/last; turnover = COGS/average inventory at cost; GMROI = gross margin/average inventory; rent-to-sales = annual rent/sales; shrinkage = (book - physical)/book.\n\n| Metric | North | South |\n|---|---|---|\n| Gross margin (Rs. crore, %) | 2.80 (25.0%) | 1.12 (20.0%) |\n| Sales per sq. ft. a year | **Rs. 7,000** | **Rs. 7,000** |\n| SSSG | (11.2-10.0)/10.0 = **12.0%** | (5.6-5.2)/5.2 = **7.7%** |\n| Average inventory (Rs. crore) | (1.10+1.30)/2 = 1.20 | (0.90+1.10)/2 = 1.00 |\n| Inventory turnover | 8.40/1.20 = **7.0** (52 days) | 4.48/1.00 = **4.48** (81 days) |\n| GMROI | 2.80/1.20 = **2.33** | 1.12/1.00 = **1.12** |\n| Annual rent (Rs. crore), rent-to-sales | 35 x 16,000 x 12 = 0.67; **6.0%** | 70 x 8,000 x 12 = 0.67; **12.0%** |\n| Shrinkage (of book inventory) | Rs. 2.6 lakh = **2.0%** | Rs. 3.3 lakh = **3.0%** |\n\nCheck: North 7.0 x (2.80/8.40) = 2.33; South 4.48 x (1.12/4.48) = 1.12.\n\n**(b) Interpretation (4).** Both stores have the same sales per sq. ft. (Rs. 7,000), yet North is much stronger: higher SSSG (12.0% against 7.7%), faster stock turn (52 against 81 days), GMROI 2.33 against 1.12, rent at 6% of sales against 12%, and lower shrinkage. **Decision:** North is the healthier model; South is a high-rent, slow-stock, thin-margin store whose problem is cost and inventory, not demand. **Interpretation:** sales per sq. ft. alone would have ranked the stores as equals, which is why no single metric tells the story.\n\n**(c) Strategy (3).** A chain with 20-25% margins and stock turns of 4.5-7 that tries both low price and service risks being **stuck in the middle**; commit to **convenient value** (cost-driven, with delivery from existing stores). Five Forces: the urgent force is **substitutes** (quick-commerce, channel competition) with very high buyer power. Ansoff: a new store in a new locality is **market development**; the own app serving current customers is **market penetration** (a new channel for existing customers), or product development if framed as a new service, so state the assumption.\n\n**(d) Recommendation (2).**\n- **Fix South first:** cut average inventory from Rs. 1.00 crore to Rs. 0.75 crore at the same sales and margin: turnover 4.48/0.75 = 5.97 and **GMROI 1.49**; renegotiate rent to Rs. 56 a sq. ft.: rent-to-sales falls to **9.6%**.\n- **App:** simple CLV = 1,000 x 4 = Rs. 4,000 (3.33 times CAC), but discounted CLV = 1,000 x 3.170 = Rs. 3,170, a ratio of **2.64**, below the common 3:1 rule of thumb **[VERIFY: heuristic]**. Approve a limited pilot only, and improve retention or cut CAC before scaling.\n\n*Figures are illustrative; GMROI and turnover should be benchmarked against peers.*",
+    "marking_scheme": [
+      {
+        "point": "(a) Formulas stated",
+        "marks": 1
+      },
+      {
+        "point": "(a) Sales per sq. ft., SSSG, turnover correct for both",
+        "marks": 2.5
+      },
+      {
+        "point": "(a) GMROI, rent-to-sales, shrinkage correct for both",
+        "marks": 2.5
+      },
+      {
+        "point": "(b) Comparison across pillars",
+        "marks": 2
+      },
+      {
+        "point": "(b) Decision and interpretation",
+        "marks": 2
+      },
+      {
+        "point": "(c) Positioning, Five Forces issue, Ansoff quadrants",
+        "marks": 3
+      },
+      {
+        "point": "(d) South fixes with numbers",
+        "marks": 1
+      },
+      {
+        "point": "(d) App decision with discounted CLV",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "MA-8-02",
+    "node": "MA-8",
+    "unit": "Retail Management Unit 2",
+    "type": "case",
+    "marks": 15,
+    "difficulty": "hard",
+    "question": "**Orchid Beauty (fictional)** is a specialty beauty chain with 40 stores and an app. The buyer reports annual figures for three categories (Rs. crore):\n\n| Category | Sales | COGS | Average inventory at cost |\n|---|---|---|---|\n| Skincare | 8.0 | 5.6 | 1.4 |\n| Makeup | 6.0 | 4.2 | 2.1 |\n| Hair care | 4.0 | 3.0 | 0.5 |\n\nPOS shows makeup sales fell from Rs. 6.4 crore to Rs. 6.0 crore; a syndicated audit of the same catchment shows the makeup category fell from Rs. 160 crore to Rs. 140 crore. Online, there are 6,000 orders a month and 20% are returned (mostly shade mismatches), each return costing Rs. 200 to process. An AR shade try-on feature would cost Rs. 60,000 a month and cut returns to 14%. Stock on the app is not linked to store stock. Rivals include marketplaces and quick-commerce apps.\n\n(a) Compute turnover and GMROI for each category and recommend a space decision. (5)\n(b) Diagnose the makeup sales decline using both data sources. (3)\n(c) Evaluate the AR project, classify it, and say what should come first. (4)\n(d) Recommend a positioning option and name the Five Forces issue. (3)",
+    "model_answer": "**(a) Metrics (5).** Gross margin = sales - COGS; turnover = COGS/average inventory; GMROI = gross margin/average inventory.\n\n| Category | Gross margin (Rs. crore) | GM % | Turnover | GMROI |\n|---|---|---|---|---|\n| Skincare | 2.4 | 30.0% | 4.0 | **1.71** |\n| Makeup | 1.8 | 30.0% | 2.0 | **0.86** |\n| Hair care | 1.0 | 25.0% | 6.0 | **2.00** |\n\n**Decision:** shift space and inventory budget towards hair care and skincare, and cut makeup depth (slowest turn at 2.0, GMROI 0.86, below Re. 1 of margin per Re. 1 of stock). **Interpretation:** makeup has the same 30% margin as skincare but holds twice the inventory per rupee of sales (2.1/6.0 against 1.4/8.0), so margin % alone would hide the problem; trim slow shades rather than discounting the whole range.\n\n**(b) Triangulation (3).** Own sales: 6.4 to 6.0 = **-6.25%**. Market: 160 to 140 = **-12.5%**. Share: 6.4/160 = **4.00%** to 6.0/140 = **4.29%**. **Decision:** a **category downturn, not a company-specific failure**; Orchid is gaining share. **Interpretation:** POS alone suggests failure; the external audit shows outperformance, so protect share and use the DSS to forecast a shrinking category, which supports cutting stock depth (part a) rather than cutting service.\n\n**(c) AR project (4).** Classification: **phygital** (front-end experience). Returns fall from 20% to 14% of 6,000 = 1,200 to 840, so 360 fewer returns x Rs. 200 = **Rs. 72,000** saving; net of Rs. 60,000 cost = **Rs. 12,000** a month. The project pays on return costs alone, but marginally. **Decision:** approve, but fund the **omnichannel backend first** (link app stock to store stock, one customer record). **Interpretation:** siloed stock will keep creating cross-channel failures that AR does not fix; the saving also ignores any sales lift, which is an assumption.\n\n**(d) Strategy (3).** Positioning: **differentiation and experiential retail** (curated range, advice, AR try-on) rather than competing on price with marketplaces. The most urgent force is **substitutes** (marketplaces and quick-commerce, channel competition), with very high buyer power. **Interpretation:** a specialty chain defends margin through experience and exclusive lines, and must watch channel rivals to avoid competitive myopia.\n\n*Figures are illustrative.*",
+    "marking_scheme": [
+      {
+        "point": "(a) Formulas and turnover correct",
+        "marks": 2
+      },
+      {
+        "point": "(a) GMROI correct and space decision",
+        "marks": 2
+      },
+      {
+        "point": "(a) Interpretation of margin versus GMROI",
+        "marks": 1
+      },
+      {
+        "point": "(b) Own and market change computed",
+        "marks": 1
+      },
+      {
+        "point": "(b) Share computed and diagnosis",
+        "marks": 1
+      },
+      {
+        "point": "(b) Interpretation",
+        "marks": 1
+      },
+      {
+        "point": "(c) Saving and net benefit computed",
+        "marks": 1.5
+      },
+      {
+        "point": "(c) Phygital classification and order of investment",
+        "marks": 1.5
+      },
+      {
+        "point": "(c) Interpretation",
+        "marks": 1
+      },
+      {
+        "point": "(d) Positioning option",
+        "marks": 1.5
+      },
+      {
+        "point": "(d) Five Forces issue with interpretation",
+        "marks": 1.5
+      }
+    ]
+  }
+]

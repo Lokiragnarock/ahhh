@@ -1,0 +1,718 @@
+[
+  {
+    "id": "MR-1-01",
+    "node": "MR-1",
+    "unit": "Retail Management Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "A footwear manufacturer sells shoes to individual buyers through its own website for their personal use. Under the scope rule in the faculty notes, this sale is:",
+    "options": [
+      "A) retailing, because the buyer is a final consumer buying for personal, non-business use",
+      "B) not retailing, because only shops owned by retailers can retail",
+      "C) wholesaling, because it is not made in a physical store",
+      "D) retailing only if the sale takes place inside a store"
+    ],
+    "answer": "A",
+    "explanation": "A) is correct: retailing is defined by the buyer (a final consumer), not by the seller, the method or the place. B) is wrong: the scope rule is buyer-based; it does not matter who sells. C) is wrong: wholesaling sells to resellers and business users; the place or medium does not decide the label. D) is wrong: the rule says it does not matter how or where the sale is made."
+  },
+  {
+    "id": "MR-1-02",
+    "node": "MR-1",
+    "unit": "Retail Management Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "Which of the following is one of the five ways in which retailers add value, as distinct from the four utilities?",
+    "options": [
+      "A) Possession",
+      "B) Breaking bulk",
+      "C) Place",
+      "D) Form"
+    ],
+    "answer": "B",
+    "explanation": "B) is correct: breaking bulk (turning a wholesaler's pallet into household-sized units) is one of the five value-adding activities; this is the tempting mix-up between the two lists. A) is wrong: possession is one of the four utilities (what the consumer gets), not one of the five value-adding activities. C) is wrong: place is a utility; the retailer's activity that produces it is, for example, holding inventory near the consumer. D) is wrong: form is a utility; it is an outcome, not one of the five activities."
+  },
+  {
+    "id": "MR-1-03",
+    "node": "MR-1",
+    "unit": "Retail Management Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A retailer offers instalment credit, easy checkout and a no-questions return policy. The utility these features mainly create is:",
+    "options": [
+      "A) possession utility",
+      "B) form utility",
+      "C) place utility",
+      "D) time utility"
+    ],
+    "answer": "A",
+    "explanation": "A) is correct: credit, checkout and returns help ownership pass smoothly to the consumer, which is possession utility. B) is wrong: form utility comes from pack sizes and assortment in the form the consumer wants. C) is wrong: place utility comes from convenient locations and delivery. D) is wrong: time utility comes from opening hours, replenishment and quick delivery."
+  },
+  {
+    "id": "MR-2-01",
+    "node": "MR-2",
+    "unit": "Retail Management Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "As per the FDI table in the notes, which retail activity is allowed up to 100% foreign investment under the automatic route?",
+    "options": [
+      "A) Both single-brand and multi-brand retail",
+      "B) None of them; all retail FDI needs approval",
+      "C) Single-brand product retailing",
+      "D) Multi-brand front-end retail"
+    ],
+    "answer": "C",
+    "explanation": "C) is correct: single-brand product retailing is 100% under the automatic route; the common error is applying that limit to multi-brand retail. A) is wrong: only single-brand (and wholesale cash and carry) is 100% automatic. B) is wrong: single-brand and cash and carry trading are on the automatic route. D) is wrong: multi-brand retail is capped at 51% and needs government approval."
+  },
+  {
+    "id": "MR-2-02",
+    "node": "MR-2",
+    "unit": "Retail Management Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A city's retail market is expected to grow from Rs. 2,000 crore to Rs. 2,662 crore over 3 years. The implied compound annual growth rate is:",
+    "options": [
+      "A) 11.0%",
+      "B) 3.3%",
+      "C) 10.0%",
+      "D) 33.1%"
+    ],
+    "answer": "C",
+    "explanation": "C) is correct: CAGR = (end/start)^(1/n) - 1 = (2662/2000)^(1/3) - 1 = 1.331^(1/3) - 1 = 10.0%. A) is wrong: that is the simple average of the 33.1% total growth over 3 years; it ignores compounding. B) is wrong: that divides the 33.1% total by 10 instead of compounding over 3 years. D) is wrong: that is the total growth over the whole period, not an annual rate."
+  },
+  {
+    "id": "MR-2-03",
+    "node": "MR-2",
+    "unit": "Retail Management Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "According to the slide text in the notes, the unorganised sector's share of Indian retail business is:",
+    "options": [
+      "A) less than 50%",
+      "B) about 12%",
+      "C) about 61%",
+      "D) more than 90%"
+    ],
+    "answer": "D",
+    "explanation": "D) is correct: the slide text puts unorganised retail at more than 90% of the business; organised is about 12% [slide conflict: the two figures are quoted as the slide gives them and add to more than 100%]. A) is wrong: unorganised retail is the large majority of the business. B) is wrong: that is the organised share today. C) is wrong: that is the 2035F traditional-retail share on the slide chart, not today's structure."
+  },
+  {
+    "id": "MR-3-01",
+    "node": "MR-3",
+    "unit": "Retail Management Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "A store sells 12 product categories with 50 SKUs in each category. Which statement is correct?",
+    "options": [
+      "A) Variety is 600 and assortment is 12",
+      "B) Variety is 12 categories, assortment is 50 items per category, and the store tracks 600 SKUs",
+      "C) Variety is 50 and assortment is 12",
+      "D) Variety is 12 and assortment is 600"
+    ],
+    "answer": "B",
+    "explanation": "B) is correct: variety = breadth (12 categories), assortment = depth (50 items per category), and 12 x 50 = 600 SKUs. A) is wrong: this reverses the meanings and wrongly treats SKUs as variety. C) is wrong: variety is breadth (number of categories) and assortment is depth; these are swapped. D) is wrong: assortment is depth within a category (50), not the total number of SKUs."
+  },
+  {
+    "id": "MR-3-02",
+    "node": "MR-3",
+    "unit": "Retail Management Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "What mainly distinguishes an off-price retailer from a discount store?",
+    "options": [
+      "A) It sells below regular prices",
+      "B) It sells only its own private-label goods",
+      "C) It operates a much larger store",
+      "D) It buys surplus, closeout and previous-season branded goods opportunistically, forgoing advertising allowances and return privileges"
+    ],
+    "answer": "D",
+    "explanation": "D) is correct: off-price buying is opportunistic (overruns, closeouts, irregulars), which allows 20-60% discounts; the tempting error is calling any discount store off-price. A) is wrong: discount stores also sell at low prices; low price alone does not separate the two. B) is wrong: off-price sells brand-name surplus; private label is not the defining feature. C) is wrong: size does not define off-price; its size band is smaller than a discount store."
+  },
+  {
+    "id": "MR-3-03",
+    "node": "MR-3",
+    "unit": "Retail Management Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A sports retailer carries a very narrow range of goods but an extremely deep assortment within it, and dominates the category at scale. It is best classified as a:",
+    "options": [
+      "A) specialty store",
+      "B) department store",
+      "C) supercentre",
+      "D) category specialist (category killer)"
+    ],
+    "answer": "D",
+    "explanation": "D) is correct: very narrow and extremely deep at scale defines a category killer; specialty store is the near-miss. A) is wrong: a specialty store is narrow and very deep but not the dominant category-scale format; the more precise answer is the category killer. B) is wrong: a department store is wide with moderate depth. C) is wrong: a supercentre is extremely wide, not very narrow."
+  },
+  {
+    "id": "MR-4-01",
+    "node": "MR-4",
+    "unit": "Retail Management Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "An empty seat on a flight cannot be stored and sold later. Which feature of services does this illustrate?",
+    "options": [
+      "A) Simultaneous production and consumption",
+      "B) Perishability",
+      "C) Inconsistency",
+      "D) Intangibility"
+    ],
+    "answer": "B",
+    "explanation": "B) is correct: unsold capacity is lost revenue because services cannot be stored: perishability. A) is wrong: this means the service is produced and consumed together; it does not describe lost unsold capacity. C) is wrong: inconsistency means quality varies between deliveries. D) is wrong: intangibility means the service cannot be seen or touched before purchase."
+  },
+  {
+    "id": "MR-4-02",
+    "node": "MR-4",
+    "unit": "Retail Management Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A buyer's monthly plan at retail value (Rs. lakh): planned sales 50, planned markdowns 5, planned end-of-month stock 36, planned beginning-of-month stock 30, stock already on order 14. The open-to-buy is:",
+    "options": [
+      "A) Rs. 47 lakh",
+      "B) Rs. 61 lakh",
+      "C) Rs. 42 lakh",
+      "D) Rs. 107 lakh"
+    ],
+    "answer": "A",
+    "explanation": "A) is correct: OTB = sales + markdowns + EOM stock - BOM stock - on order = 50+5+36-30-14 = 47. B) is wrong: this forgets to deduct stock already on order. C) is wrong: this leaves out planned markdowns. D) is wrong: this adds the beginning stock instead of deducting it."
+  },
+  {
+    "id": "MR-4-03",
+    "node": "MR-4",
+    "unit": "Retail Management Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "Which set correctly lists the 'rights' in the simple definition of merchandising?",
+    "options": [
+      "A) Right product, time, price, quantity and brand",
+      "B) Right product, place, time, price and quantity",
+      "C) Right product, promotion, place, price and people",
+      "D) Right product, place, time, price and supplier"
+    ],
+    "answer": "B",
+    "explanation": "B) is correct: the slide's definition: right product, at the right place, at the right time, at the right price and in the right quantity. A) is wrong: place is one of the five; brand is not. C) is wrong: this is a marketing-mix style list, not the merchandising definition. D) is wrong: the fifth right is quantity, not supplier."
+  },
+  {
+    "id": "MR-5-01",
+    "node": "MR-5",
+    "unit": "Retail Management Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A franchisee pays a one-time fee of Rs. 8 lakh and a royalty of 6% on annual sales, which are Rs. 150 lakh a year. Ignoring the time value of money, the franchise cost over 3 years is:",
+    "options": [
+      "A) Rs. 44 lakh",
+      "B) Rs. 35 lakh",
+      "C) Rs. 17 lakh",
+      "D) Rs. 27 lakh"
+    ],
+    "answer": "B",
+    "explanation": "B) is correct: cost = fee + 3 x royalty = 8 + 3 x 9 = 35; the royalty is a percentage of sales every year, the fee is paid once. A) is wrong: this counts four years of royalty instead of three. C) is wrong: this counts the royalty for only one year. D) is wrong: this leaves out the one-time fee."
+  },
+  {
+    "id": "MR-5-02",
+    "node": "MR-5",
+    "unit": "Retail Management Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "A company supplies independent owners with a complete, established business, including its name, trademark and operating system, in return for fees. This is a:",
+    "options": [
+      "A) voluntary cooperative group",
+      "B) manufacturing franchise",
+      "C) product franchise",
+      "D) business-format franchise"
+    ],
+    "answer": "D",
+    "explanation": "D) is correct: supplying the whole business (name, trademark, system) is the business-format franchise, the most common modern model. A) is wrong: this is a wholesaler-sponsored group of independents, not a licence of a whole business. B) is wrong: a manufacturing franchise lets a manufacturer produce and sell goods under the franchisor's name. C) is wrong: a product franchise only governs how retailers distribute a manufacturer's products."
+  },
+  {
+    "id": "MR-6-01",
+    "node": "MR-6",
+    "unit": "Retail Management Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "A customer browses a retailer's website but finds that the product cannot be returned in the retailer's store, and online prices differ from store prices. The retailer is practising:",
+    "options": [
+      "A) omnichannel retailing",
+      "B) multichannel retailing",
+      "C) phygital retailing",
+      "D) single-channel retailing"
+    ],
+    "answer": "B",
+    "explanation": "B) is correct: several independent, siloed channels with inconsistent prices and returns is the classic multichannel limitation. A) is wrong: omnichannel integrates channels, with synchronised stock, prices and returns. C) is wrong: phygital is about front-end blending of physical and digital experience, not this siloed set-up. D) is wrong: the retailer sells through more than one channel, so it is not single-channel."
+  },
+  {
+    "id": "MR-6-02",
+    "node": "MR-6",
+    "unit": "Retail Management Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Which of the following is NOT one of the three layers needed for genuine omnichannel integration?",
+    "options": [
+      "A) Unified fulfilment",
+      "B) Uniform store interior design",
+      "C) Unified inventory",
+      "D) Unified customer data"
+    ],
+    "answer": "B",
+    "explanation": "B) is correct: the three layers are unified inventory, customer data and fulfilment; store interior design is a front-end matter and not a layer of integration. A) is wrong: any channel serving any order is a core layer. C) is wrong: one source of truth for stock is a core layer. D) is wrong: a single customer view is a core layer."
+  },
+  {
+    "id": "MR-1-04",
+    "node": "MR-1",
+    "unit": "Retail Management Unit 1",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "Define retailing and state its scope. Using the scope rule, decide which of these four sales are retailing: (a) a farm sells vegetables to households at a weekly stall; (b) a stationery shop sells 500 notebooks to a college; (c) a wholesaler sells one pack of rice to a walk-in homemaker; (d) a brand sells a bag to a student through its app.",
+    "model_answer": "**Definition.** Retailing includes all the activities involved in selling goods or services directly to final consumers for personal, non-business use (Kotler, as on the slide). *Retail* comes from the Old French *retaillier*, \"to cut off or break bulk\".\n\n**Scope.** It does not matter who sells, how, or where. If the buyer is a final consumer, it is retailing.\n\n| Dimension | Possibilities |\n|---|---|\n| Who sells | manufacturer, wholesaler, retailer |\n| How | in person, mail or telephone, vending machine, internet |\n| Where | in a store, on the street, in the consumer's home |\n\n**Test: is the buyer a final consumer buying for personal, non-business use?**\n\n| Sale | Buyer | Retailing? |\n|---|---|---|\n| (a) vegetables at a stall | households | Yes |\n| (b) 500 notebooks to a college | institution (business use) | No |\n| (c) one rice pack by a wholesaler | final consumer | Yes |\n| (d) bag via brand app | student | Yes |\n\n**Decision.** Three of four are retailing. **Interpretation:** retailing is defined by the buyer, so wholesalers with counter sales and brands going direct-to-consumer are retailers for those sales.",
+    "marking_scheme": [
+      {
+        "point": "Definition (Kotler) and etymology",
+        "marks": 1.5
+      },
+      {
+        "point": "Scope rule with who/how/where",
+        "marks": 1
+      },
+      {
+        "point": "Correct classification of (a)-(d) using the buyer test",
+        "marks": 2
+      },
+      {
+        "point": "Interpretation line",
+        "marks": 0.5
+      }
+    ]
+  },
+  {
+    "id": "MR-2-04",
+    "node": "MR-2",
+    "unit": "Retail Management Unit 1",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "Explain the FDI policy in Indian retail as given in your notes. Give the limit and route for each segment, the benefits, and one caution on the multi-brand route.",
+    "model_answer": "| Segment | Route | Limit |\n|---|---|---|\n| Wholesale cash and carry trading | Automatic | 100% |\n| Single-brand product retailing | Automatic | 100% |\n| Multi-brand front-end retail | Government approval (slide: Foreign Investment and Promotion Board) | 51% |\n\n**Benefits:** employment generation, technological advancement, infrastructure investment, removal of middlemen, benefit to Indian manufacturers.\n\n**Caution [VERIFY]:** the slide names the Foreign Investment Promotion Board, which was abolished in 2017; approvals now go through the government route administered via DPIIT. Write the table as on the slide and add \"51%, with government approval\".\n\n**Interpretation:** the policy is staged: the most open route is single-brand and cash and carry, with multi-brand kept capped, which is why foreign brand-owners usually enter as single-brand retailers.",
+    "marking_scheme": [
+      {
+        "point": "Table with all three segments, limits and routes",
+        "marks": 2.5
+      },
+      {
+        "point": "Five benefits",
+        "marks": 1.5
+      },
+      {
+        "point": "Caution on the multi-brand route",
+        "marks": 0.5
+      },
+      {
+        "point": "Interpretation",
+        "marks": 0.5
+      }
+    ]
+  },
+  {
+    "id": "MR-2-05",
+    "node": "MR-2",
+    "unit": "Retail Management Unit 1",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "A city's organised retail is Rs. 3,000 crore today and is projected at Rs. 3,993 crore. Compute the implied CAGR if the horizon is (i) 3 years and (ii) 6 years. Why must a student state the assumed horizon?",
+    "model_answer": "**Formula (textbook):** CAGR = (end / start)^(1/n) - 1. Ratio = 3,993 / 3,000 = 1.331.\n\n| Horizon | n | CAGR |\n|---|---|---|\n| (i) | 3 | 1.331^(1/3) - 1 = **10.0%** |\n| (ii) | 6 | 1.331^(1/6) - 1 = **4.9%** |\n\n**Decision and interpretation:** the same two end-points give 10.0% or 4.9% a year depending on the horizon, so a CAGR is meaningless without the stated time period. Slide figures can be inconsistent about horizons (the notes show a 2030 versus 2035F reading), so always write \"assuming n years\" and compare the result with other growth figures before trusting it.",
+    "marking_scheme": [
+      {
+        "point": "Formula and ratio",
+        "marks": 1
+      },
+      {
+        "point": "CAGR for 3 years",
+        "marks": 1.5
+      },
+      {
+        "point": "CAGR for 6 years",
+        "marks": 1.5
+      },
+      {
+        "point": "Why the horizon must be stated, with interpretation",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "MR-3-04",
+    "node": "MR-3",
+    "unit": "Retail Management Unit 1",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "\"Cityline Mart (fictional)\" is a family-owned 18,000 sq. ft. self-service store selling groceries, dairy, bakery and personal care in 14 categories with about 60 SKUs per category. It runs weekly promotions at mid-market prices and delivers free on orders above Rs. 500. Classify it using the four-dimension retail mix and the classification tree.",
+    "model_answer": "**Test:** apply the four dimensions, then the tree.\n\n| Dimension | Cityline Mart |\n|---|---|\n| Merchandise | mainly food and grocery |\n| Variety and assortment | variety = 14 categories (breadth); assortment = about 60 SKUs per category (depth); about 14 x 60 = 840 SKUs |\n| Services | self-service, free home delivery above Rs. 500 |\n| Price | competitive, promotional, mid-market |\n\n**Tree:** a store retailer in the **food** family; at 18,000 sq. ft. with wide groceries it is a **supermarket** (10,000-50,000 sq. ft.). Ownership: **independent single store**.\n\n**Decision and interpretation:** supermarket, single-store, food retailer. It is not a hypermarket because its range is food-led and its size is below 50,000 sq. ft. Its rivals are other supermarkets and, through delivery, convenience and quick-commerce, so it competes on time and place utility rather than on assortment depth.",
+    "marking_scheme": [
+      {
+        "point": "Four dimensions applied with variety and assortment computed",
+        "marks": 2
+      },
+      {
+        "point": "Correct family and format (food, supermarket)",
+        "marks": 1.5
+      },
+      {
+        "point": "Ownership class",
+        "marks": 0.5
+      },
+      {
+        "point": "Decision and interpretation",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "MR-4-04",
+    "node": "MR-4",
+    "unit": "Retail Management Unit 1",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "A buyer's monthly plan, all at retail value (Rs. lakh): planned sales 60, planned markdowns 6, planned end-of-month stock 45, planned beginning-of-month stock 40, stock already on order 18. (a) Find the open-to-buy. (b) The buyer wants to place new orders worth Rs. 65 lakh. What should the buyer do?",
+    "model_answer": "**Formula:** OTB = planned sales + planned markdowns + planned EOM stock - planned BOM stock - stock on order.\n\n| Item | Rs. lakh |\n|---|---|\n| Planned sales | 60 |\n| Planned markdowns | 6 |\n| Planned EOM stock | 45 |\n| Stock needed | 111 |\n| Less BOM stock | (40) |\n| Less on order | (18) |\n| **OTB** | **53** |\n\n**(b)** Orders of Rs. 65 lakh exceed the OTB by 65 - 53 = **Rs. 12 lakh**. **Decision:** place orders only up to Rs. 53 lakh, or fund the extra Rs. 12 lakh by cutting another category's OTB; otherwise it becomes inventory risk. **Interpretation:** keep every term at the same valuation basis (retail), and recalculate monthly or weekly.",
+    "marking_scheme": [
+      {
+        "point": "Formula",
+        "marks": 1
+      },
+      {
+        "point": "Correct OTB with working",
+        "marks": 2
+      },
+      {
+        "point": "Excess of Rs. 12 lakh identified",
+        "marks": 1
+      },
+      {
+        "point": "Decision and basis-consistency interpretation",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "MR-4-05",
+    "node": "MR-4",
+    "unit": "Retail Management Unit 1",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "List the four features that distinguish service retailers from merchandise retailers. A badminton centre has 5 courts open 12 hours a day, sells each court-hour at Rs. 600 and is booked for 45% of capacity. Quantify the daily revenue lost to perishability and the gain if utilisation reaches 60%.",
+    "model_answer": "**Four features:** intangibility (cannot be seen or touched before purchase); simultaneous production and consumption; perishability (cannot be stored); inconsistency (quality varies between deliveries). (Textbook mnemonic IHIP.)\n\n**Perishability numbers:**\n- Capacity = 5 x 12 = 60 court-hours; potential revenue = 60 x 600 = **Rs. 36,000** a day.\n- Actual = 45% x 36,000 = Rs. 16,200; **lost = Rs. 19,800** a day, which cannot be recovered.\n- At 60%: revenue Rs. 21,600, a gain of **Rs. 5,400** a day (before discount cost).\n\n**Interpretation:** because idle time cannot be stored, such businesses use off-peak pricing and appointment slots; any discount must be netted against the extra volume.",
+    "marking_scheme": [
+      {
+        "point": "Four features named and explained",
+        "marks": 2
+      },
+      {
+        "point": "Capacity and potential revenue",
+        "marks": 1
+      },
+      {
+        "point": "Lost revenue Rs. 19,800",
+        "marks": 1
+      },
+      {
+        "point": "Gain at 60% and interpretation",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "MR-5-03",
+    "node": "MR-5",
+    "unit": "Retail Management Unit 1",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "Differentiate between a single store and a corporate chain on any six bases. How can independent single stores compete with chains?",
+    "model_answer": "| Basis | Single store | Corporate chain |\n|---|---|---|\n| Ownership | individual or family | corporation |\n| Number of stores | one | multiple |\n| Decision making | quick and flexible | standardised and centralised |\n| Capital investment | low | high |\n| Buying power | low | high (bulk purchasing) |\n| Brand recognition | local | national or international |\n| Technology | basic | advanced (ERP, CRM, AI, POS) |\n\n(Any six rows.)\n\n**Competing with chains:** independents can join a **wholesaler-sponsored voluntary cooperative group**, pooling buying power and a shared merchandising programme while keeping ownership independence; they also lean on personalised service and community ties.",
+    "marking_scheme": [
+      {
+        "point": "Six correct differences",
+        "marks": 3
+      },
+      {
+        "point": "Voluntary cooperative group",
+        "marks": 1.5
+      },
+      {
+        "point": "Closing line on personalised service",
+        "marks": 0.5
+      }
+    ]
+  },
+  {
+    "id": "MR-6-03",
+    "node": "MR-6",
+    "unit": "Retail Management Unit 1",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "Differentiate multichannel and omnichannel retailing with a five-row table and one example of each.",
+    "model_answer": "| Basis | Multichannel | Omnichannel |\n|---|---|---|\n| Definition | uses two or more sales channels | integrates all channels into one seamless experience |\n| Channel integration | limited or partial | fully integrated |\n| Customer experience | may differ across channels | consistent across every channel |\n| Inventory | often managed separately | unified inventory system |\n| Example | browses online but cannot return in store | buys online, picks up in store, returns through the mobile app |\n\n**Interpretation:** omnichannel is a backend integration achievement (unified inventory, customer data, fulfilment), not a front-end feature; BOPIS and BORIS are its practical tests. Many retailers start multichannel and later build the harder backend.",
+    "marking_scheme": [
+      {
+        "point": "Definitions of both",
+        "marks": 1
+      },
+      {
+        "point": "Five-row table",
+        "marks": 2.5
+      },
+      {
+        "point": "Examples",
+        "marks": 1
+      },
+      {
+        "point": "Interpretation (backend, BOPIS/BORIS)",
+        "marks": 0.5
+      }
+    ]
+  },
+  {
+    "id": "MR-2-06",
+    "node": "MR-2",
+    "unit": "Retail Management Unit 1",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "medium",
+    "question": "Explain the growth drivers of Indian retail. Support your answer with the Advantage India pillars and the role of FDI policy, and mention two challenges.",
+    "model_answer": "**Introduction.** Retail accounts for over 10% of GDP and about 8% of the workforce, and India is among the top global retail destinations (figures are slide statistics, [VERIFY] for exact numbers).\n\n**Advantage India: four pillars.** Robust demand; innovation in financing (easy credit for durables); policy support (simpler registration of wholly owned foreign subsidiaries); increasing investment.\n\n**Six growth drivers (RM Notes list).**\n1. **Rise in income and purchasing power:** growing middle-income and affluent households.\n2. **Increase in digital payments:** UPI scale makes cashless checkout normal, including in small shops.\n3. **Change in consumer mindset and consumer finance:** experience-driven retail, flagships, pop-ups, easy credit.\n4. **Brand consciousness:** demand for premium brands and \"mini\" packs.\n5. **Hybrid retail model (Retail 4.0):** personalisation through offline plus online.\n6. **Investment:** stakes in existing assets or greenfield platforms.\n\nExtras if space allows: favourable demographics, FDI approval.\n\n**FDI policy.** 100% automatic in single-brand and cash and carry; 51% with approval in multi-brand. It brings capital, technology, supply chain investment and removes middlemen.\n\n**Challenges.** Unorganised retail still holds more than 90% of the business (organised about 12%), so modern formats must coexist with kirana; the notes also point to unsecured credit stress and logistics constraints.\n\n**Conclusion.** Demand, digital payments and policy are moving India from a fragmented, family-run sector to hybrid, organised retail, with kirana stores increasingly treated as partners through fintech and marketplaces.",
+    "marking_scheme": [
+      {
+        "point": "Introduction with scale",
+        "marks": 1
+      },
+      {
+        "point": "Advantage India pillars",
+        "marks": 1.5
+      },
+      {
+        "point": "Six drivers with one fact each",
+        "marks": 4.5
+      },
+      {
+        "point": "FDI policy",
+        "marks": 1.5
+      },
+      {
+        "point": "Two challenges",
+        "marks": 1
+      },
+      {
+        "point": "Conclusion",
+        "marks": 0.5
+      }
+    ]
+  },
+  {
+    "id": "MR-3-05",
+    "node": "MR-3",
+    "unit": "Retail Management Unit 1",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "medium",
+    "question": "Classify retailers and explain the main store formats. Use the retail mix, the food and general merchandise families, and compare department store, specialty store and discount store in a table.",
+    "model_answer": "**Retail mix (four dimensions).** Type of merchandise or service; variety (breadth) and assortment (depth) with SKU as each tracked item; services offered; price. Classification always uses all four.\n\n**Three families.** Food retailers, general merchandise retailers, service retailers. Beyond store retailers are non-store retailers (online, mobile, direct selling, social commerce) and an ownership split (single store, corporate chain, franchise).\n\n**Food retailers.**\n\n| Type | Size (sq. ft.) | Assortment | Pricing |\n|---|---|---|---|\n| Kirana | 100-1,000 | narrow but deep in essentials | moderate, negotiable |\n| Convenience | 500-3,000 | very narrow | higher |\n| Supermarket | 10,000-50,000 | wide | competitive, promotional |\n| Hypermarket | 50,000-200,000+ | extremely wide | EDLP |\n| Warehouse club / cash and carry | 80,000-150,000 | moderate, bulk | very low |\n\n**General merchandise: three formats compared.**\n\n| Basis | Department store | Specialty store | Discount store |\n|---|---|---|---|\n| Size | 50,000-200,000 | 2,000-40,000 | 20,000-100,000 |\n| Assortment | wide, moderate depth | narrow, very deep | wide, frequently bought |\n| Price | medium to premium | moderate to premium | low via volume |\n| Example | Shoppers Stop | Croma, Tanishq | DMart, V-Mart |\n\n**Off-price.** Opportunistic buying of surplus, closeouts and irregulars, no advertising allowances or return privileges, 20-60% below regular price; not the same as a discount store. (Category killer: very narrow, extremely deep.)\n\n**Interpretation.** Size bands differ across units in the slides, so quote the table of the unit being asked. In a case, classify a firm along all four dimensions before naming its format.",
+    "marking_scheme": [
+      {
+        "point": "Retail mix four dimensions with variety/assortment/SKU",
+        "marks": 2
+      },
+      {
+        "point": "Three families and tree",
+        "marks": 1.5
+      },
+      {
+        "point": "Food retailers table",
+        "marks": 2
+      },
+      {
+        "point": "Department/specialty/discount comparison",
+        "marks": 2.5
+      },
+      {
+        "point": "Off-price and category killer",
+        "marks": 1
+      },
+      {
+        "point": "Interpretation",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "MR-5-04",
+    "node": "MR-5",
+    "unit": "Retail Management Unit 1",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "medium",
+    "question": "What is franchising? Explain its types, advantages and limitations. A chain wants five more outlets: company-owned at Rs. 1.8 crore each, or franchised with a Rs. 12 lakh fee and 4% royalty on expected sales of Rs. 2.5 crore per outlet a year. Compare the franchisor's position under both routes (figures illustrative).",
+    "model_answer": "**Meaning.** Franchising is doing business through a contract for the marketing and distribution of products and services. The franchisor provides the brand and format; the franchisee pays and operates under the franchisor's name, product and business format. (IFA: right to the brand and the method, obligation to pay, franchisor's obligation to support.) History: Singer sewing machines in the 1850s; McDonald's internationally from the 1970s.\n\n**Contract:** fee plus royalty; operate to standard; franchisor support (site, products, training, advertising); consistent quality.\n\n**Types.** Product franchise (distribution of a manufacturer's products); manufacturing franchise (producing and selling under the franchisor's name); business-format franchise (the whole business, the most common model).\n\n**Advantages:** easy start, continuous support, ready business relationships, purchasing power, lower failure rate, built-in credibility. **Limitations:** fees and royalties, excessive control and lack of creativity, operating restrictions.\n\n**Numerical comparison.**\n- Company-owned: 5 x Rs. 1.8 crore = **Rs. 9 crore** of own capital, full control, full profit and risk.\n- Franchise: no store capital. Fees = 5 x 12 = Rs. 60 lakh once; royalty = 5 x 4% x 250 = Rs. 50 lakh a year. **Year 1 = Rs. 110 lakh; 3 years = 60 + 3 x 50 = Rs. 210 lakh.** One franchisee pays 12 + 3 x 10 = Rs. 42 lakh over 3 years.\n\n**Decision.** Franchise if capital and management depth are limited and the format is already proven; own the outlets if control and full margin matter and capital is available. **Interpretation:** franchising grows fast without capital but earns only fee and royalty and risks quality drift in outlets the chain does not own.",
+    "marking_scheme": [
+      {
+        "point": "Definition, parties, IFA definition",
+        "marks": 1.5
+      },
+      {
+        "point": "Contract steps and three types",
+        "marks": 2
+      },
+      {
+        "point": "Advantages and limitations",
+        "marks": 1.5
+      },
+      {
+        "point": "Capital under own route and fee/royalty income computed",
+        "marks": 3
+      },
+      {
+        "point": "Decision with interpretation",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "MR-1-05",
+    "node": "MR-1",
+    "unit": "Retail Management Unit 1",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "easy",
+    "question": "Explain retail management and the retailer's place in the distribution channel. Describe the five ways retailers add value, the four utilities, and the core and support functions of retailing.",
+    "model_answer": "**Retail management** is the process of promoting greater sales and customer satisfaction by better understanding the consumers of a company's goods and services. It is end-to-end (attract, serve, retain) and both an art and a science.\n\n**Channel position.** Manufacturer, then wholesaler, then retailer, then consumer. Wholesalers focus on satisfying retailers' needs; retailers satisfy the needs of the final consumer. Only the sale to the final consumer is retailing.\n\n**Five ways to add value (activities).** Providing assortment; breaking bulk; holding inventory; providing services; increasing value.\n\n**Four utilities (outcomes).**\n\n| Utility | Meaning | Retail lever |\n|---|---|---|\n| Form | the size, pack and form wanted | pack sizes, assortment |\n| Time | available when needed | opening hours, replenishment |\n| Place | convenient access | store network, delivery |\n| Possession | smooth transfer of ownership | credit, checkout, returns |\n\nThe two lists differ: value-adding activities produce utilities.\n\n**Functions.** Core: merchandising, marketing, store operations, sales. Support: human resources, accounting and finance, technology and e-commerce, supply of information, visual merchandising, SCM and logistics (fast-emerging).\n\n**Significance.** Retail contributes to economic activity, is a major employer with deep rural reach, supplies information and carries social responsibility.\n\n**Conclusion.** The retailer validates every upstream decision through the final buying decision.",
+    "marking_scheme": [
+      {
+        "point": "Retail management definition",
+        "marks": 1.5
+      },
+      {
+        "point": "Channel position and wholesaler/retailer distinction",
+        "marks": 1.5
+      },
+      {
+        "point": "Five ways to add value",
+        "marks": 2
+      },
+      {
+        "point": "Four utilities with levers and distinction from the five",
+        "marks": 2
+      },
+      {
+        "point": "Core and support functions",
+        "marks": 2
+      },
+      {
+        "point": "Significance and conclusion",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "MR-7-01",
+    "node": "MR-7",
+    "unit": "Retail Management Unit 1",
+    "type": "case",
+    "marks": 15,
+    "difficulty": "hard",
+    "question": "**Riverside Provisions (fictional)** is a family-owned supermarket in a tier-2 town with annual sales of Rs. 4.5 crore. It stocks 6 categories with about 120 SKUs each, runs weekly promotions at mid-market prices, delivers to regular customers and gives credit to known families. Orders also arrive by phone, and a basic website lists stock that is not linked to the store system. The owners want three more outlets in nearby towns.\n\nOption A: three company-owned stores at about Rs. 1.2 crore each.\nOption B: franchise three outlets, each paying a Rs. 8 lakh fee plus a 6% royalty on expected sales of Rs. 1.5 crore a year.\n\n(a) Classify the retailer using the four retail mix dimensions, its family and its ownership class. (3)\n(b) Which of the five ways of adding value and which utilities does it win, and which does it concede? (3)\n(c) Compare Options A and B with numbers and recommend a route. (5)\n(d) Diagnose its channel position and give a step plan. (4)",
+    "model_answer": "**(a) Classification (3).**\n\n| Dimension | Riverside Provisions |\n|---|---|\n| Merchandise | food and grocery |\n| Variety / assortment | variety 6 categories; assortment about 120 SKUs each, so about 6 x 120 = 720 SKUs |\n| Services | home delivery, credit |\n| Price | promotional, mid-market |\n\nFamily: **food retailer, supermarket**. Ownership: **independent single store**. Channel: multichannel at best.\n\n**(b) Value and utilities (3).** It adds value through assortment, breaking bulk and services (credit, delivery). It wins **possession utility** (credit) and **time and place utility** locally (delivery). It concedes breadth of assortment to hypermarkets and speed to quick-commerce. **Interpretation:** its strength is trust and service, so growth should replicate trust, not only shelf space.\n\n**(c) Expansion (5).**\n- Option A: 3 x Rs. 1.2 crore = **Rs. 3.6 crore** of own capital (80% of a year's sales) plus management it does not yet have.\n- Option B: no store capital. Franchisor income: fees 3 x 8 = Rs. 24 lakh; royalty 3 x 6% x 150 = Rs. 27 lakh a year. **Year 1 = Rs. 51 lakh; 3 years = 24 + 3 x 27 = Rs. 105 lakh.** Each franchisee pays 8 + 3 x 9 = Rs. 35 lakh over 3 years.\n- **Decision:** franchise the format (business-format franchise) once the operating manual, supplier terms and brand are proven at home; keep one company store as a benchmark. **Interpretation:** Option B grows faster on limited capital but earns only fee and royalty and makes quality control harder; Option A earns full margin but is beyond the owners' capital.\n\n**(d) Channels (4).** Today it is **multichannel**: the website stock list is not linked to the store (no unified inventory), and customer records sit in separate places. Steps: (i) link website stock to the store system; (ii) one customer record across phone, web and store; (iii) align price and promotions; (iv) offer BOPIS, then BORIS. **Interpretation:** build the backend integration before adding new channels such as social commerce.\n\n*Figures are illustrative; the franchise route depends on a proven format.*",
+    "marking_scheme": [
+      {
+        "point": "(a) Four dimensions, family and ownership",
+        "marks": 3
+      },
+      {
+        "point": "(b) Value-adding and utilities with interpretation",
+        "marks": 3
+      },
+      {
+        "point": "(c) Option A capital and Option B fee/royalty income computed",
+        "marks": 3
+      },
+      {
+        "point": "(c) Decision with interpretation",
+        "marks": 2
+      },
+      {
+        "point": "(d) Multichannel diagnosis",
+        "marks": 1.5
+      },
+      {
+        "point": "(d) Step plan with interpretation",
+        "marks": 2.5
+      }
+    ]
+  },
+  {
+    "id": "MR-7-02",
+    "node": "MR-7",
+    "unit": "Retail Management Unit 1",
+    "type": "case",
+    "marks": 15,
+    "difficulty": "hard",
+    "question": "**Nordhaus Home (fictional)** is a foreign home-furnishing brand planning to enter India with its own brand only. It will open 60,000 sq. ft. stores selling a very narrow range of furniture and home accessories, but with an extremely deep assortment in each line, at mid-market prices with design advice. It plans a website and app, but stock will be held separately for each channel, and online orders cannot be returned in stores.\n\nFor the first store's opening month (Rs. lakh, at retail value): planned sales 90, planned markdowns 9, planned end-of-month stock 110, planned beginning-of-month stock 100, stock already on order 35. The buyer has proposed new orders of Rs. 80 lakh.\n\n(a) Which FDI limit and route apply to this entry, and what are the benefits of the policy? (3)\n(b) Classify the retailer on the four dimensions, its format and its ownership class. (3)\n(c) Compute the open-to-buy and advise on the buyer's proposal. (4)\n(d) Diagnose its channel plan and recommend what to fix before launch. (5)",
+    "model_answer": "**(a) Policy (3).** A single-brand product retailer: **up to 100% FDI under the automatic route** (multi-brand is capped at 51% with approval). Benefits: employment, technology, infrastructure investment, removal of middlemen, benefit to Indian manufacturers. **[VERIFY]** quote the table as on the slide. **Interpretation:** it can enter wholly owned, so it controls format and quality but carries all the capital risk.\n\n**(b) Classification (3).**\n\n| Dimension | Nordhaus Home |\n|---|---|\n| Merchandise | furniture and home accessories (general merchandise) |\n| Variety / assortment | very narrow variety, extremely deep assortment |\n| Services | design advice |\n| Price | mid-market |\n\nFormat: **category specialist (category killer)**, general merchandise family. Ownership: **corporate chain** (company-owned). It is not a department store (wide, moderate depth) nor a discount store.\n\n**(c) Open-to-buy (4).** OTB = sales + markdowns + EOM stock - BOM stock - on order = 90 + 9 + 110 - 100 - 35 = **Rs. 74 lakh**.\nThe proposal of Rs. 80 lakh exceeds OTB by 80 - 74 = **Rs. 6 lakh**. **Decision:** cut the order to Rs. 74 lakh or offset the Rs. 6 lakh against other categories. **Interpretation:** over-buying leaves unplanned inventory and later markdowns; all terms must be on the same retail-value basis.\n\n**(d) Channels (5).** The plan is **multichannel** (store, website, app with separate stock and no cross-channel returns), not omnichannel. Fix three layers before launch: (i) **unified inventory** so the app shows store stock; (ii) **unified customer data** (one account across app, web and store); (iii) **unified fulfilment** so any channel can serve any order. Then enable **BOPIS** (buy online, pick up in store) and **BORIS** (return in store). **Interpretation:** for bulky furniture with deep ranges, wrong stock information is costly, so the backend integration matters more than adding further channels.\n\n*Figures are illustrative; policy details should be re-checked.*",
+    "marking_scheme": [
+      {
+        "point": "(a) Correct limit/route and benefits",
+        "marks": 2
+      },
+      {
+        "point": "(a) Interpretation",
+        "marks": 1
+      },
+      {
+        "point": "(b) Four dimensions",
+        "marks": 1.5
+      },
+      {
+        "point": "(b) Format and ownership",
+        "marks": 1.5
+      },
+      {
+        "point": "(c) OTB computation",
+        "marks": 2
+      },
+      {
+        "point": "(c) Decision and interpretation",
+        "marks": 2
+      },
+      {
+        "point": "(d) Multichannel diagnosis",
+        "marks": 1.5
+      },
+      {
+        "point": "(d) Three layers with BOPIS/BORIS",
+        "marks": 2
+      },
+      {
+        "point": "(d) Interpretation",
+        "marks": 1.5
+      }
+    ]
+  }
+]

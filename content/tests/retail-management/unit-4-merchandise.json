@@ -1,0 +1,714 @@
+[
+  {
+    "id": "MP-1-01",
+    "node": "MP-1",
+    "unit": "Retail Management Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "In assortment planning, the **width** of an assortment refers to:",
+    "options": [
+      "A) The number of different categories offered",
+      "B) The number of variations (brands, sizes, colours) within one category",
+      "C) The quantity bought of each SKU",
+      "D) The range of price points offered"
+    ],
+    "answer": "A",
+    "explanation": "Width is the number of categories (a department store is wide). Option B is depth, the usual swap: a shoe store with many brands, styles and sizes is deep. Option C is the quantity decision (step 7, with safety stock). Option D is the price-range decision (step 8)."
+  },
+  {
+    "id": "MP-1-02",
+    "node": "MP-1",
+    "unit": "Retail Management Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Product X sells at ₹1,200 and earns ₹180 profit. Product Y sells at ₹900 and earns ₹225 profit. Other things equal, which should get more shelf space and why?",
+    "options": [
+      "A) X, because its selling price is higher",
+      "B) Y, because its margin on sales is 25% against 15% and it earns more per unit",
+      "C) Neither, because their prices differ",
+      "D) X, because a higher price means higher turnover"
+    ],
+    "answer": "B",
+    "explanation": "Margin on sales: X = 180 ÷ 1,200 = 15%; Y = 225 ÷ 900 = 25%. Y is better per rupee of sales and per unit sold. Option A is the tempting error of favouring the higher ticket price. Option C ignores that margin on sales makes unlike prices comparable. Option D has no basis: a higher price tends to lower, not raise, unit turnover."
+  },
+  {
+    "id": "MP-1-03",
+    "node": "MP-1",
+    "unit": "Retail Management Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A retailer ranks five SKUs by contribution margin per unit x units sold a week: P (₹50, 6 a week), Q (₹20, 25), R (₹80, 2), S (₹35, 10) and T (₹30, 4). It cuts the bottom 20% of SKUs. Which SKU is dropped?",
+    "options": [
+      "A) P",
+      "B) Q",
+      "C) R",
+      "D) T"
+    ],
+    "answer": "D",
+    "explanation": "Scores: P = 300, Q = 500, R = 160, S = 350, T = 120. The bottom 20% of five SKUs is one SKU, the lowest score: T. Q has the lowest unit margin (₹20) but the highest score, so margin alone misleads. R has the lowest velocity (2 a week) but its ₹80 margin gives 160, above T. P is mid-table."
+  },
+  {
+    "id": "MP-2-01",
+    "node": "MP-2",
+    "unit": "Retail Management Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "For a month (₹ lakh at retail): planned sales 20, planned markdowns 2, planned end-of-month stock 26, beginning-of-month stock 22, stock on order 5. Open-to-buy is:",
+    "options": [
+      "A) ₹19 lakh",
+      "B) ₹21 lakh",
+      "C) ₹26 lakh",
+      "D) -₹1 lakh"
+    ],
+    "answer": "B",
+    "explanation": "OTB = 20 + 2 + 26 - 22 - 5 = ₹21 lakh. Option A leaves out the markdown allowance, a common slip (20 + 26 - 22 - 5 = 19). Option C forgets to subtract stock on order. Option D uses only the stock terms (26 - 22 - 5) and drops planned sales and markdowns."
+  },
+  {
+    "id": "MP-2-02",
+    "node": "MP-2",
+    "unit": "Retail Management Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A buyer's figures (₹ lakh at retail) are planned sales 9, planned markdowns 1, planned end-of-month stock 12, beginning stock 15 and stock on order 9. The OTB is -₹2 lakh. What does this mean?",
+    "options": [
+      "A) The buyer may place ₹2 lakh of fresh orders",
+      "B) The buyer is over-bought by ₹2 lakh and should defer or cancel orders or plan extra markdowns",
+      "C) The calculation is wrong, since OTB cannot be negative",
+      "D) The sales plan should be raised by ₹2 lakh"
+    ],
+    "answer": "B",
+    "explanation": "A negative OTB means the stock and orders already exceed what the period needs: a warning signal, not an error, so cut orders or plan markdowns. Option A reads the sign backwards. Option C is the misconception that OTB must be positive. Option D changes the plan to hide the problem instead of correcting the buying."
+  },
+  {
+    "id": "MP-2-03",
+    "node": "MP-2",
+    "unit": "Retail Management Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Annual sales are ₹80 lakh, cost of goods sold ₹60 lakh and average inventory at cost ₹10 lakh. GMROI is:",
+    "options": [
+      "A) 2.0",
+      "B) 8.0",
+      "C) 6.0",
+      "D) 25%"
+    ],
+    "answer": "A",
+    "explanation": "Gross margin = 80 - 60 = ₹20 lakh; GMROI = 20 ÷ 10 = 2.0, the gross margin earned per rupee of inventory at cost. Option B is sales ÷ inventory (8.0), which ignores the margin. Option C is inventory turnover (60 ÷ 10). Option D is gross margin percentage, which is not a return on inventory investment."
+  },
+  {
+    "id": "MP-2-04",
+    "node": "MP-2",
+    "unit": "Retail Management Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "hard",
+    "question": "A chain's sales this year are ₹66 lakh, including ₹6 lakh from a store opened this year. The same stores sold ₹60 lakh this year and ₹52 lakh last year. SSSG is:",
+    "options": [
+      "A) 15.38%",
+      "B) 26.92%",
+      "C) 10.00%",
+      "D) 13.33%"
+    ],
+    "answer": "A",
+    "explanation": "SSSG uses only stores open in both periods: (60 - 52) ÷ 52 = 15.38%. Option B includes the new store (66 ÷ 52 - 1), the trap named in the notes. Option C compares total sales with same-store sales (66 ÷ 60 - 1), mixing bases. Option D divides the change by this year's sales instead of last year's."
+  },
+  {
+    "id": "MP-3-01",
+    "node": "MP-3",
+    "unit": "Retail Management Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "A retailer buys a shirt for ₹600 and adds a 25% markup on cost. The margin on the selling price is:",
+    "options": [
+      "A) 25%",
+      "B) 20%",
+      "C) 33.3%",
+      "D) 80%"
+    ],
+    "answer": "B",
+    "explanation": "Price = 600 x 1.25 = ₹750; profit ₹150; margin = 150 ÷ 750 = 20% (also M = MU ÷ (1 + MU) = 0.25 ÷ 1.25). Option A confuses markup (on cost) with margin (on price). Option C reverses the conversion (0.25 ÷ 0.75). Option D is cost as a share of price."
+  },
+  {
+    "id": "MP-3-02",
+    "node": "MP-3",
+    "unit": "Retail Management Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A product costs ₹900. The retailer wants a 40% margin on the selling price. The selling price should be:",
+    "options": [
+      "A) ₹1,260",
+      "B) ₹1,500",
+      "C) ₹2,250",
+      "D) ₹540"
+    ],
+    "answer": "B",
+    "explanation": "Price = cost ÷ (1 - margin) = 900 ÷ 0.60 = ₹1,500 (profit ₹600 = 40% of ₹1,500). Option A adds a 40% markup on cost (900 x 1.4), which gives only a 28.6% margin. Option C divides by 0.4 as if 0.4 were the cost share. Option D is a margin amount, not a price."
+  },
+  {
+    "id": "MP-3-03",
+    "node": "MP-3",
+    "unit": "Retail Management Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A coat priced at ₹2,500 is marked down 30%, then a further 20% on the new price. The cumulative markdown on the original price is:",
+    "options": [
+      "A) 50%",
+      "B) 44%",
+      "C) 56%",
+      "D) 10%"
+    ],
+    "answer": "B",
+    "explanation": "2,500 x 0.70 = 1,750; x 0.80 = 1,400; cumulative = (2,500 - 1,400) ÷ 2,500 = 44%. Option A adds the percentages, the error the notes warn against: multiply them. Option C is the final price as a share of the original (56%), not the markdown. Option D is the difference between the two percentages."
+  },
+  {
+    "id": "MP-3-04",
+    "node": "MP-3",
+    "unit": "Retail Management Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A line has fixed costs of ₹5,40,000, a selling price of ₹950 and a variable cost of ₹650 a unit. The break-even quantity is:",
+    "options": [
+      "A) 831 units",
+      "B) 568 units",
+      "C) 1,800 units",
+      "D) 3,600 units"
+    ],
+    "answer": "C",
+    "explanation": "Break-even = fixed costs ÷ contribution per unit = 5,40,000 ÷ (950 - 650) = 1,800. Option A divides by the variable cost (650) and option B by the price (950); neither is the contribution. Option D would need a contribution of only ₹150."
+  },
+  {
+    "id": "MP-4-01",
+    "node": "MP-4",
+    "unit": "Retail Management Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "60 suppliers serve 4 stores. How many delivery routes are needed if every supplier ships through a single distribution centre (inbound shipments plus store runs), instead of directly to each store?",
+    "options": [
+      "A) 240",
+      "B) 64",
+      "C) 60",
+      "D) 304"
+    ],
+    "answer": "B",
+    "explanation": "Via a DC: 60 consolidated inbound shipments + 4 outbound store runs = 64 routes. Direct supply needs 60 x 4 = 240 routes (option A, the case without a DC). Option C counts only inbound shipments and omits the store runs. Option D adds the direct and DC totals together."
+  },
+  {
+    "id": "MP-4-02",
+    "node": "MP-4",
+    "unit": "Retail Management Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "**Cross-docking** in a distribution centre means:",
+    "options": [
+      "A) Dividing bulk shipments into individual store orders",
+      "B) Moving incoming goods straight onto outbound trucks with minimal storage",
+      "C) Delivering the final leg to the customer's doorstep",
+      "D) Fulfilling online orders from a small local store"
+    ],
+    "answer": "B",
+    "explanation": "Cross-docking sorts and loads goods directly from inbound to outbound transport with little storage, suited to fast movers. Option A is break-bulk. Option C is last-mile delivery. Option D describes a dark store."
+  },
+  {
+    "id": "MP-5-01",
+    "node": "MP-5",
+    "unit": "Retail Management Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A D2C brand can run its own fulfilment at a fixed ₹3,60,000 a year plus ₹30 per order, or use a 3PL at ₹70 per order. At what annual order volume are the two options equally costly?",
+    "options": [
+      "A) 5,143 orders",
+      "B) 9,000 orders",
+      "C) 12,000 orders",
+      "D) 3,600 orders"
+    ],
+    "answer": "B",
+    "explanation": "3,60,000 + 30Q = 70Q gives Q = 3,60,000 ÷ 40 = 9,000. Option A divides the fixed cost by the 3PL rate alone (3,60,000 ÷ 70). Option C divides by the in-house variable cost (3,60,000 ÷ 30). Option D divides by the sum of the two rates (3,60,000 ÷ 100). The correct divisor is the difference between the rates."
+  },
+  {
+    "id": "MP-5-02",
+    "node": "MP-5",
+    "unit": "Retail Management Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A national-brand pack sells at ₹120 and costs the retailer ₹90. A comparable private-label pack sells at ₹100 and costs ₹60 from a contract manufacturer. The private-label margin on selling price is:",
+    "options": [
+      "A) 40%",
+      "B) 66.7%",
+      "C) 33.3%",
+      "D) 25%"
+    ],
+    "answer": "A",
+    "explanation": "Margin = (100 - 60) ÷ 100 = 40%, against 25% on the national brand (30 ÷ 120). Option B is markup on cost (40 ÷ 60). Option C divides the ₹40 profit by the national brand's price instead of its own. Option D is the national brand's margin, not the private label's."
+  },
+  {
+    "id": "MP-6-01",
+    "node": "MP-6",
+    "unit": "Retail Management Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "An open-to-buy of ₹24 lakh at retail must be converted to a cost budget. The initial markup is 35% on retail. The cost budget is:",
+    "options": [
+      "A) ₹15.6 lakh",
+      "B) ₹17.78 lakh",
+      "C) ₹8.4 lakh",
+      "D) ₹32.4 lakh"
+    ],
+    "answer": "A",
+    "explanation": "Cost = retail x (1 - markup on retail) = 24 x 0.65 = ₹15.6 lakh. Option B treats 35% as a markup on cost (24 ÷ 1.35). Option C is the markup amount (24 x 0.35), not the cost. Option D grosses retail up by 35% instead of reducing it."
+  },
+  {
+    "id": "MP-1-04",
+    "node": "MP-1",
+    "unit": "Retail Management Unit 4",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "Define a merchandise plan and explain any five of its seven objectives, with one example each.",
+    "model_answer": "**Merchandise plan:** a systematic plan deciding what to sell, how much to buy, when to buy and at what price to meet demand and business objectives: the right product, quantity, place, time and price.\n\n**Objectives (any five):**\n1. **Meet customer demand:** a Bengaluru supermarket stocks more ready-to-eat food.\n2. **Maintain optimum inventory:** too much means storage cost and markdowns, too little means stockouts (buying 20,000 umbrellas for 5,000 expected sales is excess).\n3. **Maximise sales:** casual wear outsells formal wear, so it gets more space and stock.\n4. **Maximise profitability:** Product A sells ₹1,000 for ₹100 profit (10%); Product B sells ₹800 for ₹250 (31.25%), so favour B.\n5. **Reduce markdowns and wastage:** too many winter jackets bought in April force a 50% discount at season end.\n6. **Right product mix:** a shoe store stocks men, women and children; sports, casual and formal.\n7. **Achieve sales targets:** a festive sales target drives extra stock for the products that carry it.",
+    "marking_scheme": [
+      {
+        "point": "Definition",
+        "marks": 1
+      },
+      {
+        "point": "Five objectives named",
+        "marks": 2
+      },
+      {
+        "point": "Example for each",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "MP-2-05",
+    "node": "MP-2",
+    "unit": "Retail Management Unit 4",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "For a month (₹ lakh at retail): planned sales 15, planned markdowns 2, planned end-of-month stock 20, beginning-of-month stock 17 and stock on order 4. The initial markup is 30% on retail. Compute the open-to-buy at retail and at cost and interpret.",
+    "model_answer": "**Formula:** OTB = planned sales + planned markdowns + planned end-of-month stock - beginning-of-month stock - stock on order (all at retail).\n\n1. Needs = 15 + 2 + 20 = **37**.\n2. Already has = 17 + 4 = **21**.\n3. **OTB = 37 - 21 = ₹16 lakh at retail.**\n4. At cost = 16 x (1 - 0.30) = **₹11.2 lakh**.\n\n**Interpretation:** the buyer may place up to ₹16 lakh of fresh orders at retail (₹11.2 lakh at cost) this month. Anything above must be funded by cutting another category or accepted as over-buy risk. Keep all items on the same value basis (retail) and convert to cost at the end.",
+    "marking_scheme": [
+      {
+        "point": "Formula",
+        "marks": 1
+      },
+      {
+        "point": "Needs and already-has lines",
+        "marks": 1
+      },
+      {
+        "point": "OTB at retail ₹16 lakh",
+        "marks": 1
+      },
+      {
+        "point": "Conversion to cost ₹11.2 lakh",
+        "marks": 1
+      },
+      {
+        "point": "Interpretation",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "MP-3-05",
+    "node": "MP-3",
+    "unit": "Retail Management Unit 4",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "Explain the three orientations of retail pricing (cost, demand and competition) with one example and one limitation of each.",
+    "model_answer": "| Orientation | Question | Example | Limitation |\n|---|---|---|---|\n| **Cost-oriented** (selling price = cost + markup) | What does it cost us? | Cost-plus: ₹1,000 cost plus 20% markup gives ₹1,200 | Cost shows what must be earned, not what the customer will pay |\n| **Demand-oriented** | What will the customer pay? | Hotel room ₹4,000 rising to ₹8,000 during a concert; dynamic airline fares | Demand is hard to predict; customers may see unfairness; needs data and technology |\n| **Competition-oriented** | What are others charging? | Below (DMart-style low pricing), at (going rate) or above competitors (justified by quality, service, brand) | Price wars and eroded differentiation |\n\nMost retailers blend all three: cost as the floor, competition as the reality check, demand and perceived value as the ceiling.",
+    "marking_scheme": [
+      {
+        "point": "Cost-oriented with example and limit",
+        "marks": 1.5
+      },
+      {
+        "point": "Demand-oriented with example and limit",
+        "marks": 1.5
+      },
+      {
+        "point": "Competition-oriented with example and limit",
+        "marks": 1.5
+      },
+      {
+        "point": "Blended approach",
+        "marks": 0.5
+      }
+    ]
+  },
+  {
+    "id": "MP-3-06",
+    "node": "MP-3",
+    "unit": "Retail Management Unit 4",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "hard",
+    "question": "A jacket costing ₹1,800 is priced at ₹2,700. It is marked down 25%, and then a further 20% on the new price. (a) Find the price after each markdown. (b) Find the cumulative markdown. (c) Is the final price above cost? Comment on the decision.",
+    "model_answer": "**(a)** After the first markdown: 2,700 x 0.75 = **₹2,025**. After the second: 2,025 x 0.80 = **₹1,620**.\n\n**(b)** Cumulative markdown = (2,700 - 1,620) ÷ 2,700 = **40%**, not 45%: successive markdowns are multiplied, not added.\n\n**(c)** At ₹2,025 the jacket still earns ₹225 over cost. At ₹1,620 it is **₹180 below cost** (₹1,800): a loss of 180 ÷ 1,620 = **11.1% of the selling price** per unit.\n\n**Decision:** the second cut crossed below cost. Set a floor in advance (cost recovery, or the smallest loss the retailer will accept against carrying the stock) and trigger markdowns by sell-through (for example week 6 and week 10) rather than cascading blindly.",
+    "marking_scheme": [
+      {
+        "point": "Prices after each markdown",
+        "marks": 1.5
+      },
+      {
+        "point": "Cumulative markdown 40% (multiply, not add)",
+        "marks": 1.5
+      },
+      {
+        "point": "Final price below cost and loss",
+        "marks": 1
+      },
+      {
+        "point": "Decision: floor and sell-through trigger",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "MP-4-03",
+    "node": "MP-4",
+    "unit": "Retail Management Unit 4",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Eighty suppliers serve five stores. (a) Compute the routes needed with direct delivery and via one distribution centre, and the reduction. (b) State any four reasons why distribution centres matter.",
+    "model_answer": "**(a)** Direct: 80 x 5 = **400 routes**. Via a DC: 80 inbound + 5 outbound = **85 routes**. Reduction = (400 - 85) ÷ 400 = **78.75%**. The gain grows with the number of stores; the cost is the DC's own rent and handling, which is why cross-docking (almost no storage) is used for fast movers.\n\n**(b) Reasons (any four of six):** faster delivery; inventory consolidation; efficient transportation (full truckloads); better inventory management; reduced logistics cost; improved customer service. A DC works like a central kitchen: goods are collected in one place, organised and sent to each outlet by need.",
+    "marking_scheme": [
+      {
+        "point": "Direct routes 400 and DC routes 85",
+        "marks": 2
+      },
+      {
+        "point": "Reduction 78.75%",
+        "marks": 1
+      },
+      {
+        "point": "Four reasons",
+        "marks": 1.5
+      },
+      {
+        "point": "Link to cross-docking or cost trade-off",
+        "marks": 0.5
+      }
+    ]
+  },
+  {
+    "id": "MP-4-04",
+    "node": "MP-4",
+    "unit": "Retail Management Unit 4",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Distinguish between e-retailing and quick commerce on delivery time, fulfilment, assortment and purchase type. What is a dark store?",
+    "model_answer": "| | E-retailing | Quick commerce |\n|---|---|---|\n| Delivery time | Hours or days | Minutes (often 10 to 30) |\n| Fulfilment | Larger fulfilment centres | Small local dark stores |\n| Assortment | Wide range | Limited range of everyday and urgent items |\n| Purchase type | Planned | Convenience and immediate need |\n\n**Dark store:** a small micro-fulfilment point that serves online orders only: an employee picks and packs, a delivery partner collects and delivers (for example, an urgent evening grocery order goes to the nearest dark store).\n\n**Note:** quick commerce is not just faster e-commerce. It relies on hyperlocal inventory with a deliberately narrow range, and its economics depend on basket size because delivery cost is per order.",
+    "marking_scheme": [
+      {
+        "point": "Four-row comparison",
+        "marks": 2.5
+      },
+      {
+        "point": "Dark store defined with example",
+        "marks": 1.5
+      },
+      {
+        "point": "Economics or hyperlocal note",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "MP-5-03",
+    "node": "MP-5",
+    "unit": "Retail Management Unit 4",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "A retailer scores vendors on quality (weight 50%), delivery (25%) and price (25%). Rating scale for quality and delivery: Excellent = 5, Good = 4, Average = 3, Poor = 1. For price: Low = 5, Medium = 3, High = 2 (low price is best for the retailer).\n\n| Vendor | Quality | Delivery | Price |\n|---|---|---|---|\n| P | Good | Excellent | High |\n| Q | Excellent | Average | Medium |\n| R | Poor | Good | Low |\n\nCompute the weighted scores, select a vendor and comment.",
+    "model_answer": "- **P** = 0.50 x 4 + 0.25 x 5 + 0.25 x 2 = 2.00 + 1.25 + 0.50 = **3.75**\n- **Q** = 0.50 x 5 + 0.25 x 3 + 0.25 x 3 = 2.50 + 0.75 + 0.75 = **4.00**\n- **R** = 0.50 x 1 + 0.25 x 4 + 0.25 x 5 = 0.50 + 1.00 + 1.25 = **2.75**\n\n**Decision:** select **Q**. **Interpretation:** evaluation is multi-dimensional. Q wins because the heavy quality weight rewards its excellent quality despite average delivery; R's low price cannot rescue poor quality. The weights are the retailer's strategy made visible: test whether the ranking holds if the price weight rises.",
+    "marking_scheme": [
+      {
+        "point": "Score for P",
+        "marks": 1
+      },
+      {
+        "point": "Score for Q",
+        "marks": 1
+      },
+      {
+        "point": "Score for R",
+        "marks": 1
+      },
+      {
+        "point": "Decision",
+        "marks": 1
+      },
+      {
+        "point": "Interpretation (multi-dimensional, weights)",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "MP-6-02",
+    "node": "MP-6",
+    "unit": "Retail Management Unit 4",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "hard",
+    "question": "A festive hamper costs ₹500. The retailer wants a 40% margin on selling price, but the nearest competitor sells a similar hamper at ₹750. A fixed promotion cost of ₹60,000 is planned. (a) What price gives the target margin? (b) At ₹750, find profit per hamper, margin and markup. (c) How many hampers must be sold to cover the promotion cost? (d) What should the retailer do?",
+    "model_answer": "**(a)** Price for 40% margin = 500 ÷ (1 - 0.40) = **₹833.33**, well above the competitor's ₹750.\n\n**(b)** At ₹750: profit = **₹250**; margin = 250 ÷ 750 = **33.33%**; markup = 250 ÷ 500 = **50%**. (Markup is on cost, margin on price.)\n\n**(c)** Break-even = 60,000 ÷ 250 = **240 hampers**.\n\n**(d)** Price at the competitive ₹750 and accept 33.33% instead of 40%: the target price would not sell. The remaining levers are cost (a private-label hamper, better sourcing) or differentiation. Cost-plus pricing tells the retailer what it needs to earn, not what the customer will pay.",
+    "marking_scheme": [
+      {
+        "point": "Target price ₹833.33",
+        "marks": 1
+      },
+      {
+        "point": "Profit, margin and markup at ₹750",
+        "marks": 1.5
+      },
+      {
+        "point": "Break-even 240 hampers",
+        "marks": 1.5
+      },
+      {
+        "point": "Decision and reasoning",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "MP-2-06",
+    "node": "MP-2",
+    "unit": "Retail Management Unit 4",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "hard",
+    "question": "Annual figures for a category (₹ lakh unless stated): sales 300, cost of goods sold 210, average inventory at cost 30, store area 6,000 sq ft. For the coming month (₹ lakh at retail): planned sales 30, planned markdowns 3, planned end-of-month stock 38, beginning-of-month stock 32, stock on order 8. Initial markup is 40% on retail. A lot of 600 jackets was received; the plan says 'at week 6, if sell-through is below 50%, mark down 20%', and 250 have sold. (a) Compute the open-to-buy at retail and at cost. (4) (b) Compute gross margin, GMROI, inventory turnover, days of stock and sales per sq ft, and interpret GMROI. (4) (c) What does the sell-through rule tell the buyer to do? (2)",
+    "model_answer": "**(a) OTB** = planned sales + markdowns + EOM stock - BOM stock - on order = 30 + 3 + 38 - 32 - 8 = **₹31 lakh at retail**. At cost = 31 x (1 - 0.40) = **₹18.6 lakh**. The buyer can place up to ₹18.6 lakh of fresh orders (cost) this month.\n\n**(b) Metrics**\n- Gross margin = 300 - 210 = **₹90 lakh** (30% of sales).\n- **GMROI** = 90 ÷ 30 = **3.0** (check: 30% x 300 ÷ 30 = 3.0).\n- **Inventory turnover** = COGS ÷ average inventory at cost = 210 ÷ 30 = **7.0 times**; days of stock = 365 ÷ 7 = **52.1 days**.\n- **Sales per sq ft** = ₹3,00,00,000 ÷ 6,000 = **₹5,000**.\n- **Interpretation:** each rupee of stock at cost earned ₹3 of gross margin a year. GMROI rises with a higher margin or faster turns; a slow high-margin line and a fast thin-margin line can have the same GMROI.\n\n**(c) Sell-through** = 250 ÷ 600 = **41.67%**, below the 50% trigger, so apply the planned **20% markdown now**. A rules-based trigger removes guesswork: marking down early gives up margin, too late means deeper cuts later.",
+    "marking_scheme": [
+      {
+        "point": "OTB at retail",
+        "marks": 2
+      },
+      {
+        "point": "OTB at cost",
+        "marks": 2
+      },
+      {
+        "point": "GMROI, turnover, days, sales per sq ft",
+        "marks": 3
+      },
+      {
+        "point": "Interpretation of GMROI",
+        "marks": 1
+      },
+      {
+        "point": "Sell-through and action",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "MP-3-07",
+    "node": "MP-3",
+    "unit": "Retail Management Unit 4",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "hard",
+    "question": "(a) Explain the six factors that determine retail price and the three pricing orientations. (4) (b) A jacket costs ₹2,400 and is priced by cost-plus at a 50% markup. A competitor sells a similar jacket for ₹2,880. Find the cost-plus price, and the markup and margin if the retailer matches the competitor. Comment. (3) (c) A product sells for ₹800 with variable cost ₹500. Management plans a 15% price cut. By what percentage must unit volume rise to keep total contribution unchanged? (2) (d) Distinguish EDLP from high-low pricing. (1)",
+    "model_answer": "**(a) Six factors:** cost; customer demand; competition; merchandise lifecycle (new, growing, mature); inventory position (too much or too little); technology and data. **Orientations:** *cost* (what does it cost us? price = cost + markup), *demand* (what will the customer pay? willingness to pay, dynamic pricing, perceived value), *competition* (what are others charging? below, at or above, justified by value). Most retailers blend them: cost as the floor, competition as the reality check, demand as the ceiling.\n\n**(b)** Cost-plus price = 2,400 x 1.50 = **₹3,600**, which is ₹720 above the competitor. Matching ₹2,880: profit = 480; **markup = 480 ÷ 2,400 = 20%**; **margin = 480 ÷ 2,880 = 16.67%**. Cost-plus gives a price customers will not pay: to sell at ₹2,880 the retailer must cut cost, differentiate or drop the line.\n\n**(c)** Contribution now = 800 - 500 = ₹300. After a 15% cut (₹120) it is ₹180. Required volume rise = 300 ÷ 180 - 1 = **66.7%**. A 15% price cut needs two-thirds more units just to stand still; promotions rarely achieve that unless baskets also grow.\n\n**(d)** **EDLP** (everyday low pricing) avoids promotional swings and competes on consistently low prices. **High-low** uses frequent promotions against a higher regular price to create urgency.",
+    "marking_scheme": [
+      {
+        "point": "Six factors",
+        "marks": 1.5
+      },
+      {
+        "point": "Three orientations with blend",
+        "marks": 2.5
+      },
+      {
+        "point": "Cost-plus price and markup, margin at competitor price",
+        "marks": 2
+      },
+      {
+        "point": "Comment on cost-plus limit",
+        "marks": 1
+      },
+      {
+        "point": "Volume increase 66.7%",
+        "marks": 1.5
+      },
+      {
+        "point": "EDLP versus high-low",
+        "marks": 1.5
+      }
+    ]
+  },
+  {
+    "id": "MP-4-05",
+    "node": "MP-4",
+    "unit": "Retail Management Unit 4",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "hard",
+    "question": "(a) In which direction does information flow in a retail supply chain, and what are five advantages of information flow? What is the bullwhip effect? (3) (b) 75 suppliers serve 6 stores. Compare the routes needed with direct delivery and through one distribution centre. (3) (c) QuickTrolley (fictional), a quick-commerce app, earns a 22% gross margin. Per-order costs are delivery ₹48, packaging ₹8 and picking labour ₹10. The dark store's fixed cost is ₹4,80,000 a month. Compare an average order value (AOV) of ₹400 with ₹800: contribution per order and orders needed a month to break even. Comment. (4)",
+    "model_answer": "**(a)** Products flow **forward** (supplier to customer); **information flows backward** (customer to retailer to distributor to manufacturer to supplier). **Five advantages (any five of ten):** better demand forecasting; fewer stockouts; less excess inventory; faster replenishment; better coordination; lower costs; better customer service; faster decisions; greater visibility; better response to market change. The **bullwhip effect** is demand variability amplifying as orders move up the chain; sharing real sales data reduces over-correction.\n\n**(b)** Direct: 75 x 6 = **450 routes**. Via a DC: 75 inbound + 6 outbound = **81 routes**. Reduction = (450 - 81) ÷ 450 = **82%**. The DC consolidates stock and gives one place to count it; its own rent and handling is the cost, which cross-docking cuts for fast movers.\n\n**(c)** Variable cost per order = 48 + 8 + 10 = **₹66**.\n- AOV ₹400: gross margin = ₹88; contribution = **₹22**; orders needed = 4,80,000 ÷ 22 = **21,819 a month** (21,818.18 rounded up, since 21,818 orders fall just short) (about 727 a day).\n- AOV ₹800: gross margin = ₹176; contribution = **₹110**; orders needed = 4,80,000 ÷ 110 = **4,364 a month** (about 145 a day).\n- Doubling the basket raises contribution five-fold because delivery cost is per order, not per rupee. Quick-commerce apps therefore push larger baskets, higher-margin items and small-order fees, and keep a deliberately narrow range. Speed is not free: match delivery speed to margin per order, basket size and purchase frequency.",
+    "marking_scheme": [
+      {
+        "point": "Direction of flow",
+        "marks": 1
+      },
+      {
+        "point": "Five advantages and bullwhip",
+        "marks": 2
+      },
+      {
+        "point": "Routes 450 versus 81 and reduction",
+        "marks": 3
+      },
+      {
+        "point": "Contribution per order for both AOVs",
+        "marks": 2
+      },
+      {
+        "point": "Orders to break even",
+        "marks": 1
+      },
+      {
+        "point": "Comment on basket size and economics",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "MP-5-04",
+    "node": "MP-5",
+    "unit": "Retail Management Unit 4",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "hard",
+    "question": "(a) Describe the four steps in establishing a vendor relationship and the six ways of maintaining it. (3) (b) A D2C brand can run its own fulfilment at a fixed ₹5,00,000 a year plus ₹50 per order, or use a 3PL at ₹100 per order. Find the indifference volume and the cheaper option at 7,000 and 15,000 orders. Why might a young brand still outsource? (3) (c) A national-brand pack sells for ₹150 and costs the retailer ₹115. A private-label equivalent sells for ₹130 and costs ₹80. Compute margin in rupees and on price for each, the shopper's saving, and the advantages and risks of private labels. (4)",
+    "model_answer": "**(a) Establish:** identify potential vendors; evaluate them (quality, price, delivery reliability, capacity, reputation, financial stability, flexibility); negotiate terms (price, quantity, delivery, payment, returns, discounts); finalise the agreement. **Maintain:** timely payments; regular communication; information sharing (for example early notice of expected festive demand); quality monitoring; performance evaluation; long-term partnership rather than constant switching.\n\n**(b)** Indifference: 5,00,000 + 50Q = 100Q, so Q = 5,00,000 ÷ 50 = **10,000 orders**.\n- 7,000 orders: in-house = 5,00,000 + 3,50,000 = ₹8,50,000; 3PL = ₹7,00,000; **3PL is ₹1,50,000 cheaper**.\n- 15,000 orders: in-house = 5,00,000 + 7,50,000 = ₹12,50,000; 3PL = ₹15,00,000; **in-house is ₹2,50,000 cheaper**.\n- A young brand outsources to keep capital and focus for design, branding and customer relationships, and for scalability; it can insource once volume passes the indifference point, subject to control and quality (cost is one of four tests with strategic importance, risk and control, and speed).\n\n**(c)**\n\n| | National brand | Private label |\n|---|---|---|\n| Shelf price | ₹150 | ₹130 |\n| Retailer cost | ₹115 | ₹80 |\n| Margin (₹) | 35 | 50 |\n| Margin on price | 23.33% | 38.46% |\n\nThe shopper saves ₹20 (**13.33%**) while the retailer earns ₹15 more per pack and 15.1 points more margin. **Advantages:** higher margin, exclusivity (no price comparison), differentiation and bargaining leverage over national-brand vendors, higher GMROI. **Risks:** the retailer takes on quality control and brand building, may alienate brand-loyal customers and strain vendors (including a category captain), and shoppers buy an unknown name only if they trust the retailer.",
+    "marking_scheme": [
+      {
+        "point": "Four steps to establish and six to maintain",
+        "marks": 3
+      },
+      {
+        "point": "Indifference volume 10,000",
+        "marks": 1
+      },
+      {
+        "point": "Costs at 7,000 and 15,000 and choice",
+        "marks": 1.5
+      },
+      {
+        "point": "Why outsource (reasons)",
+        "marks": 0.5
+      },
+      {
+        "point": "Margins and shopper saving",
+        "marks": 2
+      },
+      {
+        "point": "Advantages and risks of private labels",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "MP-6-03",
+    "node": "MP-6",
+    "unit": "Retail Management Unit 4",
+    "type": "case",
+    "marks": 15,
+    "difficulty": "hard",
+    "question": "**Case: festive planning at a supermarket chain.** FreshNest (fictional) has 6 stores and 50 suppliers. For the festive month (₹ lakh at retail): planned sales 55, planned markdowns 4, planned end-of-month stock 42, beginning-of-month stock 38, stock on order 11. The initial markup is 30% on retail. Annual sales are ₹6 crore, cost of goods sold ₹4.5 crore and average inventory at cost ₹75 lakh.\n\nA festive gift box costs ₹700. The target margin is 35% on selling price, but the nearest competitor sells at ₹990. A fixed promotion cost of ₹1,16,000 is planned. A private-label gift box costs ₹520 and would also sell at ₹990.\n\n(a) Compute the open-to-buy at retail and at cost, and the chain's GMROI and inventory turnover. (4)\n(b) Find the price for a 35% margin, and the profit, margin and markup at ₹990. How many national-brand boxes cover the promotion cost? (4)\n(c) Compare the private-label box: margin, markup and break-even boxes. (3)\n(d) Compute the routes with direct supply and through a distribution centre, and give a recommendation for the festive month. (4)",
+    "model_answer": "**(a) OTB** = 55 + 4 + 42 - 38 - 11 = **₹52 lakh at retail**; at cost = 52 x (1 - 0.30) = **₹36.4 lakh**. Gross margin = 6 - 4.5 = ₹1.5 crore; **GMROI** = 1.5 ÷ 0.75 = **2.0**; **turnover** = 4.5 ÷ 0.75 = **6.0 times**.\n\n**(b)** Price for a 35% margin = 700 ÷ 0.65 = **₹1076.92**, above the competitor's ₹990. At ₹990: profit = ₹290; margin = 290 ÷ 990 = **29.29%**; markup = 290 ÷ 700 = **41.43%**. Promotion break-even = 1,16,000 ÷ 290 = **400 boxes**.\n\n**(c) Private label:** profit = 990 - 520 = ₹470; margin = 470 ÷ 990 = **47.47%**; markup = 470 ÷ 520 = **90.38%**; break-even = 1,16,000 ÷ 470 = 246.8, so **247 boxes**.\n\n**(d) Routes:** direct = 50 x 6 = **300**; via a DC = 50 + 6 = **56**; reduction = **81.33%**.\n\n| Item | Result |\n|---|---|\n| OTB (retail / cost) | ₹52 lakh / ₹36.4 lakh |\n| GMROI, turnover | 2.0, 6.0 times |\n| Box at 35% margin | ₹1076.92 |\n| Margin at ₹990 | 29.29% (markup 41.43%) |\n| Break-even, national brand | 400 boxes |\n| Private-label margin, break-even | 47.47%, 247 boxes |\n| Routes direct versus DC | 300 versus 56 |\n\n**Decision:** buy up to ₹36.4 lakh at cost, price the box at the competitive ₹990, push the **private-label box**, and consolidate supply through a **distribution centre**. **Interpretation:** the 35% target margin is unreachable at the market price, so the lever is cost. The private label earns ₹470 against ₹290, breaks even at 247 boxes against 400, and a DC cuts routes by over four-fifths. This holds only if private-label quality is controlled and vendor relationships are managed, and the margins ignore wastage, so check against sell-through.",
+    "marking_scheme": [
+      {
+        "point": "OTB at retail and cost",
+        "marks": 2
+      },
+      {
+        "point": "GMROI and turnover",
+        "marks": 2
+      },
+      {
+        "point": "Target price and margin, markup at ₹990",
+        "marks": 2.5
+      },
+      {
+        "point": "Promotion break-even 400",
+        "marks": 1.5
+      },
+      {
+        "point": "Private label margin, markup, break-even",
+        "marks": 3
+      },
+      {
+        "point": "Routes direct and via DC",
+        "marks": 1.5
+      },
+      {
+        "point": "Decision line and interpretation with risks",
+        "marks": 2.5
+      }
+    ]
+  },
+  {
+    "id": "MP-4-06",
+    "node": "MP-4",
+    "unit": "Retail Management Unit 4",
+    "type": "case",
+    "marks": 15,
+    "difficulty": "hard",
+    "question": "**Case: a dark store's economics.** SwiftBasket (fictional) is a quick-commerce app delivering within 10 to 30 minutes from a dark store. Its gross margin is 18%. Per-order costs are delivery ₹50, packaging ₹9 and picking labour ₹11. The dark store's fixed cost is ₹5,40,000 a month. The app currently has an average order value (AOV) of ₹500. A competitor offers delivery from a fulfilment centre in 1 to 2 days with a far wider range. SwiftBasket buys from 30 suppliers for 5 dark stores. Use 30 days a month.\n\n(a) Explain how information should flow from the dark stores to suppliers, how it reduces stockouts and the bullwhip effect, and compute the routes with and without a distribution centre. (3)\n(b) Compute contribution per order and the orders needed a month (and a day) to break even at AOV ₹500, and at an AOV of ₹750. (5)\n(c) At AOV ₹500, compute the break-even orders if (i) the product mix shifts so gross margin becomes 22%, or (ii) a small-order fee of ₹15 is charged per order (at 18% margin). (3)\n(d) Compare quick commerce with the competitor's e-retailing model, and recommend how SwiftBasket should improve its economics. (4)",
+    "model_answer": "**(a)** Products flow forward; **information flows backward** from customer to dark store to distributor to supplier. Live sales data (units sold, stock level) lets suppliers replenish fast sellers quickly, so fewer stockouts and less excess stock, and sharing actual sales rather than guesses prevents each stage from over-ordering (**bullwhip**). Using a distribution centre for 30 suppliers and 5 dark stores gives 30 + 5 = 35 routes instead of 30 x 5 = 150.\n\n**(b)** Variable cost per order = 50 + 9 + 11 = **₹70**.\n- AOV ₹500: gross margin ₹90; contribution = **₹20**; orders = 5,40,000 ÷ 20 = **27,000 a month** (**900 a day**).\n- AOV ₹750: gross margin ₹135; contribution = **₹65**; orders = 5,40,000 ÷ 65 = **8,308 a month** (about **277 a day**).\n\n**(c)** (i) Margin 22%: gross margin ₹110; contribution = **₹40**; orders = **13,500 a month** (450 a day). (ii) Fee ₹15: contribution = 90 + 15 - 70 = **₹35**; orders = 5,40,000 ÷ 35 = **15,429 a month** (514 a day).\n\n**(d)** E-retailing: hours or days, larger fulfilment centres, wide range, planned purchases. Quick commerce: minutes, small dark stores, narrow everyday range, immediate need. Quick commerce wins on convenience and urgency, loses on range and unit economics because delivery cost is per order. **Recommendation:** raise the basket (the largest lever: AOV ₹750 cuts the daily orders needed from 900 to about 277), shift the mix to higher-margin items, add a modest small-order fee, and keep the narrow range. **Interpretation:** speed is not free; it works only where margin per order, basket size and purchase frequency cover the dark-store cost. Figures are invented for teaching.",
+    "marking_scheme": [
+      {
+        "point": "Information flow, bullwhip and DC routes",
+        "marks": 3
+      },
+      {
+        "point": "Contribution and break-even at AOV ₹500",
+        "marks": 2.5
+      },
+      {
+        "point": "Contribution and break-even at AOV ₹750",
+        "marks": 2.5
+      },
+      {
+        "point": "Option (i) and (ii) break-even",
+        "marks": 3
+      },
+      {
+        "point": "Comparison with e-retailing",
+        "marks": 1.5
+      },
+      {
+        "point": "Recommendation and interpretation",
+        "marks": 2.5
+      }
+    ]
+  }
+]

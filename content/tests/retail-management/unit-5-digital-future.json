@@ -1,0 +1,730 @@
+[
+  {
+    "id": "DR-1-01",
+    "node": "DR-1",
+    "unit": "Retail Management Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "In the marketplace model of e-retailing, who holds the stock and how does the platform mainly earn?",
+    "options": [
+      "A) The platform holds stock and earns product margin",
+      "B) Third-party sellers hold stock; the platform earns commission, advertising and seller-services fees",
+      "C) The platform holds stock and earns commission",
+      "D) Third-party sellers hold stock; the platform earns product margin"
+    ],
+    "answer": "B",
+    "explanation": "The models are defined by who holds stock: in a marketplace independent sellers do, and the platform earns commission, sponsored-listing ads and services such as fulfilment. Option A describes the inventory-led model. Option C mixes the two: a platform that holds stock earns product margin, not commission. Option D gives the platform margin on goods it does not own."
+  },
+  {
+    "id": "DR-1-02",
+    "node": "DR-1",
+    "unit": "Retail Management Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "An app gets 80,000 visits in a month. 5% add to cart and 65% of carts are abandoned. What is the conversion rate (orders ÷ visits)?",
+    "options": [
+      "A) 1.75%",
+      "B) 5%",
+      "C) 35%",
+      "D) 65%"
+    ],
+    "answer": "A",
+    "explanation": "Carts = 80,000 x 5% = 4,000; abandoned = 2,600; orders = 1,400; conversion = 1,400 ÷ 80,000 = 1.75%. Option B is the add-to-cart rate. Option C is the checkout completion rate (orders ÷ carts), the metric most often confused with conversion. Option D is the cart abandonment rate."
+  },
+  {
+    "id": "DR-1-03",
+    "node": "DR-1",
+    "unit": "Retail Management Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "hard",
+    "question": "Marketing spend is ₹3,00,000. The month has 1,500 orders, of which 40% come from new customers. Customer acquisition cost (CAC) is:",
+    "options": [
+      "A) ₹200",
+      "B) ₹500",
+      "C) ₹333",
+      "D) ₹5,000"
+    ],
+    "answer": "B",
+    "explanation": "CAC counts new customers only: 1,500 x 40% = 600; 3,00,000 ÷ 600 = ₹500. Option A is marketing cost per order (÷ 1,500), which counts all orders. Option C divides by the 60% of orders from existing customers (900). Option D is a decimal-place slip."
+  },
+  {
+    "id": "DR-1-04",
+    "node": "DR-1",
+    "unit": "Retail Management Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A marketplace seller lists a product at ₹800. The platform charges 15% commission (illustrative rate) and ₹50 for fulfilment; product cost is ₹520. Net profit per unit is:",
+    "options": [
+      "A) ₹110",
+      "B) ₹230",
+      "C) ₹160",
+      "D) ₹280"
+    ],
+    "answer": "A",
+    "explanation": "Commission = ₹120; net = 800 - 120 - 50 - 520 = ₹110 (13.75% of price). Option B leaves out the commission. Option C leaves out the fulfilment fee. Option D leaves out both and is simply price minus product cost."
+  },
+  {
+    "id": "DR-2-01",
+    "node": "DR-2",
+    "unit": "Retail Management Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "A store's system shows stock that is not physically on the shelf, because of shrinkage, misplacement and scanning errors. This is called phantom inventory. Which technology best addresses it?",
+    "options": [
+      "A) POS",
+      "B) RFID",
+      "C) ERP",
+      "D) Electronic shelf labels"
+    ],
+    "answer": "B",
+    "explanation": "RFID tags allow wireless, near-real-time tracking of physical stock, ending phantom inventory. POS (A) records transactions but not what is physically on the shelf. ERP (C) integrates records but is only as accurate as its inputs. Electronic shelf labels (D) change prices centrally; they do not count stock."
+  },
+  {
+    "id": "DR-2-02",
+    "node": "DR-2",
+    "unit": "Retail Management Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Management asks, 'Why did sales fall in the southern stores last quarter?' Which level of analytics answers this?",
+    "options": [
+      "A) Descriptive",
+      "B) Diagnostic",
+      "C) Predictive",
+      "D) Prescriptive"
+    ],
+    "answer": "B",
+    "explanation": "Diagnostic analytics asks why something happened. Descriptive (A) only reports that sales fell, the tempting answer. Predictive (C) estimates what will happen next. Prescriptive (D) recommends or automates what to do."
+  },
+  {
+    "id": "DR-2-03",
+    "node": "DR-2",
+    "unit": "Retail Management Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "hard",
+    "question": "Of 2,000 baskets, 500 contain tea, 250 contain biscuits and 100 contain both. The lift of tea → biscuits is:",
+    "options": [
+      "A) 1.6",
+      "B) 20%",
+      "C) 5%",
+      "D) 0.625"
+    ],
+    "answer": "A",
+    "explanation": "Confidence = 100 ÷ 500 = 20%; biscuits appear in 250 ÷ 2,000 = 12.5% of baskets; lift = 20% ÷ 12.5% = 1.6. Lift above 1 means a real association. Option B is the confidence alone, which can be high just because the item is popular. Option C is the support of the pair (100 ÷ 2,000). Option D inverts the ratio (12.5 ÷ 20)."
+  },
+  {
+    "id": "DR-2-04",
+    "node": "DR-2",
+    "unit": "Retail Management Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "hard",
+    "question": "An RFID rollout costs ₹56 lakh. Annual sales are ₹40 crore; better availability cuts lost sales from 3% to 2% of sales at a 30% gross margin. Shrinkage savings add ₹4 lakh a year. The payback period is:",
+    "options": [
+      "A) 3.5 years",
+      "B) 4.67 years",
+      "C) 1.4 years",
+      "D) 14 years"
+    ],
+    "answer": "A",
+    "explanation": "Recovered sales = 1% of ₹40 crore = ₹40 lakh; margin on it = ₹12 lakh; add shrinkage ₹4 lakh = ₹16 lakh a year; payback = 56 ÷ 16 = 3.5 years. Option B ignores the shrinkage saving (56 ÷ 12). Option C divides by recovered sales instead of the margin on them (56 ÷ 40). Option D counts shrinkage savings only (56 ÷ 4)."
+  },
+  {
+    "id": "DR-3-01",
+    "node": "DR-3",
+    "unit": "Retail Management Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "Greenwashing is:",
+    "options": [
+      "A) Overstating or falsely marketing sustainability credentials without substantive underlying practice",
+      "B) Auditing a supply chain's carbon footprint",
+      "C) Reporting environmental, social and governance performance to investors",
+      "D) Taking back used garments for recycling"
+    ],
+    "answer": "A",
+    "explanation": "Greenwashing is a gap between claims and practice, a reputational and growing regulatory risk. Option B is a carbon audit, the recommended first step of a green supply chain. Option C is ESG reporting. Option D is a reverse-logistics or circular practice. All three are real sustainability actions, not misleading claims."
+  },
+  {
+    "id": "DR-3-02",
+    "node": "DR-3",
+    "unit": "Retail Management Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "The triple bottom line evaluates a retailer on:",
+    "options": [
+      "A) People, Planet and Profit",
+      "B) Product, Price and Promotion",
+      "C) Pollution, Packaging and Profit",
+      "D) Policy, Process and People"
+    ],
+    "answer": "A",
+    "explanation": "The triple bottom line adds People and Planet to Profit; it does not replace profit. Option B lists marketing-mix elements. Options C and D are not recognised frameworks, though C borrows the word profit."
+  },
+  {
+    "id": "DR-3-03",
+    "node": "DR-3",
+    "unit": "Retail Management Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A retailer buys 12 electric vans, each costing ₹4,50,000 more than a diesel van. Each saves ₹1,20,000 a year in fuel and upkeep. The payback period on the premium is:",
+    "options": [
+      "A) 3.75 years",
+      "B) 45 years",
+      "C) 0.31 years",
+      "D) 0.27 years"
+    ],
+    "answer": "A",
+    "explanation": "Total premium = 12 x ₹4,50,000 = ₹54,00,000; annual saving = 12 x ₹1,20,000 = ₹14,40,000; payback = 54,00,000 ÷ 14,40,000 = 3.75 years. Option B multiplies only the investment and divides by one van's saving. Option C divides one van's premium by the fleet's total saving. Option D inverts the ratio (14.4 ÷ 54), giving the saving as a fraction of investment, not years."
+  },
+  {
+    "id": "DR-4-01",
+    "node": "DR-4",
+    "unit": "Retail Management Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "A customer buys online, collects the product in a store and returns it through the mobile app. This is an example of:",
+    "options": [
+      "A) Multichannel retailing",
+      "B) Omnichannel retailing",
+      "C) Phygital retailing",
+      "D) Social commerce"
+    ],
+    "answer": "B",
+    "explanation": "Omnichannel integrates channels into one continuous journey, with unified inventory and data. Multichannel (A) has several channels that stay siloed, so the shopper restarts in each. Phygital (C) is about digital technology inside the physical store (smart mirrors, AR). Social commerce (D) is shopping inside social platforms."
+  },
+  {
+    "id": "DR-4-02",
+    "node": "DR-4",
+    "unit": "Retail Management Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A store installs smart mirrors and interactive screens with AR try-on to make the in-store experience interactive. This is best described as:",
+    "options": [
+      "A) Multichannel retailing",
+      "B) Omnichannel retailing",
+      "C) Phygital retailing",
+      "D) The marketplace model"
+    ],
+    "answer": "C",
+    "explanation": "Phygital blends the physical space with digital technology (IoT, AR, RFID, smart mirrors). Omnichannel (B) is the tempting answer but is about integrating channels and data, not enhancing the store itself. Multichannel (A) means separate channels. The marketplace model (D) is about hosting third-party sellers."
+  },
+  {
+    "id": "DR-4-03",
+    "node": "DR-4",
+    "unit": "Retail Management Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "hard",
+    "question": "A retailer has 50,000 online orders a month. An AR try-on feature cuts the return rate from 24% to 18%. Each return costs ₹250. The monthly saving is:",
+    "options": [
+      "A) ₹7,50,000",
+      "B) ₹30,00,000",
+      "C) ₹22,50,000",
+      "D) ₹75,000"
+    ],
+    "answer": "A",
+    "explanation": "Returns fall from 12,000 to 9,000, so 3,000 fewer x ₹250 = ₹7,50,000. Option B is the cost of returns before the feature (12,000 x ₹250). Option C is the cost after the feature (9,000 x ₹250). Option D is a decimal-place slip."
+  },
+  {
+    "id": "DR-4-04",
+    "node": "DR-4",
+    "unit": "Retail Management Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "In an A/B test, the old experience converts at 2.5% and the personalised experience at 2.85%. The relative lift is:",
+    "options": [
+      "A) 14%",
+      "B) 0.35%",
+      "C) 114%",
+      "D) 12.3%"
+    ],
+    "answer": "A",
+    "explanation": "Relative lift = (2.85 - 2.50) ÷ 2.50 = 14%. Option B is the absolute difference in percentage points. Option C is the ratio new ÷ old (114%), not the lift. Option D divides the difference by the new rate instead of the old."
+  },
+  {
+    "id": "DR-5-01",
+    "node": "DR-5",
+    "unit": "Retail Management Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A fictional apparel chain proposes a metaverse showroom alongside an AR size guide and a cart-recovery programme. Following the calibrated-experimentation rule, the best recommendation for the metaverse showroom is:",
+    "options": [
+      "A) A full-scale rollout, since early adopters win",
+      "B) A capped pilot judged on engagement rather than sales",
+      "C) Ignore it completely",
+      "D) Replace physical stores with it"
+    ],
+    "answer": "B",
+    "explanation": "Metaverse retail is an exploratory brand-engagement bet with weak ROI evidence, so cap the budget and judge it on engagement; reserve larger investment for proven tools (AR try-on after a pilot, AI personalisation, cart recovery). Option A treats hype as proven. Option C ignores the lesson that early adopters of earlier waves gained advantage. Option D has no support, since adoption is far below the hype."
+  },
+  {
+    "id": "DR-1-05",
+    "node": "DR-1",
+    "unit": "Retail Management Unit 5",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "Distinguish between the inventory-led and marketplace models of e-retailing on stock ownership, revenue source, an Indian example, one advantage and one limitation.",
+    "model_answer": "| | Inventory-led | Marketplace |\n|---|---|---|\n| Who holds stock | The retailer | Third-party sellers |\n| Revenue | Product margin | Commission, advertising (sponsored listings) and services such as fulfilment |\n| Example | A traditional e-commerce store | Flipkart, Meesho |\n| Advantage | Control over assortment, price, service and customer data | Wide range without owning stock; instant large customer base for sellers; network effects |\n| Limitation | Capital tied up in stock, plus cost of traffic and delivery | Less control over quality and brand; price competition among sellers; fee and policy risk |\n\nThe models are defined by **who holds stock**, not by size. A **hybrid** model uses both (Amazon's evolution). Network effects (more sellers attract more buyers and vice versa) make marketplaces hard to challenge.",
+    "marking_scheme": [
+      {
+        "point": "Stock ownership and revenue source",
+        "marks": 2
+      },
+      {
+        "point": "Examples",
+        "marks": 1
+      },
+      {
+        "point": "Advantage and limitation of each",
+        "marks": 1.5
+      },
+      {
+        "point": "Hybrid or defining-criterion note",
+        "marks": 0.5
+      }
+    ]
+  },
+  {
+    "id": "DR-1-06",
+    "node": "DR-1",
+    "unit": "Retail Management Unit 5",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "An online store gets 60,000 visits in a month. 10% add to cart and 72% of carts are abandoned. Marketing spend is ₹2,52,000 and 50% of orders come from new customers. Compute (a) carts, abandoned carts and orders, (b) conversion rate, (c) marketing cost per order, (d) CAC, and say why (c) and (d) differ.",
+    "model_answer": "**(a)** Carts = 60,000 x 10% = **6,000**; abandoned = 6,000 x 72% = **4,320**; orders = **1,680** (28% checkout completion).\n\n**(b)** Conversion = 1,680 ÷ 60,000 = **2.8%**.\n\n**(c)** Marketing cost per order = 2,52,000 ÷ 1,680 = **₹150**.\n\n**(d)** New customers = 1,680 x 50% = 840; **CAC = 2,52,000 ÷ 840 = ₹300**.\n\n**Why they differ:** cost per order divides spend by all orders; CAC divides it by new customers only, so CAC is higher when part of the orders come from existing customers. Conversion is orders ÷ visits; checkout completion is orders ÷ carts: do not mix them.",
+    "marking_scheme": [
+      {
+        "point": "Carts, abandoned carts, orders",
+        "marks": 1.5
+      },
+      {
+        "point": "Conversion 2.8%",
+        "marks": 1
+      },
+      {
+        "point": "Cost per order ₹150",
+        "marks": 1
+      },
+      {
+        "point": "CAC ₹300",
+        "marks": 1
+      },
+      {
+        "point": "Why different",
+        "marks": 0.5
+      }
+    ]
+  },
+  {
+    "id": "DR-2-05",
+    "node": "DR-2",
+    "unit": "Retail Management Unit 5",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Explain POS, RFID and ERP in retail and how they work together. What is phantom inventory and where does RFID pay most?",
+    "model_answer": "| Technology | What it is | Key benefit |\n|---|---|---|\n| **POS** | Records every transaction at checkout and links inventory, CRM and payments | Real-time sales and stock visibility |\n| **RFID** | Tags on products or pallets for wireless, automated tracking | Inventory accuracy far above manual barcode counts |\n| **ERP** | One system of record for finance, inventory, procurement, HR and sales | Store operations tied to corporate planning and dashboards |\n\n**Together:** POS captures the sale, RFID tracks physical stock in near real time, and ERP integrates both with finance, procurement and planning. The loop supports forecasting, automated replenishment and unified reporting, and underpins omnichannel and analytics.\n\n**Phantom inventory:** the system shows stock that the shelf does not hold (shrinkage, misplacement, scan errors), causing stockouts and bad planning; RFID addresses it.\n\n**Where RFID pays most:** fashion, with many SKUs, sizes and colours and an 'endless aisle' promise; it adds less in basic grocery with few variants.",
+    "marking_scheme": [
+      {
+        "point": "POS, RFID, ERP defined",
+        "marks": 1.5
+      },
+      {
+        "point": "How they work together",
+        "marks": 1.5
+      },
+      {
+        "point": "Phantom inventory",
+        "marks": 1
+      },
+      {
+        "point": "Where RFID pays most",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "DR-2-06",
+    "node": "DR-2",
+    "unit": "Retail Management Unit 5",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "hard",
+    "question": "Forecast versus actual units for four SKUs are: SKU 1 (actual 200, forecast 180), SKU 2 (150, 180), SKU 3 (100, 90), SKU 4 (50, 40). Compute the absolute percentage error of each SKU, the MAPE and the bias in units, and interpret.",
+    "model_answer": "| SKU | Actual | Forecast | Absolute % error |\n|---|---|---|---|\n| 1 | 200 | 180 | 10% |\n| 2 | 150 | 180 | 20% |\n| 3 | 100 | 90 | 10% |\n| 4 | 50 | 40 | 20% |\n| Total | 500 | 490 | |\n\n- Absolute error % = |actual - forecast| ÷ actual.\n- **MAPE** = (10 + 20 + 10 + 20) ÷ 4 = **15%**.\n- **Bias** = 490 - 500 = **-10 units** (-2.0% of actual): the forecast is slightly low overall.\n\n**Interpretation:** the total looks only 2% off, but each SKU is 10% to 20% wrong because over- and under-forecasts cancel (SKU 2 is over-forecast, the others under-forecast). Judge forecasts SKU by SKU. This is why replenishment speed often matters more than forecast accuracy.",
+    "marking_scheme": [
+      {
+        "point": "Absolute percentage errors",
+        "marks": 1.5
+      },
+      {
+        "point": "MAPE 15%",
+        "marks": 1
+      },
+      {
+        "point": "Bias -10 units",
+        "marks": 1
+      },
+      {
+        "point": "Interpretation (errors cancel, SKU level, speed of replenishment)",
+        "marks": 1.5
+      }
+    ]
+  },
+  {
+    "id": "DR-3-04",
+    "node": "DR-3",
+    "unit": "Retail Management Unit 5",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "An online retailer has 60,000 orders a month, 18% are returned, and each return costs ₹140 in reverse logistics. Better size guidance is expected to cut returns to 15%. (a) What is the monthly cost of returns now? (b) What is the monthly saving? (c) Explain reverse logistics and why fewer returns serve both cost and sustainability goals.",
+    "model_answer": "**(a)** Returns = 60,000 x 18% = 10,800; cost = 10,800 x ₹140 = **₹15,12,000 a month**.\n\n**(b)** After guidance: 60,000 x 15% = 9,000 returns; fewer returns = 1,800; saving = 1,800 x ₹140 = **₹2,52,000 a month**.\n\n**(c)** **Reverse logistics** is managing returns, recycling and end-of-life disposal (garment take-back, e-commerce returns). Every avoided return removes a delivery trip, handling and possible disposal, so it cuts cost and emissions together. Returns therefore carry a hidden financial and environmental cost, which makes fewer returns a win-win, alongside right-sized packaging.",
+    "marking_scheme": [
+      {
+        "point": "Returns and cost now",
+        "marks": 1.5
+      },
+      {
+        "point": "Monthly saving",
+        "marks": 1.5
+      },
+      {
+        "point": "Reverse logistics defined",
+        "marks": 1
+      },
+      {
+        "point": "Cost and sustainability link",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "DR-4-05",
+    "node": "DR-4",
+    "unit": "Retail Management Unit 5",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Distinguish multichannel, omnichannel and phygital retailing on philosophy, integration and customer journey, and give one example of each.",
+    "model_answer": "| Basis | Multichannel | Omnichannel | Phygital |\n|---|---|---|---|\n| Philosophy | Several independent sales channels | One continuous journey across all channels | Physical space blended with digital technology |\n| Integration | Low, siloed | High, systemic (ERP, POS, CRM linked in real time) | Experiential: sensory plus interactive interfaces in store |\n| Customer journey | Fragmented; shopper restarts in each channel | Seamless between touchpoints | Immersive; digital interfaces enhance the store |\n| Example | Browse online, but cannot return in store | Buy online, pick up in store, return via the app | Smart mirrors and interactive screens in store |\n\n**One line:** multichannel offers many channels; omnichannel **integrates** them with a single customer view and unified inventory; phygital makes the **store itself** digital. Phygital is not a fourth channel.",
+    "marking_scheme": [
+      {
+        "point": "Philosophy and integration for the three",
+        "marks": 2
+      },
+      {
+        "point": "Customer journey",
+        "marks": 1
+      },
+      {
+        "point": "Three examples",
+        "marks": 1.5
+      },
+      {
+        "point": "One-line difference",
+        "marks": 0.5
+      }
+    ]
+  },
+  {
+    "id": "DR-4-06",
+    "node": "DR-4",
+    "unit": "Retail Management Unit 5",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "hard",
+    "question": "A retailer splits 80,000 sessions between the old experience (2.5% conversion) and a new AI-personalised experience (2.9%). Margin per order is ₹380 and the personalisation engine costs ₹90,000 a month. Compute extra orders, relative lift, extra margin and net monthly gain, and comment on whether to keep it.",
+    "model_answer": "1. Orders: old = 80,000 x 2.5% = **2,000**; new = 80,000 x 2.9% = **2,320**; extra = **320**.\n2. Relative lift = (2.9 - 2.5) ÷ 2.5 = **16%**.\n3. Extra margin = 320 x ₹380 = **₹1,21,600**.\n4. Net = 1,21,600 - 90,000 = **₹31,600 a month**.\n\n**Decision and interpretation:** keep it, but the margin of safety is thin: a small fall in lift wipes out the gain. Confirm statistical significance (groups large enough, run for a full cycle) before concluding, audit the model for bias, and respect consent for personal data.",
+    "marking_scheme": [
+      {
+        "point": "Orders and extra orders",
+        "marks": 1
+      },
+      {
+        "point": "Relative lift 16%",
+        "marks": 1
+      },
+      {
+        "point": "Extra margin and net gain",
+        "marks": 1.5
+      },
+      {
+        "point": "Decision with significance, bias and consent",
+        "marks": 1.5
+      }
+    ]
+  },
+  {
+    "id": "DR-5-02",
+    "node": "DR-5",
+    "unit": "Retail Management Unit 5",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "A retailer is considering four technologies: AR try-on, AI personalisation, a metaverse store and NFT-based digital goods. For each, state the pain point it addresses, the strength of evidence and your recommendation (invest, pilot or small experiment).",
+    "model_answer": "| Technology | Pain point solved | Evidence | Recommendation |\n|---|---|---|---|\n| AR try-on | Fit and style uncertainty, returns | Strong in beauty, eyewear and furniture | **Invest, after a pilot** with a control group |\n| AI personalisation | Low conversion, generic offers | Proven by A/B tests | **Invest, with a bias audit** and consent |\n| Metaverse store | Brand engagement | Adoption uncertain, ROI weak | **Capped pilot only**, judged on engagement |\n| NFTs and digital goods | Exclusive digital ownership | Still evolving | **Small experiment** |\n\n**Rule:** calibrated experimentation. Separate real pain-point solutions from hype-driven spend: invest in proven tools, cap the budget on exploratory ones, and always add an Indian or global example when writing the answer.",
+    "marking_scheme": [
+      {
+        "point": "Pain point for each technology",
+        "marks": 1.5
+      },
+      {
+        "point": "Evidence for each",
+        "marks": 1
+      },
+      {
+        "point": "Recommendations",
+        "marks": 1.5
+      },
+      {
+        "point": "Calibrated experimentation rule",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "DR-1-07",
+    "node": "DR-1",
+    "unit": "Retail Management Unit 5",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "hard",
+    "question": "(a) Explain the models of e-retailing, the features of m-commerce and the four conversion-funnel metrics. (4) (b) Explain social commerce, live commerce and the network effects of marketplaces, with the risks. (3) (c) A seller lists a product at ₹1,200. The platform charges 14% commission (illustrative rate) and ₹70 fulfilment; product cost is ₹800. Compute the seller's net profit and margin, and the share of the price taken by the platform. Interpret. (3)",
+    "model_answer": "**(a) Models:** inventory-led (retailer holds stock; earns product margin), marketplace (third-party sellers hold stock; platform earns commission, ads and services), hybrid (both). **M-commerce** is e-retailing through smartphones and apps: app shopping, wallets and UPI payments, push notifications, location-based offers, mobile-first checkout; mobile leapfrogged desktop in India. **Funnel metrics:** traffic, add-to-cart rate, checkout completion rate and cart abandonment rate; recovery by email, push and retargeting is the first fix.\n\n**(b) Social commerce** builds shopping into social platforms so discovery, engagement and purchase happen in one session (Instagram Shopping); **influencer-driven** commerce uses creators and affiliate links, and **live commerce** blends real-time video with transaction. **Network effects:** more sellers mean more choice for buyers, and more buyers mean more demand for sellers, which makes challengers' lives hard. **Risks:** the platform, not the brand, owns the customer data; dependence on algorithms and policy; price competition among sellers; sponsored content must be disclosed.\n\n**(c) Seller economics.** Commission = 1,200 x 14% = **₹168**; net = 1,200 - 168 - 70 - 800 = **₹162**, which is **13.5%** of the price. Platform share = (168 + 70) ÷ 1,200 = **19.83%**.\n\n**Interpretation:** the seller gets traffic without building a store but gives up about a fifth of the price. An inventory-led retailer keeps that share but pays for stock, traffic and delivery. Choose by capital, capability and control of customer data.",
+    "marking_scheme": [
+      {
+        "point": "Models and m-commerce features",
+        "marks": 2
+      },
+      {
+        "point": "Funnel metrics",
+        "marks": 2
+      },
+      {
+        "point": "Social, live commerce and network effects",
+        "marks": 2
+      },
+      {
+        "point": "Risks",
+        "marks": 1
+      },
+      {
+        "point": "Net profit, margin and platform share",
+        "marks": 2
+      },
+      {
+        "point": "Interpretation",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "DR-2-07",
+    "node": "DR-2",
+    "unit": "Retail Management Unit 5",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "hard",
+    "question": "(a) Explain POS, RFID and ERP and the smart-store technologies built on them. (3) (b) Explain the four levels of analytics maturity, five AI applications in retail and two risks. (3) (c) RFID across 20 stores costs ₹72 lakh. Annual sales are ₹25 crore; better availability cuts lost sales from 5% to 3% of sales at a 32% gross margin; shrinkage savings add ₹8 lakh a year. Compute the annual benefit and payback, and the payback if only half the lost sales are recovered. Comment. (4)",
+    "model_answer": "**(a)** **POS** records every transaction and links inventory, CRM and payments; **RFID** tags allow automated, near-real-time stock tracking and end phantom inventory; **ERP** is one system of record for finance, inventory, procurement, HR and sales. Together they feed forecasting, replenishment and reporting. **Smart-store technologies:** self-checkout kiosks, computer-vision cashier-less checkout, electronic shelf labels for instant central price changes, in-store sensors for customer flow.\n\n**(b) Levels:** descriptive (what happened?), diagnostic (why?), predictive (what will happen?), prescriptive (what should we do, often automated). **AI applications:** demand forecasting at SKU and store level; personalisation engines; dynamic pricing; computer vision (shelf monitoring, cashier-less checkout); market basket analysis. **Risks:** algorithmic bias if training data reflects historical inequity, and privacy and scrutiny of automated pricing and recommendations; poor data foundations also limit any model.\n\n**(c) Payback.**\n1. Recovered sales = 2% x ₹25 crore = **₹50 lakh**; margin = 50 x 32% = **₹16 lakh**.\n2. Annual benefit = 16 + 8 = **₹24 lakh**.\n3. **Payback** = 72 ÷ 24 = **3.0 years**.\n4. Half recovery: 25 lakh x 32% = 8 lakh + 8 = **₹16 lakh**; payback = 72 ÷ 16 = **4.5 years**.\n\n**Comment:** invest if a three-year payback is acceptable and the retailer values the capabilities RFID unlocks (omnichannel stock visibility); the result is sensitive to how much of the lost sales is really recovered, so pilot first.",
+    "marking_scheme": [
+      {
+        "point": "POS, RFID, ERP and smart-store technologies",
+        "marks": 3
+      },
+      {
+        "point": "Four levels",
+        "marks": 1
+      },
+      {
+        "point": "Five AI applications and two risks",
+        "marks": 2
+      },
+      {
+        "point": "Annual benefit ₹24 lakh and payback 3.0 years",
+        "marks": 2
+      },
+      {
+        "point": "Half-recovery payback 4.5 years",
+        "marks": 1
+      },
+      {
+        "point": "Comment",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "DR-3-05",
+    "node": "DR-3",
+    "unit": "Retail Management Unit 5",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "hard",
+    "question": "(a) Explain the triple bottom line, ethical sourcing, ESG and greenwashing. (3) (b) Name five levers of a green supply chain and explain how a retailer should prioritise them. (3) (c) A retailer ships 80,000 orders a month. Right-sizing packaging cuts cost from ₹14 to ₹10 per order. Separately, 18% of orders are returned at ₹160 per return, and better size guidance would cut the return rate to 14%. Compute the packaging saving (monthly and yearly), the current monthly cost of returns and the saving from the lower return rate. Which initiative first? (4)",
+    "model_answer": "**(a) Triple bottom line:** performance across People, Planet and Profit, not financial return alone. **Ethical sourcing:** fair labour, safe conditions and fair pay, checked by third-party audits and certifications. **ESG:** environmental, social and governance, the framework investors and regulators use. **Greenwashing:** overstating or falsely marketing sustainability credentials without substantive practice; a reputational and growing regulatory risk, avoided by verified certification and reporting only what is true.\n\n**(b) Levers:** reverse logistics; carbon footprint reduction (route optimisation, electric fleets, efficient DCs); sustainable packaging; circular supply chains (reuse, refurbishment, recycling, resale and rental); local or regional sourcing. **Prioritise:** start with a carbon or environmental audit to find the highest-impact stages (often transport and packaging), rank actions by impact-to-cost ratio, and add sustainability to vendor scorecards next to cost and quality.\n\n**(c) Numbers.**\n- Packaging saving = (14 - 10) x 80,000 = **₹3,20,000 a month = ₹38,40,000 a year**.\n- Returns now = 80,000 x 18% = 14,400; cost = 14,400 x ₹160 = **₹23,04,000 a month**.\n- At 14%: 11,200 returns; 3,200 fewer x ₹160 = **₹5,12,000 a month** saved.\n\n**Decision:** do both, but packaging first because it pays almost at once with a small redesign cost and also cuts emissions; returns reduction is a larger saving per month here (₹5.12 lakh against ₹3.2 lakh) but needs a size-guidance investment whose cost is not given, so size it against that cost. Packaging reduction is a rare win-win; fleet changes need a payback test.",
+    "marking_scheme": [
+      {
+        "point": "TBL, ethical sourcing, ESG, greenwashing",
+        "marks": 3
+      },
+      {
+        "point": "Five levers",
+        "marks": 1.5
+      },
+      {
+        "point": "Audit and impact-to-cost prioritisation",
+        "marks": 1.5
+      },
+      {
+        "point": "Packaging saving monthly and yearly",
+        "marks": 1
+      },
+      {
+        "point": "Returns cost and saving",
+        "marks": 2
+      },
+      {
+        "point": "Decision with reasoning",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "DR-4-07",
+    "node": "DR-4",
+    "unit": "Retail Management Unit 5",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "hard",
+    "question": "(a) Distinguish multichannel, omnichannel and phygital retail, and explain Retail 4.0. (3) (b) Explain metaverse retail, AR virtual try-on, digital twins, hyper-personalisation and NFTs, with one advantage and one limitation of the group. (3) (c) A retailer has 80,000 online orders a month with a 25% return rate; each return costs ₹180. An AR try-on feature is expected to cut returns to 21% and costs ₹4,00,000 a month. Compute the monthly saving and net gain, and recommend how to proceed. (4)",
+    "model_answer": "**(a)** Multichannel: several independent, siloed channels. Omnichannel: one continuous journey with unified inventory and a single customer view (buy online, pick up in store, return via the app). Phygital: physical space blended with digital technology (IoT, AR and VR, RFID, smart mirrors) for an interactive experience. **Retail 4.0** is the hybrid offline plus online model with AI-powered personalisation, an agile and efficient retail ecosystem.\n\n**(b)** **Metaverse retail:** persistent immersive virtual environments with virtual stores and digital-only products. **AR try-on:** overlays products on the live camera feed, reducing purchase uncertainty and returns. **Digital twins:** virtual replicas of stores or products for planning and engagement. **Hyper-personalisation:** AI individualising pricing, content and store experience from real-time behaviour. **NFTs:** blockchain-based ownership for exclusive digital or phygital products. **Advantage:** less uncertainty (AR), novel engagement, revenue from digital goods. **Limitation:** metaverse adoption is uncertain and ROI measurement is immature; privacy risk rises with near-individual targeting.\n\n**(c) AR economics.** Returns now = 80,000 x 25% = 20,000; after = 80,000 x 21% = 16,800; fewer = **3,200**. Saving = 3,200 x ₹180 = **₹5,76,000 a month**. Net = 5,76,000 - 4,00,000 = **₹1,76,000 a month**.\n\n**Recommendation:** the feature pays for itself 1.44 times (5.76 ÷ 4.0), so **invest after a pilot** on a subset of products with a control group to confirm the cut in returns is real, because a smaller cut (for example to 23%) gives 1,600 fewer returns, a ₹2,88,000 saving and a loss against the ₹4,00,000 cost. Treat the metaverse as a capped pilot judged on engagement (calibrated experimentation).",
+    "marking_scheme": [
+      {
+        "point": "Three channel models and Retail 4.0",
+        "marks": 3
+      },
+      {
+        "point": "Five technologies defined",
+        "marks": 2
+      },
+      {
+        "point": "Advantage and limitation",
+        "marks": 1
+      },
+      {
+        "point": "Returns saving and net gain",
+        "marks": 2
+      },
+      {
+        "point": "Recommendation with pilot and sensitivity",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "DR-5-03",
+    "node": "DR-5",
+    "unit": "Retail Management Unit 5",
+    "type": "case",
+    "marks": 15,
+    "difficulty": "hard",
+    "question": "**Case: a digital transformation plan.** Marigold Apparel (fictional) has 24 stores and a mobile app. In a month the app gets 1,20,000 visits; 5% add to cart and 60% of carts are abandoned. Marketing spend is ₹4,80,000 and 60% of orders come from new customers. Average order value is ₹1,500 at a 30% gross margin.\n\nRFID in all 24 stores would cost ₹60 lakh. Annual store sales are ₹20 crore; lost sales from stockouts would fall from 4% to 2.5% of sales at a 35% gross margin; shrinkage savings add ₹4.5 lakh a year.\n\nAnnual online orders equal 12 times the month's orders above. Right-sizing packaging saves ₹5 per online order. The online return rate is 24% and each return costs ₹220; an AR size guide is expected to cut returns to 20% at a pilot cost of ₹1,50,000 a year. A metaverse showroom has also been proposed.\n\n(a) Compute orders, conversion rate, marketing cost per order, CAC, gross margin after marketing, and the margin from recovering 15% of abandoned carts. (4)\n(b) Compute the RFID annual benefit and payback, and the payback if only half the lost sales are recovered. (4)\n(c) Compute the annual packaging saving and state how the retailer should avoid greenwashing when it advertises the change. (3)\n(d) Compute the net first-year gain from the AR size guide and recommend what to do about AR and the metaverse showroom, with an ethical safeguard. (4)",
+    "model_answer": "**(a) Funnel.** Carts = 1,20,000 x 5% = 6,000; abandoned = 3,600; orders = **2,400**; conversion = **2.0%**. Cost per order = 4,80,000 ÷ 2,400 = **₹200**. New customers = 1,440; **CAC = ₹333.33**. Margin per order = 1,500 x 30% = ₹450; gross margin = 2,400 x 450 = **₹10,80,000**; after marketing = **₹6,00,000**. Cart recovery: 15% of 3,600 = 540 orders; margin = 540 x 450 = **₹2,43,000**.\n\n**(b) RFID.** Recovered sales = 1.5% x ₹20 crore = **₹30 lakh**; margin = 30 x 35% = **₹10.5 lakh**; plus shrinkage ₹4.5 lakh = **₹15 lakh a year**; **payback = 60 ÷ 15 = 4.0 years**. Half recovery: 5.25 + 4.5 = **₹9.75 lakh**; payback = 60 ÷ 9.75 = **6.15 years**.\n\n**(c) Packaging.** Annual online orders = 2,400 x 12 = 28,800; saving = 28,800 x ₹5 = **₹1,44,000 a year**. To avoid greenwashing, make a claim only if it is true and verified: use third-party-verified materials or certification, report the actual figure (cost and material saved), and do not call the whole range 'eco-friendly' on the strength of one change.\n\n**(d) AR size guide.** Returns now = 28,800 x 24% = 6,912; after = 5,760; fewer = **1,152**; saving = 1,152 x ₹220 = **₹2,53,440**; less pilot ₹1,50,000 = **₹1,03,440 net**. **Recommendation:** pilot the AR guide on a subset of products with a control group, then scale if the cut is real; give the metaverse showroom only a capped pilot judged on engagement, not sales. **Ethical safeguard:** audit personalisation models for bias, get consent for data use and disclose sponsored content.\n\n| Item | Result |\n|---|---|\n| Conversion, cost per order, CAC | 2.0%, ₹200, ₹333.33 |\n| Margin after marketing | ₹6,00,000 |\n| Cart recovery (15%) | 540 orders, ₹2,43,000 |\n| RFID benefit, payback | ₹15 lakh a year, 4.0 years (6.15 on half recovery) |\n| Packaging saving | ₹1,44,000 a year |\n| AR size guide, net first year | ₹1,03,440 |\n\n**Decision line:** run cart recovery now, adopt the packaging change, pilot the AR guide, cap the metaverse showroom, and treat RFID as a longer-payback investment (4 years, sensitive to recovery) justified only if the retailer values omnichannel stock visibility; its payback is longer than a three-year hurdle. **Interpretation:** the cheapest, proven items come first; the larger RFID and the exploratory metaverse need either a longer horizon or a cap. All rates are given or illustrative.",
+    "marking_scheme": [
+      {
+        "point": "Orders, conversion, cost per order, CAC",
+        "marks": 2
+      },
+      {
+        "point": "Margin after marketing and cart recovery",
+        "marks": 2
+      },
+      {
+        "point": "RFID benefit and payback 4.0 years",
+        "marks": 2
+      },
+      {
+        "point": "Half-recovery payback 6.15 years",
+        "marks": 2
+      },
+      {
+        "point": "Packaging saving and greenwashing guard",
+        "marks": 3
+      },
+      {
+        "point": "AR net gain",
+        "marks": 1.5
+      },
+      {
+        "point": "Recommendation (pilot AR, cap metaverse) and ethics",
+        "marks": 2.5
+      }
+    ]
+  },
+  {
+    "id": "DR-3-06",
+    "node": "DR-3",
+    "unit": "Retail Management Unit 5",
+    "type": "case",
+    "marks": 15,
+    "difficulty": "hard",
+    "question": "**Case: how green should the chain go?** EcoKart (fictional) ships 1,20,000 orders a month.\n\n**Packaging and returns.** Right-sizing packaging cuts cost from ₹13 to ₹10 per order. Today 20% of orders are returned at ₹150 per return; better size guidance is expected to cut the return rate to 16%.\n\n**Fleet.** It is considering 15 electric vans, each costing ₹5,00,000 more than a diesel van and saving ₹1,10,000 a year in fuel and upkeep.\n\n**Vendors.** It adds sustainability to its vendor scorecard. Scores out of 5:\n\n| Vendor | Quality | Delivery | Price | Sustainability |\n|---|---|---|---|---|\n| A | 5 | 4 | 2 | 5 |\n| B | 4 | 5 | 5 | 2 |\n| C | 3 | 4 | 4 | 4 |\n\nCurrent weights are quality 0.25, delivery 0.20, price 0.30, sustainability 0.25.\n\n**Marketing.** The marketing team wants to advertise 'our packaging is 100% eco-friendly', but only 40% of the new packaging is recycled material.\n\n(a) Compute the monthly and yearly packaging saving, the monthly cost of returns now, and the monthly saving from the lower return rate. (4)\n(b) Compute the fleet payback and give a decision. (3)\n(c) Compute the weighted vendor scores. Then re-score with weights quality 0.25, delivery 0.20, price 0.15, sustainability 0.40. Interpret. (4)\n(d) Evaluate the marketing claim and recommend an overall plan. (4)",
+    "model_answer": "**(a)** Packaging saving = (13 - 10) x 1,20,000 = **₹3,60,000 a month = ₹43,20,000 a year**. Returns now = 1,20,000 x 20% = 24,000; cost = 24,000 x ₹150 = **₹36,00,000 a month**. At 16%: 19,200 returns; 4,800 fewer x ₹150 = **₹7,20,000 a month** saved.\n\n**(b)** Premium = 15 x ₹5,00,000 = **₹75,00,000**; saving = 15 x ₹1,10,000 = **₹16,50,000 a year**; payback = 75 ÷ 16.5 = **4.55 years**. Decision: stage the fleet and judge it against a 4 to 5 year payback hurdle plus regulatory and brand benefits that the saving alone does not capture; it is an investment, unlike packaging, which pays almost at once.\n\n**(c) Scores (current weights):** A = 1.25 + 0.80 + 0.60 + 1.25 = **3.90**; B = 1.00 + 1.00 + 1.50 + 0.50 = **4.00**; C = 0.75 + 0.80 + 1.20 + 1.00 = **3.75**. B wins narrowly (0.10 over A). **Re-weighted (price 0.15, sustainability 0.40):** A = 1.25 + 0.80 + 0.30 + 2.00 = **4.35**; B = 1.00 + 1.00 + 0.75 + 0.80 = **3.55**; C = 0.75 + 0.80 + 0.60 + 1.60 = **3.75**. A now wins clearly and B falls to last. **Interpretation:** the ranking is driven by the weights, which are a policy choice and must be backed by third-party verification of the sustainability scores.\n\n**(d) Marketing claim.** Only 40% of the packaging is recycled, so '100% eco-friendly' overstates practice: it is **greenwashing**, a reputational and regulatory risk. Advertise only what is true and verified, for example the right-sizing and the actual recycled share, with certification. **Plan:** (1) packaging first (₹43.2 lakh a year, also lower waste); (2) fund the size-guidance programme because fewer returns cut cost (₹7.2 lakh a month) and emissions; (3) stage the fleet on its 4.5-year payback; (4) adopt the green scorecard with verified data; (5) start with a carbon audit and rank further actions by impact-to-cost. Figures are invented for teaching.",
+    "marking_scheme": [
+      {
+        "point": "Packaging saving monthly and yearly",
+        "marks": 1.5
+      },
+      {
+        "point": "Returns cost now and saving",
+        "marks": 2.5
+      },
+      {
+        "point": "Fleet premium, saving, payback",
+        "marks": 2
+      },
+      {
+        "point": "Fleet decision",
+        "marks": 1
+      },
+      {
+        "point": "Scores with current weights",
+        "marks": 2
+      },
+      {
+        "point": "Scores with new weights",
+        "marks": 1
+      },
+      {
+        "point": "Interpretation of scorecard",
+        "marks": 1
+      },
+      {
+        "point": "Greenwashing evaluation",
+        "marks": 2
+      },
+      {
+        "point": "Overall plan",
+        "marks": 2
+      }
+    ]
+  }
+]

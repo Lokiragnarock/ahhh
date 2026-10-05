@@ -1,0 +1,686 @@
+[
+  {
+    "id": "CV-1-01",
+    "node": "CV-1",
+    "unit": "CRM Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "In a relational customer database, the field (or fields) that uniquely identifies each customer record is called the:",
+    "options": [
+      "A) Foreign table",
+      "B) Primary key",
+      "C) Middleware",
+      "D) Merge-purge file"
+    ],
+    "answer": "B",
+    "explanation": "B is right: the primary key (for example a unique customer number in the first column) identifies each record. A is not a term for the identifier. C (middleware, the tempting one) is software that brokers data between systems, not a field. D is the process of combining and removing duplicates when populating the database."
+  },
+  {
+    "id": "CV-1-02",
+    "node": "CV-1",
+    "unit": "CRM Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A customer places many orders over time. In a relational database, how is the Customer table linked to the Orders table?",
+    "options": [
+      "A) One-to-one link",
+      "B) Many-to-many link",
+      "C) One-to-many link",
+      "D) No link; the tables are kept separate"
+    ],
+    "answer": "C",
+    "explanation": "C is right: one customer, many orders. A (one-to-one, the tempting one) would mean each customer has exactly one order. B would mean each order can belong to many customers. D defeats the purpose of a relational database, where linked tables give a complete customer picture."
+  },
+  {
+    "id": "CV-1-03",
+    "node": "CV-1",
+    "unit": "CRM Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Which software role best describes middleware in data integration?",
+    "options": [
+      "A) A broker that receives data from source systems and passes it to destination systems in a format they understand",
+      "B) A table that stores customer purchases",
+      "C) A dashboard for senior managers",
+      "D) A rule that removes customers inactive for a set period"
+    ],
+    "answer": "A",
+    "explanation": "A is right: middleware is the glue that connects systems that could not otherwise communicate. B describes a database table. C describes a strategic dashboard. D (the tempting one) is purging, a maintenance step (step 6 of database development), not integration software."
+  },
+  {
+    "id": "CV-2-01",
+    "node": "CV-2",
+    "unit": "CRM Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Using the class formula, what is the revenue CLV of a customer who spends ₹450 per purchase, buys 8 times a year and stays 3 years?",
+    "options": [
+      "A) ₹1,350",
+      "B) ₹3,600",
+      "C) ₹10,800",
+      "D) ₹12,150"
+    ],
+    "answer": "C",
+    "explanation": "CLV = 450 × 8 × 3 = ₹10,800. A (450 × 3) forgets purchase frequency. B (450 × 8) forgets lifespan, which is the most tempting slip. D is not obtained from the three inputs."
+  },
+  {
+    "id": "CV-2-02",
+    "node": "CV-2",
+    "unit": "CRM Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A salon customer visits 3 times a week for 48 weeks a year, spends ₹120 per visit and stays 4 years. The revenue CLV is:",
+    "options": [
+      "A) ₹1,440",
+      "B) ₹17,280",
+      "C) ₹69,120",
+      "D) ₹74,880"
+    ],
+    "answer": "C",
+    "explanation": "Frequency = 3 × 48 = 144 visits a year; CLV = 120 × 144 × 4 = ₹69,120. A (120 × 3 × 4) forgets the weeks. B (120 × 3 × 48) forgets the lifespan. D uses 52 weeks although the question says 48."
+  },
+  {
+    "id": "CV-2-03",
+    "node": "CV-2",
+    "unit": "CRM Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "hard",
+    "question": "A revenue CLV is ₹10,800 and the gross margin is 25%. The profit CLV is:",
+    "options": [
+      "A) ₹2,700",
+      "B) ₹8,100",
+      "C) ₹10,800",
+      "D) ₹43,200"
+    ],
+    "answer": "A",
+    "explanation": "Profit CLV = 10,800 × 0.25 = ₹2,700. B (10,800 × 0.75) applies the cost percentage instead of the margin. C is still revenue CLV. D divides by 0.25, which inflates rather than reduces the figure."
+  },
+  {
+    "id": "CV-2-04",
+    "node": "CV-2",
+    "unit": "CRM Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "hard",
+    "question": "In discounted CLV, a customer yields ₹5,000 margin a year and the yearly retention rate is 90%. What expected margin (before discounting) should be used for year 3?",
+    "options": [
+      "A) ₹4,500",
+      "B) ₹4,050",
+      "C) ₹3,645",
+      "D) ₹13,500"
+    ],
+    "answer": "C",
+    "explanation": "Retention in year t must be cumulative, 0.9³ = 0.729, so 5,000 × 0.729 = ₹3,645. A uses the one-year rate r instead of r^t, which overstates later years. B uses 0.9² (year 2). D multiplies by 3 instead of raising to the power."
+  },
+  {
+    "id": "CV-2-05",
+    "node": "CV-2",
+    "unit": "CRM Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Predictive CLV differs from historic CLV because it:",
+    "options": [
+      "A) Looks only at what the customer has already spent",
+      "B) Uses past data with statistical or machine-learning methods to forecast spend and churn risk",
+      "C) Ignores past data completely",
+      "D) Is simpler and needs no algorithm"
+    ],
+    "answer": "B",
+    "explanation": "B is right. A describes historic CLV. C is wrong because predictive models are built on past data. D (the tempting one) is the advantage of historic CLV; predictive CLV needs an algorithmic process and is more complex."
+  },
+  {
+    "id": "CV-2-06",
+    "node": "CV-2",
+    "unit": "CRM Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "An online store offers free shipping above a spend threshold. Which CLV lever is this, and which formula term does it mainly raise?",
+    "options": [
+      "A) Loyalty programme; customer lifespan",
+      "B) Increase average order value; average purchase value",
+      "C) Optimise onboarding; purchase frequency",
+      "D) Omnichannel support; average purchase value"
+    ],
+    "answer": "B",
+    "explanation": "B is right: free shipping above a spend level lifts average order value, raising average purchase value. A (the tempting one) would be a reward scheme that builds loyalty and lifespan. C concerns post-purchase explanation of delivery and returns. D concerns phone, email, social and chatbot support."
+  },
+  {
+    "id": "CV-3-01",
+    "node": "CV-3",
+    "unit": "CRM Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "Which is the correct order of the retention-loyalty-profit chain?",
+    "options": [
+      "A) Customer satisfaction, customer loyalty, customer retention, profitability",
+      "B) Customer retention, customer satisfaction, customer loyalty, profitability",
+      "C) Customer satisfaction, customer retention, customer loyalty, profitability",
+      "D) Profitability, customer loyalty, customer retention, customer satisfaction"
+    ],
+    "answer": "C",
+    "explanation": "C is right: satisfaction drives retention, retention deepens loyalty, loyalty unlocks profitability. A puts loyalty before retention (the tempting swap). B puts retention before the satisfaction that causes it. D reverses the chain."
+  },
+  {
+    "id": "CV-3-02",
+    "node": "CV-3",
+    "unit": "CRM Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A customer keeps using a bank only because no other bank operates in the village, though she does not recommend it. She is:",
+    "options": [
+      "A) Retained but not loyal",
+      "B) Loyal but not retained",
+      "C) Both retained and loyal",
+      "D) An advocate"
+    ],
+    "answer": "A",
+    "explanation": "A is right: retention is behaviour over time, while loyalty adds attitude, preference and advocacy. C (the tempting one) assumes that staying means preferring. B is impossible as described since she stays. D requires recommending the bank."
+  },
+  {
+    "id": "CV-3-03",
+    "node": "CV-3",
+    "unit": "CRM Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "hard",
+    "question": "Using expected lifespan ≈ 1 ÷ (1 − retention rate), a firm raises retention from 75% to 80%. Expected lifespan rises from:",
+    "options": [
+      "A) 1.33 to 1.25 years",
+      "B) 4 to 5 years",
+      "C) 3 to 4 years",
+      "D) 4 to 4.8 years"
+    ],
+    "answer": "B",
+    "explanation": "At 75%: 1 ÷ 0.25 = 4 years; at 80%: 1 ÷ 0.20 = 5 years. A divides 1 by the retention rate itself instead of the churn rate. C and D are not obtained from the formula."
+  },
+  {
+    "id": "CV-4-01",
+    "node": "CV-4",
+    "unit": "CRM Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "The class strategy for the high-value (VIP) tier is to:",
+    "options": [
+      "A) Cross-sell and upsell through automated emails",
+      "B) Retain through exclusive treatment such as dedicated account managers and early access",
+      "C) Shift support to chatbots and knowledge bases",
+      "D) Reprice or de-market"
+    ],
+    "answer": "B",
+    "explanation": "B is right: protect the most valuable customers from churn. A is the mid-value strategy. C is the low-value cost-to-serve strategy. D applies to below-zero customers."
+  },
+  {
+    "id": "CV-4-02",
+    "node": "CV-4",
+    "unit": "CRM Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Which is the class approach to low-value (transactional) customers?",
+    "options": [
+      "A) Ignore them completely",
+      "B) Minimise cost to serve through self-service and try to move them up",
+      "C) Give them dedicated account managers",
+      "D) Stop all marketing"
+    ],
+    "answer": "B",
+    "explanation": "B is right: low cost self-service (chatbots, knowledge bases, forums) plus moving customers to mid. A (the tempting one) is the trap: low value does not mean ignore, and visibly poor service can create negative word of mouth. C is the VIP treatment, which low-value customers do not earn. D drops any chance of moving them up."
+  },
+  {
+    "id": "CV-4-03",
+    "node": "CV-4",
+    "unit": "CRM Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Value-based segmentation divides customers mainly by:",
+    "options": [
+      "A) Age, gender and location",
+      "B) How much value they bring to the company, using frequency, amount spent, profit and CLV",
+      "C) The channel through which they were acquired",
+      "D) The month they joined"
+    ],
+    "answer": "B",
+    "explanation": "B is right. A (the tempting one) describes demographic segmentation; value-based segmentation uses behaviour and profit. C and D are not the class determinants of value."
+  },
+  {
+    "id": "CV-5-01",
+    "node": "CV-5",
+    "unit": "CRM Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "hard",
+    "question": "A fictional club has 150 Gold members with a CLV of ₹60,000 each and 850 Basic members with a CLV of ₹6,000 each (revenue CLV). What share of total lifetime revenue do Gold members account for?",
+    "options": [
+      "A) 15%",
+      "B) 63.8%",
+      "C) 80%",
+      "D) 36.2%"
+    ],
+    "answer": "B",
+    "explanation": "Gold = 150 × 60,000 = ₹90,00,000; Basic = 850 × 6,000 = ₹51,00,000; total ₹1,41,00,000; Gold share = 90 ÷ 141 = 63.8%. A is the share of members, not of revenue. C is the 80/20 rule, which is a tendency and not what the data show. D is the Basic share."
+  },
+  {
+    "id": "CV-1-04",
+    "node": "CV-1",
+    "unit": "CRM Unit 3",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "Explain the six steps in developing a customer-related database. Give detail on the two steps that carry most effort.",
+    "model_answer": "A customer-related database is an organised digital collection of data about past, current and potential buyers.\n\n1. **Define the database functions:** it supports the four forms of CRM (strategic, operational, analytical, collaborative).\n2. **Define information requirements:** products, contact data, contact history, transaction history, pipeline, communication preferences.\n3. **Identify information sources:** internal or external.\n4. **Select the technology and hardware platform:** usually a relational database.\n5. **Populate the database:** source, verify, validate, de-duplicate, and merge and purge data from two or more sources.\n6. **Maintain the database:** update new transactions and campaigns at once, de-duplicate regularly, audit files every year, purge customers inactive for a set period.\n\n(Hook: F-I-S-T-P-M.) **Interpretation.** A poorly populated database fails at step 5, and every CRM application built on it gives wrong answers.",
+    "marking_scheme": [
+      {
+        "point": "Definition",
+        "marks": 0.5
+      },
+      {
+        "point": "Six steps in order",
+        "marks": 3
+      },
+      {
+        "point": "Detail on populate and maintain",
+        "marks": 1
+      },
+      {
+        "point": "Interpretation",
+        "marks": 0.5
+      }
+    ]
+  },
+  {
+    "id": "CV-1-05",
+    "node": "CV-1",
+    "unit": "CRM Unit 3",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Explain the single view of the customer. Describe the integration pipeline, the role of middleware and external data, and give an illustration.",
+    "model_answer": "**Single view.** All important information about a customer in one place instead of in separate systems.\n\n**Illustration.** One customer buys in a retail store, on the website, from a catalogue, through a party plan and through home shopping. Without integration the firm holds one record per channel (five channels, five records); with integration it sees one complete picture: total purchases, products bought, channels used, frequency.\n\n**Pipeline.** Sources (store, party plan, catalogue, website, home shopping) → integrated customer database plus **external data** (demographic, market research, geographic, industry, credit, social media) → data analysis and mining → CRM strategy development and implementation.\n\n**Middleware.** A broker that receives data from source systems and passes it to destination systems in a format they understand; integration depends on standardisation.\n\n**Interpretation.** A coherent single view is often a hurdle that must be crossed before marketing, sales or service CRM applications go live.",
+    "marking_scheme": [
+      {
+        "point": "Definition and illustration",
+        "marks": 1.5
+      },
+      {
+        "point": "Pipeline stages",
+        "marks": 1.5
+      },
+      {
+        "point": "Middleware and standardisation",
+        "marks": 1
+      },
+      {
+        "point": "External data and interpretation",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "CV-2-07",
+    "node": "CV-2",
+    "unit": "CRM Unit 3",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "A fictional hair salon finds that an average customer spends ₹750 per visit, visits 9 times a year and stays for 6 years. The gross margin is 40% and the cost of acquiring a customer is ₹3,000. (a) Compute the revenue CLV using the class formula. (b) Compute the profit CLV. (c) Compute CLV to CAC on both bases and interpret.",
+    "model_answer": "**(a) Revenue CLV** = average purchase value × purchase frequency × lifespan = 750 × 9 × 6 = **₹40,500**.\n\n**(b) Profit CLV** = ₹40,500 × 0.4 = **₹16,200** (margin is the stated assumption).\n\n**(c)** Revenue CLV : CAC = 40,500 ÷ 3,000 = **13.5 : 1**. Profit CLV : CAC = 16,200.0 ÷ 3,000 = **5.4 : 1**.\n\n**Interpretation.** Acquisition at ₹3,000 is comfortably covered even on a profit basis, so the salon can justify spending on retention. Always state whether the CLV is revenue or profit; the profit basis is the better guide to how much to spend.",
+    "marking_scheme": [
+      {
+        "point": "Revenue CLV with formula and working",
+        "marks": 1.5
+      },
+      {
+        "point": "Profit CLV",
+        "marks": 1
+      },
+      {
+        "point": "Both CLV to CAC ratios",
+        "marks": 1.5
+      },
+      {
+        "point": "Interpretation and revenue-versus-profit statement",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "CV-2-08",
+    "node": "CV-2",
+    "unit": "CRM Unit 3",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "hard",
+    "question": "A fictional subscription service earns a yearly margin of ₹6,000 per active customer, received at the end of each year. Yearly retention is 75%, the discount rate is 8%, the horizon is 3 years and the acquisition cost is ₹3,000. Compute (a) the present value of expected margins, (b) the net CLV, and (c) CLV to CAC. State why cumulative retention r^t must be used.",
+    "model_answer": "| Year t | Cumulative retention 0.75^t | Expected margin ₹ | Discount factor 1/1.08^t | PV ₹ |\n|---|---|---|---|---|\n| 1 | 0.7500 | 4,500.00 | 0.9259 | 4,166.67 |\n| 2 | 0.5625 | 3,375.00 | 0.8573 | 2,893.52 |\n| 3 | 0.4219 | 2,531.25 | 0.7938 | 2,009.39 |\n| **Total** | | | | **9,069.57** |\n\n**(a)** PV of expected margins ≈ **₹9,070** (totals from unrounded figures).\n**(b)** Net CLV = 9,069.57 − 3,000 = **₹6,070**.\n**(c)** CLV to CAC = 9,069.57 ÷ 3,000 = **3.02 : 1**.\n\n**Why r^t.** Retention in year t is the probability that the customer is still active, which is the product of surviving every earlier year: 0.75 in year 1, 0.5625 in year 2. Using 0.75 in every year would overstate later margins.",
+    "marking_scheme": [
+      {
+        "point": "Cumulative retention and expected margins by year",
+        "marks": 1.5
+      },
+      {
+        "point": "Discount factors and PV table",
+        "marks": 1.5
+      },
+      {
+        "point": "Net CLV and CLV to CAC",
+        "marks": 1.5
+      },
+      {
+        "point": "Explanation of r^t",
+        "marks": 0.5
+      }
+    ]
+  },
+  {
+    "id": "CV-2-09",
+    "node": "CV-2",
+    "unit": "CRM Unit 3",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "State any five ways of improving customer lifetime value. Link each to a term in the CLV formula.",
+    "model_answer": "| Lever | Class example | Formula term moved |\n|---|---|---|\n| Loyalty programme | Discount code on reaching a spend threshold | Frequency and lifespan |\n| Increase average order value | Free shipping above a spend level | Average purchase value |\n| Personalised experiences | Search results highlighting discounts on favourites | Value and frequency |\n| Streamline experiences | Ad message matches landing page; support knows the offer | Lifespan (fewer exits) |\n| Optimise onboarding | Delivery, set-up, support and returns explained after purchase | Lifespan |\n| Improve customer service | Trained, knowledgeable support staff | Lifespan |\n| Omnichannel support | Phone, email, social; chatbots for 24/7 response | Lifespan and frequency |\n\n*(Any five.)* **Interpretation.** Each lever moves one term of average purchase value × frequency × lifespan, so a firm should pick the lever matching the weakest term.",
+    "marking_scheme": [
+      {
+        "point": "Five levers named",
+        "marks": 2
+      },
+      {
+        "point": "Class example for each",
+        "marks": 1.5
+      },
+      {
+        "point": "Link to formula terms",
+        "marks": 1
+      },
+      {
+        "point": "Interpretation",
+        "marks": 0.5
+      }
+    ]
+  },
+  {
+    "id": "CV-3-04",
+    "node": "CV-3",
+    "unit": "CRM Unit 3",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "Explain the retention-loyalty-profit chain. Define each link and show how it operates as a virtuous cycle.",
+    "model_answer": "**Chain.** Customer satisfaction → customer retention → customer loyalty → profitability, a core component of the service-profit chain.\n\n| Link | Definition | Importance |\n|---|---|---|\n| Satisfaction | Degree to which customers are pleased with products, services and experience | Drives retention and loyalty |\n| Retention | Ability to keep customers over time | Often cheaper than acquisition; retained customers tend to spend more |\n| Loyalty | Consistently choosing a brand and willing to repurchase and recommend | Advocates spread word of mouth |\n| Profitability | Ability to generate profit | Loyal customers buy more and need less marketing spend |\n\n**Virtuous cycle.** Profit is reinvested in products, service and experience, which raises satisfaction again.\n\n**Example.** A bank customer pleased with fast service stays, adds a loan and insurance, and recommends the bank; the extra profit funds better service.\n\n**Interpretation.** This is the economic reason CRM shifts spending from acquisition to retention.",
+    "marking_scheme": [
+      {
+        "point": "Chain in correct order",
+        "marks": 1
+      },
+      {
+        "point": "Definition and importance of the four links",
+        "marks": 2
+      },
+      {
+        "point": "Virtuous cycle",
+        "marks": 1
+      },
+      {
+        "point": "Example and interpretation",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "CV-3-05",
+    "node": "CV-3",
+    "unit": "CRM Unit 3",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "hard",
+    "question": "A fictional gym earns ₹12,000 revenue a year from an average member. Using expected lifespan ≈ 1 ÷ (1 − retention rate) and the basic CLV formula, compute the revenue CLV when yearly retention is 70% and when it improves to 80%. By what percentage does CLV rise, and what does this show about retention?",
+    "model_answer": "**At 70%:** lifespan = 1 ÷ 0.30 = 3.33 years; CLV = 12,000 × 3.33 = **₹40,000**.\n**At 80%:** lifespan = 1 ÷ 0.20 = 5 years; CLV = 12,000 × 5 = **₹60,000**.\n\n**Increase** = (60,000 − 40,000) ÷ 40,000 = **50%** (equal to 5.00 ÷ 3.33 − 1).\n\n**Interpretation.** A 10-point rise in retention raises expected lifespan by half and therefore CLV by half, with no change in spend per year. Because CLV multiplies by lifespan, retention is a powerful lever, which is the arithmetic behind the chain from retention to profitability. The effect is non-linear: each extra point of retention adds more at higher retention levels.",
+    "marking_scheme": [
+      {
+        "point": "Lifespan at both retention rates",
+        "marks": 2
+      },
+      {
+        "point": "CLV at both rates",
+        "marks": 1.5
+      },
+      {
+        "point": "Percentage increase",
+        "marks": 1
+      },
+      {
+        "point": "Interpretation",
+        "marks": 0.5
+      }
+    ]
+  },
+  {
+    "id": "CV-4-04",
+    "node": "CV-4",
+    "unit": "CRM Unit 3",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Explain value-based segmentation. Describe the three class tiers with the strategy for each, and the treatment of below-zero customers.",
+    "model_answer": "**Definition.** Value-based segmentation divides customers by how much value they bring to the company (purchase frequency, amount spent, profit generated and CLV), not by age, gender or location alone. Guiding question: which customers are most valuable and how should each group be treated?\n\n| Tier | Focus | Class action |\n|---|---|---|\n| High value (VIP) | Retention and exclusive treatment | Dedicated account managers, early access, premium support |\n| Mid value (core) | Cross-sell and upsell to raise order value or upgrade tier | Automated emails with complementary products or volume discounts |\n| Low value (transactional) | Minimise cost to serve | Chatbots, knowledge bases, forums; avoid heavy direct sales cost |\n\n**Below-zero customers** cost more to acquire and serve than they return: reprice or de-market them.\n\n**Interpretation.** Segment spending where it earns the most while still moving customers up; low value does not mean ignore, and tiers should be reviewed regularly.",
+    "marking_scheme": [
+      {
+        "point": "Definition and determinants of value",
+        "marks": 1.5
+      },
+      {
+        "point": "Three tiers with actions",
+        "marks": 2.5
+      },
+      {
+        "point": "Below-zero treatment",
+        "marks": 0.5
+      },
+      {
+        "point": "Interpretation",
+        "marks": 0.5
+      }
+    ]
+  },
+  {
+    "id": "CV-1-06",
+    "node": "CV-1",
+    "unit": "CRM Unit 3",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "medium",
+    "question": "Explain how a customer-related database is developed and integrated into a single view of the customer. Include relational databases, middleware, external data and the difference between database marketing and CRM.",
+    "model_answer": "**Customer-related database.** An organised digital collection of data on past, current and potential buyers. Functions each hold different data: sales (opportunities), marketing (campaigns), service (enquiries), logistics (deliveries), accounts (billing).\n\n**Six development steps.** Define functions (supporting the four forms of CRM); define information requirements; identify sources (internal or external); select technology (usually relational); populate (source, verify, validate, de-duplicate, merge and purge); maintain (update at once, de-duplicate regularly, annual audit, purge inactive customers).\n\n**Relational database.** Two-dimensional tables with a primary key per record. Example: buying a book online creates a record in the Customer table (unique ID), Orders, Inventory (stock reduced, may trigger re-order) and Payment tables, with one-to-many links from the customer.\n\n**Integration.** Combining and harmonising data from several sources in a unified format, relying on standardisation. Middleware is the broker or glue that passes data between systems in formats they understand.\n\n**Single view pipeline.** Sources (store, catalogue, website, party plan, home shopping) → integrated database plus external data (demographic, market research, geographic, industry, credit, social media) → analysis and mining → CRM strategy. Without integration each channel holds its own record.\n\n**Database marketing versus CRM.**\n| Aspect | Database marketing | CRM |\n|---|---|---|\n| Scope | Campaign level | Enterprise wide |\n| Horizon | Short-term response | Long-term value |\n| Objective | Immediate sale or response | Retention, loyalty, advocacy |\n\n**Conclusion.** A clean single view is a prerequisite for any CRM application.",
+    "marking_scheme": [
+      {
+        "point": "Database definition and six steps",
+        "marks": 3
+      },
+      {
+        "point": "Relational database, key, one-to-many link",
+        "marks": 2
+      },
+      {
+        "point": "Integration and middleware",
+        "marks": 1.5
+      },
+      {
+        "point": "Single view pipeline with external data",
+        "marks": 2
+      },
+      {
+        "point": "Database marketing versus CRM and conclusion",
+        "marks": 1.5
+      }
+    ]
+  },
+  {
+    "id": "CV-2-10",
+    "node": "CV-2",
+    "unit": "CRM Unit 3",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "hard",
+    "question": "Explain customer lifetime value. (a) State the class formula and compute the revenue CLV of a tea-stall regular who spends ₹60 per visit, visits 4 times a week for 50 weeks a year and stays 5 years. (b) Compute the profit CLV at a 30% margin. (c) Distinguish historic and predictive CLV. (d) Explain the discounted CLV formula and the correction needed for retention. (e) State two limits of CLV.",
+    "model_answer": "**Definition.** CLV predicts the total net profit or revenue a business will earn from a customer over the entire relationship. **Formula (class):** CLV = average purchase value × purchase frequency × customer lifespan.\n\n**(a)** Frequency per year = 4 × 50 = 200. CLV = 60 × 200 × 5 = **₹60,000** (revenue CLV). Common error: forgetting the weeks.\n\n**(b)** Profit CLV = 60,000 × 0.3 = **₹18,000**; the margin is a stated assumption.\n\n**(c)**\n| | Historic CLV | Predictive CLV |\n|---|---|---|\n| What | What the customer has already spent | Estimate of what the customer might spend, using machine learning or statistical formulas to forecast spend and churn risk |\n| Pros | Simple | Shows where in the journey to invest |\n| Cons | Cannot predict future behaviour | Needs an algorithmic process; complex |\n\n**(d)** CLV = Σ [(margin_t × retention_t) ÷ (1 + d)^t] − acquisition cost. Money received later is worth less and not every customer stays. retention_t must be the cumulative probability of still being active, r^t, not the one-year rate r; using r in every year overstates later years.\n\n**(e)** Limits: assumes stable behaviour (weak for fashion or large discretionary purchases); revenue CLV ignores cost to serve; referral and review value are excluded unless modelled as customer referral value.\n\n**Interpretation.** CLV tells the firm how much it can spend to acquire and keep a customer and which segments deserve priority.",
+    "marking_scheme": [
+      {
+        "point": "Definition and formula",
+        "marks": 1.5
+      },
+      {
+        "point": "Revenue CLV computation",
+        "marks": 2
+      },
+      {
+        "point": "Profit CLV",
+        "marks": 1
+      },
+      {
+        "point": "Historic versus predictive",
+        "marks": 2
+      },
+      {
+        "point": "Discounted formula and r^t correction",
+        "marks": 2.5
+      },
+      {
+        "point": "Limits and interpretation",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "CV-3-06",
+    "node": "CV-3",
+    "unit": "CRM Unit 3",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "medium",
+    "question": "Explain the retention-loyalty-profit chain and why retention drives profit. Support the answer with the arithmetic of expected lifespan and relate it to the service-profit chain and CRM investment.",
+    "model_answer": "**Chain.** Satisfaction → retention → loyalty → profitability. Satisfaction is how pleased customers are; retention is keeping them over time; loyalty is consistent choice plus willingness to repurchase and recommend; profitability follows from repeat, larger purchases and lower marketing cost. Profit reinvested in products and service completes a virtuous cycle.\n\n**Retention versus loyalty.** Retention is behaviour; loyalty adds attitude and advocacy. A customer can stay for lack of choice without being loyal.\n\n**Why retention drives profit.** Lower acquisition cost (no repeated spend to win the same customer); rising purchase volume as long-tenured customers consolidate spending; price premium tolerance; lower cost to serve; referral value from advocates.\n\n**Arithmetic.** Expected lifespan ≈ 1 ÷ (1 − retention): 80% retention gives 5 years; 85% gives 6.67 years, a 33% rise. Since CLV multiplies by lifespan, CLV rises by about a third with no other change.\n\n**Service-profit chain (Heskett et al.).** Internal service quality → employee satisfaction → employee retention and productivity → external service value → customer satisfaction → loyalty → revenue growth and profit. Outcomes depend on frontline employees, not on technology alone.\n\n**Implication for CRM spending.** The chain justifies CLV-based decisions, loyalty programmes and proactive service recovery over indiscriminate acquisition spend, and supports the business case for CRM investment.\n\n**Conclusion.** The chain is the economic reason CRM shifts spending from acquisition to retention.",
+    "marking_scheme": [
+      {
+        "point": "Chain, definitions, virtuous cycle",
+        "marks": 2.5
+      },
+      {
+        "point": "Retention versus loyalty",
+        "marks": 1
+      },
+      {
+        "point": "Reasons retention drives profit",
+        "marks": 2
+      },
+      {
+        "point": "Lifespan arithmetic",
+        "marks": 2
+      },
+      {
+        "point": "Service-profit chain and CRM investment implication",
+        "marks": 2.5
+      }
+    ]
+  },
+  {
+    "id": "CV-4-05",
+    "node": "CV-4",
+    "unit": "CRM Unit 3",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "hard",
+    "question": "Explain value-based segmentation and the strategy for each segment. Include the Pareto rationale, the segment strategy framework with KPIs, movement strategies, and cautions.",
+    "model_answer": "**Definition.** Value-based segmentation groups customers by how much value they bring (purchase frequency, amount spent, profit, CLV). It differs from demographic segmentation because it uses behaviour and profit.\n\n**Rationale.** Often a small share of customers generates a large share of profit (a Pareto-type tendency, not a law). Some customers are value destroying: cost to acquire and serve exceeds revenue. Treating everyone the same wastes money.\n\n**Segment strategy framework**\n| Segment | Main goal | Strategy | KPI |\n|---|---|---|---|\n| High value | Retain and deepen loyalty | Dedicated managers, early access, premium support | Retention rate, CLV |\n| Mid value | Raise purchase value and frequency (mid to high) | Cross-sell and upsell, volume discounts | AOV, purchase frequency, CLV |\n| Low value | Increase engagement and purchase (low to mid) | Self-service to cut cost to serve; engagement offers | Conversion rate, repeat-purchase rate |\n| Inactive or dormant | Reactivate | Reactivation offer | Reactivation rate, repeat-purchase rate |\n\n**Below-zero customers:** reprice or de-market.\n\n**Inputs.** RFM and predictive CLV combined with cost-to-serve data.\n\n**Cautions.** Visibly poor service to low-value customers can create negative word of mouth; tiers should be reviewed regularly because customers move; low value does not mean ignore.\n\n**Link to chain.** Satisfaction leads to retention, loyalty and profit within each tier, so the strategy is to move customers up, not just to rank them.\n\n**Conclusion.** Value-based segmentation places spending where it earns the most while still lifting customers up the tiers.",
+    "marking_scheme": [
+      {
+        "point": "Definition and determinants",
+        "marks": 1.5
+      },
+      {
+        "point": "Pareto rationale and value-destroying customers",
+        "marks": 1.5
+      },
+      {
+        "point": "Segment framework with strategies",
+        "marks": 3
+      },
+      {
+        "point": "KPIs and movement strategies",
+        "marks": 2
+      },
+      {
+        "point": "Cautions and conclusion",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "CV-5-02",
+    "node": "CV-5",
+    "unit": "CRM Unit 3",
+    "type": "case",
+    "marks": 15,
+    "difficulty": "hard",
+    "question": "**Case: PedalPoint (fictional).** PedalPoint (fictional) runs indoor cycling studios with 800 members. A value analysis gives three segments. Customer acquisition cost is ₹5,000 for every segment. All figures are illustrative.\n\n| Segment | Members | Spend per year | Average lifespan |\n|---|---|---|---|\n| High | 120 | ₹30,000 | 4 years |\n| Mid | 480 | ₹15,000 | 3 years |\n| Low | 200 | ₹5,000 | 2 years |\n\n(a) Compute the revenue CLV per member and CLV to CAC for each segment. (5)\n(b) Compute each segment's share of total lifetime revenue and comment on whether the pattern is 80/20. (3)\n(c) State the class strategy and KPI for each segment. (4)\n(d) Recommend where to spend the retention budget, and size the gain from moving 10% of mid members (48 members) to high. (3)",
+    "model_answer": "**(a)** Class formula: purchase value × frequency × lifespan equals yearly spend × lifespan (revenue CLV).\n| Segment | Working | CLV | CLV : CAC |\n|---|---|---|---|\n| High | 30,000 × 4 | ₹1,20,000 | 24 : 1 |\n| Mid | 15,000 × 3 | ₹45,000 | 9 : 1 |\n| Low | 5,000 × 2 | ₹10,000 | 2 : 1 |\n\n**(b)** Lifetime revenue: High 120 × 1,20,000 = ₹1,44,00,000; Mid 480 × 45,000 = ₹2,16,00,000; Low 200 × 10,000 = ₹20,00,000; total ₹3,80,00,000. Shares: High **37.9%**, Mid **56.8%**, Low **5.3%**. High members are 15% of members but give 37.9% of lifetime revenue (and 30.5% of yearly revenue): concentrated, but not 80/20 here, and the mid tier is the largest contributor. Say \"a Pareto-type tendency\", not the rule.\n\n**(c) Strategy and KPI**\n| Segment | Strategy | KPI |\n|---|---|---|\n| High | Retention and VIP treatment (dedicated coach, early access to classes) | Retention rate, CLV |\n| Mid | Cross-sell personal training and upgrade to annual plans | AOV, purchase frequency, CLV |\n| Low | Self-service app bookings, low-cost reminders, offers to move to mid; stop heavy spend to acquire this profile | Conversion rate, repeat-visit rate |\n\n**(d)** Priorities: protect the high tier (each loss costs ₹1,20,000), convert mid to high, and cut acquisition spend on the low profile (CLV to CAC only 2 : 1 on revenue, lower on profit). Sizing: 48 × (1,20,000 − 45,000) = 48 × 75,000 = **₹36,00,000** of lifetime revenue.\n\n**Caveats.** CLV is revenue, not profit; no discounting; lifespans assumed constant. A discounted margin-based CLV would be lower, but the ranking of segments would not change.\n\n*The high and mid tiers carry most of the value; move the budget from acquiring low-value members to retaining and upgrading the top two tiers.*",
+    "marking_scheme": [
+      {
+        "point": "CLV and CLV to CAC for three segments",
+        "marks": 5
+      },
+      {
+        "point": "Lifetime revenue shares and 80/20 comment",
+        "marks": 3
+      },
+      {
+        "point": "Strategy and KPI per segment",
+        "marks": 4
+      },
+      {
+        "point": "Recommendation with sizing",
+        "marks": 3
+      }
+    ]
+  },
+  {
+    "id": "CV-2-11",
+    "node": "CV-2",
+    "unit": "CRM Unit 3",
+    "type": "case",
+    "marks": 15,
+    "difficulty": "hard",
+    "question": "**Case: PantryPlus (fictional).** PantryPlus (fictional) is a grocery subscription service. A customer yields a margin of ₹5,000 a year, received at the end of each year. Yearly retention is 80%, the discount rate is 10%, the horizon is 5 years and acquisition cost is ₹4,000. Management proposes a loyalty programme costing ₹300 a year per active customer, expected to raise yearly retention to 85%. Use cumulative retention r^t and round to the nearest rupee.\n\n(a) Compute the present value of expected margins, net CLV and CLV to CAC without the programme. (5)\n(b) Recompute with the programme (margin net of programme cost, retention 85%). (4)\n(c) Decide whether to launch the programme. (3)\n(d) Explain two limits of this analysis and suggest one further lever. (3)",
+    "model_answer": "**Year-by-year working**\n| Year t | Base: expected margin | Base: PV | Programme: expected margin (4,700 × 0.85^t) | Programme: PV |\n|---|---|---|---|---|\n| 1 | 4,000.00 | 3,636.36 | 3,995.00 | 3,631.82 |\n| 2 | 3,200.00 | 2,644.63 | 3,395.75 | 2,806.40 |\n| 3 | 2,560.00 | 1,923.37 | 2,886.39 | 2,168.59 |\n| 4 | 2,048.00 | 1,398.81 | 2,453.43 | 1,675.73 |\n| 5 | 1,638.40 | 1,017.32 | 2,085.41 | 1,294.88 |\n\n**(a) Without programme.** PV of margins = ₹10,620.49 ≈ **₹10,620**. Net CLV = 10,620.49 − 4,000 = **₹6,620**. CLV to CAC = 10,620.49 ÷ 4,000 = **2.66 : 1**.\n\n**(b) With programme.** PV = ₹11,577.41 ≈ **₹11,577**. Net CLV = **₹7,577**. CLV to CAC = **2.89 : 1**.\n\n**(c) Decision.** Net CLV rises by about **₹957** per customer (₹7,577 versus ₹6,620), even after the programme cost (retention alone would add about ₹1,696, of which about ₹739 in present value is spent on the programme). Launch it, because retention gains compound through the cumulative factor r^t; monitor retention as the KPI, since the benefit disappears if retention does not reach 85%.\n\n**(d) Limits.** The retention uplift is an assumption and may not materialise; margin is held constant and referral value is excluded; the model assumes stable behaviour; the CLV to CAC ratio is still modest (2.9 : 1), so cutting acquisition cost is another route. Further lever: raise average order value (free delivery above a basket threshold) to lift margin per year.\n\n*Retention is the lever that moves CLV most, but the programme must be judged on net CLV after its own cost.*",
+    "marking_scheme": [
+      {
+        "point": "Base PV, net CLV and ratio with cumulative retention",
+        "marks": 5
+      },
+      {
+        "point": "Programme scenario PV, net CLV and ratio",
+        "marks": 4
+      },
+      {
+        "point": "Decision with reasoning on net gain and monitoring",
+        "marks": 3
+      },
+      {
+        "point": "Limits and a further lever",
+        "marks": 3
+      }
+    ]
+  }
+]
