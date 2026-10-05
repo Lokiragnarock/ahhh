@@ -28,6 +28,10 @@ valuation, yield measures, duration/convexity, Malkiel's theorems, and the three
   zero-coupon, CY, YTM interpolation, YTC, Macaulay/modified duration, convexity with
   adjustment), Malkiel's 5 theorems, 3 risks, 7-step checklist, 8 traps.
 
+## ESE node maps (built 2026-10-05)
+CIA3 is the group presentation on a Unit 5 theme, so these target the ESE (all five units; 3 × 5, 2 × 10, one compulsory 15-mark case; no phone calculators).
+- [[Bond Market Unit 3 - Yield Curve MOC (Node Map)]] — YC-1 to YC-5: curve shapes and theories, bootstrapping, forwards, Excel, Bloomberg
+
 ## CIA 1 assignment (completed)
 - [[CIA1 - Bond Market Analysis]] — assignment hub (G-Sec vs corporate bond comparison)
 - [[11 - Report Draft]] — full typed draft
