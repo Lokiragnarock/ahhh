@@ -29,6 +29,10 @@ margin of safety).
 - [[Units 2-3 - SAPM Cheat Sheet]] — one page. Every formula, every ratio, seven traps. The last
   thing to review before walking in.
 
+## ESE node maps (built 2026-10-05)
+CIA3 was the group Gen Z portfolio assignment (due 24 Sep), so these target the ESE, which covers all five units.
+- [[SAPM Unit 5 - Portfolio Management MOC (Node Map)]] — PM-1 to PM-7: portfolio risk, Markowitz, CAPM, single index model, Sharpe/Treynor/Jensen, strategies
+
 ## Recall prompts
 - Q: A case gives you three years of financial statements. What do you do first, and in what order?
 - Q: P/E is 25. Is the stock overvalued? (Trick question — you cannot answer without a benchmark.)
