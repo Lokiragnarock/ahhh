@@ -33,6 +33,7 @@ CIA3 is the group presentation on a Unit 5 theme, so these target the ESE (all f
 - [[Bond Market Unit 1 - Foundations MOC (Node Map)]] — BF-1 to BF-4: market structure, participants, instruments, primary and secondary markets, auctions, repo
 - [[Bond Market Unit 3 - Yield Curve MOC (Node Map)]] — YC-1 to YC-5: curve shapes and theories, bootstrapping, forwards, Excel, Bloomberg
 - [[Bond Market Unit 4 - Bond Portfolio MOC (Node Map)]] — BP-1 to BP-5: active vs passive, immunization, ladder/barbell/bullet, stress testing, Sharpe/alpha/beta
+- [[Bond Market Unit 5 - Future of Bond Markets MOC (Node Map)]] — FB-1 to FB-4: green and sustainability-linked bonds, tokenized bonds, blockchain and AI (also the CIA3 presentation topic)
 
 ## CIA 1 assignment (completed)
 - [[CIA1 - Bond Market Analysis]] — assignment hub (G-Sec vs corporate bond comparison)

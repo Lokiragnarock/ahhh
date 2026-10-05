@@ -1,0 +1,335 @@
+[
+  {
+    "id": "FB-1-01",
+    "node": "FB-1",
+    "unit": "Bond Market Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "The defining feature of a green bond is that:",
+    "options": [
+      "A) Its coupon rises if the issuer misses an emissions target",
+      "B) Its proceeds are used only for eligible environmental projects",
+      "C) It is issued only by governments",
+      "D) It carries no credit risk"
+    ],
+    "answer": "B",
+    "explanation": "Green bonds are defined by use of proceeds. A coupon linked to targets describes a sustainability-linked bond. Companies, banks and governments all issue green bonds, and a green bond carries the same credit risk as the issuer's other bonds."
+  },
+  {
+    "id": "FB-1-02",
+    "node": "FB-1",
+    "unit": "Bond Market Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A cement company with few identifiable green projects wants to raise ESG-linked funds while committing to cut its emissions intensity by 2030. The most suitable instrument is a:",
+    "options": [
+      "A) Green bond",
+      "B) Sustainability-linked bond",
+      "C) Social bond",
+      "D) Masala bond"
+    ],
+    "answer": "B",
+    "explanation": "An SLB lets the proceeds be used for general purposes while tying the coupon to company-wide targets, which suits an issuer without enough eligible green projects. A green bond needs ring-fenced green projects; a social bond funds social projects; a masala bond is about currency, not sustainability."
+  },
+  {
+    "id": "FB-1-03",
+    "node": "FB-1",
+    "unit": "Bond Market Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A 10-year green G-sec yields 7.24% while a comparable conventional G-sec yields 7.30%. On ₹8,000 crore, the government's annual interest saving from this greenium is:",
+    "options": [
+      "A) ₹48 crore",
+      "B) ₹4.8 crore",
+      "C) ₹0.48 crore",
+      "D) ₹6 crore"
+    ],
+    "answer": "B",
+    "explanation": "Greenium = 6 bps = 0.06%; 0.0006 × 8,000 crore = ₹4.8 crore a year. ₹48 crore uses 0.6%; ₹0.48 crore uses 0.006%; ₹6 crore treats 6 bps as 0.075%."
+  },
+  {
+    "id": "FB-1-04",
+    "node": "FB-1",
+    "unit": "Bond Market Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "Which of the following is NOT one of the four core components of the ICMA Green Bond Principles?",
+    "options": [
+      "A) Use of proceeds",
+      "B) Process for project evaluation and selection",
+      "C) Coupon step-up on missing targets",
+      "D) Reporting"
+    ],
+    "answer": "C",
+    "explanation": "The four GBP components are use of proceeds, project evaluation and selection, management of proceeds, and reporting. A coupon step-up belongs to sustainability-linked bonds."
+  },
+  {
+    "id": "FB-1-05",
+    "node": "FB-1",
+    "unit": "Bond Market Unit 5",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Distinguish between green bonds and sustainability-linked bonds. A company issues ₹500 crore of 5-year SLBs at 8% with a 25 bps step-up from year 4 if it misses its target at the end of year 3. What does it cost the company if the target is missed?",
+    "model_answer": "| Basis | Green bond | Sustainability-linked bond |\n|---|---|---|\n| Link to sustainability | **Use of proceeds**: only eligible green projects | **Issuer's performance** against KPIs and targets |\n| Use of funds | Ring-fenced | General corporate purposes |\n| Principles | ICMA Green Bond Principles (4 components + review) | ICMA SLB Principles (KPIs, SPTs, bond characteristics, reporting, verification) |\n| Penalty | None for impact; reputational if misused | Coupon step-up if targets are missed |\n| Suits | Issuers with green projects (renewables, metro rail) | Hard-to-abate firms without enough green projects |\n\n**Cost of missing the target:** extra coupon = 0.25% × ₹500 crore = **₹1.25 crore a year**, paid in years 4 and 5 = **₹2.5 crore** in total; investors receive 8.25% instead of 8%.\n\n*Caution:* a step-up this small, or a target timed after a call date, can make the penalty weak, a common criticism of SLBs.",
+    "marking_scheme": [
+      {
+        "point": "Distinction on proceeds vs performance",
+        "marks": 1.5
+      },
+      {
+        "point": "Principles and suitability",
+        "marks": 1.5
+      },
+      {
+        "point": "Step-up cost ₹1.25 crore a year, ₹2.5 crore total",
+        "marks": 1.5
+      },
+      {
+        "point": "Caution on SLB design",
+        "marks": 0.5
+      }
+    ]
+  },
+  {
+    "id": "FB-1-06",
+    "node": "FB-1",
+    "unit": "Bond Market Unit 5",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "medium",
+    "question": "Discuss the growth of green and sustainable bonds in India. Cover the types of labelled bonds, India's sovereign green bonds, SEBI's regulatory framework, the benefits, and the challenges including greenwashing. Link your answer to the SDGs.",
+    "model_answer": "**Labelled bonds.** Green (use of proceeds for environmental projects), social, sustainability (green + social), sustainability-linked (coupon tied to issuer KPIs), transition and blue bonds.\n\n**Sovereign green bonds.** The Government's Sovereign Green Bond Framework (November 2022) set eligible categories (renewable energy, clean transport, energy efficiency, climate adaptation, water, pollution control, green buildings) and exclusions (fossil fuels, nuclear, large hydro). RBI auctioned the first SGrBs in January–February 2023 (₹16,000 crore in two tranches), priced a few basis points below comparable G-secs (a small greenium). Proceeds are allocated to eligible public projects with annual reporting.\n\n**SEBI framework.** Green debt securities guidelines (2017) were expanded in 2023 into a framework for ESG debt securities (green, social, sustainability, sustainability-linked) with initial and continuing disclosures, third-party review, and explicit do's and don'ts against greenwashing. RBI introduced a green deposits framework for banks (2023).\n\n**Benefits.** Issuers: wider investor base, possible lower cost, reputation. Investors: meet ESG mandates with transparent impact reporting. Economy: channels capital to India's climate goals (net zero 2070).\n\n**Challenges.** Greenwashing; no fully operational national green taxonomy yet; verification and reporting costs; small and shrinking greenium; limited ESG-dedicated investor base; thin secondary liquidity; SLB targets that are too easy.\n\n**SDG link.** SDG 7 (clean energy), SDG 9 (industry, innovation, infrastructure), SDG 13 (climate action) and SDG 8 (decent work and growth through green jobs and deeper capital markets).\n\n**Conclusion.** India has the building blocks (sovereign framework, SEBI rules, growing issuance); credibility through taxonomy, verification and anti-greenwashing enforcement will decide how far the market grows.",
+    "marking_scheme": [
+      {
+        "point": "Types of labelled bonds",
+        "marks": 1.5
+      },
+      {
+        "point": "Sovereign green bonds",
+        "marks": 2
+      },
+      {
+        "point": "SEBI and RBI frameworks",
+        "marks": 2
+      },
+      {
+        "point": "Benefits",
+        "marks": 1.5
+      },
+      {
+        "point": "Challenges incl. greenwashing",
+        "marks": 1.5
+      },
+      {
+        "point": "SDG link and conclusion",
+        "marks": 1.5
+      }
+    ]
+  },
+  {
+    "id": "FB-2-01",
+    "node": "FB-2",
+    "unit": "Bond Market Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "In a tokenized bond, a smart contract is mainly used to:",
+    "options": [
+      "A) Assign the bond's credit rating",
+      "B) Automatically execute terms such as coupon payments and transfer restrictions",
+      "C) Set RBI's policy rate",
+      "D) Replace the issuer's obligation to repay"
+    ],
+    "answer": "B",
+    "explanation": "Smart contracts are code on the ledger that automatically pay coupons, redeem principal and enforce rules such as allowing only KYC-approved holders. Rating agencies assign ratings; RBI sets policy rates; the issuer remains legally obliged to repay."
+  },
+  {
+    "id": "FB-2-02",
+    "node": "FB-2",
+    "unit": "Bond Market Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Which of the following is generally considered the first bond managed through its entire life cycle on blockchain?",
+    "options": [
+      "A) India's first sovereign green bond (2023)",
+      "B) The World Bank's bond-i (2018)",
+      "C) Bharat Bond ETF (2019)",
+      "D) The EU Green Bond Standard (2024)"
+    ],
+    "answer": "B",
+    "explanation": "The World Bank's bond-i (2018, with the Commonwealth Bank of Australia) was created, allocated, transferred and managed on a blockchain. India's sovereign green bonds were conventional securities; Bharat Bond ETF is an exchange-traded fund; the EU GBS is a standard, not a bond."
+  },
+  {
+    "id": "FB-2-03",
+    "node": "FB-2",
+    "unit": "Bond Market Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Which is the biggest obstacle to realising instant (T+0) delivery-versus-payment for tokenized bonds?",
+    "options": [
+      "A) Bonds cannot be represented as tokens",
+      "B) The cash leg often still settles off the ledger without tokenized money or CBDC",
+      "C) Smart contracts cannot pay coupons",
+      "D) Blockchains cannot record ownership"
+    ],
+    "answer": "B",
+    "explanation": "Atomic DvP needs both the security and the money on the ledger. Without tokenized deposits or a wholesale CBDC, the cash leg settles in the traditional system, so settlement isn't truly instant. Bonds can be tokenized, smart contracts can pay coupons, and ledgers do record ownership."
+  },
+  {
+    "id": "FB-2-04",
+    "node": "FB-2",
+    "unit": "Bond Market Unit 5",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "What are digital and tokenized bonds? Explain their benefits and risks, with one global example and one Indian development.",
+    "model_answer": "**Definitions.** A *digital (DLT-native) bond* is issued, recorded and settled on a distributed ledger, which is the legal ownership record. A *tokenized bond* is a blockchain token representing ownership of a bond. *Smart contracts* automate coupons, redemption and transfer rules.\n\n**Benefits.** Near-instant (T+0) settlement and lower counterparty risk; lower costs from fewer intermediaries and reconciliations; transparency; fractional ownership and wider retail access; programmability (automatic coupons, compliance, ESG data); faster collateral movement.\n\n**Risks.** Legal uncertainty over whether the token is the title; cybersecurity and smart-contract bugs; interoperability between ledgers; no on-chain cash in many cases; thin liquidity in small pilot issues; custody and key-loss risk; privacy on public chains.\n\n**Global example.** EIB's €100 million digital bond on Ethereum (2021); or the World Bank's bond-i (2018); or Hong Kong's tokenized green bonds (2023–24).\n\n**Indian development.** RBI's wholesale e-rupee pilot (November 2022) used CBDC to settle secondary G-sec trades; RBI Retail Direct and SEBI-regulated online bond platforms provide digital (not tokenized) retail access.",
+    "marking_scheme": [
+      {
+        "point": "Definitions incl. smart contracts",
+        "marks": 1.5
+      },
+      {
+        "point": "Benefits",
+        "marks": 1.5
+      },
+      {
+        "point": "Risks",
+        "marks": 1
+      },
+      {
+        "point": "Global example",
+        "marks": 0.5
+      },
+      {
+        "point": "Indian development",
+        "marks": 0.5
+      }
+    ]
+  },
+  {
+    "id": "FB-3-01",
+    "node": "FB-3",
+    "unit": "Bond Market Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "Which is a realistic use of AI in bond markets?",
+    "options": [
+      "A) Guaranteeing that a bond will never default",
+      "B) Estimating fair values of rarely traded corporate bonds from comparable data",
+      "C) Replacing the need for credit ratings by law",
+      "D) Setting the coupon of G-secs"
+    ],
+    "answer": "B",
+    "explanation": "Machine-learning models can estimate prices for illiquid bonds from comparable trades and issuer data. No model can guarantee no default; AI does not legally replace ratings; G-sec coupons are set by auctions."
+  },
+  {
+    "id": "FB-3-02",
+    "node": "FB-3",
+    "unit": "Bond Market Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A retail investor buys a low-rated corporate bond through a mobile app because it shows a high yield, without understanding its credit risk. Which innovation risk does this illustrate?",
+    "options": [
+      "A) Interoperability risk",
+      "B) Investor protection risk",
+      "C) Smart-contract risk",
+      "D) Greenium risk"
+    ],
+    "answer": "B",
+    "explanation": "Easier digital access can lead retail investors into complex or risky products they don't understand: an investor protection risk, which is why SEBI regulates online bond platforms and their disclosures. Interoperability and smart-contract risks concern technology; greenium is a pricing effect of green bonds."
+  },
+  {
+    "id": "FB-3-03",
+    "node": "FB-3",
+    "unit": "Bond Market Unit 5",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "medium",
+    "question": "\"Technology will change bond markets more in the next decade than in the last fifty years.\" Discuss with reference to blockchain applications, AI and data analytics, fintech platforms and the risks of innovation.",
+    "model_answer": "**Blockchain applications.** Issuance (token minting, direct allocation), registry and custody (one shared ledger), clearing and settlement (atomic DvP with tokenized cash or CBDC, T+0), corporate actions (smart-contract coupons and redemptions), repo and collateral (instant collateral movement, intraday repo), compliance (whitelisted wallets), ESG reporting (verifiable green bond data), cross-border settlement. Landmarks: World Bank bond-i 2018, EIB 2021, Hong Kong tokenized green bonds 2023–24; India's wholesale e-rupee pilot for G-sec settlement.\n\n**AI and data analytics.** Pricing illiquid bonds; credit early-warning models; yield curve forecasting and stress scenarios; NLP on RBI statements and news; algorithmic and RFQ trading; ESG scoring and impact checks.\n\n**Fintech platforms.** RBI Retail Direct; SEBI-regulated online bond platforms; electronic trading (NDS-OM, RFQ); bond ETFs and target-maturity funds; robo-advice.\n\n**Risks.** Cyber and operational risk; AI model risk and opacity; legal and regulatory gaps (status of tokens); concentration in a few tech providers; data privacy; investor protection for retail buying risky bonds via apps; the digital divide.\n\n**Assessment.** The direction is clear (faster settlement, wider access, better analytics), but the pace depends on legal frameworks, interoperable infrastructure and on-chain money. Bond markets are conservative and systemic, so change is likely to be gradual and regulator-led.\n\n**SDG link.** SDG 9 (innovation and infrastructure finance), SDG 8 (deeper markets and growth), SDG 13 (verifiable green finance).",
+    "marking_scheme": [
+      {
+        "point": "Blockchain applications with examples",
+        "marks": 3
+      },
+      {
+        "point": "AI and analytics",
+        "marks": 2
+      },
+      {
+        "point": "Fintech platforms",
+        "marks": 1.5
+      },
+      {
+        "point": "Risks",
+        "marks": 2
+      },
+      {
+        "point": "Balanced assessment and SDG link",
+        "marks": 1.5
+      }
+    ]
+  },
+  {
+    "id": "FB-3-04",
+    "node": "FB-3",
+    "unit": "Bond Market Unit 5",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "Explain five applications of blockchain technology across the bond market value chain.",
+    "model_answer": "1. **Issuance:** bonds minted as tokens and allocated directly to investors' wallets, cutting the time and number of intermediaries in book-building and allotment.\n2. **Registry and custody:** a single shared, tamper-evident ledger replaces separate registrar and depository records, reducing reconciliation.\n3. **Clearing and settlement:** atomic delivery-versus-payment when the cash leg is also on the ledger (tokenized deposits or CBDC), allowing T+0 settlement and lower counterparty risk; RBI's wholesale e-rupee pilot settled G-sec trades this way.\n4. **Corporate actions:** smart contracts pay coupons, process calls and redeem principal automatically.\n5. **Repo and collateral:** tokenized bonds can move instantly as collateral, enabling intraday repo.\n6. **Compliance:** KYC/AML rules embedded in the token (only whitelisted wallets can hold it).\n7. **ESG reporting:** green bond proceeds and impact data recorded on-chain for verification.\n\n*(Any five.)* **Caveat:** benefits depend on legal recognition of tokens, interoperable ledgers and on-chain money.",
+    "marking_scheme": [
+      {
+        "point": "Five applications explained",
+        "marks": 4
+      },
+      {
+        "point": "Caveat",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "FB-4-01",
+    "node": "FB-4",
+    "unit": "Bond Market Unit 5",
+    "type": "case",
+    "marks": 15,
+    "difficulty": "hard",
+    "question": "**Case: Suryoday Renewables Ltd (fictional) raises ₹500 crore.** The company needs ₹500 crore for five years to build solar plants. Its bankers offer three routes:\n\n- **Conventional bond** at 8.00%.\n- **Certified green bond** at 7.94%; second-party opinion, verification and impact reporting cost about ₹30 lakh a year.\n- **Sustainability-linked bond** at 7.95%, with a 25 bps step-up from year 4 if installed renewable capacity is below 5 GW at the end of year 3 (management thinks there is a 40% chance of missing the target).\n\nA fintech partner also proposes issuing the green bond as a tokenized bond.\n\n(a) Which instrument fits the company's purpose? Explain the difference between the green bond and the SLB. (4)\n(b) Compare the annual cost of each route, including the expected step-up cost of the SLB. (4)\n(c) What must the company do to satisfy SEBI and investors and avoid greenwashing claims? (3)\n(d) Should it issue the bond in tokenized form now? (2)\n(e) Give your recommendation and link it to the SDGs. (2)",
+    "model_answer": "**(a) Fit.** The money funds identifiable solar plants, eligible green projects, so a **green bond** fits naturally: its proceeds are ring-fenced and reported. An SLB ties the coupon to company-wide targets with general-purpose proceeds; it suits firms that lack eligible projects. Here both are possible, but the green bond matches the use of funds most directly.\n\n**(b) Annual cost on ₹500 crore.**\n\n| Route | Interest | Other costs | Total a year |\n|---|---|---|---|\n| Conventional 8.00% | ₹40.00 crore | – | **₹40.00 crore** |\n| Green 7.94% | ₹39.70 crore | ₹0.30 crore | **₹40.00 crore** |\n| SLB 7.95% (years 1–3) | ₹39.75 crore | – | **₹39.75 crore** |\n| SLB years 4–5, expected | ₹39.75 + 0.40 × 1.25 = ₹40.25 crore | – | **₹40.25 crore** |\n\nThe greenium saves ₹30 lakh a year (6 bps), exactly offset by verification and reporting costs, so the green bond costs the same as a conventional bond. The SLB is cheaper for three years but its expected cost in years 4–5 is higher; over five years the SLB's expected total = 3 × 39.75 + 2 × 40.25 = ₹199.75 crore, against ₹200 crore for the others, a small saving that rests on hitting the target.\n\n**(c) Compliance and credibility.** Follow SEBI's ESG debt securities framework: disclose eligible projects and selection process, track proceeds separately, obtain an independent second-party opinion, publish annual allocation and impact reports (MW installed, CO₂ avoided), and avoid misleading claims (SEBI's do's and don'ts on greenwashing). For an SLB: ambitious, material KPIs and independent verification of performance.\n\n**(d) Tokenization.** Not yet as the main issue: India lacks a full legal framework for tokenized securities, secondary liquidity would be thin, and cash settlement would still be off-chain. A small pilot alongside a conventional listed issue (on the EBP platform) would let the company learn without risking the main financing.\n\n**(e) Recommendation.** Issue a **certified green bond** of ₹500 crore in conventional form. The cost equals a conventional bond, but it widens the investor base to ESG funds, builds credibility for future issues and aligns with the company's business. Link: **SDG 7** (clean energy), **SDG 9** (sustainable infrastructure), **SDG 13** (climate action), **SDG 8** (green jobs).",
+    "marking_scheme": [
+      {
+        "point": "Instrument fit and distinction",
+        "marks": 4
+      },
+      {
+        "point": "Cost table and comparison",
+        "marks": 4
+      },
+      {
+        "point": "SEBI and anti-greenwashing steps",
+        "marks": 3
+      },
+      {
+        "point": "Tokenization judgment",
+        "marks": 2
+      },
+      {
+        "point": "Recommendation with SDGs",
+        "marks": 2
+      }
+    ]
+  }
+]
