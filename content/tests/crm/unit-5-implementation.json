@@ -1,0 +1,714 @@
+[
+  {
+    "id": "CI-1-01",
+    "node": "CI-1",
+    "unit": "CRM Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "In the nine-stage CRM implementation life cycle, the stage that comes immediately after data migration is:",
+    "options": [
+      "A) Training",
+      "B) Pilot testing",
+      "C) Customisation and configuration",
+      "D) Rollout and deployment"
+    ],
+    "answer": "A",
+    "explanation": "The order is assessment and planning, selection, customisation, data migration, training, pilot, rollout, monitoring, user adoption. Training follows data migration so that staff learn on real, cleaned data. B (pilot) is stage 6, the tempting skip. C (customisation) comes before migration. D (rollout) is stage 7."
+  },
+  {
+    "id": "CI-1-02",
+    "node": "CI-1",
+    "unit": "CRM Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Why is pilot testing placed before organisation-wide rollout?",
+    "options": [
+      "A) To train all users in the system",
+      "B) Errors found in a small group are cheaper to fix than errors found organisation-wide",
+      "C) To select the CRM vendor",
+      "D) To reduce the licence fee"
+    ],
+    "answer": "B",
+    "explanation": "A pilot is a limited, controlled rollout that exposes problems and collects feedback before everyone is affected. A describes the training stage, a separate stage that precedes the pilot. C describes stage 2, selection of the CRM system, which is done long before. D is unrelated to the pilot's purpose."
+  },
+  {
+    "id": "CI-1-03",
+    "node": "CI-1",
+    "unit": "CRM Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Which of the following is NOT one of Payne and Frow's five processes in the strategic view of CRM implementation? (textbook)",
+    "options": [
+      "A) Value creation",
+      "B) Multichannel integration",
+      "C) Price optimisation",
+      "D) Performance assessment"
+    ],
+    "answer": "C",
+    "explanation": "The five processes are strategy development, value creation, multichannel integration, information management and performance assessment. Price optimisation is not one of them. A, B and D are all in the list, so a student who recalls only 'pricing' as a marketing idea may wrongly believe it belongs."
+  },
+  {
+    "id": "CI-2-01",
+    "node": "CI-2",
+    "unit": "CRM Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A firm buys a CRM with a large set of features but uses only a few of them, and the system does not match its sales process. The failure risk illustrated is:",
+    "options": [
+      "A) High implementation cost",
+      "B) Lack of integration",
+      "C) Choosing the wrong CRM system",
+      "D) Employee resistance"
+    ],
+    "answer": "C",
+    "explanation": "Software bought for features the firm never uses, and a mismatch with requirements, is the 'wrong system' risk. High cost (A) is a tempting second effect, but the root cause here is the mismatch, not budget planning. B would describe duplicate entry because the CRM does not talk to billing or inventory. D would describe staff keeping to old methods."
+  },
+  {
+    "id": "CI-2-02",
+    "node": "CI-2",
+    "unit": "CRM Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "hard",
+    "question": "Senior managers keep reporting from their own spreadsheets, so staff conclude the CRM is optional. Which success factor is most directly missing?",
+    "options": [
+      "A) Top management support",
+      "B) Employee training",
+      "C) Continuous monitoring and improvement",
+      "D) Integration with other systems"
+    ],
+    "answer": "A",
+    "explanation": "Managers who keep using spreadsheets signal that the CRM is optional: this is the class example for lack of top management support. Training (B) is tempting, but staff can know how to use the system and still copy their managers. C is about evaluating the system after launch. D concerns links with other systems, which is not the symptom."
+  },
+  {
+    "id": "CI-2-03",
+    "node": "CI-2",
+    "unit": "CRM Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Staff must enter the same order details into the CRM, the billing system and the inventory system. Which failure risk is this?",
+    "options": [
+      "A) Poor data quality",
+      "B) Lack of integration",
+      "C) Poor training",
+      "D) High implementation cost"
+    ],
+    "answer": "B",
+    "explanation": "Duplicate entry because the CRM does not link with billing or inventory is the lack-of-integration risk, with its fix being integration with other systems. Poor data quality (A) is the tempting wrong option: errors may follow, but it is a consequence, and the cause named in the symptom is the missing link. C would be staff entering wrong data or avoiding the system. D concerns budget overrun."
+  },
+  {
+    "id": "CI-3-01",
+    "node": "CI-3",
+    "unit": "CRM Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "A firm spends ₹4,00,000 on a CRM and the incremental benefit is ₹5,40,000. Its CRM ROI is:",
+    "options": [
+      "A) 135%",
+      "B) 25.9%",
+      "C) 1.35%",
+      "D) 35%"
+    ],
+    "answer": "D",
+    "explanation": "ROI = (benefit - cost) / cost x 100 = (5,40,000 - 4,00,000) / 4,00,000 x 100 = 35%. A (135%) is benefit divided by cost, which forgets to subtract the cost. B divides the net gain by the benefit (1,40,000 / 5,40,000) instead of the cost. C is a decimal slip."
+  },
+  {
+    "id": "CI-3-02",
+    "node": "CI-3",
+    "unit": "CRM Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "An advertising campaign costs ₹36,000 and delivers 4,50,000 impressions. The CPM (cost per 1,000 impressions) is:",
+    "options": [
+      "A) ₹0.08",
+      "B) ₹12.50",
+      "C) ₹8",
+      "D) ₹80"
+    ],
+    "answer": "D",
+    "explanation": "Cost per impression = 36,000 / 4,50,000 = ₹0.08; CPM = 0.08 x 1,000 = ₹80. A is the cost per impression, which forgets the x 1,000. B inverts the ratio (impressions divided by cost, 4,50,000 / 36,000). C is a slip of one decimal place in the multiplication."
+  },
+  {
+    "id": "CI-3-03",
+    "node": "CI-3",
+    "unit": "CRM Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A survey of 500 customers gives 250 promoters, 150 passives and 100 detractors. The Net Promoter Score is:",
+    "options": [
+      "A) 30",
+      "B) 50",
+      "C) 150",
+      "D) 60"
+    ],
+    "answer": "A",
+    "explanation": "Promoters 250/500 = 50%, detractors 100/500 = 20%; passives are ignored. NPS = 50 - 20 = 30. B uses only the promoters' percentage and forgets to subtract detractors. C subtracts head-counts (250 - 100) instead of percentages. D wrongly treats passives as promoters ((250 + 150)/500 = 80%, less 20% = 60)."
+  },
+  {
+    "id": "CI-3-04",
+    "node": "CI-3",
+    "unit": "CRM Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "hard",
+    "question": "A firm starts the year with 1,200 customers, acquires 180 new ones and loses 96. Using CRR = (E - N) / S x 100, the customer retention rate is:",
+    "options": [
+      "A) 107%",
+      "B) 85.98%",
+      "C) 92%",
+      "D) 8%"
+    ],
+    "answer": "C",
+    "explanation": "Ending customers E = 1,200 + 180 - 96 = 1,284. CRR = (1,284 - 180) / 1,200 x 100 = 92%. A is E/S, which counts new customers as 'retained'. B divides by the ending count instead of the starting count (1,104 / 1,284). D is the churn rate (96 / 1,200), the complement of retention."
+  },
+  {
+    "id": "CI-4-01",
+    "node": "CI-4",
+    "unit": "CRM Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "A campaign brings 1,500 orders and revenue of ₹9,00,000 from 400 customers. The average order value (AOV) is:",
+    "options": [
+      "A) ₹600",
+      "B) ₹2,250",
+      "C) ₹1,500",
+      "D) ₹1.67"
+    ],
+    "answer": "A",
+    "explanation": "AOV = total revenue / total number of orders = 9,00,000 / 1,500 = ₹600. B divides revenue by the number of customers, which gives revenue per customer. C is the order count, not a value. D divides orders by revenue (x 1,000), inverting the ratio."
+  },
+  {
+    "id": "CI-4-02",
+    "node": "CI-4",
+    "unit": "CRM Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A customer's average order is ₹450, placed 5 times a year, over an average lifespan of 4 years. Revenue CLV (AOV x frequency x lifespan) is:",
+    "options": [
+      "A) ₹1,800",
+      "B) ₹2,250",
+      "C) ₹9",
+      "D) ₹9,000"
+    ],
+    "answer": "D",
+    "explanation": "CLV = 450 x 5 x 4 = ₹9,000. A (450 x 4) forgets purchase frequency. B (450 x 5) forgets the lifespan, so it is only one year's value, the most tempting error. C adds frequency and lifespan (5 + 4) and ignores AOV."
+  },
+  {
+    "id": "CI-4-03",
+    "node": "CI-4",
+    "unit": "CRM Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "hard",
+    "question": "A case states: customers at start 2,500; new customers 300; customers lost 250; customers at end 2,600. The ending count that reconciles with the other three figures is:",
+    "options": [
+      "A) 2,600",
+      "B) 2,800",
+      "C) 2,250",
+      "D) 2,550"
+    ],
+    "answer": "D",
+    "explanation": "Ending = start + new - lost = 2,500 + 300 - 250 = 2,550, so the stated 2,600 does not reconcile and the gap should be flagged in the answer. A accepts the stated figure without checking. B forgets to subtract the lost customers. C subtracts the new customers instead of adding them (2,500 - 250)."
+  },
+  {
+    "id": "CI-5-01",
+    "node": "CI-5",
+    "unit": "CRM Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "An employee who earlier said \"I think this customer may be interested\" now checks the customer's previous purchases and interactions in the CRM before calling. This is an example of:",
+    "options": [
+      "A) Greater efficiency",
+      "B) Data-driven behaviour",
+      "C) Better teamwork",
+      "D) Better accountability"
+    ],
+    "answer": "B",
+    "explanation": "Moving from intuition to decisions based on recorded purchases and interactions is data-driven behaviour. Efficiency (A) is tempting because the CRM saves time, but the change described is in how decisions are made, not in how long tasks take. Teamwork (C) would be sharing history across departments. Accountability is about visible activity records, not about deciding with data."
+  },
+  {
+    "id": "CI-5-02",
+    "node": "CI-5",
+    "unit": "CRM Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "A CRM report showing best-selling products, high-value customers and the campaigns that generated most leads helps the organisation mainly through:",
+    "options": [
+      "A) Improved productivity",
+      "B) Cost reduction",
+      "C) Faster decision making",
+      "D) Better coordination"
+    ],
+    "answer": "C",
+    "explanation": "Reports based on actual customer data replace guesswork, so decisions are faster and better informed. Productivity (A) comes from automated reminders and data entry. Cost reduction (B) comes from less duplicate work and better targeting. Coordination (D) comes from departments seeing the same information. Reports can contribute to all, but this is the class example for faster decisions."
+  },
+  {
+    "id": "CI-6-01",
+    "node": "CI-6",
+    "unit": "CRM Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "hard",
+    "question": "A firm counts all revenue of ₹20,00,000 linked to CRM customers plus ₹2,00,000 service savings as 'benefit' against a CRM cost of ₹5,00,000. The correct benefit is incremental profit: the extra sales earn a 30% margin. The correct ROI is:",
+    "options": [
+      "A) 340%",
+      "B) 60%",
+      "C) 160%",
+      "D) 37.5%"
+    ],
+    "answer": "B",
+    "explanation": "Incremental profit = 20,00,000 x 30% = 6,00,000; with the 2,00,000 saving the benefit is 8,00,000. ROI = (8,00,000 - 5,00,000) / 5,00,000 x 100 = 60%. A uses revenue as the benefit ((22,00,000 - 5,00,000) / 5,00,000), the classic overstatement. C is benefit divided by cost without subtracting cost. D divides the net gain by the benefit (3,00,000 / 8,00,000)."
+  },
+  {
+    "id": "CI-1-04",
+    "node": "CI-1",
+    "unit": "CRM Unit 5",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "List the nine stages of the CRM implementation life cycle in order, with a one-line objective for each.",
+    "model_answer": "The CRM implementation life cycle is the end-to-end, structured process of planning, configuring, deploying and adopting a CRM system.\n\n| # | Stage | Objective |\n|---|---|---|\n| 1 | Assessment and planning | Understand business needs and goals |\n| 2 | Selection of CRM system | Choose a system that fits requirements and budget |\n| 3 | Customisation and configuration | Tailor workflows, roles and permissions |\n| 4 | Data migration | Move existing data accurately after cleansing |\n| 5 | Training | Make users proficient |\n| 6 | Pilot testing | Test in a controlled, limited rollout |\n| 7 | Rollout and deployment | Implement across the organisation |\n| 8 | Monitoring and optimisation | Track KPIs and keep improving |\n| 9 | User adoption | Win widespread acceptance and use |\n\nObservations: migration comes before training so staff learn on real data; pilot comes before rollout because errors are cheaper to fix in a small group; stages 8 and 9 feed back to stage 1, so the process is iterative.",
+    "marking_scheme": [
+      {
+        "point": "Definition of the life cycle",
+        "marks": 0.5
+      },
+      {
+        "point": "Nine stages in correct order",
+        "marks": 2.5
+      },
+      {
+        "point": "Objective for each stage",
+        "marks": 1.5
+      },
+      {
+        "point": "Observation on order or iteration",
+        "marks": 0.5
+      }
+    ]
+  },
+  {
+    "id": "CI-2-04",
+    "node": "CI-2",
+    "unit": "CRM Unit 5",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "State the six failure risks in CRM implementation and, for each, the matching success factor that fixes it.",
+    "model_answer": "| Failure risk | What happens | Matching success factor |\n|---|---|---|\n| Employee resistance | Staff stay with old methods; CRM used only partly | Effective change management; top management support |\n| Poor data quality | Incorrect, duplicate or outdated data makes CRM ineffective | High-quality customer data |\n| Poor training | Wrong data entered; staff avoid the system | Employee training |\n| Choosing the wrong CRM system | Mismatch with needs and budget; wasted investment | Clear objectives, then a selection that follows them |\n| Lack of integration | Same information entered several times | Integration with other systems |\n| High implementation cost | Budget overrun on licences, migration, training, support | Clear objectives and continuous monitoring (cost control) |\n\nCRM implementation is not just installing software; it involves technology, people, processes, data and culture, so most failures trace to people and data.",
+    "marking_scheme": [
+      {
+        "point": "Six risks named",
+        "marks": 2
+      },
+      {
+        "point": "Meaning or example for each",
+        "marks": 1.5
+      },
+      {
+        "point": "Six matching success factors",
+        "marks": 1.5
+      }
+    ]
+  },
+  {
+    "id": "CI-3-05",
+    "node": "CI-3",
+    "unit": "CRM Unit 5",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "A firm incurred CRM costs of: licence ₹2,40,000; implementation ₹1,80,000; training ₹60,000; maintenance ₹1,20,000. Incremental first-year benefits were: repeat-sales margin ₹4,50,000; cross-sell margin ₹2,10,000; service cost saving ₹90,000. Calculate the CRM ROI and the simple payback period (benefits accrue evenly), and interpret.",
+    "model_answer": "| Step | Working | Result |\n|---|---|---|\n| Total cost | 2,40,000 + 1,80,000 + 60,000 + 1,20,000 | ₹6,00,000 |\n| Total benefit | 4,50,000 + 2,10,000 + 90,000 | ₹7,50,000 |\n| Net gain | 7,50,000 - 6,00,000 | ₹1,50,000 |\n| ROI | 1,50,000 / 6,00,000 x 100 | **25%** |\n| Payback | 6,00,000 / 7,50,000 x 12 | **9.6 months** |\n\n**Interpretation:** every ₹1 spent returned ₹1.25, so the CRM pays back within the year (about 9.6 months). Benefits must be incremental profit or saving, not total revenue, and cost must include everything. One-year ROI understates relationship benefits that arrive over longer periods (loyalty, referrals).",
+    "marking_scheme": [
+      {
+        "point": "Total cost and total benefit correct",
+        "marks": 1.5
+      },
+      {
+        "point": "ROI formula and 25%",
+        "marks": 1.5
+      },
+      {
+        "point": "Payback 9.6 months",
+        "marks": 1
+      },
+      {
+        "point": "Interpretation (incremental benefit, time lag)",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "CI-3-06",
+    "node": "CI-3",
+    "unit": "CRM Unit 5",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "A customer survey of 400 respondents gives 192 promoters, 128 passives and 80 detractors. Calculate the NPS in steps and interpret the result.",
+    "model_answer": "**Steps.** Ask 'How likely are you to recommend us?' on a 0 to 10 scale. Detractors score 0-6, passives 7-8 (ignored in the calculation), promoters 9-10. Convert each group to a percentage of total respondents, then subtract.\n\n| Group | Count | Percentage of 400 |\n|---|---|---|\n| Promoters | 192 | 48% |\n| Passives | 128 | 32% (ignored) |\n| Detractors | 80 | 20% |\n\n**NPS = 48 - 20 = 28.**\n\n**Interpretation:** the score is positive (more promoters than detractors), but 52% of customers are not promoters, so advocacy has room to grow; a referral scheme and fixing the causes of detractor complaints would lift it.",
+    "marking_scheme": [
+      {
+        "point": "Grouping of respondents (0-6, 7-8, 9-10)",
+        "marks": 1
+      },
+      {
+        "point": "Percentages of total respondents",
+        "marks": 1.5
+      },
+      {
+        "point": "NPS = 28",
+        "marks": 1
+      },
+      {
+        "point": "Interpretation",
+        "marks": 1.5
+      }
+    ]
+  },
+  {
+    "id": "CI-4-04",
+    "node": "CI-4",
+    "unit": "CRM Unit 5",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Campaign data (fictional firm): advertising spend ₹72,000; impressions 8,00,000; new customers 240; orders from them 900; revenue from these orders ₹5,40,000. Compute cost per impression, CPM, CPA and AOV, and comment on the result.",
+    "model_answer": "| KPI | Working | Result |\n|---|---|---|\n| Cost per impression | 72,000 / 8,00,000 | ₹0.09 |\n| CPM | 0.09 x 1,000 | ₹90 |\n| CPA | 72,000 / 240 | ₹300 |\n| AOV | 5,40,000 / 900 | ₹600 |\n\n**Comment:** each exposure costs 9 paise, so awareness is moderately priced (₹90 per 1,000). It costs ₹300 in advertising to win a customer, and the average order of ₹600 is twice that, so the first order repays the advertising in revenue terms (profit depends on margin, not given). CPA counts advertising cost only; true acquisition cost would be higher.",
+    "marking_scheme": [
+      {
+        "point": "Cost per impression and CPM",
+        "marks": 1.5
+      },
+      {
+        "point": "CPA",
+        "marks": 1
+      },
+      {
+        "point": "AOV",
+        "marks": 1
+      },
+      {
+        "point": "Comment with assumption (ad cost only, revenue not profit)",
+        "marks": 1.5
+      }
+    ]
+  },
+  {
+    "id": "CI-4-05",
+    "node": "CI-4",
+    "unit": "CRM Unit 5",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "hard",
+    "question": "A case states: customers at start of year 1,800; new customers 200; customers lost 150; customers at end (as stated) 1,900. Show that the data do not reconcile, and compute CRR and churn under both readings.",
+    "model_answer": "**Reconciliation.** Ending customers should be 1,800 + 200 - 150 = **1,850**, not 1,900. The stated figure is 50 too high. (Equivalently, 1,800 + 200 - 1,900 = 100 customers lost, not 150.)\n\n| Reading | CRR = (E - N) / S x 100 | Churn = lost / S x 100 | CRR + churn |\n|---|---|---|---|\n| Stated end 1,900 (implies 100 lost) | (1,900 - 200) / 1,800 = 94.44% | 100 / 1,800 = 5.56% | 100% |\n| Consistent end 1,850 (150 lost) | (1,850 - 200) / 1,800 = 91.67% | 150 / 1,800 = 8.33% | 100% |\n| Mixed (stated end, stated 150 lost) | 94.44% | 8.33% | 102.8% (inconsistent) |\n\n**What to write:** give the answer from the figures the question uses, flag the gap in one line, and show the consistent figures (CRR 91.67%, churn 8.33%). CRR and churn add to 100% only when the data are consistent.",
+    "marking_scheme": [
+      {
+        "point": "Reconciliation to 1,850 identified",
+        "marks": 1.5
+      },
+      {
+        "point": "CRR on stated data (94.44%)",
+        "marks": 1
+      },
+      {
+        "point": "Consistent CRR and churn (91.67%, 8.33%)",
+        "marks": 1.5
+      },
+      {
+        "point": "Check that CRR + churn = 100% and advice on writing the answer",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "CI-5-03",
+    "node": "CI-5",
+    "unit": "CRM Unit 5",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Explain the six ways in which CRM changes employee behaviour, with one example each.",
+    "model_answer": "| | Behaviour change | Example |\n|---|---|---|\n| A | More customer-oriented | From 'I need to meet my target' to 'What does this customer need?' |\n| B | Better accountability | CRM records calls, follow-ups and complaints resolved, so activity is visible |\n| C | Better teamwork | Sales sees the service complaint history without repeatedly asking |\n| D | Greater efficiency | Open one customer profile instead of searching Excel, email and calling another department |\n| E | Data-driven behaviour | Check previous purchases before deciding that a customer may be interested |\n| F | Learning and skill development | Skills in data management, customer analysis, digital communication, report interpretation |\n\nLink: these changes produce the performance gains (retention, sales), and employees mediate CRM results, so incentives, training and empowerment are needed.",
+    "marking_scheme": [
+      {
+        "point": "Six changes named",
+        "marks": 3
+      },
+      {
+        "point": "One example for each",
+        "marks": 1.5
+      },
+      {
+        "point": "Link to performance / mediating role",
+        "marks": 0.5
+      }
+    ]
+  },
+  {
+    "id": "CI-6-02",
+    "node": "CI-6",
+    "unit": "CRM Unit 5",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "hard",
+    "question": "A company's sales team keeps spreadsheets, 15% of customer records are duplicates, and the CRM does not link with the billing system. Name the failure risk for each symptom, give the matching success factor, and suggest one KPI for each.",
+    "model_answer": "| Symptom | Failure risk | Matching success factor | KPI |\n|---|---|---|---|\n| Sales keep spreadsheets | Employee resistance | Effective change management and top management support | Adoption rate (share of staff logging daily) |\n| 15% duplicate records | Poor data quality | High-quality customer data (cleansing and validation, migration of clean data) | Duplicate-record rate |\n| No link with billing | Lack of integration | Integration with other systems | Share of orders passed automatically to billing |\n\nClosing line: the problems are organisational as well as technical; CRM involves people, processes, data and culture, not just software.",
+    "marking_scheme": [
+      {
+        "point": "Three risks correctly named",
+        "marks": 1.5
+      },
+      {
+        "point": "Three matching success factors",
+        "marks": 1.5
+      },
+      {
+        "point": "Three KPIs",
+        "marks": 1.5
+      },
+      {
+        "point": "Organisational (not just technical) conclusion",
+        "marks": 0.5
+      }
+    ]
+  },
+  {
+    "id": "CI-1-05",
+    "node": "CI-1",
+    "unit": "CRM Unit 5",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "medium",
+    "question": "Explain the CRM implementation life cycle: define it, describe the nine stages with objective and main activities, the eleven key considerations and the Payne and Frow framework.",
+    "model_answer": "**Definition.** The CRM implementation life cycle is the end-to-end, structured process of planning, configuring, deploying and adopting a CRM system.\n\n**Nine stages.**\n\n| # | Stage | Objective | Main activities |\n|---|---|---|---|\n| 1 | Assessment and planning | Understand needs and goals | Analyse current processes, define objectives, identify stakeholders, build plan |\n| 2 | Selection | Choose a fitting system | Evaluate market solutions on features, scalability, integration, budget |\n| 3 | Customisation and configuration | Tailor to processes | Customise workflows, set roles and permissions, integrate with other systems |\n| 4 | Data migration | Move data accurately | Cleanse and validate, field mapping, migration strategy, minimise downtime |\n| 5 | Training | Make users proficient | Role-based programme, sessions at all levels, ongoing support |\n| 6 | Pilot testing | Test in a controlled setting | Limited rollout, feedback, adjustments |\n| 7 | Rollout and deployment | Organisation-wide use | Deploy to all departments, fix issues, communicate |\n| 8 | Monitoring and optimisation | Continuous improvement | Track KPIs, gather feedback, update |\n| 9 | User adoption | Widespread acceptance | Evaluate performance, incentivise use, address resistance |\n\n**Eleven considerations (threads through every stage):** clear goals; user needs; data migration and integration; user training; customisation; data quality; KPIs; change management; continuous improvement; user adoption; cost control.\n\n**Order observations.** Data migration before training (train on real data); pilot before rollout (errors are cheaper in a small group); stages 8 and 9 feed back to stage 1, so the life cycle is iterative.\n\n**Payne and Frow (strategic view).** Five interlocking processes: strategy development, value creation, multichannel integration, information management, performance assessment. It treats implementation as strategic, not one linear IT rollout.\n\n**Interpretation.** Implementation succeeds when planning, data, training and adoption are managed as one loop, not as an installation.",
+    "marking_scheme": [
+      {
+        "point": "Definition",
+        "marks": 1
+      },
+      {
+        "point": "Nine stages in order",
+        "marks": 3
+      },
+      {
+        "point": "Objectives and activities",
+        "marks": 2
+      },
+      {
+        "point": "Eleven considerations",
+        "marks": 1.5
+      },
+      {
+        "point": "Order observations and iteration",
+        "marks": 1
+      },
+      {
+        "point": "Payne and Frow five processes",
+        "marks": 1.5
+      }
+    ]
+  },
+  {
+    "id": "CI-2-05",
+    "node": "CI-2",
+    "unit": "CRM Unit 5",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "medium",
+    "question": "Discuss the critical success factors and failure risks in CRM implementation, show how they mirror each other, and explain how you would use them to diagnose a failing implementation.",
+    "model_answer": "**Not just software.** CRM implementation involves technology, people, processes, data and organisational culture. Failure is common, so success factors and risks must be managed from the start.\n\n**Eight success factors.** (1) Top management support; (2) clear CRM objectives; (3) employee training; (4) high-quality customer data; (5) integration with other systems; (6) user-friendly technology; (7) effective change management; (8) continuous monitoring and improvement. Example: managers who keep using spreadsheets signal that CRM is optional.\n\n**Six failure risks.** (1) Employee resistance; (2) poor data quality; (3) poor training; (4) wrong CRM system; (5) lack of integration; (6) high implementation cost. Example: a customer bought several products but the CRM shows one.\n\n**Mirror table.**\n\n| Failure risk | Matching success factor |\n|---|---|\n| Employee resistance | Change management; top management support |\n| Poor data quality | High-quality customer data |\n| Poor training | Employee training |\n| Wrong system | Clear objectives and a selection that follows them |\n| Lack of integration | Integration with other systems |\n| High cost | Clear objectives and continuous monitoring |\n\n**Broader risks.** Treating CRM as a pure IT project; unrealistic expectations and scope creep; migrating uncleaned legacy data; no clear metrics up front, so ROI cannot be shown later.\n\n**Diagnostic use.** Underline the symptoms in the case; name the risk for each; prescribe the matching factor; add a KPI (adoption rate, duplicate-record rate, cost against budget); close by saying the problem is organisational, not just technical.\n\n**Interpretation.** Most failures trace to people and data, so spend time on training, data quality and change management before extra features.",
+    "marking_scheme": [
+      {
+        "point": "Technology, people, process, data, culture framing",
+        "marks": 1
+      },
+      {
+        "point": "Eight success factors with examples",
+        "marks": 2.5
+      },
+      {
+        "point": "Six failure risks with examples",
+        "marks": 2
+      },
+      {
+        "point": "Mirror table",
+        "marks": 2
+      },
+      {
+        "point": "Broader risks and diagnostic method",
+        "marks": 1.5
+      },
+      {
+        "point": "Interpretation",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "CI-3-07",
+    "node": "CI-3",
+    "unit": "CRM Unit 5",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "hard",
+    "question": "Explain how CRM effectiveness is measured. Cover the ROI formula with an example, the four-stage KPI framework with formulas, the balanced scorecard view and the challenges in measuring CRM ROI.",
+    "model_answer": "**Effectiveness and ROI.** Effectiveness is how successfully CRM helps achieve objectives; ROI shows whether the benefit justified the money invested.\n\n**ROI (%) = (financial benefit - cost) / cost x 100.** Example: cost ₹2,00,000, incremental benefit ₹2,60,000: (2,60,000 - 2,00,000) / 2,00,000 x 100 = **30%**. Benefit must be incremental profit or saving (not total revenue); cost must include licence, implementation, integration, training and maintenance.\n\n**Four-stage KPI framework.**\n\n| Stage | KPIs and formulas |\n|---|---|\n| Awareness | Cost per impression = ad cost / impressions; CPM = x 1,000; social engagement; website traffic growth = (current - previous) / previous x 100 |\n| Conversion | Conversion rate = conversions / prospects x 100; CPA = campaign cost / conversions; AOV = revenue / orders |\n| Retention | CRR = (E - N) / S x 100; churn = lost / S x 100; CLV = AOV x frequency x lifespan |\n| Advocacy | NPS = % promoters - % detractors; online reviews and mentions |\n\nCheck sums: ₹10,000 / 5,00,000 = ₹0.02, CPM ₹20; start 1,000, new 100, lost 80, end 1,020: CRR (1,020 - 100) / 1,000 = 92%, churn 8%, total 100%; 70% promoters, 10% detractors: NPS 60.\n\n**Balanced scorecard.** Financial (revenue growth, ROI, cost to serve); customer (satisfaction, retention, NPS); internal process (response time, first-contact resolution); learning and growth (CRM adoption, training completion).\n\n**Challenges.** Attribution (isolating CRM's effect from market conditions); time lag (loyalty and referral benefits arrive slowly, so short-term ROI understates value); intangibles (productivity, brand equity).\n\n**Interpretation.** Measure all four stages, because strength at one stage can hide weakness at another.",
+    "marking_scheme": [
+      {
+        "point": "Effectiveness and ROI formula with a correct example",
+        "marks": 2
+      },
+      {
+        "point": "Four stages with the KPIs",
+        "marks": 2
+      },
+      {
+        "point": "Formulas stated correctly with check sums",
+        "marks": 2.5
+      },
+      {
+        "point": "Balanced scorecard",
+        "marks": 1.5
+      },
+      {
+        "point": "Measurement challenges",
+        "marks": 1
+      },
+      {
+        "point": "Interpretation",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "CI-5-04",
+    "node": "CI-5",
+    "unit": "CRM Unit 5",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "medium",
+    "question": "Explain the impact of CRM on organisational performance and on employee behaviour, and show how the two are linked.",
+    "model_answer": "**Organisational performance (six impacts).**\n\n| | Impact | How and example |\n|---|---|---|\n| A | Increase in sales | Buying history lets staff cross-sell and upsell (accessories, better model) |\n| B | Better customer retention | Tracks complaints and purchases, spots customers likely to leave, relevant follow-ups |\n| C | Improved productivity | Automated reminders, data recording and reports; less administrative time |\n| D | Faster decision making | Reports on best-selling products, high-value customers, best campaigns replace guesswork |\n| E | Better coordination | Marketing leads visible to sales; service sees the history; less duplication |\n| F | Reduction in costs | Less paperwork and duplicate entry, better targeting, lower acquisition cost |\n\n**Employee behaviour (six changes).**\n\n| | Change | Example |\n|---|---|---|\n| A | More customer-oriented | 'What does this customer need?' replaces 'meet my target' |\n| B | Better accountability | Calls, follow-ups and complaints are recorded |\n| C | Better teamwork | No need to ask service repeatedly for complaint history |\n| D | Greater efficiency | One profile replaces Excel, email and phone calls |\n| E | Data-driven behaviour | Decisions use purchase and interaction history |\n| F | Learning and skills | Data management, analysis, digital communication |\n\n**Link.** The service-profit chain places employee experience upstream: satisfied, empowered employees deliver better service, customer satisfaction, loyalty and profit. Behaviour changes such as data-driven and customer-oriented work produce the performance gains (retention, sales).\n\n**Enablers.** Incentive redesign (reward retention and satisfaction, not only sales volume); training in system and relationship skills; internal marketing to win employee buy-in; empowerment such as a discretionary refund limit.\n\n**Interpretation.** Technology alone does not deliver the gains; employee behaviour is the mediator.",
+    "marking_scheme": [
+      {
+        "point": "Six performance impacts with examples",
+        "marks": 3
+      },
+      {
+        "point": "Six behaviour changes with examples",
+        "marks": 3
+      },
+      {
+        "point": "Link through employees (service-profit chain)",
+        "marks": 1.5
+      },
+      {
+        "point": "Enablers",
+        "marks": 1.5
+      },
+      {
+        "point": "Interpretation",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "CI-4-06",
+    "node": "CI-4",
+    "unit": "CRM Unit 5",
+    "type": "case",
+    "marks": 15,
+    "difficulty": "hard",
+    "question": "**Case: LeafLoom Home (fictional).** LeafLoom Home (fictional), an online home-furnishings firm, reports the following for its year (assume revenue CLV, and CPA based on advertising spend only):\n\n| Item | Value |\n|---|---|\n| Advertising spend | ₹1,20,000 |\n| Impressions | 6,00,000 |\n| New customers acquired | 300 |\n| Orders from these new customers | 1,200 |\n| Revenue from these orders | ₹7,80,000 |\n| Customers at start of year | 1,500 |\n| Customers lost during the year | 135 |\n| Orders per customer per year | 4 |\n| Average customer lifespan | 5 years |\n| NPS survey | 400 customers: 180 promoters, 120 passives, 100 detractors |\n\n(a) Calculate cost per impression, CPM, CPA, AOV, ending customers, CRR, churn, CLV and NPS in a table, and show that CRR + churn = 100%. (8)\n(b) Diagnose which stage of the customer journey (awareness, conversion, retention, advocacy) needs the most attention, with reasons. (4)\n(c) Recommend three actions, naming the failure risk or success factor each addresses, and one limitation of the analysis. (3)",
+    "model_answer": "**(a) Calculations (8)**\n\n| KPI | Working | Result |\n|---|---|---|\n| Cost per impression | 1,20,000 / 6,00,000 | ₹0.20 |\n| CPM | 0.20 x 1,000 | ₹200 |\n| CPA | 1,20,000 / 300 | ₹400 |\n| AOV | 7,80,000 / 1,200 | ₹650 |\n| Ending customers | 1,500 + 300 - 135 | 1,665 |\n| CRR | (1,665 - 300) / 1,500 x 100 | 91% |\n| Churn | 135 / 1,500 x 100 | 9% |\n| CLV | 650 x 4 x 5 | ₹13,000 |\n| CLV : CPA | 13,000 / 400 | 32.5 : 1 |\n| NPS | 180/400 = 45%; 100/400 = 25%; 45 - 25 | 20 |\n\nCheck: CRR 91% + churn 9% = 100%. Also, 1,200 orders from 300 customers is 4 each, consistent with 4 orders a year.\n\n**(b) Diagnosis (4)**\n- **Awareness:** ₹0.20 per impression (CPM ₹200) is expensive exposure, and only 300 customers came from 6,00,000 impressions (0.05%).\n- **Conversion:** CPA ₹400 against AOV ₹650 is healthy; the first order repays the advertising in revenue terms.\n- **Retention:** CRR 91%, churn 9% and CLV 32.5 times CPA are strong; retention carries the business.\n- **Advocacy:** NPS 20 is positive but low; 25% are detractors and 30% passives, so only 45% are promoters.\n\n**Priority: advocacy**, because 25% detractors threaten the retention that currently carries the business, and referrals would lower CPA and so reduce reliance on costly paid awareness. Awareness cost is second. This judgement rests on the internal comparison only, since no industry benchmarks are given.\n\n**(c) Recommendations and limitation (3)**\n1. Run a referral and review programme and resolve detractor complaints quickly (addresses weak advocacy; success factor: continuous monitoring and improvement).\n2. Shift advertising to the cheaper platform and track impression-to-purchase (clear objectives and cost control; risk: high cost).\n3. Keep the retention engine with personalised offers from a single, clean customer record (success factor: high-quality customer data).\n\n**Limitation:** CLV is revenue-based, not profit-based, and CPA counts advertising cost only, so both overstate the economics; NPS is a single survey.",
+    "marking_scheme": [
+      {
+        "point": "(a) Cost per impression, CPM, CPA, AOV",
+        "marks": 2
+      },
+      {
+        "point": "(a) Ending customers, CRR, churn and check",
+        "marks": 3
+      },
+      {
+        "point": "(a) CLV and NPS",
+        "marks": 3
+      },
+      {
+        "point": "(b) Stage-by-stage diagnosis",
+        "marks": 2
+      },
+      {
+        "point": "(b) Priority decision with reasons",
+        "marks": 2
+      },
+      {
+        "point": "(c) Three actions linked to CI-2",
+        "marks": 2
+      },
+      {
+        "point": "(c) Limitation",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "CI-6-03",
+    "node": "CI-6",
+    "unit": "CRM Unit 5",
+    "type": "case",
+    "marks": 15,
+    "difficulty": "hard",
+    "question": "**Case: Nirmaan Finserv (fictional).** Nirmaan Finserv (fictional) installed a CRM a year ago. Costs: licence ₹5,00,000; implementation ₹3,00,000; integration ₹1,50,000; training ₹1,00,000; maintenance ₹1,50,000. First-year incremental benefits: retention margin ₹9,00,000; cross-sell margin ₹6,00,000; productivity saving ₹3,00,000 (assume benefits accrue evenly across 12 months). The management review also found:\n\n- Only 60 of its 150 sales and service staff log activity in the CRM daily.\n- Of 2,000 customer records, 300 are duplicates.\n- Sales staff still keep personal spreadsheets, and the branch managers do not use CRM reports in review meetings.\n\n(a) Calculate the total cost, total benefit, ROI and payback period. (4)\n(b) Calculate the adoption rate and duplicate-record rate, and map each finding to a failure risk and a matching success factor. (5)\n(c) Recommend which life cycle stages to revisit and the KPIs to track. (3)\n(d) Should the board continue funding? Evaluate, including why one-year ROI may understate value. (3)",
+    "model_answer": "**(a) ROI (4)**\n\n| Step | Working | Result |\n|---|---|---|\n| Total cost | 5,00,000 + 3,00,000 + 1,50,000 + 1,00,000 + 1,50,000 | ₹12,00,000 |\n| Total benefit | 9,00,000 + 6,00,000 + 3,00,000 | ₹18,00,000 |\n| Net gain | 18,00,000 - 12,00,000 | ₹6,00,000 |\n| ROI | 6,00,000 / 12,00,000 x 100 | **50%** |\n| Payback | 12,00,000 / 18,00,000 x 12 | **8 months** |\n\nEvery ₹1 invested returned ₹1.50.\n\n**(b) Diagnosis (5)**\n- Adoption rate = 60 / 150 x 100 = **40%**; duplicate rate = 300 / 2,000 x 100 = **15%**.\n\n| Finding | Failure risk | Matching success factor |\n|---|---|---|\n| 40% adoption; personal spreadsheets | Employee resistance | Effective change management |\n| Managers not using CRM reports | (a root cause of resistance) lack of top management signal | Top management support |\n| 15% duplicate records | Poor data quality | High-quality customer data |\n| Staff not trained to rely on it (implied by low use) | Poor training | Employee training |\n\n**(c) Stages and KPIs (3)** Revisit stage 4 (data migration: cleanse and de-duplicate), stage 5 (role-based training), and stages 8 and 9 (monitoring and user adoption: incentivise use, address resistance). Track adoption rate, duplicate-record rate, data completeness, and customer KPIs (retention, CPA, NPS) monthly.\n\n**(d) Decision (3)** **Continue funding, with conditions.** A 50% ROI and 8-month payback show the CRM is paying, even though only 40% of staff use it; this suggests the benefit could grow as adoption and data quality rise. Conditions: adoption target (for example 80%), duplicates below an agreed level, managers run reviews from the CRM. One-year ROI understates value because loyalty and referral benefits arrive over longer periods, and it faces attribution problems (isolating CRM from other causes). The benefit figures must be incremental profit or savings, not total revenue.\n\n**Conclusion.** The technology is delivering; people and data are the weak links, so the board should fund adoption and data clean-up rather than more features.",
+    "marking_scheme": [
+      {
+        "point": "(a) Total cost and total benefit",
+        "marks": 1.5
+      },
+      {
+        "point": "(a) ROI and payback",
+        "marks": 2.5
+      },
+      {
+        "point": "(b) Adoption and duplicate rates",
+        "marks": 1.5
+      },
+      {
+        "point": "(b) Risk and success factor mapping",
+        "marks": 3.5
+      },
+      {
+        "point": "(c) Stages to revisit",
+        "marks": 1.5
+      },
+      {
+        "point": "(c) KPIs",
+        "marks": 1.5
+      },
+      {
+        "point": "(d) Decision with conditions and reasoning",
+        "marks": 1.5
+      },
+      {
+        "point": "(d) ROI limitations (time lag, attribution, incremental benefit)",
+        "marks": 1.5
+      }
+    ]
+  }
+]

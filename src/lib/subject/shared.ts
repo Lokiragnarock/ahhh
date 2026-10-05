@@ -28,7 +28,7 @@ const LABEL_OVERRIDES: Record<string, string> = {
   "gmat-verbal": "GMAT Verbal",
   "gmat-strategy": "GMAT Strategy",
 };
-const ACRONYM_WORDS = new Set(["sapm", "sfm", "moc", "gmat"]);
+const ACRONYM_WORDS = new Set(["sapm", "sfm", "moc", "gmat", "crm"]);
 
 export function subjectLabel(slug: string): string {
   const override = LABEL_OVERRIDES[slug];

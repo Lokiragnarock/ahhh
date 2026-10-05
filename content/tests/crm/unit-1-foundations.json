@@ -1,0 +1,674 @@
+[
+  {
+    "id": "CF-1-01",
+    "node": "CF-1",
+    "unit": "CRM Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "Which phrase in the faculty definition of CRM shows that CRM covers acquisition as well as retention?",
+    "options": [
+      "A) strategies, processes and technology",
+      "B) current and potential customers",
+      "C) long-term customer loyalty",
+      "D) interactions and relationships"
+    ],
+    "answer": "B",
+    "explanation": "B is right: managing relationships with current AND potential customers means winning new customers as well as keeping existing ones. A (strategies, processes and technology) says how CRM is delivered, not whom it covers. C (long-term loyalty) is the retention outcome only. D (interactions and relationships) names what is managed, not the customer scope."
+  },
+  {
+    "id": "CF-1-02",
+    "node": "CF-1",
+    "unit": "CRM Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "A firm's philosophy is \"produce what customers need\", and it uses market research, segmentation and positioning to design a car range for students, families and luxury buyers. Which era of CRM does this describe? (student notes)",
+    "options": [
+      "A) Product-oriented",
+      "B) Sales-oriented",
+      "C) Marketing-oriented",
+      "D) Relationship marketing"
+    ],
+    "answer": "C",
+    "explanation": "C is right: starting from customer needs is the marketing-oriented era (1980s-90s). A (product-oriented) makes products and sells them to everyone. B (sales-oriented, the most tempting) also sells in volume but starts from what the firm has produced, using aggressive selling rather than research into needs. D (relationship marketing) goes further, building relationships rather than transactions."
+  },
+  {
+    "id": "CF-1-03",
+    "node": "CF-1",
+    "unit": "CRM Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "What does social CRM add over e-CRM? (student notes)",
+    "options": [
+      "A) Websites and email as channels",
+      "B) Two-way conversation on social platforms and customer-generated content",
+      "C) Prediction and real-time personalisation using algorithms",
+      "D) Standard products for every customer"
+    ],
+    "answer": "B",
+    "explanation": "B is right: e-CRM works through websites and email, while social CRM adds two-way engagement on social platforms. A describes e-CRM itself. C (the tempting one) describes AI-driven CRM, the eighth era. D belongs to the product-oriented era."
+  },
+  {
+    "id": "CF-2-01",
+    "node": "CF-2",
+    "unit": "CRM Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "Which statement correctly separates relationship marketing from CRM, as stated by the faculty?",
+    "options": [
+      "A) Relationship marketing is the technology; CRM is the philosophy",
+      "B) Relationship marketing is the philosophy or strategy; CRM is the technology and processes that implement it",
+      "C) Both terms mean the same thing",
+      "D) Relationship marketing is only for acquisition; CRM is only for retention"
+    ],
+    "answer": "B",
+    "explanation": "B is the faculty sentence. A reverses it, which is the most common slip. C is wrong because the slide separates them in one sentence. D is wrong because relationship marketing is about long-term relationships, not acquisition alone, and CRM covers both current and potential customers."
+  },
+  {
+    "id": "CF-2-02",
+    "node": "CF-2",
+    "unit": "CRM Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Commitment-trust theory, which says trust and commitment decide whether a relationship succeeds, was proposed by: (textbook)",
+    "options": [
+      "A) Christopher, Payne and Ballantyne",
+      "B) Morgan and Hunt",
+      "C) Jan Carlzon",
+      "D) Buttle and Maklan"
+    ],
+    "answer": "B",
+    "explanation": "B is right (Morgan and Hunt, 1994). A (the tempting one) is the author trio of the six markets model, so the authors are swapped. C is Carlzon, who coined moments of truth. D are the textbook authors who define CRM as a core business strategy."
+  },
+  {
+    "id": "CF-2-03",
+    "node": "CF-2",
+    "unit": "CRM Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Which sequence gives the rungs of the ladder of customer loyalty in the correct order, from the bottom? (textbook)",
+    "options": [
+      "A) Customer, prospect, client, supporter, advocate, partner",
+      "B) Prospect, customer, client, supporter, advocate, partner",
+      "C) Prospect, client, customer, advocate, supporter, partner",
+      "D) Prospect, customer, supporter, client, partner, advocate"
+    ],
+    "answer": "B",
+    "explanation": "B is right. A starts at customer, but the ladder has six rungs and begins at prospect (the trap in the notes). C and D swap client with customer, or supporter with client, or advocate with partner, so they break the order of increasing commitment."
+  },
+  {
+    "id": "CF-3-01",
+    "node": "CF-3",
+    "unit": "CRM Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "A salesperson opens the customer record, sees past purchases, sizes and reward points, greets the customer by name, and later the invoice and thank-you SMS are generated automatically. This is mainly:",
+    "options": [
+      "A) Analytical CRM",
+      "B) Operational CRM",
+      "C) Collaborative CRM",
+      "D) Strategic CRM"
+    ],
+    "answer": "B",
+    "explanation": "B is right: sales force, marketing and service automation in live customer contact is operational (front-office) CRM. A (the tempting one) works on stored data to find patterns and forecast, in the back office. C is about unifying channels into one view. D is about customer-centric culture and long-term goals."
+  },
+  {
+    "id": "CF-3-02",
+    "node": "CF-3",
+    "unit": "CRM Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A fashion firm unifies its store, website and social-media interactions into one omnichannel view of each customer. Which type of CRM is this?",
+    "options": [
+      "A) Analytical",
+      "B) Operational",
+      "C) Collaborative",
+      "D) Strategic"
+    ],
+    "answer": "C",
+    "explanation": "C is right: seamless communication across channels with one omnichannel view is collaborative CRM. D (strategic, the tempting one) concerns culture and goals such as \"keep this customer for 10 years\", not channel integration. A analyses data; B automates front-office tasks."
+  },
+  {
+    "id": "CF-3-03",
+    "node": "CF-3",
+    "unit": "CRM Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "The CRM process framework is a cycle. Which order is correct? (student notes)",
+    "options": [
+      "A) Formation, performance, management and governance, evolution",
+      "B) Management and governance, formation, performance, evolution",
+      "C) Formation, management and governance, performance, evolution",
+      "D) Evolution, formation, performance, management and governance"
+    ],
+    "answer": "C",
+    "explanation": "C is right, and it feeds back into formation. A puts performance before the programme is run. B starts with management before the purpose, programme and partners are formed. D starts with evolution, which is the decision to enhance or terminate after performance is measured."
+  },
+  {
+    "id": "CF-4-01",
+    "node": "CF-4",
+    "unit": "CRM Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "In the customer value pyramid, which tier forms the foundation and is the minimum every customer expects?",
+    "options": [
+      "A) Emotional value",
+      "B) Functional value",
+      "C) Life-changing value",
+      "D) Social impact"
+    ],
+    "answer": "B",
+    "explanation": "B is right: functional value (what does it do?) is the base. A (emotional, the tempting one) sits above it: customers expect the job to be done before they care about how it feels. C and D are upper tiers."
+  },
+  {
+    "id": "CF-4-02",
+    "node": "CF-4",
+    "unit": "CRM Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Which of the following is NOT one of the six factors that shape customer experience in the faculty list?",
+    "options": [
+      "A) Employee behaviour",
+      "B) Personalisation",
+      "C) After-sales service",
+      "D) Advertising spend"
+    ],
+    "answer": "D",
+    "explanation": "D is right: advertising spend is a firm input, not a factor customers experience. The six are product quality, employee behaviour, convenience, speed, personalisation and after-sales service, so A, B and C are all on the list."
+  },
+  {
+    "id": "CF-4-03",
+    "node": "CF-4",
+    "unit": "CRM Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A customer's online payment fails at checkout and nobody responds to the complaint, undoing weeks of good service. In CRM terms this is best described as: (textbook)",
+    "options": [
+      "A) A moment of truth",
+      "B) A rung on the ladder of loyalty",
+      "C) A stage of the customer lifecycle",
+      "D) A level of the value pyramid"
+    ],
+    "answer": "A",
+    "explanation": "A is right: every contact is a moment of truth, a chance to build or damage the relationship (Carlzon). C (the tempting one) is wrong because lifecycle stages run from awareness to advocacy and are not single contact events. B is a loyalty classification and D is a tier of value; neither describes one interaction."
+  },
+  {
+    "id": "CF-5-01",
+    "node": "CF-5",
+    "unit": "CRM Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A firm installs a CRM tool, but its sales team still logs leads in personal spreadsheets. Which strategic challenge does this symptom point to?",
+    "options": [
+      "A) Lack of a clear CRM strategy",
+      "B) Insufficient stakeholder involvement",
+      "C) Low user adoption",
+      "D) Poor data quality and migration issues"
+    ],
+    "answer": "C",
+    "explanation": "C is right: users who do not operate the system daily is low user adoption. D (the tempting one) is a likely consequence of the spreadsheets, but the cause shown is non-use. B concerns leaders and managers who sponsor the project, not the daily users. A would show up as no stated goals."
+  },
+  {
+    "id": "CF-5-02",
+    "node": "CF-5",
+    "unit": "CRM Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "\"CRM implementation is a one-time project\" is a myth because:",
+    "options": [
+      "A) Software licences are renewed yearly",
+      "B) CRM is continuous and cyclical: formation, management, performance and evolution repeat",
+      "C) Only large firms can run CRM",
+      "D) CRM guarantees success once installed"
+    ],
+    "answer": "B",
+    "explanation": "B is right (the process framework of CF-3). A is a billing detail, not the rebuttal. C and D are two other myths (large firms only, instant success), not the rebuttal to this one."
+  },
+  {
+    "id": "CF-5-03",
+    "node": "CF-5",
+    "unit": "CRM Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "The class fix for poor data quality and migration issues is to:",
+    "options": [
+      "A) Appoint a CRM champion or steering committee",
+      "B) Run a data audit before migration, then cleanse and deduplicate",
+      "C) Give hands-on training and continuous support",
+      "D) Define retention and sales-growth objectives"
+    ],
+    "answer": "B",
+    "explanation": "B is right. A is the fix for insufficient stakeholder involvement. C is the fix for low user adoption. D is the fix for lack of a clear CRM strategy. Each challenge has its own fix, so matching fix to challenge is the skill tested."
+  },
+  {
+    "id": "CF-6-01",
+    "node": "CF-6",
+    "unit": "CRM Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "In a case, management says \"nobody can state what the new CRM is meant to achieve\". Which challenge should the diagnosis table name?",
+    "options": [
+      "A) Wrong software chosen",
+      "B) Lack of a clear CRM strategy",
+      "C) Low user adoption",
+      "D) Poor data quality"
+    ],
+    "answer": "B",
+    "explanation": "B is right: no stated objectives such as retention, lead tracking or sales growth is lack of a clear strategy. A (the tempting one) is about selection fit and would be shown by a tool bought without research on requirements. C and D are shown by non-use and by duplicate or inconsistent records."
+  },
+  {
+    "id": "CF-1-04",
+    "node": "CF-1",
+    "unit": "CRM Unit 1",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "Define Customer Relationship Management as per class. State its five objectives, with one line on how each is achieved.",
+    "model_answer": "**Definition.** CRM is the process of managing a company's interactions and relationships with current and potential customers, using strategies, processes and technology to improve customer satisfaction, increase sales and build long-term loyalty. Three words carry the marks: *process* (not just software), *current and potential* (acquisition as well as retention), *long-term loyalty*.\n\n**Objectives and how.**\n1. **Attract new customers:** targeted campaigns to prospects found through data.\n2. **Retain existing customers:** loyalty programmes and proactive service.\n3. **Improve satisfaction and loyalty:** consistent experience across touchpoints.\n4. **Increase sales and profitability:** cross-selling to known needs, focus on valuable customers.\n5. **Provide better service:** one customer record so any employee sees the history.\n\n**Close.** CRM is a process plus technology, never software alone.",
+    "marking_scheme": [
+      {
+        "point": "Class definition with strategies, processes, technology, current and potential customers, loyalty",
+        "marks": 2
+      },
+      {
+        "point": "Five objectives listed correctly",
+        "marks": 2
+      },
+      {
+        "point": "One line of how, and closing remark",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "CF-1-05",
+    "node": "CF-1",
+    "unit": "CRM Unit 1",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Trace the evolution of CRM through its eight eras. Group them sensibly and name the driver behind the move to relationships.",
+    "model_answer": "**Eight eras:** product-oriented (1950s-70s), sales-oriented (1970s-80s), marketing-oriented (1980s-90s), relationship marketing (1990s), technology-based CRM (late 1990s-2005), e-CRM (2000s-2010s), social CRM (2010s), AI-driven CRM (2020s onward). Dates are approximate.\n\n**Groups.**\n| Group | Eras | Example |\n|---|---|---|\n| Transaction | Product, sales, marketing | One standard TV model for everyone; car range for students, families, luxury buyers |\n| Relationship | Relationship marketing | Airline frequent-flyer programme |\n| Technology | Technology-based, e-CRM, social, AI | Online recommendations from past purchases; chatbots |\n\n**Driver.** Keeping a customer costs much less than winning a new one, markets matured and competition intensified, and cheaper IT made individual tracking possible.\n\n**Interpretation.** Each era keeps the earlier idea and adds a capability; AI-driven CRM still rests on the relationship idea.",
+    "marking_scheme": [
+      {
+        "point": "Eight eras in correct order",
+        "marks": 2
+      },
+      {
+        "point": "Sensible grouping with examples",
+        "marks": 1.5
+      },
+      {
+        "point": "Drivers (acquisition cost, competition, cheap IT)",
+        "marks": 1
+      },
+      {
+        "point": "Interpretation line",
+        "marks": 0.5
+      }
+    ]
+  },
+  {
+    "id": "CF-2-04",
+    "node": "CF-2",
+    "unit": "CRM Unit 1",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "Distinguish relationship marketing from CRM. Give one example.",
+    "model_answer": "Relationship marketing is the philosophy or strategy; CRM is the technology and processes used to implement that philosophy.\n\n| Basis | Relationship marketing | CRM |\n|---|---|---|\n| Nature | Philosophy, strategy | Technology and processes |\n| Question answered | Why build long-term relationships | How to build and manage them |\n| Tools | Trust, commitment, loyalty schemes | Databases, SFA, analytics, dashboards |\n| Without the other | Good intent, no scale | A database with no purpose |\n\n**Example.** An airline's frequent-flyer idea of rewarding repeat travellers is relationship marketing; the database that tracks miles and triggers offers is CRM.\n\n**Interpretation.** CRM without the philosophy is merely a database; the philosophy without CRM cannot scale.",
+    "marking_scheme": [
+      {
+        "point": "Philosophy versus technology and process sentence",
+        "marks": 1.5
+      },
+      {
+        "point": "Table of at least three bases",
+        "marks": 2
+      },
+      {
+        "point": "Example",
+        "marks": 1
+      },
+      {
+        "point": "Interpretation",
+        "marks": 0.5
+      }
+    ]
+  },
+  {
+    "id": "CF-2-05",
+    "node": "CF-2",
+    "unit": "CRM Unit 1",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Explain the six markets model of relationship marketing. Name the authors and give one line on each market.",
+    "model_answer": "The model is by Christopher, Payne and Ballantyne. Relationship marketing looks beyond customers to six markets:\n\n| Market | Who |\n|---|---|\n| Customer | End buyers |\n| Referral | Satisfied customers and intermediaries who spread word of mouth |\n| Supplier and alliance | Partners in the value chain |\n| Influence | Government, media, analysts, shareholders |\n| Recruitment | Sources of talent |\n| Internal | Employees, whose buy-in is essential |\n\n**Point to add.** The model widens the idea from one customer relationship to a network, and the internal market shows that frontline employees deliver the relationship. Do not confuse it with commitment-trust theory (Morgan and Hunt).",
+    "marking_scheme": [
+      {
+        "point": "Correct authors",
+        "marks": 1
+      },
+      {
+        "point": "Six markets named",
+        "marks": 2
+      },
+      {
+        "point": "One line on each market",
+        "marks": 1.5
+      },
+      {
+        "point": "Link or distinction remark",
+        "marks": 0.5
+      }
+    ]
+  },
+  {
+    "id": "CF-3-04",
+    "node": "CF-3",
+    "unit": "CRM Unit 1",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Describe the CRM process framework and explain why it shows that CRM is not a one-time project.",
+    "model_answer": "The framework is a cycle: **Formation → Management and governance → Performance → Evolution**, feeding back into formation.\n\n- **Formation:** the purpose (effectiveness, efficiency) shapes the programme (features, offerings), informed by partners (selection criteria and process).\n- **Management and governance:** team structure, role specification, communication, planning and process alignment, employee motivation and monitoring.\n- **Performance:** measured against strategic, financial and marketing goals such as loyalty and satisfaction.\n- **Evolution:** results decide whether the programme is enhanced or terminated, and the cycle restarts.\n\n**Why not one-time.** Because evolution feeds back into formation, CRM needs continuous measurement and renewal. This rebuts the myth that CRM is a one-time project.",
+    "marking_scheme": [
+      {
+        "point": "Four stages in correct cyclic order",
+        "marks": 1.5
+      },
+      {
+        "point": "Content of each stage",
+        "marks": 2
+      },
+      {
+        "point": "Feedback loop and link to the one-time-project myth",
+        "marks": 1.5
+      }
+    ]
+  },
+  {
+    "id": "CF-4-04",
+    "node": "CF-4",
+    "unit": "CRM Unit 1",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "Explain the customer value pyramid. State the question each tier answers and what happens as one moves up.",
+    "model_answer": "The pyramid explains the levels of value a product or service gives. The higher the tier, the more value the customer perceives and the stronger and harder to copy the relationship becomes.\n\n| Tier (bottom to top) | Question |\n|---|---|\n| Functional value | What does it do? |\n| Emotional value | How does it make me feel? |\n| Life-changing value | How does it improve my life or future? |\n| Social impact | How does it benefit society or the environment? |\n\n**Example.** A motorcycle maker that moves its message from engine specifications (functional) to \"for people who choose their own path\" (emotional) builds a deeper bond.\n\n**Note.** The pyramid shows tiers of value, not customer segments and not loyalty rungs.",
+    "marking_scheme": [
+      {
+        "point": "Purpose and direction of increasing stickiness",
+        "marks": 1.5
+      },
+      {
+        "point": "Four tiers in correct order with questions",
+        "marks": 2.5
+      },
+      {
+        "point": "Example and distinction from loyalty ladder",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "CF-4-05",
+    "node": "CF-4",
+    "unit": "CRM Unit 1",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Define customer experience (CX). List the six factors that influence it and show how they work together in one example.",
+    "model_answer": "**Definition.** CX is the overall impression and feeling a customer has after interacting with a company across touchpoints before, during and after a purchase.\n\n**Six factors:** product quality, employee behaviour (empathy, listening, first-contact resolution), convenience, speed, personalisation, after-sales service.\n\n**Example (buying a phone online).** Genuine product (quality), polite delivery and support (employee behaviour), shop and track any time (convenience), next-day delivery (speed), accessory suggestions from browsing history (personalisation), easy returns (after-sales).\n\n**Outcome chain.** Satisfaction, repeat purchase, positive reviews, loyalty, referrals.\n\n**Interpretation.** CX is wider than service, and the weakest touchpoint sets the experience.",
+    "marking_scheme": [
+      {
+        "point": "Definition with touchpoints before, during, after purchase",
+        "marks": 1.5
+      },
+      {
+        "point": "Six factors",
+        "marks": 2
+      },
+      {
+        "point": "Example and outcome chain",
+        "marks": 1
+      },
+      {
+        "point": "Interpretation",
+        "marks": 0.5
+      }
+    ]
+  },
+  {
+    "id": "CF-5-04",
+    "node": "CF-5",
+    "unit": "CRM Unit 1",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Choose any four CRM myths. For each, state the myth in one line and rebut it in one line.",
+    "model_answer": "| Myth | Rebuttal |\n|---|---|\n| CRM is only for large enterprises | Modern solutions scale down to small and mid-sized firms |\n| CRM is too complicated and time-consuming | Platforms allow phased rollout, though training is still needed |\n| CRM is a one-time project | It is continuous and cyclical: formation, management, performance, evolution |\n| CRM guarantees instant success | Loyalty and ROI come from consistently delivered value and trust, not installed software |\n| CRM software is too expensive | Tiered pricing and free entry versions exist |\n| CRM is just for sales teams | Marketing, service and operations use the same data; a sales-only view recreates silos |\n\n*(Any four.)* **Interpretation.** Myths are beliefs to rebut; challenges are real obstacles to fix, so the two should not be blurred.",
+    "marking_scheme": [
+      {
+        "point": "Four myths stated correctly",
+        "marks": 2
+      },
+      {
+        "point": "Four rebuttals",
+        "marks": 2.5
+      },
+      {
+        "point": "Interpretation or distinction from challenges",
+        "marks": 0.5
+      }
+    ]
+  },
+  {
+    "id": "CF-3-05",
+    "node": "CF-3",
+    "unit": "CRM Unit 1",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "medium",
+    "question": "Explain the four types of CRM with examples. How do they depend on each other?",
+    "model_answer": "**Introduction.** CRM rests on four pillars. A single running example, a clothing retailer and a repeat festival-season shopper who spends about ₹4,000 a visit, shows each.\n\n| Type | Meaning | Tools | Example |\n|---|---|---|---|\n| Analytical | Captures, stores and analyses data to find patterns, calculate CLV, forecast demand | Data warehouse, data mining | Flags her as ethnic-wear focused, festival driven and high value |\n| Operational | Front-office, customer-facing processes | Sales force, marketing and service automation | Salesperson sees history and points and greets her; invoice and thank-you SMS are automatic |\n| Collaborative | Seamless communication across channels, one omnichannel view | Email, web, social media, store integration | Her store, online and social interactions feed one view |\n| Strategic | Customer-centric culture; goals aligned to acquiring, retaining and developing profitable relationships | Strategy, loyalty design | Firm asks how to keep her shopping for 10 years; adds loyalty programme, previews, quick complaint resolution |\n\n**Contrasts.** Analytical works on stored data to produce insight (back office); operational uses insight in live contact (front office). Collaborative is about channels and sharing; strategic is about culture and long-term goals.\n\n**Dependence.** Analytical insight drives operational action; collaborative integration supplies the data analytics needs; strategic intent decides what the other three are for. A firm with only operational tools records transactions but cannot learn from them.\n\n**Conclusion.** The four types are one system, not four alternatives.",
+    "marking_scheme": [
+      {
+        "point": "Intro and running example",
+        "marks": 1
+      },
+      {
+        "point": "Analytical and operational with tools and examples",
+        "marks": 3
+      },
+      {
+        "point": "Collaborative and strategic with tools and examples",
+        "marks": 3
+      },
+      {
+        "point": "Comparison or contrast table",
+        "marks": 1.5
+      },
+      {
+        "point": "Interdependence and conclusion",
+        "marks": 1.5
+      }
+    ]
+  },
+  {
+    "id": "CF-2-06",
+    "node": "CF-2",
+    "unit": "CRM Unit 1",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "medium",
+    "question": "Explain relationship marketing theory: its key principles, commitment-trust theory, the six markets model and the ladder of customer loyalty. Link it to CRM.",
+    "model_answer": "**Relationship marketing** builds long-term, mutually beneficial relationships rather than one-time sales, by understanding needs, delivering value and earning loyalty. It is the philosophy; CRM is the technology and process that implements it.\n\n**Five principles.** (1) Retention matters more than one-time sales. (2) Long-term relationships create greater value for both sides. (3) Trust, commitment and satisfaction are the foundation. (4) Loyal customers are more profitable: they buy repeatedly and recommend. (5) Every interaction should strengthen the relationship.\n\n**Commitment-trust theory (Morgan and Hunt, 1994).** Trust lowers perceived risk; commitment is willingness to invest effort to keep the relationship. Both lead to cooperation and a lower desire to leave. Use it to diagnose why customers leave: broken trust or promises, not only price.\n\n**Six markets (Christopher, Payne and Ballantyne).** Customer, referral, supplier and alliance, influence, recruitment, internal. Employees (internal market) deliver the relationship.\n\n**Ladder of loyalty.** Prospect → customer → client → supporter → advocate → partner. Effort moves from broad acquisition at the bottom to individual retention and co-creation at the top; advocates bring referral value.\n\n**Link to CRM.** The theory says why to build relationships; CRM provides databases, analytics and automation to do it at scale. Without the philosophy, CRM is just a database.",
+    "marking_scheme": [
+      {
+        "point": "Definition, philosophy versus CRM",
+        "marks": 1.5
+      },
+      {
+        "point": "Five principles",
+        "marks": 2
+      },
+      {
+        "point": "Commitment-trust theory with authors and use",
+        "marks": 2
+      },
+      {
+        "point": "Six markets model",
+        "marks": 2
+      },
+      {
+        "point": "Ladder of loyalty",
+        "marks": 1.5
+      },
+      {
+        "point": "Link to CRM",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "CF-5-05",
+    "node": "CF-5",
+    "unit": "CRM Unit 1",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "hard",
+    "question": "Discuss the common CRM myths and the five strategic challenges in CRM implementation, with the fix for each challenge. How can the lists be used to diagnose a failing CRM?",
+    "model_answer": "**Myths (beliefs to rebut).** Four examples: *only for large firms* (solutions scale down); *too complicated* (phased rollout, with training); *one-time project* (continuous cycle); *just for sales teams* (marketing, service and operations use the same data). Also: instant success (value and trust, not installed software) and too expensive (tiered and free versions).\n\n**Five challenges and fixes (real obstacles).**\n| # | Challenge | Fix |\n|---|---|---|\n| 1 | No clear CRM strategy | Define objectives (retention, lead tracking, sales growth) aligned to business strategy |\n| 2 | Wrong software chosen and implemented | Research options against actual requirements |\n| 3 | Insufficient stakeholder involvement | Involve stakeholders early, regular IT-sales-marketing-service meetings, CRM champion or steering committee |\n| 4 | Low user adoption | User-friendly software, hands-on training, continuous support, communicate value |\n| 5 | Poor data quality and migration | Data audit before migration, cleanse and deduplicate |\n\n**Diagnostic use.** (1) Read the case for symptoms. (2) Map each to a challenge. (3) Rebut the myth management holds. (4) Give the class fix and a KPI such as adoption rate, duplicate rate or retention. (5) Conclude.\n\n**Distinction.** Stakeholders are leaders who sponsor; users operate the system daily. Wrong software is about selection fit, not software being bad.\n\n**Conclusion.** The real problem is rarely missing software; it is strategy, people or data.",
+    "marking_scheme": [
+      {
+        "point": "Myths with rebuttals (at least four)",
+        "marks": 2.5
+      },
+      {
+        "point": "Five challenges named",
+        "marks": 2
+      },
+      {
+        "point": "Fix for each challenge",
+        "marks": 2.5
+      },
+      {
+        "point": "Diagnostic method with KPIs",
+        "marks": 2
+      },
+      {
+        "point": "Conclusion on strategy, people, data",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "CF-4-06",
+    "node": "CF-4",
+    "unit": "CRM Unit 1",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "hard",
+    "question": "A customer's journey with a business can be viewed through the value pyramid, the interaction cycle, customer experience and the customer lifecycle. Explain each and show how the four fit together. Distinguish the lifecycle from the interaction cycle.",
+    "model_answer": "**Value pyramid.** Four tiers: functional (what does it do?), emotional, life-changing, social impact. Higher tiers give stronger, harder to copy relationships. It says **what** to deliver.\n\n**Interaction cycle.** The sequence of interactions from first contact to loyalty and advocacy. Stages (notes): awareness, consideration, purchase, product use, customer support, loyalty, repeat purchase. Each contact is a **moment of truth** (Carlzon) that can build or damage the relationship. It says **where and when**.\n\n**Customer experience.** The overall impression after interacting across touchpoints before, during and after purchase. Six factors: product quality, employee behaviour, convenience, speed, personalisation, after-sales service. It says **how it is perceived**.\n\n**Customer lifecycle.** Five stages: awareness/reach, acquisition/consideration, conversion/purchase, retention/engagement, loyalty/advocacy. It underpins lifecycle management and CLV.\n\n**How they fit.** Value tiers are delivered at each moment of truth in the interaction cycle; the experience the customer feels is the sum of those contacts; the lifecycle shows the stage the relationship has reached, and different stages need different KPIs (acquisition: conversion rate and cost per acquisition; retention: churn and NPS; advocacy: referral rate).\n\n**Distinction.** The lifecycle has five stages describing the relationship's progress; the interaction cycle has seven stages describing contacts and renews with each repeat purchase (the journey phases of Unit 4 are a third, six-stage list).\n\n**Conclusion.** A weak moment of truth can undo value delivered elsewhere, so CRM must be assessed across the whole cycle.",
+    "marking_scheme": [
+      {
+        "point": "Value pyramid with tiers",
+        "marks": 2
+      },
+      {
+        "point": "Interaction cycle and moments of truth",
+        "marks": 2
+      },
+      {
+        "point": "Customer experience and six factors",
+        "marks": 2
+      },
+      {
+        "point": "Lifecycle five stages",
+        "marks": 1.5
+      },
+      {
+        "point": "Integration of the four",
+        "marks": 1.5
+      },
+      {
+        "point": "Lifecycle versus interaction cycle",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "CF-6-02",
+    "node": "CF-6",
+    "unit": "CRM Unit 1",
+    "type": "case",
+    "marks": 15,
+    "difficulty": "hard",
+    "question": "**Case: a stalled CRM at TrailMate Outfitters (fictional).** TrailMate Outfitters (fictional) sells trekking gear through its website, five stores and a phone line. Eight months ago it bought a CRM package after a one-hour vendor demonstration. Today: store staff note orders in a paper register because \"the screen is slow and nobody showed us how it works\"; the website, stores and phone line each hold their own list, and a regular buyer appears as three different customers; the owner says \"CRM is a tool for the sales team\" and has attended no review meeting; and when asked what the CRM was meant to achieve, the owner replies \"to improve things\". Repeat purchases have not risen.\n\n(a) Prepare a diagnosis table mapping each symptom to a CRM challenge or myth. (5)\n(b) Identify which types of CRM are missing or weak, and at which lifecycle stage the relationship breaks. (4)\n(c) Recommend one class fix for each diagnosed challenge and the order of action. (4)\n(d) Suggest three KPIs and a closing interpretation. (2)",
+    "model_answer": "**(a) Diagnosis**\n| Symptom | Challenge or myth |\n|---|---|\n| \"To improve things\", no stated aim | Challenge 1: lack of a clear CRM strategy |\n| Bought after a one-hour demo | Challenge 2: wrong software chosen without research on requirements |\n| Staff use paper register; no training | Challenge 4: low user adoption |\n| Three lists; one buyer = three customers | Challenge 5: poor data quality (duplicates, silos) |\n| Owner absent from reviews | Challenge 3: insufficient stakeholder involvement |\n| \"A tool for the sales team\" | Myth: CRM is just for sales teams |\n\n**(b) Frameworks.** Operational CRM exists on paper but is unused. Analytical CRM is impossible without a clean single record, so CLV and patterns cannot be found. Collaborative CRM is missing because the three channels hold separate records, so there is no omnichannel view. Strategic CRM is missing because no customer-centric goal was set. In the lifecycle the break is at **retention/engagement**: customers convert but are not followed up after purchase, so repeat purchases do not rise.\n\n**(c) Recommendations (class fixes), in order**\n1. Define objectives (for example repeat-purchase rate and retention) aligned to business strategy.\n2. Appoint a CRM champion or steering committee that includes the owner, store, web and phone heads, and IT, meeting regularly.\n3. Run a data audit, then cleanse and deduplicate and merge the three lists into one record per customer before further migration.\n4. Re-evaluate the package against actual requirements (slow screen, store use) before extending it.\n5. Give hands-on training, make the CRM the only place to log orders, and communicate the benefit to store staff.\nStrategy and data come first because training and software changes on a bad record would repeat the failure.\n\n**(d) KPIs and conclusion.** User adoption rate (orders logged in CRM), duplicate-record rate, repeat-purchase rate; review monthly. *The real problem is strategy, people and data, not the absence of software; buying the package was step one, not the solution.*",
+    "marking_scheme": [
+      {
+        "point": "Diagnosis table: six symptoms mapped correctly",
+        "marks": 5
+      },
+      {
+        "point": "Missing CRM types and lifecycle break",
+        "marks": 4
+      },
+      {
+        "point": "Fixes matched to challenges with sensible order",
+        "marks": 4
+      },
+      {
+        "point": "Three KPIs and interpretation",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "CF-4-07",
+    "node": "CF-4",
+    "unit": "CRM Unit 1",
+    "type": "case",
+    "marks": 15,
+    "difficulty": "hard",
+    "question": "**Case: SafeNest Insurance (fictional).** SafeNest Insurance (fictional) sells motor and home policies online. Its marketing team is proud of strong sign-ups, but most customers do not renew. Survey comments: \"the claim form crashed and nobody called back\", \"the same advice every time, nothing for my situation\", \"renewal reminders came after the policy expired\". SafeNest's advertising talks only about \"low premiums\". A rival is winning renewals with messages such as \"peace of mind for your family\" and a quick claim-tracking app.\n\n(a) Using the customer lifecycle, identify where the relationship breaks and which moments of truth are failing. (4)\n(b) Assess SafeNest's experience against the six CX factors. (4)\n(c) Using the value pyramid, explain the weakness in SafeNest's positioning and how the rival differs. (3)\n(d) Recommend actions, state which type of CRM each needs, and give an interpretation. (4)",
+    "model_answer": "**(a) Lifecycle.** Awareness, acquisition and conversion work (strong sign-ups). The break is at **retention/engagement**, so loyalty/advocacy never happens. Failing moments of truth: the claim (form crashed, no call back) is the most important contact for an insurer; the renewal reminder arrived late; the advice was generic. One bad claim moment can offset value delivered elsewhere.\n\n**(b) Six CX factors**\n| Factor | Assessment |\n|---|---|\n| Product quality | Premiums low, but cover quality is not evidenced; claim handling is part of the product |\n| Employee behaviour | No call back: no first-contact resolution |\n| Convenience | Crashing online form |\n| Speed | Late reminder, slow claim response |\n| Personalisation | Same advice for everyone |\n| After-sales service | Weakest: claims and renewals are all after-sales |\n\n**(c) Value pyramid.** \"Low premiums\" sits at the functional tier (price and basic cover), the minimum expectation and easy to copy. The rival moves to **emotional** value (peace of mind for family) and adds a service that supports that feeling, building a stronger and harder to copy bond. SafeNest should move up the pyramid.\n\n**(d) Recommendations**\n- Fix the claim form and add call-back and status tracking: **operational CRM** (service automation).\n- Trigger renewal reminders before expiry from the policy database and use customer data to personalise advice: **analytical CRM** feeding operational CRM.\n- One record across web, app and call centre so agents see the claim history: **collaborative CRM**.\n- Reposition around protection and peace of mind with a loyalty reward for claim-free renewals: **strategic CRM**.\n\n**Interpretation.** Acquisition is not the problem; experience after the sale is. Each lifecycle stage needs its own KPI (renewal rate, claim satisfaction, referral rate), and the weakest moment of truth sets the customer's view of the firm.",
+    "marking_scheme": [
+      {
+        "point": "Lifecycle break and failing moments of truth",
+        "marks": 4
+      },
+      {
+        "point": "CX factor assessment (six factors)",
+        "marks": 4
+      },
+      {
+        "point": "Value pyramid positioning and rival contrast",
+        "marks": 3
+      },
+      {
+        "point": "Recommendations mapped to CRM types, with interpretation",
+        "marks": 4
+      }
+    ]
+  }
+]
