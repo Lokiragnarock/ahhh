@@ -30,6 +30,7 @@ valuation, yield measures, duration/convexity, Malkiel's theorems, and the three
 
 ## ESE node maps (built 2026-10-05)
 CIA3 is the group presentation on a Unit 5 theme, so these target the ESE (all five units; 3 × 5, 2 × 10, one compulsory 15-mark case; no phone calculators).
+- [[Bond Market Unit 1 - Foundations MOC (Node Map)]] — BF-1 to BF-4: market structure, participants, instruments, primary and secondary markets, auctions, repo
 - [[Bond Market Unit 3 - Yield Curve MOC (Node Map)]] — YC-1 to YC-5: curve shapes and theories, bootstrapping, forwards, Excel, Bloomberg
 - [[Bond Market Unit 4 - Bond Portfolio MOC (Node Map)]] — BP-1 to BP-5: active vs passive, immunization, ladder/barbell/bullet, stress testing, Sharpe/alpha/beta
 
