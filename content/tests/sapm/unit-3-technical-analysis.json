@@ -1,0 +1,555 @@
+[
+  {
+    "id": "TA-1-01",
+    "node": "TA-1",
+    "unit": "SAPM Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "Which of the following is a basic assumption of technical analysis?",
+    "options": [
+      "A) Share prices move randomly and cannot be predicted",
+      "B) The market price discounts all available information",
+      "C) Intrinsic value is found by discounting dividends",
+      "D) Only accounting data determines prices"
+    ],
+    "answer": "B",
+    "explanation": "Technical analysis assumes the market discounts everything, so price and volume alone carry the information needed. Random, unpredictable prices is the efficient market view that criticises technical analysis. Discounting dividends and accounting data belong to fundamental analysis."
+  },
+  {
+    "id": "TA-1-02",
+    "node": "TA-1",
+    "unit": "SAPM Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "A chart that uses columns of X's and O's, ignores time, and records a new column only when price reverses by a set number of boxes is a:",
+    "options": [
+      "A) Line chart",
+      "B) Bar chart",
+      "C) Point and figure chart",
+      "D) Candlestick chart"
+    ],
+    "answer": "C",
+    "explanation": "Point and figure charts plot X columns for rises and O columns for falls, ignore time and filter out small moves. A line chart joins closes; a bar chart shows open, high, low and close per period; a candlestick shows the same data as a coloured body with shadows."
+  },
+  {
+    "id": "TA-1-03",
+    "node": "TA-1",
+    "unit": "SAPM Unit 3",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "Distinguish between fundamental analysis and technical analysis.",
+    "model_answer": "**Fundamental analysis** estimates a share's intrinsic value from the economy, industry and company (financial statements, ratios, valuation models) to decide **what** to buy.\n\n**Technical analysis** studies past price and volume, through charts, patterns and indicators, to decide **when** to buy or sell.\n\n| Basis | Fundamental | Technical |\n|---|---|---|\n| Question | What to buy | When to buy or sell |\n| Data | Economy, industry, financial statements | Price and volume |\n| Tools | Ratios, DCF, P/E | Charts, candlesticks, RSI, MAs |\n| Horizon | Long term | Short to medium term |\n| Belief | Price moves towards intrinsic value | Market discounts everything; trends persist |\n| Users | Long-term investors | Traders |\n\n**Conclusion:** the two are complementary: fundamentals to choose a sound stock, technicals to time the entry and exit.",
+    "marking_scheme": [
+      {
+        "point": "Definitions",
+        "marks": 2
+      },
+      {
+        "point": "At least four points of difference",
+        "marks": 2.5
+      },
+      {
+        "point": "Complementary use",
+        "marks": 0.5
+      }
+    ]
+  },
+  {
+    "id": "TA-2-01",
+    "node": "TA-2",
+    "unit": "SAPM Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "After a long rally, a stock forms a candle with a small body near the day's high and a lower shadow three times the body's length. This candle is a:",
+    "options": [
+      "A) Hammer, a bullish signal",
+      "B) Hanging man, a bearish warning",
+      "C) Shooting star, a bullish signal",
+      "D) Marubozu, a continuation signal"
+    ],
+    "answer": "B",
+    "explanation": "A small body at the top with a long lower shadow is a hammer shape, but after an uptrend it is called a hanging man and warns of a bearish reversal. A hammer needs a prior downtrend. A shooting star has a long upper shadow and is bearish. A Marubozu has no shadows."
+  },
+  {
+    "id": "TA-2-02",
+    "node": "TA-2",
+    "unit": "SAPM Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "A candle whose open and close are almost equal, giving a body that is just a thin line, is a:",
+    "options": [
+      "A) Doji",
+      "B) Marubozu",
+      "C) Hammer",
+      "D) Engulfing"
+    ],
+    "answer": "A",
+    "explanation": "Open ≈ close makes a doji, signalling indecision. A Marubozu is the opposite: a long body with no shadows. A hammer has a small body and a long lower shadow. Engulfing is a two-candle pattern."
+  },
+  {
+    "id": "TA-2-03",
+    "node": "TA-2",
+    "unit": "SAPM Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "A long green candle with no upper or lower shadow (open = low, close = high) is a:",
+    "options": [
+      "A) Spinning top",
+      "B) Bullish Marubozu",
+      "C) Shooting star",
+      "D) Doji"
+    ],
+    "answer": "B",
+    "explanation": "No shadows and a long green body mean buyers controlled the whole session: a bullish Marubozu. A spinning top has a small body and shadows on both sides; a shooting star a small body and long upper shadow; a doji almost no body."
+  },
+  {
+    "id": "TA-2-04",
+    "node": "TA-2",
+    "unit": "SAPM Unit 3",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Draw and explain any four single candlestick patterns, stating where each must appear to be meaningful.",
+    "model_answer": "*(Sketch each candle with its body and shadows labelled.)*\n\n1. **Bullish Marubozu:** long green body, no shadows (open = low, close = high). Buyers in full control; strong bullish signal or continuation, anywhere in a trend.\n2. **Doji:** open ≈ close, body a thin line, shadows of any length. Indecision; after a strong trend it warns the trend may be ending.\n3. **Hammer:** small body at the top, lower shadow ≥ 2 × body, little upper shadow. **After a downtrend**: sellers pushed price down but buyers recovered it; bullish reversal.\n4. **Shooting star:** small body at the bottom, upper shadow ≥ 2 × body. **After an uptrend**: the rally was rejected; bearish reversal.\n\n(Also acceptable: spinning top (small body, two shadows, indecision); hanging man (hammer shape after an uptrend, bearish).)\n\n**Rule:** reversal candles count only at the end of a trend and should be confirmed by the next candle and volume.",
+    "marking_scheme": [
+      {
+        "point": "Four correct patterns with sketches",
+        "marks": 3
+      },
+      {
+        "point": "Context (where each appears)",
+        "marks": 1
+      },
+      {
+        "point": "Confirmation rule",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "TA-3-01",
+    "node": "TA-3",
+    "unit": "SAPM Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "After a downtrend, a small red candle is followed by a large green candle whose body completely covers the red candle's body. This is a:",
+    "options": [
+      "A) Bearish harami",
+      "B) Bullish engulfing",
+      "C) Dark cloud cover",
+      "D) Evening star"
+    ],
+    "answer": "B",
+    "explanation": "A large green body swallowing the previous red body after a fall is a bullish engulfing pattern, a strong reversal signal. A harami is the opposite: the second body sits inside the first. Dark cloud cover and evening star are bearish patterns that follow uptrends."
+  },
+  {
+    "id": "TA-3-02",
+    "node": "TA-3",
+    "unit": "SAPM Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A gap that appears near the end of a long, steep trend and is quickly filled is most likely a:",
+    "options": [
+      "A) Breakaway gap",
+      "B) Runaway gap",
+      "C) Exhaustion gap",
+      "D) Common gap"
+    ],
+    "answer": "C",
+    "explanation": "An exhaustion gap is the last burst of a long trend and is often filled quickly as the trend reverses. A breakaway gap starts a new trend out of a range; a runaway gap appears mid-trend; a common gap occurs inside a trading range and has little significance."
+  },
+  {
+    "id": "TA-3-03",
+    "node": "TA-3",
+    "unit": "SAPM Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "A morning star pattern consists of:",
+    "options": [
+      "A) A long green candle, a small star, and a long red candle, after an uptrend",
+      "B) A long red candle, a small star, and a long green candle, after a downtrend",
+      "C) Two dojis in a row",
+      "D) A hammer followed by a hanging man"
+    ],
+    "answer": "B",
+    "explanation": "A morning star is a three-candle bullish reversal after a downtrend: long red, small-bodied star (indecision), then a long green candle closing well into the first body. Option A describes an evening star (bearish)."
+  },
+  {
+    "id": "TA-3-04",
+    "node": "TA-3",
+    "unit": "SAPM Unit 3",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "medium",
+    "question": "Explain with diagrams the following multiple candlestick patterns: engulfing (bullish and bearish), harami, piercing line, dark cloud cover, morning star and evening star. Also explain the types of gaps.",
+    "model_answer": "*(Sketch each pattern.)*\n\n**Bullish engulfing:** after a downtrend, a small red candle then a large green candle whose body completely covers it: buyers overwhelm sellers, strong bullish reversal. **Bearish engulfing:** the mirror after an uptrend.\n\n**Harami:** a large candle followed by a small body inside it. Bullish harami (large red then small green) after a fall; bearish harami after a rise. Shows momentum stalling; weaker than engulfing; needs confirmation. A doji as the second candle makes a harami cross.\n\n**Piercing line:** after a downtrend, a long red candle, then a green candle that opens below the red candle's low and closes above the midpoint of its body: bullish reversal.\n\n**Dark cloud cover:** after an uptrend, a long green candle, then a red candle that opens above its high and closes below the midpoint of its body: bearish reversal.\n\n**Morning star:** after a downtrend: long red candle; small star gapping down; long green candle closing well into the first body. Bullish reversal.\n\n**Evening star:** after an uptrend: long green candle; small star gapping up; long red candle closing well into the first body. Bearish reversal.\n\n**Gaps** (no trading in a price range between two sessions):\n- *Common gap:* inside a range; little meaning; filled soon.\n- *Breakaway gap:* breakout from a range on high volume; new trend.\n- *Runaway (measuring) gap:* mid-trend; trend continuing.\n- *Exhaustion gap:* end of a long trend; reversal likely; filled quickly.\n- *Island reversal:* exhaustion gap then breakaway gap the other way.",
+    "marking_scheme": [
+      {
+        "point": "Engulfing",
+        "marks": 1.5
+      },
+      {
+        "point": "Harami",
+        "marks": 1.5
+      },
+      {
+        "point": "Piercing line and dark cloud cover",
+        "marks": 2
+      },
+      {
+        "point": "Morning and evening star",
+        "marks": 2
+      },
+      {
+        "point": "Gap types",
+        "marks": 2
+      },
+      {
+        "point": "Diagrams",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "TA-4-01",
+    "node": "TA-4",
+    "unit": "SAPM Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "Under Dow theory, a secondary reaction typically lasts:",
+    "options": [
+      "A) A few hours to a few days",
+      "B) Three weeks to three months",
+      "C) One to several years",
+      "D) Exactly one trading session"
+    ],
+    "answer": "B",
+    "explanation": "Secondary reactions are corrections against the primary trend lasting about three weeks to three months and retracing one-third to two-thirds of the prior move. Hours to days are minor fluctuations; one to several years is the primary trend."
+  },
+  {
+    "id": "TA-4-02",
+    "node": "TA-4",
+    "unit": "SAPM Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A stock repeatedly failed to rise above ₹600. It then closes at ₹630 on very high volume. By the principle of role reversal, ₹600 is now likely to act as:",
+    "options": [
+      "A) Resistance",
+      "B) Support",
+      "C) An exhaustion gap",
+      "D) A doji"
+    ],
+    "answer": "B",
+    "explanation": "Once resistance is decisively broken, especially on high volume, it tends to become support: buyers who missed the breakout buy on a return to ₹600. It would remain resistance only if the breakout failed. Gaps and dojis are price patterns, not levels."
+  },
+  {
+    "id": "TA-4-03",
+    "node": "TA-4",
+    "unit": "SAPM Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "An uptrend is defined by a series of:",
+    "options": [
+      "A) Lower highs and lower lows",
+      "B) Higher highs and higher lows",
+      "C) Equal highs and lows",
+      "D) Higher highs and lower lows"
+    ],
+    "answer": "B",
+    "explanation": "Each rally goes higher and each pullback stops at a higher level than the last: higher highs and higher lows. Lower highs and lows define a downtrend; equal highs and lows a sideways range; higher highs with lower lows a widening (broadening) pattern."
+  },
+  {
+    "id": "TA-4-04",
+    "node": "TA-4",
+    "unit": "SAPM Unit 3",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "medium",
+    "question": "Explain Dow theory. What are its tenets, the three movements and the phases of primary trends? How does it signal a trend, and what are its limitations?",
+    "model_answer": "**Origin.** Charles Dow's Wall Street Journal editorials (1900–1902), developed by Hamilton and Rhea; the foundation of technical analysis.\n\n**Tenets.**\n1. The averages discount everything.\n2. The market has three movements.\n3. Primary trends have three phases.\n4. The averages must confirm each other (originally Industrials and Transportation; in India, e.g. Nifty and Sensex or broad and sectoral indices).\n5. Volume must confirm the trend.\n6. A trend continues until a definite reversal signal.\n\n**Three movements.**\n- *Primary trend:* one to several years; the bull or bear market.\n- *Secondary reaction:* three weeks to three months; retraces one-third to two-thirds of the primary move.\n- *Minor fluctuations:* hours to weeks; noise.\n\n**Phases.** Bull: accumulation (informed buying) → public participation → excess/distribution. Bear: distribution → panic → despair.\n\n**Signals.** Uptrend = higher highs and higher lows; downtrend = lower highs and lower lows. A bull trend is reversed when a rally fails to make a new high and the next decline breaks the previous low, confirmed by the other average and by volume.\n\n**Limitations.** Late signals (much of the move is over); no forecast of duration or extent; subjective in separating secondary reactions from reversals; designed for old US averages; little guidance on individual stocks.",
+    "marking_scheme": [
+      {
+        "point": "Origin and tenets",
+        "marks": 2.5
+      },
+      {
+        "point": "Three movements with durations",
+        "marks": 2
+      },
+      {
+        "point": "Phases",
+        "marks": 2
+      },
+      {
+        "point": "Signals and confirmation",
+        "marks": 2
+      },
+      {
+        "point": "Limitations",
+        "marks": 1.5
+      }
+    ]
+  },
+  {
+    "id": "TA-5-01",
+    "node": "TA-5",
+    "unit": "SAPM Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "Over 14 days, a stock's average gain equals its average loss. Its RSI is:",
+    "options": [
+      "A) 0",
+      "B) 50",
+      "C) 70",
+      "D) 100"
+    ],
+    "answer": "B",
+    "explanation": "RS = 1, so RSI = 100 − 100 ÷ (1 + 1) = 50: neutral momentum. RSI 0 would need no gains; 100 would need no losses; 70 is the overbought threshold, reached when RS ≈ 2.33."
+  },
+  {
+    "id": "TA-5-02",
+    "node": "TA-5",
+    "unit": "SAPM Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A stock's RS (average gain ÷ average loss over 14 days) is 3. Its RSI and reading are:",
+    "options": [
+      "A) 75, overbought",
+      "B) 25, oversold",
+      "C) 66.7, neutral",
+      "D) 300, invalid"
+    ],
+    "answer": "A",
+    "explanation": "RSI = 100 − 100 ÷ (1 + 3) = 100 − 25 = 75, above 70: overbought. 25 is 100 ÷ (1 + 3), the subtracted term. 66.7 uses 100 − 100/3. RSI can't exceed 100."
+  },
+  {
+    "id": "TA-5-03",
+    "node": "TA-5",
+    "unit": "SAPM Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "A stock closed at ₹540 today and at ₹600 ten days ago. Its 10-day rate of change is:",
+    "options": [
+      "A) −11.1%",
+      "B) +10%",
+      "C) −10%",
+      "D) −60%"
+    ],
+    "answer": "C",
+    "explanation": "ROC = (540 − 600) ÷ 600 × 100 = −10%. −11.1% divides by today's price instead of the old price. −60 is the rupee change, not a percentage. A fall can't give a positive ROC."
+  },
+  {
+    "id": "TA-5-04",
+    "node": "TA-5",
+    "unit": "SAPM Unit 3",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "The closing prices of a stock over 15 days are: 200, 197, 195, 196, 192, 190, 192, 189, 188, 191, 189, 186, 188, 187, 186. Compute the 14-day RSI and interpret it.",
+    "model_answer": "**Daily changes:** −3, −2, +1, −4, −2, +2, −3, −1, +3, −2, −3, +2, −1, −1.\n\n| | Total | Average (÷ 14) |\n|---|---|---|\n| Gains (1 + 2 + 3 + 2) | 8 | 0.571 |\n| Losses (3+2+4+2+3+1+2+3+1+1) | 22 | 1.571 |\n\n**RS** = 8 ÷ 22 = **0.364**.\n\n**RSI** = 100 − 100 ÷ (1 + 0.364) = 100 − 73.33 = **26.67**.\n\n**Interpretation:** RSI 26.7 is below 30: the stock is **oversold**. Selling has been persistent (lower highs and lower lows), but a technical bounce is likely. A trader would wait for RSI to rise back above 30, ideally with a bullish candle (hammer, bullish engulfing) at support, before buying; a long-term investor should check fundamentals for the reason behind the fall.",
+    "marking_scheme": [
+      {
+        "point": "Changes separated into gains and losses",
+        "marks": 1.5
+      },
+      {
+        "point": "Averages and RS",
+        "marks": 1
+      },
+      {
+        "point": "RSI 26.67",
+        "marks": 1
+      },
+      {
+        "point": "Interpretation and action",
+        "marks": 1.5
+      }
+    ]
+  },
+  {
+    "id": "TA-5-05",
+    "node": "TA-5",
+    "unit": "SAPM Unit 3",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "Explain the Rate of Change (ROC) indicator. Using the closing prices 200, 197, 195, 196, 192, 190, 192, 189, 188, 191, 189, 186, 188, 187, 186 (days 1 to 15), compute the 10-day ROC on day 15 and interpret it.",
+    "model_answer": "**ROC** measures momentum as the percentage change in price over n periods:\n**ROC = (Cₜ − Cₜ₋ₙ) ÷ Cₜ₋ₙ × 100.**\n\n**Signals:** ROC above 0 = bullish momentum, below 0 = bearish; crossing the zero line gives buy/sell signals; extremes relative to history show overbought/oversold; divergence from price warns of a reversal.\n\n**Computation:** day 15 close = 186; 10 days earlier (day 5) close = 192.\nROC = (186 − 192) ÷ 192 × 100 = **−3.125%**.\n\n**Interpretation:** negative ROC: bearish momentum; the stock is 3.1% lower than ten days ago. With RSI near 27 (oversold), momentum is weak but stretched; a cross back above zero would be the first buy signal.",
+    "marking_scheme": [
+      {
+        "point": "Definition and formula",
+        "marks": 1.5
+      },
+      {
+        "point": "Signals",
+        "marks": 1
+      },
+      {
+        "point": "ROC −3.125%",
+        "marks": 1.5
+      },
+      {
+        "point": "Interpretation",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "TA-6-01",
+    "node": "TA-6",
+    "unit": "SAPM Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "The smoothing constant k for a 10-day exponential moving average is:",
+    "options": [
+      "A) 0.10",
+      "B) 0.20",
+      "C) 0.18",
+      "D) 0.11"
+    ],
+    "answer": "C",
+    "explanation": "k = 2 ÷ (n + 1) = 2 ÷ 11 = 0.1818. 0.10 is 1 ÷ n, 0.20 is 2 ÷ n, and 0.11 is roughly 1 ÷ (n − 1)."
+  },
+  {
+    "id": "TA-6-02",
+    "node": "TA-6",
+    "unit": "SAPM Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "The 50-day moving average of the Nifty crosses above its 200-day moving average. This is called a:",
+    "options": [
+      "A) Death cross, bearish",
+      "B) Golden cross, bullish",
+      "C) MACD divergence",
+      "D) Breakaway gap"
+    ],
+    "answer": "B",
+    "explanation": "A short-term (50-day) average crossing above the long-term (200-day) average is a golden cross, a long-term bullish signal. The death cross is the opposite. MACD divergence and gaps are different signals."
+  },
+  {
+    "id": "TA-6-03",
+    "node": "TA-6",
+    "unit": "SAPM Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "The MACD line crosses above its signal line while both are below zero. The best reading is:",
+    "options": [
+      "A) A buy signal: momentum is turning up, though the trend is still below its longer average",
+      "B) A sell signal",
+      "C) No signal; MACD only matters above zero",
+      "D) The 12-day EMA has crossed below the 26-day EMA"
+    ],
+    "answer": "A",
+    "explanation": "A MACD crossover above the signal line is a buy signal at any level; below zero it means momentum is improving within a still-weak trend, and a later move above zero would confirm the trend. It is not a sell signal. The 12-day EMA moving below the 26-day would push MACD below zero, not produce an upward crossover."
+  },
+  {
+    "id": "TA-6-04",
+    "node": "TA-6",
+    "unit": "SAPM Unit 3",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "The closing prices of a stock over 7 days are: 80, 82, 85, 83, 86, 88, 87. Compute the 4-day SMA and 4-day EMA from day 4 to day 7 (seed the EMA with the first SMA) and interpret.",
+    "model_answer": "k = 2 ÷ (4 + 1) = **0.4**.\n\n| Day | Close | 4-day SMA | 4-day EMA |\n|---|---|---|---|\n| 4 | 83 | (80+82+85+83)/4 = **82.50** | seed **82.50** |\n| 5 | 86 | (82+85+83+86)/4 = **84.00** | (86 − 82.50) × 0.4 + 82.50 = **83.90** |\n| 6 | 88 | (85+83+86+88)/4 = **85.50** | (88 − 83.90) × 0.4 + 83.90 = **85.54** |\n| 7 | 87 | (83+86+88+87)/4 = **86.00** | (87 − 85.54) × 0.4 + 85.54 = **86.12** |\n\n**Interpretation:** both averages rise each day: short-term **uptrend**. The day-7 close (87) is above both averages: bullish. The EMA (86.12) is slightly above the SMA (86.00) because it weights the recent higher prices more, showing it reacts faster. A trader would stay long while price holds above the EMA and exit on a close below it.",
+    "marking_scheme": [
+      {
+        "point": "k = 0.4",
+        "marks": 0.5
+      },
+      {
+        "point": "SMA values",
+        "marks": 1.5
+      },
+      {
+        "point": "EMA values",
+        "marks": 2
+      },
+      {
+        "point": "Interpretation",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "TA-6-05",
+    "node": "TA-6",
+    "unit": "SAPM Unit 3",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "Explain the MACD indicator and how it is interpreted.",
+    "model_answer": "**MACD (Moving Average Convergence Divergence)**, developed by Gerald Appel, tracks momentum using the gap between two EMAs.\n\n**Components:**\n- MACD line = 12-day EMA − 26-day EMA.\n- Signal line = 9-day EMA of the MACD line.\n- Histogram = MACD line − signal line.\n\n**Interpretation:**\n1. *Signal-line crossover:* MACD above the signal line = buy; below = sell.\n2. *Zero-line crossover:* MACD above zero (12-day EMA above 26-day) confirms an uptrend; below zero a downtrend.\n3. *Histogram:* growing bars = strengthening momentum; shrinking bars = fading momentum, often ahead of a crossover.\n4. *Divergence:* price makes a new high but MACD a lower high = bearish divergence (and vice versa).\n\n**Limitation:** built from moving averages, so it lags and gives false signals in sideways markets; confirm with trend and volume.",
+    "marking_scheme": [
+      {
+        "point": "Three components",
+        "marks": 1.5
+      },
+      {
+        "point": "Crossover signals",
+        "marks": 1.5
+      },
+      {
+        "point": "Histogram and divergence",
+        "marks": 1.5
+      },
+      {
+        "point": "Limitation",
+        "marks": 0.5
+      }
+    ]
+  },
+  {
+    "id": "TA-7-01",
+    "node": "TA-7",
+    "unit": "SAPM Unit 3",
+    "type": "case",
+    "marks": 15,
+    "difficulty": "hard",
+    "question": "**Case: timing an entry in Malabar Cements Ltd (fictional).** An analyst has collected the following data. Closing prices for the last 15 sessions: 200, 197, 195, 196, 192, 190, 192, 189, 188, 191, 189, 186, 188, 187, 186. The stock has found support near ₹185 three times in the past year and faced resistance at ₹215. Its 50-day moving average is ₹195 and falling. On the latest session the stock opened at ₹183, fell to ₹178 intraday, and closed at ₹186 near the day's high, on above-average volume.\n\n(a) Describe the trend and identify support and resistance. (3)\n(b) Compute the 14-day RSI and the 10-day ROC, and interpret them. (5)\n(c) Name and interpret the latest candle. (2)\n(d) What does the position of price relative to the 50-day MA tell you? (2)\n(e) Recommend an action with an entry condition, stop-loss and target. (3)",
+    "model_answer": "**(a) Trend:** lower highs and lower lows from 200 to 186: a **short-term downtrend**. **Support ≈ ₹185** (held three times), **resistance ₹215**.\n\n**(b) RSI:** changes −3, −2, +1, −4, −2, +2, −3, −1, +3, −2, −3, +2, −1, −1. Gains = 8, losses = 22. RS = 8 ÷ 22 = 0.364. RSI = 100 − 100 ÷ 1.364 = **26.67**: **oversold** (below 30).\n**ROC (10-day):** (186 − 192) ÷ 192 × 100 = **−3.13%**: bearish momentum, but modest.\n\n**(c) Candle:** small body near the high (open 183, close 186) with a long lower shadow (low 178, about 2.7 × the 3-point body), after a downtrend, at support, on high volume: a **hammer**: sellers pushed price down but buyers recovered it, a bullish reversal signal (needs confirmation).\n\n**(d) Moving average:** price (186) is below a falling 50-day MA (195): the medium-term trend is still **down**; ₹195 is likely resistance on the way up.\n\n**(e) Recommendation:** a **speculative buy on confirmation**, not now. Conditions: oversold RSI, hammer at strong support with volume. Entry: buy if the next session closes above the hammer's high (₹186–187), ideally with RSI rising back above 30. **Stop-loss ₹177**, just below the hammer's low and support. First target **₹195** (the 50-day MA); if that breaks on volume, ₹215 (resistance). Risk ≈ ₹9–10 for a first reward of ₹8–9 and a second of ₹28, so position size modestly. Cancel the view on a close below ₹185.\n\n*Technical signals are probabilities; check fundamentals before holding beyond the trade.*",
+    "marking_scheme": [
+      {
+        "point": "Trend and S/R",
+        "marks": 3
+      },
+      {
+        "point": "RSI 26.67 with working",
+        "marks": 3
+      },
+      {
+        "point": "ROC and interpretation",
+        "marks": 2
+      },
+      {
+        "point": "Hammer identified and read",
+        "marks": 2
+      },
+      {
+        "point": "MA reading",
+        "marks": 2
+      },
+      {
+        "point": "Recommendation with entry, stop and target",
+        "marks": 3
+      }
+    ]
+  }
+]
