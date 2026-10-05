@@ -10,8 +10,9 @@ tags: [bonds, moc, recall]
 # Bond Market — Map of Content
 
 ## What this is
-Entry point for Bond Market Operations and Analytics (BBA303F-5). CIA 2 covers Unit 2:
-valuation, yield measures, duration/convexity, Malkiel's theorems, and the three risks.
+Entry point for Bond Market Operations and Analytics (BBA303F-5). Originally built for CIA 2
+(Unit 2); since 2026-10-05 it also covers the ESE, with a node map and question bank for every
+unit (see "ESE node maps").
 
 ## My notes
 - [[INdex Bonds]]
@@ -31,6 +32,7 @@ valuation, yield measures, duration/convexity, Malkiel's theorems, and the three
 ## ESE node maps (built 2026-10-05)
 CIA3 is the group presentation on a Unit 5 theme, so these target the ESE (all five units; 3 × 5, 2 × 10, one compulsory 15-mark case; no phone calculators).
 - [[Bond Market Unit 1 - Foundations MOC (Node Map)]] — BF-1 to BF-4: market structure, participants, instruments, primary and secondary markets, auctions, repo
+- [[Bond Market Unit 2 - Bond Valuation MOC (Node Map)]] — BV-1 to BV-6: pricing, CY/YTM/YTC, duration, convexity, Malkiel, three risks (split from the spine above)
 - [[Bond Market Unit 3 - Yield Curve MOC (Node Map)]] — YC-1 to YC-5: curve shapes and theories, bootstrapping, forwards, Excel, Bloomberg
 - [[Bond Market Unit 4 - Bond Portfolio MOC (Node Map)]] — BP-1 to BP-5: active vs passive, immunization, ladder/barbell/bullet, stress testing, Sharpe/alpha/beta
 - [[Bond Market Unit 5 - Future of Bond Markets MOC (Node Map)]] — FB-1 to FB-4: green and sustainability-linked bonds, tokenized bonds, blockchain and AI (also the CIA3 presentation topic)
@@ -72,10 +74,9 @@ choice, 10 marks each (20). Section C: compulsory case study, 15 marks. Total 50
 Date not specified in the course plan — confirm with faculty.
 
 ## Open threads
-- CIA 2 date still blank in the plan. SAPM says 9-16 Aug window. Confirm whether Bonds
-  shares that window or has a separate slot.
-- No MCQ bank built yet. Use the cheat sheet's formula blocks for active recall: cover the
-  right side, produce the formula from the label.
+- CIA 2 is past. CIA 3 is the group presentation on a Unit 5 theme (see FB-4 for a structure).
+- Question banks now exist for Units 1–5 (Practice tab). The cheat sheet's formula blocks still
+  work for quick recall: cover the right side, produce the formula from the label.
 
 ## Links
 - [[Home]]

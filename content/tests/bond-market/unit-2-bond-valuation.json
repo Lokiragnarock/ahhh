@@ -1,0 +1,424 @@
+[
+  {
+    "id": "BV-1-01",
+    "node": "BV-1",
+    "unit": "Bond Market Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "A 2-year bond with face value ₹1,000 pays a 10% annual coupon. If the required yield is 8%, its price is about:",
+    "options": [
+      "A) ₹1,000.00",
+      "B) ₹1,035.67",
+      "C) ₹964.33",
+      "D) ₹1,200.00"
+    ],
+    "answer": "B",
+    "explanation": "P = 100/1.08 + 1,100/1.08² = 92.59 + 943.07 = ₹1,035.67: a premium because the coupon (10%) exceeds the yield (8%). ₹1,000 would need coupon = yield; ₹964.33 is a discount price, which needs coupon < yield; ₹1,200 ignores discounting."
+  },
+  {
+    "id": "BV-1-02",
+    "node": "BV-1",
+    "unit": "Bond Market Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "A bond's coupon rate is below the market's required yield. The bond will trade:",
+    "options": [
+      "A) At a premium",
+      "B) At par",
+      "C) At a discount",
+      "D) At its call price"
+    ],
+    "answer": "C",
+    "explanation": "When the coupon is below the required yield, investors pay less than face value so that the gain to par makes up the shortfall: a discount. A premium needs coupon > yield; par needs coupon = yield."
+  },
+  {
+    "id": "BV-1-03",
+    "node": "BV-1",
+    "unit": "Bond Market Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "For a 5-year bond paying a 9% coupon semi-annually, priced at an 8% yield, the inputs to the price formula are:",
+    "options": [
+      "A) C = 90, r = 8%, n = 5",
+      "B) C = 45, r = 4%, n = 10",
+      "C) C = 45, r = 8%, n = 10",
+      "D) C = 90, r = 4%, n = 10"
+    ],
+    "answer": "B",
+    "explanation": "Semi-annual payments halve the coupon (₹45) and the yield (4%) and double the periods (10). The other options adjust only some of the three inputs."
+  },
+  {
+    "id": "BV-2-01",
+    "node": "BV-2",
+    "unit": "Bond Market Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "A bond with a 9% coupon on ₹1,000 face value trades at ₹900. Its current yield is:",
+    "options": [
+      "A) 9.0%",
+      "B) 10.0%",
+      "C) 8.1%",
+      "D) 11.1%"
+    ],
+    "answer": "B",
+    "explanation": "CY = annual coupon ÷ price = 90 ÷ 900 = 10%. 9% is the coupon rate (on face value); 8.1% multiplies; 11.1% has no basis."
+  },
+  {
+    "id": "BV-2-02",
+    "node": "BV-2",
+    "unit": "Bond Market Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A callable bond trades well above its call price. Which yield should an investor rely on?",
+    "options": [
+      "A) Current yield",
+      "B) Yield to maturity",
+      "C) Yield to call (yield to worst)",
+      "D) Coupon rate"
+    ],
+    "answer": "C",
+    "explanation": "Above the call price the issuer is likely to call (refinance more cheaply), so the investor probably won't receive the cash flows to maturity. YTC, the lower yield to worst, is the realistic figure. Current yield and the coupon rate ignore the call; YTM assumes the bond runs to maturity."
+  },
+  {
+    "id": "BV-2-03",
+    "node": "BV-2",
+    "unit": "Bond Market Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A bond bought at a premium is held to maturity while its yield stays unchanged. Its price will:",
+    "options": [
+      "A) Rise above the purchase price",
+      "B) Fall gradually towards face value",
+      "C) Stay constant",
+      "D) Fall to zero"
+    ],
+    "answer": "B",
+    "explanation": "Pull to par: as maturity approaches, the price converges to face value, so a premium bond's price drifts down towards par. A discount bond's price would rise towards par."
+  },
+  {
+    "id": "BV-2-04",
+    "node": "BV-2",
+    "unit": "Bond Market Unit 2",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "A ₹1,000 face value bond with an 8% annual coupon and 4 years to maturity trades at ₹935. Compute its current yield and its YTM by interpolation (use PVIFA(10%,4) = 3.1699, PVIF(10%,4) = 0.6830, PVIFA(11%,4) = 3.1024, PVIF(11%,4) = 0.6587). Explain the difference.",
+    "model_answer": "**Current yield** = 80 ÷ 935 = **8.56%**.\n\n**YTM.** The price is below par, so YTM > 8%. Try 10% and 11%:\n- At 10%: PV = 80 × 3.1699 + 1,000 × 0.6830 = 253.59 + 683.01 = **₹936.60** (above 935)\n- At 11%: PV = 80 × 3.1024 + 1,000 × 0.6587 = 248.20 + 658.73 = **₹906.93** (below 935)\n- YTM ≈ 10 + [(936.60 − 935) ÷ (936.60 − 906.93)] × 1 = 10 + 1.60 ÷ 29.67 = **10.05%**\n\n**Difference:** CY (8.56%) counts only the coupon income relative to price. YTM (10.05%) also includes the ₹65 gain as the bond is redeemed at ₹1,000, and time value. YTM assumes the bond is held to maturity and coupons are reinvested at 10.05%.",
+    "marking_scheme": [
+      {
+        "point": "Current yield",
+        "marks": 1
+      },
+      {
+        "point": "PV at two trial rates bracketing the price",
+        "marks": 2
+      },
+      {
+        "point": "Interpolated YTM 10.05%",
+        "marks": 1
+      },
+      {
+        "point": "Explanation",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "BV-3-01",
+    "node": "BV-3",
+    "unit": "Bond Market Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "The Macaulay duration of a 7-year zero-coupon bond is:",
+    "options": [
+      "A) Less than 7 years",
+      "B) Exactly 7 years",
+      "C) More than 7 years",
+      "D) Zero"
+    ],
+    "answer": "B",
+    "explanation": "A zero has a single cash flow at maturity, so the weighted average time to receive cash is its maturity. Coupon bonds have duration below maturity; duration never exceeds maturity for an option-free bond."
+  },
+  {
+    "id": "BV-3-02",
+    "node": "BV-3",
+    "unit": "Bond Market Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A bond has a Macaulay duration of 7.2 years and a yield of 6% (annual). If yields rise by 50 bps, the approximate price change is:",
+    "options": [
+      "A) −3.60%",
+      "B) −3.40%",
+      "C) −7.20%",
+      "D) +3.40%"
+    ],
+    "answer": "B",
+    "explanation": "Modified duration = 7.2 ÷ 1.06 = 6.79; ΔP/P ≈ −6.79 × 0.005 = −3.40%. −3.60% wrongly uses Macaulay duration; −7.20% treats 50 bps as 1%; a rise in yield can't raise the price."
+  },
+  {
+    "id": "BV-3-03",
+    "node": "BV-3",
+    "unit": "Bond Market Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Two bonds have the same maturity and yield. Bond P has a 4% coupon and Bond Q a 10% coupon. If yields fall by 1%:",
+    "options": [
+      "A) Q's price rises more, because it pays more coupon",
+      "B) P's price rises more, because its duration is higher",
+      "C) Both rise equally",
+      "D) P's price falls"
+    ],
+    "answer": "B",
+    "explanation": "Malkiel's theorem 5: lower-coupon bonds have more value in the distant face payment, so higher duration and larger percentage price changes. For 10-year bonds at 8%, a 4% coupon gives duration 8.12 vs 6.97 for 10%. Prices of both rise when yields fall."
+  },
+  {
+    "id": "BV-3-04",
+    "node": "BV-3",
+    "unit": "Bond Market Unit 2",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "A 2-year bond with face value ₹1,000 pays a 10% annual coupon and yields 10%. Compute its price, Macaulay duration and modified duration, and estimate the price change if yields rise to 11%.",
+    "model_answer": "**Price** = 100/1.10 + 1,100/1.21 = 90.91 + 909.09 = **₹1,000** (par bond: coupon = yield).\n\n| t | Cash flow | PV | t × PV |\n|---|---|---|---|\n| 1 | 100 | 90.91 | 90.91 |\n| 2 | 1,100 | 909.09 | 1,818.18 |\n| **Total** | | **1,000.00** | **1,909.09** |\n\n**Macaulay duration** = 1,909.09 ÷ 1,000 = **1.91 years**.\n**Modified duration** = 1.91 ÷ 1.10 = **1.74**.\n\n**Yields to 11%:** ΔP/P ≈ −1.74 × 0.01 = **−1.74%** → price ≈ ₹982.6.\n\n*Duration is below the 2-year maturity because part of the cash (the year-1 coupon) arrives earlier.*",
+    "marking_scheme": [
+      {
+        "point": "Price",
+        "marks": 1
+      },
+      {
+        "point": "t × PV table",
+        "marks": 1.5
+      },
+      {
+        "point": "Macaulay 1.91",
+        "marks": 1
+      },
+      {
+        "point": "Modified 1.74",
+        "marks": 0.5
+      },
+      {
+        "point": "Price-change estimate",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "BV-3-05",
+    "node": "BV-3",
+    "unit": "Bond Market Unit 2",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "medium",
+    "question": "State and explain Malkiel's five bond price theorems. How does the concept of duration summarise them? Illustrate with an example.",
+    "model_answer": "**1. Prices move inversely to yields.** A higher required yield lowers the PV of fixed cash flows.\n\n**2. Longer maturity → larger price changes** for a given yield change: distant cash flows are discounted over more periods.\n\n**3. That sensitivity increases at a decreasing rate** as maturity lengthens: going from 5 to 10 years adds more sensitivity than going from 20 to 25.\n\n**4. A fall in yield raises price more than an equal rise lowers it** (for a given maturity): the price-yield curve is convex. *Example:* the 3-year 8% bond at 10% gains 8.00% for a 3% fall in yield but loses only 7.19% for a 3% rise.\n\n**5. Lower-coupon bonds show larger percentage price changes** than higher-coupon bonds of the same maturity: more of their value sits in the distant face payment. *Example:* 10-year bonds at 8%: duration 8.12 years for a 4% coupon vs 6.97 for a 10% coupon.\n\n**Duration as the summary.** Macaulay duration (weighted average time to cash flows) rises with maturity (theorems 2 and 3) and falls with coupon (theorem 5); modified duration converts it into price sensitivity: ΔP/P ≈ −D_mod × Δy, with the minus sign capturing theorem 1. Theorem 4 is what duration misses; convexity corrects it.\n\n**Practical use.** Investors expecting rates to fall buy long, low-coupon (high-duration) bonds; those expecting rates to rise shorten duration.",
+    "marking_scheme": [
+      {
+        "point": "Five theorems explained",
+        "marks": 6
+      },
+      {
+        "point": "Examples",
+        "marks": 1.5
+      },
+      {
+        "point": "Duration as summary, convexity for theorem 4",
+        "marks": 1.5
+      },
+      {
+        "point": "Practical use",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "BV-4-01",
+    "node": "BV-4",
+    "unit": "Bond Market Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A bond has modified duration 5 and convexity 40. If yields rise by 2%, the estimated price change including convexity is:",
+    "options": [
+      "A) −10.0%",
+      "B) −9.2%",
+      "C) −10.8%",
+      "D) −8.0%"
+    ],
+    "answer": "B",
+    "explanation": "ΔP/P ≈ −5 × 0.02 + ½ × 40 × 0.02² = −10% + 0.8% = −9.2%. −10% ignores convexity; −10.8% subtracts the convexity term; −8% doubles it."
+  },
+  {
+    "id": "BV-4-02",
+    "node": "BV-4",
+    "unit": "Bond Market Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "Between two bonds with the same duration and yield, an investor should prefer the one with:",
+    "options": [
+      "A) Lower convexity",
+      "B) Higher convexity",
+      "C) Higher coupon regardless of convexity",
+      "D) Convexity doesn't matter"
+    ],
+    "answer": "B",
+    "explanation": "Higher convexity means larger gains when yields fall and smaller losses when they rise, so at equal duration it is the better bond (the market often charges a slightly lower yield for it)."
+  },
+  {
+    "id": "BV-4-03",
+    "node": "BV-4",
+    "unit": "Bond Market Unit 2",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "hard",
+    "question": "A ₹1,000 face value bond pays a 6% annual coupon, has 4 years to maturity and yields 8%.\n\n(a) Compute its price. (2)\n(b) Compute its Macaulay duration, modified duration and convexity. (5)\n(c) Estimate the percentage price change for a 2% rise and a 2% fall in yields, with and without convexity, and explain the result. (3)",
+    "model_answer": "**(a) and (b)**\n\n| t | Cash flow | PV at 8% | t × PV | t(t + 1) × PV |\n|---|---|---|---|---|\n| 1 | 60 | 55.56 | 55.56 | 111.11 |\n| 2 | 60 | 51.44 | 102.88 | 308.64 |\n| 3 | 60 | 47.63 | 142.89 | 571.56 |\n| 4 | 1,060 | 779.13 | 3,116.53 | 15,582.63 |\n| **Total** | | **933.76** | **3,417.86** | **16,573.94** |\n\n- **Price = ₹933.76** (discount bond: coupon 6% < yield 8%).\n- **Macaulay duration** = 3,417.86 ÷ 933.76 = **3.66 years**.\n- **Modified duration** = 3.66 ÷ 1.08 = **3.39**.\n- **Convexity** = 16,573.94 ÷ (933.76 × 1.1664) = 16,573.94 ÷ 1,089.14 = **15.22**.\n\n**(c)**\n\n| Δy | Duration only | Convexity term ½ × 15.22 × 0.0004 | With convexity | Actual |\n|---|---|---|---|---|\n| +2% | −6.78% | +0.30% | **−6.47%** | −6.48% |\n| −2% | +6.78% | +0.30% | **+7.08%** | +7.09% |\n\n**Explanation:** duration alone predicts symmetric ±6.78%. The real price-yield curve is convex, so the price rises more than it falls (+7.09% vs −6.48%). Adding the always-positive convexity term moves both estimates in the investor's favour and brings them within 0.01 points of the actual changes (Malkiel's theorem 4).",
+    "marking_scheme": [
+      {
+        "point": "Price ₹933.76",
+        "marks": 2
+      },
+      {
+        "point": "Macaulay duration",
+        "marks": 2
+      },
+      {
+        "point": "Modified duration",
+        "marks": 1
+      },
+      {
+        "point": "Convexity",
+        "marks": 2
+      },
+      {
+        "point": "Estimates with and without convexity",
+        "marks": 2
+      },
+      {
+        "point": "Explanation",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "BV-5-01",
+    "node": "BV-5",
+    "unit": "Bond Market Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "Which bond carries no reinvestment risk?",
+    "options": [
+      "A) A 10-year 12% coupon bond",
+      "B) A callable bond",
+      "C) A zero-coupon bond held to maturity",
+      "D) A floating rate bond"
+    ],
+    "answer": "C",
+    "explanation": "A zero pays nothing until maturity, so there are no coupons to reinvest. High-coupon bonds have the most reinvestment risk; callable bonds add the risk of reinvesting principal early; floating rate bonds still pay coupons that must be reinvested."
+  },
+  {
+    "id": "BV-5-02",
+    "node": "BV-5",
+    "unit": "Bond Market Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A 5-year AAA corporate bond yields 7.6% and the 5-year G-sec yields 6.9%. After a downgrade to AA the spread widens to 120 bps, G-sec yields unchanged. With modified duration 4.2, the bond's price changes by about:",
+    "options": [
+      "A) −2.1%",
+      "B) −5.0%",
+      "C) −0.5%",
+      "D) +2.1%"
+    ],
+    "answer": "A",
+    "explanation": "The spread widens from 70 to 120 bps: +0.50% in yield. ΔP/P ≈ −4.2 × 0.005 = −2.1%. −5.0% treats the 1.2% spread as the yield change; −0.5% ignores duration; a higher yield can't raise the price."
+  },
+  {
+    "id": "BV-5-03",
+    "node": "BV-5",
+    "unit": "Bond Market Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Interest rates fall sharply soon after an investor buys a coupon bond. Which statement is correct?",
+    "options": [
+      "A) The bond's price falls and reinvestment income rises",
+      "B) The bond's price rises but coupons are reinvested at lower rates",
+      "C) Both price and reinvestment income rise",
+      "D) Neither is affected"
+    ],
+    "answer": "B",
+    "explanation": "Falling rates raise the bond's price (good) but force coupons to be reinvested at lower rates (bad): interest rate risk and reinvestment risk move in opposite directions. Option A describes rising rates."
+  },
+  {
+    "id": "BV-5-04",
+    "node": "BV-5",
+    "unit": "Bond Market Unit 2",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "Explain credit risk, interest rate risk and reinvestment risk in bonds. How are interest rate risk and reinvestment risk related?",
+    "model_answer": "**Interest rate (price) risk:** bond prices fall when market rates rise; larger for higher-duration bonds (long maturity, low coupon). Measured by modified duration: ΔP/P ≈ −D_mod × Δy. Managed by shortening duration, floating rate bonds, hedging, or holding to maturity.\n\n**Reinvestment risk:** YTM assumes coupons are reinvested at the YTM; if rates fall, they are reinvested lower and the realised return falls short. Larger for high-coupon and callable bonds; zero for zero-coupon bonds.\n\n**Credit (default) risk:** the issuer may not pay coupons or principal on time; near zero for G-secs. Measured by ratings (AAA → D) and the credit spread over G-secs; a downgrade widens the spread and lowers the price. Managed by credit analysis, diversification, high ratings.\n\n**Relationship:** interest rate and reinvestment risk move in **opposite** directions. Rates up: price falls but coupons reinvest higher; rates down: price rises but coupons reinvest lower. When a portfolio's duration equals the holding period they offset: the basis of **immunization**.",
+    "marking_scheme": [
+      {
+        "point": "Interest rate risk",
+        "marks": 1.25
+      },
+      {
+        "point": "Reinvestment risk",
+        "marks": 1.25
+      },
+      {
+        "point": "Credit risk with ratings and spread",
+        "marks": 1.5
+      },
+      {
+        "point": "Offsetting relationship",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "BV-6-01",
+    "node": "BV-6",
+    "unit": "Bond Market Unit 2",
+    "type": "case",
+    "marks": 15,
+    "difficulty": "hard",
+    "question": "**Case: which bond before a rate rise?** An investor has ₹10 lakh to put into one of two 5-year bonds (face ₹1,000, annual coupons), both yielding 9%: Bond A pays a 12% coupon; Bond B pays a 6% coupon. She expects yields to rise by 2% soon, but is not certain.\n\n(a) Price both bonds. (3)\n(b) Compute the Macaulay and modified duration of each. Use: A's Σ t × PV = 4,569.74; B's Σ t × PV = 3,909.70. (4)\n(c) Given convexity of 19.20 for A and 21.43 for B, estimate each bond's price change for +2% and −2%. (4)\n(d) Using Malkiel's theorems, explain the results and recommend a bond. Mention reinvestment risk. (4)",
+    "model_answer": "**(a) Prices** (PVIFA(9%,5) = 3.8897; PVIF(9%,5) = 0.6499):\n- A = 120 × 3.8897 + 1,000 × 0.6499 = 466.76 + 649.93 = **₹1,116.69** (premium).\n- B = 60 × 3.8897 + 649.93 = 233.38 + 649.93 = **₹883.31** (discount).\n\n**(b) Duration:**\n- A: Macaulay = 4,569.74 ÷ 1,116.69 = **4.09 years**; modified = 4.09 ÷ 1.09 = **3.75**.\n- B: Macaulay = 3,909.70 ÷ 883.31 = **4.43 years**; modified = 4.43 ÷ 1.09 = **4.06**.\n\n**(c) Price changes** (convexity term = ½ × C × 0.0004):\n\n| | +2% | −2% |\n|---|---|---|\n| A (D_mod 3.75, C 19.20) | −7.51% + 0.38% = **−7.12%** | +7.51% + 0.38% = **+7.89%** |\n| B (D_mod 4.06, C 21.43) | −8.12% + 0.43% = **−7.69%** | +8.12% + 0.43% = **+8.55%** |\n\n**(d) Explanation and recommendation.**\n- *Theorem 1:* both fall if yields rise.\n- *Theorem 5:* the low-coupon Bond B has higher duration (4.43 vs 4.09) and moves more in both directions.\n- *Theorem 4:* each gains more on a 2% fall than it loses on a 2% rise (convexity).\n- **If yields rise as expected, Bond A loses less (−7.12% vs −7.69%, about ₹5,700 less on ₹10 lakh).** Its high coupons also reinvest at the higher rates, softening the loss further. **Recommend Bond A.**\n- *Reinvestment risk:* A's larger coupons carry more reinvestment risk if rates instead fall; B would then gain more (+8.55%) and have less to reinvest. Because the investor is uncertain, A is the more defensive choice, and she could also consider a shorter maturity.",
+    "marking_scheme": [
+      {
+        "point": "Prices",
+        "marks": 3
+      },
+      {
+        "point": "Macaulay and modified durations",
+        "marks": 4
+      },
+      {
+        "point": "Price-change estimates with convexity",
+        "marks": 4
+      },
+      {
+        "point": "Malkiel explanation",
+        "marks": 2
+      },
+      {
+        "point": "Recommendation with reinvestment risk",
+        "marks": 2
+      }
+    ]
+  }
+]

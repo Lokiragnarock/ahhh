@@ -10,7 +10,11 @@ Syllabi: `docs/course-plans/BBA301F-5-SAPM.txt` and `docs/course-plans/BBA303F-5
 - **The target is the ESE, which covers all five units.** Bond Market ESE: Section A 3 × 5 (internal choice), Section B 2 × 10 (internal choice), Section C one compulsory 15-mark case, 50 marks. SAPM's ESE pattern isn't in its plan (50 marks, scaled to 30); assume the same shape. The app's full mock (`buildMock` in `src/lib/paper.ts`) already uses that shape.
 - Bond Market bans phone calculators, so worked answers show every step in a form a basic calculator can follow.
 
-## Where things stand
+## Status (2026-10-05): done
+
+All ten units are built: 55 topic notes, 10 unit maps and 211 practice questions (SAPM 116, Bond Market 95). Lint and build pass, and every unit's tests, the full mock and every topic page load in the app.
+
+## Where things stood at the start
 
 | Subject | Has | Missing |
 |---|---|---|
