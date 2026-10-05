@@ -122,7 +122,7 @@ export function ErrorBook({ nodes }: { nodes: NodeOpt[] }) {
 
   return (
     <div className="sp-wrap">
-      <PageHead title="Error book" kicker="错题本 · every miss, re-solved until clean">
+      <PageHead title="Error book" kicker="Every question you got wrong, until you solve it cleanly">
         <div className="flex flex-wrap gap-2">
           <button type="button" className="sp-btn" onClick={() => setShowManual((v) => !v)}>
             {showManual ? "Close" : "Manual entry"}
