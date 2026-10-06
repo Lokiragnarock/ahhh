@@ -47,6 +47,37 @@ Steps:
 - **Divergence:** price makes a new high but RSI makes a lower high (**bearish divergence**): momentum weakening, reversal possible. Price makes a new low but RSI a higher low (**bullish divergence**).
 - In strong trends RSI can stay overbought or oversold for a long time; don't sell a strong uptrend just because RSI is 72.
 
+<svg width="100%" style="max-width:680px;display:block;margin:12px auto" viewBox="0 0 680 386" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Price over RSI: overbought, oversold and divergence</title>
+<desc>Top panel shows a price line making a higher high. The panel below shows RSI with an amber overbought band above 70 and oversold band below 30. RSI peaks above 70 first, then makes a lower high while price rises, which is a bearish divergence. A red dot marks RSI turning down through 70 and a green dot marks RSI rising back above 30.</desc>
+<rect x="40" y="44" width="600" height="131" fill="none" stroke="#888780" stroke-width="1"/>
+<rect x="40" y="210" width="600" height="120" fill="none" stroke="#888780" stroke-width="1"/>
+<rect x="40" y="210" width="600" height="36" fill="#EF9F27" fill-opacity="0.5" stroke="none" stroke-width="1"/>
+<rect x="40" y="294" width="600" height="36" fill="#EF9F27" fill-opacity="0.5" stroke="none" stroke-width="1"/>
+<line x1="40" y1="246" x2="640" y2="246" stroke="#888780" stroke-width="1" stroke-dasharray="6 4"/>
+<line x1="40" y1="294" x2="640" y2="294" stroke="#888780" stroke-width="1" stroke-dasharray="6 4"/>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="646" y="250" text-anchor="start">70</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="646" y="298" text-anchor="start">30</text>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="46" y="36" text-anchor="start">Price</text>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="46" y="204" text-anchor="start">RSI</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="48" y="228" text-anchor="start">Overbought</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="48" y="318" text-anchor="start">Oversold</text>
+<polyline points="50,150 100,120 150,85 200,115 260,70 310,100 360,140 410,165 460,150 520,120 580,100" fill="none" stroke="#5F5E5A" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="50,264 100,248.4 150,234 200,267.6 260,243.6 310,260.4 360,282 410,301.2 460,288 520,267.6 580,255.6" fill="none" stroke="#7F77DD" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="150" y1="85" x2="260" y2="70" stroke="#5F5E5A" stroke-width="1.5" stroke-dasharray="5 4"/>
+<line x1="150" y1="234" x2="260" y2="243.6" stroke="#7F77DD" stroke-width="1.5" stroke-dasharray="5 4"/>
+<circle cx="150" cy="85" r="4" fill="#888780" stroke="#5F5E5A" stroke-width="1"/>
+<circle cx="260" cy="70" r="4" fill="#888780" stroke="#5F5E5A" stroke-width="1"/>
+<circle cx="150" cy="234" r="4" fill="#7F77DD" stroke="#7F77DD" stroke-width="1"/>
+<circle cx="260" cy="243.6" r="4" fill="#7F77DD" stroke="#7F77DD" stroke-width="1"/>
+<text font-size="12" fill="currentColor" font-family="inherit" x="205" y="58" text-anchor="middle">higher high on price</text>
+<text font-size="12" fill="currentColor" font-family="inherit" x="400" y="194" text-anchor="middle">Bearish divergence: price makes a higher high, RSI a lower high</text>
+<circle cx="267.1" cy="246" r="5" fill="#E24B4A" stroke="#A32D2D" stroke-width="1"/>
+<circle cx="437.3" cy="294" r="5" fill="#639922" stroke="#3B6D11" stroke-width="1"/>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="340" y="352" text-anchor="middle">Red dot: RSI turns back down through 70, sell signal.</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="340" y="370" text-anchor="middle">Green dot: RSI rises back up through 30, buy signal.</text>
+</svg>
+
 ### Worked example: 14-day RSI, laid out as the exam answer
 
 **Question (illustrative):** closing prices over 15 days: 100, 102, 101, 104, 106, 105, 107, 110, 108, 111, 113, 112, 115, 114, 117. Compute the 14-day RSI and interpret.
@@ -87,6 +118,27 @@ where Cₜ is today's close and Cₜ₋ₙ is the close n periods ago. (A varian
 - **Zero-line crossover:** crossing above 0 is a buy signal; below 0 a sell signal.
 - Extreme high or low ROC relative to the stock's own history signals overbought or oversold.
 - Divergence with price warns of a reversal.
+
+<svg width="100%" style="max-width:680px;display:block;margin:12px auto" viewBox="0 0 680 322" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>ROC around the zero line</title>
+<desc>A rate-of-change line oscillating around a dashed zero line. Where it is above zero the area is shaded green, where it is below zero it is shaded red. A green dot marks each upward zero crossing, labelled buy, and a red dot marks each downward crossing, labelled sell.</desc>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="46" y="40" text-anchor="start">ROC (n-day)</text>
+<polygon points="40,200 90,240 140,190 152.5,170" fill="#E24B4A" fill-opacity="0.3" stroke="none"/>
+<polygon points="152.5,170 190,110 240,70 290,130 315,170" fill="#639922" fill-opacity="0.3" stroke="none"/>
+<polygon points="315,170 340,210 390,260 440,220 471.3,170" fill="#E24B4A" fill-opacity="0.3" stroke="none"/>
+<polygon points="471.3,170 490,140 540,90 590,120 640,160" fill="#639922" fill-opacity="0.3" stroke="none"/>
+<line x1="40" y1="170" x2="640" y2="170" stroke="#888780" stroke-width="1" stroke-dasharray="6 4"/>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="646" y="174" text-anchor="start">0</text>
+<polyline points="40,200 90,240 140,190 190,110 240,70 290,130 340,210 390,260 440,220 490,140 540,90 590,120 640,160" fill="none" stroke="#7F77DD" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="152.5" cy="170" r="5" fill="#639922" stroke="#3B6D11" stroke-width="1"/>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="144.5" y="156" text-anchor="end">Buy</text>
+<circle cx="315" cy="170" r="5" fill="#E24B4A" stroke="#A32D2D" stroke-width="1"/>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="323" y="156" text-anchor="start">Sell</text>
+<circle cx="471.3" cy="170" r="5" fill="#639922" stroke="#3B6D11" stroke-width="1"/>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="463.3" y="156" text-anchor="end">Buy</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="340" y="290" text-anchor="middle">Green area: price above its level n days ago (bullish momentum).</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="340" y="308" text-anchor="middle">Red area: price below it (bearish). Zero-line crossings are the signals.</text>
+</svg>
 
 ### Worked example: ROC
 
