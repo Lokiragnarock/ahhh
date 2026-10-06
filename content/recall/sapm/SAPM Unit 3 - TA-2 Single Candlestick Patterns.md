@@ -33,6 +33,59 @@ Expect "draw and explain any four single candlestick patterns" (5 or 10 marks), 
 
 **Confirmation rule:** wait for the **next candle** to move in the signalled direction (and ideally rising volume) before acting.
 
+<svg width="100%" style="max-width:680px;display:block;margin:12px auto" viewBox="0 0 680 550" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Six single candlestick patterns</title>
+<desc>Top row: bullish marubozu, bearish marubozu, doji, spinning top. Bottom row with trend context: hammer after a downtrend, hanging man after an uptrend, shooting star after an uptrend.</desc>
+<rect x="71" y="50" width="28" height="140" rx="2" fill="#639922" stroke="#3B6D11" stroke-width="1"/>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="85" y="215" text-anchor="middle">Bullish marubozu</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="85" y="233" text-anchor="middle">no shadows, buyers all day</text>
+<rect x="241" y="50" width="28" height="140" rx="2" fill="#E24B4A" stroke="#A32D2D" stroke-width="1"/>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="255" y="215" text-anchor="middle">Bearish marubozu</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="255" y="233" text-anchor="middle">no shadows, sellers all day</text>
+<line x1="425" y1="60" x2="425" y2="180" stroke="#5F5E5A" stroke-width="2"/>
+<rect x="411" y="118" width="28" height="4" rx="1" fill="#888780" stroke="#5F5E5A" stroke-width="1"/>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="425" y="215" text-anchor="middle">Doji</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="425" y="233" text-anchor="middle">open = close, indecision</text>
+<line x1="595" y1="55" x2="595" y2="185" stroke="#5F5E5A" stroke-width="2"/>
+<rect x="581" y="105" width="28" height="30" rx="2" fill="#888780" stroke="#5F5E5A" stroke-width="1"/>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="595" y="215" text-anchor="middle">Spinning top</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="595" y="233" text-anchor="middle">small body, weak indecision</text>
+<line x1="20" y1="260" x2="660" y2="260" stroke="#B4B2A9" stroke-width="0.5" stroke-dasharray="4 4"/>
+<line x1="38" y1="295" x2="38" y2="345" stroke="#A32D2D" stroke-width="2"/>
+<rect x="30" y="300" width="16" height="40" rx="1" fill="#E24B4A" stroke="#A32D2D" stroke-width="1"/>
+<line x1="73" y1="330" x2="73" y2="380" stroke="#A32D2D" stroke-width="2"/>
+<rect x="65" y="335" width="16" height="40" rx="1" fill="#E24B4A" stroke="#A32D2D" stroke-width="1"/>
+<line x1="108" y1="365" x2="108" y2="415" stroke="#A32D2D" stroke-width="2"/>
+<rect x="100" y="370" width="16" height="40" rx="1" fill="#E24B4A" stroke="#A32D2D" stroke-width="1"/>
+<line x1="161" y1="402" x2="161" y2="470" stroke="#3B6D11" stroke-width="2"/>
+<rect x="150" y="405" width="22" height="16" rx="1" fill="#639922" stroke="#3B6D11" stroke-width="1"/>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="113" y="500" text-anchor="middle">Hammer</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="113" y="518" text-anchor="middle">after a fall: bullish</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="113" y="536" text-anchor="middle">lower shadow at least 2x body</text>
+<line x1="265" y1="405" x2="265" y2="455" stroke="#3B6D11" stroke-width="2"/>
+<rect x="257" y="410" width="16" height="40" rx="1" fill="#639922" stroke="#3B6D11" stroke-width="1"/>
+<line x1="300" y1="370" x2="300" y2="420" stroke="#3B6D11" stroke-width="2"/>
+<rect x="292" y="375" width="16" height="40" rx="1" fill="#639922" stroke="#3B6D11" stroke-width="1"/>
+<line x1="335" y1="335" x2="335" y2="385" stroke="#3B6D11" stroke-width="2"/>
+<rect x="327" y="340" width="16" height="40" rx="1" fill="#639922" stroke="#3B6D11" stroke-width="1"/>
+<line x1="388" y1="300" x2="388" y2="368" stroke="#A32D2D" stroke-width="2"/>
+<rect x="377" y="303" width="22" height="16" rx="1" fill="#E24B4A" stroke="#A32D2D" stroke-width="1"/>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="340" y="500" text-anchor="middle">Hanging man</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="340" y="518" text-anchor="middle">after a rise: bearish</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="340" y="536" text-anchor="middle">same shape as the hammer</text>
+<line x1="492" y1="405" x2="492" y2="455" stroke="#3B6D11" stroke-width="2"/>
+<rect x="484" y="410" width="16" height="40" rx="1" fill="#639922" stroke="#3B6D11" stroke-width="1"/>
+<line x1="527" y1="370" x2="527" y2="420" stroke="#3B6D11" stroke-width="2"/>
+<rect x="519" y="375" width="16" height="40" rx="1" fill="#639922" stroke="#3B6D11" stroke-width="1"/>
+<line x1="562" y1="335" x2="562" y2="385" stroke="#3B6D11" stroke-width="2"/>
+<rect x="554" y="340" width="16" height="40" rx="1" fill="#639922" stroke="#3B6D11" stroke-width="1"/>
+<line x1="615" y1="285" x2="615" y2="356" stroke="#A32D2D" stroke-width="2"/>
+<rect x="604" y="337" width="22" height="16" rx="1" fill="#E24B4A" stroke="#A32D2D" stroke-width="1"/>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="567" y="500" text-anchor="middle">Shooting star</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="567" y="518" text-anchor="middle">after a rise: bearish</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="567" y="536" text-anchor="middle">upper shadow at least 2x body</text>
+</svg>
+
 ## The six patterns
 
 ### 1. Marubozu ("bald head")

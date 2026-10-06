@@ -24,6 +24,68 @@ Covers: the two-candle patterns (bullish and bearish engulfing, bullish and bear
 
 ## Two-candle patterns
 
+<svg width="100%" style="max-width:680px;display:block;margin:12px auto" viewBox="0 0 680 510" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Multiple candlestick patterns</title>
+<desc>Top row bullish reversals after a fall: bullish engulfing, bullish harami, piercing line, morning star. Bottom row bearish reversals after a rise: bearish engulfing, bearish harami, dark cloud cover, evening star.</desc>
+<line x1="66" y1="105" x2="66" y2="145" stroke="#A32D2D" stroke-width="2"/>
+<rect x="55" y="110" width="22" height="30" rx="1" fill="#E24B4A" stroke="#A32D2D" stroke-width="1"/>
+<line x1="104" y1="95" x2="104" y2="160" stroke="#3B6D11" stroke-width="2"/>
+<rect x="93" y="100" width="22" height="55" rx="1" fill="#639922" stroke="#3B6D11" stroke-width="1"/>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="85" y="225" text-anchor="middle">Bullish engulfing</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="85" y="243" text-anchor="middle">green body swallows red</text>
+<line x1="236" y1="62" x2="236" y2="168" stroke="#A32D2D" stroke-width="2"/>
+<rect x="225" y="70" width="22" height="90" rx="1" fill="#E24B4A" stroke="#A32D2D" stroke-width="1"/>
+<line x1="274" y1="98" x2="274" y2="137" stroke="#3B6D11" stroke-width="2"/>
+<rect x="263" y="105" width="22" height="25" rx="1" fill="#639922" stroke="#3B6D11" stroke-width="1"/>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="255" y="225" text-anchor="middle">Bullish harami</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="255" y="243" text-anchor="middle">small body inside big red</text>
+<line x1="406" y1="64" x2="406" y2="158" stroke="#A32D2D" stroke-width="2"/>
+<rect x="395" y="70" width="22" height="80" rx="1" fill="#E24B4A" stroke="#A32D2D" stroke-width="1"/>
+<line x1="388" y1="110" x2="462" y2="110" stroke="#888780" stroke-width="1" stroke-dasharray="3 3"/>
+<line x1="444" y1="90" x2="444" y2="176" stroke="#3B6D11" stroke-width="2"/>
+<rect x="433" y="95" width="22" height="75" rx="1" fill="#639922" stroke="#3B6D11" stroke-width="1"/>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="466" y="114">mid</text>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="425" y="225" text-anchor="middle">Piercing line</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="425" y="243" text-anchor="middle">gap down, close above mid</text>
+<line x1="555" y1="55" x2="555" y2="148" stroke="#A32D2D" stroke-width="2"/>
+<rect x="545" y="60" width="20" height="80" rx="1" fill="#E24B4A" stroke="#A32D2D" stroke-width="1"/>
+<line x1="583" y1="152" x2="583" y2="176" stroke="#5F5E5A" stroke-width="2"/>
+<rect x="575" y="160" width="16" height="8" rx="1" fill="#888780" stroke="#5F5E5A" stroke-width="1"/>
+<line x1="610" y1="80" x2="610" y2="156" stroke="#3B6D11" stroke-width="2"/>
+<rect x="600" y="85" width="20" height="65" rx="1" fill="#639922" stroke="#3B6D11" stroke-width="1"/>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="595" y="225" text-anchor="middle">Morning star</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="595" y="243" text-anchor="middle">red, star, strong green</text>
+<line x1="20" y1="265" x2="660" y2="265" stroke="#B4B2A9" stroke-width="0.5" stroke-dasharray="4 4"/>
+<line x1="66" y1="345" x2="66" y2="385" stroke="#3B6D11" stroke-width="2"/>
+<rect x="55" y="350" width="22" height="30" rx="1" fill="#639922" stroke="#3B6D11" stroke-width="1"/>
+<line x1="104" y1="330" x2="104" y2="395" stroke="#A32D2D" stroke-width="2"/>
+<rect x="93" y="335" width="22" height="55" rx="1" fill="#E24B4A" stroke="#A32D2D" stroke-width="1"/>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="85" y="475" text-anchor="middle">Bearish engulfing</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="85" y="493" text-anchor="middle">red body swallows green</text>
+<line x1="236" y1="322" x2="236" y2="428" stroke="#3B6D11" stroke-width="2"/>
+<rect x="225" y="330" width="22" height="90" rx="1" fill="#639922" stroke="#3B6D11" stroke-width="1"/>
+<line x1="274" y1="353" x2="274" y2="392" stroke="#A32D2D" stroke-width="2"/>
+<rect x="263" y="360" width="22" height="25" rx="1" fill="#E24B4A" stroke="#A32D2D" stroke-width="1"/>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="255" y="475" text-anchor="middle">Bearish harami</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="255" y="493" text-anchor="middle">small body inside big green</text>
+<line x1="406" y1="332" x2="406" y2="426" stroke="#3B6D11" stroke-width="2"/>
+<rect x="395" y="340" width="22" height="80" rx="1" fill="#639922" stroke="#3B6D11" stroke-width="1"/>
+<line x1="388" y1="380" x2="462" y2="380" stroke="#888780" stroke-width="1" stroke-dasharray="3 3"/>
+<line x1="444" y1="314" x2="444" y2="400" stroke="#A32D2D" stroke-width="2"/>
+<rect x="433" y="320" width="22" height="75" rx="1" fill="#E24B4A" stroke="#A32D2D" stroke-width="1"/>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="466" y="384">mid</text>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="425" y="475" text-anchor="middle">Dark cloud cover</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="425" y="493" text-anchor="middle">gap up, close below mid</text>
+<line x1="555" y1="342" x2="555" y2="435" stroke="#3B6D11" stroke-width="2"/>
+<rect x="545" y="350" width="20" height="80" rx="1" fill="#639922" stroke="#3B6D11" stroke-width="1"/>
+<line x1="583" y1="314" x2="583" y2="338" stroke="#5F5E5A" stroke-width="2"/>
+<rect x="575" y="322" width="16" height="8" rx="1" fill="#888780" stroke="#5F5E5A" stroke-width="1"/>
+<line x1="610" y1="334" x2="610" y2="410" stroke="#A32D2D" stroke-width="2"/>
+<rect x="600" y="340" width="20" height="65" rx="1" fill="#E24B4A" stroke="#A32D2D" stroke-width="1"/>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="595" y="475" text-anchor="middle">Evening star</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="595" y="493" text-anchor="middle">green, star, strong red</text>
+</svg>
+
 ### Bullish engulfing (after a downtrend)
 Day 1: small **red** candle. Day 2: large **green** candle whose body **completely engulfs** day 1's body (opens below day 1's close, closes above day 1's open).
 - Story: sellers were in charge, then buyers overwhelmed them in one session. Strong bullish reversal.
@@ -59,6 +121,45 @@ A **gap** is a price range where no trading took place: today's low is above yes
 | **Runaway (continuation / measuring) gap** | Middle of a strong trend | Trend continuing; often near the halfway point of the move |
 | **Exhaustion gap** | Near the end of a long trend | Last burst before reversal; often filled quickly |
 | **Island reversal** | Exhaustion gap then a breakaway gap in the other direction | Price "island" isolated: strong reversal |
+
+<svg width="100%" style="max-width:680px;display:block;margin:12px auto" viewBox="0 0 680 315" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Types of price gaps on one chart</title>
+<desc>A price path moving from a sideways range with a common gap, a breakaway gap starting an uptrend, a runaway gap mid-trend, an exhaustion gap near the top, an island of three bars, then a breakaway gap down.</desc>
+<rect x="90" y="222" width="44" height="4" fill="#EF9F27" stroke="#BA7517" stroke-width="1" opacity="0.5"/>
+<rect x="210" y="205" width="44" height="17" fill="#EF9F27" stroke="#BA7517" stroke-width="1" opacity="0.5"/>
+<rect x="330" y="142" width="44" height="10" fill="#EF9F27" stroke="#BA7517" stroke-width="1" opacity="0.5"/>
+<rect x="450" y="80" width="44" height="12" fill="#EF9F27" stroke="#BA7517" stroke-width="1" opacity="0.5"/>
+<rect x="540" y="78" width="44" height="17" fill="#EF9F27" stroke="#BA7517" stroke-width="1" opacity="0.5"/>
+<rect x="30" y="228" width="14" height="22" rx="1" fill="#888780" stroke="#5F5E5A" stroke-width="1"/>
+<rect x="60" y="232" width="14" height="22" rx="1" fill="#888780" stroke="#5F5E5A" stroke-width="1"/>
+<rect x="90" y="226" width="14" height="20" rx="1" fill="#888780" stroke="#5F5E5A" stroke-width="1"/>
+<rect x="120" y="212" width="14" height="10" rx="1" fill="#888780" stroke="#5F5E5A" stroke-width="1"/>
+<rect x="150" y="220" width="14" height="20" rx="1" fill="#888780" stroke="#5F5E5A" stroke-width="1"/>
+<rect x="180" y="226" width="14" height="22" rx="1" fill="#888780" stroke="#5F5E5A" stroke-width="1"/>
+<rect x="210" y="222" width="14" height="22" rx="1" fill="#888780" stroke="#5F5E5A" stroke-width="1"/>
+<rect x="240" y="180" width="14" height="25" rx="1" fill="#639922" stroke="#3B6D11" stroke-width="1"/>
+<rect x="270" y="170" width="14" height="22" rx="1" fill="#639922" stroke="#3B6D11" stroke-width="1"/>
+<rect x="300" y="160" width="14" height="22" rx="1" fill="#639922" stroke="#3B6D11" stroke-width="1"/>
+<rect x="330" y="152" width="14" height="20" rx="1" fill="#639922" stroke="#3B6D11" stroke-width="1"/>
+<rect x="360" y="120" width="14" height="22" rx="1" fill="#639922" stroke="#3B6D11" stroke-width="1"/>
+<rect x="390" y="110" width="14" height="22" rx="1" fill="#639922" stroke="#3B6D11" stroke-width="1"/>
+<rect x="420" y="100" width="14" height="22" rx="1" fill="#639922" stroke="#3B6D11" stroke-width="1"/>
+<rect x="450" y="92" width="14" height="20" rx="1" fill="#639922" stroke="#3B6D11" stroke-width="1"/>
+<rect x="480" y="60" width="14" height="20" rx="1" fill="#888780" stroke="#5F5E5A" stroke-width="1"/>
+<rect x="510" y="55" width="14" height="20" rx="1" fill="#888780" stroke="#5F5E5A" stroke-width="1"/>
+<rect x="540" y="58" width="14" height="20" rx="1" fill="#888780" stroke="#5F5E5A" stroke-width="1"/>
+<rect x="570" y="95" width="14" height="23" rx="1" fill="#E24B4A" stroke="#A32D2D" stroke-width="1"/>
+<rect x="600" y="105" width="14" height="23" rx="1" fill="#E24B4A" stroke="#A32D2D" stroke-width="1"/>
+<rect x="630" y="115" width="14" height="23" rx="1" fill="#E24B4A" stroke="#A32D2D" stroke-width="1"/>
+<rect x="472" y="47" width="90" height="38" rx="6" fill="none" stroke="#888780" stroke-width="1" stroke-dasharray="4 3"/>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="517" y="38" text-anchor="middle">Island reversal</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="112" y="272" text-anchor="middle">Common gap</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="232" y="272" text-anchor="middle">Breakaway gap</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="352" y="196" text-anchor="middle">Runaway gap</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="440" y="70" text-anchor="end">Exhaustion gap</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="590" y="88">Breakaway</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="20" y="302">Each bar = one day's high-to-low range. Shaded bands = gaps, prices where no trade happened.</text>
+</svg>
 
 Old saying: "gaps tend to be filled": price often returns to cover the gap, except breakaway and runaway gaps in strong trends.
 
