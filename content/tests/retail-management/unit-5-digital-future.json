@@ -726,5 +726,688 @@
         "marks": 2
       }
     ]
+  },
+  {
+    "id": "DR-1-08",
+    "node": "DR-1",
+    "unit": "Retail Management Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "Which of the following pairings of an e-retailing business model with an example is WRONG?",
+    "options": [
+      "A) B2B - Alibaba",
+      "B) C2C - OLX",
+      "C) D2C - Mamaearth",
+      "D) C2C - Amazon retail store"
+    ],
+    "answer": "D",
+    "explanation": "Amazon's own retail store sells from a business to end consumers, so it is B2C, not C2C. Alibaba (A) is the slides' B2B example, OLX (B) lets consumers sell to consumers, and Mamaearth (C) is a brand selling directly to its consumers (D2C). Option D is tempting because Amazon also hosts third-party sellers, but even then it is not a platform for consumer-to-consumer sale in the slides' classification."
+  },
+  {
+    "id": "DR-1-09",
+    "node": "DR-1",
+    "unit": "Retail Management Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A fashion retailer replaces its email newsletter with online forums, chat-rooms and membership groups so that shoppers build lasting relationships around the brand. Which of the 6 C's of social commerce is this?",
+    "options": [
+      "A) Conversation",
+      "B) Community",
+      "C) Connection",
+      "D) Context"
+    ],
+    "answer": "B",
+    "explanation": "Community treats the audience as a community and has evolved from registration and email programmes into forums, chat-rooms and membership groups. Conversation (A) is the two-party exchange that surfaces a need, the most tempting wrong option because chat-rooms involve talk. Connection (C) is about online networks documenting relationships between people. Context (D) is the online world tracking real-world events, mainly through mobile devices."
+  },
+  {
+    "id": "DR-1-10",
+    "node": "DR-1",
+    "unit": "Retail Management Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Match the platform to its species of social commerce: (i) Groupon, (ii) Etsy, (iii) Threadless, (iv) Lyst.",
+    "options": [
+      "A) (i) Group buying, (ii) Peer-to-peer sales, (iii) Participatory commerce, (iv) User-curated shopping",
+      "B) (i) Group buying, (ii) User-curated shopping, (iii) Participatory commerce, (iv) Peer-to-peer sales",
+      "C) (i) Peer recommendations, (ii) Peer-to-peer sales, (iii) Social shopping, (iv) User-curated shopping",
+      "D) (i) Group buying, (ii) Peer-to-peer sales, (iii) User-curated shopping, (iv) Participatory commerce"
+    ],
+    "answer": "A",
+    "explanation": "Groupon gives a lower price when enough users agree to buy (group buying); Etsy lets users sell directly to other users (peer-to-peer); Threadless involves users in production (participatory commerce); Lyst lets users create and share lists to shop from (user-curated). Option B swaps Etsy and Lyst, and option D swaps Threadless and Lyst, the commonest slips because all are 'creative' platforms. Option C confuses Threadless with chat-based social shopping (Motilo)."
+  },
+  {
+    "id": "DR-1-11",
+    "node": "DR-1",
+    "unit": "Retail Management Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "In the e-tailing process cycle, once the order is completed, which two actions follow?",
+    "options": [
+      "A) The credit card is charged, then the shopping cart is filled",
+      "B) An email goes to customer and merchant, and the order is sent to the warehouse for fulfilment",
+      "C) The shipping carrier picks up the shipment, then the order is placed",
+      "D) The shipment is sent to the customer, then the email is sent"
+    ],
+    "answer": "B",
+    "explanation": "The cycle is: order placed, shopping cart, credit card charged, order completed, then (a) email to customer and merchant and (b) order to the warehouse, followed by carrier pickup and shipment to the customer. Option A lists steps that come before completion. Option C places the order after pickup. Option D reverses the confirmation email and delivery, the usual slip when students think of the physical flow only."
+  },
+  {
+    "id": "DR-1-12",
+    "node": "DR-1",
+    "unit": "Retail Management Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "Which feature to retail application pairing for m-commerce is correct?",
+    "options": [
+      "A) Biometrics - product recommendations",
+      "B) AI - secure authentication",
+      "C) Push notifications - flash sales and cart reminders",
+      "D) GPS - virtual try-on"
+    ],
+    "answer": "C",
+    "explanation": "Push notifications drive flash sales and cart reminders. Biometrics give secure authentication (not recommendations, A), AI gives recommendations (not authentication, B), and GPS gives location-based offers while augmented reality gives virtual try-on (D). Options A and B swap two features; D swaps GPS with AR."
+  },
+  {
+    "id": "DR-2-08",
+    "node": "DR-2",
+    "unit": "Retail Management Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A store manager records four statements: (i) 'Footfall fell 8% last week.' (ii) 'It fell because the road outside was dug up.' (iii) 'Footfall is likely to fall 5% next week as heavy rain is forecast.' (iv) 'Move two staff from the shop floor to online order packing.' Which option classifies them correctly?",
+    "options": [
+      "A) (i) Descriptive, (ii) Diagnostic, (iii) Predictive, (iv) Prescriptive",
+      "B) (i) Diagnostic, (ii) Descriptive, (iii) Prescriptive, (iv) Predictive",
+      "C) (i) Descriptive, (ii) Diagnostic, (iii) Prescriptive, (iv) Predictive",
+      "D) (i) Descriptive, (ii) Predictive, (iii) Diagnostic, (iv) Prescriptive"
+    ],
+    "answer": "A",
+    "explanation": "Descriptive says what happened (i), diagnostic says why (ii), predictive says what is likely to happen (iii) and prescriptive says what to do (iv). Options B and C swap predictive and prescriptive, the usual mistake because both look forward; the test is whether the statement recommends an action. Option D confuses the reason for a fall with a forecast."
+  },
+  {
+    "id": "DR-2-09",
+    "node": "DR-2",
+    "unit": "Retail Management Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "Which statement about RFID and barcodes is correct?",
+    "options": [
+      "A) A barcode needs line of sight and is scanned one at a time; RFID usually does not need line of sight and can read many tags at once",
+      "B) A barcode reads many items at once; RFID is scanned one at a time",
+      "C) RFID is cheaper than barcodes and is mainly used at checkout",
+      "D) Both need line of sight, but RFID costs less"
+    ],
+    "answer": "A",
+    "explanation": "Barcodes are low cost, need line of sight and are scanned one by one, so they suit checkout at the POS. RFID costs relatively more, usually needs no line of sight and reads many tags together, so it suits inventory tracking. Option B reverses the two. Option C reverses both cost and typical use. Option D is wrong on line of sight and on cost."
+  },
+  {
+    "id": "DR-2-10",
+    "node": "DR-2",
+    "unit": "Retail Management Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "In the integrated retail technology flow after a customer buys a product, which sequence is correct?",
+    "options": [
+      "A) POS records sale, ERP updates inventory, analytics analyses sales, AI predicts demand, supply chain replenishes stock",
+      "B) POS records sale, AI predicts demand, ERP updates inventory, analytics analyses sales, supply chain replenishes stock",
+      "C) ERP updates inventory, POS records sale, analytics analyses sales, supply chain replenishes stock, AI predicts demand",
+      "D) POS records sale, analytics analyses sales, ERP updates inventory, supply chain replenishes stock, AI predicts demand"
+    ],
+    "answer": "A",
+    "explanation": "The slides' chain is POS (sale recorded), ERP (inventory updated), analytics (sales analysed), AI (demand predicted), supply chain (stock replenished). Option B puts AI before the ERP, but a prediction needs updated, shared data. Option C records the inventory change before the sale exists. Option D replenishes before demand has been predicted."
+  },
+  {
+    "id": "DR-2-11",
+    "node": "DR-2",
+    "unit": "Retail Management Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A store has footfall of 15,000, a conversion rate of 20% and an average basket of ₹1,200. Returns are 5% of sales value. Net sales after returns are:",
+    "options": [
+      "A) ₹34,20,000",
+      "B) ₹36,00,000",
+      "C) ₹1,71,00,000",
+      "D) ₹1,80,000"
+    ],
+    "answer": "A",
+    "explanation": "Buyers = 15,000 x 20% = 3,000; gross sales = 3,000 x ₹1,200 = ₹36,00,000; returns = 5% = ₹1,80,000; net = ₹34,20,000. Option B is gross sales before returns. Option C multiplies all visitors (not buyers) by the basket and then deducts returns (₹1.8 crore less 5%). Option D is the value of returns alone."
+  },
+  {
+    "id": "DR-3-07",
+    "node": "DR-3",
+    "unit": "Retail Management Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A spray-can advertises 'CFC-free, safe for the ozone layer!' although CFCs have long been banned from such products. Which greenwashing red flag is this?",
+    "options": [
+      "A) Vague claims",
+      "B) No certification",
+      "C) Hidden trade-offs",
+      "D) Irrelevant claims"
+    ],
+    "answer": "D",
+    "explanation": "The claim is true but irrelevant: it highlights a feature every competitor must have by law and so says nothing about the product's real environmental impact. Vague claims (A) are undefined words such as 'eco-friendly'; this claim is specific. No certification (B) is the absence of third-party proof, not stated here. Hidden trade-offs (C) means stressing one green attribute while hiding a bigger harm, which is not described."
+  },
+  {
+    "id": "DR-4-08",
+    "node": "DR-4",
+    "unit": "Retail Management Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "Which of the following is NOT one of the nine emerging trends in retail listed for the future of retail?",
+    "options": [
+      "A) Conversational commerce",
+      "B) Circular retail",
+      "C) Autonomous delivery",
+      "D) Franchise expansion"
+    ],
+    "answer": "D",
+    "explanation": "The nine trends are AI-powered retail, metaverse retail, smart stores, hyper-personalisation, social commerce, autonomous delivery, computer vision, conversational commerce and circular retail. Franchise expansion is a growth strategy, not a technology or experience trend. Conversational commerce (A) is the most tempting wrong pick because it sounds like a marketing term, but it is on the list."
+  },
+  {
+    "id": "DR-1-13",
+    "node": "DR-1",
+    "unit": "Retail Management Unit 5",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Distinguish a retailer from a marketplace on products, assortment, inventory and example. Is Amazon a retailer, a marketplace or both? Justify.",
+    "model_answer": "| Dimension | Retailer | Marketplace |\n|---|---|---|\n| Products | Owns or controls the products | Multiple independent sellers |\n| Assortment | Retailer-controlled | Seller-driven |\n| Inventory | Retailer bears responsibility | Often seller-managed |\n| Example | Brand website | Amazon marketplace |\n\n**Is Amazon both?** Yes. The slides use Amazon as the example of a marketplace (a platform where multiple sellers offer products to consumers, as with Meesho, Alibaba and Etsy), and the e-retailing slides also list Amazon as an e-retailer that sells to end consumers (B2C). So Amazon is a **hybrid**: it sells some goods itself (retailer role, owns assortment and bears inventory) and hosts third-party sellers (marketplace role, seller-driven range). The test is **who owns the product and carries the inventory for that particular listing**, not the name on the website.\n\n**Why it matters:** the retailer role gives control of quality, price and customer data but ties up capital in stock; the marketplace role gives range without stock and network effects but less control.",
+    "marking_scheme": [
+      {
+        "point": "Retailer vs marketplace on products, assortment, inventory",
+        "marks": 2
+      },
+      {
+        "point": "Examples",
+        "marks": 0.5
+      },
+      {
+        "point": "Amazon is both (hybrid) with justification",
+        "marks": 1.5
+      },
+      {
+        "point": "Test of who owns product and inventory",
+        "marks": 0.5
+      },
+      {
+        "point": "Implication (control vs capital and range)",
+        "marks": 0.5
+      }
+    ]
+  },
+  {
+    "id": "DR-1-14",
+    "node": "DR-1",
+    "unit": "Retail Management Unit 5",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "List the seven stages in the evolution of retail from physical to phygital. Then name the four e-retailing business models with one example each, and explain why brands are increasingly adopting D2C.",
+    "model_answer": "**Seven stages:** (1) traditional retail, (2) e-retailing, (3) mobile commerce, (4) social commerce, (5) omnichannel, (6) AI-driven retail, (7) smart and immersive retail. **Key idea:** the question shifts from 'Where do customers shop?' to 'How does the customer want to shop?'\n\n| Model | Meaning | Example |\n|---|---|---|\n| B2C | Business to consumer | Amazon |\n| B2B | Business to business | Alibaba |\n| C2C | Consumer to consumer | OLX |\n| D2C | Brand sells directly to consumer | Mamaearth |\n\n**Why D2C:** the brand keeps the margin that would go to intermediaries; owns customer data and the relationship (useful for personalisation and analytics); controls pricing, storytelling and the customer experience; and can launch and test products faster. The costs are that it must build traffic, delivery and service itself.",
+    "marking_scheme": [
+      {
+        "point": "Seven stages in order",
+        "marks": 1.5
+      },
+      {
+        "point": "Key idea",
+        "marks": 0.5
+      },
+      {
+        "point": "Four models with meaning and example",
+        "marks": 1.5
+      },
+      {
+        "point": "Reasons for D2C",
+        "marks": 1.0
+      },
+      {
+        "point": "Limitation or cost of D2C",
+        "marks": 0.5
+      }
+    ]
+  },
+  {
+    "id": "DR-1-15",
+    "node": "DR-1",
+    "unit": "Retail Management Unit 5",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Explain m-commerce, its growth drivers and the six-step mobile consumer journey. Give any four mobile features with their retail applications.",
+    "model_answer": "**M-commerce** is buying and selling products or services using mobile devices (Google Pay, PhonePe, Flipkart and Amazon apps, Zepto, Blinkit). It shows up as shopping apps, mobile payments, push notifications, location-based offers and QR-code shopping.\n\n**Drivers:** smartphone penetration, affordable internet, digital payments (UPI), mobile apps, convenience, faster checkout, quick commerce and personalised recommendations.\n\n**Mobile consumer journey:** (1) discover, (2) compare, (3) evaluate, (4) purchase, (5) track, (6) review.\n\n| Feature | Retail application |\n|---|---|\n| Push notifications | Flash sales and cart reminders |\n| GPS | Location-based offers |\n| QR codes | Product information, in-store payment |\n| Mobile wallets | Quick payment |\n| Biometrics | Secure authentication |\n| AI | Recommendations |\n| Augmented reality | Virtual try-on |\n\n(Any four earn full marks.)",
+    "marking_scheme": [
+      {
+        "point": "Definition and examples",
+        "marks": 1
+      },
+      {
+        "point": "Growth drivers (at least four)",
+        "marks": 1
+      },
+      {
+        "point": "Six-step journey",
+        "marks": 1.5
+      },
+      {
+        "point": "Four feature-application pairs",
+        "marks": 1.5
+      }
+    ]
+  },
+  {
+    "id": "DR-1-16",
+    "node": "DR-1",
+    "unit": "Retail Management Unit 5",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Describe the process cycle of an e-tailing order. List the essentials of e-retailing and explain AIDA in an online store.",
+    "model_answer": "**Process cycle:** order placed by the user, then shopping cart, then credit card charged, then order completed. After completion, (a) an email goes to the customer and the merchant and (b) the order goes to the warehouse for fulfilment; the shipping carrier then picks up the shipment and it is sent to the customer.\n\n**Essentials of e-retailing:** an attractive B2C e-commerce model; the right revenue model (sale of products and services, subscriptions to website content, or advertising); Internet penetration; an **e-catalog** (database of products with prices and stock available); a **shopping cart** (the customer fills it and the system calculates the price at checkout); and a **payment gateway** (credit card or e-cash, which must be fully secure).\n\n**AIDA** (a direct-mail acronym applied online): **Attention** (grab the visitor with banners and visuals), **Interest** (pique interest in the product), **Desire** (build desire through reviews and offers), **Action** (get them to follow a call to action such as Buy Now).",
+    "marking_scheme": [
+      {
+        "point": "Order process cycle in sequence",
+        "marks": 1.5
+      },
+      {
+        "point": "Essentials (e-catalog, cart, gateway, model, penetration)",
+        "marks": 1.5
+      },
+      {
+        "point": "Revenue sources",
+        "marks": 0.5
+      },
+      {
+        "point": "AIDA four stages with online application",
+        "marks": 1.5
+      }
+    ]
+  },
+  {
+    "id": "DR-1-17",
+    "node": "DR-1",
+    "unit": "Retail Management Unit 5",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Explain the six marketing techniques used within social commerce, with one line on each.",
+    "model_answer": "| Technique | Meaning |\n|---|---|\n| **SCRM** (social customer relationship management) | Close engagement between customers and retailers for a long-term relationship built on trust and brand loyalty |\n| **Word-of-mouth** | One user shares a personal opinion or recommendation with others |\n| **Social shopping** | Informed shopping from social networking sites, based on reviews, feedback or recommendations from friends, family or contacts |\n| **Customer-to-customer** | A platform permitting a transaction directly from one customer to another, e.g. eBay |\n| **Open-source** | A platform where users discuss and share ideas on products or services freely and at any time |\n| **Viral** | Mass advertising spread through email footers, spam or ads |\n\n**How retailers use them:** bring shoppers with common interests together, invite comments and reviews, make shoppers feel part of a community, and use feedback to improve products and services.",
+    "marking_scheme": [
+      {
+        "point": "Six techniques named correctly",
+        "marks": 3
+      },
+      {
+        "point": "One-line meanings",
+        "marks": 1.5
+      },
+      {
+        "point": "How retailers use them",
+        "marks": 0.5
+      }
+    ]
+  },
+  {
+    "id": "DR-2-12",
+    "node": "DR-2",
+    "unit": "Retail Management Unit 5",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Compare RFID and barcode on line of sight, reading method, cost and typical use. Explain why a fashion retailer might prefer RFID for inventory management, and what a POS can record.",
+    "model_answer": "| Dimension | Barcode | RFID |\n|---|---|---|\n| Line of sight | Required | Usually not required |\n| Reading | Scanned one at a time | Many tags read at once |\n| Cost | Low | Relatively higher |\n| Typical use | Checkout at POS | Inventory tracking |\n\n**RFID process:** the RFID tag is read by a reader, and the data goes to the inventory system. Benefits: faster inventory counting, product tracking, fewer stock errors, better inventory visibility and loss prevention.\n\n**Why fashion prefers RFID:** it has many SKUs (styles, sizes, colours), items are small and high value, and stock counts are frequent. Reading hundreds of tagged garments at once without opening each pile saves time, finds misplaced sizes and supports omnichannel promises such as 'available in store'. The higher tag cost is justified; for low-value, low-variety grocery, barcodes at checkout are enough.\n\n**POS data:** a POS records product, price, customer, quantity, payment method and time of purchase. Transaction becomes data, data allows analysis, and analysis leads to decisions.",
+    "marking_scheme": [
+      {
+        "point": "Four-dimension comparison",
+        "marks": 2
+      },
+      {
+        "point": "RFID process and benefits",
+        "marks": 1
+      },
+      {
+        "point": "Why fashion prefers RFID",
+        "marks": 1.5
+      },
+      {
+        "point": "POS data fields and data-to-decision chain",
+        "marks": 0.5
+      }
+    ]
+  },
+  {
+    "id": "DR-2-13",
+    "node": "DR-2",
+    "unit": "Retail Management Unit 5",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Explain how AI changes retail (five areas), list six AI applications, describe the AI personalisation loop from customer data to continuous learning, and state three benefits and three risks.",
+    "model_answer": "**Five areas AI changes:** what customers see (recommendations, search results, feeds); what they pay (dynamic and personalised pricing); what retailers stock (demand forecasting and assortment); how customers interact (chatbots and voice assistants); how products are delivered (route optimisation and last-mile fulfilment).\n\n**Applications (any six):** product recommendations, demand forecasting, dynamic pricing, chatbots, customer segmentation, fraud detection, inventory optimisation, personalised promotions, visual search, sentiment analysis.\n\n**Personalisation loop:** (1) customer data, (2) AI analysis, (3) customer profile, (4) recommendation, (5) personalised offer, (6) purchase, (7) feedback, (8) continuous learning. Every purchase and click feeds the next recommendation. Traditional retail makes the same offer to many customers; AI retail makes an individual offer (running shoes, so suggest sports socks).\n\n**Benefits:** personalisation, faster decisions, better forecasting, cost reduction, improved customer experience. **Risks:** privacy concerns, algorithmic bias, data security, lack of transparency, over-personalisation (the point at which it becomes intrusive).",
+    "marking_scheme": [
+      {
+        "point": "Five areas",
+        "marks": 1
+      },
+      {
+        "point": "Six applications",
+        "marks": 1
+      },
+      {
+        "point": "Eight-step loop",
+        "marks": 1.5
+      },
+      {
+        "point": "Three benefits and three risks",
+        "marks": 1.5
+      }
+    ]
+  },
+  {
+    "id": "DR-3-08",
+    "node": "DR-3",
+    "unit": "Retail Management Unit 5",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Define greenwashing and list its four red flags with an example of each. How can a retailer avoid it?",
+    "model_answer": "**Greenwashing** is making products or brands appear more environmentally friendly than they actually are. Example from the slides: a product claims '100% Eco-Friendly' but gives no evidence or explanation.\n\n| Red flag | Example |\n|---|---|\n| Vague claims | 'Eco-friendly' or 'natural' with no definition |\n| No certification | A 'sustainable' claim with no third-party proof |\n| Hidden trade-offs | A bottle with a recycled label while the factory process is highly polluting |\n| Irrelevant claims | 'CFC-free', when CFCs are already banned |\n\n**Avoiding it:** make only specific, true claims with figures (for example the share of recycled material), back them with recognised third-party certification, disclose trade-offs, and keep operations consistent with communication. **Ask:** is every green claim necessarily sustainable? No; a claim is credible only when supported by evidence. Greenwashing damages brand trust and carries growing regulatory risk.",
+    "marking_scheme": [
+      {
+        "point": "Definition with slide example",
+        "marks": 1
+      },
+      {
+        "point": "Four red flags",
+        "marks": 1
+      },
+      {
+        "point": "Example for each",
+        "marks": 1.5
+      },
+      {
+        "point": "How to avoid it",
+        "marks": 1.5
+      }
+    ]
+  },
+  {
+    "id": "DR-3-09",
+    "node": "DR-3",
+    "unit": "Retail Management Unit 5",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "What does a green supply chain add to the traditional supply chain? Illustrate with IKEA's practices and link them to People, Planet and Profit.",
+    "model_answer": "**Traditional chain:** supplier, manufacturer, warehouse, retailer, customer. A **green supply chain** runs the same process but builds in: sustainable sourcing, energy efficiency, low-emission transport, eco-friendly packaging, waste reduction and reverse logistics.\n\n**IKEA example:** renewable materials, sustainable sourcing, efficient flat packaging (more units per truck, fewer trips), energy-efficient stores, product recycling and buy-back, and circular product design.\n\n**People, Planet, Profit:** Planet (less waste, lower emissions, sustainable packaging); People (fair labour, inclusion, ethical sourcing); Profit (long-term profitability, efficient resource use). Flat packaging shows the three meeting: lower transport cost (profit) and lower emissions (planet), while ethical sourcing serves people.\n\n**Discussion point:** sustainability can become a competitive advantage if it cuts cost and builds trust, but only when the claims are real.",
+    "marking_scheme": [
+      {
+        "point": "Add-ons to the traditional chain",
+        "marks": 1.5
+      },
+      {
+        "point": "IKEA practices",
+        "marks": 1.5
+      },
+      {
+        "point": "People, Planet, Profit with examples",
+        "marks": 1.5
+      },
+      {
+        "point": "Competitive-advantage point",
+        "marks": 0.5
+      }
+    ]
+  },
+  {
+    "id": "DR-4-09",
+    "node": "DR-4",
+    "unit": "Retail Management Unit 5",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Explain smart stores with the four steps of a cashierless store, define metaverse retail with applications, and list the nine emerging trends in retail.",
+    "model_answer": "**Smart store:** a store that uses connected technologies and data to improve shopping and operations. Technologies: IoT, computer vision, RFID, digital payments and mobile apps. **Cashierless store, four steps:** (1) customer enters, (2) picks products, (3) leaves, (4) automated payment.\n\n**Metaverse retail:** retail experiences in immersive digital environments (virtual worlds, avatars, AR and VR). Applications: virtual stores, digital fashion, avatar-based shopping, virtual product trials, virtual events and immersive brand experiences. Example: a customer enters a virtual fashion store, selects an avatar and tries on digital outfits before buying. Adoption and ROI are still uncertain, so treat it as a capped pilot.\n\n**Nine emerging trends:** AI-powered retail, metaverse retail, smart stores, hyper-personalisation, social commerce, autonomous delivery, computer vision, conversational commerce, circular retail.",
+    "marking_scheme": [
+      {
+        "point": "Smart store definition and technologies",
+        "marks": 1
+      },
+      {
+        "point": "Four cashierless steps",
+        "marks": 1
+      },
+      {
+        "point": "Metaverse definition, applications, example",
+        "marks": 1.5
+      },
+      {
+        "point": "Nine trends",
+        "marks": 1.5
+      }
+    ]
+  },
+  {
+    "id": "DR-1-18",
+    "node": "DR-1",
+    "unit": "Retail Management Unit 5",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "hard",
+    "question": "(a) Define social commerce and explain the six C's of social commerce. (3) (b) Name the seven species of social commerce and match each with a platform (Groupon, Etsy, Threadless, Lyst, Yelp, Motilo, and Facebook). (3.5) (c) Explain AIDA for an online store and the influencer funnel from content to purchase. (3.5)",
+    "model_answer": "**(a)** Social commerce is a subset of e-commerce that uses social media, online media supporting social interaction, and user contributions to assist the online buying and selling of products and services. It rose when e-commerce met social media (as m-commerce arose from e-commerce plus mobile technology). **Six C's:** **Content** (valuable published content to engage customers and prospects); **Community** (audience treated as a community, from emails to forums, chat-rooms and membership groups); **Commerce** (a transactional web presence that fulfils needs); **Context** (the online world tracks real-world events, mainly through mobile devices); **Connection** (online networks define and document relationships); **Conversation** (a two-party conversation surfaces a need that can be fulfilled).\n\n**(b) Seven species:**\n\n| Species | Meaning | Platform |\n|---|---|---|\n| Social network driven sales | Sales on established social networks | Facebook commerce |\n| Peer-to-peer sales | Users sell directly to users | Etsy (also eBay) |\n| Group buying | Lower price if enough users buy | Groupon |\n| Peer recommendations | See other users' recommendations | Yelp (also Amazon) |\n| User-curated shopping | Users create and share lists | Lyst |\n| Participatory commerce | Users get involved in production | Threadless |\n| Social shopping | Chat with friends or others for advice | Motilo |\n\n**(c) AIDA:** Attention (banner, visual, social post), Interest (pique interest in the product), Desire (reviews, offers and influencer proof build desire), Action (call to action such as 'Buy now'). **Influencer funnel:** influencer content, attention, interest, trust, consideration, purchase. Consumers may trust an influencer more than an advertisement because they follow the person, see regular non-sponsored content and treat the recommendation as a peer's; the retailer must still ensure that sponsored content is disclosed.",
+    "marking_scheme": [
+      {
+        "point": "Definition and six C's",
+        "marks": 3
+      },
+      {
+        "point": "Seven species with meaning",
+        "marks": 1.5
+      },
+      {
+        "point": "Platform matching (Facebook, Etsy, Groupon, Yelp, Lyst, Threadless, Motilo)",
+        "marks": 2
+      },
+      {
+        "point": "AIDA stages",
+        "marks": 1.5
+      },
+      {
+        "point": "Influencer funnel and trust point",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "DR-1-19",
+    "node": "DR-1",
+    "unit": "Retail Management Unit 5",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "hard",
+    "question": "(a) Compare the benefits of social commerce for shoppers and for retailers. (3) (b) Explain four challenges and trends in social commerce. (2) (c) A fictional brand pays an influencer ₹6,00,000. The campaign sends 80,000 visits to its social store, with 3% conversion, an average order value of ₹900 and a gross margin of 40%. Compute orders, revenue, gross margin, net gain after the fee, the break-even number of orders and the break-even conversion rate. Interpret. (5)",
+    "model_answer": "**(a)** **Shoppers:** informed purchases through reviews and feedback; information sharing and recommendations; feeling part of a community; transparency; group buying, vouchers and latest deals; a single log-in. **Retailers:** reach a vast audience in one place; insight into popular products; chance to act on negative reviews and regain trust; word-of-mouth referral that raises demand and profit; a closer customer relationship; product and shopper data for marketing decisions; higher demand, sales and profit.\n\n**(b) Challenges (any four):** privacy and platform security issues; keeping customers engaged and offering a united shopping experience; tools change rapidly; hidden soft costs; strong relationships take time; customers can voice disappointment publicly and hurt the reputation; usability testing is complex and needs advanced skills; effective analytics need domain knowledge. **Trend:** movement away from traditional media.\n\n**(c) Numbers.**\n- Orders = 80,000 x 3% = **2,400**.\n- Revenue = 2,400 x ₹900 = **₹21,60,000**.\n- Gross margin = 40% = **₹8,64,000**.\n- Net gain = 8,64,000 - 6,00,000 = **₹2,64,000** (44% return on the fee).\n- Margin per order = ₹360; break-even orders = 6,00,000 ÷ 360 = 1,666.7, so **1,667 orders**.\n- Break-even conversion = 1,667 ÷ 80,000 = **about 2.08%**.\n\n**Interpretation:** the campaign is profitable with a buffer, since conversion could fall from 3% to about 2.1% before it loses money. Orders are only the first-purchase gain; repeat buying and the customer data collected add value, while returns, discounts and a lower real conversion would reduce it. Measure by orders, not likes.",
+    "marking_scheme": [
+      {
+        "point": "Shopper benefits and retailer benefits",
+        "marks": 3
+      },
+      {
+        "point": "Four challenges and trend",
+        "marks": 2
+      },
+      {
+        "point": "Orders, revenue, margin",
+        "marks": 1.5
+      },
+      {
+        "point": "Net gain",
+        "marks": 0.5
+      },
+      {
+        "point": "Break-even orders and conversion",
+        "marks": 1.5
+      },
+      {
+        "point": "Interpretation",
+        "marks": 1.5
+      }
+    ]
+  },
+  {
+    "id": "DR-3-10",
+    "node": "DR-3",
+    "unit": "Retail Management Unit 5",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "hard",
+    "question": "Ethical AI caselet 'Move Fast but Without Bias' (Harvard Business Publishing UV8553), with reference to retail. (a) What ethical problems can arise when AI is developed rapidly, and how can biased data affect customers? (3) (b) Who should be responsible for AI decisions, should speed or responsible development come first, and how can a retailer make AI more transparent? (3) (c) A pricing engine offers a discount to 3,000 of 5,000 shoppers in area A and to 1,500 of 5,000 shoppers in area B. Compute the offer rates and their ratio and interpret. (4)",
+    "model_answer": "**(a) Problems with rapid AI development:** testing and bias checks are skipped to ship fast; training data may reflect past inequity; privacy and consent shortcuts; weak data security; no way to explain results; harm is discovered after launch. **Biased data affects customers** through unfair offers, prices or credit, wrongly flagged fraud, poorer recommendations for under-represented groups, and loss of trust. Retail examples: personalised pricing that disadvantages an area, or a chatbot that serves some languages poorly.\n\n**(b) Responsibility** lies with people, not the algorithm: the board and management who deploy it, the product team and data scientists who build it, and the retailer (not the vendor) before customers. **Speed or responsibility:** a false choice; the slide's logic is Innovation + Responsibility = Sustainable AI. Speed with no safeguards creates legal and reputational cost, so build checks into the process (bias audit before launch, pilot, human review). **Transparency:** disclose where AI is used, explain recommendations ('because you bought...'), allow opt-out and human appeal, document data sources, and audit the models regularly.\n\n**(c) Numbers.** Area A rate = 3,000 ÷ 5,000 = **60%**; area B = 1,500 ÷ 5,000 = **30%**; ratio B to A = 30 ÷ 60 = **0.5**. **Interpretation:** B shoppers get discounts at half A's rate. This is a warning sign (a commonly used benchmark treats a ratio below 0.8 as a possible adverse impact), but it is not proof of bias: check whether legitimate factors (purchase history, stock, cost to serve) explain it, test with the model's inputs, and correct or retrain if area or a proxy for a protected group is driving the result.",
+    "marking_scheme": [
+      {
+        "point": "Problems of rapid development and effect of biased data",
+        "marks": 3
+      },
+      {
+        "point": "Responsibility, speed versus responsibility, transparency",
+        "marks": 3
+      },
+      {
+        "point": "Offer rates 60% and 30%",
+        "marks": 1
+      },
+      {
+        "point": "Ratio 0.5",
+        "marks": 1
+      },
+      {
+        "point": "Interpretation (warning not proof, investigate)",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "DR-2-14",
+    "node": "DR-2",
+    "unit": "Retail Management Unit 5",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "hard",
+    "question": "(a) Explain the four types of retail analytics with an umbrella example for each, and why value and complexity rise from descriptive to prescriptive. (4) (b) Describe the integrated technology flow from POS to supply chain. (2) (c) A store sold 400 umbrellas last week and 460 this week. A rain forecast is expected to lift next week's demand 20% above this week's. The store wants 10% safety stock above forecast demand. The ERP shows 500 units on hand. Compute the growth rate, forecast demand, the stock to hold, and the order quantity. Then the RFID count shows only 470 units on the shelves and in the stockroom: recompute the order and name the problem. (4)",
+    "model_answer": "**(a)** **Descriptive** (what happened?): 'Sales increased by 15%.' **Diagnostic** (why did it happen?): 'Because of a festival promotion.' **Predictive** (what is likely to happen?): 'Umbrella demand may rise next week.' **Prescriptive** (what should we do?): 'Increase umbrella inventory by 20%.' Each step answers a harder question and needs more data, models and judgement, but changes decisions more, so value and complexity rise together.\n\n**(b)** POS (sale recorded), ERP (inventory updated through one shared database), analytics (sales analysed), AI (demand predicted), supply chain (stock replenished). The result is a connected retail ecosystem in which every function sees the same real-time data.\n\n**(c) Numbers.**\n- Growth = (460 - 400) ÷ 400 = **15%** (descriptive).\n- Forecast = 460 x 1.20 = **552** units (predictive).\n- Stock to hold = 552 x 1.10 = 607.2, so **608** units.\n- Order using ERP = 608 - 500 = **108** units (prescriptive).\n- With the RFID count of 470: order = 608 - 470 = **138** units. The ERP overstated stock by 30 units: **phantom inventory**, so the system's figure was wrong and the store would have run short by 30.\n\n**Lesson:** a prescriptive decision is only as good as the data under it; RFID accuracy improves the ERP record.",
+    "marking_scheme": [
+      {
+        "point": "Four types with examples",
+        "marks": 3
+      },
+      {
+        "point": "Why value and complexity rise",
+        "marks": 1
+      },
+      {
+        "point": "Integrated flow of five steps",
+        "marks": 2
+      },
+      {
+        "point": "Growth, forecast and stock to hold",
+        "marks": 2.5
+      },
+      {
+        "point": "Order quantities 108 and 138",
+        "marks": 1
+      },
+      {
+        "point": "Phantom inventory insight",
+        "marks": 0.5
+      }
+    ]
+  },
+  {
+    "id": "DR-2-15",
+    "node": "DR-2",
+    "unit": "Retail Management Unit 5",
+    "type": "case",
+    "marks": 15,
+    "difficulty": "hard",
+    "question": "**Case: the supermarket dashboard that does not add up.** A supermarket's monthly dashboard shows: **Sales ₹10 lakh, Footfall 20,000, Conversion 25%, Average basket ₹2,000, Returns 4%.** Assume all figures are for the same month and returns are 4% of sales value.\n\n(a) Check the logic of the dashboard and show the inconsistency. (3)\n(b) State three possible true figures that would make the dashboard consistent, and say which you would check first and how. (4)\n(c) Compute the returns value on the corrected sales figure, and on the stated figure. Also compute net sales and sales per visitor on the corrected base. (4)\n(d) List the decisions the retailer can make from this data, classifying two of them as descriptive, diagnostic, predictive or prescriptive. (4)",
+    "model_answer": "**(a) Logic check.** Buyers = 20,000 x 25% = **5,000**. Sales = 5,000 x ₹2,000 = **₹1,00,00,000 = ₹1 crore**, ten times the stated ₹10 lakh. The dashboard is internally inconsistent: at least one of the four figures is wrong (or measured over a different period).\n\n**(b) Possible true figures (change one input only):**\n1. **Sales is really ₹1 crore** (a lost zero in reporting): 5,000 x 2,000 = ₹1 crore.\n2. **Average basket is really ₹200**: 5,000 x 200 = ₹10 lakh. (A ₹200 basket suits a small-ticket convenience format; ₹2,000 would suit a bulk or monthly shop.)\n3. **Conversion is really 2.5%**: 20,000 x 2.5% = 500 buyers x ₹2,000 = ₹10 lakh. (25% is high for a store where many visitors only browse, while 2.5% is very low for a supermarket.)\n\n**Check first** the POS bill count: 5,000 bills means sales or basket is the error; about 500 bills means conversion is wrong. Reconcile sales totals at source, and confirm that footfall (door counters) and sales cover the same period and exclude staff and repeat entries.\n\n**(c) Returns (4%).**\n- Corrected base ₹1 crore: returns = ₹1,00,00,000 x 4% = **₹4,00,000**; net sales = **₹96,00,000**; sales per visitor = 1,00,00,000 ÷ 20,000 = **₹500**.\n- Stated base ₹10 lakh: returns = **₹40,000**, ten times smaller.\n- The ₹3.6 lakh difference shows how a data error flows into every downstream measure. (If the true sales are ₹10 lakh, net sales are ₹9.6 lakh.)\n\n**(d) Decisions.**\n- **Data governance first:** fix and reconcile the data before using it for decisions (a dashboard that fails a simple check should not drive investment). This is the **descriptive** layer: what the dashboard reports.\n- **Diagnostic:** why returns are 4% (₹4 lakh): by category, supplier, store and cashier, and whether returns are quality or size related.\n- **Conversion:** if 25% is real, raise basket size through cross-selling and bundles; if 2.5%, address queues, availability and layout to convert more of the 20,000 visitors. This is **prescriptive**.\n- **Predictive:** forecast footfall and demand from POS and footfall history to staff and stock better.\n- **Reduce returns:** quality checks, clear labelling and supplier action; every 1 point of return rate on ₹1 crore is ₹1 lakh.\n- **Technology:** POS plus ERP integration so sales, footfall and returns reconcile automatically.\n\nThe key lesson of the slide: always check the logic of numbers (visitors x conversion x basket = sales) before analysing them, and ask what the true figure might be.",
+    "marking_scheme": [
+      {
+        "point": "Buyers 5,000 and sales ₹1 crore, inconsistency stated",
+        "marks": 3
+      },
+      {
+        "point": "Three possible true figures (sales 1 crore, basket 200, conversion 2.5%)",
+        "marks": 3
+      },
+      {
+        "point": "How to check (POS bills, period and counting)",
+        "marks": 1
+      },
+      {
+        "point": "Returns on corrected base ₹4 lakh and stated ₹40,000",
+        "marks": 2
+      },
+      {
+        "point": "Net sales and sales per visitor",
+        "marks": 2
+      },
+      {
+        "point": "Decisions listed (at least four, relevant)",
+        "marks": 2
+      },
+      {
+        "point": "Classification of two decisions by analytics type",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "DR-5-04",
+    "node": "DR-5",
+    "unit": "Retail Management Unit 5",
+    "type": "case",
+    "marks": 15,
+    "difficulty": "hard",
+    "question": "**Case: 'Your Retail Store Has a Problem!'** A mid-sized store (fictional, 'Greenfield Stores') suffers from: **overstocking, customer complaints, high energy costs, long checkout queues and rising e-commerce competition.** The board gives a **technology budget of ₹50 lakh** to be allocated among **RFID, ERP, AI, POS, sustainability and smart-store technology.**\n\n(a) Link each problem to its likely cause and to the technology that addresses it. (4)\n(b) Give your allocation in ₹ lakh across the six areas, summing to exactly ₹50 lakh, and justify each amount against the problems. (5)\n(c) Give a phasing plan with a success measure for each problem. (3)\n(d) State two risks (including an ethical one) and one thing you would not fund. (3)",
+    "model_answer": "**(a) Problem to technology map.**\n\n| Problem | Likely cause | Technology |\n|---|---|---|\n| Overstocking | Poor demand forecasts, inaccurate stock records, slow replenishment | RFID (accurate counts), ERP (single stock view), AI (demand forecasting) |\n| Customer complaints | Stock-outs, wrong prices, slow service, poor follow-up | ERP and RFID (availability), AI chatbot and feedback analysis |\n| High energy costs | Inefficient lighting and cooling, no monitoring | Sustainability: LED, smart meters, efficient refrigeration |\n| Long checkout queues | Few or slow billing counters | POS (modern or mobile POS), smart-store tech (self-checkout) |\n| E-commerce competition | No online or omnichannel offer, no personalisation | ERP with POS (unified inventory), AI personalisation, smart-store experience |\n\n**(b) Model allocation (total ₹50 lakh).**\n\n| Area | ₹ lakh | Justification |\n|---|---|---|\n| RFID | 10 | Overstocking and complaints rest on inaccurate stock; start with high-value, fast-moving categories |\n| ERP | 10 | The backbone: one shared database for purchasing, inventory, finance; needed for replenishment and omnichannel |\n| POS | 8 | Fixes queues and captures transaction data for analytics |\n| AI | 8 | Demand forecasting (overstocking), chatbot (complaints), personalisation (e-commerce competition) |\n| Smart-store technology | 8 | Self-checkout and shelf technology cut queues and give a differentiated experience |\n| Sustainability | 6 | Energy-efficient lighting and cooling, with quick payback on energy bills |\n| **Total** | **50** | 10 + 10 + 8 + 8 + 8 + 6 = 50 |\n\n**Logic:** the largest sums go to the data foundation (RFID and ERP, 40% of the budget) because AI and smart stores are only as good as the data beneath them; each problem is addressed by at least one area, and no money is spread thinly over a technology that solves no stated problem. Any allocation that sums to ₹50 lakh and is justified against the five problems earns the marks.\n\n**(c) Phasing and measures.**\n- **Months 0 to 3:** POS and sustainability (quick wins). Measures: average queue time and energy cost per month.\n- **Months 3 to 9:** ERP and RFID pilot. Measures: stock accuracy and stock-to-sales ratio (overstocking).\n- **Months 9 to 15:** AI and smart-store tech, using the clean data. Measures: forecast error (MAPE), complaints per 1,000 bills, online conversion rate or online share of sales.\n\n**(d) Risks.** (1) **Integration and adoption risk**: tools that do not talk to each other, or untrained staff, waste money, so the ERP and POS should integrate before the rest. (2) **Ethical and data risk**: AI personalisation uses customer data, so get consent, protect privacy, audit for bias and avoid over-personalisation. **Do not fund** the metaverse showroom or any exploratory technology that solves none of the five problems; and avoid greenwashing by claiming only energy savings that are measured and real.",
+    "marking_scheme": [
+      {
+        "point": "Problem to cause to technology map (all five problems)",
+        "marks": 4
+      },
+      {
+        "point": "Allocation summing to exactly ₹50 lakh",
+        "marks": 2
+      },
+      {
+        "point": "Justification of each amount against problems",
+        "marks": 3
+      },
+      {
+        "point": "Phasing and success measures",
+        "marks": 3
+      },
+      {
+        "point": "Two risks including an ethical one",
+        "marks": 2
+      },
+      {
+        "point": "What not to fund",
+        "marks": 1
+      }
+    ]
   }
 ]
