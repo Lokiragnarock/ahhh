@@ -1,0 +1,769 @@
+[
+  {
+    "id": "CB-1-01",
+    "node": "CB-1",
+    "unit": "SFM Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "An expansion strategy needs ₹400 crore of funds and is expected to give EBIT of ₹100 crore a year. The financing plan raises ₹320 crore as 12.5% debt (interest ₹40 crore) and the rest as equity. The interest cover and the fall in EBIT that would wipe out all cover are, respectively:",
+    "options": [
+      "A) 2.5 times; 40%",
+      "B) 2.5 times; 60%",
+      "C) 0.4 times; 60%",
+      "D) 2.5 times; 150%"
+    ],
+    "answer": "B",
+    "explanation": "Interest cover = EBIT ÷ interest = 100 ÷ 40 = 2.5 times. Cover is wiped out when EBIT falls to the interest bill of ₹40 crore, a fall of (100 - 40) ÷ 100 = 60%. The tempting option, 40%, reports interest as a share of EBIT (40 ÷ 100): that is the part of EBIT already committed to lenders, not the fall that removes the cushion. 0.4 times inverts the ratio (interest ÷ EBIT). A fall of 150% is impossible for EBIT that is positive."
+  },
+  {
+    "id": "CB-1-02",
+    "node": "CB-1",
+    "unit": "SFM Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "In the seven-step strategic planning process (Vision, Mission, Environmental analysis, Goal setting, Strategy formulation, Strategy implementation, Evaluation and control), the step that comes immediately after environmental analysis is:",
+    "options": [
+      "A) Strategy formulation",
+      "B) Mission",
+      "C) Evaluation and control",
+      "D) Goal setting"
+    ],
+    "answer": "D",
+    "explanation": "The order is V-M-E-G-F-I-E: environmental analysis is followed by goal setting, then strategy formulation. The tempting option is strategy formulation, which skips goal setting: strategy is built to reach stated goals, so the goals must be set first once the environment is understood. Mission comes before environmental analysis. Evaluation and control is the last step, but it feeds back into environmental analysis and goals, so the process runs as a loop."
+  },
+  {
+    "id": "CB-1-03",
+    "node": "CB-1",
+    "unit": "SFM Unit 1",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "Distinguish between strategy and policy with an example. List the four components of financial strategy and state the primary objective that ties them together.",
+    "model_answer": "**Strategy vs policy.** Strategy (from the Greek *strategos*, the art of the general) is a comprehensive long-term plan to achieve goals and competitive advantage. Policy is a guideline that keeps decisions consistent while the strategy is implemented.\n\n| | Strategy | Policy |\n|---|---|---|\n| Nature | Long-term direction | Guideline |\n| Answers | \"What\" | \"How\" |\n| Focus | Objectives | Implementation |\n| Stability | Dynamic | Relatively stable |\n\n*Example:* strategy = enter the electric-vehicle business; policy = capex approval limits and hurdle rates for the new plants. Policy implements strategy.\n\n**Four components of financial strategy:**\n1. Investment decisions (capital budgeting).\n2. Financing decisions (capital structure, sources, cost of capital).\n3. Dividend decisions.\n4. Risk management decisions.\n\n**Primary objective:** shareholder wealth maximisation. Profit, revenue growth, survival, liquidity, risk minimisation and sustainability are secondary objectives that serve it.",
+    "marking_scheme": [
+      {
+        "point": "Strategy and policy defined correctly",
+        "marks": 1
+      },
+      {
+        "point": "Contrast table (nature, what vs how, focus, stability)",
+        "marks": 1
+      },
+      {
+        "point": "Example showing policy implements strategy",
+        "marks": 1
+      },
+      {
+        "point": "Four components of financial strategy",
+        "marks": 1
+      },
+      {
+        "point": "Shareholder wealth maximisation as primary objective",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "CB-1-04",
+    "node": "CB-1",
+    "unit": "SFM Unit 1",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Himgiri Hydro Ltd (fictional) has a growth strategy that needs ₹800 crore. Management expects EBIT of ₹150 crore a year, but a poor monsoon year could cut EBIT by 30%. Plan A funds ₹600 crore by 11% debt and the rest by equity. Plan B funds ₹300 crore by 11% debt and the rest by equity. The lenders insist on an interest cover of at least 2 times even in a bad year.\n\nDifferentiate corporate strategy from financing strategy, then test which plan fits the strategy.",
+    "model_answer": "**Corporate vs financing strategy.** Corporate strategy decides *what to do* (which business, markets, how to compete). Financing strategy decides *how to fund it* (sources, cost of capital, debt-equity mix). The two must fit: a sound corporate strategy can fail if the financing is too fragile (the Kingfisher pattern), while a well-matched mix supports it (the Jio pattern: debt, equity and partnerships sized to the rollout).\n\n**Fit test: interest cover = EBIT ÷ interest.** Downside EBIT = 150 × 0.70 = ₹105 crore.\n\n| | Plan A (₹600 cr debt) | Plan B (₹300 cr debt) |\n|---|---|---|\n| Interest at 11% | ₹66 crore | ₹33 crore |\n| Cover, base EBIT 150 | 2.27 times | 4.55 times |\n| Cover, downside EBIT 105 | 1.59 times | 3.18 times |\n| Fall in EBIT that takes cover to 1.0 | 56% | 78% |\n| Meets the 2.0 times floor in the bad year? | No | Yes |\n\n**Decision line and interpretation:** Plan B fits the strategy. Plan A looks fine in the base case (2.27 times) but breaches the lenders' floor in the bad year (1.59 times), so the financing could sink a sound strategy. Plan B costs more equity and dilutes owners, but it survives the downside. Rule: size the debt to what the *downside* EBIT can service, not the base case.",
+    "marking_scheme": [
+      {
+        "point": "Corporate strategy (what) vs financing strategy (how), and need for fit",
+        "marks": 1
+      },
+      {
+        "point": "Interest for each plan",
+        "marks": 1
+      },
+      {
+        "point": "Cover in base and downside cases",
+        "marks": 1
+      },
+      {
+        "point": "Comparison against the 2.0 times floor / break-even EBIT fall",
+        "marks": 1
+      },
+      {
+        "point": "Decision for Plan B with downside-based interpretation",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "CB-2-01",
+    "node": "CB-2",
+    "unit": "SFM Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A project costs ₹3,00,000 and gives equal cash inflows of ₹80,000 a year for 5 years. The risk-free rate is 7% and the risk premium for this project is 3%. Annuity factors for 5 years: 3% = 4.580, 7% = 4.100, 10% = 3.791. Using the risk adjusted discount rate method, the NPV is:",
+    "options": [
+      "A) +₹3,280",
+      "B) +₹28,000",
+      "C) +₹1,00,000",
+      "D) +₹66,400"
+    ],
+    "answer": "A",
+    "explanation": "RADR = Rf + premium = 7% + 3% = 10%. PV = 80,000 × 3.791 = ₹3,03,280, so NPV = 3,03,280 - 3,00,000 = +₹3,280 (accept, but thin). The tempting option, +₹28,000, discounts at the risk-free 7% (80,000 × 4.100 = 3,28,000) and so ignores the premium. +₹1,00,000 does not discount at all (4,00,000 - 3,00,000). +₹66,400 uses the premium alone (3%) as the discount rate (80,000 × 4.580 = 3,66,400)."
+  },
+  {
+    "id": "CB-2-02",
+    "node": "CB-2",
+    "unit": "SFM Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "hard",
+    "question": "A greenfield plant using a first-of-its-kind technology is being appraised. Rf = 7%, β = 1.2, market return = 12%. Capital structure: 75% equity, 25% debt at 9% pre-tax; tax rate 30%. The firm adds a premium of 2% for greenfield risk and 3% for unproven technology on top of its WACC. The RADR is closest to:",
+    "options": [
+      "A) 17.00%",
+      "B) 11.33%",
+      "C) 16.33%",
+      "D) 18.00%"
+    ],
+    "answer": "C",
+    "explanation": "CAPM: ke = 7% + 1.2 × (12% - 7%) = 13%. WACC = 0.75 × 13% + 0.25 × 9% × (1 - 0.30) = 9.75% + 1.575% = 11.325%. RADR = 11.325% + 2% + 3% = 16.325%, about 16.33%. The tempting option, 17.00%, uses the pre-tax cost of debt, forgetting that interest is tax deductible. 11.33% stops at the WACC and adds no project premium, which suits only an average-risk project. 18.00% adds the premium to the cost of equity and ignores the debt in the mix."
+  },
+  {
+    "id": "CB-2-03",
+    "node": "CB-2",
+    "unit": "SFM Unit 1",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Evaluate the following project using the risk adjusted discount rate method (3-decimal discount factors; 12% factors for years 1 to 5 are 0.893, 0.797, 0.712, 0.636, 0.567). Investment ₹3,20,000; expected cash inflows ₹70,000, ₹80,000, ₹90,000, ₹1,00,000 and ₹1,10,000 over 5 years. Risk-free rate 8%, risk premium 4%.",
+    "model_answer": "1. RADR = Rf + risk premium = 8% + 4% = **12%**.\n2. Formula: NPV = Σ CF_t × DF_t - I, with factors from the 12% table.\n\n| Year | Cash flow (₹) | DF at 12% | PV (₹) |\n|---|---|---|---|\n| 1 | 70,000 | 0.893 | 62,510 |\n| 2 | 80,000 | 0.797 | 63,760 |\n| 3 | 90,000 | 0.712 | 64,080 |\n| 4 | 1,00,000 | 0.636 | 63,600 |\n| 5 | 1,10,000 | 0.567 | 62,370 |\n| **Total PV** | | | **3,16,320** |\n| Less investment | | | 3,20,000 |\n| **NPV** | | | **-₹3,680** |\n\n**Decision line and interpretation:** NPV is negative at -₹3,680, so **reject**. The project earns slightly less than the 12% needed for its risk (its IRR is below 12%). The shortfall is small (1.1% of the outlay), so a lower premium of 1 point would flip the decision; the answer is only as good as the 4% premium. Note that RADR puts all the risk into one rate.",
+    "marking_scheme": [
+      {
+        "point": "RADR = Rf + premium = 12%",
+        "marks": 1
+      },
+      {
+        "point": "PV of each cash flow with correct 12% factors",
+        "marks": 2
+      },
+      {
+        "point": "Total PV and NPV",
+        "marks": 1
+      },
+      {
+        "point": "Decision with interpretation (IRR below RADR, sensitivity to premium)",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "CB-2-04",
+    "node": "CB-2",
+    "unit": "SFM Unit 1",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "What is risk in project appraisal? Name the six sources of risk with one example each, and explain how the risk premium enters the risk adjusted discount rate.",
+    "model_answer": "**Risk** is the uncertainty about future cash flows or returns: actual may differ from expected. Higher risk demands a higher return, and the extra return demanded is the **risk premium**.\n\n**Six sources (P-C-I-C-M-I):**\n\n| Source | Illustration |\n|---|---|\n| Project-specific | A solar plant delayed by land or grid-connection problems |\n| Company-specific | A software firm losing key staff to a rival |\n| Industry-specific | Drug approvals for pharma; the shift to electric vehicles in autos |\n| Competition | Streaming platforms competing for the same subscribers |\n| Market | Interest-rate hikes, inflation, exchange rates, tax changes |\n| International | Supply-chain disruption or trade restrictions |\n\n**Risk premium in RADR.** RADR = Rf + risk premium. Expected cash flows are discounted at the RADR, and the project is accepted if NPV > 0 (equivalently IRR > RADR). In India Rf is the G-Sec yield. A defensible rate is built in steps: CAPM cost of equity, then WACC, then a project premium over WACC, with each increment tied to a named risk (greenfield, new geography, unproven technology, execution slippage).\n\n**Weakness:** (1 + k)^t compounds one rate over time, so RADR cannot show a project that is risky early and safe later; that is why it is paired with the certainty equivalent method.",
+    "marking_scheme": [
+      {
+        "point": "Risk and risk premium defined",
+        "marks": 1
+      },
+      {
+        "point": "Six sources named",
+        "marks": 1
+      },
+      {
+        "point": "Examples for the sources",
+        "marks": 1
+      },
+      {
+        "point": "RADR = Rf + premium and decision rule",
+        "marks": 1
+      },
+      {
+        "point": "Premium built up step by step, or weakness of RADR",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "CB-2-05",
+    "node": "CB-2",
+    "unit": "SFM Unit 1",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "hard",
+    "question": "Palmyra Engineering Ltd (fictional) is comparing two independent projects. Use 3-decimal factors: 11% factors for years 1 to 5 are 0.901, 0.812, 0.731, 0.659, 0.593; the 10% annuity factor for 5 years is 3.791.\n\n| | Project X | Project Y |\n|---|---|---|\n| Investment | ₹4,90,000 | ₹4,00,000 |\n| Cash inflows | ₹1,00,000; 1,20,000; 1,40,000; 1,40,000; 1,50,000 (years 1 to 5) | ₹1,10,000 a year for 5 years |\n| Risk-free rate | 6% | 5% |\n| Risk premium | 5% | 5% |\n\n(a) Compute the NPV of X by RADR and state the decision. (4)\n(b) Compute the NPV of Y by RADR and state the decision. (2)\n(c) For Y, find the annual cash flow at which NPV is exactly zero and the percentage fall in the expected cash flow that the project can absorb. (2)\n(d) State one reason the RADR answer for X may overstate its safety. (2)",
+    "model_answer": "**(a) Project X.** RADR = 6% + 5% = **11%**.\n\n| Year | Cash flow (₹) | DF at 11% | PV (₹) |\n|---|---|---|---|\n| 1 | 1,00,000 | 0.901 | 90,100 |\n| 2 | 1,20,000 | 0.812 | 97,440 |\n| 3 | 1,40,000 | 0.731 | 1,02,340 |\n| 4 | 1,40,000 | 0.659 | 92,260 |\n| 5 | 1,50,000 | 0.593 | 88,950 |\n| **Total PV** | | | **4,71,090** |\n\nNPV = 4,71,090 - 4,90,000 = **-₹18,910**. Negative, so **reject X**: it earns less than the 11% required for its risk.\n\n**(b) Project Y.** RADR = 5% + 5% = **10%**. The cash flows are equal, so use the annuity factor: PV = 1,10,000 × 3.791 = **₹4,17,010**. NPV = 4,17,010 - 4,00,000 = **₹17,010**. Positive, so **accept Y**.\n\n**(c) Break-even.** Annual cash flow for NPV = 0 = 4,00,000 ÷ 3.791 = **₹1,05,513** (rounded). Fall that can be absorbed = (1,10,000 - 1,05,513) ÷ 1,10,000 = **4.1%**. The cushion is thin: Y is accepted, but a 4% shortfall in cash flow, or a premium about one point higher, would remove the margin.\n\n**(d) Overstated safety (any one).** RADR compounds a single rate, so it assumes risk rises smoothly with time; if X's risk is concentrated in later years (flows of ₹1,40,000 and ₹1,50,000 in years 4 and 5), the 11% may not charge enough for the distant flows. The 5% premium is a judgement not derived from CAPM and WACC. The certainty equivalent method, with a separate CEF for each year, would test this.\n\n**Conclusion:** accept Y, reject X, on the stated premiums.",
+    "marking_scheme": [
+      {
+        "point": "(a) PV of each flow with 11% factors",
+        "marks": 2
+      },
+      {
+        "point": "(a) NPV of X and decision",
+        "marks": 2
+      },
+      {
+        "point": "(b) Annuity factor, NPV of Y and decision",
+        "marks": 2
+      },
+      {
+        "point": "(c) Break-even cash flow and percentage cushion",
+        "marks": 2
+      },
+      {
+        "point": "(d) Reason RADR may overstate safety",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "CB-3-01",
+    "node": "CB-3",
+    "unit": "SFM Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A project costs ₹1,45,000 and is expected to return ₹2,20,000 after one year. Management sets a certainty equivalent factor of 0.75 for the flow. The risk-free rate is 10% and the project's RADR would be 15%. Using exact discounting, the NPV by the certainty equivalent method is:",
+    "options": [
+      "A) +₹5,000",
+      "B) -₹1,522",
+      "C) +₹20,000",
+      "D) +₹55,000"
+    ],
+    "answer": "A",
+    "explanation": "Certain cash flow = 2,20,000 × 0.75 = ₹1,65,000. Discount at the **risk-free** rate: 1,65,000 ÷ 1.10 = ₹1,50,000. NPV = 1,50,000 - 1,45,000 = +₹5,000 (accept). The tempting option, -₹1,522, discounts the certain flow at the 15% RADR (1,65,000 ÷ 1.15 = 1,43,478): that charges for the same risk twice, once in the numerator and again in the rate. +₹20,000 does not discount at all. +₹55,000 discounts the uncertain, unadjusted ₹2,20,000 at 10%, so it never adjusts the cash flow for risk."
+  },
+  {
+    "id": "CB-3-02",
+    "node": "CB-3",
+    "unit": "SFM Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "hard",
+    "question": "The risk-free rate is 6% and a project's RADR is 10%. The certainty equivalent factor for the year 3 cash flow that makes the CE method give the same value as the RADR method is:",
+    "options": [
+      "A) 0.885",
+      "B) 0.964",
+      "C) 1.118",
+      "D) 0.895"
+    ],
+    "answer": "D",
+    "explanation": "The link is CEF_t = [(1 + Rf) ÷ (1 + k)]^t = (1.06 ÷ 1.10)^3 = 0.9636^3 = 0.895. The tempting option, 0.885, subtracts the 4 point gap and compounds it as (1 - 0.04)^3, which is not the ratio of the two discount factors. 0.964 is the year 1 CEF (the exponent is missing). 1.118 inverts the ratio, which would give a CEF above 1, impossible for a risky flow."
+  },
+  {
+    "id": "CB-3-03",
+    "node": "CB-3",
+    "unit": "SFM Unit 1",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Aravalli Cold Storage Ltd (fictional) is evaluating a ₹100 lakh project. Expected cash flows (₹ lakh) are 30, 35, 40 and 45 for years 1 to 4, with certainty equivalent factors 0.95, 0.90, 0.80 and 0.70. The risk-free rate is 8% (3-decimal factors: 0.926, 0.857, 0.794, 0.735). Evaluate the project by the CE method. Would the decision change if the year 4 CEF were 0.60?",
+    "model_answer": "**Method:** certain CF = expected CF × CEF; discount at the **risk-free rate** (8%); accept if NPV > 0. Risk is handled in the numerator, so the denominator carries only the time value of money.\n\n| Year | Expected CF (₹ lakh) | CEF | Certain CF | DF at 8% | PV (₹ lakh) |\n|---|---|---|---|---|---|\n| 1 | 30 | 0.95 | 28.50 | 0.926 | 26.391 |\n| 2 | 35 | 0.90 | 31.50 | 0.857 | 26.995 |\n| 3 | 40 | 0.80 | 32.00 | 0.794 | 25.408 |\n| 4 | 45 | 0.70 | 31.50 | 0.735 | 23.152 |\n| **Total** | | | | | **101.947** |\n\nNPV = 101.947 - 100 = **+₹1.95 lakh**. Accept: even after cutting each flow to its certain equivalent the project creates value. The cushion is only 1.95 ÷ 101.95 = **1.9%** of the PV of certain inflows.\n\n**Test with CEF 0.60 in year 4:** certain CF = 45 × 0.60 = 27.0; PV = 27.0 × 0.735 = 19.845 against 23.152 before. Total PV = 98.639; NPV = **-1.36 lakh**. The decision **reverses to reject**, so it is fragile to the year 4 risk estimate.\n\n*Assumption: no salvage value, tax or working capital (none given).*",
+    "marking_scheme": [
+      {
+        "point": "Certain CFs = expected CF × CEF",
+        "marks": 1
+      },
+      {
+        "point": "Discounting at Rf with the 3-decimal factors",
+        "marks": 1
+      },
+      {
+        "point": "Total PV and NPV",
+        "marks": 1
+      },
+      {
+        "point": "Decision and cushion",
+        "marks": 1
+      },
+      {
+        "point": "Year 4 CEF of 0.60 test and reversal",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "CB-3-04",
+    "node": "CB-3",
+    "unit": "SFM Unit 1",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Compare the risk adjusted discount rate method with the certainty equivalent method. State the formula that links them and illustrate it for Rf = 6% and RADR = 10%.",
+    "model_answer": "| Point | RADR | Certainty equivalent |\n|---|---|---|\n| What is adjusted | The denominator (discount rate) | The numerator (cash flows) |\n| Discount rate | Rf + premium (higher) | Rf only |\n| Risk over time | One rate compounds, so risk is assumed to rise steadily | A separate CEF each year, so risk can vary freely |\n| Subjectivity | Choice of the premium | Choice of the CEF for each year |\n| Weakness | Cannot show risk that is front-loaded or falls later | Many judgement inputs |\n\n**Link.** The two give the same value when **CEF_t = [(1 + Rf) ÷ (1 + k)]^t**, where k is the RADR.\n\n**Illustration (Rf 6%, k 10%):** year 1 CEF = 1.06 ÷ 1.10 = **0.964**; year 5 CEF = (1.06 ÷ 1.10)^5 = **0.831**. Using a 10% RADR is therefore the same as assuming the year 5 cash flow is only about 83% certain.\n\n**Preference.** If measured CEFs differ from the implied ones, prefer CE: it separates the time value of money from the price of risk and lets risk vary by year. The commonest error is discounting CE flows at the RADR, which counts risk twice.",
+    "marking_scheme": [
+      {
+        "point": "What each method adjusts and the discount rates",
+        "marks": 1
+      },
+      {
+        "point": "Treatment of time and subjectivity",
+        "marks": 1
+      },
+      {
+        "point": "Link formula stated",
+        "marks": 1
+      },
+      {
+        "point": "Numerical illustration of implied CEFs",
+        "marks": 1
+      },
+      {
+        "point": "Preference and double-counting error",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "CB-4-01",
+    "node": "CB-4",
+    "unit": "SFM Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "A project's NPV is estimated as ₹12 lakh in a boom (probability 0.25), ₹6 lakh in normal conditions (probability 0.45) and -₹8 lakh in a slump (probability 0.30). The expected NPV is:",
+    "options": [
+      "A) ₹3.33 lakh",
+      "B) ₹3.30 lakh",
+      "C) ₹8.10 lakh",
+      "D) ₹10.00 lakh"
+    ],
+    "answer": "B",
+    "explanation": "ENPV = Σ P × NPV = 0.25 × 12 + 0.45 × 6 + 0.30 × (-8) = 3.0 + 2.7 - 2.4 = ₹3.30 lakh. The tempting option, ₹3.33 lakh, is the simple average (12 + 6 - 8) ÷ 3, which ignores the probabilities. ₹8.10 lakh adds the slump term instead of subtracting it (3.0 + 2.7 + 2.4). ₹10.00 lakh is the simple sum of the three NPVs."
+  },
+  {
+    "id": "CB-4-02",
+    "node": "CB-4",
+    "unit": "SFM Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A project's NPV is assumed normally distributed with ENPV ₹60 lakh and standard deviation ₹40 lakh. From the normal table, the area to the left of Z = -1.5 is 0.0668 and the area to the left of Z = -1.0 is 0.1587. The probability that NPV is negative is:",
+    "options": [
+      "A) 93.32%",
+      "B) 15.87%",
+      "C) 6.68%",
+      "D) 66.7%"
+    ],
+    "answer": "C",
+    "explanation": "Z = (0 - 60) ÷ 40 = -1.5. P(NPV < 0) is the left-tail area = 0.0668, or 6.68%. The tempting option, 93.32%, is the area to the right (1 - 0.0668): it is the probability that NPV is positive, not negative. 15.87% uses Z = -1.0, which would be the case if σ were ₹60 lakh. 66.7% is σ ÷ ENPV (the coefficient of variation, 0.667) misread as a probability."
+  },
+  {
+    "id": "CB-4-03",
+    "node": "CB-4",
+    "unit": "SFM Unit 1",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Girnar Packaging Ltd (fictional) has estimated three scenarios for a new line. Strong demand: probability 0.30, NPV ₹40 lakh. Normal: probability 0.50, NPV ₹15 lakh. Weak demand: probability 0.20, NPV -₹25 lakh. Compute the expected NPV, standard deviation, coefficient of variation and the probability of a negative NPV (assume NPV is normally distributed; use the normal table), and comment.",
+    "model_answer": "1. ENPV = Σ P × NPV. 2. Variance = Σ P (NPV - ENPV)². 3. σ = √variance; CV = σ ÷ ENPV; Z = (0 - ENPV) ÷ σ.\n\n| Scenario | P | NPV (₹ lakh) | P × NPV | Deviation | P × deviation² |\n|---|---|---|---|---|---|\n| Strong demand | 0.30 | 40 | 12.00 | 25.5 | 195.075 |\n| Normal | 0.50 | 15 | 7.50 | 0.5 | 0.125 |\n| Weak demand | 0.20 | -25 | -5.00 | -39.5 | 312.050 |\n| **Total** | 1.00 | | **ENPV 14.5** | | **Variance 507.250** |\n\nσ = √507.250 = **₹22.52 lakh**. CV = 22.52 ÷ 14.5 = **1.55**. Z = (0 - 14.5) ÷ 22.52 = **-0.64**; area to the left of -0.64 in the normal table = **0.2611**, so P(NPV < 0) is about **26%**.\n\n**Decision line and interpretation:** ENPV is positive at ₹14.5 lakh, but there is roughly a 26% chance of a loss and a CV of 1.55 (risk is more than the expected return). Accept only if the firm can absorb a loss of up to ₹25 lakh and has no safer alternative with a lower CV. Note that treating a three-point distribution as normal is an approximation.",
+    "marking_scheme": [
+      {
+        "point": "ENPV",
+        "marks": 1
+      },
+      {
+        "point": "Variance and standard deviation",
+        "marks": 1
+      },
+      {
+        "point": "Coefficient of variation",
+        "marks": 1
+      },
+      {
+        "point": "Z and probability of loss from the table",
+        "marks": 1
+      },
+      {
+        "point": "Decision with interpretation",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "CB-4-04",
+    "node": "CB-4",
+    "unit": "SFM Unit 1",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "A board can fund only one of three mutually exclusive projects. Expected NPV and standard deviation (₹ lakh): A: 120 and 36; B: 200 and 90; C: 75 and 15. The board will not accept a project with σ above ₹50 lakh. Compute the coefficient of variation of each, and advise the board. Why is standard deviation alone not enough to rank them?",
+    "model_answer": "**CV = σ ÷ ENPV** (risk per rupee of expected return); lower is better.\n\n| Project | ENPV (₹ lakh) | σ (₹ lakh) | CV | Within the σ limit of 50? |\n|---|---|---|---|---|\n| A | 120 | 36 | 0.30 | Yes |\n| B | 200 | 90 | 0.45 | **No** |\n| C | 75 | 15 | 0.20 | Yes |\n\n**Advice.** B has the highest ENPV but also the highest σ and breaches the board's limit, so it is out. Between A and C, C has the lower CV (0.20 against 0.30): it carries the least risk per rupee of return. A offers ₹45 lakh more ENPV for ₹21 lakh more σ. If the board's priority is risk per rupee, choose **C**; if the firm can bear a σ of ₹36 lakh and wants the larger value, A is defensible. State the criterion used.\n\n**Why not σ alone.** σ measures absolute spread, so it favours small projects (C always looks safest) and cannot compare projects with different ENPVs. CV scales the risk by the return. The biggest ENPV is not automatically best: compare CV, then ask whether the firm can bear the absolute risk.",
+    "marking_scheme": [
+      {
+        "point": "CV of each project",
+        "marks": 2
+      },
+      {
+        "point": "Application of the σ limit (B excluded)",
+        "marks": 1
+      },
+      {
+        "point": "Choice between A and C with the criterion stated",
+        "marks": 1
+      },
+      {
+        "point": "Why σ alone is not enough",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "CB-4-05",
+    "node": "CB-4",
+    "unit": "SFM Unit 1",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "hard",
+    "question": "Project P has expected NPV ₹90 lakh and standard deviation ₹30 lakh; assume NPV is normally distributed. Normal table areas to the left of Z: -3.0 = 0.0013; -2.0 = 0.0228; -1.0 = 0.1587; -1.8 = 0.0359; +1.0 = 0.8413.\n\n(a) Give the ranges that contain about 68% and 95% of outcomes. (2)\n(b) Find P(NPV < 60), P(NPV > 120) and P(NPV < 30). (3)\n(c) Find the probability of a loss (NPV < 0). (1)\n(d) A rival Project Q has the same ENPV but σ = ₹50 lakh. Find its probability of a loss and compare the coefficients of variation. (2)\n(e) Interpret the results for the board. (2)",
+    "model_answer": "**(a)** About 68% lie within ENPV ± 1σ: 90 ± 30 = **₹60 to ₹120 lakh**. About 95% lie within ± 2σ: 90 ± 60 = **₹30 to ₹150 lakh**.\n\n**(b)** Z = (X - ENPV) ÷ σ.\n- P(NPV < 60): Z = (60 - 90) ÷ 30 = -1.0, area = **0.1587 (15.87%)**.\n- P(NPV > 120): Z = +1.0, so 1 - 0.8413 = **0.1587 (15.87%)**.\n- P(NPV < 30): Z = -2.0, area = **0.0228 (2.28%)**.\n\n**(c)** P(NPV < 0): Z = (0 - 90) ÷ 30 = -3.0, area = **0.0013 (0.13%)**: a loss is practically impossible.\n\n**(d)** Project Q: Z = (0 - 90) ÷ 50 = -1.8, area = **0.0359 (3.59%)**. CV of P = 30 ÷ 90 = **0.33**; CV of Q = 50 ÷ 90 = **0.56**.\n\n**(e) Interpretation.** Both have the same ENPV, so the one with the lower σ and CV, **P**, is preferred: its chance of a loss is about 0.1% against 3.6% for Q, and there is about a one-in-six chance (15.87%) that its NPV falls to ₹60 lakh or less, against a much wider spread for Q. A higher σ means a riskier project for the same return. Caveat: NPV is assumed to be normal, which is an approximation, and the figures rest on the estimated σ.",
+    "marking_scheme": [
+      {
+        "point": "(a) 68% and 95% ranges",
+        "marks": 2
+      },
+      {
+        "point": "(b) Three probabilities with Z values",
+        "marks": 3
+      },
+      {
+        "point": "(c) Probability of loss",
+        "marks": 1
+      },
+      {
+        "point": "(d) Q's loss probability and both CVs",
+        "marks": 2
+      },
+      {
+        "point": "(e) Interpretation and preference",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "CB-5-01",
+    "node": "CB-5",
+    "unit": "SFM Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "At a decision node a firm may launch a product or stop (value 0). If launched, demand is high with probability 0.6 (NPV +₹140 lakh) or low with probability 0.4 (NPV -₹70 lakh). The value to take back to the tree at this decision node is:",
+    "options": [
+      "A) ₹35 lakh",
+      "B) ₹84 lakh",
+      "C) ₹0",
+      "D) ₹56 lakh"
+    ],
+    "answer": "D",
+    "explanation": "The launch branch is a chance node: EMV = 0.6 × 140 + 0.4 × (-70) = 84 - 28 = ₹56 lakh. At a decision node take the **maximum** of the alternatives: max(56, 0) = ₹56 lakh, so launch. The tempting option, ₹35 lakh, averages the two outcomes (140 and -70) ignoring their probabilities. ₹84 lakh uses only the favourable branch. ₹0 would be right only if the EMV of launching were negative."
+  },
+  {
+    "id": "CB-5-02",
+    "node": "CB-5",
+    "unit": "SFM Unit 1",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Sahyadri Biotech Ltd (fictional) can run a pilot costing ₹8 lakh, or launch directly. A full launch needs ₹80 lakh. If the pilot succeeds (probability 0.6), demand is high with probability 0.75 (PV of inflows ₹200 lakh) or low with probability 0.25 (PV ₹30 lakh). If the pilot fails (probability 0.4), demand is high with probability 0.15 and low with probability 0.85. Ignore the time value of money. Draw the tree in words, roll it back, and decide.",
+    "model_answer": "Launch NPV: high = 200 - 80 = **+120**; low = 30 - 80 = **-50** (₹ lakh).\n\n**Tree in words.** D1 (square): pilot or direct launch. Pilot (cost 8) leads to a chance node: success (0.6) then D2 launch or stop; failure (0.4) then D3 launch or stop. Direct launch is a chance node on its own.\n\n| Node | Working | EMV (₹ lakh) | Choice |\n|---|---|---|---|\n| D2 launch after success | 0.75(120) + 0.25(-50) = 90 - 12.5 | **+77.5** | Launch (77.5 > 0) |\n| D3 launch after failure | 0.15(120) + 0.85(-50) = 18 - 42.5 | **-24.5** | Stop (0 > -24.5) |\n| Pilot path | 0.6(77.5) + 0.4(0) - 8 | **+38.5** | |\n| Direct launch | P(high) = 0.6 × 0.75 + 0.4 × 0.15 = 0.51; 0.51(120) + 0.49(-50) | **+36.7** | |\n\n**Decision line and interpretation:** run the pilot, because 38.5 > 36.7. The edge is only ₹1.8 lakh, so it is sensitive to the probabilities. The pilot pays because a failed pilot lets the firm **stop and avoid an expected loss of ₹24.5 lakh**. Decision nodes take the maximum, chance nodes the probability-weighted EMV, and the pilot cost is paid whichever way the pilot goes. *(Time value ignored, as stated.)*",
+    "marking_scheme": [
+      {
+        "point": "Launch NPVs and structure of the tree",
+        "marks": 1
+      },
+      {
+        "point": "EMV after success and after failure",
+        "marks": 1
+      },
+      {
+        "point": "Decision nodes: launch after success, stop after failure",
+        "marks": 1
+      },
+      {
+        "point": "Pilot path and direct launch EMVs",
+        "marks": 1
+      },
+      {
+        "point": "Decision with interpretation",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "CB-5-03",
+    "node": "CB-5",
+    "unit": "SFM Unit 1",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "hard",
+    "question": "Vindhya Pharma Ltd (fictional) is deciding between a staged and a direct launch of a new drug. A pilot study costs ₹12 crore. A full launch costs an additional amount that gives NPV of +₹180 crore if demand is high and -₹70 crore if demand is low (these figures already include the launch outlay). The pilot is successful with probability 0.4. If it succeeds, P(high demand) = 0.75; if it fails, P(high demand) = 0.10. Ignore the time value of money.\n\n(a) Roll back the tree: EMV of launching after success and after failure, and the best action at each decision node. (4)\n(b) EMV of the pilot path and of direct launch, and the value of the pilot. (3)\n(c) Extension (beyond the CB-5 worked examples): find the probability of pilot success p at which the firm is indifferent between the pilot path and direct launch (keep the conditional probabilities fixed). (2)\n(d) State one error that would overstate the value of the staged strategy. (1)",
+    "model_answer": "**(a) Roll back (₹ crore).**\n- D2, launch after success: 0.75(180) + 0.25(-70) = 135 - 17.5 = **+117.5**. Stop = 0. Choose **launch**.\n- D3, launch after failure: 0.10(180) + 0.90(-70) = 18 - 63 = **-45.0**. Stop = 0. Choose **stop** (cut off the launch branch).\n\n**(b) Pilot path vs direct launch.**\n- Pilot path = 0.4 × 117.5 + 0.6 × 0 - 12 = 47 - 12 = **+35.0**. The pilot cost is paid whichever way the pilot goes.\n- Direct launch: P(high) = 0.4 × 0.75 + 0.6 × 0.10 = 0.36. EMV = 0.36 × 180 + 0.64 × (-70) = 64.8 - 44.8 = **+20.0**.\n- **Value of the pilot** = 35.0 - 20.0 = **₹15.0 crore**. It arises because a failed pilot lets the firm stop and avoid an expected loss of ₹45 crore.\n\n**(c) Break-even p.** Pilot path = 117.5p - 12. Direct launch: P(high) = 0.10 + 0.65p, so EMV = (0.10 + 0.65p)(180) - (0.90 - 0.65p)(70) = -45 + 162.5p. Setting 117.5p - 12 = -45 + 162.5p gives 33 = 45p, so **p = 0.733** (about 73%). Below this the pilot path is better; above it the firm should launch directly, because when success is very likely the pilot mainly adds its cost and rarely lets the firm stop.\n\n**(d) Overstating errors (any one).** Averaging at a decision node instead of taking the maximum; omitting the pilot cost; letting probabilities not sum to 1; discounting at a RADR and also using pessimistic branch values (double counting risk); ignoring time value without saying so.\n\n**Conclusion:** run the pilot (₹35 crore against ₹20 crore); the tree value above the static launch NPV is the case for staging the project.",
+    "marking_scheme": [
+      {
+        "point": "(a) EMVs after success and failure",
+        "marks": 2
+      },
+      {
+        "point": "(a) Correct choices at the decision nodes",
+        "marks": 2
+      },
+      {
+        "point": "(b) Pilot path, direct launch and value of pilot",
+        "marks": 3
+      },
+      {
+        "point": "(c) Break-even probability with working",
+        "marks": 2
+      },
+      {
+        "point": "(d) One valid error",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "CB-6-01",
+    "node": "CB-6",
+    "unit": "SFM Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "hard",
+    "question": "A 5-year project (annuity factor 3.605 at 12%) costs ₹8,00,000. Base case: 8,000 units at a price of ₹120, variable cost ₹70 a unit and fixed cash cost ₹1,00,000 a year. There is no tax. Treating selling price alone as the variable that changes, the percentage fall in price at which NPV becomes zero is:",
+    "options": [
+      "A) 26.03%",
+      "B) 8.13%",
+      "C) 19.52%",
+      "D) 9.76%"
+    ],
+    "answer": "B",
+    "explanation": "Annual cash flow = 8,000 × 50 - 1,00,000 = ₹3,00,000. Break-even cash flow = 8,00,000 ÷ 3.605 = ₹2,21,914, so the cash flow can fall by ₹78,086. All of that must come from price: ₹78,086 ÷ 8,000 units = ₹9.76, which is 8.13% of ₹120. The tempting option, 26.03%, is the percentage fall in the cash flow, not in the price. 19.52% is the break-even fall in volume (units, not price). 9.76% is the rupee fall (₹9.76) read as a percentage."
+  },
+  {
+    "id": "CB-6-02",
+    "node": "CB-6",
+    "unit": "SFM Unit 1",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Taptee Polymers Ltd (fictional) is appraising a project: investment ₹12,00,000; life 5 years; discount rate 12% (annuity factor 3.605); no tax. Sales 6,000 units at ₹250; variable cost ₹150 a unit; fixed cash cost ₹1,50,000 a year. Compute the base NPV and the break-even value of selling price, variable cost, volume and fixed cost (one variable at a time). Which variable is most critical and what should management do?",
+    "model_answer": "**Base.** Annual cash flow = 6,000 × (250 - 150) - 1,50,000 = **₹4,50,000**. NPV = 4,50,000 × 3.605 - 12,00,000 = **+₹4,22,250**.\n\n**Break-even cash flow** = 12,00,000 ÷ 3.605 = ₹3,32,871, so cash flow can fall by **₹1,17,129** before NPV = 0.\n\n| Variable | Base | Break-even (NPV = 0) | Adverse change that flips the decision |\n|---|---|---|---|\n| Selling price | ₹250 | ₹230.48 | **-7.81%** (fall of ₹19.52) |\n| Variable cost | ₹150 | ₹169.52 | +13.01% |\n| Sales volume | 6,000 | 4,829 units | -19.52% |\n| Fixed cost | ₹1,50,000 | ₹2,67,129 | +78.09% |\n\n(Workings: price falls by 1,17,129 ÷ 6,000; variable cost rises by the same ₹19.52; volume falls by 1,17,129 ÷ 100 = 1,171 units; fixed cost rises by ₹1,17,129.)\n\n**Decision line and interpretation:** the most critical variable is **selling price**: a fall of only 7.8% (₹19.52 from ₹250) wipes out the NPV. Management should protect price (contracts, cost pass-through, brand) before anything else; fixed cost can move by 78% before the project fails. *Limitation:* each variable is changed alone, though price and volume move together, and no probabilities are attached.",
+    "marking_scheme": [
+      {
+        "point": "Base cash flow and NPV",
+        "marks": 1
+      },
+      {
+        "point": "Break-even cash flow and permissible fall",
+        "marks": 1
+      },
+      {
+        "point": "Break-even price and variable cost",
+        "marks": 1
+      },
+      {
+        "point": "Break-even volume and fixed cost",
+        "marks": 1
+      },
+      {
+        "point": "Most critical variable, action and one limitation",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "CB-6-03",
+    "node": "CB-6",
+    "unit": "SFM Unit 1",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "(a) List the steps of a Monte Carlo simulation of project NPV. (b) Illustrate the mechanics with the following set-up: investment ₹8,00,000; 5 years; 12% (annuity factor 3.605); variable cost ₹40 a unit; fixed cash cost ₹80,000 a year; no tax. Volume: random numbers 00-29 give 5,000 units, 30-79 give 6,000, 80-99 give 7,000. Price: 00-19 gives ₹90, 20-69 gives ₹100, 70-99 gives ₹110. Three draws of (volume RN, price RN) are (12, 45), (64, 83) and (91, 07). Compute the NPV for each draw. (c) Why do three draws prove nothing?",
+    "model_answer": "**(a) Steps.** 1. Build the model (NPV as a function of the inputs). 2. Identify the key uncertain variables and give each a probability distribution. 3. Allow for correlation between variables. 4. Draw a random number for each variable and convert it to a value. 5. Compute the NPV for that draw. 6. Repeat many times (1,000 to 10,000). 7. Analyse: ENPV, σ, histogram, P(NPV < 0), percentiles.\n\n**(b) Three draws.**\n\n| Draw | RN volume | RN price | Volume | Price | Annual CF (₹) | NPV (₹) |\n|---|---|---|---|---|---|---|\n| 1 | 12 | 45 | 5,000 | ₹100 | 2,20,000 | -6,900 |\n| 2 | 64 | 83 | 6,000 | ₹110 | 3,40,000 | +4,25,700 |\n| 3 | 91 | 07 | 7,000 | ₹90 | 2,70,000 | +1,73,350 |\n\nAnnual CF = volume × (price - 40) - 80,000; NPV = CF × 3.605 - 8,00,000. The average of the three is ₹1,97,383 and one of the three is negative.\n\n**(c) Why three draws prove nothing.** A real run uses thousands of iterations; P(NPV < 0) is then the fraction of iterations with a negative NPV and the histogram shows the shape of the risk. Three draws only show the mechanics. Limits of the method: it needs software and well-estimated distributions (garbage in, garbage out), and it can give false confidence if the model structure is wrong.",
+    "marking_scheme": [
+      {
+        "point": "Steps of Monte Carlo (any six correct)",
+        "marks": 2
+      },
+      {
+        "point": "Mapping random numbers to volume and price",
+        "marks": 1
+      },
+      {
+        "point": "Cash flows and NPVs for the three draws",
+        "marks": 1
+      },
+      {
+        "point": "Why three draws are not enough, and a limitation",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "CB-6-04",
+    "node": "CB-6",
+    "unit": "SFM Unit 1",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "hard",
+    "question": "Ghataprabha Foods Ltd (fictional) plans a plant costing ₹8,00,000 with a 5-year life, discount rate 12% (annuity factor 3.605) and no tax. Management defines three scenarios with probabilities and narratives.\n\n| | Worst (p 0.2): input-cost spike and a price war | Base (p 0.6) | Best (p 0.2): export contract |\n|---|---|---|---|\n| Volume (units) | 7,000 | 9,000 | 11,000 |\n| Price | ₹90 | ₹100 | ₹105 |\n| Variable cost | ₹62 | ₹58 | ₹55 |\n| Fixed cash cost | ₹1,40,000 | ₹1,20,000 | ₹1,10,000 |\n\n(a) Compute the annual cash flow and NPV in each scenario. (3)\n(b) Compute the expected NPV, standard deviation and coefficient of variation. (3)\n(c) Using the normal table (for reference, the area to the left of Z = -0.26 is 0.3974 and of Z = -0.30 is 0.3821), find the probability of a loss. (2)\n(d) In the base case, by what percentage can the price alone fall before NPV is zero? Why is this a different kind of answer from (a) to (c)? (2)",
+    "model_answer": "**(a) Scenarios** (cash flow = volume × (price - variable cost) - fixed cost; NPV = CF × 3.605 - 8,00,000).\n\n| Scenario | P | Volume | Price | VC | Fixed | Annual CF (₹) | NPV (₹) |\n|---|---|---|---|---|---|---|---|\n| Worst | 0.2 | 7,000 | ₹90 | ₹62 | 1,40,000 | 56,000 | -5,98,120 |\n| Base | 0.6 | 9,000 | ₹100 | ₹58 | 1,20,000 | 2,58,000 | +1,30,090 |\n| Best | 0.2 | 11,000 | ₹105 | ₹55 | 1,10,000 | 4,40,000 | +7,86,200 |\n\n**(b) ENPV, σ, CV.**\n\n| Scenario | P | NPV (₹) | Deviation | P × deviation² |\n|---|---|---|---|---|\n| Worst | 0.2 | -5,98,120 | -7,13,790 | 1,01,89,92,32,820 |\n| Base | 0.6 | +1,30,090 | +14,420 | 12,47,61,840 |\n| Best | 0.2 | +7,86,200 | +6,70,530 | 89,92,20,96,180 |\n| **Total** | 1.0 | **ENPV 1,15,670** | | **Variance 1,91,94,60,90,840** |\n\nσ = √1,91,94,60,90,840 = **₹4,38,117**. CV = 4,38,117 ÷ 1,15,670 = **3.79**.\n\n**(c) Probability of loss.** Z = (0 - 1,15,670) ÷ 4,38,117 = **-0.26**. Area to the left of -0.26 = **0.3974**, so P(NPV < 0) is about **40%**.\n\n**(d) Sensitivity.** Break-even cash flow = 8,00,000 ÷ 3.605 = ₹2,21,914. Base cash flow is ₹2,58,000, so it can fall by ₹36,086. Spread over 9,000 units that is ₹4.01 a unit, or **4.01%** of the ₹100 price. This answers \"which single variable is critical and how far can it move\", with no probabilities; scenario analysis moves a bundle of variables together and gives a range of outcomes with probabilities.\n\n**Decision line and interpretation:** ENPV is positive at ₹1,15,670, but a CV of 3.79 and a 40% chance of loss make it a risky accept; the worst case loses about 75% of the investment. And the base case survives a price fall of only about 4%. Proceed only if the firm can bear a loss near ₹5,98,120 and can protect the price (contracts, cost pass-through).",
+    "marking_scheme": [
+      {
+        "point": "(a) Cash flow and NPV in each scenario",
+        "marks": 3
+      },
+      {
+        "point": "(b) ENPV, variance, σ and CV",
+        "marks": 3
+      },
+      {
+        "point": "(c) Z and probability of loss",
+        "marks": 2
+      },
+      {
+        "point": "(d) Break-even price fall and contrast with scenario analysis",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "CB-7-01",
+    "node": "CB-7",
+    "unit": "SFM Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "In a certainty equivalent appraisal, the PV of certain inflows is ₹215 crore against an investment of ₹195 crore (NPV +₹20 crore). The percentage by which the PV of certain inflows can fall before NPV reaches zero is closest to:",
+    "options": [
+      "A) 9.3%",
+      "B) 10.3%",
+      "C) 90.7%",
+      "D) 20.0%"
+    ],
+    "answer": "A",
+    "explanation": "The cushion is NPV ÷ PV of inflows = 20 ÷ 215 = 9.3%: inflows can fall by that share of their own present value before NPV = 0 (215 × 0.907 = 195). The tempting option, 10.3%, divides by the investment (20 ÷ 195), which expresses the margin against cost, not against the PV that actually falls. 90.7% is the break-even ratio 195 ÷ 215, the level inflows can fall to rather than the fall. 20.0% is the NPV in rupees misread as a percentage."
+  },
+  {
+    "id": "CB-7-02",
+    "node": "CB-7",
+    "unit": "SFM Unit 1",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "Distinguish between sensitivity analysis and scenario analysis. Illustrate both with this project: investment ₹5,00,000; 4 years; 10% (annuity factor 3.170); no tax; 5,000 units at ₹100 with variable cost ₹60 and no fixed cost. For scenarios, worst = 4,000 units at ₹95, best = 6,000 units at ₹105, other inputs unchanged. State one limitation of each.",
+    "model_answer": "| | Sensitivity | Scenario |\n|---|---|---|\n| Variables moved | One at a time, the rest at base | Several together in a coherent story |\n| Output | The critical variable and its break-even value | Best, base and worst NPV (and ENPV if probabilities are given) |\n| Probabilities | None | Subjective, few |\n\n**Sensitivity.** Base cash flow = 5,000 × 40 = ₹2,00,000; NPV = 2,00,000 × 3.170 - 5,00,000 = **+₹1,34,000**. Break-even cash flow = 5,00,000 ÷ 3.170 = ₹1,57,729, a fall of ₹42,271. If it all comes from price: ₹8.45 a unit, or **8.45%** of ₹100. So price can fall only ₹8.45 from ₹100 before the project fails.\n\n**Scenario.**\n\n| Scenario | Volume | Price | Annual CF (₹) | NPV (₹) |\n|---|---|---|---|---|\n| Worst | 4,000 | ₹95 | 1,40,000 | -56,200 |\n| Base | 5,000 | ₹100 | 2,00,000 | +1,34,000 |\n| Best | 6,000 | ₹105 | 2,70,000 | +3,55,900 |\n\nThe range of outcomes runs from -56,200 to +3,55,900: the worst case loses about 11% of the outlay.\n\n**Limitations.** Sensitivity changes one variable though price and volume move together and attaches no probabilities. Scenario uses only a few discrete cases with guessed probabilities and ignores outcomes in between.",
+    "marking_scheme": [
+      {
+        "point": "Contrast: one variable vs several, output, probabilities",
+        "marks": 1
+      },
+      {
+        "point": "Base NPV and break-even cash flow",
+        "marks": 1
+      },
+      {
+        "point": "Break-even price change in business terms",
+        "marks": 1
+      },
+      {
+        "point": "Three scenario NPVs",
+        "marks": 1
+      },
+      {
+        "point": "One limitation of each method",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "CB-7-03",
+    "node": "CB-7",
+    "unit": "SFM Unit 1",
+    "type": "case",
+    "marks": 20,
+    "difficulty": "hard",
+    "question": "**Neelkanth Wind Power Ltd** (fictional) plans a wind farm costing ₹195 million. The project is expected to give cash flows of ₹52M, 58M, 62M, 66M and 70M over years 1 to 5, and a salvage value of ₹30M at the end of year 5. The finance team estimates certainty equivalent factors of 0.96, 0.90, 0.82, 0.72 and 0.62 for the five years. The risk-free rate (G-Sec) is 8%. No risk premium is given; for the RADR comparison assume a premium of 3% and state it as an assumption. Use 3-decimal factors:\n\n| Year | 1 | 2 | 3 | 4 | 5 |\n|---|---|---|---|---|---|\n| DF at 8% | 0.926 | 0.857 | 0.794 | 0.735 | 0.681 |\n| DF at 11% | 0.901 | 0.812 | 0.731 | 0.659 | 0.593 |\n\nA scenario study of tariff outcomes gave these NPVs on the CE basis: tariff cut (probability 0.25) -₹18M; base (0.50) the CE result; tariff upside (0.25) +₹55M. The board wants a recommendation that also considers strategic fit with a sustainability-led corporate strategy.\n\n(a) State the setup and assumptions, including any premium you adopt for the RADR comparison. (2)\n(b) Evaluate the project by the RADR method. (4)\n(c) Evaluate the project by the certainty equivalent method. (4)\n(d) Compare the two methods and reconcile them. (2)\n(e) Compute the expected NPV, standard deviation, coefficient of variation and probability of a loss from the scenario study (use the normal table). (3)\n(f) Give one sensitivity line. (2)\n(g) State the decision. (1)\n(h) Comment on strategic fit and what would change the decision. (2)",
+    "model_answer": "**(a) Setup and assumptions (2).** Investment ₹195M; Rf = 8% (given). The question tells us to **assume a premium of 3%**, so RADR = 11%: an assumption, not data. Salvage is treated as certain (CEF 1) under CE: also an assumption. 3-decimal factors; tax and working capital ignored (none given).\n\n**(b) RADR at 11% on expected flows (4).**\n\n| Year | Expected CF (₹M) | DF at 11% | PV (₹M) |\n|---|---|---|---|\n| 1 | 52 | 0.901 | 46.85 |\n| 2 | 58 | 0.812 | 47.10 |\n| 3 | 62 | 0.731 | 45.32 |\n| 4 | 66 | 0.659 | 43.49 |\n| 5 | 70 | 0.593 | 41.51 |\n| Salvage (year 5) | 30 | 0.593 | 17.79 |\n| **Total PV** | | | **242.06** |\n\nNPV (RADR) = 242.06 - 195 = **+₹47.06M**.\n\n**(c) Certainty equivalent at 8% (4).** Certain CF = expected CF × CEF, discounted at the risk-free rate.\n\n| Year | Expected CF (₹M) | CEF | Certain CF | DF at 8% | PV (₹M) |\n|---|---|---|---|---|---|\n| 1 | 52 | 0.96 | 49.92 | 0.926 | 46.23 |\n| 2 | 58 | 0.90 | 52.20 | 0.857 | 44.74 |\n| 3 | 62 | 0.82 | 50.84 | 0.794 | 40.37 |\n| 4 | 66 | 0.72 | 47.52 | 0.735 | 34.93 |\n| 5 | 70 | 0.62 | 43.40 | 0.681 | 29.56 |\n| Salvage (CEF 1 assumed) | 30 | 1.00 | 30.00 | 0.681 | 20.43 |\n| **Total PV** | | | | | **216.24** |\n\nNPV (CE) = 216.24 - 195 = **+₹21.24M**.\n\n**(d) Reconcile (2).** The methods agree on the decision (both positive), but not on the margin: CE gives +₹21.24M against +₹47.06M by RADR. The CEF implied by an 11% RADR with Rf 8% is [(1.08) ÷ (1.11)]^t = 0.973, 0.947, 0.921, 0.896, 0.872 for years 1 to 5. The measured CEFs (0.96, 0.90, 0.82, 0.72, 0.62) are about equal in year 1 and fall much faster after that, so the CE method is the harsher one: it says later flows are riskier than a steady 11% assumes. The RADR that would reproduce the CE answer is about **15.2%** (a premium of roughly 7%). Where the methods differ, prefer CE, because it lets risk vary by year.\n\n**(e) Probabilistic block (3).** Base NPV = 21.2.\n\n| Scenario | P | NPV (₹M) | P × NPV | Deviation | P × deviation² |\n|---|---|---|---|---|---|\n| Tariff cut | 0.25 | -18.0 | -4.50 | -37.85 | 358.16 |\n| Base | 0.50 | +21.2 | +10.60 | +1.35 | 0.91 |\n| Tariff upside | 0.25 | +55.0 | +13.75 | +35.15 | 308.88 |\n| **Total** | 1.00 | | **ENPV 19.85** | | **Variance 667.95** |\n\nσ = √667.95 = **₹25.84M**; CV = 25.84 ÷ 19.85 = **1.30**; Z = (0 - 19.85) ÷ 25.84 = **-0.77**; area to the left of -0.77 = **0.2206**, so P(NPV < 0) is about **22%**.\n\n**(f) Sensitivity line (2).** The PV of certain inflows can fall by 21.24 ÷ 216.24 = **9.8%** before CE-NPV reaches zero. If the salvage CEF were 0.6 instead of 1, PV would fall by 30 × 0.4 × 0.681 = ₹8.17M and NPV would be about **+₹13.07M**, still positive. (For reference, the IRR of the expected flows including salvage is about 19.3%.)\n\n**(g) Decision (1).** **Accept.** NPV is positive under both methods; on the more cautious CE basis it is +₹21.24M.\n\n**(h) Strategic fit and implications (2).** A wind farm fits a sustainability-led corporate strategy and can be funded through green financing, but the financing should not be so geared that a delay (a project-specific risk) breaks interest cover. The cushion is only about 10% of PV and the scenario study shows a 22% chance of loss, so a tariff cut (market and regulatory risk) is the main threat. A power-purchase agreement fixing the tariff would raise the CEFs and widen the margin; without it the decision would change if realised flows fall by more than the cushion.\n\n**Closing line:** accept the project; the recommendation holds on the stated CEFs and the assumed 3% premium, and it survives a 9.8% fall in the PV of certain inflows.",
+    "marking_scheme": [
+      {
+        "point": "(a) Setup, Rf, assumed premium, salvage assumption",
+        "marks": 2
+      },
+      {
+        "point": "(b) RADR NPV with table and total",
+        "marks": 4
+      },
+      {
+        "point": "(c) CE NPV with table and total",
+        "marks": 4
+      },
+      {
+        "point": "(d) Implied CEFs and reconciliation; preference for CE",
+        "marks": 2
+      },
+      {
+        "point": "(e) ENPV, σ, CV, Z and probability of loss",
+        "marks": 3
+      },
+      {
+        "point": "(f) Cushion and salvage sensitivity",
+        "marks": 2
+      },
+      {
+        "point": "(g) Decision",
+        "marks": 1
+      },
+      {
+        "point": "(h) Strategic fit, one named risk, what would change the decision",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "CB-7-04",
+    "node": "CB-7",
+    "unit": "SFM Unit 1",
+    "type": "case",
+    "marks": 20,
+    "difficulty": "hard",
+    "question": "**Brahmaputra Cold Chain Ltd** (fictional) plans a ₹425 lakh cold-storage and reefer-transport network for a food exporter. Expected annual cash flows (₹ lakh) and their standard deviations are:\n\n| Year | 1 | 2 | 3 | 4 |\n|---|---|---|---|---|\n| Expected cash flow | 130 | 150 | 150 | 140 |\n| Standard deviation | 13 | 30 | 45 | 62 |\n\nThe risk-free rate is 7% and the firm's RADR for projects of this type is 12% (Rf 7% plus a 5% premium). 3-decimal factors: at 7% 0.935, 0.873, 0.816, 0.763; at 12% 0.893, 0.797, 0.712, 0.636. Set the certainty equivalent factors from the coefficient of variation using this convention (a stated assumption, not a law): CV 0.00-0.07 gives 1.00; 0.08-0.15 gives 0.95; 0.16-0.23 gives 0.90; 0.24-0.32 gives 0.85; 0.33-0.42 gives 0.80; 0.43-0.54 gives 0.75; above 0.54 gives 0.70.\n\n(a) State the setup and assumptions. (2)\n(b) Derive the CEF for each year from the CV. (3)\n(c) Evaluate by the CE method. (3)\n(d) Evaluate by the RADR method. (3)\n(e) Reconcile the two answers using implied CEFs and say which to prefer. (3)\n(f) Give a decision and one modification that would change it, with a number. (3)\n(g) Comment on strategic and financing fit and name one of the six risk sources. (3)",
+    "model_answer": "**(a) Setup (2).** Outlay ₹425 lakh at time 0; four years of cash flows; no salvage, tax or working capital given (none assumed). Rf = 7%, RADR = 12% as given. CEFs come from the stated CV band convention. CE flows are discounted at Rf only (never at the RADR, which would count risk twice).\n\n**(b) CEF from CV = σ ÷ expected CF (3).**\n\n| Year | Expected CF | σ | CV | CEF |\n|---|---|---|---|---|\n| 1 | 130 | 13 | 0.100 | 0.95 |\n| 2 | 150 | 30 | 0.200 | 0.90 |\n| 3 | 150 | 45 | 0.300 | 0.85 |\n| 4 | 140 | 62 | 0.443 | 0.75 |\n\nRisk rises with time, so the CEF falls from 0.95 to 0.75.\n\n**(c) CE method at 7% (3).**\n\n| Year | Expected CF | CEF | Certain CF | DF at 7% | PV |\n|---|---|---|---|---|---|\n| 1 | 130 | 0.95 | 123.50 | 0.935 | 115.47 |\n| 2 | 150 | 0.90 | 135.00 | 0.873 | 117.86 |\n| 3 | 150 | 0.85 | 127.50 | 0.816 | 104.04 |\n| 4 | 140 | 0.75 | 105.00 | 0.763 | 80.11 |\n| **Total PV** | | | | | **417.48** |\n\nNPV (CE) = 417.48 - 425 = **-7.52 lakh**.\n\n**(d) RADR method at 12% (3).**\n\n| Year | Expected CF | DF at 12% | PV |\n|---|---|---|---|\n| 1 | 130 | 0.893 | 116.09 |\n| 2 | 150 | 0.797 | 119.55 |\n| 3 | 150 | 0.712 | 106.80 |\n| 4 | 140 | 0.636 | 89.04 |\n| **Total PV** | | | **431.48** |\n\nNPV (RADR) = 431.48 - 425 = **+6.48 lakh**.\n\n**(e) Reconcile (3).** The methods **disagree**: RADR accepts (+6.48) and CE rejects (-7.52). The CEF implied by Rf 7% and RADR 12% is (1.07 ÷ 1.12)^t = 0.955, 0.913, 0.872, 0.833. Measured CEFs are 0.95, 0.90, 0.85 and 0.75. Years 1 and 2 agree closely; the gap opens in year 3 (0.85 against 0.872) and especially year 4 (0.75 against 0.833), where the cash flow is very uncertain (σ of 62 on 140). The 12% rate charges for risk that rises steadily and so is too generous to the back-end flow. **Prefer CE and reject as it stands**: it separates the time value of money from the price of risk and lets risk vary by year.\n\n**(f) Decision and modification (3).** Reject as currently structured (NPV -7.52 lakh by CE). Modify: sign a long-term offtake contract with the exporter that makes the year 4 flow more certain, lifting its CEF from 0.75 to 0.85. Year 4 PV = 140 × 0.85 × 0.763 = 90.80 against 80.11; new NPV = **+3.16 lakh**, so the project turns marginally positive. Other levers: phase the capex, or cut the outlay.\n\n**(g) Strategic fit (3).** A cold chain suits an export-led food-logistics strategy and supports sustainability (less post-harvest waste), but power cost and utilisation make revenue volatile. The main risk source is **market risk** (demand and power-tariff swings) with a project-specific execution element. The financing should not be so geared that a weak year 4 breaks interest cover; the offtake contract that lifts the CEF also helps lenders. The decision would change if the contract is not signed.\n\n**Closing line:** reject the project as proposed; accept a modified version with a contracted year 4 flow, on the stated CEF convention.",
+    "marking_scheme": [
+      {
+        "point": "(a) Setup and assumptions, Rf for CE and no double counting",
+        "marks": 2
+      },
+      {
+        "point": "(b) CV and CEF for each year",
+        "marks": 3
+      },
+      {
+        "point": "(c) CE NPV with table",
+        "marks": 3
+      },
+      {
+        "point": "(d) RADR NPV with table",
+        "marks": 3
+      },
+      {
+        "point": "(e) Implied CEFs, disagreement explained, preference for CE",
+        "marks": 3
+      },
+      {
+        "point": "(f) Decision and modification with recomputed NPV",
+        "marks": 3
+      },
+      {
+        "point": "(g) Strategic and financing fit with a named risk source",
+        "marks": 3
+      }
+    ]
+  }
+]

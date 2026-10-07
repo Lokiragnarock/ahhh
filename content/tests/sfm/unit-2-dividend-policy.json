@@ -1,0 +1,811 @@
+[
+  {
+    "id": "DV-1-01",
+    "node": "DV-1",
+    "unit": "SFM Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A company has 8,00,000 shares trading at ₹150 and profit of ₹40,00,000 (EPS ₹5). It issues bonus shares in the ratio 1 for every 4 held. The theoretical ex-bonus market price is:",
+    "options": [
+      "A) ₹150.00",
+      "B) ₹120.00",
+      "C) ₹187.50",
+      "D) ₹112.50"
+    ],
+    "answer": "B",
+    "explanation": "New shares = 8,00,000 ÷ 4 = 2,00,000, so shares after = 10,00,000. Market value is unchanged (no cash leaves), so the price = 150 × 8,00,000 ÷ 10,00,000 = ₹120. EPS falls to 40,00,000 ÷ 10,00,000 = ₹4. The tempting option, ₹150, treats the bonus as a free gift that leaves the price alone; but a bonus changes the number of shares, not the value of the firm, so the price must fall. ₹187.50 divides by 0.8 (the wrong direction). ₹112.50 multiplies by 3/4 instead of by 8/10 (4/5)."
+  },
+  {
+    "id": "DV-1-02",
+    "node": "DV-1",
+    "unit": "SFM Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Under Lintner's model a firm's last dividend was ₹6, its target payout is 40% and its speed of adjustment is 0.25. EPS this year is ₹20. The dividend this year is:",
+    "options": [
+      "A) ₹8.00",
+      "B) ₹2.00",
+      "C) ₹6.00",
+      "D) ₹6.50"
+    ],
+    "answer": "D",
+    "explanation": "D_t = D_(t-1) + c × (target payout × E_t - D_(t-1)) = 6 + 0.25 × (0.40 × 20 - 6) = 6 + 0.25 × 2 = ₹6.50. The tempting option, ₹8.00, jumps straight to the target dividend (0.40 × 20); Lintner's firms move only a fraction c of the gap in a year, which is why dividends are smoothed. ₹2.00 is c × target (0.25 × 8) and drops the last dividend. ₹6.00 means no adjustment at all (c = 0)."
+  },
+  {
+    "id": "DV-1-03",
+    "node": "DV-1",
+    "unit": "SFM Unit 2",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Mahanadi Textiles Ltd (fictional) paid ₹5 a share last year. It aims at a target payout of 40% of EPS and adjusts toward it at a speed of c = 0.4. EPS over the next three years is ₹15, ₹18 and ₹10. Find the dividend each year using Lintner's model and comment on what the pattern shows.",
+    "model_answer": "1. Formula: D_t = D_(t-1) + c × (target × E_t - D_(t-1)).\n2. Year 1: target = 0.40 × 15 = 6.00; D = 5 + 0.4 × (6 - 5) = **₹5.40**.\n3. Year 2: target = 0.40 × 18 = 7.20; D = 5.40 + 0.4 × (7.20 - 5.40) = **₹6.12**.\n4. Year 3: target = 0.40 × 10 = 4.00; D = 6.12 + 0.4 × (4.00 - 6.12) = **₹5.272** (about ₹5.27).\n\n| Year | EPS (₹) | Target dividend (₹) | Actual DPS (₹) | Actual payout |\n|---|---|---|---|---|\n| 1 | 15 | 6.00 | 5.400 | 36.0% |\n| 2 | 18 | 7.20 | 6.120 | 34.0% |\n| 3 | 10 | 4.00 | 5.272 | 52.7% |\n\n**Decision line and interpretation:** EPS fell 44% in year 3 (18 to 10) but the dividend fell only about 14% (6.12 to 5.27), and the payout rose to about 53%, above the 40% target. Dividends lag earnings in both directions, so they are rarely cut; managers raise a dividend only when earnings look durable and treat a cut as a serious signal.",
+    "marking_scheme": [
+      {
+        "point": "Formula stated with target and speed of adjustment",
+        "marks": 1
+      },
+      {
+        "point": "Year 1 and year 2 dividends",
+        "marks": 2
+      },
+      {
+        "point": "Year 3 dividend",
+        "marks": 1
+      },
+      {
+        "point": "Interpretation: smoothing, payout above target, cuts are rare",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "DV-1-04",
+    "node": "DV-1",
+    "unit": "SFM Unit 2",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Chenab Cements Ltd (fictional) has 5,00,000 shares at ₹200 (market value ₹10 crore), earnings of ₹1.5 crore (EPS ₹30) and surplus cash of ₹1 crore. It can either (i) pay a cash dividend of ₹20 a share or (ii) buy back shares at ₹200 with the same ₹1 crore. Assume no taxes or transaction costs. Compare the two routes for the share price after the payout, EPS, and the wealth of a holder of 1,000 shares who does not sell. What practical factors separate the two?",
+    "model_answer": "| | (i) Cash dividend ₹20 | (ii) Buyback at ₹200 |\n|---|---|---|\n| Cash paid out | ₹1 crore | ₹1 crore |\n| Shares after | 5,00,000 | 5,00,000 - 50,000 = 4,50,000 |\n| Price after | ₹180 (ex-dividend: 9 crore ÷ 5,00,000) | ₹200 (9 crore ÷ 4,50,000) |\n| EPS after (earnings unchanged) | ₹30 | ₹33.33 (1.5 crore ÷ 4,50,000) |\n| Holder of 1,000 shares who does not sell | 1,000 × 180 + ₹20,000 = **₹2,00,000** | 1,000 × 200 = **₹2,00,000** |\n\nCheck for a holder who sells 100 shares into the buyback: ₹20,000 cash + 900 × 200 = ₹2,00,000. The holder is equally well off.\n\n**Interpretation:** a buyback raises EPS but not wealth: the price per share holds at ₹200 while the dividend route cuts it to ₹180. Under perfect markets the investor is indifferent, which is the MM argument. **Practical differences:** tax treatment of the two receipts (a dividend is received by everyone; a buyback only by those who sell, so it gives investors a choice of timing), signalling (a buyback can signal that management thinks the shares are undervalued), the flexibility of a one-off buyback against the commitment implied by a regular dividend, and legal limits on buyback size. Check the current tax and legal rules before quoting them.",
+    "marking_scheme": [
+      {
+        "point": "Shares and price after each route",
+        "marks": 1
+      },
+      {
+        "point": "EPS after each route",
+        "marks": 1
+      },
+      {
+        "point": "Holder wealth equal under both",
+        "marks": 1
+      },
+      {
+        "point": "Interpretation: EPS up but wealth unchanged, MM link",
+        "marks": 1
+      },
+      {
+        "point": "Practical factors (tax, signalling, flexibility)",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "DV-1-05",
+    "node": "DV-1",
+    "unit": "SFM Unit 2",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "Explain the four types of dividend policy and when a firm uses each. Illustrate the residual policy: a firm earns profit of ₹20 crore and projects that beat its cost of capital need ₹14 crore, financed entirely by retained profit. In the next year the same projects need ₹22 crore. Find the dividend each year and comment.",
+    "model_answer": "| Policy | Meaning | When a firm uses it |\n|---|---|---|\n| Stable / regular | Fixed rupee DPS, or steady growth in DPS | Mature firms with steady earnings; investors like it |\n| Irregular | Paid when profit allows, no commitment | Volatile earnings |\n| No dividend | All profit retained | High-growth firm with many projects above the cost of capital |\n| Residual | Pay out only what is left after funding every project that beats the cost of capital | Firms for which investment policy drives the payout |\n\n**Residual illustration.**\n- Year 1: dividend = 20 - 14 = **₹6 crore** (payout 30%).\n- Year 2: projects need ₹22 crore, more than the ₹20 crore of profit: dividend = **nil** (and ₹2 crore must be found externally or the projects phased).\n\n**Comment:** dividends swing from ₹6 crore to nothing with investment needs. That is the weakness of a pure residual policy: investors dislike an erratic payout, so many firms combine it with a stable base dividend (Lintner smoothing). The policy matters because retained profit is internal funding: every rupee paid out may force external finance.",
+    "marking_scheme": [
+      {
+        "point": "Four types named and defined",
+        "marks": 2
+      },
+      {
+        "point": "When each is used",
+        "marks": 1
+      },
+      {
+        "point": "Residual dividend in both years",
+        "marks": 1
+      },
+      {
+        "point": "Comment on instability and link to internal funding",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "DV-2-01",
+    "node": "DV-2",
+    "unit": "SFM Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A company has EPS ₹25, DPS ₹10 and a return on equity of 12%. Its sustainable growth rate from retained earnings (retention ratio × ROE) is:",
+    "options": [
+      "A) 7.2%",
+      "B) 4.8%",
+      "C) 12.0%",
+      "D) 2.5 times"
+    ],
+    "answer": "A",
+    "explanation": "Payout = 10 ÷ 25 = 40%, so retention b = 60%. Sustainable growth = b × ROE = 0.60 × 12% = 7.2%. The tempting option, 4.8%, multiplies the payout (0.40) by ROE instead of the retention ratio. 12.0% is the ROE itself, which would be the growth rate only if the firm retained everything. 2.5 times is the dividend cover (EPS ÷ DPS), a different ratio and not a percentage growth rate."
+  },
+  {
+    "id": "DV-2-02",
+    "node": "DV-2",
+    "unit": "SFM Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "hard",
+    "question": "A firm has PAT ₹600 crore, EBITDA ₹800 crore and net debt ₹1,200 crore. It currently pays out 10% of PAT and proposes to raise the payout to 25%, funding the extra dividend entirely by new borrowing. Net debt ÷ EBITDA after the change is closest to:",
+    "options": [
+      "A) 1.69 times",
+      "B) 1.50 times",
+      "C) 1.61 times",
+      "D) 1.39 times"
+    ],
+    "answer": "C",
+    "explanation": "Current dividend = 0.10 × 600 = 60; new dividend = 0.25 × 600 = 150; the extra outflow is 150 - 60 = ₹90 crore. New net debt = 1,200 + 90 = 1,290, so net debt ÷ EBITDA = 1,290 ÷ 800 = 1.61 times (up from 1.50). The tempting option, 1.69 times, adds the whole new dividend of ₹150 crore, though ₹60 crore was already being paid out of earnings. 1.50 times ignores the extra borrowing. 1.39 times subtracts the extra dividend instead of adding it to debt."
+  },
+  {
+    "id": "DV-2-03",
+    "node": "DV-2",
+    "unit": "SFM Unit 2",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "Explain, in groups, the main factors that determine a firm's dividend policy. State how each group pushes the payout up or down.",
+    "model_answer": "Group the determinants and give the direction of the effect:\n\n| Group | Factor | Effect on payout |\n|---|---|---|\n| **Legal** | Companies Act limits (pay only from profits or free reserves); loan covenants | Cap the payout; covenants may stop dividends while leverage or cover ratios are breached |\n| **Financial** | Liquidity (profit is not cash) | A profitable firm short of cash cannot pay |\n| | Stability of earnings | Steady earnings support a high, stable payout; volatile earnings force caution |\n| | Growth opportunities | Many projects with return above the cost of capital: retain; few projects: distribute |\n| | Inflation | Replacement cost of assets rises, so more profit is retained |\n| **Market** | Access to capital markets | Cheap external funds reduce the need to retain; a small unlisted firm retains more |\n| | Shareholder preference (clientele) | Retirees want income; high-bracket investors prefer gains |\n| | Taxation | The relative tax on dividends and capital gains affects investors' preference |\n| **Control** | Dilution | Raising equity dilutes promoters, so they may retain profit instead |\n\n**Indian context (qualitative):** since the abolition of dividend distribution tax, dividends are taxed in the shareholder's hands; mature, cash-rich, steady-earning firms such as Infosys, ITC and HUL are the standard examples of consistent payers. Check current tax rules before quoting any rate.",
+    "marking_scheme": [
+      {
+        "point": "Legal factors (law, covenants)",
+        "marks": 1
+      },
+      {
+        "point": "Financial factors (liquidity, stability, growth, inflation)",
+        "marks": 1
+      },
+      {
+        "point": "Market factors (capital-market access, clientele, tax)",
+        "marks": 1
+      },
+      {
+        "point": "Control factor",
+        "marks": 1
+      },
+      {
+        "point": "Direction of effect stated for each and one Indian line",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "DV-2-04",
+    "node": "DV-2",
+    "unit": "SFM Unit 2",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Judge whether the dividend of Tungabhadra Steel Ltd (fictional) is sustainable. EPS ₹24, DPS ₹8, market price ₹360, ROE 16%. In ₹ crore: current assets 300, inventory 120, current liabilities 200, debt 450, equity 500, total assets 1,000, cash 70, EBITDA 250. Compute the payout, retention, yield, P/E, dividend cover, sustainable growth, current ratio, quick ratio, debt/equity, debt/assets and net debt/EBITDA, and give a conclusion.",
+    "model_answer": "1. Payout = 8 ÷ 24 = **33.3%**; retention = **66.7%**.\n2. Yield = 8 ÷ 360 = **2.22%**; P/E = 360 ÷ 24 = **15**; cover = 24 ÷ 8 = **3.0 times**.\n3. Sustainable growth = retention × ROE = 0.6667 × 16% = **10.67%**.\n4. Liquidity: current ratio = 300 ÷ 200 = **1.5**; quick ratio = (300 - 120) ÷ 200 = **0.9**.\n5. Solvency: D/E = 450 ÷ 500 = **0.9**; debt/assets = 450 ÷ 1,000 = **45%**; net debt/EBITDA = (450 - 70) ÷ 250 = **1.52 times**.\n\n| Test | Result | Reading |\n|---|---|---|\n| Earnings cover | 3.0 times | Comfortable |\n| Liquidity | 1.5 / 0.9 | Current adequate; quick slightly below 1 because stock is large |\n| Gearing | D/E 0.9, net debt/EBITDA 1.52 | Moderate to high |\n| Growth | 10.67% from retention | Retention is funding growth |\n\n**Decision line and interpretation:** the dividend is **sustainable** (cover of 3 times, payout of one third), but the balance sheet is more stretched than the payout suggests: the quick ratio is below 1 and gearing is moderate. The firm has little room to fund a higher payout by borrowing, so hold the dividend; raise it only if the 10.67% growth on retained earnings can be shown to earn more than the cost of capital.",
+    "marking_scheme": [
+      {
+        "point": "Payout, retention, yield, P/E, cover",
+        "marks": 1
+      },
+      {
+        "point": "Sustainable growth",
+        "marks": 1
+      },
+      {
+        "point": "Liquidity ratios",
+        "marks": 1
+      },
+      {
+        "point": "Solvency ratios",
+        "marks": 1
+      },
+      {
+        "point": "Conclusion with interpretation",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "DV-2-05",
+    "node": "DV-2",
+    "unit": "SFM Unit 2",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "hard",
+    "question": "Sabarmati Chemicals Ltd (fictional), ₹ crore: PAT 800; current dividend 64; EBITDA 1,200; net debt 1,500. A shareholder group proposes raising the payout to 25% of PAT. The loan covenant limits net debt ÷ EBITDA to 2.0 times. Assume any extra dividend is funded by new borrowing.\n\n(a) Compute the current payout and the dividend cover. (2)\n(b) Compute the new dividend, the extra outflow and the extra outflow as a percentage of EBITDA. (3)\n(c) Compute net debt ÷ EBITDA before and after the change and the headroom under the covenant. (2)\n(d) Recommend a policy, linking it to Lintner's smoothing, and state one limitation of the analysis. (3)",
+    "model_answer": "**(a)** Payout = 64 ÷ 800 = **8%**; dividend cover = 800 ÷ 64 = **12.5 times**.\n\n**(b)** New dividend = 0.25 × 800 = **₹200 crore**. Extra outflow = 200 - 64 = **₹136 crore**, which is 136 ÷ 1,200 = **11.33% of EBITDA**.\n\n**(c)** Before: 1,500 ÷ 1,200 = **1.25 times**. After (extra funded by borrowing): (1,500 + 136) ÷ 1,200 = **1.36 times**. Headroom to the 2.0 times covenant = 2.0 - 1.36 = 0.64 times, about ₹764 crore of extra net debt.\n\n**(d) Recommendation.** The proposal is **affordable**: it costs about 11 points of one year's EBITDA, cover stays at 4 times (800 ÷ 200) and leverage rises by under 0.15 times, well inside the covenant. A sensible policy is a **published floor dividend plus a variable component tied to a payout band** (for example 15% to 25% of PAT), reached in steps rather than at once. This uses Lintner's smoothing: managers move gradually toward a target payout and avoid cuts, which sends a stable signal and gives shareholders a standard to hold the company to. The case rests on capital discipline, not on tax efficiency, since dividends are taxed in the holder's hands.\n\n**Limitation (any one):** one year of data; dividends are legally declared from standalone profits while the figures here may be consolidated; funding by borrowing is assumed (it may be paid from cash flow); the covenant and EBITDA may change in a downturn.",
+    "marking_scheme": [
+      {
+        "point": "(a) Payout and cover",
+        "marks": 2
+      },
+      {
+        "point": "(b) New dividend, extra outflow, % of EBITDA",
+        "marks": 3
+      },
+      {
+        "point": "(c) Leverage before and after, covenant headroom",
+        "marks": 2
+      },
+      {
+        "point": "(d) Recommendation linked to Lintner and a limitation",
+        "marks": 3
+      }
+    ]
+  },
+  {
+    "id": "DV-3-01",
+    "node": "DV-3",
+    "unit": "SFM Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Using Walter's model, a firm has EPS ₹8, cost of capital 12%, return on retained funds 18% and a 50% payout. The market price per share is:",
+    "options": [
+      "A) ₹83.33",
+      "B) ₹54.00",
+      "C) ₹66.67",
+      "D) ₹100.00"
+    ],
+    "answer": "A",
+    "explanation": "D = 4, E - D = 4, r ÷ k = 1.5. P = [D + (r/k)(E - D)] ÷ k = [4 + 1.5 × 4] ÷ 0.12 = 10 ÷ 0.12 = ₹83.33. The tempting option, ₹54.00, misplaces the brackets (4 + 1.5 × 4 ÷ 0.12 = 4 + 50): the whole numerator must be divided by k. ₹66.67 is E ÷ k = 8 ÷ 0.12, the price at 100% payout. ₹100.00 is the price at 0% payout (1.5 × 8 ÷ 0.12), not at 50%."
+  },
+  {
+    "id": "DV-3-02",
+    "node": "DV-3",
+    "unit": "SFM Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "A firm earns 9% on funds it reinvests, while its shareholders require 12%. EPS is ₹12. Under Walter's model the payout that maximises the share price is:",
+    "options": [
+      "A) 0%",
+      "B) 50%",
+      "C) Any payout, since the price is the same",
+      "D) 100%"
+    ],
+    "answer": "D",
+    "explanation": "r = 9% < k = 12%, so this is a mature (declining) firm: retained money earns less than shareholders could earn elsewhere, so distribute everything. Price at 0% payout = (0.75 × 12) ÷ 0.12 = ₹75; at 100% payout = 12 ÷ 0.12 = ₹100. The tempting option is 0%, which treats retention as always good for a profitable firm; it is right only when r > k. 'Any payout' holds only when r = k. A 50% payout gives ₹87.50, between the two."
+  },
+  {
+    "id": "DV-3-03",
+    "node": "DV-3",
+    "unit": "SFM Unit 2",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Godavari Auto Components Ltd (fictional) has EPS ₹20, cost of capital 8% and a return on reinvested funds of 12%. Using Walter's model, compute the share price at payouts of 0%, 25%, 50%, 75% and 100%. Classify the firm and recommend a payout.",
+    "model_answer": "1. **Classify.** r = 12% exceeds k = 8%, so this is a **growing firm**: retain, do not pay dividends.\n2. **Formula.** P = [D + (r/k)(E - D)] ÷ k, with r ÷ k = 0.12 ÷ 0.08 = 1.5.\n3. **Sample, 50% payout.** D = 10, E - D = 10: P = [10 + 1.5 × 10] ÷ 0.08 = 25 ÷ 0.08 = ₹312.50.\n\n| Payout | D | E - D | Walter P |\n|---|---|---|---|\n| 0% | ₹0.00 | ₹20.00 | ₹375.00 |\n| 25% | ₹5.00 | ₹15.00 | ₹343.75 |\n| 50% | ₹10.00 | ₹10.00 | ₹312.50 |\n| 75% | ₹15.00 | ₹5.00 | ₹281.25 |\n| 100% | ₹20.00 | ₹0.00 | ₹250.00 |\n\nAt 100% payout the price is E ÷ k = 20 ÷ 0.08 = ₹250, because with nothing retained the reinvestment term vanishes. Each extra ₹5 of dividend costs ₹31.25 of price.\n\n**Decision line and interpretation:** price falls as payout rises (₹375 at 0% to ₹250 at 100%), so Walter recommends **0% payout (retain everything)** for this firm. Add one line of caution: the extreme answer comes from assuming r stays at 12% on every rupee reinvested and that all financing is internal, which is unrealistic.",
+    "marking_scheme": [
+      {
+        "point": "Classification of the firm (r > k)",
+        "marks": 1
+      },
+      {
+        "point": "Correct formula with brackets and a worked line",
+        "marks": 1
+      },
+      {
+        "point": "Prices at the five payouts",
+        "marks": 2
+      },
+      {
+        "point": "Recommendation with interpretation and caution",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "DV-3-04",
+    "node": "DV-3",
+    "unit": "SFM Unit 2",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "State the assumptions of Walter's model and the formula, with the meaning of each symbol. State the decision rule for the three types of firm and give two criticisms.",
+    "model_answer": "**Assumptions.** (1) All financing is internal: retained earnings only, no new debt or equity. (2) The return r and the cost of capital k are constant. (3) All earnings are either distributed or reinvested immediately. (4) E and D are constant for ever and the firm has an infinite life. (5) Investment opportunities are unlimited at the rate r.\n\n**Formula:** **P = [D + (r/k)(E - D)] ÷ k**, where P = market price per share, D = dividend per share, E = earnings per share, (E - D) = retained earnings per share, r = the firm's return (IRR) on retained funds, k = cost of capital. The whole numerator is divided by k. Read it as D/k (value of the dividends) plus the value of the extra income earned on retention.\n\n**Decision rule (class firm types):**\n\n| Firm | Condition | Action | Optimal payout |\n|---|---|---|---|\n| Growing | r > k | Retain | 0% |\n| Normal (\"stabling\") | r = k | Pay or retain, no difference | Irrelevant |\n| Mature (declining) | r < k | Distribute | 100% |\n\nWalter says dividend policy is **relevant**: retain only when the firm can reinvest at more than its shareholders' required return.\n\n**Criticisms.** Constant r is unrealistic (r falls as the firm takes up more projects); constant k ignores that risk changes with payout and investment; no external financing, so the answer is extreme (0% or 100%), rarely seen in practice.",
+    "marking_scheme": [
+      {
+        "point": "Assumptions (three or more)",
+        "marks": 1
+      },
+      {
+        "point": "Formula with symbols and correct brackets",
+        "marks": 1
+      },
+      {
+        "point": "Three-case rule",
+        "marks": 1
+      },
+      {
+        "point": "Firm types named",
+        "marks": 1
+      },
+      {
+        "point": "Two criticisms",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "DV-3-05",
+    "node": "DV-3",
+    "unit": "SFM Unit 2",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "hard",
+    "question": "Three firms, Gamma, Delta and Sigma (all fictional), each have EPS ₹15 and cost of capital 9%. Their returns on reinvested funds are 13.5%, 9% and 6% respectively.\n\n(a) Classify each firm using the class terms and state the Walter payout rule for each. (3)\n(b) Using Walter's model, compute each firm's price at payouts of 0%, 40% and 100%. (4)\n(c) Recommend a payout for each and explain the result for Delta. (2)\n(d) Give one reason the extreme recommendations may not be sensible in practice. (1)",
+    "model_answer": "**(a) Classification.** Gamma: r = 13.5% > k = 9%, **growing firm**, retain (payout 0%). Delta: r = 9% = k, **normal (\"stabling\") firm**, payout irrelevant. Sigma: r = 6% < k = 9%, **mature (declining) firm**, distribute (payout 100%).\n\n**(b) Prices.** P = [D + (r/k)(E - D)] ÷ k. r/k = 1.5 (Gamma), 1.0 (Delta), 0.667 (Sigma). Sample, Gamma at 40%: D = 6, E - D = 9: [6 + 1.5 × 9] ÷ 0.09 = 19.5 ÷ 0.09 = ₹216.67.\n\n| Payout | Gamma | Delta | Sigma |\n|---|---|---|---|\n| 0% (D = 0) | ₹250.00 | ₹166.67 | ₹111.11 |\n| 40% (D = 6) | ₹216.67 | ₹166.67 | ₹133.33 |\n| 100% (D = 15) | ₹166.67 | ₹166.67 | ₹166.67 |\n\n**(c) Recommendation.** Gamma: **retain everything** (price falls from ₹250 to ₹166.67 as payout rises). Delta: **any payout**, price is ₹166.67 throughout. Sigma: **pay out everything** (price rises from ₹111.11 to ₹166.67). For Delta, retained funds earn exactly what shareholders could earn elsewhere, so the firm is worth E ÷ k = 15 ÷ 0.09 = ₹166.67 however it splits earnings. At 100% payout all three firms are worth ₹166.67 because the reinvestment term vanishes.\n\n**(d)** The extreme answers (0% or 100%) rest on a constant r and k and on all-internal financing: in practice r falls as a firm invests more, so Gamma's best payout is not zero. Shareholders also value a steady dividend signal.\n\n**Rule in one line:** retain only when the firm can reinvest at more than its shareholders' required return.",
+    "marking_scheme": [
+      {
+        "point": "(a) Classification and rule for each firm",
+        "marks": 3
+      },
+      {
+        "point": "(b) Prices at three payouts for three firms",
+        "marks": 4
+      },
+      {
+        "point": "(c) Recommendations and explanation for Delta",
+        "marks": 2
+      },
+      {
+        "point": "(d) Practical caveat",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "DV-4-01",
+    "node": "DV-4",
+    "unit": "SFM Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Using Gordon's model, a firm has EPS ₹12, cost of capital 12%, return on investment 15% and a 60% payout. The share price is:",
+    "options": [
+      "A) ₹60.00",
+      "B) ₹120.00",
+      "C) ₹200.00",
+      "D) ₹110.00"
+    ],
+    "answer": "B",
+    "explanation": "Retention b = 0.40, so g = b × r = 0.06. D1 = 12 × 0.60 = 7.20. P0 = D1 ÷ (k - g) = 7.20 ÷ 0.06 = ₹120. The tempting option, ₹60.00, is D ÷ k (7.20 ÷ 0.12): it ignores the growth that retention creates. ₹200.00 divides total earnings (12) rather than the dividend by (k - br). ₹110.00 is the Walter price for the same data, [7.2 + 1.25 × 4.8] ÷ 0.12, a different model."
+  },
+  {
+    "id": "DV-4-02",
+    "node": "DV-4",
+    "unit": "SFM Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "hard",
+    "question": "Using Gordon's model, a firm has EPS ₹10, cost of capital 11%, return on investment 16% and a 30% payout. The model's price is:",
+    "options": [
+      "A) -₹1,500",
+      "B) ₹27.27",
+      "C) Not valid, because br = 11.2% exceeds k = 11%",
+      "D) ₹90.91"
+    ],
+    "answer": "C",
+    "explanation": "Retention b = 0.70, so br = 0.70 × 16% = 11.2%, which is above k = 11%. Then k - br = -0.2% and the formula gives a meaningless result: no price should be reported. The tempting option, -₹1,500 (3 ÷ -0.002), is what a blind substitution gives, but a negative price is an artefact of breaking the condition k > br, not a finding that the share is worthless. ₹27.27 is D ÷ k (3 ÷ 0.11) and ₹90.91 is E ÷ k (10 ÷ 0.11): both ignore growth."
+  },
+  {
+    "id": "DV-4-03",
+    "node": "DV-4",
+    "unit": "SFM Unit 2",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Using Gordon's model, find the share price of a firm with EPS ₹15, k = 10% and r = 14% at payouts of 0%, 25%, 50%, 75% and 100%. Test validity first and say what you conclude.",
+    "model_answer": "**Formula:** P0 = E(1 - b) ÷ (k - br). **Condition:** k > br; if br ≥ k the formula is invalid and no price is written.\n\n| Payout | b | br | k - br | D = E(1 - b) | Gordon P0 |\n|---|---|---|---|---|---|\n| 0% | 1.00 | 0.1400 | -0.0400 | ₹0.00 | **invalid** |\n| 25% | 0.75 | 0.1050 | -0.0050 | ₹3.75 | **invalid** |\n| 50% | 0.50 | 0.0700 | +0.0300 | ₹7.50 | ₹250.00 |\n| 75% | 0.25 | 0.0350 | +0.0650 | ₹11.25 | ₹173.08 |\n| 100% | 0.00 | 0.0000 | +0.1000 | ₹15.00 | ₹150.00 |\n\nWorkings: 50%: 7.50 ÷ 0.03 = ₹250.00; 75%: 11.25 ÷ 0.065 = ₹173.08; 100%: 15 ÷ 0.10 = ₹150.00.\n\n**Decision line and interpretation:** r > k, so the firm is a growth firm and price rises as payout falls (150, 173.08, 250). But at 25% payout br = 10.5% and at 0% br = 14%, both at or above k = 10%, so the model **fails** and gives no price. Do not recommend a zero payout on the strength of this model: its value becomes unreliable as br nears k. Mention bird in hand as the reason investors may still value a dividend.",
+    "marking_scheme": [
+      {
+        "point": "Formula and validity condition k > br",
+        "marks": 1
+      },
+      {
+        "point": "Invalid cells identified (0% and 25%)",
+        "marks": 1
+      },
+      {
+        "point": "Prices at 50%, 75% and 100%",
+        "marks": 2
+      },
+      {
+        "point": "Conclusion: direction and reliability limit",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "DV-4-04",
+    "node": "DV-4",
+    "unit": "SFM Unit 2",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "For a firm with EPS ₹15, k = 10% and r = 14%, compare the Walter and Gordon prices at payouts of 50% and 75%. Explain why the two models agree in direction but not in size, and state the bird-in-hand argument with MM's reply.",
+    "model_answer": "| Payout | Walter: [D + (r/k)(E - D)] ÷ k | Gordon: D ÷ (k - br) |\n|---|---|---|\n| 50% | [7.5 + 1.4 × 7.5] ÷ 0.10 = **₹180.00** | 7.5 ÷ 0.03 = **₹250.00** |\n| 75% | [11.25 + 1.4 × 3.75] ÷ 0.10 = **₹165.00** | 11.25 ÷ 0.065 = **₹173.08** |\n\n**Direction:** both prices fall as payout rises, so both favour retention for a growth firm (r > k).\n\n**Size:** Gordon's value is higher and explodes as br approaches k. Walter holds E and D constant, so retained money earns r on the current retention only; Gordon lets dividends grow at g = br for ever, so the retention compounds. Gordon also needs k > br, which Walter does not.\n\n**Bird in hand.** Gordon argued that investors prefer a certain dividend today to an uncertain capital gain tomorrow; as retention rises the future gain becomes riskier, so investors raise k, and a higher payout can raise the price even when r > k. **MM's reply:** this is the bird-in-hand fallacy: a firm's risk comes from its business operations, not from how earnings are split between dividend and retention.",
+    "marking_scheme": [
+      {
+        "point": "Walter and Gordon prices at 50%",
+        "marks": 1
+      },
+      {
+        "point": "Walter and Gordon prices at 75%",
+        "marks": 1
+      },
+      {
+        "point": "Direction agrees, size differs, with reason",
+        "marks": 1
+      },
+      {
+        "point": "Bird-in-hand argument",
+        "marks": 1
+      },
+      {
+        "point": "MM's reply",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "DV-5-01",
+    "node": "DV-5",
+    "unit": "SFM Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "Under the Modigliani-Miller approach a share is priced at ₹250 today, the cost of equity is 14% and a dividend of ₹10 is expected at the end of the year. The expected year-end market price is:",
+    "options": [
+      "A) ₹295",
+      "B) ₹285",
+      "C) ₹260",
+      "D) ₹275"
+    ],
+    "answer": "D",
+    "explanation": "P0 = (D1 + P1) ÷ (1 + ke), so P1 = P0(1 + ke) - D1 = 250 × 1.14 - 10 = 285 - 10 = ₹275. The tempting option, ₹295, adds the dividend instead of subtracting it: paying ₹10 takes value out of the firm, so the ex-dividend price is lower. ₹285 is the price if no dividend were paid. ₹260 is P0 + D1, which has no basis. Check: 275 + 10 = 285 = 250 × 1.14, so shareholders earn 14% either way."
+  },
+  {
+    "id": "DV-5-02",
+    "node": "DV-5",
+    "unit": "SFM Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "All of the following are assumptions of the Modigliani-Miller dividend irrelevance argument EXCEPT:",
+    "options": [
+      "A) Perfect capital markets with no single investor able to move prices",
+      "B) Investors prefer a certain dividend today to an uncertain capital gain later",
+      "C) No flotation or transaction costs",
+      "D) A fixed investment policy independent of the dividend decision"
+    ],
+    "answer": "B",
+    "explanation": "MM assume a perfect market, no taxes (or no difference between tax on dividends and gains), no flotation or transaction costs, a fixed investment policy and certainty. The preference for a certain dividend is the bird-in-hand argument, which MM reject as a fallacy: risk comes from operations, not the payout split. The tempting wrong choice is the fixed investment policy: it is the least obvious assumption, but the proof needs it because the dividend must not change the investment plan."
+  },
+  {
+    "id": "DV-5-03",
+    "node": "DV-5",
+    "unit": "SFM Unit 2",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "A share trades at ₹120 and the cost of equity is 15%. The firm may pay a dividend of ₹9 at the end of the year, or retain it. Using the MM argument, find the expected year-end price in each case and show that an investor holding 200 shares is equally well off. How can the investor create a 'homemade dividend' or undo the dividend?",
+    "model_answer": "**Year-end price.** P1 = P0(1 + ke) - D1.\n- With the dividend: P1 = 120 × 1.15 - 9 = **₹129**.\n- Without it: P1 = 120 × 1.15 = **₹138**.\n\n**Wealth of a holder of 200 shares at year end.**\n- Dividend paid: 200 × 129 + 200 × 9 = 25,800 + 1,800 = **₹27,600**.\n- No dividend: 200 × 138 = **₹27,600**. Identical.\n\n**Return check:** dividend ₹9 + price gain ₹9 (120 to 129) = ₹18 = 15% of ₹120. Investors earn ke either way.\n\n**Arbitrage (homemade dividends).**\n- *Firm pays, investor wants growth:* reinvest the ₹1,800 dividend in the shares at ₹129: 13.95 shares; (200 + 13.95) × 129 = ₹27,600, the same wealth.\n- *Firm retains, investor wants cash of ₹1,800:* sell ₹1,800 ÷ 138 = 13.04 shares; remaining 186.96 × 138 + ₹1,800 = ₹27,600, again the same.\n\n**Interpretation:** the dividend changes only the form of return, so the market will not pay a premium for either policy. Value depends on earning power and investment policy. This holds only in a perfect market (no taxes, no flotation or transaction costs, fixed investment policy).",
+    "marking_scheme": [
+      {
+        "point": "P1 with and without the dividend",
+        "marks": 1
+      },
+      {
+        "point": "Equal wealth for the holder",
+        "marks": 1
+      },
+      {
+        "point": "Return check (15%)",
+        "marks": 1
+      },
+      {
+        "point": "Homemade dividend arbitrage in both directions",
+        "marks": 1
+      },
+      {
+        "point": "Interpretation and limits",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "DV-5-04",
+    "node": "DV-5",
+    "unit": "SFM Unit 2",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "hard",
+    "question": "Narmada Power Equipment Ltd (fictional) has 2,00,000 shares at ₹150, cost of equity 12%, expected total earnings of ₹30,00,000 and a planned investment of ₹60,00,000 that is independent of the dividend. Show that the value of the firm is the same whether it pays a dividend of ₹6 a share or none, assuming any shortfall is raised by new shares.\n\n(a) Find the expected year-end price P1 in each case. (2)\n(b) Find the new shares to be issued in each case. (3)\n(c) Find the value of the firm in each case and compare with n × P0. (3)\n(d) Explain the result and name two real-world factors that would break it. (2)",
+    "model_answer": "**(a) P1 = P0(1 + ke) - D1.** With D1 = ₹6: 150 × 1.12 - 6 = **₹162**. With D1 = 0: **₹168**.\n\n**(b) New shares Δn = [I - (E - nD1)] ÷ P1.**\n\n| Step | D1 = ₹6 | D1 = ₹0 |\n|---|---|---|\n| Total dividend n × D1 | ₹12,00,000 | ₹0 |\n| Earnings left, E - nD1 | ₹18,00,000 | ₹30,00,000 |\n| Gap to raise, I - (E - nD1) | ₹42,00,000 | ₹30,00,000 |\n| New shares Δn = gap ÷ P1 | 25,925.93 (about 25,926) | 17,857.14 (about 17,857) |\n\n**(c) Value of firm = [(n + Δn)P1 - I + E] ÷ (1 + ke).**\n\n| | D1 = ₹6 | D1 = ₹0 |\n|---|---|---|\n| (n + Δn) × P1 | ₹3,66,00,000 | ₹3,66,00,000 |\n| Less I, plus E | -60,00,000 + 30,00,000 | -60,00,000 + 30,00,000 |\n| Numerator | ₹3,36,00,000 | ₹3,36,00,000 |\n| Value ÷ 1.12 | **₹3,00,00,000** | **₹3,00,00,000** |\n\nCheck: n × P0 = 2,00,000 × 150 = **₹3,00,00,000**. The value is identical (fractional shares used; rounding the share counts moves the value by a few rupees only).\n\n**(d) Interpretation.** A larger dividend drains cash, so more new shares must be issued at a lower price; a smaller dividend needs fewer shares at a higher price; the two effects cancel exactly. Value depends on earnings and investment policy, which are the same in both cases. The result holds only in a perfect market: **taxes** (dividends and capital gains taxed differently) and **flotation costs** of issuing the new shares (also signalling and clientele effects) would make the policies unequal.",
+    "marking_scheme": [
+      {
+        "point": "(a) P1 in both cases",
+        "marks": 2
+      },
+      {
+        "point": "(b) Dividend, gap and new shares in both cases",
+        "marks": 3
+      },
+      {
+        "point": "(c) Value of firm in both cases and the check against n × P0",
+        "marks": 3
+      },
+      {
+        "point": "(d) Mechanism and two real-world breaks",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "DV-6-01",
+    "node": "DV-6",
+    "unit": "SFM Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A listed firm announces a higher dividend with no change in its announced earnings or investment plans, and the share price rises on the day. Which explanation is most consistent with the evidence in the notes for why dividend policy can matter in practice?",
+    "options": [
+      "A) Signalling: the dividend increase conveys management's confidence about future earnings",
+      "B) The arbitrage proof, which shows that a higher dividend raises firm value",
+      "C) A flotation-cost saving, because paying out avoids retaining funds",
+      "D) The firm has moved from a growing to a mature firm under Walter's model"
+    ],
+    "answer": "A",
+    "explanation": "A dividend change carries information about what managers expect, so the price can move on the announcement even when earnings and investment are unchanged: this is the signalling (information content) effect, one of the five real-world reasons dividend policy matters. The tempting option is the arbitrage proof, but MM's arbitrage argument concludes the reverse (value is unchanged by payout in a perfect market). Flotation costs argue for retaining, not paying out. A change of Walter classification would require a change in r or k, which the question does not state."
+  },
+  {
+    "id": "DV-6-02",
+    "node": "DV-6",
+    "unit": "SFM Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A firm pays out ₹60 crore as dividend and then needs ₹60 crore of fresh equity for an investment. Issue costs are 4% of the gross amount raised. The issue cost it incurs is:",
+    "options": [
+      "A) ₹2.40 crore",
+      "B) ₹62.50 crore",
+      "C) ₹2.50 crore",
+      "D) ₹4.00 crore"
+    ],
+    "answer": "C",
+    "explanation": "To net ₹60 crore after a 4% cost the firm must raise 60 ÷ (1 - 0.04) = ₹62.50 crore gross, so the cost is 62.50 - 60 = ₹2.50 crore. The tempting option, ₹2.40 crore, is 4% of the net ₹60 crore: the cost is charged on the gross amount, so the gross must be grossed up first. ₹62.50 crore is the gross issue, not the cost. ₹4.00 crore is an unrelated figure. The cost shows why retaining is cheaper than paying out and re-raising, a breach of MM's no-flotation-cost assumption."
+  },
+  {
+    "id": "DV-6-03",
+    "node": "DV-6",
+    "unit": "SFM Unit 2",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "Compare Walter's and Modigliani-Miller's views on dividend policy in a table. Where do the two agree?",
+    "model_answer": "| | Walter | Modigliani-Miller |\n|---|---|---|\n| Is dividend relevant? | **Yes**: payout changes market price | **No**: any payout gives the same value |\n| Key driver | r (return on reinvestment) versus k (cost of capital) | Earning power and investment policy |\n| Market assumption | Internal finance only, constant r and k | Perfect market: no taxes, no flotation or transaction costs, fixed investment policy; arbitrage |\n| Formula | P = [D + (r/k)(E - D)] ÷ k | P0 = (D1 + P1) ÷ (1 + ke) |\n| Conclusion | Retain if r > k; pay out if r < k; irrelevant if r = k | Dividend changes only the form of return; investors make homemade dividends |\n| Main weakness | Constant r and k, extreme (0% or 100%) answers | A perfect market is unreal |\n\n**Where they agree:** both say value comes from investment returns above the cost of capital. MM's lesson is that value is created by investment, not by how profit is split between dividend and retention.",
+    "marking_scheme": [
+      {
+        "point": "Relevance versus irrelevance",
+        "marks": 1
+      },
+      {
+        "point": "Key driver and formula",
+        "marks": 1
+      },
+      {
+        "point": "Market assumptions",
+        "marks": 1
+      },
+      {
+        "point": "Conclusions of each",
+        "marks": 1
+      },
+      {
+        "point": "Point of agreement or weakness",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "DV-6-04",
+    "node": "DV-6",
+    "unit": "SFM Unit 2",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "MM say dividend policy is irrelevant. Is it really? Give five reasons why dividend policy matters in practice and one Indian illustration.",
+    "model_answer": "**Verdict first:** MM is right inside its assumptions (a perfect market) and wrong outside them. In real markets dividend policy matters for at least five reasons:\n\n1. **Signalling:** a dividend rise signals management confidence and a cut signals trouble, so prices react: the policy carries information.\n2. **Taxes:** dividends and capital gains are taxed differently (in India dividends are taxed in the shareholder's hands), and tax on gains is deferred until sale, so some investors prefer retention. This breaks MM's no-tax-difference assumption.\n3. **Flotation costs:** a firm that pays out and then raises equity wastes issue costs, so retention is cheaper.\n4. **Bird in hand:** investors treat a cash dividend as safer than a promised future gain (MM call this a fallacy, but investors behave as if it holds).\n5. **Clientele:** retirees and funds want regular income and buy payers; growth investors do not. A change in policy changes the investor base.\n\n**Indian illustration (qualitative):** investors treat steady payers such as ITC, HUL and Infosys as income stocks, and a surprise cut is read as bad news: the signalling and clientele effects at work.\n\n**Close with:** dividend policy is not irrelevant in practice, but MM's lasting value is the lesson that value is created by investment, not by the payout split.",
+    "marking_scheme": [
+      {
+        "point": "Verdict stated first",
+        "marks": 1
+      },
+      {
+        "point": "Any three reasons with explanation",
+        "marks": 2
+      },
+      {
+        "point": "Remaining two reasons",
+        "marks": 1
+      },
+      {
+        "point": "Indian illustration and closing line",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "DV-6-05",
+    "node": "DV-6",
+    "unit": "SFM Unit 2",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "A firm earns ₹16 a share. For illustration assume a high-bracket investor pays 25% tax on dividends and 10% on capital gains (assumed rates, not current law). Compare the after-tax wealth if the firm pays out the whole ₹16 as a dividend with the case where it retains the ₹16 and the price rises by ₹16 (the investor sells later). What does this show about MM's assumptions and about the clientele effect? Why does the answer differ for a tax-exempt investor?",
+    "model_answer": "1. **Dividend route:** after-tax cash = 16 × (1 - 0.25) = **₹12.00**.\n2. **Retention route:** gain = ₹16; tax = 16 × 0.10 = ₹1.60; after-tax = **₹14.40**.\n3. **Difference** = 14.40 - 12.00 = **₹2.40 a share** in favour of retention, or 20% more (before any deferral benefit).\n\n| Route | Pre-tax | Tax | After-tax |\n|---|---|---|---|\n| Pay ₹16 dividend | ₹16.00 | ₹4.00 | ₹12.00 |\n| Retain, sell later | ₹16.00 | ₹1.60 | ₹14.40 |\n\n**Decision line and interpretation:** retention wins for this investor. That breaches MM's \"no tax difference\" assumption and explains the **clientele effect**: high-bracket investors prefer low-payout firms. A tax-exempt institution pays no tax on either route, so it is indifferent (₹16 both ways) and may prefer income. Tax on the gain is also deferred until sale, which adds a time-value benefit. *The rates are illustrative assumptions; check current rates before using them in a real analysis.*",
+    "marking_scheme": [
+      {
+        "point": "After-tax value of the dividend route",
+        "marks": 1
+      },
+      {
+        "point": "After-tax value of the retention route",
+        "marks": 1
+      },
+      {
+        "point": "Difference and percentage",
+        "marks": 1
+      },
+      {
+        "point": "Breach of MM and clientele effect",
+        "marks": 1
+      },
+      {
+        "point": "Tax-exempt investor",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "DV-7-01",
+    "node": "DV-7",
+    "unit": "SFM Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A firm has EPS ₹18, cost of capital 9% and a return on retained funds of 12%. Under Walter's model, the share price at a 100% payout is:",
+    "options": [
+      "A) ₹266.67",
+      "B) ₹200.00",
+      "C) ₹150.00",
+      "D) ₹133.33"
+    ],
+    "answer": "B",
+    "explanation": "At 100% payout nothing is retained, so the reinvestment term vanishes and P = D ÷ k = E ÷ k = 18 ÷ 0.09 = ₹200, whatever the value of r. The tempting option, ₹266.67, is the price at 0% payout (1.333 × 18 ÷ 0.09): it is where the growth firm is worth most, not at full payout. ₹150.00 divides E by r (18 ÷ 0.12) instead of k. ₹133.33 uses r in the numerator (12 ÷ 0.09)."
+  },
+  {
+    "id": "DV-7-02",
+    "node": "DV-7",
+    "unit": "SFM Unit 2",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Explain the Modigliani-Miller hypothesis on dividend policy: the claim, assumptions, formula and arbitrage argument. Illustrate with P0 = ₹200, ke = 10% and D1 = ₹8, and state one criticism.",
+    "model_answer": "**Claim.** Dividend policy is **irrelevant** to market value. Value is set by the firm's earning power and investment decisions, not by how profit is split between dividend and retention.\n\n**Assumptions.** Perfect capital market (rational investors, no one can move prices); no taxes or no difference between tax on dividends and gains; no flotation or transaction costs; a fixed investment policy; certainty of profits and investments.\n\n**Formula.** P0 = (D1 + P1) ÷ (1 + ke), so P1 = P0(1 + ke) - D1.\n\n**Arbitrage argument.** If the firm retains more, the price rises by the retained amount, and an investor who wants cash sells a few shares: a homemade dividend. If it pays more, an investor who prefers growth reinvests the cash in the same shares. Either way the total wealth is the same, so the market pays no premium for either policy.\n\n**Illustration.** With the dividend: P1 = 200 × 1.10 - 8 = **₹212**. Without: P1 = **₹220**. Wealth at year end: 212 + 8 = **₹220** against ₹220: identical. Return check: ₹8 dividend + ₹12 gain = ₹20 = 10% of ₹200.\n\n**Criticism.** Taxes, flotation costs, transaction costs, signalling and the clientele effect all exist in real markets, so dividend policy can matter.",
+    "marking_scheme": [
+      {
+        "point": "Claim stated",
+        "marks": 1
+      },
+      {
+        "point": "Assumptions",
+        "marks": 1
+      },
+      {
+        "point": "Formula",
+        "marks": 1
+      },
+      {
+        "point": "Arbitrage argument",
+        "marks": 1
+      },
+      {
+        "point": "Illustration and one criticism",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "DV-7-03",
+    "node": "DV-7",
+    "unit": "SFM Unit 2",
+    "type": "case",
+    "marks": 20,
+    "difficulty": "hard",
+    "question": "**Penganga Pharma Ltd** (fictional) has EPS ₹20, a cost of capital of 10% and can reinvest retained earnings at 14%. The board is deciding the payout ratio and is considering 0%, 25%, 50%, 75% and 100%. For the MM part, assume: n = 50,000 shares, P0 = ₹200, ke = 10%, expected total earnings ₹10,00,000 and planned investment ₹16,00,000; compare a dividend of ₹10 a share with no dividend, with any shortfall raised by new shares.\n\n(a) Classify the firm. (1)\n(b) Value the share under Walter's model at each payout. (5)\n(c) Value the share under Gordon's model at each payout, checking validity. (5)\n(d) Show that MM's firm value is the same for D1 = ₹10 and D1 = ₹0. (5)\n(e) Recommend a payout. (3)\n(f) State one caveat. (1)",
+    "model_answer": "**(a) Classify (1).** r = 14% exceeds k = 10%, so this is a **growth firm**. Walter favours retention.\n\n**(b) Walter (5): P = [D + (r/k)(E - D)] ÷ k**, with r/k = 1.4. Sample at 50%: [10 + 1.4 × 10] ÷ 0.10 = 24 ÷ 0.10 = ₹240.\n\n| Payout | D | E - D | Walter P |\n|---|---|---|---|\n| 0% | ₹0 | ₹20 | ₹280.00 |\n| 25% | ₹5 | ₹15 | ₹260.00 |\n| 50% | ₹10 | ₹10 | ₹240.00 |\n| 75% | ₹15 | ₹5 | ₹220.00 |\n| 100% | ₹20 | ₹0 | ₹200.00 |\n\n**(c) Gordon (5): P0 = E(1 - b) ÷ (k - br).** Check k > br first.\n\n| Payout | b | br | k - br | Gordon P0 |\n|---|---|---|---|---|\n| 0% | 1.00 | 0.140 | -0.040 | invalid |\n| 25% | 0.75 | 0.105 | -0.005 | invalid |\n| 50% | 0.50 | 0.070 | +0.030 | ₹333.33 |\n| 75% | 0.25 | 0.035 | +0.065 | ₹230.77 |\n| 100% | 0.00 | 0.000 | +0.100 | ₹200.00 |\n\nWorkings: 50%: 10 ÷ 0.03 = ₹333.33; 75%: 15 ÷ 0.065 = ₹230.77; 100%: 20 ÷ 0.10 = ₹200. At 0% and 25% payout br is at or above k = 10%, so the formula is **invalid**: write \"invalid\", not a price.\n\n**(d) MM proof (5).** P1 = P0(1 + ke) - D1; Δn = [I - (E - nD1)] ÷ P1; value = [(n + Δn)P1 - I + E] ÷ (1 + ke).\n\n| Step | D1 = ₹10 | D1 = ₹0 |\n|---|---|---|\n| P1 = 200 × 1.10 - D1 | ₹210 | ₹220 |\n| Total dividend n × D1 | ₹5,00,000 | ₹0 |\n| Gap = I - (E - nD1) | ₹11,00,000 | ₹6,00,000 |\n| New shares Δn = gap ÷ P1 | 5,238.10 | 2,727.27 |\n| (n + Δn) × P1 | ₹1,16,00,000 | ₹1,16,00,000 |\n| Value = [(n+Δn)P1 - I + E] ÷ 1.10 | **₹1,00,00,000** | **₹1,00,00,000** |\n\nCheck: n × P0 = 50,000 × 200 = ₹1,00,00,000. The value is identical. MM ignore Walter's r > k advantage only because they hold the investment policy fixed (I is the same in both cases): growth is financed either way; only who funds it (retained earnings or new shareholders) changes.\n\n**(e) Recommendation (3).** Walter ranks 0% highest and Gordon agrees on direction for a growth firm, but both models rest on constant r and k. Recommend a **retention-led payout of about 50%**: (i) it is the lowest of the tested payouts at which Gordon is valid (the model fails below about 29% payout, where br reaches k; at 25% br already exceeds k), so a lower payout rests on a broken model; (ii) a 0% payout depends on r staying at 14% on every rupee reinvested, which fails as good projects run out; (iii) shareholders value some income and signal (bird in hand, clientele); (iv) a stable payout with a later increase fits Lintner smoothing. For a firm with r < k the answer flips to distribute.\n\n**(f) Caveat (1).** The models assume constant r and k and internal finance; MM says none of this matters in a perfect market, so the recommendation rests on taxes, flotation costs and signalling being real.\n\n**Decision line:** retain about half of earnings and pay a stable 50% dividend, because the firm earns 14% against a 10% cost of capital.",
+    "marking_scheme": [
+      {
+        "point": "(a) Classify the firm (growth, r > k)",
+        "marks": 1
+      },
+      {
+        "point": "(b) Walter formula, worked line and table",
+        "marks": 5
+      },
+      {
+        "point": "(c) Gordon validity check, invalid cells and prices",
+        "marks": 5
+      },
+      {
+        "point": "(d) MM P1, new shares and equal firm value with check",
+        "marks": 5
+      },
+      {
+        "point": "(e) Reasoned payout recommendation",
+        "marks": 3
+      },
+      {
+        "point": "(f) Caveat",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "DV-7-04",
+    "node": "DV-7",
+    "unit": "SFM Unit 2",
+    "type": "case",
+    "marks": 20,
+    "difficulty": "hard",
+    "question": "**Ganga Textiles Ltd** (fictional) is a mature firm with EPS ₹25, cost of capital 12% and a return on reinvested funds of 9%. It has 10,00,000 shares trading at ₹200 and ₹2.5 crore of surplus cash. Last year's dividend was ₹14 a share, the firm's target payout is 60% and its speed of adjustment is 0.5. EPS over the next three years is expected to be ₹25, ₹28 and ₹20. Assume no taxes or transaction costs.\n\n(a) Classify the firm and value the share under Walter at payouts of 0%, 50% and 100%. (4)\n(b) Value the share under Gordon at 50% and 75% payout. (2)\n(c) Find the dividend for each of the next three years under Lintner's model. (3)\n(d) Compare paying the surplus cash as a dividend with a buyback at ₹200: price after, EPS after and the wealth of a holder of 1,000 shares. (4)\n(e) The board also proposes a bonus issue of 1 share for every 4 held. Find the ex-bonus price and EPS, and the wealth of the holder of 1,000 shares. (2)\n(f) Recommend a distribution policy. (4)\n(g) State one caveat. (1)",
+    "model_answer": "**(a) Classify and Walter (4).** r = 9% < k = 12%, so this is a **mature (declining) firm**: distribute. r ÷ k = 0.75.\n\n| Payout | D | Walter P = [D + 0.75(E - D)] ÷ 0.12 |\n|---|---|---|\n| 0% | ₹0 | ₹156.25 |\n| 50% | ₹12.50 | ₹182.29 |\n| 100% | ₹25 | ₹208.33 |\n\nPrice rises with payout; at 100% it is E ÷ k = 25 ÷ 0.12 = ₹208.33. Walter recommends **100% payout**.\n\n**(b) Gordon (2): P0 = D ÷ (k - br).** 50%: b = 0.5, br = 0.045, k - br = 0.075: 12.5 ÷ 0.075 = **₹166.67**. 75%: b = 0.25, br = 0.0225, k - br = 0.0975: 18.75 ÷ 0.0975 = **₹192.31**. Valid because r < k (br is well below k). Price rises with payout: the same direction as Walter.\n\n**(c) Lintner (3): D_t = D_(t-1) + c(target × E_t - D_(t-1)), c = 0.5.**\n\n| Year | EPS | Target dividend (0.60 × EPS) | Actual DPS |\n|---|---|---|---|\n| 1 | 25 | 15.00 | 14.500 |\n| 2 | 28 | 16.80 | 15.650 |\n| 3 | 20 | 12.00 | 13.825 |\n\nEPS falls 29% in year 3 (28 to 20) but the dividend falls only about 12% (15.65 to 13.83): dividends are smoothed.\n\n**(d) Dividend vs buyback of ₹2.5 crore (4).**\n\n| | Cash dividend ₹25 | Buyback at ₹200 |\n|---|---|---|\n| Shares after | 10,00,000 | 10,00,000 - 1,25,000 = 8,75,000 |\n| Price after | ₹175 (17.5 crore ÷ 10,00,000) | ₹200 (17.5 crore ÷ 8,75,000) |\n| EPS after | ₹25 | ₹28.57 |\n| Holder of 1,000 shares | 1,000 × 175 + 25,000 = **₹2,00,000** | 1,000 × 200 = **₹2,00,000** |\n\nThe holder is equally well off; the buyback raises EPS but not wealth.\n\n**(e) Bonus 1:4 (2).** New shares = 2,50,000; total = 12,50,000. EPS = 2.5 crore ÷ 12,50,000 = **₹20**. Ex-bonus price = 200 × 10,00,000 ÷ 12,50,000 = **₹160**. Holder: 1,250 × 160 = **₹2,00,000**, unchanged. A bonus returns no cash.\n\n**(f) Recommendation (4).** Because r < k the firm cannot reinvest profitably, so it should **return cash**: keep a stable, growing regular dividend (a Lintner path from ₹14 toward a 60% payout) and use a one-off **buyback** to return the ₹2.5 crore of surplus cash if management believes the shares are undervalued. A buyback gives holders the choice of timing and avoids raising the regular dividend to a level it may not keep up. Do **not** use the bonus issue as a distribution: it changes the number of shares, not wealth, and returns no cash (its use is signalling and affordability of the share price). Dividend, buyback and bonus are all wealth-neutral in a perfect market (MM); the choice rests on signalling, flexibility and the current tax and legal rules.\n\n**(g) Caveat (1).** Walter's 100% result is extreme and rests on constant r and k; check the current tax treatment and legal limits on buybacks before choosing between the routes.",
+    "marking_scheme": [
+      {
+        "point": "(a) Classification and Walter prices",
+        "marks": 4
+      },
+      {
+        "point": "(b) Gordon at 50% and 75%",
+        "marks": 2
+      },
+      {
+        "point": "(c) Lintner dividends for three years",
+        "marks": 3
+      },
+      {
+        "point": "(d) Dividend versus buyback comparison",
+        "marks": 4
+      },
+      {
+        "point": "(e) Bonus issue price, EPS, holder wealth",
+        "marks": 2
+      },
+      {
+        "point": "(f) Recommendation with reasons",
+        "marks": 4
+      },
+      {
+        "point": "(g) Caveat",
+        "marks": 1
+      }
+    ]
+  }
+]
