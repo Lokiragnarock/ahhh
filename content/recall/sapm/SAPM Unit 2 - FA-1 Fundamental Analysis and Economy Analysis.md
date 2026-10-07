@@ -47,6 +47,24 @@ Fundamental analysis decides **what** to buy; technical analysis (Unit 3) decide
 
 (A **bottom-up** approach starts from the company and works outwards; stock pickers use it, but the syllabus framework is top-down.)
 
+<svg viewBox="0 0 680 276" width="100%" style="max-width:680px;display:block;margin:12px auto" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Top-down EIC funnel</title>
+<desc>Three nested boxes narrowing from economy to industry to company: the economy sets the ceiling, the industry the competitive context, the company the investment thesis.</desc>
+<defs><marker id="fa1-arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 z" fill="#5F5E5A"/></marker></defs>
+<rect x="60" y="20" width="560" height="56" rx="6" fill="none" stroke="#5F5E5A" stroke-width="2"/>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="340" y="44" text-anchor="middle">Economy: the ceiling</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="340" y="64" text-anchor="middle">GDP, inflation, interest rates, fiscal and monetary policy, FX</text>
+<polyline points="340,76 340,100" fill="none" stroke="#5F5E5A" stroke-width="2" stroke-linejoin="round" marker-end="url(#fa1-arrow)"/>
+<rect x="140" y="100" width="400" height="56" rx="6" fill="none" stroke="#1D9E75" stroke-width="2"/>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="340" y="124" text-anchor="middle">Industry: the context</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="340" y="144" text-anchor="middle">life cycle, entry barriers, rivalry, regulation</text>
+<polyline points="340,156 340,180" fill="none" stroke="#5F5E5A" stroke-width="2" stroke-linejoin="round" marker-end="url(#fa1-arrow)"/>
+<rect x="220" y="180" width="240" height="56" rx="6" fill="none" stroke="#3B6D11" stroke-width="2"/>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="340" y="204" text-anchor="middle">Company: the thesis</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="340" y="224" text-anchor="middle">management, moat, financials</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="340" y="256" text-anchor="middle">each layer filters out risk before the next, narrower one</text>
+</svg>
+
 ## Economy analysis: the ceiling
 
 | Variable | Why it moves equity value |
@@ -70,6 +88,30 @@ The idea to hold: none of these tells you which stock to buy; they tell you whet
 | Peak | Capacity strained, inflation rising | Commodities, energy |
 | Contraction / recession | Output and profits falling | Defensives: FMCG, pharma, utilities |
 | Trough | Bottoming; rates cut | Interest-sensitive sectors start recovering |
+
+<svg viewBox="0 0 680 332" width="100%" style="max-width:680px;display:block;margin:12px auto" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Business cycle and sectors</title>
+<desc>Output and profits rise through expansion to a peak, fall through contraction to a trough, then recover. Cyclicals do well in expansion, commodities and energy at the peak, defensives in contraction, and interest-sensitive sectors begin recovering at the trough.</desc>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="46" y="32" text-anchor="start">Output and profits</text>
+<line x1="40" y1="140" x2="640" y2="140" stroke="#888780" stroke-width="1" stroke-dasharray="6 4"/>
+<line x1="40" y1="232" x2="640" y2="232" stroke="#888780" stroke-width="1"/>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="640" y="250" text-anchor="end">Time</text>
+<path d="M40,190 C100,190 170,70 265,70 C360,70 470,210 565,210 C600,210 625,200 640,190" fill="none" stroke="#7F77DD" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="265" cy="70" r="5" fill="#639922" stroke="#3B6D11" stroke-width="1"/>
+<circle cx="565" cy="210" r="5" fill="#E24B4A" stroke="#A32D2D" stroke-width="1"/>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="115" y="276" text-anchor="middle">Expansion</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="115" y="294" text-anchor="middle">Cyclicals</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="115" y="312" text-anchor="middle">auto, banks, metals</text>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="265" y="276" text-anchor="middle">Peak</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="265" y="294" text-anchor="middle">Commodities</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="265" y="312" text-anchor="middle">energy</text>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="415" y="276" text-anchor="middle">Contraction</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="415" y="294" text-anchor="middle">Defensives</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="415" y="312" text-anchor="middle">FMCG, pharma, utilities</text>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="565" y="276" text-anchor="middle">Trough</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="565" y="294" text-anchor="middle">Interest-sensitive</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="565" y="312" text-anchor="middle">sectors recover</text>
+</svg>
 
 ### Economic indicators
 

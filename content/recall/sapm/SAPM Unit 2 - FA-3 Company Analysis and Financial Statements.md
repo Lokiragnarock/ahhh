@@ -55,6 +55,21 @@ If **net profit grows but operating cash flow doesn't**, profit may be accrual-d
 
 *Example (illustrative):* PAT ₹150 crore, CFO ₹110 crore → CFO/PAT = **0.73**: profits only partly backed by cash; check whether debtors and inventory rose faster than sales.
 
+<svg viewBox="0 0 680 246" width="100%" style="max-width:680px;display:block;margin:12px auto" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>PAT against CFO</title>
+<desc>Two horizontal bars: profit after tax of 150 crore and operating cash flow of 110 crore, with the 40 crore gap outlined in red. CFO to PAT is 0.73.</desc>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="340" y="30" text-anchor="middle">Profit vs operating cash flow (₹ crore)</text>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="150" y="85" text-anchor="end">PAT</text>
+<rect x="160" y="60" width="300" height="40" rx="2" fill="#888780" stroke="#5F5E5A" stroke-width="1"/>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="468" y="85" text-anchor="start">150</text>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="150" y="155" text-anchor="end">CFO</text>
+<rect x="160" y="130" width="220" height="40" rx="2" fill="#639922" stroke="#3B6D11" stroke-width="1"/>
+<rect x="380" y="130" width="80" height="40" rx="2" fill="none" stroke="#A32D2D" stroke-width="2" stroke-dasharray="6 4"/>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="468" y="155" text-anchor="start">110</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="420" y="192" text-anchor="middle">gap of 40 not backed by cash</text>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="340" y="226" text-anchor="middle">CFO ÷ PAT = 110 ÷ 150 = 0.73, below about 0.8: a flag</text>
+</svg>
+
 **Other red flags:** rising debt with flat profits; frequent changes in accounting policy or auditor; large "other income"; contingent liabilities; promoter pledging rising; related-party transactions.
 
 ## Worked example: reading statements (illustrative company)

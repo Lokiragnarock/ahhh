@@ -42,6 +42,49 @@ Markowitz (PM-2) needs n expected returns, n variances and **n(n−1)/2 covarian
 
 **Covariance between two stocks:** Cov(i, j) = βᵢ βⱼ σ_m². This is how one index replaces all the pairwise covariances.
 
+<svg width="100%" style="max-width:680px;display:block;margin:12px auto" viewBox="0 0 680 378" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Single index model as a characteristic line</title>
+<desc>Characteristic line for stock A: return on A equals alpha 2% plus beta 1.2 times market return. The line crosses the vertical axis at alpha = 2%. Its slope is beta 1.2, shown as a rise of 12 for a run of 10. At a market return of 12% the expected return on A is 16.4%. One dot above the line is an observation, and its vertical gap to the line is the company-specific error e.</desc>
+<line x1="70" y1="300" x2="70" y2="40" stroke="#888780" stroke-width="1.5"/>
+<line x1="70" y1="300" x2="640" y2="300" stroke="#888780" stroke-width="1.5"/>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="70" y="26" text-anchor="start">Return on stock A (%)</text>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="355" y="350" text-anchor="middle">Market return Rm (%)</text>
+<line x1="70" y1="300" x2="70" y2="304" stroke="#888780" stroke-width="1.5"/>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="70" y="320" text-anchor="middle">0</text>
+<line x1="202" y1="300" x2="202" y2="304" stroke="#888780" stroke-width="1.5"/>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="202" y="320" text-anchor="middle">6</text>
+<line x1="334" y1="300" x2="334" y2="304" stroke="#888780" stroke-width="1.5"/>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="334" y="320" text-anchor="middle">12</text>
+<line x1="466" y1="300" x2="466" y2="304" stroke="#888780" stroke-width="1.5"/>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="466" y="320" text-anchor="middle">18</text>
+<line x1="598" y1="300" x2="598" y2="304" stroke="#888780" stroke-width="1.5"/>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="598" y="320" text-anchor="middle">24</text>
+<line x1="66" y1="300" x2="70" y2="300" stroke="#888780" stroke-width="1.5"/>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="60" y="304" text-anchor="end">0</text>
+<line x1="66" y1="220" x2="70" y2="220" stroke="#888780" stroke-width="1.5"/>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="60" y="224" text-anchor="end">10</text>
+<line x1="66" y1="140" x2="70" y2="140" stroke="#888780" stroke-width="1.5"/>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="60" y="144" text-anchor="end">20</text>
+<line x1="66" y1="60" x2="70" y2="60" stroke="#888780" stroke-width="1.5"/>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="60" y="64" text-anchor="end">30</text>
+<polyline points="70,284 598,53.6" fill="none" stroke="#7F77DD" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="70" cy="284" r="5" fill="#888780" stroke="#5F5E5A" stroke-width="2"/>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="100" y="294" text-anchor="start">Intercept: alpha = 2%</text>
+<line x1="70" y1="168.8" x2="334" y2="168.8" stroke="#888780" stroke-width="1" stroke-dasharray="5 4"/>
+<line x1="334" y1="168.8" x2="334" y2="300" stroke="#888780" stroke-width="1" stroke-dasharray="5 4"/>
+<circle cx="334" cy="168.8" r="5" fill="#639922" stroke="#3B6D11" stroke-width="2"/>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="324" y="154.8" text-anchor="end">E(RA) = 16.4% at Rm = 12%</text>
+<line x1="334" y1="168.8" x2="554" y2="168.8" stroke="#3B6D11" stroke-width="1.5" stroke-dasharray="5 4"/>
+<line x1="554" y1="168.8" x2="554" y2="72.8" stroke="#3B6D11" stroke-width="1.5" stroke-dasharray="5 4"/>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="444" y="184.8" text-anchor="middle">run 10</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="562" y="118" text-anchor="start">rise 12 per run 10</text>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="562" y="136" text-anchor="start">beta = 1.2</text>
+<line x1="202" y1="196" x2="202" y2="226.4" stroke="#A32D2D" stroke-width="1.5"/>
+<circle cx="202" cy="196" r="5" fill="#E24B4A" stroke="#A32D2D" stroke-width="2"/>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="192" y="202" text-anchor="end">e: company-specific</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="355" y="370" text-anchor="middle">One dot = one observation; its gap to the line is e.</text>
+</svg>
+
 ## Assumptions
 
 1. Securities are related **only through their common response to the market index**.
@@ -70,6 +113,19 @@ As the number of stocks grows, Σ wᵢ² σ²_eᵢ shrinks towards zero (each w�
    σp² = 1.0² × 0.0225 + 0.25 × 0.01 + 0.25 × 0.006 = 0.0225 + 0.0025 + 0.0015 = 0.0265; σp = **16.28%**.
 
 **Interpretation:** most of A's risk (76%) is market risk that diversification can't touch; the residual 24% is what combining stocks reduces.
+
+<svg width="100%" style="max-width:680px;display:block;margin:12px auto" viewBox="0 0 680 206" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Risk of stock A split into systematic and unsystematic</title>
+<desc>A single horizontal bar for the total variance of stock A, 0.0424. The larger part, 0.0324 or 76.4%, is systematic risk from the market index. The smaller part, 0.0100 or 23.6%, is unsystematic residual risk, which is the part diversification can remove.</desc>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="60" y="40" text-anchor="start">Total variance of A = 0.0424 (SD 20.59%)</text>
+<rect x="60" y="56" width="427.9" height="44" fill="#888780" stroke="#5F5E5A" stroke-width="1"/>
+<rect x="487.9" y="56" width="132.1" height="44" fill="#1D9E75" stroke="#1D9E75" stroke-width="1"/>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="60" y="128" text-anchor="start">Systematic: 1.2 squared x 0.0225 = 0.0324</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="60" y="148" text-anchor="start">76.4% of total variance: market risk, cannot be diversified</text>
+<line x1="554" y1="100" x2="554" y2="154" stroke="#1D9E75" stroke-width="1.5"/>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="620" y="170" text-anchor="end">Unsystematic (residual): 0.0100</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="620" y="190" text-anchor="end">23.6%: the part that diversification removes</text>
+</svg>
 
 ## Worked example 2: the cut-off method (choosing stocks and weights)
 

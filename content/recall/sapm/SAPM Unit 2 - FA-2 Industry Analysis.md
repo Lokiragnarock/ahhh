@@ -44,6 +44,27 @@ The industry sets **what growth is available** and how hard it is to keep profit
 
 A cash-burning company in the introduction stage is behaving normally for its stage; a flat-revenue, dividend-paying company in maturity is healthy. **Place the industry on the curve before judging the ratios.**
 
+<svg viewBox="0 0 680 302" width="100%" style="max-width:680px;display:block;margin:12px auto" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Industry life cycle</title>
+<desc>S-shaped curve of industry sales over time through four stages: a slow introduction, a steep growth stage shaded as the best risk-reward window, a flat maturity stage, and a falling decline stage.</desc>
+<rect x="180" y="40" width="180" height="200" fill="#EF9F27" fill-opacity="0.5" stroke="none"/>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="46" y="32" text-anchor="start">Industry sales</text>
+<line x1="40" y1="240" x2="640" y2="240" stroke="#888780" stroke-width="1"/>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="634" y="232" text-anchor="end">Time</text>
+<line x1="180" y1="40" x2="180" y2="240" stroke="#888780" stroke-width="1" stroke-dasharray="6 4"/>
+<line x1="360" y1="40" x2="360" y2="240" stroke="#888780" stroke-width="1" stroke-dasharray="6 4"/>
+<line x1="520" y1="40" x2="520" y2="240" stroke="#888780" stroke-width="1" stroke-dasharray="6 4"/>
+<path d="M40,230 C100,228 150,222 190,205 C240,170 270,90 330,70 C380,56 440,52 510,52 C560,52 600,100 640,170" fill="none" stroke="#7F77DD" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="110" y="264" text-anchor="middle">Introduction</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="110" y="282" text-anchor="middle">speculative</text>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="270" y="264" text-anchor="middle">Growth</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="270" y="282" text-anchor="middle">best risk-reward</text>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="440" y="264" text-anchor="middle">Maturity</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="440" y="282" text-anchor="middle">dividend plays</text>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="580" y="264" text-anchor="middle">Decline</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="580" y="282" text-anchor="middle">avoid</text>
+</svg>
+
 ## Porter's five forces (industry attractiveness)
 
 1. **Threat of new entrants:** low if entry barriers are high (capital needs, licences, brand, scale economies).
@@ -53,6 +74,32 @@ A cash-burning company in the introduction stage is behaving normally for its st
 5. **Rivalry among existing competitors:** high with many similar firms, slow growth, high fixed costs.
 
 The weaker the five forces, the more attractive (more profitable) the industry.
+
+<svg viewBox="0 0 680 326" width="100%" style="max-width:680px;display:block;margin:12px auto" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Porter's five forces</title>
+<desc>Rivalry among existing competitors in the centre, with arrows from new entrants above, substitutes below, suppliers on the left and buyers on the right. The weaker the forces, the more attractive the industry.</desc>
+<defs><marker id="fa2-arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 z" fill="#5F5E5A"/></marker></defs>
+<rect x="240" y="20" width="200" height="52" rx="6" fill="none" stroke="#5F5E5A" stroke-width="2"/>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="340" y="43" text-anchor="middle">New entrants</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="340" y="62" text-anchor="middle">low if barriers are high</text>
+<rect x="240" y="228" width="200" height="52" rx="6" fill="none" stroke="#5F5E5A" stroke-width="2"/>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="340" y="251" text-anchor="middle">Substitutes</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="340" y="270" text-anchor="middle">high if same need is met</text>
+<rect x="20" y="124" width="180" height="52" rx="6" fill="none" stroke="#5F5E5A" stroke-width="2"/>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="110" y="147" text-anchor="middle">Suppliers</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="110" y="166" text-anchor="middle">high if few suppliers</text>
+<rect x="480" y="124" width="180" height="52" rx="6" fill="none" stroke="#5F5E5A" stroke-width="2"/>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="570" y="147" text-anchor="middle">Buyers</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="570" y="166" text-anchor="middle">high if concentrated</text>
+<rect x="240" y="124" width="200" height="52" rx="6" fill="none" stroke="#1D9E75" stroke-width="2"/>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="340" y="147" text-anchor="middle">Rivalry</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="340" y="166" text-anchor="middle">many rivals, slow growth</text>
+<polyline points="340,72 340,122" fill="none" stroke="#5F5E5A" stroke-width="2" stroke-linejoin="round" marker-end="url(#fa2-arrow)"/>
+<polyline points="340,228 340,178" fill="none" stroke="#5F5E5A" stroke-width="2" stroke-linejoin="round" marker-end="url(#fa2-arrow)"/>
+<polyline points="200,150 238,150" fill="none" stroke="#5F5E5A" stroke-width="2" stroke-linejoin="round" marker-end="url(#fa2-arrow)"/>
+<polyline points="480,150 442,150" fill="none" stroke="#5F5E5A" stroke-width="2" stroke-linejoin="round" marker-end="url(#fa2-arrow)"/>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="340" y="306" text-anchor="middle">the weaker the five forces, the more attractive the industry</text>
+</svg>
 
 ## Competitive positioning (the 2×2)
 

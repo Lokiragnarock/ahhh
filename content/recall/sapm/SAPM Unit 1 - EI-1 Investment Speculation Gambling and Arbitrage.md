@@ -75,6 +75,26 @@ A share trades at **₹500 on NSE** and **₹502 on BSE** at the same moment. An
 - If transaction costs are 0.05% of each side's value: 0.0005 × (5,00,000 + 5,02,000) = ₹501. **Net profit ≈ ₹1,499**.
 - The buying on NSE and selling on BSE quickly close the gap. In practice such gaps are tiny and last seconds; algorithmic traders capture them.
 
+<svg width="100%" style="max-width:680px;display:block;margin:12px auto" viewBox="0 0 680 235" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Arbitrage on a Rs 2 price gap</title>
+<desc>Buy 1,000 shares on NSE at 500 and sell 1,000 on BSE at 502 at the same moment. The gap of 2 per share gives gross profit of 2,000, of which 501 goes to transaction costs, leaving about 1,499 net.</desc>
+<defs><marker id="ei1-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1 1 L9 5 L1 9" fill="none" stroke="#5F5E5A" stroke-width="1.5" stroke-linejoin="round"/></marker></defs>
+<rect x="40" y="24" width="180" height="72" rx="6" fill="none" stroke="#5F5E5A" stroke-width="2"/>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="130" y="52" text-anchor="middle">NSE: ₹500</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="130" y="76" text-anchor="middle">Buy 1,000 shares</text>
+<rect x="460" y="24" width="180" height="72" rx="6" fill="none" stroke="#5F5E5A" stroke-width="2"/>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="550" y="52" text-anchor="middle">BSE: ₹502</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="550" y="76" text-anchor="middle">Sell 1,000 shares</text>
+<line x1="222" y1="60" x2="458" y2="60" stroke="#5F5E5A" stroke-width="2" marker-end="url(#ei1-arrow)"/>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="340" y="48" text-anchor="middle">both trades at the same moment</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="340" y="82" text-anchor="middle">gap = 502 − 500 = ₹2 a share</text>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="40" y="136" text-anchor="start">Gross profit ₹2,000 (₹2 × 1,000 shares)</text>
+<rect x="40" y="148" width="449.7" height="32" fill="#639922" stroke="#3B6D11" stroke-width="1"/>
+<rect x="489.7" y="148" width="150.3" height="32" fill="#E24B4A" stroke="#A32D2D" stroke-width="1"/>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="264.9" y="202" text-anchor="middle">Net profit ≈ ₹1,499</text>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="564.9" y="202" text-anchor="middle">Costs ₹501</text>
+</svg>
+
 ## Speculation is not useless
 
 Speculators provide **liquidity** and help **price discovery**, and they take risks that hedgers want to shed. Excessive speculation with borrowed money, however, causes bubbles and crashes; SEBI's margin rules and position limits aim to contain it.

@@ -80,6 +80,53 @@ Plot required return (y-axis) against **beta** (x-axis). The SML starts at R_f (
    18% > 14.4%, so P plots above the SML: **undervalued, buy**.
 3. Q: required return = 6 + 0.8 × 7 = **11.6%**. Expected 10% < 11.6%, so Q plots below the SML: **overvalued, avoid or sell**.
 
+<svg width="100%" style="max-width:680px;display:block;margin:12px auto" viewBox="0 0 680 358" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Security market line with stocks P and Q</title>
+<desc>Security market line from the risk-free rate 6% at beta 0, through the market at beta 1 and 13%. Stock P at beta 1.2 requires 14.4% but is expected to return 18%, so it plots above the line and is undervalued. Stock Q at beta 0.8 requires 11.6% but is expected to return 10%, so it plots below the line and is overvalued.</desc>
+<line x1="70" y1="300" x2="70" y2="36" stroke="#888780" stroke-width="1.5"/>
+<line x1="70" y1="300" x2="640" y2="300" stroke="#888780" stroke-width="1.5"/>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="70" y="26" text-anchor="start">Return (%)</text>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="355" y="350" text-anchor="middle">Beta</text>
+<line x1="66" y1="300" x2="70" y2="300" stroke="#888780" stroke-width="1.5"/>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="60" y="304" text-anchor="end">0</text>
+<line x1="66" y1="240" x2="70" y2="240" stroke="#888780" stroke-width="1.5"/>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="60" y="244" text-anchor="end">5</text>
+<line x1="66" y1="180" x2="70" y2="180" stroke="#888780" stroke-width="1.5"/>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="60" y="184" text-anchor="end">10</text>
+<line x1="66" y1="120" x2="70" y2="120" stroke="#888780" stroke-width="1.5"/>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="60" y="124" text-anchor="end">15</text>
+<line x1="66" y1="60" x2="70" y2="60" stroke="#888780" stroke-width="1.5"/>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="60" y="64" text-anchor="end">20</text>
+<line x1="70" y1="300" x2="70" y2="304" stroke="#888780" stroke-width="1.5"/>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="70" y="320" text-anchor="middle">0</text>
+<line x1="210" y1="300" x2="210" y2="304" stroke="#888780" stroke-width="1.5"/>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="210" y="320" text-anchor="middle">0.5</text>
+<line x1="350" y1="300" x2="350" y2="304" stroke="#888780" stroke-width="1.5"/>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="350" y="320" text-anchor="middle">1</text>
+<line x1="490" y1="300" x2="490" y2="304" stroke="#888780" stroke-width="1.5"/>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="490" y="320" text-anchor="middle">1.5</text>
+<line x1="630" y1="300" x2="630" y2="304" stroke="#888780" stroke-width="1.5"/>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="630" y="320" text-anchor="middle">2</text>
+<polyline points="70,228 630,60" fill="none" stroke="#5F5E5A" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="560" y="104" text-anchor="start">SML</text>
+<circle cx="70" cy="228" r="5" fill="#888780" stroke="#5F5E5A" stroke-width="2"/>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="80" y="246" text-anchor="start">Rf 6%</text>
+<circle cx="350" cy="144" r="5" fill="#888780" stroke="#5F5E5A" stroke-width="2"/>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="340" y="132" text-anchor="end">Market: beta 1, 13%</text>
+<line x1="406" y1="84" x2="406" y2="127.2" stroke="#3B6D11" stroke-width="1.5" stroke-dasharray="4 3"/>
+<circle cx="406" cy="127.2" r="4" fill="none" stroke="#5F5E5A" stroke-width="2"/>
+<circle cx="406" cy="84" r="6" fill="#639922" stroke="#3B6D11" stroke-width="2"/>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="416" y="89" text-anchor="start">P: expected 18%</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="416" y="147.2" text-anchor="start">P: required 14.4%</text>
+<line x1="294" y1="160.8" x2="294" y2="180" stroke="#A32D2D" stroke-width="1.5" stroke-dasharray="4 3"/>
+<circle cx="294" cy="160.8" r="4" fill="none" stroke="#5F5E5A" stroke-width="2"/>
+<circle cx="294" cy="180" r="6" fill="#E24B4A" stroke="#A32D2D" stroke-width="2"/>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="284" y="185" text-anchor="end">Q: expected 10%</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="282" y="150.8" text-anchor="end">Q: required 11.6%</text>
+<text font-size="12" font-weight="500" fill="currentColor" font-family="inherit" x="86" y="62" text-anchor="start">Above the line: undervalued, buy</text>
+<text font-size="12" font-weight="500" fill="currentColor" font-family="inherit" x="630" y="280" text-anchor="end">Below the line: overvalued, avoid</text>
+</svg>
+
 ## Worked example 2: beta from returns
 
 **Question:** returns over five years:
@@ -106,6 +153,53 @@ Plot required return (y-axis) against **beta** (x-axis). The SML starts at R_f (
 
 3. Cov = 328 ÷ 5 = 65.6; σ_m² = 200 ÷ 5 = 40 (dividing by n − 1 instead gives the same β, because the divisor cancels).
 4. **β = 65.6 ÷ 40 = 1.64.** An aggressive stock: it moves about 1.64 times the market.
+
+<svg width="100%" style="max-width:680px;display:block;margin:12px auto" viewBox="0 0 680 368" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Beta as the slope of a regression line</title>
+<desc>Scatter of five years of stock returns against market returns, with the fitted line through the means at 8% and 10%. The slope is beta = 328 divided by 200 = 1.64, and the intercept is about minus 3.12%. A dashed triangle shows a run of 5 market points producing a rise of 8.2 stock points.</desc>
+<rect x="70" y="40" width="550" height="270" fill="none" stroke="#888780" stroke-width="1"/>
+<line x1="170" y1="40" x2="170" y2="310" stroke="#888780" stroke-width="1" stroke-dasharray="6 4"/>
+<line x1="70" y1="235" x2="620" y2="235" stroke="#888780" stroke-width="1" stroke-dasharray="6 4"/>
+<line x1="120" y1="310" x2="120" y2="314" stroke="#888780" stroke-width="1.5"/>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="120" y="330" text-anchor="middle">-2</text>
+<line x1="170" y1="310" x2="170" y2="314" stroke="#888780" stroke-width="1.5"/>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="170" y="330" text-anchor="middle">0</text>
+<line x1="295" y1="310" x2="295" y2="314" stroke="#888780" stroke-width="1.5"/>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="295" y="330" text-anchor="middle">5</text>
+<line x1="420" y1="310" x2="420" y2="314" stroke="#888780" stroke-width="1.5"/>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="420" y="330" text-anchor="middle">10</text>
+<line x1="545" y1="310" x2="545" y2="314" stroke="#888780" stroke-width="1.5"/>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="545" y="330" text-anchor="middle">15</text>
+<line x1="66" y1="310" x2="70" y2="310" stroke="#888780" stroke-width="1.5"/>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="60" y="314" text-anchor="end">-10</text>
+<line x1="66" y1="235" x2="70" y2="235" stroke="#888780" stroke-width="1.5"/>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="60" y="239" text-anchor="end">0</text>
+<line x1="66" y1="160" x2="70" y2="160" stroke="#888780" stroke-width="1.5"/>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="60" y="164" text-anchor="end">10</text>
+<line x1="66" y1="85" x2="70" y2="85" stroke="#888780" stroke-width="1.5"/>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="60" y="89" text-anchor="end">20</text>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="70" y="26" text-anchor="start">Stock return Ri (%)</text>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="345" y="358" text-anchor="middle">Market return Rm (%)</text>
+<polyline points="95,295.3 595,49.3" fill="none" stroke="#7F77DD" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="420" y1="130" x2="420" y2="135.4" stroke="#888780" stroke-width="1" stroke-dasharray="3 3"/>
+<line x1="270" y1="220" x2="270" y2="209.2" stroke="#888780" stroke-width="1" stroke-dasharray="3 3"/>
+<line x1="570" y1="70" x2="570" y2="61.6" stroke="#888780" stroke-width="1" stroke-dasharray="3 3"/>
+<line x1="120" y1="280" x2="120" y2="283" stroke="#888780" stroke-width="1" stroke-dasharray="3 3"/>
+<line x1="470" y1="100" x2="470" y2="110.8" stroke="#888780" stroke-width="1" stroke-dasharray="3 3"/>
+<circle cx="420" cy="130" r="5" fill="#888780" stroke="#5F5E5A" stroke-width="2"/>
+<circle cx="270" cy="220" r="5" fill="#888780" stroke="#5F5E5A" stroke-width="2"/>
+<circle cx="570" cy="70" r="5" fill="#888780" stroke="#5F5E5A" stroke-width="2"/>
+<circle cx="120" cy="280" r="5" fill="#888780" stroke="#5F5E5A" stroke-width="2"/>
+<circle cx="470" cy="100" r="5" fill="#888780" stroke="#5F5E5A" stroke-width="2"/>
+<circle cx="370" cy="160" r="6" fill="none" stroke="#3B6D11" stroke-width="2"/>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="358" y="182" text-anchor="end">Means (8, 10)</text>
+<line x1="370" y1="160" x2="495" y2="160" stroke="#3B6D11" stroke-width="1.5" stroke-dasharray="5 4"/>
+<line x1="495" y1="160" x2="495" y2="98.5" stroke="#3B6D11" stroke-width="1.5" stroke-dasharray="5 4"/>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="432.5" y="176" text-anchor="middle">run 5</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="503" y="133.2" text-anchor="start">rise 8.2</text>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="612" y="262" text-anchor="end">Slope = beta = 328 / 200 = 1.64</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="612" y="282" text-anchor="end">Fitted line: Ri = -3.12 + 1.64 Rm</text>
+</svg>
 
 ## Uses and limitations
 

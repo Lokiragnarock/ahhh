@@ -82,7 +82,84 @@ Compute the mean, SD, CV, covariance and correlation, and advise a risk-averse i
 4. **CV:** A = 7.48 ÷ 10 = **0.75**; B = 3.79 ÷ 8 = **0.47**.
 5. **Covariance** = 132 ÷ 5 = **26.4**; **correlation** = 26.4 ÷ (7.48 × 3.79) = **0.93**.
 
+<svg width="100%" style="max-width:680px;display:block;margin:12px auto" viewBox="0 0 680 280" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Stock A and Stock B annual returns with means</title>
+<desc>Annual returns for five years. Stock A swings between minus 4 and 18 percent around its 10 percent mean, standard deviation 7.48. Stock B stays between 2 and 12 percent around its 8 percent mean, standard deviation 3.79.</desc>
+<line x1="80" y1="30" x2="80" y2="220" stroke="#888780" stroke-width="1"/>
+<line x1="80" y1="182.0" x2="600" y2="182.0" stroke="#888780" stroke-width="1"/>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="74" y="186.0" text-anchor="end">0%</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="74" y="110.0" text-anchor="end">10%</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="74" y="34.0" text-anchor="end">20%</text>
+<line x1="80" y1="106.0" x2="600" y2="106.0" stroke="#1D9E75" stroke-width="1.5" stroke-dasharray="6 4"/>
+<line x1="80" y1="121.2" x2="600" y2="121.2" stroke="#7F77DD" stroke-width="1.5" stroke-dasharray="6 4"/>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="606" y="105.0" text-anchor="start">A mean 10%</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="606" y="131.2" text-anchor="start">B mean 8%</text>
+<polyline points="120,90.8 235,212.4 350,45.2 465,106.0 580,75.6" fill="none" stroke="#1D9E75" stroke-width="2" stroke-linejoin="round"/>
+<polyline points="120,121.2 235,166.8 350,90.8 465,136.4 580,90.8" fill="none" stroke="#7F77DD" stroke-width="2" stroke-linejoin="round"/>
+<circle cx="120" cy="90.8" r="4" fill="#1D9E75" stroke="#1D9E75" stroke-width="1"/>
+<circle cx="120" cy="121.2" r="4" fill="#7F77DD" stroke="#7F77DD" stroke-width="1"/>
+<circle cx="235" cy="212.4" r="4" fill="#1D9E75" stroke="#1D9E75" stroke-width="1"/>
+<circle cx="235" cy="166.8" r="4" fill="#7F77DD" stroke="#7F77DD" stroke-width="1"/>
+<circle cx="350" cy="45.2" r="4" fill="#1D9E75" stroke="#1D9E75" stroke-width="1"/>
+<circle cx="350" cy="90.8" r="4" fill="#7F77DD" stroke="#7F77DD" stroke-width="1"/>
+<circle cx="465" cy="106.0" r="4" fill="#1D9E75" stroke="#1D9E75" stroke-width="1"/>
+<circle cx="465" cy="136.4" r="4" fill="#7F77DD" stroke="#7F77DD" stroke-width="1"/>
+<circle cx="580" cy="75.6" r="4" fill="#1D9E75" stroke="#1D9E75" stroke-width="1"/>
+<circle cx="580" cy="90.8" r="4" fill="#7F77DD" stroke="#7F77DD" stroke-width="1"/>
+<text font-size="12" font-weight="500" fill="currentColor" font-family="inherit" x="120" y="242" text-anchor="middle">Year 1</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="120" y="260" text-anchor="middle">A 12   B 8</text>
+<text font-size="12" font-weight="500" fill="currentColor" font-family="inherit" x="235" y="242" text-anchor="middle">Year 2</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="235" y="260" text-anchor="middle">A -4   B 2</text>
+<text font-size="12" font-weight="500" fill="currentColor" font-family="inherit" x="350" y="242" text-anchor="middle">Year 3</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="350" y="260" text-anchor="middle">A 18   B 12</text>
+<text font-size="12" font-weight="500" fill="currentColor" font-family="inherit" x="465" y="242" text-anchor="middle">Year 4</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="465" y="260" text-anchor="middle">A 10   B 6</text>
+<text font-size="12" font-weight="500" fill="currentColor" font-family="inherit" x="580" y="242" text-anchor="middle">Year 5</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="580" y="260" text-anchor="middle">A 14   B 12</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="40" y="20" text-anchor="start">Annual return (%)</text>
+<line x1="200" y1="16" x2="220" y2="16" stroke="#1D9E75" stroke-width="2"/>
+<text font-size="12" fill="currentColor" font-family="inherit" x="226" y="20" text-anchor="start">Stock A (SD 7.48%)</text>
+<line x1="356" y1="16" x2="376" y2="16" stroke="#7F77DD" stroke-width="2"/>
+<text font-size="12" fill="currentColor" font-family="inherit" x="382" y="20" text-anchor="start">Stock B (SD 3.79%)</text>
+</svg>
+
 **Interpretation and advice:** A offers a higher average return (10% vs 8%) but much higher risk; per unit of return, B is less risky (CV 0.47 vs 0.75), so a **risk-averse investor should prefer B**. The correlation of 0.93 means the two move almost together, so combining them would give little diversification benefit (PM-2).
+
+<svg width="100%" style="max-width:680px;display:block;margin:12px auto" viewBox="0 0 680 275" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Stock A against Stock B returns, correlation 0.93</title>
+<desc>Scatter of the five yearly return pairs, with Stock A return on the horizontal axis and Stock B on the vertical axis. Dashed lines mark the means 10 and 8. The points rise from lower left to upper right along a line, matching a correlation of 0.93 and covariance of 26.4.</desc>
+<line x1="90" y1="220" x2="420" y2="220" stroke="#888780" stroke-width="1"/>
+<line x1="90" y1="40" x2="90" y2="220" stroke="#888780" stroke-width="1"/>
+<line x1="293.1" y1="40" x2="293.1" y2="220" stroke="#888780" stroke-width="1" stroke-dasharray="6 4"/>
+<line x1="90" y1="117.1" x2="420" y2="117.1" stroke="#888780" stroke-width="1" stroke-dasharray="6 4"/>
+<line x1="90" y1="214.1" x2="420" y2="56.6" stroke="#3B6D11" stroke-width="2" stroke-dasharray="6 4"/>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="166.2" y="238" text-anchor="middle">0</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="293.1" y="238" text-anchor="middle">10</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="420.0" y="238" text-anchor="middle">20</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="84" y="224.0" text-anchor="end">0</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="84" y="121.1" text-anchor="end">8</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="84" y="69.7" text-anchor="end">12</text>
+<circle cx="318.5" cy="117.1" r="5" fill="#888780" stroke="#5F5E5A" stroke-width="1"/>
+<circle cx="115.4" cy="194.3" r="5" fill="#888780" stroke="#5F5E5A" stroke-width="1"/>
+<circle cx="394.6" cy="65.7" r="5" fill="#888780" stroke="#5F5E5A" stroke-width="1"/>
+<circle cx="293.1" cy="142.9" r="5" fill="#888780" stroke="#5F5E5A" stroke-width="1"/>
+<circle cx="343.8" cy="65.7" r="5" fill="#888780" stroke="#5F5E5A" stroke-width="1"/>
+<text font-size="12" font-weight="500" fill="currentColor" font-family="inherit" x="326.5" y="111.1" text-anchor="start">Y1</text>
+<text font-size="12" font-weight="500" fill="currentColor" font-family="inherit" x="123.4" y="188.3" text-anchor="start">Y2</text>
+<text font-size="12" font-weight="500" fill="currentColor" font-family="inherit" x="402.6" y="59.7" text-anchor="start">Y3</text>
+<text font-size="12" font-weight="500" fill="currentColor" font-family="inherit" x="301.1" y="147.9" text-anchor="start">Y4</text>
+<text font-size="12" font-weight="500" fill="currentColor" font-family="inherit" x="351.8" y="59.7" text-anchor="start">Y5</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="90" y="24" text-anchor="start">Stock B return (%)</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="297.1" y="36" text-anchor="start">mean A 10</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="96" y="112.1" text-anchor="start">mean B 8</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="255" y="258" text-anchor="middle">Stock A return (%)</text>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="450" y="80" text-anchor="start">Correlation ρ = 0.93</text>
+<text font-size="12" fill="currentColor" font-family="inherit" x="450" y="104" text-anchor="start">Covariance = 26.4</text>
+<text font-size="12" fill="currentColor" font-family="inherit" x="450" y="124" text-anchor="start">26.4 ÷ (7.48 × 3.79) = 0.93</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="450" y="150" text-anchor="start">Points hug a rising line:</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="450" y="168" text-anchor="start">A and B move almost together,</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="450" y="186" text-anchor="start">so little diversification.</text>
+</svg>
 
 ## Traps
 

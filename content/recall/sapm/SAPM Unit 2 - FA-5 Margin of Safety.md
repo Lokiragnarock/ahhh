@@ -47,6 +47,26 @@ Even if your valuation is careful, every input (growth, discount rate, margins) 
 
 **Contrast:** if the share traded at ₹350, margin = (330 − 350) ÷ 330 = **−6.1%**: negative, the share is overvalued: avoid.
 
+<svg viewBox="0 0 680 292" width="100%" style="max-width:680px;display:block;margin:12px auto" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Margin of safety against intrinsic value</title>
+<desc>Bars for intrinsic value 330, market price 270, maximum buy price 247.50 for a 25 percent margin, and a contrast price of 350. The amber gap between price and value is 60 rupees or 18.2 percent; at 350 the price exceeds value, a margin of minus 6.1 percent.</desc>
+<line x1="543.0" y1="28" x2="543.0" y2="250" stroke="#888780" stroke-width="1" stroke-dasharray="6 4"/>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="170" y="61" text-anchor="end">Intrinsic value ₹330</text>
+<rect x="180" y="40" width="363.0" height="32" rx="2" fill="#888780" stroke="#5F5E5A" stroke-width="1"/>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="170" y="117" text-anchor="end">Market price ₹270</text>
+<rect x="180" y="96" width="297.0" height="32" rx="2" fill="#639922" stroke="#3B6D11" stroke-width="1"/>
+<rect x="477.0" y="96" width="66.0" height="32" fill="#EF9F27" fill-opacity="0.5" stroke="#BA7517" stroke-width="1"/>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="170" y="173" text-anchor="end">Max buy price ₹247.50</text>
+<rect x="180" y="152" width="272.2" height="32" rx="2" fill="#1D9E75" stroke="#0F6E56" stroke-width="1"/>
+<rect x="452.2" y="152" width="90.8" height="32" fill="#EF9F27" fill-opacity="0.5" stroke="#BA7517" stroke-width="1"/>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="170" y="229" text-anchor="end">Contrast price ₹350</text>
+<rect x="180" y="208" width="385.0" height="32" rx="2" fill="#E24B4A" stroke="#A32D2D" stroke-width="1"/>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="551.0" y="117" text-anchor="start">₹60 gap = 18.2%</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="551.0" y="173" text-anchor="start">₹82.50 = 25%</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="573.0" y="229" text-anchor="start">−6.1%, avoid</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="340" y="272" text-anchor="middle">bar length = rupees per share; dashed line = intrinsic value</text>
+</svg>
+
 ## Why it matters
 
 1. Protects against **estimation error**.

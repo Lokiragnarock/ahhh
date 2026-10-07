@@ -46,6 +46,23 @@ Arises from factors **specific to a company or industry**. It **can be reduced b
 3. **Liquidity risk:** the risk of not being able to **sell quickly at a fair price**: thinly traded small-cap shares, wide bid-ask spreads, stocks in the trade-to-trade segment or frozen in circuit limits.
 4. (Also: management risk, fraud/governance risk, default/credit risk.)
 
+<svg width="100%" style="max-width:680px;display:block;margin:12px auto" viewBox="0 0 680 300" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Portfolio risk falls as stocks are added</title>
+<desc>Portfolio risk plotted against the number of stocks. Total risk starts high with one stock and falls toward a flat floor. The floor is systematic risk, which diversification cannot remove. The shaded gap between the curve and the floor is unsystematic risk, which shrinks as more stocks are added.</desc>
+<polygon points="70,50.0 100,78.3 130,98.7 170,117.1 220,131.1 280,140.3 350,145.5 430,148.2 520,149.3 620,149.8 620,150 70,150" fill="#EF9F27" fill-opacity="0.5" stroke="none"/>
+<line x1="70" y1="230" x2="620" y2="230" stroke="#888780" stroke-width="1"/>
+<line x1="70" y1="30" x2="70" y2="230" stroke="#888780" stroke-width="1"/>
+<line x1="70" y1="150" x2="620" y2="150" stroke="#5F5E5A" stroke-width="2"/>
+<polyline points="70,50.0 100,78.3 130,98.7 170,117.1 220,131.1 280,140.3 350,145.5 430,148.2 520,149.3 620,149.8" fill="none" stroke="#A32D2D" stroke-width="2" stroke-linejoin="round"/>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="76" y="20" text-anchor="start">Risk (SD of returns)</text>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="80" y="44" text-anchor="start">Total risk</text>
+<line x1="296" y1="94" x2="152" y2="128" stroke="#888780" stroke-width="1" stroke-dasharray="4 3"/>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="300" y="98" text-anchor="start">Unsystematic risk (diversifiable)</text>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="330" y="176" text-anchor="start">Systematic risk (market, non-diversifiable)</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="345" y="256" text-anchor="middle">Number of stocks in the portfolio</text>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="345" y="280" text-anchor="middle">Total risk = systematic risk + unsystematic risk</text>
+</svg>
+
 ## Comparison table
 
 | Basis | Systematic | Unsystematic |

@@ -78,6 +78,33 @@ It shows **why** ROE is high: profit per sale, efficiency of assets, or leverage
 
 **Du Pont:** 12.5% × 0.8 × (1,500 ÷ 850 = 1.765) = **17.6%**. ROE comes from good margins and moderate leverage, not from heavy debt.
 
+<svg viewBox="0 0 680 240" width="100%" style="max-width:680px;display:block;margin:12px auto" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Du Pont tree with worked numbers</title>
+<desc>ROE of 17.6 percent splits into net margin 12.5 percent times asset turnover 0.8 times equity multiplier 1.765.</desc>
+<rect x="220" y="16" width="240" height="58" rx="6" fill="none" stroke="#3B6D11" stroke-width="2"/>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="340" y="40" text-anchor="middle">ROE 17.6%</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="340" y="62" text-anchor="middle">PAT ÷ equity = 150 ÷ 850</text>
+<rect x="25" y="130" width="190" height="66" rx="6" fill="none" stroke="#5F5E5A" stroke-width="2"/>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="120" y="154" text-anchor="middle">Net margin</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="120" y="178" text-anchor="middle">150 ÷ 1,200 = 12.5%</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="120" y="220" text-anchor="middle">profit per ₹ of sales</text>
+<polyline points="120,130 120,104" fill="none" stroke="#888780" stroke-width="2"/>
+<rect x="245" y="130" width="190" height="66" rx="6" fill="none" stroke="#5F5E5A" stroke-width="2"/>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="340" y="154" text-anchor="middle">Asset turnover</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="340" y="178" text-anchor="middle">1,200 ÷ 1,500 = 0.8</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="340" y="220" text-anchor="middle">efficiency of assets</text>
+<polyline points="340,130 340,104" fill="none" stroke="#888780" stroke-width="2"/>
+<rect x="465" y="130" width="190" height="66" rx="6" fill="none" stroke="#5F5E5A" stroke-width="2"/>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="560" y="154" text-anchor="middle">Equity multiplier</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="560" y="178" text-anchor="middle">1,500 ÷ 850 = 1.765</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="560" y="220" text-anchor="middle">leverage: debt-driven if high</text>
+<polyline points="560,130 560,104" fill="none" stroke="#888780" stroke-width="2"/>
+<polyline points="340,74 340,104" fill="none" stroke="#888780" stroke-width="2"/>
+<polyline points="120,104 560,104" fill="none" stroke="#888780" stroke-width="2" stroke-linejoin="round"/>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="230" y="168" text-anchor="middle">×</text>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="450" y="168" text-anchor="middle">×</text>
+</svg>
+
 **Interpretation:** more profitable than the industry (ROE 17.6% vs 15%, margin 12.5% vs 10%), with lower leverage (D/E 0.47 vs 0.8) and safe interest cover, yet it trades at a **lower P/E (18 vs 22)**. Fundamentally the share looks **undervalued relative to peers**, subject to the earnings-quality flag from FA-3 (CFO/PAT 0.73).
 
 ## Seven traps (from the cheat sheet)

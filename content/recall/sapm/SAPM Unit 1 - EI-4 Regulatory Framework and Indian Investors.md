@@ -54,6 +54,36 @@ Theory: a 5-mark "functions of SEBI" or "factors influencing equity investment d
 - **Depositories:** **NSDL** and **CDSL** hold shares in electronic (demat) form through depository participants.
 - **Investor protection:** investor protection funds, SCORES complaints, arbitration, circuit breakers, margin requirements, surveillance.
 
+<svg width="100%" style="max-width:680px;display:block;margin:12px auto" viewBox="0 0 680 245" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Structure of Indian equity market regulation</title>
+<desc>SEBI sits at the top and regulates the stock exchanges, the clearing corporations and the depositories. Appeals against SEBI orders go to the Securities Appellate Tribunal. Trades happen on an exchange, settle through a clearing corporation and are held in demat form at a depository.</desc>
+<defs><marker id="ei4-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1 1 L9 5 L1 9" fill="none" stroke="#5F5E5A" stroke-width="1.5" stroke-linejoin="round"/></marker></defs>
+<rect x="210" y="20" width="180" height="50" rx="6" fill="none" stroke="#3B6D11" stroke-width="2"/>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="300" y="42" text-anchor="middle">SEBI</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="300" y="60" text-anchor="middle">SEBI Act, 1992</text>
+<rect x="500" y="20" width="140" height="50" rx="6" fill="none" stroke="#5F5E5A" stroke-width="2"/>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="570" y="42" text-anchor="middle">SAT</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="570" y="60" text-anchor="middle">Appeals go here</text>
+<line x1="392" y1="45" x2="498" y2="45" stroke="#5F5E5A" stroke-width="2" marker-end="url(#ei4-arrow)"/>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="445" y="38" text-anchor="middle">appeals</text>
+<line x1="300" y1="70" x2="300" y2="100" stroke="#5F5E5A" stroke-width="2"/>
+<line x1="135" y1="100" x2="545" y2="100" stroke="#5F5E5A" stroke-width="2"/>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="308" y="92" text-anchor="start">regulates</text>
+<line x1="135" y1="100" x2="135" y2="128" stroke="#5F5E5A" stroke-width="2" marker-end="url(#ei4-arrow)"/>
+<line x1="340" y1="100" x2="340" y2="128" stroke="#5F5E5A" stroke-width="2" marker-end="url(#ei4-arrow)"/>
+<line x1="545" y1="100" x2="545" y2="128" stroke="#5F5E5A" stroke-width="2" marker-end="url(#ei4-arrow)"/>
+<rect x="40" y="132" width="190" height="56" rx="6" fill="none" stroke="#5F5E5A" stroke-width="2"/>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="135" y="156" text-anchor="middle">Stock exchanges</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="135" y="176" text-anchor="middle">BSE (Sensex), NSE (Nifty 50)</text>
+<rect x="250" y="132" width="180" height="56" rx="6" fill="none" stroke="#5F5E5A" stroke-width="2"/>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="340" y="156" text-anchor="middle">Clearing corporations</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="340" y="176" text-anchor="middle">Guarantee T+1 settlement</text>
+<rect x="450" y="132" width="190" height="56" rx="6" fill="none" stroke="#5F5E5A" stroke-width="2"/>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="545" y="156" text-anchor="middle">Depositories</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="545" y="176" text-anchor="middle">NSDL, CDSL (demat)</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="340" y="224" text-anchor="middle">Trade on an exchange, settle through a clearing corporation, hold at a depository.</text>
+</svg>
+
 ## Profile of Indian equity investors
 
 - **Rapid growth of retail participation** since 2020: demat accounts multiplied, crossing well over 15 crore by 2024; many first-time and young investors from smaller towns, entering through discount brokers and mobile apps.

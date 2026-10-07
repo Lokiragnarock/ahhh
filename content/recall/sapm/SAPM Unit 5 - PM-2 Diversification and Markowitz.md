@@ -32,6 +32,36 @@ A classic 10-mark Section B question: "Explain Markowitz's portfolio theory with
 
 Because unsystematic risk can be diversified away for free, the market pays no premium for it. That is the bridge to CAPM (PM-3): only beta is rewarded.
 
+<svg width="100%" style="max-width:680px;display:block;margin:12px auto" viewBox="0 0 680 366" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Portfolio risk against number of stocks</title>
+<desc>Illustrative chart. Total portfolio risk falls steeply as stocks are added, then flattens. The flat red floor is systematic market risk, which diversification cannot remove. The amber gap between the curve and the floor is unsystematic risk, which diversification removes. Most of the benefit arrives by 15 to 20 stocks.</desc>
+<line x1="70" y1="290" x2="70" y2="40" stroke="#888780" stroke-width="1.5"/>
+<line x1="70" y1="290" x2="630" y2="290" stroke="#888780" stroke-width="1.5"/>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="70" y="26" text-anchor="start">Portfolio risk (SD)</text>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="350" y="336" text-anchor="middle">Number of stocks in the portfolio</text>
+<line x1="88.7" y1="290" x2="88.7" y2="294" stroke="#888780" stroke-width="1.5"/>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="88.7" y="310" text-anchor="middle">1</text>
+<line x1="256.7" y1="290" x2="256.7" y2="294" stroke="#888780" stroke-width="1.5"/>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="256.7" y="310" text-anchor="middle">10</text>
+<line x1="443.3" y1="290" x2="443.3" y2="294" stroke="#888780" stroke-width="1.5"/>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="443.3" y="310" text-anchor="middle">20</text>
+<line x1="630" y1="290" x2="630" y2="294" stroke="#888780" stroke-width="1.5"/>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="630" y="310" text-anchor="middle">30</text>
+<polygon points="88.7,67.8 107.3,122.2 126,144.8 144.7,157.5 163.3,165.8 182,171.6 200.7,176 219.3,179.3 238,182 256.7,184.2 275.3,186.1 294,187.6 312.7,189 331.3,190.1 350,191.1 368.7,192 387.3,192.8 406,193.6 424.7,194.2 443.3,194.8 462,195.3 480.7,195.8 499.3,196.2 518,196.7 536.7,197 555.3,197.4 574,197.7 592.7,198 611.3,198.3 630,198.6 630,206.7 88.7,206.7" fill="#EF9F27" fill-opacity="0.5" stroke="none"/>
+<line x1="70" y1="206.7" x2="630" y2="206.7" stroke="#A32D2D" stroke-width="2"/>
+<polyline points="88.7,67.8 107.3,122.2 126,144.8 144.7,157.5 163.3,165.8 182,171.6 200.7,176 219.3,179.3 238,182 256.7,184.2 275.3,186.1 294,187.6 312.7,189 331.3,190.1 350,191.1 368.7,192 387.3,192.8 406,193.6 424.7,194.2 443.3,194.8 462,195.3 480.7,195.8 499.3,196.2 518,196.7 536.7,197 555.3,197.4 574,197.7 592.7,198 611.3,198.3 630,198.6" fill="none" stroke="#5F5E5A" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="350" y1="195.1" x2="350" y2="245" stroke="#888780" stroke-width="1" stroke-dasharray="4 3"/>
+<line x1="443.3" y1="198.8" x2="443.3" y2="245" stroke="#888780" stroke-width="1" stroke-dasharray="4 3"/>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="396.7" y="262" text-anchor="middle">15 to 20 stocks</text>
+<rect x="330" y="52" width="24" height="12" fill="#EF9F27" fill-opacity="0.5" stroke="#BA7517" stroke-width="1"/>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="362" y="62" text-anchor="start">Unsystematic risk: falls as stocks are added</text>
+<line x1="330" y1="80" x2="354" y2="80" stroke="#5F5E5A" stroke-width="2"/>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="362" y="84" text-anchor="start">Total portfolio risk</text>
+<line x1="330" y1="100" x2="354" y2="100" stroke="#A32D2D" stroke-width="2"/>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="362" y="104" text-anchor="start">Systematic (market) risk: the floor</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="350" y="358" text-anchor="middle">Illustrative shape, not data</text>
+</svg>
+
 ## The effect of correlation, the table to draw
 
 A: 15% return, σ 20%. B: 10% return, σ 12%. Portfolio 50:50, so E(Rp) = 12.5% in every row.
@@ -72,6 +102,28 @@ Plot every possible portfolio of the available stocks on a graph of return (y-ax
 - The **minimum-variance portfolio** is the leftmost point.
 
 Draw it as a curve bulging to the upper-left, with the minimum-variance point marked, a few dominated dots inside, and the efficient segment bold.
+
+<svg width="100%" style="max-width:680px;display:block;margin:12px auto" viewBox="0 0 680 372" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Efficient frontier</title>
+<desc>Illustrative chart of expected return against risk. A curve bulges to the upper left. Its leftmost point is the minimum-variance portfolio. The upper branch above that point is the efficient frontier, drawn in green. The lower branch below that point is inefficient. Two red dots to the right of the curve are dominated: a frontier portfolio gives more return for the same risk.</desc>
+<line x1="70" y1="300" x2="70" y2="36" stroke="#888780" stroke-width="1.5"/>
+<line x1="70" y1="300" x2="640" y2="300" stroke="#888780" stroke-width="1.5"/>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="70" y="26" text-anchor="start">Expected return</text>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="355" y="350" text-anchor="middle">Risk (SD)</text>
+<polyline points="260,204 261.1,210 264.5,216 269.9,222 277.3,228 286.4,234 297.1,240 309.1,246 322.2,252 336.3,258 351.2,264 366.8,270 383,276" fill="none" stroke="#888780" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="6 4"/>
+<polyline points="260,204 261.1,198 264.5,192 269.9,186 277.3,180 286.4,174 297.1,168 309.1,162 322.2,156 336.3,150 351.2,144 366.8,138 383,132 399.7,126 416.8,120 434.4,114 452.2,108 470.3,102 488.7,96 507.2,90 526,84 544.9,78 564,72 583.2,66 602.5,60" fill="none" stroke="#3B6D11" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="260" cy="204" r="6" fill="#639922" stroke="#3B6D11" stroke-width="2"/>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="248" y="208" text-anchor="end">Minimum variance</text>
+<circle cx="450" cy="132" r="5" fill="#E24B4A" stroke="#A32D2D" stroke-width="2"/>
+<circle cx="526" cy="180" r="5" fill="#E24B4A" stroke="#A32D2D" stroke-width="2"/>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="460" y="136" text-anchor="start">Dominated</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="536" y="184" text-anchor="start">Dominated</text>
+<line x1="450" y1="126" x2="450" y2="112.7" stroke="#A32D2D" stroke-width="1" stroke-dasharray="4 3"/>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="460" y="154" text-anchor="start">same risk, more return on the curve</text>
+<text font-size="14" font-weight="500" fill="currentColor" font-family="inherit" x="493.2" y="82" text-anchor="end">Efficient frontier</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="395" y="280" text-anchor="start">Inefficient lower edge</text>
+<text font-size="12" fill="currentColor" opacity="0.7" font-family="inherit" x="355" y="366" text-anchor="middle">Illustrative shape. All portfolios lie on or to the right of the curve.</text>
+</svg>
 
 ## The optimal portfolio
 
