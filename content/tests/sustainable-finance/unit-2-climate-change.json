@@ -1,0 +1,758 @@
+[
+  {
+    "id": "CC-1-01",
+    "node": "CC-1",
+    "unit": "Sustainable Finance Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "Which of the following is a NATURAL driver of climate change on the faculty's list?",
+    "options": [
+      "A) Ocean circulation",
+      "B) Deforestation",
+      "C) Urbanization",
+      "D) Agriculture and livestock"
+    ],
+    "answer": "A",
+    "explanation": "Volcanic eruptions, solar radiation, ocean circulation and natural climate variability are the four natural drivers. Deforestation is the most tempting wrong option because it sounds environmental, but it, urbanization and livestock farming are human drivers."
+  },
+  {
+    "id": "CC-1-02",
+    "node": "CC-1",
+    "unit": "Sustainable Finance Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A steel producer fears that a new carbon tax and a shift of customers to low-carbon suppliers will cut its margins. Under the faculty's classification this is mainly:",
+    "options": [
+      "A) Liability risk",
+      "B) Physical risk",
+      "C) Transition risk",
+      "D) An opportunity"
+    ],
+    "answer": "C",
+    "explanation": "Carbon tax, regulation, changing consumer preferences and technology shifts are transition risks: the cost of moving to a low-carbon economy. Liability risk is the tempting wrong option because a tax feels like a penalty, but liability means being sued or fined (climate lawsuits, investor claims). Physical risk is damage from floods, cyclones and heat."
+  },
+  {
+    "id": "CC-1-03",
+    "node": "CC-1",
+    "unit": "Sustainable Finance Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Aarav Mills has annual sales of ₹1,200 crore, spread evenly over 365 days, and a contribution margin of 35%. A flood closes its plant for 10 days. Its lost contribution is closest to:",
+    "options": [
+      "A) ₹32.88 crore",
+      "B) ₹11.67 crore",
+      "C) ₹14.38 crore",
+      "D) ₹11.51 crore"
+    ],
+    "answer": "D",
+    "explanation": "Lost sales = 1,200 × 10 ÷ 365 = ₹32.88 crore; lost contribution = 32.88 × 35% = ₹11.51 crore. The most tempting wrong option is ₹32.88 crore, which stops at lost sales and forgets that only the contribution margin is lost. ₹11.67 crore uses a 360-day year and ₹14.38 crore uses 292 working days, but the question says sales accrue over 365 days."
+  },
+  {
+    "id": "CC-2-01",
+    "node": "CC-2",
+    "unit": "Sustainable Finance Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "In the faculty's account of the COPs, the Loss and Damage Fund was created at:",
+    "options": [
+      "A) COP28, Dubai (2023)",
+      "B) COP27, Egypt (2022)",
+      "C) COP26, Glasgow (2021)",
+      "D) COP21, Paris (2015)"
+    ],
+    "answer": "B",
+    "explanation": "The Loss and Damage Fund for vulnerable nations hit by climate disasters is the historic outcome of COP27 in Egypt. COP28 is the tempting wrong option because it is remembered for finance, but its headlines are the first Global Stocktake, the transition away from fossil fuels, renewables tripling and efficiency doubling."
+  },
+  {
+    "id": "CC-2-02",
+    "node": "CC-2",
+    "unit": "Sustainable Finance Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A firm emits 250 tonnes of GHG in a year, and its forests and carbon-capture unit remove 180 tonnes. Which statement is correct?",
+    "options": [
+      "A) It has achieved Net Zero because it removes carbon",
+      "B) Its net emissions are 430 tonnes",
+      "C) Its net emissions are 70 tonnes, so it is not yet Net Zero",
+      "D) It is Net Zero once emissions fall below 180 tonnes per day"
+    ],
+    "answer": "C",
+    "explanation": "Net Zero means GHG emitted equals GHG removed. Here 250 − 180 = 70 tonnes remain. The tempting wrong option is that any removal means Net Zero; the 430-tonne option adds emissions and removals instead of netting them."
+  },
+  {
+    "id": "CC-2-03",
+    "node": "CC-2",
+    "unit": "Sustainable Finance Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "hard",
+    "question": "A country's emissions-intensity index (2005 = 100) stood at 80 in 2020, and its pledge needs it to reach 55 by 2030. The required compound annual cut is closest to:",
+    "options": [
+      "A) 3.13% a year",
+      "B) 5.50% a year",
+      "C) 31.25% a year",
+      "D) 3.68% a year"
+    ],
+    "answer": "D",
+    "explanation": "Required cut = 1 − (55 ÷ 80)^(1/10) = 3.68% a year, compounded. The tempting wrong option is 3.13%, which divides the total 31.25% fall by 10 years and ignores compounding. The 31.25% figure is the total fall over the decade, not a yearly rate."
+  },
+  {
+    "id": "CC-3-01",
+    "node": "CC-3",
+    "unit": "Sustainable Finance Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "Under the Panchamrit commitments announced by India at COP26, India aims to reach Net Zero by:",
+    "options": [
+      "A) 2070",
+      "B) 2030",
+      "C) 2050",
+      "D) 2100"
+    ],
+    "answer": "A",
+    "explanation": "Panchamrit sets Net Zero by 2070, along with 500 GW non-fossil capacity, 50% electricity from renewables, lower emissions intensity and a one billion tonne cut in projected emissions by 2030. 2050 is the tempting wrong option because the Paris objective speaks of Net Zero around mid-century, but that is the global objective, not India's date."
+  },
+  {
+    "id": "CC-3-02",
+    "node": "CC-3",
+    "unit": "Sustainable Finance Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Under a CCTS-style scheme (assumed for practice), a plant making 8,00,000 tonnes a year has a target of 2.00 tCO2 per tonne but actually emits 2.10. If a credit costs ₹800 per tCO2, the cost of buying credits to cover the shortfall is:",
+    "options": [
+      "A) ₹134.4 crore",
+      "B) ₹6.4 crore",
+      "C) ₹64 crore",
+      "D) ₹0.64 crore"
+    ],
+    "answer": "B",
+    "explanation": "Shortfall = 8,00,000 × (2.10 − 2.00) = 80,000 t; cost = 80,000 × ₹800 = ₹6.4 crore. The tempting wrong option is ₹134.4 crore, which pays for all 16.8 lakh tonnes of actual emissions rather than only the excess over the target. The other two options slip a decimal place when converting rupees to crore."
+  },
+  {
+    "id": "CC-4-01",
+    "node": "CC-4",
+    "unit": "Sustainable Finance Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "The question \"What if extreme climate events occur?\" is the faculty's description of:",
+    "options": [
+      "A) Credit rating",
+      "B) Scenario analysis",
+      "C) Stress testing",
+      "D) Materiality assessment"
+    ],
+    "answer": "C",
+    "explanation": "Stress testing measures losses from a severe but plausible shock. Scenario analysis is the tempting wrong option; it asks \"What if climate conditions change?\" and looks at gradual paths. Credit rating asks how climate risk affects the ability to repay loans."
+  },
+  {
+    "id": "CC-4-02",
+    "node": "CC-4",
+    "unit": "Sustainable Finance Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A bank has a ₹400 crore exposure. After a flood stress, the borrower's PD becomes 6% and its LGD becomes 60%. The stressed expected loss is:",
+    "options": [
+      "A) ₹24.0 crore",
+      "B) ₹5.4 crore",
+      "C) ₹10.8 crore",
+      "D) ₹14.4 crore"
+    ],
+    "answer": "D",
+    "explanation": "EL = PD × LGD × EAD = 0.06 × 0.60 × 400 = ₹14.4 crore. The tempting wrong option is ₹10.8 crore, which raises PD but keeps the unstressed LGD of 45% (400 × 0.06 × 0.45). ₹24.0 crore ignores LGD altogether, and ₹5.4 crore is the unstressed loss at PD 3% and LGD 45%."
+  },
+  {
+    "id": "CC-5-01",
+    "node": "CC-5",
+    "unit": "Sustainable Finance Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "In the faculty's table of ESG across business functions, \"net-zero roadmap\" is the decision linked to:",
+    "options": [
+      "A) Strategy",
+      "B) Finance",
+      "C) Operations",
+      "D) Procurement"
+    ],
+    "answer": "A",
+    "explanation": "Strategy owns the net-zero roadmap. Finance is the tempting wrong option because roadmaps need funding, but the table pairs Finance with sustainable investments, Operations with energy efficiency and Procurement with sustainable sourcing."
+  },
+  {
+    "id": "CC-5-02",
+    "node": "CC-5",
+    "unit": "Sustainable Finance Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A fund advertises an \"eco-friendly, green portfolio\" with no baseline year, no figures and no independent verification. This is best described as:",
+    "options": [
+      "A) A mitigation strategy",
+      "B) A transition risk",
+      "C) A greenwashing red flag",
+      "D) A Net Zero commitment"
+    ],
+    "answer": "C",
+    "explanation": "Vague words, no baseline or numbers and no assurance are standard greenwashing red flags: claims that make a product look greener than it is. Mitigation is a real action to cut emissions, which the advertisement does not demonstrate, so it is the tempting wrong option."
+  },
+  {
+    "id": "CC-1-04",
+    "node": "CC-1",
+    "unit": "Sustainable Finance Unit 2",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "Define climate change. Explain the greenhouse effect and list the natural and human drivers.",
+    "model_answer": "Climate change is a **long-term alteration of Earth's average weather patterns, caused by natural processes and human activities, particularly the emission of greenhouse gases (GHGs).** It is now a financial risk, not just an environmental issue.\n\n**Greenhouse effect.** Sunlight reaches Earth and Earth absorbs heat; some heat is reflected back, but GHGs trap part of it. Trapped heat causes global warming, and warming drives climate change. The gases are carbon dioxide, methane, nitrous oxide and fluorinated gases.\n\n| Natural drivers | Human drivers (major contributors) |\n|---|---|\n| Volcanic eruptions | Burning fossil fuels |\n| Solar radiation | Industrial emissions |\n| Ocean circulation | Transportation |\n| Natural climate variability | Deforestation; agriculture and livestock; urbanization |\n\nHuman drivers account for most of the recent warming; natural drivers explain past swings, not the rapid recent rise.",
+    "marking_scheme": [
+      {
+        "point": "Definition (long-term change, natural and human causes, GHGs)",
+        "marks": 1
+      },
+      {
+        "point": "Greenhouse effect explained, with the four gases",
+        "marks": 1
+      },
+      {
+        "point": "Natural drivers",
+        "marks": 1
+      },
+      {
+        "point": "Human drivers",
+        "marks": 1
+      },
+      {
+        "point": "Closing line: humans are the major contributor / financial risk",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "CC-1-05",
+    "node": "CC-1",
+    "unit": "Sustainable Finance Unit 2",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Aarav Fabrics Ltd (illustrative) has revenue ₹1,500 crore, EBITDA margin 18%, depreciation ₹50 crore, interest ₹40 crore and tax 25%. A coastal flood shuts the plant for 12 days; contribution margin is 35% and sales accrue evenly over 365 days. Compute the fall in EBITDA and PAT, and state what it shows.",
+    "model_answer": "**Base.** EBITDA = 1,500 × 18% = **₹270 crore**. PAT = (270 − 50 − 40) × 0.75 = **₹135.00 crore**.\n\n**Flood.** Lost sales = 1,500 × 12 ÷ 365 = ₹49.32 crore. Lost contribution = 49.32 × 35% = **₹17.26 crore**.\n\n**Stressed.** EBITDA = 270 − 17.26 = **₹252.74 crore**. PAT = (252.74 − 50 − 40) × 0.75 = **₹122.05 crore**, a fall of 9.6%.\n\n| | Base | After flood |\n|---|---|---|\n| EBITDA (₹ crore) | 270.00 | 252.74 |\n| PAT (₹ crore) | 135.00 | 122.05 |\n\n**Interpretation.** Sales fall only 3.3% but PAT falls 9.6%, because depreciation and interest do not stop (operating leverage). This is the revenue, cost and cash-flow impact of physical risk, so the firm should consider insurance, a second site and resilience capex.",
+    "marking_scheme": [
+      {
+        "point": "Base EBITDA and PAT",
+        "marks": 1
+      },
+      {
+        "point": "Lost sales and lost contribution (365 days, 35%)",
+        "marks": 1
+      },
+      {
+        "point": "Stressed EBITDA and PAT",
+        "marks": 2
+      },
+      {
+        "point": "Interpretation: fixed costs magnify the fall; mitigation",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "CC-2-04",
+    "node": "CC-2",
+    "unit": "Sustainable Finance Unit 2",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "State the Paris Agreement vision and list its objectives. What is Net Zero?",
+    "model_answer": "The **Paris Agreement (2015, adopted at COP21)** aims to keep global warming **below 2°C, preferably 1.5°C, above pre-industrial levels.**\n\n**Objectives:**\n1. Limit temperature rise.\n2. Reduce greenhouse gas emissions.\n3. Achieve Net Zero around mid-century.\n4. Climate finance for developing countries.\n5. Promote adaptation.\n6. Technology transfer.\n7. Nationally Determined Contributions (NDCs): each country sets its own pledge.\n\n**Net Zero** means GHG emitted equals GHG removed from the atmosphere (for example 100 tons emitted and 100 tons absorbed by forests, soils or carbon capture, so net emissions are zero).",
+    "marking_scheme": [
+      {
+        "point": "Vision: below 2°C, preferably 1.5°C",
+        "marks": 1
+      },
+      {
+        "point": "Objectives (seven; full marks for six or more)",
+        "marks": 2
+      },
+      {
+        "point": "Net Zero definition",
+        "marks": 1
+      },
+      {
+        "point": "Example or NDC explanation",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "CC-2-05",
+    "node": "CC-2",
+    "unit": "Sustainable Finance Unit 2",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "Summarise the headline outcomes of COP26, COP27 and COP28, and say what they mean for business.",
+    "model_answer": "| COP | Outcomes |\n|---|---|\n| COP26, Glasgow (2021) | Glasgow Climate Pact; coal phase-down; methane pledge; carbon market rules; climate finance discussions |\n| COP27, Egypt (2022) | Creation of the Loss and Damage Fund for vulnerable nations; focus on climate justice, adaptation and developing countries |\n| COP28, Dubai (2023) | First Global Stocktake; transition away from fossil fuels; renewable energy tripling by 2030; energy efficiency doubled; increased climate finance |\n\n**Business meaning.** These outcomes are more than treaties: they push firms to cut their carbon footprint, disclose emissions and climate risk (BRSR, TCFD/ISSB), improve ESG ratings and invest in renewables, while investors favour low climate risk and strong governance.",
+    "marking_scheme": [
+      {
+        "point": "COP26 outcomes",
+        "marks": 1
+      },
+      {
+        "point": "COP27 outcome",
+        "marks": 1
+      },
+      {
+        "point": "COP28 outcomes",
+        "marks": 1
+      },
+      {
+        "point": "Business implications",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "CC-3-03",
+    "node": "CC-3",
+    "unit": "Sustainable Finance Unit 2",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "Explain India's Panchamrit commitments. Name the global agreements to which India is a signatory.",
+    "model_answer": "India is a signatory to the **UNFCCC, the Kyoto Protocol, the Paris Agreement and the SDGs.** At COP26 (Glasgow) India announced the **Panchamrit** commitments:\n\n1. 500 GW of non-fossil fuel energy capacity by 2030.\n2. 50% of electricity from renewables by 2030.\n3. Reduction in emissions intensity.\n4. A one billion tonne cut in projected carbon emissions by 2030.\n5. Net Zero by 2070.\n\nThey turn the Paris NDC into national targets and signal tighter policy (CCTS, RPO, BRSR), which firms see as transition risk and opportunity.",
+    "marking_scheme": [
+      {
+        "point": "Signatory list (four agreements)",
+        "marks": 1
+      },
+      {
+        "point": "Five Panchamrit commitments (about 3 marks)",
+        "marks": 3
+      },
+      {
+        "point": "Link to policy and business",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "CC-3-04",
+    "node": "CC-3",
+    "unit": "Sustainable Finance Unit 2",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "What does SEBI require for climate and sustainability disclosure? How is climate change financed in India?",
+    "model_answer": "**SEBI disclosure framework:** BRSR (Business Responsibility and Sustainability Report), BRSR Core, ESG disclosure and supply chain sustainability. It matters because investors demand transparency.\n\n**Climate financing in India:**\n- National Action Plan on Climate Change (NAPCC).\n- Sovereign Green Bonds issued by the Government of India.\n- Renewable-energy financing through IREDA.\n- Green financing initiatives by the RBI and financial institutions.\n- Promotion of ESG investments and sustainable finance frameworks.\n\n**Link.** Disclosure lets investors price climate risk, and green finance channels capital to mitigation, so the two work together.",
+    "marking_scheme": [
+      {
+        "point": "SEBI frameworks (BRSR, BRSR Core, ESG, supply chain) and reason",
+        "marks": 2
+      },
+      {
+        "point": "Climate finance sources (any four)",
+        "marks": 2
+      },
+      {
+        "point": "Link between disclosure and finance",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "CC-4-03",
+    "node": "CC-4",
+    "unit": "Sustainable Finance Unit 2",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "Name the three climate risk assessment tools used by banks and companies. How do they differ?",
+    "model_answer": "| Tool | Faculty question | Focus |\n|---|---|---|\n| Scenario analysis | \"What if climate conditions change?\" | Gradual paths, several plausible futures (e.g. carbon price, temperature) |\n| Stress testing | \"What if extreme climate events occur?\" | Sudden severe shocks (e.g. a 1-in-100-year flood) and resulting losses |\n| Credit rating | How does climate risk affect ability to repay loans? | The repayment outcome: cash-flow cover, leverage, asset quality |\n\n**Difference.** Scenario analysis tests whether strategy survives different futures (not a forecast); stress testing tests resilience to a shock and sets capital buffers (for a bank, via PD, LGD and EAD); the rating translates both into borrowing cost. RBI's climate risk stress testing is an Indian example.",
+    "marking_scheme": [
+      {
+        "point": "Names of the three tools",
+        "marks": 1
+      },
+      {
+        "point": "Faculty questions / definitions",
+        "marks": 1
+      },
+      {
+        "point": "Differences in focus",
+        "marks": 2
+      },
+      {
+        "point": "Example (RBI or numeric)",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "CC-4-04",
+    "node": "CC-4",
+    "unit": "Sustainable Finance Unit 2",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Siddhi Cements (illustrative) emits 2,50,000 tCO2 a year, with EBITDA ₹180 crore and interest ₹45 crore. Run a scenario analysis at carbon prices of ₹400, ₹800 and ₹1,600 per tonne and comment on interest cover.",
+    "model_answer": "Carbon cost = 2,50,000 × price. Interest cover = EBITDA ÷ 45.\n\n| Price (₹/t) | Cost (₹ crore) | EBITDA (₹ crore) | Fall | Interest cover |\n|---|---|---|---|---|\n| Base | 0 | 180 | 0% | 4.00x |\n| 400 | 10 | 170 | 5.6% | 3.78x |\n| 800 | 20 | 160 | 11.1% | 3.56x |\n| 1,600 | 40 | 140 | 22.2% | 3.11x |\n\n**Comment.** Cover stays above 3x even at ₹1,600, so debt service survives, but profit falls by more than a fifth. The firm should invest in efficiency and a transition plan to protect its credit rating.",
+    "marking_scheme": [
+      {
+        "point": "Carbon cost at each price",
+        "marks": 1
+      },
+      {
+        "point": "EBITDA, percentage fall and interest cover",
+        "marks": 2
+      },
+      {
+        "point": "Interpretation / decision",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "CC-5-03",
+    "node": "CC-5",
+    "unit": "Sustainable Finance Unit 2",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "Explain how ESG influences decisions in six business functions. List the five decisions managers now face.",
+    "model_answer": "| Department | ESG decision |\n|---|---|\n| Finance | Sustainable investments |\n| Marketing | Green branding |\n| HR | Employee well-being |\n| Operations | Energy efficiency |\n| Procurement | Sustainable sourcing |\n| Strategy | Net-zero roadmap |\n\n**Managers now decide:** where to invest, how to manufacture, whom to hire, how much to disclose and whether to issue green bonds. Each carries an ESG cost and benefit, so ESG is business risk and opportunity, not charity. Example: Operations' energy efficiency cuts energy cost and emissions together.",
+    "marking_scheme": [
+      {
+        "point": "Six functions with their ESG decisions",
+        "marks": 3
+      },
+      {
+        "point": "Five managerial decisions",
+        "marks": 1
+      },
+      {
+        "point": "Example or reasoning",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "CC-5-04",
+    "node": "CC-5",
+    "unit": "Sustainable Finance Unit 2",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "What is greenwashing? Give four red flags a manager or investor should test for, and one remedy.",
+    "model_answer": "**Greenwashing** is making environmental or sustainability claims that are false, exaggerated or unsupported, so a product, firm or fund looks greener than it is. It creates liability, the third climate risk.\n\n**Red flags:**\n1. Vague words (\"eco-friendly\") with nothing measured.\n2. No numbers or baseline (cut of what, from which year?).\n3. Cherry-picked scope (Scope 3 and the supply chain left out).\n4. Offsets used instead of real cuts.\n5. No independent assurance of the data.\n\n**Remedy.** Verified and assured disclosure (such as BRSR Core assurance), clear targets and baselines, and withdrawal of misleading labels.",
+    "marking_scheme": [
+      {
+        "point": "Definition",
+        "marks": 1
+      },
+      {
+        "point": "Four red flags (any four)",
+        "marks": 3
+      },
+      {
+        "point": "Remedy",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "CC-1-06",
+    "node": "CC-1",
+    "unit": "Sustainable Finance Unit 2",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "medium",
+    "question": "\"Climate change is a financial risk, not just an environmental issue.\" Discuss, covering the three business climate risks, the impact on corporate financial performance and the opportunities.",
+    "model_answer": "**Introduction.** Climate change is the long-term alteration of Earth's average weather patterns from natural processes and human activity, particularly GHG emissions. It is a financial risk because it changes cash flows, asset values and the cost of capital.\n\n**Three business risks.**\n\n| Physical | Transition | Liability |\n|---|---|---|\n| Floods, cyclones, heatwaves, water scarcity, wildfires | Carbon tax, regulation, changing consumer preferences, technology disruption, renewable transition | Climate lawsuits, investor claims, environmental penalties |\n\nPhysical risk is damage from the climate; transition risk is the cost of moving to a low-carbon economy; liability risk is being sued or fined.\n\n**Impact on financial performance.**\n\n| Area | Impact |\n|---|---|\n| Revenue | Lower sales from disrupted markets |\n| Costs | Higher energy, insurance and compliance costs |\n| Assets | Damage from disasters |\n| Investments | Lower returns on carbon-intensive assets |\n| Cash flow | Operational interruptions |\n| Stock price | Investors react negatively to climate risks |\n\n**Examples.** Toyota (supply-chain disruption after floods), Nestlé (water scarcity hitting production), Tata Steel (high carbon-reduction investment).\n\n**Opportunities.** Renewable energy, electric vehicles, carbon markets, green buildings, sustainable agriculture and ESG investing; Adani Green gained from renewable investment. Investors prefer renewable firms for lower transition risk and policy support.\n\n**Conclusion.** Climate risk touches every financial metric, so managers must price it into strategy; those who act early convert risk into opportunity.",
+    "marking_scheme": [
+      {
+        "point": "Opening: financial-risk thesis and definition",
+        "marks": 1
+      },
+      {
+        "point": "Three risks with examples",
+        "marks": 3
+      },
+      {
+        "point": "Six financial impact areas",
+        "marks": 3
+      },
+      {
+        "point": "Named corporate examples",
+        "marks": 1
+      },
+      {
+        "point": "Opportunities",
+        "marks": 1
+      },
+      {
+        "point": "Conclusion / evaluation",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "CC-2-06",
+    "node": "CC-2",
+    "unit": "Sustainable Finance Unit 2",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "medium",
+    "question": "Discuss the Paris Agreement and the outcomes of COP26, COP27 and COP28. How do these agreements affect corporate strategy and finance?",
+    "model_answer": "**Paris Agreement (COP21, 2015).** Nearly all countries signed. Vision: warming below 2°C, preferably 1.5°C, above pre-industrial levels. Objectives: limit temperature rise; reduce GHG emissions; Net Zero around mid-century; climate finance for developing countries; adaptation; technology transfer; and NDCs, each country's own pledge. Net Zero means GHG emitted equals GHG removed.\n\n| COP | Outcomes |\n|---|---|\n| COP26 Glasgow 2021 | Glasgow Climate Pact, coal phase-down, methane pledge, carbon market rules, climate finance discussions |\n| COP27 Egypt 2022 | Loss and Damage Fund; climate justice, adaptation |\n| COP28 Dubai 2023 | First Global Stocktake, transition away from fossil fuels, renewables x3 and efficiency x2 by 2030, more climate finance |\n\n**Business and finance impact.** Agreements shape trade, international finance, governance, investment decisions, energy transition and innovation. They have encouraged green bonds, ESG investing, carbon markets, sustainable banking and net-zero investing, backed by the World Bank, IMF, ADB, Green Climate Fund and GEF. Firms must now cut their carbon footprint, improve ESG ratings, adopt the circular economy, invest in renewables, secure responsible supply chains and disclose (BRSR, TCFD/ISSB). Investors prefer strong ESG performance, low climate risk and good governance.\n\n**Conclusion.** Agreements are strategic frameworks, not only treaties: future business success depends not only on profitability but on alignment with global sustainability commitments.",
+    "marking_scheme": [
+      {
+        "point": "Paris vision and objectives",
+        "marks": 2
+      },
+      {
+        "point": "Net Zero and NDC",
+        "marks": 1
+      },
+      {
+        "point": "COP26, 27, 28 outcomes",
+        "marks": 3
+      },
+      {
+        "point": "Business and finance implications",
+        "marks": 3
+      },
+      {
+        "point": "Conclusion / evaluation",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "CC-3-05",
+    "node": "CC-3",
+    "unit": "Sustainable Finance Unit 2",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "medium",
+    "question": "Describe the regulations and initiatives of the Government of India to mitigate climate risk, including India's international commitments and the financing of climate action.",
+    "model_answer": "**Commitments.** India is a signatory to the UNFCCC, Kyoto Protocol, Paris Agreement and SDGs. At COP26 it announced Panchamrit: 500 GW non-fossil capacity, 50% electricity from renewables, lower emissions intensity, a one billion tonne cut by 2030 and Net Zero by 2070.\n\n**National initiatives.**\n\n| Initiative | Role |\n|---|---|\n| NAPCC | Umbrella national climate plan |\n| Energy Conservation Act | Legal base for energy efficiency |\n| Perform Achieve Trade (PAT) | Efficiency targets for energy-intensive units |\n| National Green Hydrogen Mission | Green hydrogen production and use |\n| Renewable Purchase Obligations (RPO) | Minimum renewable share in power purchase |\n| Carbon Credit Trading Scheme (CCTS) | Carbon market, puts a price on emissions |\n| International Solar Alliance | India-led solar promotion |\n| National Adaptation Fund | Adaptation in vulnerable regions |\n| Green Credit Programme | Rewards voluntary pro-environment action |\n| SEBI BRSR | Mandatory sustainability disclosure |\n\n**SEBI.** BRSR, BRSR Core, ESG disclosure and supply chain sustainability, because investors demand transparency.\n\n**Financing.** NAPCC, sovereign green bonds, IREDA renewable financing, RBI and bank green initiatives, ESG investment frameworks; RBI climate risk stress testing; NITI Aayog net-zero pathways for Viksit Bharat 2047.\n\n**Evaluation.** The framework turns transition risk into legal obligations (disclosure, carbon price, renewable share); firms must treat compliance as a risk-register item. Gaps remain in enforcement, data quality and private finance.",
+    "marking_scheme": [
+      {
+        "point": "Commitments and Panchamrit",
+        "marks": 2
+      },
+      {
+        "point": "National initiatives (any seven, with role)",
+        "marks": 3
+      },
+      {
+        "point": "SEBI disclosure",
+        "marks": 2
+      },
+      {
+        "point": "Financing in India",
+        "marks": 1
+      },
+      {
+        "point": "Evaluation",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "CC-4-05",
+    "node": "CC-4",
+    "unit": "Sustainable Finance Unit 2",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "hard",
+    "question": "(a) Define scenario analysis, stress testing and credit rating as climate risk tools. (3)\n(b) A bank has a ₹800 crore exposure to a coastal manufacturer. Base PD is 2.5% and LGD 40%. After a flood stress, PD rises to 6% and LGD to 55%. Compute the expected loss before and after the stress. (4)\n(c) Interpret the result and recommend actions for the bank and for the borrower. (3)",
+    "model_answer": "**(a)** Scenario analysis asks \"What if climate conditions change?\" and tests strategy across plausible futures. Stress testing asks \"What if extreme climate events occur?\" and measures losses from a severe shock. Credit rating shows how climate risk affects ability to repay loans.\n\n**(b)** EL = PD × LGD × EAD.\n- Base: 0.025 × 0.40 × 800 = **₹8.00 crore**.\n- Stressed: 0.06 × 0.55 × 800 = **₹26.40 crore**.\n- Increase = ₹18.40 crore, or 3.3 times the base (2.3% of the exposure).\n\n| | PD | LGD | EAD (₹ crore) | EL (₹ crore) |\n|---|---|---|---|---|\n| Base | 2.5% | 40% | 800 | 8.00 |\n| Flood stress | 6.0% | 55% | 800 | 26.40 |\n\n**(c)** Climate raises both PD (disruption cuts cash flow) and LGD (collateral is damaged), so loss more than triples. The bank should hold a larger capital or provision buffer, price the loan higher, cap coastal exposure or require insurance, and monitor quarterly. The borrower should buy insurance, diversify sites or invest in resilience, which lowers PD and LGD and protects its credit rating and cost of capital. RBI's climate stress testing expects banks to run such tests.",
+    "marking_scheme": [
+      {
+        "point": "Three definitions with faculty questions",
+        "marks": 3
+      },
+      {
+        "point": "Base and stressed EL with formula",
+        "marks": 3
+      },
+      {
+        "point": "Table or ratio (3.3 times)",
+        "marks": 1
+      },
+      {
+        "point": "Interpretation: PD and LGD both rise",
+        "marks": 2
+      },
+      {
+        "point": "Recommendations for bank and borrower",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "CC-5-05",
+    "node": "CC-5",
+    "unit": "Sustainable Finance Unit 2",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "hard",
+    "question": "Anaya Packaging Ltd (illustrative) is considering a rooftop solar plant costing ₹8 crore that saves ₹1.9 crore a year in power costs for 10 years, with no salvage value. Cost of capital is 10% (use the 10-year, 10% annuity factor 6.145).\n(a) Compute NPV and simple payback. (3)\n(b) Find the minimum annual saving needed to break even. (2)\n(c) Explain how ESG considerations affect this managerial decision across functions. (5)",
+    "model_answer": "**(a)** PV of savings = 1.9 × 6.145 = ₹11.68 crore. **NPV = 11.68 − 8 = ₹3.68 crore** (11.6755 − 8 = 3.6755). Simple payback = 8 ÷ 1.9 = **4.21 years**.\n\n**(b)** Break-even saving = 8 ÷ 6.145 = **₹1.30 crore a year**, so savings can fall by about 31% before NPV turns negative.\n\n**(c)** NPV is positive before any carbon benefit, so invest; ESG factors are upside and risk reduction. Finance: sustainable investment that may be funded by a green bond. Operations: energy efficiency and lower energy cost. Strategy: part of the net-zero roadmap and a hedge against a future carbon price (transition risk). Procurement: sustainable sourcing of panels. Marketing: green branding, provided claims are verified to avoid greenwashing. Disclosure: improves the firm's BRSR profile and ESG rating, which investors prefer.\n\n**Decision:** accept the project; it fails only if annual savings fall below about ₹1.30 crore.",
+    "marking_scheme": [
+      {
+        "point": "PV of savings and NPV",
+        "marks": 2
+      },
+      {
+        "point": "Payback",
+        "marks": 1
+      },
+      {
+        "point": "Break-even saving",
+        "marks": 2
+      },
+      {
+        "point": "ESG across functions (any four, with reasoning)",
+        "marks": 4
+      },
+      {
+        "point": "Decision statement",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "CC-6-01",
+    "node": "CC-6",
+    "unit": "Sustainable Finance Unit 2",
+    "type": "case",
+    "marks": 15,
+    "difficulty": "hard",
+    "question": "**Case: Meghnad Alloys Ltd (illustrative, not a real company).** Meghnad Alloys has a coastal plant in Odisha. Revenue is ₹1,800 crore; EBITDA ₹270 crore; interest ₹60 crore; emissions 2,40,000 tCO2 a year. Policy analysts expect a carbon price of ₹1,250 per tonne. A cyclone could close the plant for 12 days; contribution margin is 32%, and sales accrue evenly over 365 days. Its lenders insist on interest cover of at least 3.0x. The board asks for advice.\n\n(a) Identify the physical, transition and liability risks, each tied to a fact in the case. (3)\n(b) Compute EBITDA and interest cover (i) at base, (ii) with the carbon price only, (iii) with carbon price and cyclone. (5)\n(c) Which climate risk tools apply, and which regulations and disclosures are relevant? (3)\n(d) Recommend actions by function and give a decision line, including the carbon price at which the covenant would be breached under the combined case. (4)",
+    "model_answer": "**(a) Risks.** Physical: cyclone and flooding at a coastal plant (12-day closure). Transition: expected carbon price of ₹1,250 on 2,40,000 t. Liability: penalties or investor claims if climate risk is not disclosed (BRSR). Opportunity: efficiency and green-alloy demand. Climate change is a financial risk here, not just an environmental issue.\n\n**(b) Numbers.**\n- Carbon cost = 2,40,000 × 1,250 = ₹30,00,00,000 = **₹30 crore**.\n- Lost sales = 1,800 × 12 ÷ 365 = ₹59.18 crore; lost contribution = 59.18 × 32% = **₹18.94 crore**.\n- Interest cover = EBITDA ÷ 60.\n\n| Case | EBITDA (₹ crore) | Fall | Interest cover |\n|---|---|---|---|\n| Base | 270.00 | 0% | 4.50x |\n| Carbon price only | 240.00 | 11.1% | 4.00x |\n| Carbon price + cyclone | 221.06 | 18.1% | 3.68x |\n\n**(c) Tools and regulation.** Scenario analysis for the carbon-price path; stress test for the cyclone; credit-rating view: cover stays above the 3.0x covenant, so debt service holds with a thinner margin. Regulation: Paris NDCs and India's Panchamrit (Net Zero 2070) signal tighter policy; CCTS will price carbon; SEBI's BRSR and BRSR Core require assured disclosure; an RBI-regulated lender will run climate stress tests.\n\n**(d) Recommendation.** Finance: green capex and a green bond. Operations: energy efficiency and heat recovery to cut tCO2. Procurement: alternative suppliers. Strategy: net-zero roadmap. Insurance and quarterly monitoring for the cyclone. Marketing and HR: avoid unverified claims (greenwashing).\n\n**Break-even carbon price.** Cover of 3.0x needs EBITDA of 180. Available for carbon = 270 − 18.94 − 180 = ₹71.06 crore; 71.06 crore ÷ 2,40,000 t = about **₹2,961 per tonne**.\n\n**Decision line.** Combined carbon and cyclone stress cut EBITDA by about 18% but cover stays 3.68x, so the covenant holds. Invest in abatement and insurance because both costs repeat, and revisit the plan if the expected carbon price approaches ₹2,900 a tonne. All figures are illustrative.",
+    "marking_scheme": [
+      {
+        "point": "Physical, transition and liability risks tied to case facts",
+        "marks": 3
+      },
+      {
+        "point": "Carbon cost and cyclone loss computed",
+        "marks": 2
+      },
+      {
+        "point": "EBITDA and interest cover table (three cases)",
+        "marks": 3
+      },
+      {
+        "point": "Tools: scenario, stress, rating",
+        "marks": 1
+      },
+      {
+        "point": "Regulation and disclosure (Paris/NDC, CCTS, BRSR, RBI)",
+        "marks": 2
+      },
+      {
+        "point": "Recommendation by function and mitigation chain",
+        "marks": 2
+      },
+      {
+        "point": "Break-even carbon price and decision line with interpretation",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "CC-4-06",
+    "node": "CC-4",
+    "unit": "Sustainable Finance Unit 2",
+    "type": "case",
+    "marks": 15,
+    "difficulty": "hard",
+    "question": "**Case: Sahyadri Bank (illustrative, not a real bank).** Sahyadri Bank lends to two borrowers. Loan 1: a coastal resort chain, exposure ₹300 crore, PD 2%, LGD 40%. Loan 2: an inland solar developer, exposure ₹500 crore, PD 1.5%, LGD 35%. The risk team runs a cyclone-flood stress: Loan 1 moves to PD 5%, LGD 55%; Loan 2 moves to PD 2.25%, LGD 35% (the grid is disrupted but assets are intact). The bank has set aside a ₹10 crore climate buffer. Use EL = PD × LGD × EAD.\n\n(a) Distinguish scenario analysis, stress testing and credit rating, and say which one the risk team has run. (3)\n(b) Compute base and stressed expected loss for each loan and for the portfolio. (5)\n(c) Is the buffer adequate? Interpret which loan drives the result. (3)\n(d) Recommend lending, pricing and monitoring decisions, and name the regulatory context. (4)",
+    "model_answer": "**(a)** Scenario analysis asks \"What if climate conditions change?\" (gradual paths); stress testing asks \"What if extreme climate events occur?\" (severe shock); credit rating shows climate impact on ability to repay. The team has run a **stress test**, because it applies one severe event; the results feed the rating view.\n\n**(b)** Loan 1 base = 300 × 0.02 × 0.40 = **₹2.40 crore**; stressed = 300 × 0.05 × 0.55 = **₹8.25 crore**.\nLoan 2 base = 500 × 0.015 × 0.35 = **₹2.625 crore**; stressed = 500 × 0.0225 × 0.35 = **₹3.94 crore** (3.9375).\n\n| Loan | EAD (₹ crore) | Base EL | Stressed EL | Change |\n|---|---|---|---|---|\n| 1 Coastal resort | 300 | 2.40 | 8.25 | +5.85 |\n| 2 Inland solar | 500 | 2.63 | 3.94 | +1.31 |\n| Portfolio | 800 | 5.03 | 12.19 | +7.16 |\n\nPortfolio EL rises from 5.025 to 12.1875, about 2.4 times.\n\n**(c)** Stressed EL of ₹12.19 crore exceeds the ₹10 crore buffer by about ₹2.19 crore, so the buffer is **inadequate**. Loan 1 is 37.5% of exposure but 5.85 of the 7.16 rise (about 82%), because both PD and LGD rise: disruption hurts cash flow and damaged collateral cuts recovery. Loan 2 only sees a higher PD.\n\n**(d)** Increase the buffer to at least ₹12.5 crore or cap coastal exposure; price Loan 1 higher or require insurance and flood-resilient collateral; set covenants for disclosure and a transition plan; monitor quarterly and keep alternative-supplier and insurance chains in borrower plans (the faculty's flood chain). Regulatory context: RBI climate risk stress testing and green financing initiatives; SEBI BRSR disclosure by listed borrowers; Paris and NDC-driven policy.\n\n**Decision line.** The bank should keep lending to both, but lift the buffer and reprice or cap the coastal loan, since about 82% of the stressed rise sits there. If insurance cuts LGD back to 40%, Loan 1's stressed EL falls to 300 × 0.05 × 0.40 = ₹6.00 crore. All figures are illustrative.",
+    "marking_scheme": [
+      {
+        "point": "Three tools distinguished; stress test identified",
+        "marks": 3
+      },
+      {
+        "point": "EL for each loan, base and stressed",
+        "marks": 3
+      },
+      {
+        "point": "Portfolio totals and table",
+        "marks": 2
+      },
+      {
+        "point": "Buffer adequacy with the figure",
+        "marks": 1
+      },
+      {
+        "point": "Interpretation: Loan 1 drives the result; PD and LGD both rise",
+        "marks": 2
+      },
+      {
+        "point": "Lending, pricing and monitoring recommendations",
+        "marks": 2
+      },
+      {
+        "point": "Regulatory context and decision line",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "CC-5-06",
+    "node": "CC-5",
+    "unit": "Sustainable Finance Unit 2",
+    "type": "case",
+    "marks": 15,
+    "difficulty": "hard",
+    "question": "**Case: Tarang Textiles Ltd (illustrative, not a real company).** Tarang's marketing launches an advertisement saying \"We are carbon neutral.\" The sustainability report shows 90,000 tCO2 of Scope 1 and 2 emissions, of which 30,000 t are covered by purchased offsets; no reduction plan is published, supply-chain emissions are excluded and the data is not assured. The CFO also proposes a rooftop solar plant costing ₹12 crore, saving ₹2.6 crore a year in power for 10 years with no salvage value. The plant would cut 18,000 tCO2 a year, which could be valued at an assumed ₹1,000 per tonne. Cost of capital is 10% (10-year annuity factor 6.145).\n\n(a) Compute the NPV and simple payback of the solar plant on power savings alone. (4)\n(b) Recompute the NPV including the value of carbon reduction, and find the break-even annual saving on power alone. (3)\n(c) Evaluate the \"carbon neutral\" claim against greenwashing red flags. (4)\n(d) Recommend actions by function and give a decision line. (4)",
+    "model_answer": "**(a)** PV of savings = 2.6 × 6.145 = ₹15.98 crore. **NPV = 15.98 − 12 = ₹3.98 crore** (15.977 − 12). Payback = 12 ÷ 2.6 = **4.62 years**.\n\n**(b)** Carbon value = 18,000 × ₹1,000 = ₹1.8 crore a year. Total benefit = 2.6 + 1.8 = ₹4.4 crore; PV = 4.4 × 6.145 = ₹27.04 crore; **NPV = ₹15.04 crore**. Break-even power saving = 12 ÷ 6.145 = **₹1.95 crore a year**, about 25% below the expected ₹2.6 crore.\n\n| | PV of benefits (₹ crore) | NPV (₹ crore) |\n|---|---|---|\n| Power savings only | 15.98 | 3.98 |\n| With carbon value | 27.04 | 15.04 |\n\n**(c) Greenwashing test.**\n- Vague, absolute claim: \"carbon neutral\" without defined scope.\n- Offsets over cuts: only 30,000 of 90,000 t (one third) is offset, so the claim is not supported even on its own scope.\n- Cherry-picked scope: supply-chain (Scope 3) emissions are excluded.\n- No reduction plan or baseline, and no independent assurance.\nThe claim is misleading, creating liability risk (regulatory action, investor or consumer claims) and brand risk.\n\n**(d) Recommendation.** Marketing: withdraw or rephrase to a verified statement. Finance: approve the solar plant and consider a green bond. Operations: energy efficiency. Strategy: publish a net-zero roadmap with baseline and targets. Procurement: engage suppliers on Scope 3. Disclosure: BRSR Core with assurance. Investors prefer strong, verified ESG performance.\n\n**Decision line.** Invest: NPV is positive at ₹3.98 crore even before carbon value, and the plant delivers real reductions that can support a later, verified claim; withdraw the \"carbon neutral\" advertisement until emissions are cut and assured. The solar case fails only if power savings drop below ₹1.95 crore a year. All figures are illustrative.",
+    "marking_scheme": [
+      {
+        "point": "NPV on power savings",
+        "marks": 3
+      },
+      {
+        "point": "Payback",
+        "marks": 1
+      },
+      {
+        "point": "NPV including carbon value",
+        "marks": 2
+      },
+      {
+        "point": "Break-even saving",
+        "marks": 1
+      },
+      {
+        "point": "Greenwashing red flags applied to case facts",
+        "marks": 3
+      },
+      {
+        "point": "Liability and brand consequence",
+        "marks": 1
+      },
+      {
+        "point": "Recommendation by function",
+        "marks": 2
+      },
+      {
+        "point": "Decision line with condition",
+        "marks": 2
+      }
+    ]
+  }
+]
