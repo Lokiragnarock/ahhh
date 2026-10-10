@@ -1,0 +1,142 @@
+# BBA304F-5 — Sustainable Finance
+
+Related work: [[00 - Assignment Brief and Rubric]] (CIA 1 — ESG Intelligence Profile)
+
+## 1. Course identity
+
+| Field | Detail |
+|---|---|
+| Semester | 5 |
+| Programme | BBA / BBAH / BBA Fintech Hons Finance |
+| Course type | DSE |
+| Credits/hours | 45 hours, 3 hours/week |
+| LCA | No |
+| Faculty | Dr Saklesh S Nagouda, Dr Sangeetha R, Dr Manu K S, Dr Ambili Jayachandran (ambili.jayachandran@christuniversity.in), Dr Rajeshwari S (rajeshwari.s@christuniversity.in), Dr Aparna Mathur (aparna.mathur@christuniversity.in) |
+
+Class policy highlights: attendance at start of class, separate lecture notebook, proper dress code, tech use only with prior faculty permission, case analysis requires prior reading, academic integrity on assignments.
+
+## 2. Course objectives and outcomes
+
+Course description: introductory course on sustainable finance covering how ESG factors shape investment decisions for corporate managers, professional investors, and market participants; how to interpret ESG metrics against financial returns; risk measurement for issues like climate change; basics of impact investing and sustainable/responsible investment aligned with the UN SDGs.
+
+Objectives:
+1. Understand the fundamental concepts of sustainable finance and its significance in financial decision-making.
+2. Describe the basics of ESG factors and their applications in the finance domain.
+3. Analyse the impact of recent policy and regulatory changes on sustainable finance practices.
+4. Evaluate various sustainable finance products and instruments in financial markets.
+5. Examine how sustainability issues influence management decisions through real-world case studies.
+
+CLOs:
+- **CLO1**: Understand the fundamental concepts of sustainable finance.
+- **CLO2**: Describe the basics of ESG factors and their applications in the finance domain.
+- **CLO3**: Analyse the impact of recent policy and regulatory changes on sustainable finance.
+- **CLO4**: Evaluate sustainable finance products and instruments.
+- **CLO5**: Examine how sustainability issues affect management decisions through case studies.
+
+Domain skill: ability to explore, evaluate, and interpret the implications of sustainable finance practices in corporate operations and strategic decision-making. SDG Goal: SDG-8 (Decent Work and Economic Growth, per the PDF, though the field itself contains a typo: "Decent week and Economic Growth").
+
+## 3. Unit-by-unit syllabus and teaching schedule
+
+| Module | Weeks | Topics | Andragogy highlights |
+|---|---|---|---|
+| Module 1 | Wk 1, 6–11 Jul | History of sustainable finance; definition, scope, and overview of ESG factors; Triple Bottom Line, UN SDGs financing; international agreements on climate change and sustainable development; role of the financial system; evolution of sustainable finance (global and Indian perspective); fundamentals of ESG risk management | People-Planet-Profit classification exercise; Amul cooperative model TBL case |
+| (cont.) | Wk 2, 13–18 Jul | Financial and sustainability (impact) reporting and communication (Indian and global context); regulatory frameworks, governing bodies, and responsible investments | ESG analyst roleplay; mini ESG risk matrix; CIA 1 phased preparation and submission starts |
+| Module 2 | Wk 2–4, 13 Jul–2 Aug | Define climate change and its drivers; impact of climate change on corporate financial performance; objectives of the Paris Agreement (2015) and COP 26/27/28; GOI regulations to mitigate climate risks; regulatory and testing strategies (scenario analysis, stress testing, credit rating); impact of climate change/ESG on managerial decisions and corporations | ESG Sorting Hat activity; Greenwashing vs Genuine Sustainability debate |
+| Module 3 | Wk 5–7, 10 Aug–29 Aug | Overview of sustainable finance strategies and products; pillars of sustainable finance; green bonds, social bonds, sustainability-linked bonds; impact investing and microfinance; climate finance (carbon trading, green loans); introduction to the role of AI in sustainable finance; applications of ML in ESG analysis; green loans and green microfinance (mechanism, benefits, valuation, principles, assessment) | Sustainable Investment Portfolio Game; ESG promise vs actual performance exercise; benchmarking table with ESG rating/renewable energy/board diversity/governance |
+| Module 4 | Wk 8–10, 31 Aug–19 Sep | Risk identification in sustainable finance (market, credit, operational risks); ESG risk quantification and reporting frameworks; sustainable finance risk metrics and corporate disclosure practices; future trends — AI in risk management, blockchain for ESG transparency, emerging trends in ESG analysis | Bhopal gas tragedy (1984) case on S/G risk; carbon credit buy/sell simulation; technology-vs-regulation debate; ESG investor dashboard |
+| Module 5 | Wk 11, 20–26 Sep | Sustainable investment perspectives of HDFC Bank, Infosys, ITC, JSW Steel, and Vedanta Ltd | Case discussion using company ESG/sustainability reports |
+
+## 4. Assessment structure
+
+| Component | Marks/percentage |
+|---|---|
+| CIA I | 20 Marks (100%) |
+| CIA II | 50 Marks (50%) |
+| CIA III | 20 Marks (100%) |
+| ESE | 50 Marks, converted to 30 (60%) |
+| Attendance | 5 |
+
+CO-to-component mapping: CO1 — CIA-1 (20) + ESE (5) = 30. CO2 — CIA-2 (5) + ESE (10) = 15. CO3 — CIA-3 (10) + ESE (10) = 20. CO4 — CIA-3 (5) + ESE (15) = 20. CO5 — CIA-3 (5) + ESE (10) = 15.
+
+## 5. CIA details
+
+### CIA-I — Inside the ESG Reality of a Company: Beyond Greenwashing (ESG Intelligence Profile)
+Individual. Each student prepares an ESG Intelligence Profile on one assigned/approved publicly listed company using annual reports, BRSR/sustainability reports, ESG databases, company websites, media reports. Must:
+- Map the company's ESG risk profile across Environmental, Social, and Governance dimensions.
+- Benchmark against at least **two industry peers** using ESG indicators.
+- Conduct relative ESG analysis (strengths, weaknesses, sustainability positioning).
+- Connect company initiatives to relevant UN SDGs.
+- Identify disclosure gaps, ESG controversies, and possible greenwashing tendencies.
+- Propose practical ESG/sustainable finance improvement strategies.
+- Conduct a short stakeholder perception survey/interview (**minimum 10 respondents**) on the company's sustainability/ESG initiatives.
+
+Phased submission structure:
+| Phase | Date | Component |
+|---|---|---|
+| 1 | 13 July 2026 | Company selection & ESG source identification |
+| 2 | 14 July 2026 | ESG risk matrix preparation |
+| 3 | 15 July 2026 | Peer benchmarking & relative ESG analysis |
+| 4 | 22 July 2026 | Stakeholder survey & interpretation |
+| 5 | 24 July 2026 | ESG disclosure gap analysis & greenwashing evaluation |
+| 6 | 25 July 2026 | ESG improvement strategy |
+| Final | **26 July 2026** | ESG report + poster/infographic |
+
+Report requirements: company snapshot & ESG reputation; ESG risk matrix (environmental — carbon emissions, water usage, waste management, energy dependency; social — labour welfare, diversity & inclusion, customer privacy, community relations; governance — board independence, executive compensation, ethical controversies, transparency); peer benchmarking & relative ESG analysis (ESG ratings, net zero targets, women on board, renewable energy usage, sustainability disclosures, governance practices — assessing which company performs better and why, strongest/weakest pillar, proactive vs reactive, long-term value); SDG alignment mapping (most genuinely addressed SDG, most ignored/weakly addressed SDG); ESG disclosure gap analysis (measurable targets, improving performance, vague claims, greenwashing evidence, media controversies — must identify "one major ESG promise versus actual reported outcome"); ESG improvement strategy (environmental, social, governance, reporting/transparency, sustainable finance initiatives); stakeholder perception survey & interpretation; one-page ESG insight poster/infographic (ESG score snapshot, key ESG risks, SDG alignment, green flags vs red flags, final ESG rating/recommendation).
+
+Submission components: ESG Intelligence Profile Report, ESG Risk Matrix, Peer Benchmarking Table, SDG Mapping & Gap Analysis, ESG Improvement Strategy, Survey Findings & Interpretation, one-page poster/infographic, survey evidence/screenshots, references in APA format, **AI tools and prompts used disclosed**, reflection note on modifications/originality improvements made to AI-generated outputs.
+
+Academic integrity note: AI tools are for support only (idea generation, grammar, data organization) — benchmarking interpretation, stakeholder analysis, survey findings, strategic recommendations, and critical evaluation must reflect original student understanding.
+
+Submission mode: Google Classroom. Individual. **Deadline: 26/07/2026.**
+Rubric top band (4 criteria, 20 marks converted to 15): comprehensive and insightful mapping of E/S/G risks with strong evidence and interpretation; excellent comparison with peers using multiple credible ESG sources and meaningful interpretation; strong connection between company practices and SDGs with critical insight; highly professional, visually engaging, well-structured, persuasive presentation.
+
+### CIA-2 — Mid Semester Examination Case Study (compulsory question, Unit 1, II, III)
+10 marks (converted). Rubric bands (Exemplary/Proficient/Developing/Beginning) across: understanding of ESG concepts, application of ESG in finance/business situations, ethical evaluation of business actions, analysis of ESG risks and implications, communication and presentation.
+No submission mode/deadline field filled in this PDF section — expect standard mid-semester exam scheduling.
+
+### CIA 3 — Sustainable Finance War Room: ESG Crisis & Strategic Response Simulation
+Individual. Assume the role of a Sustainable Finance Strategy Consultant advising a government, financial institution, sovereign wealth fund, stock exchange, or multinational corporation facing a sustainability-related financial challenge. Choose one country-specific global initiative (see table below or an approved equivalent) and design a sustainable finance strategy. Delivered as a simulated boardroom-style policy advisory presentation to classmates acting as investors/regulators/stakeholders, who **peer-evaluate as 20% of the assignment weightage**.
+
+| Country | Global initiative / focus |
+|---|---|
+| India | Sovereign Green Bonds & SEBI ESG Disclosure Framework |
+| European Union | EU Green Deal & EU Taxonomy |
+| United States | Inflation Reduction Act & Climate Investment Incentives |
+| China | Green Credit Policy & Carbon Neutrality 2060 |
+| Japan | GX (Green Transformation) Financing Strategy |
+| United Kingdom | Transition Finance Framework |
+| Singapore | MAS Green Finance Action Plan |
+| Brazil | Amazon Conservation & Climate Finance |
+| UAE | Sustainable Finance Framework & Net Zero 2050 |
+| South Africa | Just Energy Transition Investment Plan |
+| Indonesia | Blue Bonds & Energy Transition Mechanism |
+| Kenya | Climate Adaptation Finance & Green Bond Program |
+
+Must prepare and present: (1) country & ESG context analysis (sustainability challenge, ESG/climate finance context, stakeholder concerns, economic/regulatory background); (2) global initiative evaluation (objectives, significance, ESG relevance, opportunities/challenges); (3) sustainable finance strategy design using **at least two tools** from green bonds, transition finance, sustainability-linked finance, ESG investments, carbon markets, climate finance mechanisms, public-private partnerships; (4) strategic trade-off & risk analysis (growth vs sustainability, profitability vs ESG commitments, transition risks, stakeholder conflicts, governance/implementation challenges); (5) financial & strategic recommendations (ESG improvement roadmap, SDG alignment, governance/disclosure recommendations, long-term value creation); (6) professional presentation with data visualization, ESG metrics, global benchmarks, policy comparisons, financial rationale.
+
+Format: PPT (10–12 slides), 8–10 minute professional presentation, APA references, disclosed AI tool use and prompts, one/two-page reflection (learning outcomes, strategic insights, sustainability trade-offs, use of AI).
+
+Submission mode: Google Classroom and in-class activity. Individual. **Deadline: 20 September 2026.**
+Rubric top band (4-point scale across 5 criteria): strong sustainability/policy analysis with relevant financial insights; well-developed, financially viable, strategically aligned strategy; strong application of international sustainability frameworks and SDGs; critical and insightful evaluation of trade-offs; professional presentation with strong visuals, clarity, and persuasive delivery.
+
+### ESE Question Paper Pattern
+Total 50 marks, 2 hours. Section A: 3 of 5 questions, 5 marks each (15). Section B: 2 of 3 questions, 10 marks each (20). Section C: 1 compulsory case study question (15).
+
+## 6. Reference texts
+
+- Textbook 1: Schoenmaker & Schramade (2019), Chapters 1 & 2
+- Jeucken (2001), *Sustainable Finance and Banking*, Foundational Concepts
+- NITI Aayog (2026) report — Scenarios Towards Viksit Bharat and Net Zero, financing needs
+- Review of Accounting Studies, 27, 1500–1537, DOI 10.1007/s11142-022-09675-3 (stock price reactions to ESG news, role of ESG ratings/disagreement)
+- Review of Financial Studies, 33(3), 1067–1111, DOI 10.1093/rfs/hhz137 (importance of climate risks for institutional investors)
+- UNEP FI banking principles (unepfi.org), UN SDGs (sdgs.un.org), UNFCCC Paris Agreement materials, ICMA sustainable finance principles/green bond guidelines, RBI publications, The GIIN impact investing overview
+- Company sustainability reports used in Module 5 case discussions: Infosys, ITC, Vedanta
+
+## 7. Watch-outs
+
+- **CIA-I has six hard phase deadlines (13, 14, 15, 22, 24, 25 July) before the final 26 July 2026 submission** — this is not a single-deadline assignment; missing an early phase likely costs marks on the phased-submission evaluation even if the final report is complete.
+- Minimum **10 stakeholder survey respondents** required — start recruiting early given the tight July phase schedule.
+- Must benchmark against **at least two industry peers** and identify **one specific ESG promise-vs-outcome gap** — both are explicit deliverables graders will look for by name.
+- AI disclosure is mandatory and explicitly graded: tools used, prompts used, and a reflection on modifications made to AI output for originality — treat this as a required section, not optional boilerplate.
+- CIA 3 has a **20% peer-evaluation weightage** — classmates grade the live presentation, so the boardroom-style delivery matters as much as the written strategy.
+- CIA 3 requires **at least two named sustainable finance tools** applied to the chosen country's initiative — a strategy using only one tool undercuts that rubric criterion.
