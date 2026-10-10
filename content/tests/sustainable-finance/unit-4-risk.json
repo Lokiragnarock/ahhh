@@ -1,0 +1,782 @@
+[
+  {
+    "id": "RK-1-01",
+    "node": "RK-1",
+    "unit": "Sustainable Finance Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "Two banks face the same stricter-emissions rule. Bank X has 5% of its portfolio in coal-linked shares; Bank Y has 40%. In the language of the Unit 4 slides, what differs between the two banks?",
+    "options": [
+      "A) The risk event",
+      "B) The exposure",
+      "C) The ESG driver",
+      "D) The probability that the rule is introduced"
+    ],
+    "answer": "B",
+    "explanation": "The rule, its driver and its probability are the same for both banks, so the risk event is common. Portfolio allocation decides exposure, i.e. how much of each bank is in the line of fire. Option D is the tempting one: probability belongs to the risk side (likelihood x impact), which is identical here."
+  },
+  {
+    "id": "RK-1-02",
+    "node": "RK-1",
+    "unit": "Sustainable Finance Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A fund holds bonds of a thermal power company. New emissions rules are announced, spreads widen and the bond price falls, although the company is still paying interest and principal on time. The risk that has materialised first is:",
+    "options": [
+      "A) Credit risk, because the issuer is a borrower",
+      "B) Market risk, because price and spreads moved on an ESG development",
+      "C) Operational risk, because the rules change the plant's processes",
+      "D) Liquidity risk as a separate head outside market risk"
+    ],
+    "answer": "B",
+    "explanation": "The loss is a fall in market value from repricing, with no failure to repay, so it is market risk (a transition driver). Option A is the tempting one: a bond issuer is a borrower, but credit risk needs weakened ability or willingness to repay. The slides also file liquidity under market risk, not as a separate head (option D)."
+  },
+  {
+    "id": "RK-1-03",
+    "node": "RK-1",
+    "unit": "Sustainable Finance Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Which of the following is NOT one of the five ESG drivers of market risk on the faculty slides?",
+    "options": [
+      "A) Transition risk",
+      "B) Repricing risk",
+      "C) Liquidity risk",
+      "D) Conduct risk"
+    ],
+    "answer": "D",
+    "explanation": "The five market-risk drivers are transition, physical, commodity, repricing and liquidity. Conduct risk (misleading sustainability claims, mis-selling) is one of the six ESG sources of operational risk. Liquidity (C) is the tempting wrong choice because many students treat it as a separate risk head; the slides keep it inside market risk."
+  },
+  {
+    "id": "RK-1-04",
+    "node": "RK-1",
+    "unit": "Sustainable Finance Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Under the Cambridge reading (Cambridge Centre for Risk Studies, 2019), the taxonomy of business risks has six classes. Which option lists them?",
+    "options": [
+      "A) Financial, Geopolitical, Technology, Environmental, Social, Governance",
+      "B) Market, Credit, Operational, Liquidity, Reputational, Legal",
+      "C) Market, Credit, Operational, Environmental, Social, Governance",
+      "D) Strategic, Financial, Compliance, Operational, Reputational, Environmental"
+    ],
+    "answer": "A",
+    "explanation": "Cambridge groups risks by cause into six classes, and E, S and G appear as three of them. Option B is the tempting one: it extends the slide's market/credit/operational taxonomy with heads that Cambridge treats differently (reputation, for example, is a consequence, not a cause). Option C mixes the slide taxonomy with E, S and G and is not the Cambridge list."
+  },
+  {
+    "id": "RK-1-05",
+    "node": "RK-1",
+    "unit": "Sustainable Finance Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A risk register uses score = likelihood (1 to 5) x impact (1 to 5), with bands 1-6 low, 7-12 medium, 13-25 high. A flood risk to a borrower's plant has likelihood 3 and impact 5. The score and band are:",
+    "options": [
+      "A) 8, medium",
+      "B) 15, high",
+      "C) 15, medium",
+      "D) 10, medium"
+    ],
+    "answer": "B",
+    "explanation": "3 x 5 = 15, which falls in the 13-25 high band. Option A adds the two ratings (3 + 5 = 8), the common slip; the score is a product so that a very high impact is not hidden by a middling likelihood."
+  },
+  {
+    "id": "RK-2-01",
+    "node": "RK-2",
+    "unit": "Sustainable Finance Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A lender has an exposure at default of ₹8 crore to a borrower with PD 3% and LGD 45%. Expected loss is:",
+    "options": [
+      "A) ₹24.0 lakh",
+      "B) ₹10.8 lakh",
+      "C) ₹13.2 lakh",
+      "D) ₹0.36 crore"
+    ],
+    "answer": "B",
+    "explanation": "EL = PD x LGD x EAD = 0.03 x 0.45 x 8 crore = ₹0.108 crore = ₹10.8 lakh. Option A is PD x EAD (24 lakh), forgetting LGD, so it ignores recoveries. Option C uses the recovery rate (55%) in place of LGD (45%)."
+  },
+  {
+    "id": "RK-2-02",
+    "node": "RK-2",
+    "unit": "Sustainable Finance Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "hard",
+    "question": "A bank lends ₹400 crore against collateral that, before a flood, is worth exactly ₹400 crore. The flood reduces the collateral value by 25%. Assuming collateral is the only source of recovery, the LGD is:",
+    "options": [
+      "A) 75%",
+      "B) 25%",
+      "C) 0%",
+      "D) 33.3%"
+    ],
+    "answer": "B",
+    "explanation": "Collateral after = 400 x 0.75 = ₹300 crore, recovery rate = 300 / 400 = 75%, LGD = 1 - recovery = 25%. Option A is the recovery rate, not the loss. Option D divides the ₹100 crore shortfall by the ₹300 crore collateral instead of by the exposure."
+  },
+  {
+    "id": "RK-2-03",
+    "node": "RK-2",
+    "unit": "Sustainable Finance Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "hard",
+    "question": "A loan of ₹240 crore is secured by collateral worth ₹300 crore. A cyclone cuts the collateral value by 40%. The loan-to-value (LTV) ratio after the cyclone is:",
+    "options": [
+      "A) 80.0%",
+      "B) 133.3%",
+      "C) 200.0%",
+      "D) 60.0%"
+    ],
+    "answer": "B",
+    "explanation": "Collateral after = 300 x 0.60 = ₹180 crore, so LTV = 240 / 180 = 133.3%; the loan is now under-collateralised. Option A is the LTV before the cyclone (240 / 300). Option C divides by the 40% fall (₹120 crore) instead of by what remains. Option D is the collateral's remaining value as a share of the original (180 / 300), not an LTV."
+  },
+  {
+    "id": "RK-2-04",
+    "node": "RK-2",
+    "unit": "Sustainable Finance Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "A bank's credit team asks: 'Can the borrower's interest cover stay above 2.0 times if the carbon price rises 30% and a flood shuts the plant for a quarter?' This is best described as:",
+    "options": [
+      "A) Scenario analysis",
+      "B) Stress testing",
+      "C) Materiality assessment",
+      "D) ESG scoring"
+    ],
+    "answer": "B",
+    "explanation": "A single severe but plausible shock tested against a pass/fail threshold (the covenant) is a stress test. Scenario analysis is the tempting wrong option: it explores several plausible futures (business as usual, gradual transition, rapid net-zero) over a longer horizon, not one shock against a threshold."
+  },
+  {
+    "id": "RK-3-01",
+    "node": "RK-3",
+    "unit": "Sustainable Finance Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "A sustainability report gives emissions figures that no independent party has checked or assured. Which of the six qualities of good disclosure fails most directly?",
+    "options": [
+      "A) Verifiable",
+      "B) Comparable",
+      "C) Relevant",
+      "D) Consistent"
+    ],
+    "answer": "A",
+    "explanation": "Verifiable means the information can be checked, usually through third-party assurance. Comparable (B) is the tempting choice because unchecked data is often also hard to compare, but comparability concerns common metrics and boundaries across firms and years."
+  },
+  {
+    "id": "RK-3-02",
+    "node": "RK-3",
+    "unit": "Sustainable Finance Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "An investor holds three ESG-rated stocks with weights 50%, 30% and 20% and ESG scores 80, 60 and 40. Using the rule green 70 and above, amber 50 to 69, red below 50, the weighted portfolio score and colour are:",
+    "options": [
+      "A) 60.0, amber",
+      "B) 66.0, amber",
+      "C) 54.0, amber",
+      "D) 66.0, green"
+    ],
+    "answer": "B",
+    "explanation": "Weighted score = 0.5 x 80 + 0.3 x 60 + 0.2 x 40 = 40 + 18 + 8 = 66, which is amber. Option A is the simple average (60), which ignores weights. Option C applies the weights in reverse order (54)."
+  },
+  {
+    "id": "RK-4-01",
+    "node": "RK-4",
+    "unit": "Sustainable Finance Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "hard",
+    "question": "A bank's AI tool screens 1,000 borrowers for serious ESG controversies. Of these, 90 truly have one. The tool flags 60 firms and 45 of the flags are genuine. The recall of the tool is:",
+    "options": [
+      "A) 75%",
+      "B) 50%",
+      "C) 45%",
+      "D) 4.5%"
+    ],
+    "answer": "B",
+    "explanation": "Recall = genuine flags / all genuine cases = 45 / 90 = 50%, so half of the real controversies are missed. Option A is precision (45 / 60), the more tempting figure because it looks reassuring; it measures false alarms, not missed cases."
+  },
+  {
+    "id": "RK-1-06",
+    "node": "RK-1",
+    "unit": "Sustainable Finance Unit 4",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "Explain the three major risks in sustainable finance with an ESG example and the impact of each.",
+    "model_answer": "**ESG risk** is the possibility that ESG factors cause financial loss, lower returns, regulatory problems or reputational damage. Key principle: ESG risk is often a driver of conventional financial risk, not necessarily a separate silo.\n\n| Risk | Meaning and ESG example | Impact |\n|---|---|---|\n| **Market** | Loss from changes in prices, rates or carbon prices influenced by ESG factors. A coal company's valuation falls as economies shift to clean energy | Share-price volatility, lower returns, valuation changes |\n| **Credit** | Borrower cannot meet obligations because of ESG factors. A manufacturer with repeated environmental penalties becomes a higher-risk borrower | Default, higher PD, higher borrowing cost, lower rating |\n| **Operational** | Loss from failed people, processes, systems or external events: weak environmental compliance, inaccurate sustainability data | Financial loss, legal penalties, reputation damage, loss of stakeholder trust |\n\n**Overlap:** one ESG event can trigger all three at once, so the risks are managed in an integrated way.",
+    "marking_scheme": [
+      {
+        "point": "Definition of ESG risk and key principle",
+        "marks": 1
+      },
+      {
+        "point": "Market risk: meaning, example, impact",
+        "marks": 1
+      },
+      {
+        "point": "Credit risk: meaning, example, impact",
+        "marks": 1
+      },
+      {
+        "point": "Operational risk: meaning, example, impact",
+        "marks": 1
+      },
+      {
+        "point": "Overlap of the three risks",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "RK-1-07",
+    "node": "RK-1",
+    "unit": "Sustainable Finance Unit 4",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "Distinguish between risk and exposure. Illustrate with a portfolio example.",
+    "model_answer": "| | Risk | Exposure |\n|---|---|---|\n| Meaning | Probability and potential impact of an uncertain event | Degree to which a person, firm or asset is vulnerable to that risk |\n| Focus | Potential for loss or harm | What is at stake and how much can be affected |\n| Measured by | Likelihood x impact, statistical methods | Positions, conditions or circumstances |\n| Managed by | Reducing probability or mitigating impact | Reducing vulnerability: diversification, safety measures |\n\n**Example:** market volatility is the risk; the portfolio allocation decides the exposure. If a stricter carbon rule is announced, a fund with 40% in coal-linked holdings has far more exposure than one with 5%, though the risk event is the same. Risk is the chance and size of the hit; exposure is how much of you is in the line of fire.",
+    "marking_scheme": [
+      {
+        "point": "Definition of risk and exposure",
+        "marks": 1
+      },
+      {
+        "point": "Difference in focus",
+        "marks": 1
+      },
+      {
+        "point": "Difference in measurement",
+        "marks": 1
+      },
+      {
+        "point": "Difference in management",
+        "marks": 1
+      },
+      {
+        "point": "Portfolio allocation example",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "RK-1-08",
+    "node": "RK-1",
+    "unit": "Sustainable Finance Unit 4",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "A manufacturer has a plant in a flood-prone industrial zone and is financed by a bank loan secured on that plant. Using the ESG transmission chain, explain how a severe flood could end as a credit loss for the bank.",
+    "model_answer": "**Chain (slides):** ESG driver -> business or asset exposure -> financial impact -> risk event -> loss or capital impact.\n\n1. **ESG driver:** more frequent and severe extreme rainfall (a physical climate risk).\n2. **Exposure:** the plant, machinery and the collateral all sit in the flood zone.\n3. **Financial impact:** production interruption, damaged machinery and collateral, weaker cash flow.\n4. **Risk event:** delayed debt service or default; the physical shock is now a credit event.\n5. **Loss / capital impact:** higher PD (cash-flow channel) and higher LGD (collateral channel); the bank provisions more, or loses capital.\n\n**Link:** the flood is an environmental event, but it lands as conventional credit risk, which is the key principle. The bank's responses are insurance, a business-continuity plan, site adaptation, collateral review and climate scenario testing.",
+    "marking_scheme": [
+      {
+        "point": "Five-link chain stated in order",
+        "marks": 2
+      },
+      {
+        "point": "Flood applied to exposure, impact and event",
+        "marks": 1.5
+      },
+      {
+        "point": "Link to PD (cash flow) and LGD (collateral)",
+        "marks": 1
+      },
+      {
+        "point": "Responses by the bank",
+        "marks": 0.5
+      }
+    ]
+  },
+  {
+    "id": "RK-1-09",
+    "node": "RK-1",
+    "unit": "Sustainable Finance Unit 4",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "A lender scores three ESG risks of a borrower on a 1 to 5 scale. R1: carbon regulation (market), likelihood 4, impact 3. R2: flood at the main plant (credit), likelihood 2, impact 5. R3: unreliable ESG data (operational), likelihood 3, impact 2. Using score = likelihood x impact and the bands 1-6 low, 7-12 medium, 13-25 high, compute the scores, rank the risks, give the band of each and state what a risk register must record for the top risk.",
+    "model_answer": "**Scores (L x I):** R1 = 4 x 3 = **12** (medium); R2 = 2 x 5 = **10** (medium); R3 = 3 x 2 = **6** (low).\n\n**Ranking:** R1 (12), R2 (10), R3 (6).\n\n**Interpretation:** no risk is in the high band, but R1 and R2 are close to its edge and need dated action plans; R2 has the highest impact, so it also needs a contingency (insurance, collateral review) even though it is less likely. R3 is handled by control upgrades (maker-checker, validation).\n\n**Register entry for R1:** Risk ID, ESG driver (carbon regulation), risk type (market, transition), exposure, likelihood, impact, existing control, owner, KRI (for example emissions intensity), response; one scoring scale with documented assumptions, and a short, medium or long horizon. The scale and bands are an assumption stated in the question, since the slides give none.",
+    "marking_scheme": [
+      {
+        "point": "Three scores computed correctly",
+        "marks": 1.5
+      },
+      {
+        "point": "Ranking and bands",
+        "marks": 1
+      },
+      {
+        "point": "Interpretation of ranking",
+        "marks": 1
+      },
+      {
+        "point": "Register columns for top risk (ID, driver, type, exposure, control, owner, KRI, response)",
+        "marks": 1.5
+      }
+    ]
+  },
+  {
+    "id": "RK-1-10",
+    "node": "RK-1",
+    "unit": "Sustainable Finance Unit 4",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "The Cambridge Taxonomy of Business Risks (2019) is sometimes used alongside the faculty's market, credit and operational taxonomy. Present the Cambridge reading of six classes and explain how it helps in understanding ESG risk. (Label your answer as the Cambridge reading.)",
+    "model_answer": "**Cambridge reading (Cambridge Centre for Risk Studies, 2019):** a hierarchy of Class : Family : Type, with 6 classes, 37 families and 175 risk types, grouped by **cause**, with each type placed once.\n\n**Six classes:** Financial; Geopolitical; Technology; Environmental; Social; Governance.\n\n**Use for ESG risk:**\n1. E, S and G appear as three of the six classes, while the slide's cross-cutting ESG drivers cut across all of them. This supports the key principle that ESG risk is a driver, not a silo.\n2. Reputation damage is treated as a **consequence** of many threats, not a cause. This agrees with the slide, which lists reputation damage under the impacts of operational risk.\n3. Cambridge finds governance risk the most under-recognised class in company risk registers, so a register should be checked against all six classes.\n4. It works as a checklist for the Define and Identify steps of the workflow.\n\nIn the exam, give the slide taxonomy first and use Cambridge as an added lens.",
+    "marking_scheme": [
+      {
+        "point": "Structure: class, family, type; grouping by cause",
+        "marks": 1
+      },
+      {
+        "point": "Six classes named",
+        "marks": 2
+      },
+      {
+        "point": "E, S, G within classes and link to ESG as driver",
+        "marks": 1
+      },
+      {
+        "point": "Reputation as consequence and governance under-recognised / checklist use",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "RK-2-05",
+    "node": "RK-2",
+    "unit": "Sustainable Finance Unit 4",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "A bank has a loan of ₹20 crore to a cement producer. Before ESG analysis its PD is 2.5% and LGD 40%. After analysing carbon-tax and water-stress exposure, the bank revises PD to 4% and LGD to 50%. EAD is unchanged. Compute the expected loss before and after, the percentage change, and state what the bank should do.",
+    "model_answer": "**Formula:** EL = PD x LGD x EAD.\n\n**Before:** 0.025 x 0.40 x 20 = ₹0.20 crore = **₹20 lakh** (1.0% of the loan).\n\n**After:** 0.04 x 0.50 x 20 = ₹0.40 crore = **₹40 lakh** (2.0% of the loan).\n\n**Change:** (40 - 20) / 20 = **+100%**. PD rose 60% and LGD rose 25%, but because they multiply, EL doubled.\n\n**Decision and interpretation:** the ESG factors (carbon cost and water stress) raise both the chance of default (PD) and the loss if it happens (LGD, through weaker collateral recovery). The bank should price for an extra 1.0 percentage point of expected loss, or take covenants, collateral or a transition plan, and raise provisions (the IFRS 9 link).",
+    "marking_scheme": [
+      {
+        "point": "EL formula stated",
+        "marks": 0.5
+      },
+      {
+        "point": "Before EL correct",
+        "marks": 1
+      },
+      {
+        "point": "After EL correct",
+        "marks": 1
+      },
+      {
+        "point": "Percentage change and why it doubles",
+        "marks": 1
+      },
+      {
+        "point": "Decision / pricing / provisioning interpretation",
+        "marks": 1.5
+      }
+    ]
+  },
+  {
+    "id": "RK-2-06",
+    "node": "RK-2",
+    "unit": "Sustainable Finance Unit 4",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Differentiate scenario analysis from stress testing in sustainable finance. Give the slide examples and the outputs of each.",
+    "model_answer": "| | Scenario analysis | Stress testing |\n|---|---|---|\n| Meaning | Examines how different future climate scenarios could affect a company or financial institution | Evaluates performance under extreme but plausible conditions |\n| Core question | How could risk evolve under different plausible futures? | Can the company remain financially stable if a severe ESG event occurs? |\n| Nature | Several pathways, longer horizon | One severe shock, point of impact |\n| Slide examples | Business as usual (limited action, higher physical risk); gradual transition (moderate costs); rapid net-zero transition (strict policy, higher short-term transition costs) | 30% rise in carbon price; severe flood affecting production; sudden climate regulation; sharp fall in fossil-fuel asset values; major ESG legal penalty |\n| Output | Range of revenue, cost, asset value, PD, LGD, spread, liquidity and capital paths | Pass or fail against a threshold such as coverage or capital |\n\nThey complement each other: scenarios show the direction of travel, stress tests show whether the firm survives a bad day.",
+    "marking_scheme": [
+      {
+        "point": "Definition of each",
+        "marks": 2
+      },
+      {
+        "point": "Slide examples of each",
+        "marks": 2
+      },
+      {
+        "point": "Outputs / difference in nature",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "RK-2-07",
+    "node": "RK-2",
+    "unit": "Sustainable Finance Unit 4",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "hard",
+    "question": "Illustrative borrower, not a real firm. EBITDA before carbon cost is ₹150 crore; interest is ₹50 crore; emissions are 2,50,000 tonnes charged at ₹1,000 per tonne. Interest cover = (EBITDA - carbon cost) / interest. The loan covenant requires cover of at least 2.0 times. Stress 1: the carbon price rises 40%. Stress 2: in addition, a flood shutdown cuts EBITDA by ₹20 crore. Compute interest cover in the base case and under each stress, and state the lender's decision.",
+    "model_answer": "**Base:** carbon cost = 2,50,000 x 1,000 = ₹25 crore. Cover = (150 - 25) / 50 = **2.50 times** (pass).\n\n**Stress 1 (carbon +40%):** cost = 25 x 1.40 = ₹35 crore. Cover = (150 - 35) / 50 = 115 / 50 = **2.30 times** (pass, headroom 0.30).\n\n**Stress 2 (add flood, EBITDA -20):** (150 - 35 - 20) / 50 = 95 / 50 = **1.90 times** (breach of 2.0).\n\n| Case | Carbon cost (₹ crore) | Cover | vs 2.0 |\n|---|---|---|---|\n| Base | 25 | 2.50 | Pass |\n| Carbon +40% | 35 | 2.30 | Pass |\n| Carbon +40% and flood | 35 | 1.90 | Breach |\n\n**Decision:** a carbon shock alone is survivable, but a carbon shock plus a flood breaks the covenant. The lender should seek a transition plan, insurance and a lower limit, and monitor cover as a KRI. Combined shocks matter, consistent with the point that one ESG event can trigger several risks.",
+    "marking_scheme": [
+      {
+        "point": "Base carbon cost and cover",
+        "marks": 1
+      },
+      {
+        "point": "Stress 1 cost and cover",
+        "marks": 1
+      },
+      {
+        "point": "Stress 2 cover",
+        "marks": 1
+      },
+      {
+        "point": "Comparison with covenant",
+        "marks": 1
+      },
+      {
+        "point": "Decision and interpretation",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "RK-3-03",
+    "node": "RK-3",
+    "unit": "Sustainable Finance Unit 4",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "What makes corporate ESG disclosure good? Name the stakeholders who use it and the six qualities it should have, and apply them to a report that states its emissions for one year only, without assurance.",
+    "model_answer": "**Definition:** ESG disclosure is communicating material environmental, social and governance information to stakeholders.\n\n**Stakeholders:** investors, banks, regulators, employees, customers, suppliers and society.\n\n**Six qualities:** good disclosure should be **Accurate, Relevant, Comparable, Consistent, Transparent and Verifiable.**\n\n**Application:** a report that gives one year's emissions only fails comparability and consistency (no prior-year or peer basis), and the lack of assurance fails the verifiable test. It may still be relevant if it covers material issues. A bank should not use it to price risk until restated, assured data is given; a vague claim without a method is also a greenwashing flag, an operational conduct risk.",
+    "marking_scheme": [
+      {
+        "point": "Definition",
+        "marks": 1
+      },
+      {
+        "point": "Stakeholders",
+        "marks": 1
+      },
+      {
+        "point": "Six qualities",
+        "marks": 2
+      },
+      {
+        "point": "Application to the example",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "RK-4-02",
+    "node": "RK-4",
+    "unit": "Sustainable Finance Unit 4",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Discuss the role of AI and blockchain in ESG risk management, with one limit of each.",
+    "model_answer": "The slides list data, model, third-party and cyber risk as operational-risk sources; AI and blockchain help to reduce some of these, but also add others. (The slides only name the topic; the detail below is general knowledge.)\n\n**AI:** text analysis of reports and news flags controversies and greenwashing language (identify); satellite and geospatial data map flood or heat exposure of plants and collateral; ML models can improve PD and LGD estimates (quantify); automated validation lowers the data-error KRI (monitor). **Limit:** biased or poor input data, model risk and lack of explainability, so keep human review and a second data source.\n\n**Blockchain:** a shared, time-stamped ledger gives supply-chain traceability, an audit trail that supports the verifiable and transparent tests, and a registry that reduces double counting of carbon credits. **Limit:** garbage in, garbage out; it records bad data permanently, and cost, energy use and weak standards remain.\n\n**Conclusion:** technology improves identification and monitoring, but it does not replace common standards, assured data and regulation.",
+    "marking_scheme": [
+      {
+        "point": "AI uses (two)",
+        "marks": 1.5
+      },
+      {
+        "point": "Blockchain uses (two)",
+        "marks": 1.5
+      },
+      {
+        "point": "One limit of each",
+        "marks": 1.5
+      },
+      {
+        "point": "Link to operational risk sources / conclusion",
+        "marks": 0.5
+      }
+    ]
+  },
+  {
+    "id": "RK-1-11",
+    "node": "RK-1",
+    "unit": "Sustainable Finance Unit 4",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "medium",
+    "question": "Discuss market, credit and operational risk in sustainable finance. For each, give the meaning, ESG drivers or sources, an identification tool and a worked mini case, and then compare the three.",
+    "model_answer": "**Introduction.** ESG risk is the possibility that ESG factors cause financial loss, lower returns, regulatory problems or reputational damage. Key principle: ESG risk is often a driver of conventional financial risk, not necessarily a separate silo; identification is the first control point because an unidentified risk cannot be measured, priced, mitigated or monitored.\n\n**1. Market risk.** Loss from adverse changes in market variables influenced by ESG information. Drivers: transition, physical, commodity, repricing and liquidity. Tools: exposure mapping, materiality heat map, sensitivity analysis, scenario analysis, stress testing. Mini case: a fund holds bonds of a coal-intensive power company; tighter rules raise compliance cost and capex, profit weakens, spreads widen and the bond price falls.\n\n**2. Credit risk.** The borrower cannot meet obligations because of ESG factors. Channels: environmental, social, governance, plus the collateral channel and the cash-flow channel. Framework: borrower profile, exposure assessment, financial linkage, forward-looking review, decision output (ESG-adjusted rating, covenants, pricing). Mini case: a manufacturer in a flood-prone zone; plant disruption weakens cash flow (PD up) and damaged collateral raises LGD.\n\n**3. Operational risk.** Inadequate or failed processes, people, systems or external events. Six sources: data, model, process, conduct, third-party, cyber/system. Controls: process map, Risk and Control Matrix, maker-checker, audit trails, KRIs. Mini case: a water-reliant manufacturer faces shutdown from regulation or protest; revenue falls and repayment capacity weakens.\n\n| | Market | Credit | Operational |\n|---|---|---|---|\n| Core issue | Value or price sensitivity | Repayment or counterparty deterioration | Process, system or event failure |\n| Indicators | Volatility, spreads, liquidity, concentration | PD, LGD, leverage, coverage, rating migration | Incidents, control breaches, data errors |\n| Impact | Valuation loss, volatility | Default, higher borrowing cost | Penalties, reputation damage |\n\n**Conclusion.** One ESG event can trigger all three at once, so integration, not isolation, is the central principle.",
+    "marking_scheme": [
+      {
+        "point": "Introduction with key principle",
+        "marks": 1
+      },
+      {
+        "point": "Market risk: meaning, drivers, tool, case",
+        "marks": 2
+      },
+      {
+        "point": "Credit risk: meaning, channels, framework, case",
+        "marks": 2
+      },
+      {
+        "point": "Operational risk: meaning, sources, controls, case",
+        "marks": 2
+      },
+      {
+        "point": "Comparative table with indicators",
+        "marks": 2
+      },
+      {
+        "point": "Conclusion on overlap / integration",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "RK-2-08",
+    "node": "RK-2",
+    "unit": "Sustainable Finance Unit 4",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "hard",
+    "question": "A housing-finance company (HFC) has a loan book of ₹2,500 crore, of which 20% is lent to developers of warehouses in a flood-prone port city. A flood is projected to reduce the recoverable value of that collateral by 30%.\n\nAssumptions: PD is 12% for the exposed loans; before the flood, collateral value equals the loan amount; collateral is the only source of recovery.\n\n(a) Identify the exposed amount (EAD). (2)\n(b) Compute the collateral value after the flood, the recovery rate and the LGD. (3)\n(c) Compute the expected credit loss and express it as a percentage of the whole book. (2)\n(d) Compute the LTV before and after the flood. (1)\n(e) Interpret the results and recommend actions. (2)",
+    "model_answer": "**(a) Exposed amount.** EAD = 2,500 x 20% = **₹500 crore**.\n\n**(b) Recovery and LGD.** Collateral before = ₹500 crore (assumption). Unrecoverable = 500 x 30% = ₹150 crore. Collateral after = 500 - 150 = **₹350 crore**. Recovery rate = 350 / 500 = **70%**. LGD = 1 - 0.70 = **30%**.\n\n**(c) Expected credit loss.** ECL = PD x LGD x EAD = 0.12 x 0.30 x 500 = **₹18 crore**. As a share of the book: 18 / 2,500 = **0.72%**.\n\n**(d) LTV.** Before: 500 / 500 = **100%**. After: 500 / 350 = **142.9%**.\n\n**(e) Interpretation.**\n- ₹500 crore (20% of the book) is exposed; after the flood only ₹350 crore of collateral backs ₹500 crore of loans, so the loans become under-collateralised (LTV 142.9%). This is the collateral channel of credit risk, raising LGD.\n- ECL of ₹18 crore (0.72% of the book) should be provisioned (IFRS 9 link) and priced into new lending.\n- Actions: cap exposure to the flood-prone city, demand top-up collateral and flood insurance, diversify geographically, set LTV covenants, and run flood scenarios and stress tests regularly.\n\nThe assumptions must always be written out: if collateral had been worth more than the loan before the flood, recovery would be higher.",
+    "marking_scheme": [
+      {
+        "point": "Exposed amount",
+        "marks": 2
+      },
+      {
+        "point": "Collateral after, recovery rate, LGD",
+        "marks": 3
+      },
+      {
+        "point": "ECL and percentage of book",
+        "marks": 2
+      },
+      {
+        "point": "LTV before and after",
+        "marks": 1
+      },
+      {
+        "point": "Interpretation and recommendations",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "RK-2-09",
+    "node": "RK-2",
+    "unit": "Sustainable Finance Unit 4",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "hard",
+    "question": "A bank has three corporate borrowers. All figures are illustrative.\n\n| Borrower | EAD (₹ crore) | PD | LGD |\n|---|---|---|---|\n| A (thermal power) | 100 | 2% | 40% |\n| B (textile, water-intensive) | 60 | 5% | 50% |\n| C (IT services) | 40 | 1% | 30% |\n\nAfter a carbon-price shock, the bank revises borrower A to PD 3.5% and LGD 50%; B and C are unchanged.\n\n(a) Compute the expected loss of each borrower and of the portfolio before the shock. (3)\n(b) Recompute after the shock and give the percentage increase in portfolio EL. (3)\n(c) Express portfolio EL as a percentage of total EAD, before and after. (1)\n(d) Explain how ESG factors move PD, LGD and EAD and why EL is used for pricing, provisioning and capital. (3)",
+    "model_answer": "**(a) Before.**\n- A: 0.02 x 0.40 x 100 = ₹0.80 crore\n- B: 0.05 x 0.50 x 60 = ₹1.50 crore\n- C: 0.01 x 0.30 x 40 = ₹0.12 crore\n- Portfolio EL = 0.80 + 1.50 + 0.12 = **₹2.42 crore**.\n\n**(b) After.** A: 0.035 x 0.50 x 100 = ₹1.75 crore. B and C unchanged: 1.50 and 0.12. Portfolio EL = 1.75 + 1.50 + 0.12 = **₹3.37 crore**. Increase = (3.37 - 2.42) / 2.42 = 0.95 / 2.42 = **+39.3%**. A's own EL rose from 0.80 to 1.75, i.e. +118.75%.\n\n**(c) EL rate.** Total EAD = 200. Before 2.42 / 200 = **1.21%**; after 3.37 / 200 = **1.685%**.\n\n**(d) Concepts.**\n- ESG raises **PD** when pollution fines, carbon costs or controversy weaken cash flow; raises **LGD** when weak governance, controversy or stranded assets cut collateral value and recovery; and can alter **EAD** when a firm under social pressure restructures obligations or withdraws from markets.\n- Central lens: ability and willingness to repay.\n- EL is the average loss: it is used for **loan pricing** (cover EL plus a return), **provisioning** (IFRS 9 expected credit loss) and, with unexpected losses, to size **regulatory capital** (Basel); aggregation shows concentration.\n\n**Interpretation.** One shock to a single carbon-intensive borrower lifts portfolio EL by about 39%, because PD and LGD multiply. The bank should reprice A, set sector limits and monitor transition plans.",
+    "marking_scheme": [
+      {
+        "point": "Borrower ELs before and portfolio EL",
+        "marks": 3
+      },
+      {
+        "point": "ELs after and percentage increase",
+        "marks": 3
+      },
+      {
+        "point": "EL rates before and after",
+        "marks": 1
+      },
+      {
+        "point": "ESG effect on PD, LGD, EAD",
+        "marks": 1.5
+      },
+      {
+        "point": "Uses of EL: pricing, provisioning, capital",
+        "marks": 1.5
+      }
+    ]
+  },
+  {
+    "id": "RK-3-04",
+    "node": "RK-3",
+    "unit": "Sustainable Finance Unit 4",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "medium",
+    "question": "Discuss ESG reporting frameworks and corporate disclosure practices for managing ESG risk. In your answer include the frameworks named in class, the stakeholders, the qualities of good disclosure and the main challenges.",
+    "model_answer": "**Need.** ESG reporting helps stakeholders understand an organisation's sustainability performance and risks; without reliable disclosure ESG metrics cannot feed into PD, valuation or risk registers.\n\n**Frameworks (slide one-liners):**\n- **GRI**: Global Reporting Initiative, widest stakeholder reporting.\n- **ISSB**: International Sustainability Standards Board, a global baseline for investors.\n- **TCFD**: climate-related financial disclosures, built on four pillars: Governance, Strategy, Risk management, Metrics and targets.\n- **SASB**: industry-specific sustainability information.\n- **BRSR**: Business Responsibility and Sustainability Reporting, the Indian format for listed companies.\nMemory aid (general): GRI asks what impact the firm has on the world; SASB and ISSB ask which sustainability issues change the firm's value.\n\n**Corporate ESG disclosure.** Communicating material E, S and G information to stakeholders: investors, banks, regulators, employees, customers, suppliers and society.\n\n**Qualities.** Accurate, Relevant, Comparable, Consistent, Transparent, Verifiable. Metrics become risk controls only with a threshold, an owner and a review frequency; examples are emissions, water use, accidents, board independence and anti-corruption incidents.\n\n**Challenges.** Poor data quality and availability; inconsistent definitions and ratings that differ across providers; greenwashing and unverified claims (an operational conduct risk); verification of impact; limited instruments and concentrated issuers in impact markets.\n\n**Conclusion.** Frameworks give a common language, but only disclosure that passes the six tests, with third-party assurance, can be relied on by a lender or investor.",
+    "marking_scheme": [
+      {
+        "point": "Need for reporting / link to risk",
+        "marks": 1
+      },
+      {
+        "point": "Five frameworks with one line each",
+        "marks": 3
+      },
+      {
+        "point": "TCFD four pillars",
+        "marks": 1
+      },
+      {
+        "point": "Stakeholders",
+        "marks": 1
+      },
+      {
+        "point": "Six qualities",
+        "marks": 2
+      },
+      {
+        "point": "Challenges",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "RK-5-01",
+    "node": "RK-5",
+    "unit": "Sustainable Finance Unit 4",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "hard",
+    "question": "The 'ESG Risk War Room' activity in class asks a team to pick a sector, identify drivers, build a heat map, rank the top risks and give KRIs and actions.\n\nA team studies a textile exporter (illustrative, not a real firm) and identifies four ESG drivers, scoring likelihood (L) and impact (I) from 1 to 5:\n\n| ID | Driver | Risk type | L | I |\n|---|---|---|---|---|\n| T1 | Water scarcity and pollution fines | Operational / credit | 4 | 4 |\n| T2 | Carbon-intensive buyers demand lower-emission supply | Market | 3 | 4 |\n| T3 | Labour-practice violation in a supplier | Operational (third party) | 2 | 5 |\n| T4 | Inaccurate sustainability data in annual report | Operational (data) | 3 | 2 |\n\nBands: 1-6 low, 7-12 medium, 13-25 high.\n\n(a) Compute scores, bands and rank the risks. (3)\n(b) For the top three give two KRIs and two mitigation actions each. (4)\n(c) Show the transmission chain for T1. (2)\n(d) State the closing 'Chief Risk Officer' decision. (1)",
+    "model_answer": "**(a) Scores (L x I).** T1 = 4 x 4 = **16, high**; T2 = 3 x 4 = **12, medium**; T3 = 2 x 5 = **10, medium**; T4 = 3 x 2 = **6, low**. Ranking: T1, T2, T3, T4. Top three: T1, T2, T3. Note that T3 outranks T4 though T4 is likelier, because impact is much higher.\n\n**(b) KRIs and actions (illustrative).**\n- **T1:** KRIs: water used per unit of output; regulatory notices / pollution-fine count. Actions: effluent treatment and water-recycling capex; compliance audit with an owner (plant head).\n- **T2:** KRIs: emissions intensity; share of orders from buyers with emission targets. Actions: transition plan and energy-efficiency capex; engage buyers and disclose assured data.\n- **T3:** KRIs: supplier audit findings; labour-complaint count. Actions: supplier due diligence and audit rights; supplier code with termination clauses.\n\n**(c) Chain for T1.** ESG driver (water scarcity, pollution) -> exposure (water-reliant plant) -> financial impact (shutdown or fines, lower output, higher cost) -> risk event (weaker repayment, covenant pressure) -> loss or capital impact (higher PD, provisioning).\n\n**(d) Decision.** Act first on T1, the only high-scoring risk, with a funded plan and a board-level owner; give T2 and T3 dated plans; handle T4 through control upgrades (maker-checker and data validation). Review the register periodically.",
+    "marking_scheme": [
+      {
+        "point": "Scores and bands",
+        "marks": 1.5
+      },
+      {
+        "point": "Ranking and reasoning",
+        "marks": 1.5
+      },
+      {
+        "point": "KRIs for top three",
+        "marks": 2
+      },
+      {
+        "point": "Mitigation actions for top three",
+        "marks": 2
+      },
+      {
+        "point": "Transmission chain for T1",
+        "marks": 2
+      },
+      {
+        "point": "Closing decision",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "RK-5-02",
+    "node": "RK-5",
+    "unit": "Sustainable Finance Unit 4",
+    "type": "case",
+    "marks": 15,
+    "difficulty": "hard",
+    "question": "**Case: The Bhopal gas tragedy as a risk-management case.**\n\nTreat only the facts below as given. In December 1984 a toxic gas leak from a pesticide plant in Bhopal, India, killed and injured very large numbers of people. Reports commonly cite non-working safety systems, cost-cutting, reduced staffing and training, weak maintenance, no effective emergency plan and dense housing near the plant. (These descriptions are used as case facts; do not rely on any numbers from outside this question.)\n\nA lender today considers a loan to a *similar hypothetical chemical company with the same safety weaknesses*. Illustrative data:\n- Loan (EAD): ₹800 crore.\n- Before a safety audit: PD 1.5%, LGD 35%.\n- After the audit finds failed safety controls: PD 4%, LGD 50%.\n- A possible one-off liability from an accident: ₹240 crore, against the borrower's net worth of ₹900 crore.\n\nUsing the Unit 4 tools, answer:\n(a) State the key principle and explain how Bhopal illustrates it. (2)\n(b) Identify the ESG drivers, draw the transmission chain, and place the risk in the slide taxonomy and the Cambridge reading. (3)\n(c) Classify the impacts as market, credit and operational. (2)\n(d) Compute the lender's expected loss before and after, the percentage change, and the effect of the liability on net worth. (3)\n(e) Prepare one risk-register row (scores L x I on a 1-5 scale) with owner, KRIs and response. (2)\n(f) Recommend mitigation, monitoring and disclosure. (2)\n(g) Give a one-sentence decision for the lender. (1)",
+    "model_answer": "**(a) Framing (2).** Key principle: ESG risk is often a driver of conventional financial risk, not necessarily a separate silo. Bhopal shows a governance and safety failure (cost-cutting, weak oversight) turning into operational, credit and market loss, and into a social catastrophe.\n\n**(b) Identify (3).** Chain: **governance failure** (cost-cutting, weak maintenance, under-trained staff) -> **exposure** (hazardous plant next to a dense settlement) -> **financial impact** (liability, compensation, regulatory action, licence loss) -> **risk event** (the gas leak) -> **loss** (reputation damage, funding constraints, loss of the business).\nSlide taxonomy: mainly **operational risk**: process risk (maintenance, approvals), people (staffing and training), systems (safety systems failed) and an external event. Cambridge reading: Technology class (industrial accident), Social class (community and occupational health) and the **Governance class**, which Cambridge finds the most under-recognised in company risk registers.\n\n**(c) Classify (2).**\n\n| Risk | Impact |\n|---|---|\n| Operational | Shutdown, deaths and injuries, legal penalties, loss of stakeholder trust |\n| Market | Share-price collapse, repricing, lower valuation, liquidity risk as investors exit |\n| Credit | Higher PD from liability and lost cash flow; lower recovery on a contaminated asset (LGD); lower rating; higher borrowing cost |\n\nOne event triggers all three at once.\n\n**(d) Quantify (3).** Before: 0.015 x 0.35 x 800 = **₹4.2 crore** (0.525% of the loan). After: 0.04 x 0.50 x 800 = **₹16.0 crore** (2.0% of the loan). Change = 16.0 - 4.2 = ₹11.8 crore, i.e. **+281%**. Liability: 240 / 900 = **26.7%** of net worth lost before any production loss.\nDecision line: expected loss rises from 0.525% to 2.0% of the loan and one liability consumes more than a quarter of net worth. Because PD and LGD rise together, EL almost quadruples; found before the event it is a price, after the event it is a loss.\n\n**(e) Register row (2).** B1: driver safety-system failure (governance); type operational; exposure hazardous plant near homes; L 3, I 5, score **15 (high)**; control preventive maintenance; owner plant head and board risk committee; KRIs: safety-system downtime days, overdue maintenance, near-miss count; response: independent audit, capex, community emergency plan. (Scores are illustrative.)\n\n**(f) Mitigate, monitor, disclose (2).** Mitigate: independent safety audits, maker-checker, emergency preparedness with the community, insurance, siting rules, covenants and an exposure cap. Monitor: KRIs with thresholds and escalation to the board; periodic reassessment. Disclose: safety and incident metrics under a framework (BRSR or GRI) meeting the six tests (accurate, relevant, comparable, consistent, transparent, verifiable), with third-party assurance. Technology (sensors, AI alerts) supplements but does not replace governance.\n\n**(g) Conclusion (1).** Price the higher EL, make safety audits and liability insurance loan covenants, cap the exposure, and lend only if the board owns the safety KRIs.",
+    "marking_scheme": [
+      {
+        "point": "(a) Key principle and illustration",
+        "marks": 2
+      },
+      {
+        "point": "(b) Drivers, chain, slide taxonomy and Cambridge reading",
+        "marks": 3
+      },
+      {
+        "point": "(c) Market / credit / operational classification",
+        "marks": 2
+      },
+      {
+        "point": "(d) EL before and after (1.5), change (0.5), liability on net worth (1)",
+        "marks": 3
+      },
+      {
+        "point": "(e) Register row with scores, owner, KRIs, response",
+        "marks": 2
+      },
+      {
+        "point": "(f) Mitigation, monitoring and disclosure",
+        "marks": 2
+      },
+      {
+        "point": "(g) Decision",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "RK-5-03",
+    "node": "RK-5",
+    "unit": "Sustainable Finance Unit 4",
+    "type": "case",
+    "marks": 15,
+    "difficulty": "hard",
+    "question": "**Case: ESG Risk War Room, Vindhya Cement Ltd (a fictional company).**\n\nVindhya Cement has a ₹600 crore bank loan. The bank's CRO convenes a war room. Facts (illustrative):\n- EBITDA before carbon cost: ₹180 crore; interest: ₹45 crore.\n- Emissions: 4,00,000 tonnes, charged at an internal carbon price of ₹500 per tonne.\n- Covenant: interest cover (EBITDA after carbon cost / interest) of at least 3.0 times.\n- Heat and water stress is forecast to cut EBITDA by ₹25 crore in a hot summer.\n- Current PD 2%, LGD 40%; the bank's ESG review suggests PD 3% and LGD 45%.\n\nThe team lists four risks (likelihood, impact on a 1-5 scale): R1 carbon tax (4, 4); R2 heat and water stress at plants (3, 4); R3 weak emissions disclosure causing investor repricing (3, 3); R4 contractor safety accident (2, 4). Bands: 1-6 low, 7-12 medium, 13-25 high.\n\n(a) Map R1 to R4 to market, credit and/or operational risk and name the transmission chain for R1. (3)\n(b) Compute scores and bands, and choose the top three. (3)\n(c) Give two KRIs and two mitigation actions for the top three risks. (2)\n(d) Stress test the covenant: base case, carbon price +50%, and +50% with the heat shock. (3)\n(e) Compute expected loss before and after the ESG revision. (2)\n(f) Give the CRO's briefing: decision and disclosure advice. (2)",
+    "model_answer": "**(a) Mapping (3).** R1 carbon tax: **market** (transition) and credit (cost -> margin -> PD). R2 heat and water stress: **operational** (physical, plant shutdown) with a credit effect. R3 weak disclosure: **market** (repricing) and operational (conduct/data). R4 contractor accident: **operational** (people/process), social driver, with possible credit effect. Chain for R1: carbon regulation -> high-emission plant -> higher operating cost -> margin pressure -> lower credit quality (higher PD).\n\n**(b) Scores (3).** R1 = 4 x 4 = **16 high**; R2 = 3 x 4 = **12 medium**; R3 = 3 x 3 = **9 medium**; R4 = 2 x 4 = **8 medium**. Top three: R1, R2, R3 (R4 is fourth).\n\n**(c) KRIs and actions (2).** R1: emissions intensity; share of capex on low-carbon. Actions: transition plan; efficiency capex. R2: water per tonne; plant downtime days. Actions: water recycling; site adaptation. R3: assurance coverage; rating changes. Actions: assured BRSR disclosure; investor engagement.\n\n**(d) Stress test (3).** Base carbon cost = 4,00,000 x 500 = ₹20 crore. Cover = (180 - 20) / 45 = 160 / 45 = **3.56 times** (pass). Carbon +50%: cost = ₹30 crore; cover = (180 - 30) / 45 = **3.33 times** (pass, thin headroom). Carbon +50% and heat shock: (180 - 30 - 25) / 45 = 125 / 45 = **2.78 times**, a **breach** of 3.0.\n\n**(e) Expected loss (2).** Before: 0.02 x 0.40 x 600 = **₹4.8 crore**. After: 0.03 x 0.45 x 600 = **₹8.1 crore**, up 68.75%. EL rate 0.8% to 1.35%.\n\n**(f) Briefing (2).** Top risk is the carbon tax (16); alone it is survivable but combined with a heat event the covenant breaks and EL rises by about 69%. Recommend: reprice by about 0.55 percentage points of EL, require a dated transition plan and water-risk capex, keep an exposure limit, monitor cover monthly as a KRI. Insist on assured, comparable disclosure, since poor disclosure is a governance factor that triggers repricing.",
+    "marking_scheme": [
+      {
+        "point": "(a) Mapping and chain for R1",
+        "marks": 3
+      },
+      {
+        "point": "(b) Scores, bands, top three",
+        "marks": 3
+      },
+      {
+        "point": "(c) KRIs and mitigation",
+        "marks": 2
+      },
+      {
+        "point": "(d) Stress test: base, shock 1, shock 2",
+        "marks": 3
+      },
+      {
+        "point": "(e) Expected loss before and after",
+        "marks": 2
+      },
+      {
+        "point": "(f) Decision and disclosure advice",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "RK-2-10",
+    "node": "RK-2",
+    "unit": "Sustainable Finance Unit 4",
+    "type": "case",
+    "marks": 15,
+    "difficulty": "hard",
+    "question": "**Case: Climate scenario analysis for a flood-zone manufacturer.**\n\nA bank has a ₹250 crore loan (EAD) to a manufacturer whose main plant is in a flood-prone industrial zone. The bank's risk team runs the three scenarios used in class and estimates (illustrative) the following, with the scenario probabilities it assigns:\n\n| Scenario | Description | PD | LGD | Probability |\n|---|---|---|---|---|\n| S1 Business as usual | Limited climate action, higher physical risk | 4.5% | 50% | 30% |\n| S2 Gradual transition | Moderate policies, moderate transition costs | 2.5% | 40% | 40% |\n| S3 Rapid net-zero | Strict policies, higher short-term transition costs | 4.0% | 45% | 30% |\n\nThe plant is the collateral, worth ₹300 crore today. Separately, a severe flood is projected to cut its value by 40%. For part (d) assume collateral is the only source of recovery and use the S1 PD.\n\n(a) Define scenario analysis and say what outputs the bank should look at. (2)\n(b) Compute expected loss under each scenario. (3)\n(c) Compute the probability-weighted expected loss. (2)\n(d) Stress test: compute the LTV before and after the flood, the recovery rate and the LGD under the flood, and the ECL with PD 4.5%. (3)\n(e) Distinguish the scenario analysis from the stress test used here. (2)\n(f) Recommend the bank's decision and monitoring. (3)",
+    "model_answer": "**(a) Definition (2).** Scenario analysis examines how different plausible future climate pathways could affect a company or financial institution, to prepare for different futures. Outputs: revenue, costs, asset values, PD, LGD, spreads, liquidity and capital adequacy.\n\n**(b) EL by scenario (3).** EL = PD x LGD x EAD. S1: 0.045 x 0.50 x 250 = **₹5.625 crore**. S2: 0.025 x 0.40 x 250 = **₹2.5 crore**. S3: 0.04 x 0.45 x 250 = **₹4.5 crore**.\n\n**(c) Weighted EL (2).** 0.30 x 5.625 + 0.40 x 2.5 + 0.30 x 4.5 = 1.6875 + 1.0 + 1.35 = **₹4.0375 crore** (about 1.6% of the loan). The probabilities are the bank's own assumption, not from the slides.\n\n**(d) Stress test (3).** LTV before = 250 / 300 = **83.3%**. Collateral after = 300 x 0.60 = ₹180 crore; LTV after = 250 / 180 = **138.9%**. Recovery rate = 180 / 250 = **72%**; LGD = 1 - 0.72 = **28%** (collateral shortfall only, as stated). ECL = 0.045 x 0.28 x 250 = **₹3.15 crore**.\n\n**(e) Difference (2).** The three-scenario exercise asks how risk evolves under several plausible futures over a longer horizon and gives a range of PD and LGD. The flood test is a stress test: one severe but plausible shock, tested for its impact on collateral and loss at the point of impact.\n\n**(f) Decision (3).** The worst scenario is S1 (physical risk) at ₹5.625 crore, and the flood pushes LTV to 138.9%, so the loan becomes under-collateralised. Recommend: flood insurance and top-up collateral or an LTV covenant of about 100%; a site-adaptation and business-continuity plan; price for the weighted EL; cap exposure to flood-zone borrowers. Monitor KRIs: share of loans in flood zones, LTV, cash-flow cover, emissions intensity, and repeat the analysis periodically.",
+    "marking_scheme": [
+      {
+        "point": "(a) Definition and outputs",
+        "marks": 2
+      },
+      {
+        "point": "(b) EL under each scenario",
+        "marks": 3
+      },
+      {
+        "point": "(c) Probability-weighted EL",
+        "marks": 2
+      },
+      {
+        "point": "(d) LTV, recovery, LGD, ECL under flood",
+        "marks": 3
+      },
+      {
+        "point": "(e) Scenario analysis vs stress test",
+        "marks": 2
+      },
+      {
+        "point": "(f) Decision, covenants and monitoring",
+        "marks": 3
+      }
+    ]
+  }
+]
