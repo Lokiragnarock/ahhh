@@ -1,0 +1,799 @@
+[
+  {
+    "id": "FS-1-01",
+    "node": "FS-1",
+    "unit": "Sustainable Finance Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "Which event is cited on the faculty slides as the origin of socially responsible investing?",
+    "options": [
+      "A) The Brundtland Report, 1987",
+      "B) The Quakers' Philadelphia Yearly Meeting barring members from the slave trade, 1758",
+      "C) The launch of the Dow Jones Sustainability Index, 1999",
+      "D) The UN Principles for Responsible Investment, 2006"
+    ],
+    "answer": "B",
+    "explanation": "SRI is traced to the Quakers (Religious Society of Friends) and their 1758 ban on the slave trade. Option A is tempting because Brundtland defined sustainable development, but it is a 1987 policy milestone, not the origin of ethical investing. DJSI (1999) and PRI (2006) came much later."
+  },
+  {
+    "id": "FS-1-02",
+    "node": "FS-1",
+    "unit": "Sustainable Finance Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Arrange these in the correct chronological order: (i) World Bank first official green bond, (ii) UN PRI, (iii) Brundtland Report, (iv) Paris Agreement.",
+    "options": [
+      "A) iii, ii, i, iv",
+      "B) ii, iii, i, iv",
+      "C) iii, i, ii, iv",
+      "D) i, ii, iii, iv"
+    ],
+    "answer": "A",
+    "explanation": "Brundtland 1987, PRI 2006, World Bank green bond 2008, Paris 2015. Option C swaps PRI and the green bond: the World Bank bond (2008) came after the 2006 PRI."
+  },
+  {
+    "id": "FS-2-01",
+    "node": "FS-2",
+    "unit": "Sustainable Finance Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "The Triple Bottom Line, coined by John Elkington in the 1990s, adds which two outcomes to economic performance?",
+    "options": [
+      "A) Governance and ethics",
+      "B) Social and environmental",
+      "C) Legal and regulatory",
+      "D) Technological and operational"
+    ],
+    "answer": "B",
+    "explanation": "TBL adds social (People) and environmental (Planet) outcomes to Profit. Governance is tempting because ESG has a G, but TBL has no governance pillar; that belongs to the ESG lens."
+  },
+  {
+    "id": "FS-2-02",
+    "node": "FS-2",
+    "unit": "Sustainable Finance Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "An investor puts capital into enterprises that fix a social market failure in health and education and expects measurable impact alongside a return. Under the faculty categories this is:",
+    "options": [
+      "A) Environmental (green) finance, positive form",
+      "B) Social (impact investment) finance, positive form",
+      "C) Governance (stakeholder) finance, positive form",
+      "D) Social finance, negative form"
+    ],
+    "answer": "B",
+    "explanation": "Funding enterprises that fix a welfare failure is the positive/integrated form of category B, social finance, which evolved into impact investment. Option D is the tempting slip: the negative form means divesting from firms that increase inequality, which is not what the investor does here."
+  },
+  {
+    "id": "FS-3-01",
+    "node": "FS-3",
+    "unit": "Sustainable Finance Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Assume the SDG financing gap is exactly USD 4 trillion a year. What is the cumulative shortfall over 2026-2030 if it stays unchanged (five calendar years)?",
+    "options": [
+      "A) USD 4 trillion",
+      "B) USD 16 trillion",
+      "C) USD 20 trillion",
+      "D) USD 24 trillion"
+    ],
+    "answer": "C",
+    "explanation": "4 x 5 = USD 20 trillion. Option B counts four years (2030 minus 2026), the usual slip when counting inclusive years. Option A forgets to multiply for the period."
+  },
+  {
+    "id": "FS-3-02",
+    "node": "FS-3",
+    "unit": "Sustainable Finance Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A manufacturer's bank loan carries an interest rate that falls if the firm cuts its carbon emissions by a stated target. This is best described as:",
+    "options": [
+      "A) A green bond",
+      "B) A sustainability-linked loan",
+      "C) A debt-for-climate swap",
+      "D) Blended finance"
+    ],
+    "answer": "B",
+    "explanation": "In a sustainability-linked loan the terms (here the interest rate) are tied to sustainability targets, as in the Suzano (2020) slide example. A green bond is tempting but ties the use of proceeds to green projects and carries no target-based rate change."
+  },
+  {
+    "id": "FS-4-01",
+    "node": "FS-4",
+    "unit": "Sustainable Finance Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "What is the key difference between the Paris Agreement and the Kyoto Protocol?",
+    "options": [
+      "A) Paris is legally binding, Kyoto is voluntary",
+      "B) Kyoto set binding targets for developed countries only; under Paris every country submits NDCs",
+      "C) Paris applies only to developing countries",
+      "D) Kyoto introduced the 1.5 C goal"
+    ],
+    "answer": "B",
+    "explanation": "Kyoto (1997) bound developed countries; Paris (2015) asks every country for Nationally Determined Contributions. Option A reverses the position, the commonest slip. The 1.5 C aim is a Paris feature."
+  },
+  {
+    "id": "FS-4-02",
+    "node": "FS-4",
+    "unit": "Sustainable Finance Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "Which COP established the Loss and Damage Fund?",
+    "options": [
+      "A) COP21 Paris",
+      "B) COP26 Glasgow",
+      "C) COP27 Sharm El-Sheikh (Egypt)",
+      "D) COP28 Dubai"
+    ],
+    "answer": "C",
+    "explanation": "COP27 (2022) established the Loss and Damage Fund. COP28 is tempting because it is the most recent, but its outcome was the Global Stocktake and the call to transition away from fossil fuels."
+  },
+  {
+    "id": "FS-5-01",
+    "node": "FS-5",
+    "unit": "Sustainable Finance Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A firm's ESG risk register rates a risk with likelihood 4 and impact 3 on 1-5 scales. Bands: 1-5 low, 6-11 medium, 12-19 high, 20-25 critical. The risk is:",
+    "options": [
+      "A) Medium, score 7",
+      "B) High, score 12",
+      "C) Critical, score 20",
+      "D) Low, score 4"
+    ],
+    "answer": "B",
+    "explanation": "Score = L x I = 4 x 3 = 12, which falls in the High band. Option A adds L + I = 7, the mistake of adding instead of multiplying."
+  },
+  {
+    "id": "FS-5-02",
+    "node": "FS-5",
+    "unit": "Sustainable Finance Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Which sequence matches the faculty chain linking poor ESG to company value?",
+    "options": [
+      "A) ESG risk, disruption, financial loss, lower investor confidence, lower company value",
+      "B) ESG risk, lower investor confidence, disruption, higher profit, lower value",
+      "C) Disruption, ESG risk, financial loss, higher confidence, higher value",
+      "D) ESG risk, financial loss, disruption, lower value, lower confidence"
+    ],
+    "answer": "A",
+    "explanation": "The chain runs ESG risk, business disruption, financial loss, investor confidence falls, company value falls. Option D swaps loss and disruption: loss is the result of disruption, not its cause."
+  },
+  {
+    "id": "FS-6-01",
+    "node": "FS-6",
+    "unit": "Sustainable Finance Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Which framework gives industry-specific metrics for ESG reporting?",
+    "options": [
+      "A) GRI Standards",
+      "B) SASB",
+      "C) EU Taxonomy",
+      "D) Paris Agreement"
+    ],
+    "answer": "B",
+    "explanation": "SASB is the industry-specific ESG reporting framework on the slide. GRI is the tempting wrong option: it is the general ESG reporting standard on the slide, not industry-specific. The EU Taxonomy classifies green investment."
+  },
+  {
+    "id": "FS-7-01",
+    "node": "FS-7",
+    "unit": "Sustainable Finance Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "hard",
+    "question": "A firm is offered a sustainability-linked loan of Rs 400 crore at 9.75% instead of 10.5%, conditional on targets. What is the annual interest saving if the targets are met?",
+    "options": [
+      "A) Rs 0.75 crore",
+      "B) Rs 3 crore",
+      "C) Rs 30 crore",
+      "D) Rs 39 crore"
+    ],
+    "answer": "B",
+    "explanation": "Saving = 400 x (10.5% - 9.75%) = 400 x 0.0075 = Rs 3 crore. Option A is the rate gap in percentage points, not applied to the principal. Option C uses 7.5% instead of 0.75%, a decimal slip."
+  },
+  {
+    "id": "FS-6-02",
+    "node": "FS-6",
+    "unit": "Sustainable Finance Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "Which Indian body is named on the faculty slides for ESG disclosure through BRSR?",
+    "options": [
+      "A) RBI",
+      "B) MCA",
+      "C) SEBI",
+      "D) NABARD"
+    ],
+    "answer": "C",
+    "explanation": "SEBI is the ESG disclosure (BRSR) regulator. RBI is tempting as a financial regulator but its slide role is climate risk in banking; MCA covers corporate governance; NABARD covers green rural finance."
+  },
+  {
+    "id": "FS-1-03",
+    "node": "FS-1",
+    "unit": "Sustainable Finance Unit 1",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "Trace the evolution of sustainable finance from its ethical roots to the 2020s.",
+    "model_answer": "| Era | Milestone |\n|---|---|\n| 1960s-80s | Ethical investing roots: religious groups avoided alcohol, tobacco, weapons; Quakers 1758 (slave trade) mark the origin of SRI; 1980s ethical banking shunned arms, tobacco and apartheid-linked firms |\n| 1987-1990s | Brundtland Report defines sustainable development; SRI funds and indices, Dow Jones Sustainability Index 1999 |\n| 2006-2008 | UN PRI (2006), EIB Climate Awareness Bond (2007), World Bank first official green bond (2008) |\n| Post-2008 and 2010s | Crisis led investors to demand accountability and transparency; Paris Agreement 2015, ESG funds, impact investing, EU taxonomy, SEBI ESG guidelines |\n| 2020s | Rapid growth (USD 30-50 trillion projected by 2030); social bonds, green fintech; stricter reporting standards against greenwashing |\n\n**Conclusion:** the direction is from values-driven exclusion to risk-and-return integration to rule-driven disclosure.",
+    "marking_scheme": [
+      {
+        "point": "Ethical roots and Quakers 1758",
+        "marks": 1
+      },
+      {
+        "point": "Brundtland 1987 and SRI/DJSI 1999",
+        "marks": 1
+      },
+      {
+        "point": "PRI 2006, EIB 2007, World Bank 2008",
+        "marks": 1
+      },
+      {
+        "point": "Post-2008 crisis, Paris 2015, taxonomy, SEBI",
+        "marks": 1
+      },
+      {
+        "point": "2020s growth, anti-greenwashing rules, conclusion",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "FS-1-04",
+    "node": "FS-1",
+    "unit": "Sustainable Finance Unit 1",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "State the Brundtland definition of sustainable development. What were the main contributions of the Report and its impact?",
+    "model_answer": "**Definition (verbatim):** development that meets the needs of the present without compromising the ability of future generations to meet their own needs. The Report (*Our Common Future*, 1987) was published by the World Commission on Environment and Development.\n\n| Contribution | Impact |\n|---|---|\n| Definition of sustainable development | Became the global guiding principle |\n| Poverty-environment link | Framed sustainability as social justice |\n| Global cooperation | Paved the way for multilateral agreements; catalyst for the Earth Summit |\n| Holistic policy approach | Led to Agenda 21 and UN frameworks |\n\nIt balanced economic growth, social equity and environmental protection, stressing intergenerational responsibility.",
+    "marking_scheme": [
+      {
+        "point": "Verbatim definition, 1987, *Our Common Future*",
+        "marks": 2
+      },
+      {
+        "point": "Contributions with impact (any three pairs)",
+        "marks": 2
+      },
+      {
+        "point": "Balance of growth, equity, environment / intergenerational point",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "FS-2-03",
+    "node": "FS-2",
+    "unit": "Sustainable Finance Unit 1",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "Explain the Triple Bottom Line with an example of each pillar.",
+    "model_answer": "The TBL expands the traditional financial bottom line by adding social and environmental outcomes alongside economic performance. It was coined by John Elkington in the 1990s. The pillars are the 3Ps.\n\n| P | Pillar | Measures | Example |\n|---|---|---|---|\n| People | Social | Fair labour, diversity, community, human rights | Living wage for contract workers |\n| Planet | Environmental | Emissions, waste, resource use, biodiversity | Effluent treatment plant |\n| Profit | Economic | Financial viability, long-term value | Return on equity, dividends |\n\nBenefits: long-term resilience, impact without sacrificing profit, stakeholder trust. **Takeaway:** true sustainability needs economic viability, social equity and environmental stewardship simultaneously.",
+    "marking_scheme": [
+      {
+        "point": "Definition and Elkington, 1990s",
+        "marks": 1
+      },
+      {
+        "point": "Three Ps with what each measures",
+        "marks": 2
+      },
+      {
+        "point": "One example per pillar",
+        "marks": 1
+      },
+      {
+        "point": "Benefit or simultaneous-sustainability takeaway",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "FS-2-04",
+    "node": "FS-2",
+    "unit": "Sustainable Finance Unit 1",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Define sustainable finance and explain categories A, B and C of sustainable finance with positive and negative forms.",
+    "model_answer": "**Definition (conceptual):** integrating ESG considerations into financial decision-making to promote long-term economic growth, social well-being and environmental sustainability while generating financial returns. The European Commission adds: taking due account of ESG considerations in investment decisions, leading to increased investment in longer-term and sustainable activities.\n\n| Category | Positive / integrated | Negative / exclusionary |\n|---|---|---|\n| A. Environmental (green) | Capital to innovative enterprises addressing climate issues | Divest from firms perpetuating the climate crisis |\n| B. Social (impact investment) | Capital to enterprises fixing social market failures in health, education, employment | Divest from firms increasing inequality |\n| C. Governance (stakeholder) | Invest in firms following ILO-type employee standards or building purpose into governance | Divest from those that do not |",
+    "marking_scheme": [
+      {
+        "point": "Conceptual definition (ESG in decisions, long-term value, return)",
+        "marks": 1
+      },
+      {
+        "point": "European Commission definition",
+        "marks": 1
+      },
+      {
+        "point": "Categories A, B, C named correctly",
+        "marks": 1
+      },
+      {
+        "point": "Positive and negative form of each category",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "FS-3-03",
+    "node": "FS-3",
+    "unit": "Sustainable Finance Unit 1",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Explain the SDG financing gap and the four calls of the Sevilla Commitment (2025).",
+    "model_answer": "**Gap:** the SDGs (17 goals, 169 targets, 2015-2030) face a financing gap of over USD 4 trillion a year. **Challenges:** declining aid (ODA fell 23.1% between 2024 and 2025), rising debt distress in developing countries, uneven access to technology, weak investment and climate risk, geopolitical divides.\n\n**Sevilla Commitment** (Fourth International Conference on Financing for Development, 30 June to 3 July 2025) calls for:\n1. Tripling the lending capacity of multilateral development banks.\n2. Scaling up debt relief instruments.\n3. Unlocking private capital through blended finance and risk-sharing.\n4. Reforming the international financial architecture.\n\n**Risks:** debt sustainability, aid decline, climate finance gap, equity concerns (favouring middle-income over least developed countries).",
+    "marking_scheme": [
+      {
+        "point": "Gap figure over USD 4 trillion a year",
+        "marks": 1
+      },
+      {
+        "point": "Challenges including ODA decline",
+        "marks": 1
+      },
+      {
+        "point": "Four Sevilla calls",
+        "marks": 2
+      },
+      {
+        "point": "One risk or trade-off",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "FS-3-04",
+    "node": "FS-3",
+    "unit": "Sustainable Finance Unit 1",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Distinguish blended finance from a sustainability-linked loan. Give one slide example of each.",
+    "model_answer": "| Basis | Blended finance | Sustainability-linked loan (SLL) |\n|---|---|---|\n| Meaning | Mobilises private capital by combining concessional finance with commercial investment | Loan whose terms (usually interest rate) are tied to sustainability targets |\n| Purpose | De-risk and crowd in private money for sustainable projects | Reward or penalise the borrower on ESG performance |\n| Slide examples | Global Infrastructure Facility; agriculture blends (public guarantees plus private loans for African smallholders) | Enel (2019, renewable energy targets); Suzano (2020, carbon cuts); Singapore Airlines (2021, fuel efficiency) |\n| Link | Donor/MDB money absorbs first risk | The pricing link is to the target |\n\n**Role in Sevilla:** blended finance and risk-sharing are the route to unlock private capital; SLLs are among the innovative instruments.",
+    "marking_scheme": [
+      {
+        "point": "Blended finance defined",
+        "marks": 1
+      },
+      {
+        "point": "SLL defined",
+        "marks": 1
+      },
+      {
+        "point": "Distinction on at least two bases",
+        "marks": 1
+      },
+      {
+        "point": "One slide example each",
+        "marks": 1
+      },
+      {
+        "point": "Link to Sevilla / financing gap",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "FS-4-03",
+    "node": "FS-4",
+    "unit": "Sustainable Finance Unit 1",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Compare the Kyoto Protocol (1997) and the Paris Agreement (2015).",
+    "model_answer": "| Basis | Kyoto 1997 | Paris 2015 |\n|---|---|---|\n| Parent framework | First legally binding treaty under the UNFCCC | Adopted at COP21 under the UNFCCC |\n| Who must act | Developed countries only | Every country submits Nationally Determined Contributions (NDCs) |\n| Nature of targets | Binding emission reduction targets | Nationally set pledges |\n| Principle | CBDR: all share responsibility, developed countries bear more (larger historical emissions, more capacity) | Collective effort, climate finance for developing countries |\n| Goal | Cut emissions | Well below 2 C, pursue 1.5 C, net zero around 2050 |\n\n**Conclusion:** Kyoto bound a few; Paris involves all, but current pledges fall short of 1.5 C.",
+    "marking_scheme": [
+      {
+        "point": "Kyoto: binding, developed countries, CBDR",
+        "marks": 2
+      },
+      {
+        "point": "Paris: all countries, NDCs",
+        "marks": 1
+      },
+      {
+        "point": "Paris goals: well below 2 C, 1.5 C, net zero around 2050",
+        "marks": 1
+      },
+      {
+        "point": "Conclusion or pledge shortfall",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "FS-5-03",
+    "node": "FS-5",
+    "unit": "Sustainable Finance Unit 1",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "What is ESG risk? Explain how poor ESG performance can reduce company value, with examples of E, S and G risks.",
+    "model_answer": "**Risk** is the possibility that an event negatively affects organisational objectives. **ESG risks** are environmental, social and governance events (pollution, strikes, corruption) that traditional financial, operational, market, political and legal labels did not capture neatly.\n\n| Pillar | Examples |\n|---|---|\n| E | Floods, drought, water scarcity, carbon emissions, waste, biodiversity loss |\n| S | Child labour, unsafe workplace, data privacy, strikes, community protests |\n| G | Fraud, bribery, board failure, weak internal controls, poor disclosure |\n\n**Chain:** ESG risk, business disruption, financial loss, investor confidence falls, company value falls. Example: severe flooding in Bengaluru halts factories and supply chains and raises insurance costs. Poor ESG means higher interest rates, lower share prices and less investment; good ESG means investor trust, green finance and a lower cost of capital.",
+    "marking_scheme": [
+      {
+        "point": "Definition of risk and ESG risk",
+        "marks": 1
+      },
+      {
+        "point": "E, S and G examples",
+        "marks": 2
+      },
+      {
+        "point": "Chain to lower company value",
+        "marks": 1
+      },
+      {
+        "point": "Cost of capital point or slide example",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "FS-5-04",
+    "node": "FS-5",
+    "unit": "Sustainable Finance Unit 1",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "hard",
+    "question": "A firm scores four ESG risks (likelihood, impact on 1-5 scales): (a) river pollution notice, L4 I5; (b) contractor-site injuries, L3 I4; (c) undisclosed related-party loan, L2 I5; (d) customer data leak, L2 I2. Score and band each (1-5 low, 6-11 medium, 12-19 high, 20-25 critical), rank them, and name the first action.",
+    "model_answer": "Score = L x I.\n\n| Risk | Pillar | L | I | Score | Band |\n|---|---|---|---|---|---|\n| (a) River pollution | E | 4 | 5 | 20 | Critical |\n| (b) Contractor injuries | S | 3 | 4 | 12 | High |\n| (c) Related-party loan | G | 2 | 5 | 10 | Medium |\n| (d) Data leak | S | 2 | 2 | 4 | Low |\n\n**Rank:** (a) 20, (b) 12, (c) 10, (d) 4.\n**First action:** fund effluent treatment and a measurable discharge target for (a). **Interpretation:** scores are judgemental, so state the scale and the evidence; note that (c) scores only medium but is a governance control failure of the Satyam type, so audit-committee disclosure should follow quickly.",
+    "marking_scheme": [
+      {
+        "point": "Correct scores (20, 12, 10, 4)",
+        "marks": 2
+      },
+      {
+        "point": "Correct bands",
+        "marks": 1
+      },
+      {
+        "point": "Ranking",
+        "marks": 1
+      },
+      {
+        "point": "First action and judgement caveat/interpretation",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "FS-6-03",
+    "node": "FS-6",
+    "unit": "Sustainable Finance Unit 1",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "Name the Indian regulators and bodies in the sustainable finance framework and state one role of each.",
+    "model_answer": "Chain: Government, then Ministry of Finance, then SEBI, RBI, MCA and MoEFCC, then regulated entities (listed companies, banks, NBFCs, mutual funds, investors).\n\n| Body | Role |\n|---|---|\n| SEBI | ESG disclosure (BRSR) |\n| RBI | Climate risk in banking |\n| MCA | Corporate governance |\n| MoEFCC | Environmental policies |\n| NITI Aayog | SDG implementation |\n| IFSCA | Sustainable finance hub |\n| NABARD | Green rural finance |\n| SIDBI | MSME sustainability |\n\nSEBI's journey: BRR 2012, BRSR 2021, BRSR Core 2023, ESG assurance in future.",
+    "marking_scheme": [
+      {
+        "point": "Regulatory chain",
+        "marks": 1
+      },
+      {
+        "point": "Roles of at least six bodies (0.5 each)",
+        "marks": 3
+      },
+      {
+        "point": "SEBI journey BRR to BRSR Core",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "FS-1-05",
+    "node": "FS-1",
+    "unit": "Sustainable Finance Unit 1",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "medium",
+    "question": "Discuss the evolution of sustainable finance globally and in India. Why has it become important to investors?",
+    "model_answer": "**Introduction.** Sustainable finance grew gradually over decades, shaped by social movements, global policy milestones and financial innovation.\n\n**Global evolution**\n\n| Era | Milestone |\n|---|---|\n| 1960s-80s | Ethical roots; Quakers 1758; avoidance of alcohol, tobacco, weapons; 1980s ethical banking |\n| 1987 | Brundtland Report defines sustainable development |\n| 1990s | SRI funds; Dow Jones Sustainability Index 1999 |\n| 2006-08 | UN PRI, EIB Climate Awareness Bond, World Bank green bond |\n| Post-2008 | Demand for accountability and transparency; mainstream ESG |\n| 2010s | Paris 2015, ESG funds, impact investing, EU taxonomy |\n| 2020s | USD 30-50 trillion projected by 2030; social bonds, green fintech; stricter reporting against greenwashing |\n\n**India.** SEBI's journey: Business Responsibility Report (BRR) 2012, BRSR 2021, BRSR Core 2023, ESG assurance next. India has also issued sovereign green bonds for clean energy, water and pollution control.\n\n**Importance.** ESG risks (pollution, corruption, strikes) become financial risks: disruption, loss, lower investor confidence, lower value. Poor ESG raises the cost of capital; good ESG lowers it. Regulation answers scandals such as Satyam and Enron.\n\n**Conclusion.** The arrow runs from values-driven exclusion to risk-and-return integration to rule-driven disclosure.",
+    "marking_scheme": [
+      {
+        "point": "Introduction / drivers",
+        "marks": 1
+      },
+      {
+        "point": "Global eras with dated anchors",
+        "marks": 4
+      },
+      {
+        "point": "India: BRR, BRSR, BRSR Core, assurance",
+        "marks": 2
+      },
+      {
+        "point": "Importance via ESG risk and cost of capital",
+        "marks": 2
+      },
+      {
+        "point": "Conclusion line",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "FS-4-04",
+    "node": "FS-4",
+    "unit": "Sustainable Finance Unit 1",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "medium",
+    "question": "Discuss the role of the financial system in sustainable development.",
+    "model_answer": "**Introduction.** The financial system mobilises, allocates and manages financial resources to support long-term growth, environmental protection and social well-being. It is a bridge between investors, businesses, governments and society.\n\n**Flow.** Savings and investments, then financial institutions (banks, capital markets, insurers, asset managers, development banks), then mobilise and allocate capital, then green projects (renewables, sustainable agriculture, social infrastructure, ESG-focused firms), then sustainable development: economic growth, environmental protection and social inclusion, the Triple Bottom Line.\n\n**Roles**\n- *Mobilises capital* for green projects (for example sovereign green bonds).\n- *Prices climate risk* into credit ratings and loan terms.\n- *Innovates*: green bonds, ESG-linked loans, blended finance.\n- *Manages sustainability risks*, improves transparency, promotes financial inclusion.\n\n**Link to agreements.** Agreements (Paris, NDCs, Sevilla) set the goals; the financial system supplies the money and price signals.\n\n**Challenges.** Financing gap of over USD 4 trillion a year for the SDGs, and equity between developed and developing countries.\n\n**Conclusion.** Without finance, agreements stay pledges; with finance priced for climate risk, they become funded projects.",
+    "marking_scheme": [
+      {
+        "point": "Introduction: mobilise, allocate, manage; bridge",
+        "marks": 2
+      },
+      {
+        "point": "Flow from savings to green projects to TBL",
+        "marks": 2
+      },
+      {
+        "point": "Role points with green bonds / ESG-linked loans / risk pricing",
+        "marks": 3
+      },
+      {
+        "point": "Link to agreements",
+        "marks": 2
+      },
+      {
+        "point": "Challenge or conclusion",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "FS-4-05",
+    "node": "FS-4",
+    "unit": "Sustainable Finance Unit 1",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "medium",
+    "question": "Discuss the major international agreements on environment and sustainable development from 1972 to 2023.",
+    "model_answer": "**Why needed.** Greenhouse gases cross borders, so no country can solve climate change alone; agreements provide common standards, technology transfer and protection for vulnerable countries.\n\n| Year | Agreement | Significance |\n|---|---|---|\n| 1972 | Stockholm (\"Only One Earth\") | Start of global environmental governance; led to UNEP |\n| 1987 | Brundtland | Defined sustainable development |\n| 1992 | Rio Earth Summit | Agenda 21, Rio Declaration (27 principles), Convention on Biological Diversity, UNFCCC |\n| 1997 | Kyoto | Binding targets for developed countries; CBDR |\n| 2000 | MDGs | Global development agenda |\n| 2015 | Paris; SDGs | NDCs from all; well below 2 C, pursue 1.5 C, net zero around 2050; 17 goals for 2030 |\n| 2021 | COP26 Glasgow | Net-zero commitments, Methane Pledge, coal phase-down |\n| 2022 | COP27 Egypt | Loss and Damage Fund |\n| 2023 | COP28 Dubai | Global Stocktake; transition away from fossil fuels |\n\n**Challenges.** Equity (developed vs developing), financing gap, implementation, and pledges short of 1.5 C.\n\n**Conclusion.** The chain runs from environmental protection to climate change to sustainable development to ESG and sustainable finance to a net-zero economy.",
+    "marking_scheme": [
+      {
+        "point": "Why agreements matter",
+        "marks": 2
+      },
+      {
+        "point": "Timeline entries with significance",
+        "marks": 3
+      },
+      {
+        "point": "Rio, Kyoto with CBDR, Paris detail",
+        "marks": 3
+      },
+      {
+        "point": "COP outcomes and challenges",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "FS-3-05",
+    "node": "FS-3",
+    "unit": "Sustainable Finance Unit 1",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "medium",
+    "question": "Explain the UN SDGs, the financing gap and how the Sevilla Commitment tries to close it.",
+    "model_answer": "**SDGs.** A universal framework for 2015-2030 with 17 goals and 169 targets (for example No Poverty, Quality Education, Climate Action). Climate-related goals: 7, 9, 11, 12, 13, 14, 15. Businesses align ESG strategy with them; investors use them in decisions.\n\n**Gap and challenges.** Over USD 4 trillion a year is needed. Developing countries face shrinking fiscal space, high borrowing costs and declining aid (ODA down 23.1% between 2024 and 2025), debt distress, uneven technology access and geopolitical risk.\n\n**Sevilla Commitment (FfD4, 30 June to 3 July 2025).** Calls: triple MDB lending capacity; scale up debt relief; unlock private capital via blended finance and risk-sharing; reform the international financial architecture. Mechanisms: domestic resource mobilisation, international cooperation, private sector engagement, innovative instruments (green bonds, SLLs, debt-for-climate swaps).\n\n**Risks and trade-offs.** Debt sustainability, aid decline, climate finance gap, equity concerns.\n\n**Priorities 2026-2030.** Reform governance for developing-country voice; more concessional finance; integrate climate and SDG financing into budgets; blended finance; transparent reporting.\n\n**Interpretation.** The gap is a mismatch of risk, return and access, not a shortage of savings: public and concessional money must de-risk private money and reach the least developed countries.",
+    "marking_scheme": [
+      {
+        "point": "SDG overview (17, 169, 2015-2030)",
+        "marks": 1
+      },
+      {
+        "point": "Gap and challenges",
+        "marks": 2
+      },
+      {
+        "point": "Sevilla calls and mechanisms",
+        "marks": 3
+      },
+      {
+        "point": "Risks and 2026-2030 priorities",
+        "marks": 2
+      },
+      {
+        "point": "Interpretation",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "FS-6-04",
+    "node": "FS-6",
+    "unit": "Sustainable Finance Unit 1",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "medium",
+    "question": "Explain the global reporting and regulatory frameworks for sustainable finance, India's governing bodies, and the idea of responsible investing.",
+    "model_answer": "**Why regulation.** Scandals (Volkswagen Dieselgate, Satyam, Enron, BP oil spill) showed that a firm can make profits and still destroy value for society; financial risk now includes climate, social and governance risk.\n\n| Framework | Purpose |\n|---|---|\n| Paris Agreement | Climate action |\n| UN SDGs | Sustainable development |\n| PRI | Responsible investment |\n| TCFD | Climate risk disclosure |\n| IFRS S1 and S2 | Sustainability reporting |\n| EU Taxonomy | Green investment classification |\n| GRI | ESG reporting |\n| SASB | Industry-specific ESG reporting |\n\nWhich is mandatory depends on the country; a voluntary framework becomes mandatory when a regulator adopts it (SEBI adopting BRSR).\n\n**India.** Government, Ministry of Finance, then SEBI (BRSR), RBI (climate risk in banking), MCA (corporate governance), MoEFCC (environment); also NITI Aayog (SDGs), IFSCA, NABARD, SIDBI. SEBI journey: BRR 2012, BRSR 2021, BRSR Core 2023, assurance next.\n\n**Responsible investing.** Investing while considering financial returns plus ESG impact: traditional investing is risk-return; responsible investing is risk-return plus ESG plus impact.\n\n**Conclusion.** BRSR is the compliance base for Indian firms, ISSB the investor layer, GRI the stakeholder layer.",
+    "marking_scheme": [
+      {
+        "point": "Why regulation, scandals",
+        "marks": 1
+      },
+      {
+        "point": "Eight global frameworks with purposes",
+        "marks": 3
+      },
+      {
+        "point": "India chain and bodies",
+        "marks": 3
+      },
+      {
+        "point": "SEBI journey",
+        "marks": 1
+      },
+      {
+        "point": "Responsible investing and conclusion",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "FS-7-02",
+    "node": "FS-7",
+    "unit": "Sustainable Finance Unit 1",
+    "type": "case",
+    "marks": 15,
+    "difficulty": "hard",
+    "question": "**Case: Deccan Polymers Ltd (fictional, all figures illustrative).** Deccan Polymers is a listed plastics processor. Three issues have surfaced: (1) a pollution-control board notice for untreated effluent into a river; (2) injuries at a contractor-run packing unit; (3) an unrecorded loan to a promoter-linked company that the board was not told about. Management also sees a minor risk of a customer-data leak and moderate water scarcity at its plant. A bank offers a Rs 320 crore term loan at 10.80% or a sustainability-linked loan at 10.05% if emission and safety targets are met.\n\nRisk scores (L, I on 1-5): effluent notice (4, 5); contractor injuries (3, 4); related-party loan (3, 4); water scarcity (3, 3); data leak (2, 2). Bands: 1-5 low, 6-11 medium, 12-19 high, 20-25 critical.\n\n(a) Give a one-line definition of sustainable finance and classify the firm's position on People, Planet and Profit. (3)\n(b) Score and band each risk, and rank them. (4)\n(c) Compute the annual interest saving on the sustainability-linked loan if targets are met, and explain what it shows about ESG and cost of capital. (3)\n(d) Which Indian bodies and reporting frameworks are relevant? (2)\n(e) Recommend a course of action and state your decision line. (3)",
+    "model_answer": "**(a)** Sustainable finance integrates ESG considerations into financial decisions for long-term value and financial return; the loan choice is such a decision.\n\n| Pillar | Evidence | Verdict |\n|---|---|---|\n| People | Contractor injuries | Weak |\n| Planet | Effluent notice, water scarcity | Weak |\n| Profit | Listed and operating, but exposed to fines and loss of investor trust | At risk |\n\n**(b)** Score = L x I.\n\n| Risk | Pillar | Score | Band |\n|---|---|---|---|\n| Effluent notice | E | 20 | Critical |\n| Contractor injuries | S | 12 | High |\n| Related-party loan | G | 12 | High |\n| Water scarcity | E | 9 | Medium |\n| Data leak | S | 4 | Low |\n\nRank: effluent (20); then injuries and loan tied at 12 (injuries first because life is at risk; the loan is a Satyam-type governance failure); water (9); data leak (4). The scale is judgemental.\n\n**(c)** Saving = 320 x (10.80% - 10.05%) = 320 x 0.0075 = **Rs 2.4 crore a year** (Rs 34.56 crore vs Rs 32.16 crore). It shows that credible ESG performance is priced into the cost of capital: lenders charge more for ESG risk. If targets are missed the saving is lost, so unrealistic targets are themselves a risk.\n\n**(d)** SEBI (BRSR), MoEFCC and the pollution authority (effluent notice), MCA (related-party disclosure and governance), RBI (lender's climate-risk policy). Frameworks: BRSR for compliance, ISSB (IFRS S1/S2) and GRI for investors and stakeholders.\n\n**(e)** Fund an effluent treatment plant first; bring the contractor unit under the safety policy with audits; disclose and ratify the related-party loan through the audit committee; accept the sustainability-linked loan only with targets that can be verified and assured, to avoid greenwashing. **Decision line:** fix pollution first, then governance and safety; the Rs 2.4 crore saving is real only if targets are met, so ESG here changes the cost of capital, not just reputation.",
+    "marking_scheme": [
+      {
+        "point": "(a) Definition",
+        "marks": 1
+      },
+      {
+        "point": "(a) TBL classification with evidence",
+        "marks": 2
+      },
+      {
+        "point": "(b) Correct scores and bands",
+        "marks": 2
+      },
+      {
+        "point": "(b) Ranking with justification",
+        "marks": 2
+      },
+      {
+        "point": "(c) Correct saving Rs 2.4 crore",
+        "marks": 2
+      },
+      {
+        "point": "(c) Cost of capital interpretation",
+        "marks": 1
+      },
+      {
+        "point": "(d) Bodies and frameworks",
+        "marks": 2
+      },
+      {
+        "point": "(e) Recommendations",
+        "marks": 2
+      },
+      {
+        "point": "(e) Decision line",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "FS-5-05",
+    "node": "FS-5",
+    "unit": "Sustainable Finance Unit 1",
+    "type": "case",
+    "marks": 15,
+    "difficulty": "hard",
+    "question": "**Case: Brahmaputra Tea Estates Ltd (fictional, illustrative).** A listed tea producer faces: pesticide run-off into village water sources; low wages and unrepaired worker housing; a board where the founding family holds all key posts with no independent directors; and heavy monsoon floods that cut leaf supply for two seasons. A lender has said it will price the firm as high ESG risk unless it improves.\n\nScores (L, I, 1-5): pesticide run-off (4, 4); worker conditions (4, 3); board independence (3, 3); floods (4, 5). Bands: 1-5 low, 6-11 medium, 12-19 high, 20-25 critical.\n\n(a) Classify each issue as E, S or G, and identify which Triple Bottom Line pillar it hurts. (3)\n(b) Score, band and rank the risks, and show them on a likelihood-impact grid. (4)\n(c) Using the faculty chain, explain how these risks can lower company value and raise financing cost. (3)\n(d) Suggest a response for the top two risks and one reporting step. (3)\n(e) What are the limits of your scoring? (2)",
+    "model_answer": "**(a)**\n\n| Issue | ESG | TBL pillar hurt |\n|---|---|---|\n| Pesticide run-off | E | Planet (and People, via village water) |\n| Worker wages and housing | S | People |\n| No independent directors | G | Profit (long-term value, trust) |\n| Floods | E (climate) | Planet and Profit |\n\n**(b)** Score = L x I: floods 20 (critical); pesticide 16 (high); worker conditions 12 (high); board 9 (medium). Rank: floods, pesticide, workers, board.\n\n| L \\ I | 3 | 4 | 5 |\n|---|---|---|---|\n| 4 | Workers (12) | Pesticide (16) | Floods (20) |\n| 3 | Board (9) | | |\n\n**(c)** Chain: ESG risk, business disruption (lost leaf supply, community protests), financial loss (lower output, fines, insurance), investor confidence falls, company value falls. Poor ESG means higher interest rates and a higher cost of capital, which is what the lender signals; good ESG gives investor trust and a lower cost of capital.\n\n**(d)** Floods: drainage and water-management works, crop and weather insurance, diversified sourcing, adaptation finance. Pesticide: integrated pest management, buffer zones, water testing. Reporting step: disclose through BRSR (SEBI) with assurance as the next step, so claims are credible.\n\n**(e)** Scores are judgemental; they depend on the scale and the evidence quoted; the bands are a convention; and there is no common unit across E, S and G. State the scale and revisit scores as evidence changes. The board risk scores only medium but is a root cause of weak oversight, so give it weight.",
+    "marking_scheme": [
+      {
+        "point": "(a) E/S/G classification",
+        "marks": 1
+      },
+      {
+        "point": "(a) TBL pillars hurt",
+        "marks": 2
+      },
+      {
+        "point": "(b) Scores and bands",
+        "marks": 2
+      },
+      {
+        "point": "(b) Rank and grid",
+        "marks": 2
+      },
+      {
+        "point": "(c) Full chain",
+        "marks": 2
+      },
+      {
+        "point": "(c) Cost of capital link",
+        "marks": 1
+      },
+      {
+        "point": "(d) Responses for top two risks",
+        "marks": 2
+      },
+      {
+        "point": "(d) Reporting step",
+        "marks": 1
+      },
+      {
+        "point": "(e) Limitations of scoring",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "FS-3-06",
+    "node": "FS-3",
+    "unit": "Sustainable Finance Unit 1",
+    "type": "case",
+    "marks": 15,
+    "difficulty": "hard",
+    "question": "**Case: Meridia (fictional low-income country, illustrative).** Meridia must fund clean energy and water SDGs but faces falling aid, rising debt distress and high borrowing costs. A development bank offers a guarantee that lets Meridia raise a green bond for solar parks. The government is also offered a loan whose interest rate drops if the country's emission-intensity target is met. A civil-society group warns that financing structures tend to favour middle-income countries.\n\n(a) State the size of the global SDG financing gap and, assuming it stays at USD 4 trillion a year, the shortfall over 2026-2030. (2)\n(b) Explain which of Meridia's problems each of the four Sevilla calls addresses. (4)\n(c) Identify the instruments in the case (guarantee-backed bond; target-linked loan) and explain how each works. (3)\n(d) Identify two risks or trade-offs Meridia and its partners must manage. (2)\n(e) Recommend a financing plan and state your decision line. (4)",
+    "model_answer": "**(a)** Gap is over USD 4 trillion a year to meet the SDGs by 2030. Shortfall 2026-2030 = 4 x 5 = **USD 20 trillion**.\n\n**(b)**\n\n| Meridia problem | Sevilla call |\n|---|---|\n| Falling aid (ODA down 23.1% between 2024 and 2025) | Triple MDB lending capacity, with concessional flows for the least developed |\n| Rising debt distress | Scale up debt relief (and debt-for-climate swaps) |\n| High cost and scarce private capital | Unlock private capital via blended finance and risk-sharing |\n| System favours others, weak voice | Reform the international financial architecture |\n\n**(c)** The guarantee-backed bond is **blended finance** (a development-bank guarantee de-risks private investors) issued as a **green bond** (proceeds to solar parks); this crowds in private money. The target-linked loan is a **sustainability-linked loan**: terms tied to a sustainability target, rewarding delivery rather than restricting use of proceeds.\n\n**(d)** Debt sustainability (default risk if finance is not concessional); equity concerns (structures favouring middle-income countries); also climate finance gap and aid decline.\n\n**(e)** Use the guarantee-backed green bond for solar parks and seek concessional MDB funding for water; accept the SLL only if the target is realistic and independently verified, as a missed target erases the benefit and hurts credibility; integrate climate and SDG financing into the national budget and publish transparent reporting. **Decision line:** prioritise concessional and blended funding for the SDG investments and keep commercial, target-linked debt small, because the gap is a mismatch of risk, return and access, not a shortage of savings.",
+    "marking_scheme": [
+      {
+        "point": "(a) Gap figure",
+        "marks": 1
+      },
+      {
+        "point": "(a) Shortfall USD 20 trillion",
+        "marks": 1
+      },
+      {
+        "point": "(b) Four calls matched to problems",
+        "marks": 4
+      },
+      {
+        "point": "(c) Blended finance and green bond explained",
+        "marks": 2
+      },
+      {
+        "point": "(c) SLL explained",
+        "marks": 1
+      },
+      {
+        "point": "(d) Two risks",
+        "marks": 2
+      },
+      {
+        "point": "(e) Financing plan",
+        "marks": 2
+      },
+      {
+        "point": "(e) Decision line and interpretation",
+        "marks": 2
+      }
+    ]
+  }
+]
