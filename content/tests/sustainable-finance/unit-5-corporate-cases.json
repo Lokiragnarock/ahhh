@@ -1,0 +1,796 @@
+[
+  {
+    "id": "CS-1-01",
+    "node": "CS-1",
+    "unit": "Sustainable Finance Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "A bank announces that its own branches, ATMs and data centres will be carbon neutral by a target year. Which emissions does this commitment leave out?",
+    "options": [
+      "A) Electricity bought for its data centres",
+      "B) Emissions of its borrowers, which are the bank's financed (Scope 3, category 15) emissions",
+      "C) Fuel burnt in its backup generators",
+      "D) Paper and printing used in branches"
+    ],
+    "answer": "B",
+    "explanation": "A bank's own operations (Scope 1 and 2, plus minor Scope 3 items) are a small footprint; the large footprint is in the loan book. Option A is the tempting one because electricity is 'indirect', but purchased electricity is Scope 2 and is inside an operational target. C is Scope 1. D is a minor own-operations item."
+  },
+  {
+    "id": "CS-1-02",
+    "node": "CS-1",
+    "unit": "Sustainable Finance Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "An analyst scores six ESG indicators of a regional bank on the 1 (low) to 3 (high unmanaged risk) scale: own operational emissions 1, financed emissions 3, data privacy and cyber 2, financial inclusion 1, technology resilience 2, board and conduct 2. The average matrix score is:",
+    "options": [
+      "A) 2.20",
+      "B) 3.00",
+      "C) 1.83",
+      "D) 2.00"
+    ],
+    "answer": "C",
+    "explanation": "Total = 1 + 3 + 2 + 1 + 2 + 2 = 11; 11 ÷ 6 = 1.83. Option A divides by 5 (drops one indicator). Option D is the median, not the mean. Option B is the single highest score, which tells you the worst risk but not the average."
+  },
+  {
+    "id": "CS-2-01",
+    "node": "CS-2",
+    "unit": "Sustainable Finance Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A services company reaches 'carbon neutral' by cutting a small share of its emissions and covering the rest with certificates and carbon credits. Which statement is most accurate?",
+    "options": [
+      "A) The claim is possible under carbon neutral, but net zero expects deep cuts with only residual emissions offset, so the reduced-versus-offset split must be disclosed",
+      "B) It has reached net zero, because emissions are balanced",
+      "C) The company is certainly greenwashing, because offsets are never allowed",
+      "D) The company is carbon positive, because credits exceed emissions"
+    ],
+    "answer": "A",
+    "explanation": "Carbon neutral allows balancing with offsets; net zero requires deep reductions with only a small residual neutralised. Option B is the tempting one because 'balanced' sounds like 'net zero', but the route is different. Option C overstates: the issue is claim scope, not proven falsity. D confuses neutral with positive."
+  },
+  {
+    "id": "CS-3-01",
+    "node": "CS-3",
+    "unit": "Sustainable Finance Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A diversified consumer group is called 'carbon positive' because plantation removals are 1.2 million tonnes against emissions of 1.0 million tonnes. Next year emissions rise to 1.1 million tonnes and removals stay at 1.2. Which is correct?",
+    "options": [
+      "A) It is no longer carbon positive",
+      "B) Net removals rose to 0.3 million tonnes",
+      "C) It is still carbon positive, but gross emissions rose 10%, which the 'positive' label does not reveal",
+      "D) It is still carbon positive and gross emissions fell"
+    ],
+    "answer": "C",
+    "explanation": "1.2 > 1.1, so the claim holds, with net removals falling from 0.2 to 0.1 million tonnes; gross emissions rose (1.1 − 1.0) ÷ 1.0 = 10%. Option A treats rising emissions as ending the claim. Option B adds instead of subtracting. This is why offset-style 'positive' claims are less comparable than gross-emission and intensity data."
+  },
+  {
+    "id": "CS-4-01",
+    "node": "CS-4",
+    "unit": "Sustainable Finance Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "hard",
+    "question": "A steel producer cuts emission intensity from 2.4 to 2.1 tonnes of CO2 per tonne of crude steel while output grows from 20 to 25 million tonnes. Its absolute emissions:",
+    "options": [
+      "A) Fall by 12.5%",
+      "B) Fall by 4.2%",
+      "C) Stay unchanged",
+      "D) Rise by about 9.4%"
+    ],
+    "answer": "D",
+    "explanation": "Absolute emissions go from 2.4 × 20 = 48 Mt to 2.1 × 25 = 52.5 Mt, a rise of 4.5 ÷ 48 = 9.4%. Option A is the intensity fall (0.3 ÷ 2.4 = 12.5%), the mistake of reading an intensity target as an absolute cut. This is why an intensity target can be met while absolute emissions rise."
+  },
+  {
+    "id": "CS-5-01",
+    "node": "CS-5",
+    "unit": "Sustainable Finance Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "The Niyamgiri bauxite episode is mainly cited in sustainable finance as a lesson on:",
+    "options": [
+      "A) Free, prior and informed consent of affected communities as a condition of the social licence to operate",
+      "B) Carbon pricing for mining firms",
+      "C) The superiority of intensity targets over absolute targets",
+      "D) Scope 3 data quality"
+    ],
+    "answer": "A",
+    "explanation": "The Supreme Court asked tribal gram sabhas to decide, and they rejected the mine, showing that regulatory approval alone does not secure a project. Options C and D are real topics in the unit but unrelated to this case."
+  },
+  {
+    "id": "CS-6-01",
+    "node": "CS-6",
+    "unit": "Sustainable Finance Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "Under the faculty slides, IFRS S1 and S2 use which materiality lens?",
+    "options": [
+      "A) Double materiality: company impact on the world and the world's impact on the company",
+      "B) Impact materiality only",
+      "C) Single (financial) materiality: effect of sustainability matters on cash flows, access to finance and cost of capital",
+      "D) No materiality test; everything must be reported"
+    ],
+    "answer": "C",
+    "explanation": "The class line is that the standards look at how sustainability matters affect the company's value, not vice versa. Option A is the tempting one because it describes the EU CSRD approach, a different regime."
+  },
+  {
+    "id": "CS-6-02",
+    "node": "CS-6",
+    "unit": "Sustainable Finance Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Which of the following is NOT one of the four TCFD-based pillars on which IFRS S2 builds?",
+    "options": [
+      "A) Governance",
+      "B) Strategy",
+      "C) Risk management",
+      "D) Assurance"
+    ],
+    "answer": "D",
+    "explanation": "The four pillars are Governance, Strategy, Risk management, and Metrics and targets. Assurance is tempting because BRSR and sustainability reports discuss it, but it is a verification step, not a pillar."
+  },
+  {
+    "id": "CS-6-03",
+    "node": "CS-6",
+    "unit": "Sustainable Finance Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A listed firm pays a royalty to its foreign parent that rises as a percentage of turnover, and legacy litigation sits unresolved. Using the Cambridge six classes (supplementary lens), the lead class for this risk is:",
+    "options": [
+      "A) Financial",
+      "B) Geopolitical",
+      "C) Social",
+      "D) Governance"
+    ],
+    "answer": "D",
+    "explanation": "Related-party dealing, compliance and litigation fall under Governance in the Cambridge taxonomy. Financial is tempting because cash leaves the company, but the cause is a management and related-party decision, not a market or macro event."
+  },
+  {
+    "id": "CS-6-04",
+    "node": "CS-6",
+    "unit": "Sustainable Finance Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "hard",
+    "question": "A subsidiary's royalty to its parent rises from 3.0% to 3.9% of turnover. On a turnover of ₹50,000 crore (assume), the extra royalty a year and the relative increase in the rate are:",
+    "options": [
+      "A) ₹450 crore; 30%",
+      "B) ₹450 crore; 0.9%",
+      "C) ₹1,950 crore; 30%",
+      "D) ₹45 crore; 30%"
+    ],
+    "answer": "A",
+    "explanation": "Before: 3.0% × 50,000 = ₹1,500 crore; after: 3.9% × 50,000 = ₹1,950 crore; extra ₹450 crore. Relative rise = 0.9 ÷ 3.0 = 30%. Option B reports the percentage-point change as the relative change. C quotes the new royalty, not the increase. D has a decimal slip."
+  },
+  {
+    "id": "CS-1-03",
+    "node": "CS-1",
+    "unit": "Sustainable Finance Unit 5",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "How is ESG risk different for a bank than for a manufacturer? Illustrate with HDFC Bank. (5)",
+    "model_answer": "**Definition (1).** A corporate sustainable investment perspective considers financial returns together with environmental, social and governance implications (slide 384).\n\n**Where the footprint sits (2).** A manufacturer's ESG risk is mostly in its plants: Scope 1 and 2 emissions, water, waste, safety. A bank's own branches, ATMs and data centres are a small footprint. Its main footprint is the **loan book**: borrowers' emissions are the bank's financed emissions (Scope 3, category 15). HDFC Bank's flagship target is carbon neutrality in its own operations by a target year (check the latest report), which does not cover financed emissions.\n\n**Transmission to financial risk (1).** For a bank ESG shows up as credit risk (borrowers in high-emission sectors, physical risk to housing collateral), operational and technology risk (the 2020 to 2022 RBI curbs after outages) and reputation, so the slide's 'financial risk linkage' metric is the best fit.\n\n**Verdict (1).** Credible on inclusion and governance, incomplete on climate until a financed-emissions target by sector is set.",
+    "marking_scheme": [
+      {
+        "point": "Definition of the perspective",
+        "marks": 1
+      },
+      {
+        "point": "Bank footprint in the loan book (financed emissions) vs manufacturer's plants",
+        "marks": 2
+      },
+      {
+        "point": "Link to credit, operational and technology risk with HDFC example",
+        "marks": 1
+      },
+      {
+        "point": "Verdict with next step",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "CS-2-02",
+    "node": "CS-2",
+    "unit": "Sustainable Finance Unit 5",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Distinguish carbon neutral from net zero, using Infosys as the example. (5)",
+    "model_answer": "**Carbon neutral (1.5).** Residual emissions are balanced by offsets, certificates or removals. Infosys has reported carbon neutrality since 2020 (check the latest report), covering Scope 1, 2 and part of Scope 3.\n\n**Net zero (1.5).** Deep cuts across the value chain, not just offsets with only a small residual neutralised. Infosys has a longer-term net zero goal around 2040 (verify year and scope).\n\n**Why it matters (1).** Neutrality reached largely through certificates and credits is a claim-scope risk, not proof of false reporting. The reader should ask what share is reduced and what share is offset.\n\n**Verdict (1).** Infosys's case is necessary, not sufficient: strong on people and disclosure, but Scope 3 and offset reliance need disclosure of the reduced versus offset split.",
+    "marking_scheme": [
+      {
+        "point": "Carbon neutral defined, with the Infosys claim",
+        "marks": 1.5
+      },
+      {
+        "point": "Net zero defined, with Infosys longer-term goal",
+        "marks": 1.5
+      },
+      {
+        "point": "Offset reliance as claim-scope / greenwashing risk",
+        "marks": 1
+      },
+      {
+        "point": "Verdict",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "CS-2-03",
+    "node": "CS-2",
+    "unit": "Sustainable Finance Unit 5",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "An analyst scores a services company on six indicators (1 low, 3 high unmanaged risk).\n\n| Indicator | Year 1 | Year 2 |\n|---|---|---|\n| Operational emissions | 1 | 1 |\n| Scope 3 and offsets | 2 | 3 |\n| Talent and attrition | 2 | 2 |\n| Diversity | 2 | 2 |\n| Data privacy and cyber | 2 | 2 |\n| Governance and ethics | 2 | 1 |\n\nCompute the average score in each year and interpret the result. (5)",
+    "model_answer": "**Year 1:** 1 + 2 + 2 + 2 + 2 + 2 = 11; 11 ÷ 6 = **1.83**.\n**Year 2:** 1 + 3 + 2 + 2 + 2 + 1 = 11; 11 ÷ 6 = **1.83**.\n\n**Interpretation.** The average is unchanged, but the mix moved: Scope 3 and offset reliance worsened from 2 to 3 while governance improved from 2 to 1. An unchanged average hides a shift of risk from governance to the value chain.\n\n**Link to the slides.** Scope 3 is the carbon footprint metric on slide 378 and also the data-quality challenge on slide 382. Under IFRS S2 Scope 1 to 3 must be disclosed, so the Year 2 score points to the metrics-and-targets pillar as the gap.\n\n**Decision.** Do not read the flat average as stability. Ask for a reduced-versus-offset split and an assured Scope 3 estimate.",
+    "marking_scheme": [
+      {
+        "point": "Year 1 average 1.83 with working",
+        "marks": 1
+      },
+      {
+        "point": "Year 2 average 1.83 with working",
+        "marks": 1
+      },
+      {
+        "point": "Mix shift: Scope 3 worse, governance better",
+        "marks": 1.5
+      },
+      {
+        "point": "Link to slide metric/challenge and S2",
+        "marks": 1
+      },
+      {
+        "point": "Decision / next action",
+        "marks": 0.5
+      }
+    ]
+  },
+  {
+    "id": "CS-3-02",
+    "node": "CS-3",
+    "unit": "Sustainable Finance Unit 5",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "What does 'carbon positive' mean for ITC and what is the limit of the claim? (5)",
+    "model_answer": "**Meaning (1.5).** The company removes or sequesters more carbon (afforestation, social forestry) than it emits. ITC has reported being carbon positive, water positive and solid-waste recycling positive for around two decades (check the latest report for the current count).\n\n**Limit 1 (1).** Removals can offset emissions, so a 'positive' status may coexist with flat or rising gross emissions. Ask for gross emissions and intensity.\n\n**Limit 2 (1.5).** Positive claims are less comparable than direct emission and intensity cuts, because methods for removals vary.\n\n**Limit 3 (1).** No carbon or water gain offsets the harm of the tobacco product, the structural ESG risk.",
+    "marking_scheme": [
+      {
+        "point": "Meaning of carbon positive with ITC reference",
+        "marks": 1.5
+      },
+      {
+        "point": "Gross emissions can hide behind removals",
+        "marks": 1
+      },
+      {
+        "point": "Comparability limit of offset-style claims",
+        "marks": 1.5
+      },
+      {
+        "point": "Product harm not offset by operations",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "CS-4-02",
+    "node": "CS-4",
+    "unit": "Sustainable Finance Unit 5",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Why is steel a hard-to-abate sector, and how can a 'green steel' claim mislead? Use JSW Steel as the example. (5)",
+    "model_answer": "**Hard to abate (2).** The blast furnace route uses coal as both heat source and chemical reducing agent, so a large part of emissions is process emission that cannot be fixed by switching to renewable electricity. Alternatives (electric arc furnace with scrap, direct reduced iron with gas or green hydrogen) need heavy capital and new inputs. In the risk matrix Scope 1 process emissions and carbon border risk (CBAM) are the high scores.\n\n**Green steel (1).** JSW Steel is moving towards lower-carbon routes and a branded green steel line (verify product and tonnage).\n\n**How it can mislead (2).** (i) Green steel may be a small share of total output while most steel is still blast-furnace made; ask for green tonnes as a share of total. (ii) An intensity target can be met while absolute emissions rise if output grows.",
+    "marking_scheme": [
+      {
+        "point": "Process emissions / blast furnace reason for hard to abate",
+        "marks": 2
+      },
+      {
+        "point": "Green steel routes and JSW positioning",
+        "marks": 1
+      },
+      {
+        "point": "Share-of-output test",
+        "marks": 1
+      },
+      {
+        "point": "Intensity vs absolute emissions",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "CS-5-02",
+    "node": "CS-5",
+    "unit": "Sustainable Finance Unit 5",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "What was the Niyamgiri case and what does it teach a sustainable investor? (5)",
+    "model_answer": "**Facts (2).** A bauxite mining project in the Niyamgiri hills, Odisha, sacred to the Dongria Kondh community. The Supreme Court in 2013 asked that the tribal village councils (gram sabhas) decide, and they rejected the mine (verify details).\n\n**Lesson (2).** Free, prior and informed consent and the **social licence to operate**: legal approval does not guarantee a project can proceed. The social pillar becomes a financial risk through stranded investment, delay and reputation.\n\n**Link to Vedanta (1).** With Sterlite Thoothukudi (2018) and the Zambian pollution litigation, it explains why Vedanta is the high-controversy, high-greenwashing-risk corner of the unit: targets such as net zero 2050 are discounted until trust is rebuilt.",
+    "marking_scheme": [
+      {
+        "point": "Case facts",
+        "marks": 2
+      },
+      {
+        "point": "Consent and social licence lesson linked to financial risk",
+        "marks": 2
+      },
+      {
+        "point": "Vedanta link and credibility of targets",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "CS-6-05",
+    "node": "CS-6",
+    "unit": "Sustainable Finance Unit 5",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "Define a corporate sustainable investment perspective. Contrast the traditional and sustainable investment chains and name the three ways ESG creates long-term value. (5)",
+    "model_answer": "**Definition (1).** A corporate sustainable investment perspective considers financial returns together with environmental, social and governance implications when making long-term business and investment decisions (slide 384).\n\n**Chains (1).**\n- Traditional: Investment → Revenue → Profit → Shareholder return.\n- Sustainable: Investment → Financial return + ESG impact → Risk management → Resilience → Long-term value.\n\n**Three value drivers (2), slide 383.**\n1. Environmental stewardship: emissions, renewable energy, water and waste, lowering cost and future-proofing operations.\n2. Social responsibility: employee wellbeing, diversity, community, building brand trust and productivity.\n3. Governance transparency: board oversight, anti-corruption and disclosure, raising investor confidence.\n\n**Example and verdict (1).** E.g. a steel firm borrowing under a sustainability-linked loan: return plus emissions impact, managed transition risk, resilient franchise.",
+    "marking_scheme": [
+      {
+        "point": "Definition",
+        "marks": 1
+      },
+      {
+        "point": "Both chains",
+        "marks": 1
+      },
+      {
+        "point": "Three value drivers, two marks",
+        "marks": 2
+      },
+      {
+        "point": "Example and verdict",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "CS-6-06",
+    "node": "CS-6",
+    "unit": "Sustainable Finance Unit 5",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Distinguish IFRS S1 from IFRS S2 as taught in class. (5)",
+    "model_answer": "| | IFRS S1 | IFRS S2 |\n|---|---|---|\n| Scope | General requirements for sustainability-related financial information | Climate-specific |\n| Covers | All material sustainability risks and opportunities | Physical and transition risks, opportunities, scenario analysis, Scope 1 to 3 emissions |\n| Focus | Effect on cash flows, access to finance and cost of capital | Transition plans and capital expenditure alignment |\n| Structure | Across industries and geographies | Built on TCFD pillars: Governance, Strategy, Risk management, Metrics and targets |\n| Lens | Single (financial) materiality | Same |\n\n**Note.** Slide 377 says both are widely adopted in 2026 including India; the mandated Indian format is BRSR (verify alignment status).",
+    "marking_scheme": [
+      {
+        "point": "S1 scope and coverage",
+        "marks": 2
+      },
+      {
+        "point": "S2 scope: climate, Scope 1-3, scenarios",
+        "marks": 2
+      },
+      {
+        "point": "Lens: financial materiality / TCFD pillars",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "CS-6-07",
+    "node": "CS-6",
+    "unit": "Sustainable Finance Unit 5",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Match four risk metrics with their disclosure practices as shown on the slides, and state one challenge in implementing them. (5)",
+    "model_answer": "Any four rows (1 mark each):\n\n| Risk metric | Disclosure practice |\n|---|---|\n| Carbon emissions, Scope 1 to 3 | Mandatory reporting under IFRS S2 |\n| Climate scenario resilience | Disclosure of 1.5°C and 2°C pathways |\n| ESG risk matrix (E, S, G) | Governance, strategy, risk management |\n| Market, credit, operational risks | Integrated into financial disclosures |\n| Transition expenditure alignment | Net-zero strategy disclosure |\n\n**Challenge (1).** Data quality: Scope 3 and social impact metrics are hard to measure consistently; the others are greenwashing, compliance cost for smaller firms and investor scrutiny.",
+    "marking_scheme": [
+      {
+        "point": "Four metric-to-disclosure pairs, 1 mark each",
+        "marks": 4
+      },
+      {
+        "point": "One challenge from slide 382 explained",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "CS-6-08",
+    "node": "CS-6",
+    "unit": "Sustainable Finance Unit 5",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "State the four risks and challenges in ESG disclosure listed on the slides, with one line on each. (5)",
+    "model_answer": "1. **Greenwashing (1.25).** Firms may exaggerate; the standards aim to reduce it by requiring verifiable metrics.\n2. **Data quality (1.25).** Scope 3 and social impact metrics are hard to measure consistently.\n3. **Compliance cost (1.25).** Smaller firms may struggle with the cost of reporting.\n4. **Investor scrutiny (1.25).** Transparency raises accountability but exposes firms to reputational risk if targets are missed.",
+    "marking_scheme": [
+      {
+        "point": "Greenwashing",
+        "marks": 1.25
+      },
+      {
+        "point": "Data quality",
+        "marks": 1.25
+      },
+      {
+        "point": "Compliance cost",
+        "marks": 1.25
+      },
+      {
+        "point": "Investor scrutiny",
+        "marks": 1.25
+      }
+    ]
+  },
+  {
+    "id": "CS-1-04",
+    "node": "CS-1",
+    "unit": "Sustainable Finance Unit 5",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "medium",
+    "question": "Discuss HDFC Bank's sustainability commitments and assess whether they are enough, using the class sustainable investment perspective. (10)",
+    "model_answer": "**1. Perspective (2).** A sustainable investment perspective weighs financial return with ESG implications (slide 384). For a bank: lending and technology spend → return + ESG impact (financed emissions, inclusion) → risk management (climate and credit risk) → resilience (technology uptime) → long-term value (a trusted franchise).\n\n**2. Commitments, E-S-G (3).**\n- E: carbon neutral in own operations by a target year (check the latest report), renewable energy and efficiency in branches and data centres, green lending lines.\n- S: financial inclusion (rural, priority sector, MSME), large CSR, data privacy.\n- G: board independence, RBI fit-and-proper norms, BRSR disclosure; the 2020 to 2022 RBI curbs after outages show that technology risk is a governance risk.\n\n**3. Risk metrics vs disclosure (3).** Best-fit slide metric is financial risk linkage: credit risk from borrowers in high-emission sectors and physical risk to housing collateral after the HDFC Ltd merger. Carbon footprint: own Scope 1 and 2 reported, but Scope 3 category 15 (financed) is the gap. Disclosure: S1 asks whether issues move cash flows, access to finance and cost of capital (for a bank through credit losses and funding); S2 pillars Governance, Strategy, Risk management, Metrics and targets; in India the mandated format is BRSR.\n\n**4. Challenge (1).** Claim-scope greenwashing: 'carbon neutral' on operations while lending may still fund high-emission sectors; Scope 3 data quality for financed emissions.\n\n**5. Verdict (1).** Credible on inclusion and governance, incomplete on climate. Next step: measure financed emissions and set sector-wise targets.",
+    "marking_scheme": [
+      {
+        "point": "Perspective definition and chain applied to a bank",
+        "marks": 2
+      },
+      {
+        "point": "E, S, G commitments with evidence",
+        "marks": 3
+      },
+      {
+        "point": "Risk metrics and S1/S2 disclosure lens",
+        "marks": 3
+      },
+      {
+        "point": "Challenge: claim scope / Scope 3 data",
+        "marks": 1
+      },
+      {
+        "point": "Verdict and next action",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "CS-3-03",
+    "node": "CS-3",
+    "unit": "Sustainable Finance Unit 5",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "hard",
+    "question": "Can a company with a tobacco business be a sustainability leader? Argue with reference to ITC and the class framework. (10)",
+    "model_answer": "**1. Frame (2).** Sustainable perspective = financial return together with ESG implications; value comes through environmental stewardship, social responsibility and governance transparency (slides 383-384).\n\n**2. Case for (3).** Operational ESG is strong: long-running carbon, water and solid-waste 'positive' status (check latest report), afforestation and watershed work, farmer livelihoods, multiple reports (sustainability report, ESG fact book, BRSR). Mini matrix scores low for operational emissions and water (1) and disclosure (1).\n\n**3. Case against (3).** Product health (tobacco) scores 3: the harm is in the product, so no carbon or water gain offsets it. 'Positive' claims are less comparable than gross and intensity cuts. Board diversity is weak (CIA1: about 6% women, verify). Tobacco taxation and rules create regulatory exposure; packaging brings EPR exposure.\n\n**4. Disclosure and challenge (1).** Under S1 the question is whether product risk threatens cash flows (tax, regulation) and access to finance (many investors exclude tobacco, raising cost of capital). Challenge: greenwashing risk if operations are used to sell the overall story.\n\n**5. Cambridge lens (supplementary) and verdict (1).** Social and Geopolitical (regulation, taxation) lead. Verdict: strong operations, structural product risk, so a leader in operational practice but not a leader on the portfolio-level sustainability test.",
+    "marking_scheme": [
+      {
+        "point": "Frame and value drivers",
+        "marks": 2
+      },
+      {
+        "point": "Case for with evidence",
+        "marks": 3
+      },
+      {
+        "point": "Case against with evidence (product, comparability, board)",
+        "marks": 3
+      },
+      {
+        "point": "S1 cash flow / access to finance link and challenge",
+        "marks": 1
+      },
+      {
+        "point": "Cambridge tag and verdict",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "CS-4-03",
+    "node": "CS-4",
+    "unit": "Sustainable Finance Unit 5",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "hard",
+    "question": "Assume a steel producer raises ₹2,000 crore through a sustainability-linked loan with a 0.25% a year coupon step-up if it misses its 2030 emission-intensity KPI, and it plans ₹4,000 crore of green-steel capex. (a) Compute the annual step-up cost and express it as a percentage of the capex. (b) Explain how sustainability-linked finance supports decarbonisation and its limits, with reference to JSW Steel's profile. (10)",
+    "model_answer": "**(a) (2)** Step-up = 0.25% × 2,000 = **₹5 crore a year**. As a share of capex: 5 ÷ 4,000 = **0.125% a year**. The penalty is tiny against the investment it is meant to discipline.\n\n**(b) Support (3).** An SLB is not tied to use of proceeds, so a hard-to-abate producer can use it for general purposes while committing to a KPI (emission intensity per tonne of crude steel, a 2030 target). It gives the lender a price signal, forces KPI disclosure (slide's transition expenditure alignment and net-zero strategy disclosure), and signals credible transition design.\n\n**Limits (3).**\n1. **Weak penalty:** 0.125% of capex (calculated above) is unlikely to change behaviour. Verdict: credible design, weak penalty.\n2. **Intensity KPI:** can be met while absolute emissions rise if output grows.\n3. **Green steel share:** a branded line may be a small share of output; verify tonnes.\n4. **Scope 1 process emissions and CBAM:** high-score risks that finance alone does not remove.\n\n**S1/S2 lens (1).** Transition risk affects cash flows (carbon border costs) and cost of capital; disclose capex alignment and scenario resilience.\n\n**Verdict (1).** SLB is useful for a hard-to-abate sector only if the KPI is absolute or ambitious, verified, and the penalty meaningful.",
+    "marking_scheme": [
+      {
+        "point": "(a) Step-up cost and percentage of capex",
+        "marks": 2
+      },
+      {
+        "point": "How SLB supports decarbonisation",
+        "marks": 3
+      },
+      {
+        "point": "Limits: weak penalty, intensity vs absolute, green share, Scope 1/CBAM",
+        "marks": 3
+      },
+      {
+        "point": "S1/S2 link",
+        "marks": 1
+      },
+      {
+        "point": "Verdict",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "CS-5-03",
+    "node": "CS-5",
+    "unit": "Sustainable Finance Unit 5",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "hard",
+    "question": "Critically assess Vedanta's net zero 2050 target in light of its controversy record. (10)",
+    "model_answer": "**1. Frame (1).** Sustainable perspective = return + ESG implications; ESG risk management builds resilience and long-term value (slide 384).\n\n**2. The target (2).** Net zero by 2050, interim goals on renewable power, water recycling and intensity cuts by 2030 (verify percentages and base year), and biodiversity and tailings reporting.\n\n**3. The record (3).** Sterlite Copper, Thoothukudi, 2018: protests over pollution, police firing, state-ordered closure; Niyamgiri: tribal gram sabhas rejected the mine; Konkola Copper Mines, Zambia: pollution claims allowed to proceed in English courts; BALCO chimney collapse (verify details). These are Environmental, Social and Governance failures together; the licence to operate decides value.\n\n**4. Assessment (2).** 2050 is far; interim targets are essential. The 'promise versus outcome' gap is historical (trust deficit) and forward-looking (target credibility). Quantification scores for S and G are high (community consent, safety, leverage). Greenwashing risk is high.\n\n**5. Disclosure and challenge (1).** S1 test: community loss of licence affects cash flows; S2: scenario analysis and Scope 1 to 3 with assurance. Challenges: greenwashing, investor scrutiny.\n\n**6. Verdict (1).** High greenwashing risk until interim targets are met, independently assured and community consent is rebuilt.",
+    "marking_scheme": [
+      {
+        "point": "Frame",
+        "marks": 1
+      },
+      {
+        "point": "Target description",
+        "marks": 2
+      },
+      {
+        "point": "Controversy record, three or more items",
+        "marks": 3
+      },
+      {
+        "point": "Critical assessment: trust and credibility",
+        "marks": 2
+      },
+      {
+        "point": "Disclosure and challenge link",
+        "marks": 1
+      },
+      {
+        "point": "Verdict",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "CS-6-09",
+    "node": "CS-6",
+    "unit": "Sustainable Finance Unit 5",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "medium",
+    "question": "Discuss IFRS S1 and S2 and the risks in implementing them, as taught in class. (10)",
+    "model_answer": "**1. Context (1).** Risk metrics and disclosure practices are globally standardised under IFRS S1 and S2 and widely adopted in 2026 including in India (slide 377). Indian listed companies use BRSR as the mandated format (verify alignment status).\n\n**2. IFRS S1 (2).** General requirements for sustainability-related financial information: all material sustainability risks and opportunities, with focus on effect on cash flows, access to finance and cost of capital, across industries and geographies.\n\n**3. IFRS S2 (3).** Climate-specific: physical risks, transition risks, climate opportunities, scenario analysis, Scope 1 to 3 emissions, and transition plans with capex alignment. Built on TCFD pillars: Governance, Strategy, Risk management, Metrics and targets. Lens: single (financial) materiality.\n\n**4. Metric to disclosure pairing (1).** Scope 1-3 with S2 reporting; scenario resilience with 1.5°C and 2°C pathways; risk matrix with governance, strategy and risk management.\n\n**5. Implementation risks (3), slide 382.** Greenwashing (verifiable metrics reduce it); data quality (Scope 3 and social metrics); compliance cost for smaller firms; investor scrutiny and reputational risk if targets are missed. Give an example: a firm discloses a 2050 target without interim milestones and loses credibility.",
+    "marking_scheme": [
+      {
+        "point": "Context and BRSR",
+        "marks": 1
+      },
+      {
+        "point": "IFRS S1",
+        "marks": 2
+      },
+      {
+        "point": "IFRS S2 with TCFD pillars",
+        "marks": 3
+      },
+      {
+        "point": "Metric/disclosure pairing",
+        "marks": 1
+      },
+      {
+        "point": "Four implementation risks with example",
+        "marks": 3
+      }
+    ]
+  },
+  {
+    "id": "CS-6-10",
+    "node": "CS-6",
+    "unit": "Sustainable Finance Unit 5",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "hard",
+    "question": "Meridian Components Ltd (fictional) reports Scope 1 of 120 kt, Scope 2 of 80 kt and Scope 3 of 1,600 kt CO2e on revenue of ₹10,000 crore. Next year revenue grows 20% and emission intensity (total emissions per ₹ crore) falls 10%.\n\n(a) Compute total emissions, the Scope 3 share, and current intensity in tonnes per ₹ crore. (3)\n(b) Compute next year's absolute emissions and interpret the result. (3)\n(c) State the IFRS S1/S2 implications and the slide 382 challenge most relevant. (4)",
+    "model_answer": "**(a)** Total = 120 + 80 + 1,600 = **1,800 kt**. Scope 3 share = 1,600 ÷ 1,800 = **88.9%**. Intensity = 1,800 kt ÷ 10,000 crore = 180 t per ₹ crore (1,800,000 t ÷ 10,000).\n\n**(b)** Next-year intensity = 180 × 0.9 = 162 t per ₹ crore. Revenue = 12,000 crore. Emissions = 162 × 12,000 = 1,944,000 t = **1,944 kt**, which is **8% higher** (1,944 ÷ 1,800 = 1.08). **Interpretation:** the firm meets an intensity improvement while absolute emissions rise, the same issue as an intensity target in steel. Investors reading S2 metrics should ask for the absolute trend against the climate scenarios.\n\n**(c) S1/S2 (3).**\n- S2 requires Scope 1 to 3 disclosure; with 88.9% of emissions in Scope 3, the headline metric is the least measurable one.\n- Strategy and Metrics and targets pillars: transition plan and capex alignment should show how absolute emissions will bend.\n- S1: rising emissions affect cash flows (carbon costs, buyer demands), access to finance and cost of capital.\n**Challenge (1).** Data quality of Scope 3, and greenwashing if only intensity is advertised.",
+    "marking_scheme": [
+      {
+        "point": "(a) Total, Scope 3 share, intensity",
+        "marks": 3
+      },
+      {
+        "point": "(b) Next-year emissions 1,944 kt, +8%",
+        "marks": 2
+      },
+      {
+        "point": "(b) Interpretation intensity vs absolute",
+        "marks": 1
+      },
+      {
+        "point": "(c) S1/S2 pillars and financial lens",
+        "marks": 3
+      },
+      {
+        "point": "(c) Relevant challenge",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "CS-1-05",
+    "node": "CS-1",
+    "unit": "Sustainable Finance Unit 5",
+    "type": "case",
+    "marks": 15,
+    "difficulty": "hard",
+    "question": "**Case: Bharat Mercantile Bank (fictional).** Bharat Mercantile Bank is a large private bank with a loan book of ₹2,00,000 crore after absorbing its housing-finance parent. It has pledged carbon neutrality in its own operations by 2032 and publishes a BRSR. In the past it was ordered by its regulator to pause new digital launches after repeated outages. Assume the following financed-emission intensities (tonnes CO2e per ₹ crore of exposure, attribution already applied) and own-operations Scope 1+2 of 0.05 Mt:\n\n| Sector | Exposure (₹ crore) | Intensity (t per ₹ crore) |\n|---|---|---|\n| Thermal power | 20,000 | 400 |\n| Steel and cement | 10,000 | 500 |\n| Retail and housing | 1,00,000 | 10 |\n| MSME and services | 50,000 | 20 |\n| Renewable energy | 20,000 | 15 |\n\nAnswer using the nine-step case method:\n(a) Compute financed emissions in Mt, the share of the two carbon-heavy sectors in emissions versus loans, and own operations as a share of total. (3)\n(b) Define the sustainable investment perspective and show the chain for this bank. (2)\n(c) Pick three risk metrics and build a mini matrix (1 to 3) for five indicators. (3)\n(d) Apply IFRS S1/S2 and BRSR. (2)\n(e) Tag the top four risks with the Cambridge six classes and name the lead class. (2)\n(f) Which slide 382 challenge fits? (1)\n(g) Give the decision line and next action. (2)",
+    "model_answer": "**(a) Calculations (3).**\nPower 20,000 × 400 = 8.0 Mt; steel and cement 10,000 × 500 = 5.0 Mt; retail and housing 1,00,000 × 10 = 1.0 Mt; MSME 50,000 × 20 = 1.0 Mt; renewables 20,000 × 15 = 0.3 Mt. **Total = 15.3 Mt.**\nPower + steel and cement = 13.0 Mt = **85.0%** of emissions, from 30,000 ÷ 2,00,000 = **15%** of loans. Own operations 0.05 ÷ 15.3 = **0.33%**: the pledge covers about a third of one per cent of the footprint.\n\n**(b) Perspective (2).** Considers financial return together with ESG implications for long-term decisions. Chain: Investment (lending, technology) → financial return + ESG impact (financed emissions, inclusion) → risk management (sector limits, climate and credit risk) → resilience (uptime, diversified book) → long-term value.\n\n**(c) Metrics and matrix (3).** Fit: financial risk linkage (credit risk of carbon-heavy borrowers; technology as operational risk), carbon footprint Scope 3 category 15, transition expenditure alignment (green share of lending: renewables 10%).\nMatrix: own operational emissions 1; financed emissions 3; physical risk to housing collateral 2; technology resilience 2; board and conduct 2. Average of the five = 10 ÷ 5 = 2.0.\n\n**(d) Disclosure (2).** S1: do ESG matters change cash flows, access to finance, cost of capital? Mostly via credit losses and funding. S2 pillars: Governance (board oversight), Strategy (sector transition), Risk management (limits), Metrics and targets (financed emissions, green share). BRSR is the mandated Indian format; the slide treats S1/S2 as widely adopted (verify).\n\n**(e) Cambridge (supplementary) (2).** Financed emissions and credit concentration: Financial; outages and cyber: Technology; climate physical and transition: Environmental; conduct and regulatory order: Governance. Lead class: Financial, with Technology next.\n\n**(f) Challenge (1).** Greenwashing by claim scope, with Scope 3 data quality: a neutral target on 0.33% of emissions.\n\n**(g) Decision line (2).** Credible on inclusion and governance, incomplete on climate. Next action: measure financed emissions annually, set a sector-wise reduction target for the carbon-heavy sectors and disclose the green share of new lending.",
+    "marking_scheme": [
+      {
+        "point": "(a) Financed emissions 15.3 Mt, 85% vs 15%, own ops 0.33%",
+        "marks": 3
+      },
+      {
+        "point": "(b) Definition and chain",
+        "marks": 2
+      },
+      {
+        "point": "(c) Three metrics and matrix with reasons",
+        "marks": 3
+      },
+      {
+        "point": "(d) S1/S2 and BRSR",
+        "marks": 2
+      },
+      {
+        "point": "(e) Cambridge six-class tags and lead class",
+        "marks": 2
+      },
+      {
+        "point": "(f) Challenge",
+        "marks": 1
+      },
+      {
+        "point": "(g) Decision line and next action",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "CS-4-04",
+    "node": "CS-4",
+    "unit": "Sustainable Finance Unit 5",
+    "type": "case",
+    "marks": 15,
+    "difficulty": "hard",
+    "question": "**Case: Eastern Integrated Steel Ltd (fictional, hard-to-abate profile).** Eastern Integrated Steel produces mainly through blast furnaces. It has an emission-intensity target for 2030, a net zero 2050 ambition and a branded green steel line. It raised ₹2,000 crore through a sustainability-linked loan with a 0.25% coupon step-up if it misses its KPI, and plans ₹4,000 crore of green-steel capex. It faces carbon border pricing on exports and complaints about air pollution near its plant, and acquired a stressed asset through insolvency that is now in litigation. An analyst scored (1 low, 3 high unmanaged risk): Scope 1 process emissions 3; carbon border and market risk 3; local air pollution 3; worker safety 2; governance and legal 2; disclosure and targets 2.\n\n(a) Compute the average score and the annual step-up cost as a percentage of capex. (3)\n(b) Define the perspective and show the chain. (2)\n(c) Identify the E, S, G value drivers (slide 383) and the best-fit metric. (3)\n(d) Apply IFRS S1/S2. (2)\n(e) Map the top risks to Cambridge's six classes. (2)\n(f) Which slide 382 challenge is most relevant? (1)\n(g) Decision line and next action. (2)",
+    "model_answer": "**(a) (3).** Total = 3 + 3 + 3 + 2 + 2 + 2 = 15; 15 ÷ 6 = **2.5** (high). Step-up = 0.25% × 2,000 = ₹5 crore; 5 ÷ 4,000 = **0.125%** of capex a year: a weak penalty.\n\n**(b) (2).** Sustainable perspective: financial return together with ESG implications. Chain: investment in lower-carbon routes → return + emissions impact → management of transition risk → resilience (carbon border costs, buyer demands) → long-term value.\n\n**(c) (3).** E: environmental stewardship through green steel, renewable power, waste-heat recovery, slag use. S: worker safety and local community health. G: transparent targets and handling of the acquisition dispute. Best-fit slide metric: transition expenditure alignment (green capex versus the 2050 path), supported by carbon footprint Scope 1 and scenario resilience.\n\n**(d) (2).** S1: carbon border costs and cost of capital are financial-materiality matters. S2: scenario analysis (1.5°C and 2°C), Scope 1 to 3, capex alignment, TCFD pillars; BRSR for India.\n\n**(e) Cambridge (2, supplementary).** Environmental: transition and pollution (lead class); Financial: carbon border pricing and leverage of transition capex; Geopolitical: trade regulation (emerging regulation); Governance: litigation on the acquisition.\n\n**(f) Challenge (1).** Greenwashing: a green steel line can be a small share of output, and an intensity KPI can be met while absolute emissions rise.\n\n**(g) Decision line (2).** Credible design, weak penalty: transition finance is aligned with the slide framework, but a 0.125% step-up, an intensity KPI and a possibly small green share limit the claim. Next action: add an absolute emissions target, disclose green-steel tonnes as a share of output, and raise the penalty.",
+    "marking_scheme": [
+      {
+        "point": "(a) Average 2.5 and 0.125%",
+        "marks": 3
+      },
+      {
+        "point": "(b) Definition and chain",
+        "marks": 2
+      },
+      {
+        "point": "(c) E, S, G drivers and best-fit metric",
+        "marks": 3
+      },
+      {
+        "point": "(d) S1/S2 disclosure lens",
+        "marks": 2
+      },
+      {
+        "point": "(e) Cambridge classes",
+        "marks": 2
+      },
+      {
+        "point": "(f) Challenge",
+        "marks": 1
+      },
+      {
+        "point": "(g) Decision line and action",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "CS-5-04",
+    "node": "CS-5",
+    "unit": "Sustainable Finance Unit 5",
+    "type": "case",
+    "marks": 15,
+    "difficulty": "hard",
+    "question": "**Case: Aravalli Metals and Mining Ltd (fictional, with a controversy profile similar to the high-controversy corner of the unit).** The group has announced net zero by 2050, interim renewable-power goals and a water-positive ambition. Its history includes a smelter closed after fatal protests over pollution, a mining project rejected by tribal village councils, a cross-border pollution suit against its parent, and a chimney collapse that killed workers. The parent is highly leveraged. An analyst assigns (1 low, 3 high): operational emissions 3; water and pollution 3; community consent 3; worker safety 3; governance and leverage 3; disclosure and targets 2.\n\n(a) Compute the average score and the share of indicators at 3. (2)\n(b) Define the perspective and apply the chain. (2)\n(c) E, S, G value drivers and the best-fit metric. (3)\n(d) IFRS S1/S2 and BRSR lens. (2)\n(e) Cambridge six-class mapping. (2)\n(f) Challenge. (2)\n(g) Decision line and next action. (2)",
+    "model_answer": "**(a) (2).** Total = 3 + 3 + 3 + 3 + 3 + 2 = 17; 17 ÷ 6 = **2.83**. Five of six indicators score 3, which is **83.3%** (5 ÷ 6).\n\n**(b) (2).** Sustainable perspective: financial return together with ESG implications for long-term decisions. Chain: investment → return + ESG impact → risk management → resilience → long-term value. Here the chain breaks at risk management: the controversy record shows impact was not managed, so resilience and long-term value are doubtful.\n\n**(c) (3).** E: environmental stewardship (emission cuts, water, tailings) has targets but a poor pollution history. S: social responsibility, community consent and worker safety, the weakest link (licence to operate). G: governance transparency is weakened by promoter control and parent leverage. Best-fit metric: ESG risk quantification for S and G, plus scenario resilience for a 2050 net zero path.\n\n**(d) (2).** S1: loss of licence, closures and litigation change cash flows, access to finance and cost of capital. S2: need Scope 1 to 3, interim milestones, transition capex and assured numbers under the four TCFD pillars. BRSR in India.\n\n**(e) Cambridge (2, supplementary).** All six classes touch the case: Environmental (pollution, climate), Social (community, safety), Governance (litigation, leverage decisions), Geopolitical (licence revocation, government policy), Financial (leverage), Technology (industrial accidents). Lead classes: Social and Governance.\n\n**(f) Challenge (2).** Greenwashing and investor scrutiny: a 2050 target is distant, so the gap between promise and outcome is the key risk; reputational damage if interim goals are missed.\n\n**(g) Decision line (2).** High greenwashing risk until trust is rebuilt: treat the 2050 target as low-credibility until interim goals are met and independently assured, community consent is documented, and leverage is reduced. Next action: engage on assured interim targets rather than divesting immediately.",
+    "marking_scheme": [
+      {
+        "point": "(a) Average 2.83 and 83.3% at score 3",
+        "marks": 2
+      },
+      {
+        "point": "(b) Perspective and chain, break at risk management",
+        "marks": 2
+      },
+      {
+        "point": "(c) E, S, G drivers and metric",
+        "marks": 3
+      },
+      {
+        "point": "(d) S1/S2 and BRSR",
+        "marks": 2
+      },
+      {
+        "point": "(e) Cambridge mapping",
+        "marks": 2
+      },
+      {
+        "point": "(f) Challenges",
+        "marks": 2
+      },
+      {
+        "point": "(g) Decision line and action",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "CS-6-11",
+    "node": "CS-6",
+    "unit": "Sustainable Finance Unit 5",
+    "type": "case",
+    "marks": 15,
+    "difficulty": "hard",
+    "question": "**Case: Sahyadri Consumer Products Ltd (fictional FMCG company, 60% owned by a foreign parent).** The company has operational decarbonisation and water programmes, packaging under extended producer responsibility, and pays a royalty to its parent that rose from 2.0% to 2.5% of turnover (assume turnover ₹40,000 crore). Its sustainability report has limited external assurance. An analyst scored 12 indicators (1 low, 3 high):\n\n| Pillar | Indicator | Year 1 | Year 2 |\n|---|---|---|---|\n| E | Operational GHG | 1 | 1 |\n| E | Scope 3 | 3 | 3 |\n| E | Water | 2 | 1 |\n| E | Plastics | 3 | 2 |\n| E | Waste | 1 | 1 |\n| S | Safety | 1 | 1 |\n| S | Diversity | 2 | 2 |\n| S | Product health | 2 | 2 |\n| S | Community | 1 | 1 |\n| G | Board | 1 | 1 |\n| G | Parent and royalty | 3 | 3 |\n| G | Disclosure and assurance | 2 | 2 |\n\nThe plastics score moved because the company reset its recycled-content target from 40% by 2025 to 30% by 2027.\n\nUse the nine-step method:\n(a) Pillar totals and averages for both years; royalty change in ₹ crore and percent. (3)\n(b) Perspective and chain. (2)\n(c) Value drivers E, S, G and best-fit metrics. (2)\n(d) Interpret the matrix movement. (2)\n(e) S1/S2 and BRSR. (2)\n(f) Cambridge mapping and challenge. (2)\n(g) Decision line and next action. (2)",
+    "model_answer": "**(a) Calculations (3).**\nYear 1: E = 1 + 3 + 2 + 3 + 1 = 10; S = 1 + 2 + 2 + 1 = 6; G = 1 + 3 + 2 = 6; total **22**, average 22 ÷ 12 = **1.83**.\nYear 2: E = 1 + 3 + 1 + 2 + 1 = 8; S = 6; G = 6; total **20**, average **1.67**.\nRoyalty: 2.0% × 40,000 = ₹800 crore; 2.5% × 40,000 = ₹1,000 crore; increase **₹200 crore a year**, i.e. 0.5 ÷ 2.0 = **25%** more per rupee of turnover.\n\n**(b) (2).** Return together with ESG implications; Investment → return + ESG impact → risk management → resilience → long-term value. Here the chain is strong where the company controls outcomes (plants, water) and weak where it depends on the value chain or parent.\n\n**(c) (2).** E: operations decarbonisation and water; best metric carbon footprint (Scope 3) and ESG quantification. S: safety, community, product health. G: independent oversight but parent royalty; best metric financial risk linkage for the royalty.\n\n**(d) Interpretation (2).** Only two of twelve indicators moved: water 2 → 1 is real progress; plastics 3 → 2 is a **lowered, later target** (40% by 2025 to 30% by 2027), not faster delivery, so it overstates progress. The highest scores remain Scope 3 and parent royalty (both 3). Verdict: the improvement is smaller than the headline fall from 22 to 20.\n\n**(e) Disclosure (2).** S1: the ₹200 crore extra royalty moves cash to the parent before minority holders see it, so it is a financial-materiality point under cash flows, plus EPR cost on plastics. S2: Governance and Metrics are strong, Scope 3 and assurance are gaps. BRSR is the Indian format; assurance is limited.\n\n**(f) Cambridge and challenge (2, supplementary).** Governance (related-party royalty, litigation) is the lead class; Environmental (plastics, waste); Social (brand, product health). Challenge: investor scrutiny and greenwashing, specifically a gap between ambition and the ability to enforce it across the value chain.\n\n**(g) Decision line (2).** Resilient and strong where the company controls outcomes, weaker where the parent or value chain decide; long-term value is credible only if Scope 3 and plastics deliver without another target revision. Next action: ask for assured Scope 3 data and a royalty justification to minority shareholders.",
+    "marking_scheme": [
+      {
+        "point": "(a) Totals, averages and royalty arithmetic",
+        "marks": 3
+      },
+      {
+        "point": "(b) Perspective and chain",
+        "marks": 2
+      },
+      {
+        "point": "(c) E, S, G drivers and metrics",
+        "marks": 2
+      },
+      {
+        "point": "(d) Matrix interpretation: lowered target",
+        "marks": 2
+      },
+      {
+        "point": "(e) S1/S2 and BRSR",
+        "marks": 2
+      },
+      {
+        "point": "(f) Cambridge mapping and challenge",
+        "marks": 2
+      },
+      {
+        "point": "(g) Decision line and next action",
+        "marks": 2
+      }
+    ]
+  }
+]
