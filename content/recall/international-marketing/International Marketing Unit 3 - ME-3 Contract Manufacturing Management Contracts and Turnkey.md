@@ -3,7 +3,7 @@ title: "International Marketing Unit 3 - ME-3 Contract Manufacturing Management 
 type: recall
 status: active
 created: 2026-10-11
-source: "Faculty deck Unit 3 slides 15-22 (specialised entry modes, contract manufacturing, management contract, turnkey project, advantages and disadvantages) + general knowledge where slide text is garbled"
+source: "Faculty deck Unit 3 slides 15-22 (specialised entry modes, contract manufacturing, management contract, turnkey project, advantages and disadvantages) + general knowledge for the comparison table"
 tags: [international-marketing, recall, unit-3, contract-manufacturing, turnkey]
 node: ME-3
 section: "3.3"
@@ -37,10 +37,10 @@ Covers: the three specialised entry modes, each with definition, example, advant
 
 | Advantages | Disadvantages |
 |---|---|
-| Minimal financial exposure | Potential returns limited by the contract |
-| Uses the firm's area of expertise | May unintentionally transfer proprietary knowledge and techniques to the contractee |
+| Focus firm's resources on its area of contracts | Potential returns limited by contract expertise |
+| Minimal financial exposure | May unintentionally transfer proprietary knowledge and techniques to contractee |
 
-The slide text for this table is partly scrambled in the extract; the points above are the readable ones, so these two cells are the safe core.
+The cells are quoted as the slide words them. **(general)** Read advantage 1 as focusing the firm's resources on its area of expertise, and the first disadvantage as returns capped by the contract terms.
 
 ## Turnkey project (class)
 **Definition:** a contract under which a firm agrees to fully **design, construct and equip** a manufacturing, business or service facility and **turn the project over** to the purchaser when it is ready for operation, for a remuneration.
@@ -59,11 +59,11 @@ Contrast to remember: management contract earns by running the business; turnkey
 ## Comparison (exam table)
 | Basis | Contract manufacturing | Management contract | Turnkey project |
 |---|---|---|---|
-| Firm supplies | Orders and specifications | Management and technical skills | Design, construction, equipping |
-| Local partner does | Manufacturing | Owns and funds the business | Buys and later operates |
-| Duration | Ongoing supply | Fixed period | Until handover |
-| Main risk | Loss of control and quality | Know-how leakage | Cost overruns and delays |
-| Example | Apple with Foxconn | Hospital or mall catering | Plant built and handed over |
+| Firm supplies **(general)** | Orders and specifications | Management and technical skills | Design, construction, equipping |
+| Local partner does **(general)** | Manufacturing | Owns and funds the business | Buys and later operates |
+| Duration **(general)** | Ongoing supply | Fixed period | Until handover |
+| Main risk **(class)** | Loss of control and quality | Know-how leakage | Cost overruns and delays |
+| Example | Apple with Foxconn (class) | Hospital or mall catering (class) | Plant built and handed over (general; the slide gives only the definition) |
 
 ## Worked example: which special mode? (exam layout)
 **Q.** Three situations: (a) a US cosmetics brand has its shampoo made in India by a local plant; (b) an Indian hotel group runs a Maldives resort owned by a local investor for a 10-year term; (c) an Indian engineering firm builds a fertiliser plant in Africa and hands over the keys. Name the mode, one advantage and one risk.
@@ -112,8 +112,8 @@ Q: Give disadvantages of contract manufacturing.
 A: Reduced control (quality, delivery schedules), reduced learning potential and potential public relations problems.
 Q: Define a management contract.
 A: An agreement where one company provides managerial assistance, technical expertise and specialised services to another for a certain period in return for monetary compensation.
-Q: Main advantage and risk of a management contract?
-A: Minimal financial exposure; the risk is unintentionally transferring proprietary knowledge to the contractee, with returns limited by the contract.
+Q: Advantages and disadvantages of a management contract, as the slide words them?
+A: Advantages: focus the firm's resources on its area of contracts (expertise) and minimal financial exposure. Disadvantages: potential returns limited by contract expertise, and unintentionally transferring proprietary knowledge to the contractee.
 Q: Define a turnkey project.
 A: A contract to fully design, construct and equip a facility and hand it over to the purchaser when ready for operation, for a remuneration.
 Q: List the disadvantages of turnkey projects.

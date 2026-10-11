@@ -34,6 +34,9 @@ graph TD
     ME3 --> ME4
     ME4 --> ME5["ME-5 Exam answers"]
     ME1 --> ME5
+    ME1 --> ME4
+    ME2 --> ME5
+    ME3 --> ME5
 ```
 
 ## Headline facts to know

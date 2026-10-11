@@ -24,7 +24,7 @@ ESE: 50 marks, 2 hours (**no course plan on file, so assumed**). Section A: 3 of
 ## 5-mark answers (about 120-150 words)
 | Likely question | Skeleton (marks) |
 |---|---|
-| Explain the forms of exporting | Define exporting (1); indirect with home-based exporters (1); direct (1); intra-corporate (1); one pro and one con (1) |
+| Explain the forms of exporting | Define exporting (1); indirect with the four home-based exporters: manufacturers' export agents, export commission agents, export merchants, international firms (1); direct (1); intra-corporate (1); one pro and one con (1) |
 | Indirect vs direct involvement | Indirect: via intermediary, no foreign customer contact (2); direct: deals with customers, relationship (2); example (1) |
 | Advantages and disadvantages of exporting | Four pros (2.5); three cons (2.5) |
 | What is licensing? Pros and cons | Definition with licensor, licensee, fee (1); property licensed (1); process or agreement terms (1); pros and cons (2) |
@@ -35,7 +35,7 @@ ESE: 50 marks, 2 hours (**no course plan on file, so assumed**). Section A: 3 of
 | Greenfield strategy | Definition (1); advantages (2); disadvantages (2) |
 | Joint venture | Definition with shared equity, revenue, control (2); Sony Ericsson (1); pros (1); cons (1) |
 | Merger vs acquisition | Two definitions (2); HDFC Bank and Centurion Bank of Punjab (1); benefits and liabilities (2) |
-| Role of strategic alliances | Define (1); five roles from the slide (4) |
+| Role of strategic alliances | Define (1); roles from the slide, any four of six (4) |
 
 ## 10-mark answers (about 300-350 words)
 **Layout:** introduction (1-2), body in headed points or a table (6), interpretation or conclusion (1-2).
@@ -81,9 +81,9 @@ Working for franchising: 3 x 25 + 5 x 20 + 4 x 20 + 4 x 20 + 4 x 15 = 75 + 100 +
 
 **Step 5: Risks and safeguards.** Dependence on and conflict with the franchisee, and the chance of creating a future competitor. Safeguards: contract fixing menu standards, supplier approvals, territory, duration and a training programme; franchisor allows limited menu flexibility for local taste.
 
-**Decision line:** Enter the UAE by franchising, since it scores 3.95 against 3.45, 3.30 and 2.15 on weights that value control and speed. If the firm later wants full control of a proven market, it can buy out the franchisee or open own outlets. The ranking is a judgement: a weight shift of control to 40 would favour greenfield or JV, so state the weights as assumptions.
+**Decision line:** Enter the UAE by franchising, since it scores 3.95 against 3.45, 3.30 and 2.15 on weights that value control and speed. If the firm later wants full control of a proven market, it can buy out the franchisee or open own outlets. The ranking is a judgement, so state the weights as assumptions. Sensitivity: raising control to 40 (others scaled to 60: capital 16, speed 16, risk 16, local knowledge 12) does not change the winner. Franchising stays first at 3.76 (376 / 100), against JV 3.24, licensing 2.96 and greenfield 2.72. Only a control weight above about 60 (greenfield overtakes at roughly 60.5) would favour greenfield; the JV never overtakes franchising.
 
-**(general)** Real-world check: Starbucks entered India through a joint venture with the Tata group **[VERIFY]**, an example of JV chosen where local knowledge and regulation mattered. Use qualitatively only.
+**(general)** Real-world check: Starbucks entered India in 2012 through Tata Starbucks, a 50:50 joint venture with the Tata group, an example of a JV chosen where local knowledge and regulation mattered. Use qualitatively only.
 
 ## What to remember
 - Always start an entry-mode answer with the commitment-control-risk ladder: exporting, licensing and franchising, special modes, FDI.
@@ -115,6 +115,8 @@ Q: Steps of the 15-mark entry-mode case?
 A: Context and assumptions, feasible options, criteria and weights, scored table, recommendation, risks and safeguards, decision line.
 Q: Rasam Express franchising score with scores 3, 5, 4, 4, 4 and weights 25, 20, 20, 20, 15?
 A: 75 + 100 + 80 + 80 + 60 = 395, so 3.95 out of 5.
+Q: In the Rasam case, what happens to the ranking if the control weight rises to 40 with the other weights scaled to 60?
+A: Franchising still wins at 3.76 (JV 3.24, licensing 2.96, greenfield 2.72). Greenfield would overtake only above a control weight of about 60.
 Q: Why was exporting struck out for a restaurant chain?
 A: A restaurant service consumed in the outlet cannot be shipped as a product.
 Q: Single-sentence difference between licensing and franchising for a case answer?

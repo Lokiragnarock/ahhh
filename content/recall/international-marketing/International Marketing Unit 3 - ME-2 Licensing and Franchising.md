@@ -35,7 +35,7 @@ Covers: licensing (definition, property, process, agreement terms, pros and cons
 - Rights, privileges and constraints
 - Duration of the contract
 
-**Examples on the slide:** PepsiCo and Coca-Cola bottling plants (the brand owner licenses the brand and formula; the bottler produces and distributes locally).
+**Examples on the slide:** PepsiCo and Coca-Cola bottling plants (the brand owner licenses the brand and formula; the bottler produces and distributes locally). **(general)** The trade also calls these franchise bottlers.
 
 | Advantages | Disadvantages |
 |---|---|
@@ -50,7 +50,7 @@ Covers: licensing (definition, property, process, agreement terms, pros and cons
 Key points from the slides:
 - Franchising is a **form of licensing**, but the franchisor exercises **more control** over the franchisee than a licensor does.
 - The franchisee pays a **fixed amount plus a royalty based on sales**.
-- The franchisee agrees to follow the franchisor's prescribed system (the slide text is cut off here; **(general)** this means standards, operating manual, supplies and branding).
+- The slide reads: "Franchisee should agree to adhere to follow the franchisor's requirements". **(general)** In practice this means standards, operating manual, supplies and branding.
 - The franchisor helps the franchisee set up the facilities.
 - The franchisor allows the franchisee some flexibility (local adaptation, such as menu changes).
 - **Examples:** McDonald's, Subway, KFC.
@@ -66,14 +66,15 @@ Key points from the slides:
 The only difference in the advantages column versus licensing is the extra control line. That is the one-line answer to "compare".
 
 ## Licensing vs franchising (exam table)
+Rows tagged **(general)** go beyond the slides; the control and payment rows are **(class)**.
 | Basis | Licensing | Franchising |
 |---|---|---|
 | Parties | Licensor and licensee | Franchisor and franchisee |
-| What is given | Patents, trademarks, know-how, skills | Whole business format and brand |
+| What is given **(general)** | Patents, trademarks, know-how, skills | Whole business format and brand |
 | Control by owner | Lower | Higher |
 | Payment | Fee and royalty | Fixed fee plus sales-based royalty |
-| Support | Mostly none | Franchisor helps with set-up and operations |
-| Typical users | Manufacturing, technology, beverages | Fast food, retail, services |
+| Support **(general)** | Mostly none | Franchisor helps with set-up (class) and operations (general) |
+| Typical users **(general)** | Manufacturing, technology, beverages | Fast food, retail, services |
 
 ## Worked example: franchise income and the answer to give (exam layout)
 **Q.** Rasam Express (illustrative Indian restaurant chain) grants a UAE franchisee a 5-year franchise: fixed fee ₹20 lakh once, plus royalty 6% of sales. Franchisee sales are ₹5 crore a year (illustrative). Compute the franchisor's income and advise.
@@ -97,7 +98,7 @@ The only difference in the advantages column versus licensing is the extra contr
 - Four things an agreement must settle: boundaries, compensation, rights and constraints, duration.
 - Franchisee pays a fixed amount plus a sales-based royalty.
 - Shared pros: low risk, low-cost market test, avoids tariffs and NTBs, local knowledge. Shared cons: limited profit, dependence, conflict, future competitor.
-- Examples: PepsiCo and Coke bottlers (licensing); McDonald's, Subway, KFC (franchising).
+- Examples: PepsiCo and Coke bottlers (licensing; the trade also calls them franchise bottlers **(general)**); McDonald's, Subway, KFC (franchising).
 
 ## Concept map
 ```mermaid
@@ -122,7 +123,7 @@ A: Patents, trademarks, copyrights, technology, technical know-how and specific 
 Q: What four things must a licensing agreement specify?
 A: Boundaries of the agreement, compensation, rights, privileges and constraints, and the duration of the contract.
 Q: Give the faculty's examples of licensing and franchising.
-A: Licensing: PepsiCo and Coca-Cola bottling plants. Franchising: McDonald's, Subway, KFC.
+A: Licensing: PepsiCo and Coca-Cola bottling plants (the trade also calls these franchise bottlers, general). Franchising: McDonald's, Subway, KFC.
 Q: Give four advantages of licensing.
 A: Low financial risk, low-cost way to assess market potential, avoids tariffs, NTBs and investment restrictions, and the licensee provides local market knowledge.
 Q: Give four disadvantages of licensing.

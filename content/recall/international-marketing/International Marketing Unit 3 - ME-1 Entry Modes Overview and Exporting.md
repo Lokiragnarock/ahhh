@@ -16,10 +16,10 @@ state: unstudied
 
 # ME-1 - Entry Modes Overview and Exporting
 
-Covers: the faculty map of nine entry modes, indirect vs direct involvement, the three forms of exporting, and their advantages and disadvantages. **(class)**
+Covers: the faculty map of entry modes (ten items on slide 1), indirect vs direct involvement, the three forms of exporting, and their advantages and disadvantages. **(class)**
 
 ## The faculty map of entry modes (class)
-The deck groups every way of entering a foreign market into three blocks plus two standalone strategies.
+Slide 1 lists ten items: indirect exporting, direct exporting, intra-corporate transfers, licensing, franchising, contract manufacturing, management contracts, turnkey projects, FDI without alliances and FDI with alliances. It becomes eleven once M&A and JV are split under FDI with alliances. The table below groups them for revision.
 
 | Block | Modes |
 |---|---|
@@ -28,8 +28,7 @@ The deck groups every way of entering a foreign market into three blocks plus tw
 | Special modes | Contract manufacturing, management contracts, turnkey projects |
 | FDI | FDI without alliances (greenfield), FDI with alliances (mergers and acquisitions, joint ventures) |
 
-Reading order for the unit: low commitment, low control on the left; high commitment, high control on the right.
-**(general)** Commitment, risk and control all rise together as you move from exporting towards FDI. Say this in one line in any entry-mode answer.
+Slides run exporting, contractual, special, FDI. **(general)** Commitment rises in that order. Say this in one line in any entry-mode answer.
 
 ## Indirect vs direct involvement (class)
 - **Indirect involvement:** the firm takes part in international business through an intermediary and does **not** deal with foreign customers or markets.
@@ -42,7 +41,7 @@ Slides show three diagrams. Reproduce them as examples.
 
 | Form | Diagram on the slide | Meaning |
 |---|---|---|
-| Indirect exporting | Company A (USA) transfers to Company B (home-based), Company C sells to the Malaysian market | The goods are exported through **home-based exporters**. Intermediaries: export commission agents, export merchants, international firms. |
+| Indirect exporting | Company A (USA) transfers to Company B (home-based), Company C sells to the Malaysian market | The goods are exported through **home-based exporters**. Intermediaries (four on the slide): manufacturers' export agents, export commission agents, export merchants, international firms. |
 | Direct exporting | Company A (China) sells straight to Company C (Malaysia) | The firm itself finds, ships to and deals with the foreign buyer. |
 | Intra-corporate transfer | Company A (UK) to Company A (Malaysia) | Sale to the firm's **own** subsidiary, affiliate or branch abroad. |
 
@@ -75,9 +74,9 @@ Link the two columns: low exposure and gradual entry are why exporting is the fi
 **Decision line:** Anand should move (i) to (ii) in markets where volumes justify its own team, because direct contact builds the relationship and market knowledge the slides list as an advantage; it keeps (i) where volumes are small, since indirect carries the least exposure.
 
 ## What to remember
-- Nine modes in three blocks plus FDI; exporting is the lowest-commitment entry.
+- Ten items on slide 1 (eleven once M&A and JV are split); exporting is the lowest-commitment entry.
 - Indirect: through an intermediary, no foreign customer contact. Direct: you face the foreign buyer and can build a relationship.
-- Indirect intermediaries: export commission agents, export merchants, international firms.
+- Four indirect intermediaries: manufacturers' export agents, export commission agents, export merchants, international firms.
 - Intra-corporate transfer: shipments to your own foreign unit.
 - Exporting pros: low exposure, gradual entry, market knowledge, avoids FDI limits. Cons: tariffs and NTBs, logistics, distributor conflict.
 
@@ -103,7 +102,7 @@ A: The firm takes part through an intermediary and does not deal with foreign cu
 Q: Define direct involvement.
 A: The firm works with foreign customers or markets, with the opportunity to develop a relationship.
 Q: Who are the intermediaries in indirect exporting?
-A: Home-based exporters: export commission agents, export merchants and international firms.
+A: Home-based exporters, four on the slide: manufacturers' export agents, export commission agents, export merchants and international firms.
 Q: What is an intra-corporate transfer?
 A: A sale or shipment to the firm's own subsidiary, affiliate or branch in another country.
 Q: Give four advantages of exporting.

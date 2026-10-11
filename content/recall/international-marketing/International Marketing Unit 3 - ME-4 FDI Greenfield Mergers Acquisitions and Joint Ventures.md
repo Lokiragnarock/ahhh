@@ -36,6 +36,7 @@ Companies enter through **FDI** by investing their own money and establishing ma
 
 **Role of alliances (slide):**
 - Many complicated issues are solved through alliances.
+- They provide the parties each other's strengths.
 - Helps develop new products through the interaction of two or more industries.
 - Meets the challenges of the technological revolution.
 - Manages heavy outlay (capital cost).
@@ -46,7 +47,7 @@ Companies enter through **FDI** by investing their own money and establishing ma
 ## Mergers and acquisitions (class)
 - **Merger:** combining two or more companies, generally by offering the stockholders of one company securities in the acquiring company in exchange for surrender of their stock.
 - **Acquisition:** one company takes over another and clearly establishes itself as the new owner.
-- **Slide example:** HDFC Bank's acquisition of Centurion Bank of Punjab for $2.4 billion. **[VERIFY]** the deal value and year (reported 2008, share swap). It is a domestic Indian example, so say that if asked for an international case.
+- **Slide example:** HDFC Bank's acquisition of Centurion Bank of Punjab for $2.4 billion (the slide figure; the deal was in 2008). It is a domestic Indian example, so say that if asked for an international case.
 
 Points the slide lists for acquirers:
 - Obtains control over the acquired firm, such as factories and brand names.
@@ -57,15 +58,15 @@ Points the slide lists for acquirers:
 
 ## Joint venture (class)
 **Definition:** an entity formed between two or more parties to undertake economic activity together. They create a new entity by both contributing equity and share revenues, expenses and control.
-**Slide example:** Sony Ericsson, a JV of Japan's Sony Corporation and Sweden's Ericsson to make mobile phones. **[VERIFY]** current status: Sony bought Ericsson's stake in 2012 and it became Sony Mobile **(general)**.
+**Slide example:** Sony Ericsson, a JV of Japan's Sony Corporation and Sweden's Ericsson to make mobile phones. **(general)** Sony bought out Ericsson in 2012 and the business became Sony Mobile.
 
 | Advantages | Disadvantages |
 |---|---|
-| Shared costs and risks with the partner | Risk of giving control of technology to the partner |
-| Reduced political risk | May not realise experience curve or location economies |
-| | Shared ownership can lead to conflict |
+| Benefit from the local partner's knowledge **(class)** | Risk of giving control of technology to the partner |
+| Shared costs and risks with the partner | May not realise experience curve or location economies |
+| Reduced political risk | Shared ownership can lead to conflict |
 
-**(general)** Local partner also supplies market knowledge and may be a legal requirement in some sectors; India has relaxed FDI limits in many sectors **[VERIFY]** the current sector caps before quoting.
+The slide lists three JV advantages: the local partner's knowledge, shared costs and risks, and reduced political risk. **(general)** A local partner is sometimes required or encouraged by regulation; check the host country's current rules before quoting any limit.
 
 ## Choosing among the three FDI routes (exam table)
 | Basis | Greenfield | Acquisition | Joint venture |
@@ -99,10 +100,10 @@ Points the slide lists for acquirers:
 ## What to remember
 - FDI means own investment with ownership and control; greenfield means starting from scratch.
 - Greenfield: best site, modern plant, incentives, clean slate vs time, cost, regulation, foreign-outsider image.
-- Alliances help new products, technology change, heavy outlay, and competing with MNCs.
+- Alliances give the parties each other's strengths, help new products, meet technology change, manage heavy outlay, and help compete with MNCs (six roles on the slide).
 - Alliance FDI modes: mergers and acquisitions, joint ventures.
 - Acquisition: gains control of factories and brands, and also inherits all liabilities.
-- JV: shared cost and risk, lower political risk, but technology and control conflict.
+- JV: three advantages (local partner's knowledge, shared cost and risk, reduced political risk); disadvantages are technology control, no experience curve or location economies, and conflict.
 
 ## Concept map
 ```mermaid
@@ -136,6 +137,8 @@ A: Control of factories and brand names and integration into its international s
 Q: Define a joint venture.
 A: A new entity formed by two or more parties each contributing equity, who share revenues, expenses and control. Example: Sony Ericsson.
 Q: Advantages and disadvantages of a joint venture?
-A: Shared costs and risks and reduced political risk; but risk of giving technology control to the partner, possibly no experience curve or location economies, and ownership conflict.
+A: Advantages: the local partner's knowledge, shared costs and risks, and reduced political risk. Disadvantages: risk of giving technology control to the partner, possibly no experience curve or location economies, and ownership conflict.
 Q: Which Indian acquisition does the slide cite?
-A: HDFC Bank's acquisition of Centurion Bank of Punjab for $2.4 billion.
+A: HDFC Bank's acquisition of Centurion Bank of Punjab for $2.4 billion (the slide figure; 2008).
+Q: List the six roles of strategic alliances on the slide.
+A: Solve many complicated issues; give the parties each other's strengths; develop new products through the interaction of two or more industries; meet the challenges of the technological revolution; manage heavy outlay; become strong enough to compete with a multinational.
