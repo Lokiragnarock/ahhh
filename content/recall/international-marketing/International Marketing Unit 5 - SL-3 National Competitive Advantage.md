@@ -109,7 +109,6 @@ graph TD
     FC --> HR["Human, physical, knowledge,<br/>capital, infrastructure"]
     DC --> CH["Composition, size, growth"]
     FSR --> DR["Domestic rivalry vs complacency"]
-    NCA --> SL4["SL-4 Leadership and organisation"]
 ```
 
 ## Flashcards

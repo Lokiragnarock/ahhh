@@ -54,7 +54,7 @@ graph TD
 
 ## Slide gaps
 
-- The four types of strategic intent are not listed; only the Hamel and Prahalad quote is given.
+- The four types of strategic intent are not listed; only the Hamel and Prahalad quote is given. SL-2 adds Hamel and Prahalad's four approaches to competitive innovation as a (general) gap-fill [VERIFY against Keegan and Green].
 - The national-advantage diamond figure (slide 20) is an image with no text.
 - The "Strategic Leadership in 21st Century" article is cited but not included.
 - Organisation structures, Indian CSR law and Indian examples are not in the deck.

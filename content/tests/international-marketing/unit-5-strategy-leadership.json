@@ -237,7 +237,7 @@
     "marks": 5,
     "difficulty": "medium",
     "question": "Distinguish between the bargaining power of buyers and the bargaining power of suppliers.",
-    "model_answer": "| Basis | Buyers | Suppliers |\n|---|---|---|\n| Who | Manufacturers and retailers, not consumers | Firms that provide inputs |\n| Aim | Pay the lowest possible price | Raise prices high enough to affect customers' profitability |\n| Number and size | Purchase in large quantities, raising supplier dependence | Large and few in number |\n| Product | Suppliers' products are commodities and a significant part of buyer cost | Critical inputs, highly differentiated, or carry switching costs |\n| Substitutes | Many alternatives exist | Few substitutes exist |\n| Integration threat | Buyer able and willing to integrate backward | Supplier able and willing to sell the product itself |\n\n**Conclusion:** power sits with the side that is concentrated, has alternatives and can integrate.",
+    "model_answer": "| Basis | Buyers | Suppliers |\n|---|---|---|\n| Who | Manufacturers and retailers, not consumers | Firms that provide inputs |\n| Aim | Pay the lowest possible price | Raise prices high enough to affect customers' profitability |\n| Number and size | Purchase in large quantities, raising supplier dependence | Large and few in number |\n| Product | Suppliers' products are commodities and a significant part of buyer cost | Critical inputs, highly differentiated, or carry switching costs |\n| Substitutes | Many alternatives exist (general) | Few substitutes exist |\n| Integration threat | Buyer able and willing to integrate backward | Supplier able and willing to sell the product itself |\n\n**Conclusion:** power sits with the side that is concentrated, has alternatives and can integrate.",
     "marking_scheme": [
       {
         "point": "Who the buyers and suppliers are, and their aim",
@@ -329,7 +329,7 @@
     "marks": 5,
     "difficulty": "medium",
     "question": "Explain 'strategic intent' using the Hamel and Prahalad view. Why is it more relevant today?",
-    "model_answer": "Hamel and Prahalad: few competitive advantages are long lasting; **keeping score of existing advantages is not the same as building new ones**. The essence of strategy is **creating tomorrow's advantages faster than competitors mimic today's**. An organisation's **capacity to improve existing skills and learn new ones is the most defensible advantage of all**.\n\n**Relevance today:** short product life cycles, short design cycles, new technologies and globalisation escalate and accelerate competition, so a static position (even a generic strategy) is copied quickly. Firms must keep renewing skills.\n\n(The slides give the quote but not the four types of strategic intent; state the idea in full rather than inventing a list.)",
+    "model_answer": "Hamel and Prahalad: few competitive advantages are long lasting; **keeping score of existing advantages is not the same as building new ones**. The essence of strategy is **creating tomorrow's advantages faster than competitors mimic today's**. An organisation's **capacity to improve existing skills and learn new ones is the most defensible advantage of all**.\n\n**Relevance today:** short product life cycles, short design cycles, new technologies and globalisation escalate and accelerate competition, so a static position (even a generic strategy) is copied quickly. Firms must keep renewing skills.\n\n(The slides give the quote but not a list of types. Gap-fill, general, [VERIFY against Keegan and Green]: Hamel and Prahalad's four approaches to competitive innovation are building layers of advantage, searching for loose bricks, changing the terms of engagement, and competing through collaboration.)",
     "marking_scheme": [
       {
         "point": "Advantages are not long lasting; scorekeeping is not building",
@@ -573,7 +573,7 @@
     "marks": 10,
     "difficulty": "medium",
     "question": "Discuss the generic strategies for creating competitive advantage. How does strategic intent change the way a firm should think about them in today's environment?",
-    "model_answer": "**Introduction.** Competitive advantage is a match between a firm's distinctive competencies and the factors critical for success in its industry. The slides give two routes: generic strategies and strategic intent.\n\n| | Low price | Premium price |\n|---|---|---|\n| Broad | Cost leadership | Product differentiation |\n| Narrow | Cost focus | Focused differentiation |\n\n**Strategies**\n- *Cost leadership:* lowest-cost producer; most efficient facilities; largest share; needs barriers so rivals cannot match cost.\n- *Differentiation:* actual or perceived uniqueness; premium price; defends position; above-average returns.\n- *Cost focus:* low cost in a narrow market; sustainability is the central issue (rivals must define targets more broadly and not segment more narrowly).\n- *Focused differentiation:* unique product for a very narrow target, from better understanding of customer wants (high-end audio equipment).\n\n**Strategic intent.** Hamel and Prahalad: create tomorrow's advantages faster than rivals mimic today's; the capacity to learn and renew skills is the most defensible advantage.\n\n**Today's environment.** Short product life and design cycles, new technology and globalisation escalate and accelerate competition, so any one generic position is copied quickly.\n\n**Conclusion.** A firm should choose the generic strategy that fits its competencies, then invest in continuous learning so the position can be renewed before rivals imitate it.",
+    "model_answer": "**Introduction.** Competitive advantage is a match between a firm's distinctive competencies and the factors critical for success in its industry. The slides give two routes: generic strategies and strategic intent.\n\n| | Low price | Premium price |\n|---|---|---|\n| Broad | Cost leadership | Product differentiation |\n| Narrow | Cost focus | Focused differentiation |\n\n**Strategies**\n- *Cost leadership:* lowest-cost producer; most efficient facilities; largest share; needs barriers so rivals cannot match cost.\n- *Differentiation:* actual or perceived uniqueness; premium price; defends position; above-average returns.\n- *Cost focus:* low cost in a narrow market; sustainability is the central issue (rivals must define targets more broadly and not segment more narrowly).\n- *Focused differentiation:* unique product for a very narrow target, from better understanding of customer wants (high-end audio equipment).\n\n**Strategic intent.** Hamel and Prahalad: create tomorrow's advantages faster than rivals mimic today's; the capacity to learn and renew skills is the most defensible advantage. Their four approaches to competitive innovation (general, [VERIFY against Keegan and Green]) are building layers of advantage, searching for loose bricks, changing the terms of engagement, and competing through collaboration.\n\n**Today's environment.** Short product life and design cycles, new technology and globalisation escalate and accelerate competition, so any one generic position is copied quickly.\n\n**Conclusion.** A firm should choose the generic strategy that fits its competencies, then invest in continuous learning so the position can be renewed before rivals imitate it.",
     "marking_scheme": [
       {
         "point": "Competitive advantage definition and two routes",
@@ -769,7 +769,7 @@
     "marks": 15,
     "difficulty": "hard",
     "question": "**Case: Veloce Mobility (fictional, illustrative figures).** Veloce, an electric-scooter maker from another country, plans to enter Country K, whose market is 4,00,000 scooters a year. Two incumbents hold 65% of sales and own most dealerships. A new plant costs Rs 180 crore (treat as an annual fixed cost for this exercise). Price per scooter is Rs 1,20,000 and variable cost is Rs 84,000. Large fleet operators (food-delivery companies) buy 40% of volume and threaten to build their own assembly. Battery cells come from three global suppliers, with no alternative technology available. Petrol scooters and e-bikes are cheaper substitutes. Government offers a purchase subsidy to buyers of locally assembled scooters.\n\n(a) Compute Veloce's break-even volume and the market share it needs to break even, and comment on economies of scale as a barrier. (4)\n(b) Assess buyer power and supplier power. (4)\n(c) Assess substitutes and rivalry, and the effect of government policy on entry. (3)\n(d) Give an overall verdict on industry attractiveness, a recommended entry approach and a decision line. (4)",
-    "model_answer": "**(a)** Contribution per scooter = 1,20,000 - 84,000 = Rs 36,000. Break-even volume = Rs 180 crore / Rs 36,000 = 1,80,00,00,000 / 36,000 = **50,000 scooters**. Share needed = 50,000 / 4,00,000 = **12.5%**. This shows economies of scale and capital requirements as barriers: the entrant must win one eighth of the market just to break even, against incumbents with established dealerships (distribution channels) and lower per-unit cost at their volumes. The barrier is high but not prohibitive.\n\n**(b)** *Buyers:* fleet operators buy 40% of volume in bulk, are price-sensitive and can integrate backward (build assembly), so buyer power is **high**. *Suppliers:* only three battery-cell suppliers, a critical input, no substitutes, so supplier power is **high** and could squeeze the Rs 36,000 contribution.\n\n**(c)** *Substitutes:* petrol scooters and e-bikes are cheaper alternatives and cap the price, so the threat is **moderate to high**. *Rivalry:* two incumbents with 65% share and dealerships, so rivalry is **high**. *Government:* the subsidy for locally assembled scooters lowers the barrier for a local plant but also helps incumbents, so it is a net positive only if Veloce assembles locally.\n\n**(d)** Entry threat moderate, buyer power high, supplier power high, substitutes moderate to high, rivalry high: the industry is **moderately unattractive**. Recommended approach: do not build the full Rs 180 crore plant first; secure long-term contracts with one or two fleet operators (reducing buyer risk and delivering volume toward the 12.5%), negotiate a battery supply agreement, and consider local assembly to qualify for the subsidy, targeting a differentiated or niche segment.\n\n**Decision line:** enter only after locking in anchor fleet contracts covering close to 50,000 scooters a year; otherwise defer entry.",
+    "model_answer": "**(a)** Contribution per scooter = 1,20,000 - 84,000 = Rs 36,000. Break-even volume = Rs 180 crore / Rs 36,000 = 1,80,00,00,000 / 36,000 = **50,000 scooters**. Share needed = 50,000 / 4,00,000 = **12.5%**. This shows economies of scale and capital requirements as barriers: the entrant must win one eighth of the market just to break even, against incumbents with established dealerships (distribution channels) and lower per-unit cost at their volumes. The barrier is high but not prohibitive. Note that 50,000 is 35.7% of the 1,40,000 units not held by the two incumbents (35% of 4,00,000).\n\n**(b)** *Buyers:* fleet operators buy 40% of volume in bulk, are price-sensitive and can integrate backward (build assembly), so buyer power is **high**. *Suppliers:* only three battery-cell suppliers, a critical input, no substitutes, so supplier power is **high** and could squeeze the Rs 36,000 contribution.\n\n**(c)** *Substitutes:* petrol scooters and e-bikes are cheaper alternatives and cap the price, so the threat is **moderate to high**. *Rivalry:* two incumbents with 65% share and dealerships, so rivalry is **high**. *Government:* the subsidy for locally assembled scooters lowers the barrier for a local plant but also helps incumbents, so it is a net positive only if Veloce assembles locally.\n\n**(d)** Entry threat moderate, buyer power high, supplier power high, substitutes moderate to high, rivalry high: the industry is **moderately unattractive**. Recommended approach: do not build the full Rs 180 crore plant first; secure long-term contracts with one or two fleet operators (reducing buyer risk and delivering volume toward the 12.5%), negotiate a battery supply agreement, and consider local assembly to qualify for the subsidy (this assumes incumbents also assemble locally, so the subsidy mainly removes a disadvantage rather than creating an edge), targeting a differentiated or niche segment.\n\n**Decision line:** enter only after locking in anchor fleet contracts covering close to 50,000 scooters a year; otherwise defer entry.",
     "marking_scheme": [
       {
         "point": "Contribution and break-even computation (50,000)",
@@ -804,6 +804,23 @@
         "marks": 2
       }
     ]
+  },
+  {
+    "id": "SL-1-08",
+    "node": "SL-1",
+    "unit": "International Marketing Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "According to the slides, what does the threat of substitute products do to an industry?",
+    "options": [
+      "A) It guarantees that market leaders can raise prices without losing sales",
+      "B) It matters only when new entrants have already arrived",
+      "C) It raises the barriers to entry for new firms",
+      "D) It places limits on the prices market leaders can charge"
+    ],
+    "answer": "D",
+    "explanation": "Slides: the availability of substitute products places limits on the prices market leaders can charge, because high prices push buyers to switch. Option A is the reverse. Option C is tempting because substitutes and entrants both affect profit, but entry barriers are a separate force."
   },
   {
     "id": "SL-2-09",
@@ -846,6 +863,23 @@
     ]
   },
   {
+    "id": "SL-2-10",
+    "node": "SL-2",
+    "unit": "International Marketing Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "According to the slides, what are the effects of global competition?",
+    "options": [
+      "A) Prices generally rise and jobs and profits are protected",
+      "B) Prices fall and jobs and profits are always created",
+      "C) Prices stay unchanged but consumer choice shrinks",
+      "D) Prices generally fall, but the potential for jobs and profits can be destroyed"
+    ],
+    "answer": "D",
+    "explanation": "Slides: global competition generally lowers prices, which benefits consumers, but while creating value for consumers it can destroy the potential for jobs and profits. Option B is the tempting one-sided reading that ignores the cost side."
+  },
+  {
     "id": "SL-4-08",
     "node": "SL-4",
     "unit": "International Marketing Unit 5",
@@ -853,7 +887,7 @@
     "marks": 15,
     "difficulty": "hard",
     "question": "**Case: Nordhaven Foods (fictional, illustrative figures).** Nordhaven sells packaged foods in 15 countries and has 12 key marketing decision areas. Head office centrally controls 5 (brand identity, quality standards, code of ethics, core R&D platform, procurement standards); 7 are left to local managers. In Country M, an audit finds that a local supplier uses child labour. The local managing director wants to keep the supplier because an alternative compliant supplier charges 8% more on the Rs 250 crore annual input spend. Country M sales are Rs 2,000 crore; management estimates a boycott could cut sales by 3%.\n\n(a) Compute the central and local shares of decision areas, and explain whether the autonomy and integration balance is appropriate. (4)\n(b) Compute the extra annual cost of switching supplier and the estimated sales loss from a boycott, and compare. (3)\n(c) Evaluate the situation as a CSR and code of ethics issue. (4)\n(d) What should leadership do? Give a decision line and the wider implications for the organisation. (4)",
-    "model_answer": "**(a)** Central share = 5 / 12 = **41.7%**; local share = 7 / 12 = **58.3%**. The balance is sensible: the central core (brand, quality, ethics, R&D, procurement standards) protects global strategy, while 7 areas stay local for adaptation. The audit failure shows, however, that procurement standards were not enforced in Country M: integration exists on paper but not in practice.\n\n**(b)** Extra cost = 8% x Rs 250 crore = **Rs 20 crore** a year. Boycott loss = 3% x Rs 2,000 crore = **Rs 60 crore** of sales a year (a revenue figure, so the profit impact is smaller, but brand damage may spread beyond Country M). The cost of compliance is one third of the revenue at risk.\n\n**(c)** CSR is the obligation to pursue goals and policies in society's best interests; ethical conduct means moral principles guide right and wrong. Keeping a child-labour supplier breaches this and Nordhaven's own code of ethics (which sets core values and expectations). Keeping it for a Rs 20 crore saving is a short-term cost decision that conflicts with the company's articulated values.\n\n**(d)** Leadership should **suspend or end the supplier relationship, switch to the compliant source and absorb the Rs 20 crore**, while working with the supplier on remediation if feasible. Decision line: ethics is a non-negotiable part of the integrated core; Rs 20 crore is cheaper than Rs 60 crore of revenue risk plus reputational damage. **Implications:** audit procurement in all 15 countries; move supplier compliance out of local autonomy into central control; leaders must articulate and visibly enforce the values (influence and mastering change), and local managers should be rewarded for ethical performance as well as cost.",
+    "model_answer": "**(a)** Central share = 5 / 12 = **41.7%**; local share = 7 / 12 = **58.3%**. The balance is sensible: the central core (brand, quality, ethics, R&D, procurement standards) protects global strategy, while 7 areas stay local for adaptation. The audit failure shows, however, that procurement standards were not enforced in Country M: integration exists on paper but not in practice.\n\n**(b)** Extra cost = 8% x Rs 250 crore = **Rs 20 crore** a year. Boycott loss = 3% x Rs 2,000 crore = **Rs 60 crore** of sales a year (a revenue figure, so the profit impact is smaller, but brand damage may spread beyond Country M). Do not set the Rs 20 crore against the Rs 60 crore as if they were the same kind of number: revenue is not profit. At a 15% margin the lost profit is about Rs 9 crore (15% x Rs 60 crore) against Rs 20 crore of extra cost, so the money case alone is not decisive.\n\n**(c)** CSR is the obligation to pursue goals and policies in society's best interests; ethical conduct means moral principles guide right and wrong. Keeping a child-labour supplier breaches this and Nordhaven's own code of ethics (which sets core values and expectations). Keeping it for a Rs 20 crore saving is a short-term cost decision that conflicts with the company's articulated values.\n\n**(d)** Leadership should **suspend or end the supplier relationship, switch to the compliant source and absorb the Rs 20 crore**, while working with the supplier on remediation if feasible. Decision line: ethics is a non-negotiable part of the integrated core. The decision rests on the ethics breach, the code of ethics and the risk that the brand damage spills over to other countries; the money case alone is not decisive: at a 15% margin the lost profit is about Rs 9 crore against Rs 20 crore of extra cost. **Implications:** audit procurement in all 15 countries; move supplier compliance out of local autonomy into central control; leaders must articulate and visibly enforce the values (influence and mastering change), and local managers should be rewarded for ethical performance as well as cost.",
     "marking_scheme": [
       {
         "point": "Central and local shares 41.7% and 58.3%",
@@ -868,7 +902,7 @@
         "marks": 1
       },
       {
-        "point": "Boycott loss Rs 60 crore and comparison",
+        "point": "Boycott loss and profit-versus-cost caveat",
         "marks": 2
       },
       {

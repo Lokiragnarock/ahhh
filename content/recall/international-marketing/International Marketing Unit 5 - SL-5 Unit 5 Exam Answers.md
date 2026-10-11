@@ -115,7 +115,7 @@ Home side: low-cost skilled workers and strong domestic rivalry in snacks have m
 
 ### 5. Leadership, organisation and CSR (3 marks)
 
-- **Organisation:** keep brand identity, quality standards and the ethics code central (integration); give the local subsidiary autonomy on flavour, pack size and promotion (adaptation). Illustrative split: 2 central of 5 decision areas (40%), 3 local (60%).
+- **Organisation:** keep brand identity, quality standards and the ethics code central (integration); give the local subsidiary autonomy on flavour, pack size and promotion (adaptation). Illustrative split: 4 central of 10 decision areas (40%), 6 local (60%).
 - **Leadership:** the leader articulates values, policies and the intended geographic scope, and empowers local managers; leadership is influence and mastering change, not title.
 - **CSR:** adopt a code of ethics (as with the GE and J and J examples on the slides), sustainable sourcing and a cause-marketing link, such as nutrition for children.
 

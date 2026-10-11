@@ -26,7 +26,7 @@ The slide says there are two ways to achieve it:
 1. **Generic strategies**, four types.
 2. **Strategic intent**, also four types.
 
-Slide gap: the deck gives the four generic strategies in full but does not list the four types of strategic intent, only the Hamel and Prahalad quote. See the strategic intent section for the safe exam answer.
+Slide gap: the deck gives the four generic strategies in full but does not list the four types of strategic intent, only the Hamel and Prahalad quote. See the strategic intent section for the quote first and a (general) gap-fill of four approaches.
 
 ## Generic strategies: the 2 x 2 (class)
 
@@ -84,7 +84,8 @@ The slide quotes **Gary Hamel and C.K. Prahalad**: "Few competitive advantages a
 How to use it in an answer:
 - Generic strategies protect today's position; strategic intent is about **building tomorrow's advantage faster than rivals copy today's**.
 - The most defensible advantage is the **capacity to learn and improve skills**.
-- If asked for "four types of strategic intent", the slides do not list them. Safe answer: state the Hamel and Prahalad idea in full, then say the firm builds advantage through learning, new skills and faster renewal. Gap-fill **(general)** [VERIFY the exact four-type list in the prescribed textbook, Keegan and Green]: Hamel and Prahalad also describe strategy as "stretch and leverage", setting ambitions beyond current resources and then leveraging resources to reach them.
+- If asked for "four types of strategic intent", the slides do not list them. Safe answer: state the Hamel and Prahalad idea in full from the quote above, then add the four approaches below. Also (general) [VERIFY]: they describe strategy as "stretch and leverage", setting ambitions beyond current resources and then leveraging resources to reach them.
+- Gap-fill **(general)** [VERIFY against Keegan and Green]: Hamel and Prahalad describe four approaches to competitive innovation: (1) building layers of advantage, (2) searching for loose bricks (gaps rivals leave unguarded), (3) changing the terms of engagement, (4) competing through collaboration.
 
 ## Global competition (class)
 
@@ -118,7 +119,7 @@ Result: **an escalation and acceleration of competitive forces.** Link this to s
 - Four generic strategies: cost leadership, differentiation (broad); cost focus, focused differentiation (narrow).
 - Cost leadership needs the most efficient facilities, largest share and barriers; cost focus has a sustainability problem.
 - Differentiation defends position and earns premium returns; focused differentiation comes from understanding customers (high-end audio).
-- Strategic intent: build tomorrow's advantages faster than rivals copy today's; learning capacity is the most defensible.
+- Strategic intent: build tomorrow's advantages faster than rivals copy today's; learning capacity is the most defensible. Gap-fill: layers of advantage, loose bricks, terms of engagement, collaboration.
 - Short life and design cycles, new technology and globalisation accelerate competition.
 
 ## Concept map
@@ -160,6 +161,9 @@ A: High-end audio equipment.
 Q: Hamel and Prahalad: what is the most defensible competitive advantage?
 A: An organisation's capacity to improve existing skills and learn new ones.
 
+Q: Hamel and Prahalad's four approaches to competitive innovation (general, VERIFY against Keegan and Green)?
+A: Building layers of advantage, searching for loose bricks, changing the terms of engagement, and competing through collaboration.
+
 Q: What does the strategic intent quote say strategy is about?
 A: Creating tomorrow's competitive advantages faster than competitors mimic those you hold today.
 
@@ -175,7 +179,7 @@ A: ₹7,20,000 for the differentiator against ₹10,00,000 for the cost leader, 
 ## Sources
 - Faculty deck Unit 5 (competitive advantage, generic strategies, strategic intent, current issues)
 - Two-firm profit example: illustrative, my own
-- Stretch and leverage point: general knowledge, [VERIFY]
+- Stretch and leverage point and the four approaches to competitive innovation: general knowledge, [VERIFY against Keegan and Green]
 - Previous node: [[International Marketing Unit 5 - SL-1 Industry Analysis and Porters Five Forces]]
 - Next node: [[International Marketing Unit 5 - SL-3 National Competitive Advantage]]
 - [[International Marketing Unit 5 - Strategy and Leadership MOC (Node Map)]]

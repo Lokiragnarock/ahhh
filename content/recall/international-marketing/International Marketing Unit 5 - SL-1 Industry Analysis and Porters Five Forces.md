@@ -121,8 +121,8 @@ Gap-fill **(general)**: rivalry is usually fiercer when growth is slow, fixed co
 | Suppliers | 2 | Wheat and sugar are widely available; many suppliers |
 | Rivalry | 4 | Many firms, price and advertising battles |
 
-3. Total: 4 + 3 + 4 + 2 + 4 = 19. Average: 19 / 5 = **3.8**.
-4. Decision line: **an average of 3.8 out of 5 means the industry is competitive and profit is under pressure. Enter only with a differentiated or focused offer (SL-2) and secure distribution first.**
+3. Total: 4 + 3 + 4 + 2 + 4 = 17. Average: 17 / 5 = **3.4**.
+4. Decision line: **an average of 3.4 out of 5 means the industry is competitive and profit is under pressure. Enter only with a differentiated or focused offer (SL-2) and secure distribution first.**
 5. Interpretation: the strongest forces (entrants, buyers, rivalry, all 4) tell the firm where to act: lock in retailer relationships, build a brand (a differentiation barrier) and avoid pure price war.
 
 ## 5-mark skeletons

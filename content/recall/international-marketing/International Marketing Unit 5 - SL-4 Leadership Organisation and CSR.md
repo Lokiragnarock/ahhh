@@ -55,7 +55,7 @@ The slides give no organisation structures. Gap-fill **(general)**: structures c
 - Many companies have a **formal statement or code of ethics** summarising core ideologies, corporate values and expectations.
 - Slide examples: **GE - The Spirit and the Letter**; **Johnson and Johnson - Our Credo**. Name them as the slide does, with no further claims.
 
-Gap-fill **(general)**: Indian law requires companies above a size threshold to spend on CSR under Section 135 of the Companies Act, 2013 **[VERIFY thresholds and the 2 per cent figure before quoting]**. The slides do not cover this; use it as a one-line Indian touch only.
+Gap-fill **(general)**: Section 135 of the Companies Act, 2013 applies to a company with net worth of Rs 500 crore or more, or turnover of Rs 1,000 crore or more, or net profit of Rs 5 crore or more, in the immediately preceding financial year; it must form a CSR committee and spend at least 2% of the average net profit of the preceding three financial years. **[VERIFY against the Act or MCA before quoting]**. The slides do not cover this; use it as a one-line Indian touch only.
 
 ## Worked example: autonomy vs integration decision
 
@@ -70,7 +70,7 @@ Gap-fill **(general)**: Indian law requires companies above a size threshold to 
 | Flavour, pack size, local promotion, local price points | Subsidiary (autonomy) | Needed to adapt to local environment differences |
 | Core R&D platform | Head office | Scale and learning |
 
-3. Count (illustrative): of 5 decision areas (brand, quality, flavour, pack size, promotion), 2 are central and 3 are local. Central share = 2 / 5 = **40%**; local share = 3 / 5 = **60%**.
+3. Count (illustrative): 10 decision areas, 4 central (brand identity, quality standards, code of ethics, core R&D), 6 local. Central share = 4 / 10 = **40%**; local share = 6 / 10 = **60%**.
 4. Decision line: **keep a central core (brand, quality and ethics) and give subsidiaries local autonomy on adaptation, with the split reviewed as markets mature.**
 5. Interpretation: the structure serves "responding to market differences" (the slide's goal), and the leader's job is to articulate the values and scope that hold the core together, which links SL-4 leadership to the organisation question.
 
@@ -135,12 +135,12 @@ A: Cause-marketing efforts and a commitment to sustainability.
 Q: What does a code of ethics summarise, and give the two slide examples.
 A: Core ideologies, corporate values and expectations; GE's The Spirit and the Letter and Johnson and Johnson's Our Credo.
 
-Q: Five decision areas: brand and quality central, flavour, pack size and promotion local. Central share?
-A: 2 of 5 = 40% central, 60% local (illustrative).
+Q: 10 decision areas, 4 central (brand identity, quality standards, code of ethics, core R&D), 6 local. Central and local shares?
+A: 4 / 10 = 40% central, 6 / 10 = 60% local (illustrative).
 
 ## Sources
 - Faculty deck Unit 5 (leadership, organising for global marketing, ethics and CSR, codes of ethics)
-- Companies Act Section 135 point: general knowledge, [VERIFY]
+- Companies Act Section 135 point: general knowledge, [VERIFY against the Act or MCA before quoting]
 - Split example: illustrative, my own
 - Previous node: [[International Marketing Unit 5 - SL-3 National Competitive Advantage]]
 - Next node: [[International Marketing Unit 5 - SL-5 Unit 5 Exam Answers]]
