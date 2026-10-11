@@ -1,0 +1,872 @@
+[
+  {
+    "id": "EN-1-01",
+    "node": "EN-1",
+    "unit": "International Marketing Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "According to the faculty slides on the world economy, which of the following has replaced trade as the driving force of the world economy?",
+    "options": [
+      "A) Capital movements",
+      "B) Tariff reductions",
+      "C) Employment growth",
+      "D) Cultural convergence"
+    ],
+    "answer": "A",
+    "explanation": "The slide on the 'new realities' says capital movements have replaced trade as the driving force. Tariff reductions is the tempting wrong option because lower tariffs helped integration, but the slide does not call them the driving force. Production has become uncoupled from employment, so employment growth is not the driver either."
+  },
+  {
+    "id": "EN-2-01",
+    "node": "EN-2",
+    "unit": "International Marketing Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A government in Country X lets firms and households own productive resources, but it plans and directs most of the resource allocation and controls about two-thirds of all spending. On the faculty's 2 x 2 of ownership and allocation, X is:",
+    "options": [
+      "A) Market capitalism",
+      "B) Centrally planned capitalism",
+      "C) Market socialism",
+      "D) Centrally planned socialism"
+    ],
+    "answer": "B",
+    "explanation": "Private ownership plus extensive command allocation is centrally planned capitalism (slide example: Sweden, with the government controlling about two-thirds of spending). Market socialism is the tempting wrong option because it also mixes market and state features, but it is the reverse mix: state ownership with market allocation. The noun gives ownership and the adjective gives allocation."
+  },
+  {
+    "id": "EN-2-02",
+    "node": "EN-2",
+    "unit": "International Marketing Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "Per the faculty slide, which set of countries is given as examples of market socialism?",
+    "options": [
+      "A) Sweden and the former USSR",
+      "B) China, Denmark, Finland and the Netherlands",
+      "C) North America and the European Union",
+      "D) India and Sweden"
+    ],
+    "answer": "B",
+    "explanation": "The slide lists China, Denmark, Finland and the Netherlands under market socialism, and this is the marked answer (some textbooks call the last three welfare-state market economies, but follow the slide). Sweden and the USSR is tempting because Sweden is the slide's example of a hybrid, but it is the example for centrally planned capitalism, while North America and the EU illustrate market capitalism."
+  },
+  {
+    "id": "EN-3-01",
+    "node": "EN-3",
+    "unit": "International Marketing Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Using the faculty slide bands, a country with a GNI per capita of $4,100 is classified as:",
+    "options": [
+      "A) Low-income",
+      "B) Lower-middle-income",
+      "C) Upper-middle-income",
+      "D) High-income"
+    ],
+    "answer": "B",
+    "explanation": "The lower-middle band on the slide is $1,046 to $4,125, and $4,100 sits inside it. Upper-middle-income is the tempting wrong option because $4,100 looks close to the $4,126 cut-off, but it is $26 below it. Low-income stops at $1,045."
+  },
+  {
+    "id": "EN-4-01",
+    "node": "EN-4",
+    "unit": "International Marketing Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A marketing manager from Country H rejects a proposed sales-incentive scheme for Country J because 'nobody would value such a scheme', judging it by H's own norms without checking J's. This is a failure to control the:",
+    "options": [
+      "A) Environmental sensitivity of the product",
+      "B) Self-reference criterion",
+      "C) Diffusion rate of the innovation",
+      "D) Political risk of the market"
+    ],
+    "answer": "B",
+    "explanation": "The self-reference criterion is the unconscious reference to one's own cultural values when perceiving a market. Environmental sensitivity is the tempting wrong option because the case is about culture, but that term describes how far a product must be adapted to a culture, not a bias in the manager's perception."
+  },
+  {
+    "id": "EN-5-01",
+    "node": "EN-5",
+    "unit": "International Marketing Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "A firm plans all-white packaging for a funeral-service product line in several Asian markets and for a skin-care line in the West. Per the faculty slide on aesthetics and colour, which statement is correct?",
+    "options": [
+      "A) White signals purity in the West but is linked to death in parts of Asia",
+      "B) White signals death everywhere",
+      "C) White signals purity in Asia and death in the West",
+      "D) Gray means expensive in Japan and China"
+    ],
+    "answer": "A",
+    "explanation": "The slide says white is identified with purity and cleanliness in the West and with death in parts of Asia. Option D is tempting because it uses a slide fact, but it reverses it: gray means inexpensive in Japan and China and high quality and expensive in the US."
+  },
+  {
+    "id": "EN-6-01",
+    "node": "EN-6",
+    "unit": "International Marketing Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A consumer-goods firm sells shampoo in single-use sachets in a low-income market because customers cannot afford a full bottle. Which characteristic of innovations on the faculty list does this address?",
+    "options": [
+      "A) Relative advantage",
+      "B) Complexity",
+      "C) Divisibility",
+      "D) Compatibility"
+    ],
+    "answer": "C",
+    "explanation": "Divisibility on the slide is about income differences driving preferred purchase quantities and sizes, so a sachet is a divisibility solution. Relative advantage is the tempting wrong option because a cheap pack feels like an advantage, but relative advantage compares the product with existing products in the customer's eyes, not the pack size."
+  },
+  {
+    "id": "EN-6-02",
+    "node": "EN-6",
+    "unit": "International Marketing Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A new appliance targets 40,00,000 potential adopters. Using the class shares (2.5%, 13.5%, 34%, 34%, 16%), how many belong to the early majority?",
+    "options": [
+      "A) 6,40,000",
+      "B) 13,60,000",
+      "C) 5,40,000",
+      "D) 1,00,000"
+    ],
+    "answer": "B",
+    "explanation": "34% of 40,00,000 = 13,60,000. The tempting wrong option is 6,40,000, which is 16%: that is the share of laggards, and also the combined innovators plus early adopters (2.5 + 13.5), not the early majority. 5,40,000 is the early adopters (13.5%)."
+  },
+  {
+    "id": "EN-7-01",
+    "node": "EN-7",
+    "unit": "International Marketing Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A host government takes over a foreign firm's plant and pays nothing. Under the faculty's terms, this is:",
+    "options": [
+      "A) Expropriation with compensation",
+      "B) Nationalisation of an industry",
+      "C) Confiscation",
+      "D) Licensing"
+    ],
+    "answer": "C",
+    "explanation": "Seizure without compensation is called confiscation. Expropriation is the tempting wrong option because it is the general term for dispossessing a foreign company, but the slide pairs it with 'prompt, effective and adequate' compensation. Nationalisation means taking over some or all enterprises of an entire industry, which the question does not say."
+  },
+  {
+    "id": "EN-8-01",
+    "node": "EN-8",
+    "unit": "International Marketing Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Without permission, an operator copies and sells a publisher's textbook in a foreign market. This is best described as:",
+    "options": [
+      "A) Counterfeiting",
+      "B) Associative counterfeit",
+      "C) Piracy",
+      "D) Trade secret leakage"
+    ],
+    "answer": "C",
+    "explanation": "Piracy is the unauthorised publication or reproduction of a copyrighted work, and a textbook is a copyrighted written work. Counterfeiting is the tempting wrong option because it also means unauthorised copying, but the slide uses it for the unauthorised copying and production of a product, and associative counterfeit is a product name differing slightly from a well-known brand."
+  },
+  {
+    "id": "EN-1-02",
+    "node": "EN-1",
+    "unit": "International Marketing Unit 2",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "Explain the international marketing environment. Distinguish the layers of forces that affect the international marketing mix.",
+    "model_answer": "**Definition.** Kotler: a company's marketing environment consists of the factors and forces **outside of marketing** that affect management's ability to build and maintain successful relationships with target customers. The international marketing environment consists of **global forces** (economic, social, cultural, legal, geographical and ecological) that affect international marketing decisions.\n\n**Layers affecting the mix.**\n| Layer | Examples |\n|---|---|\n| Internal (organisational) | Company resources, objectives, structure |\n| Domestic | Home-country laws, economy, competition |\n| Global | Host-country economy, culture, politics, law, geography |\n\n**Link to the mix.** The firm controls the 4Ps. The three layers are largely uncontrollable, so the marketer adapts to them (or, in culture, chooses to respond or to change).",
+    "marking_scheme": [
+      {
+        "point": "Kotler definition of marketing environment",
+        "marks": 1
+      },
+      {
+        "point": "Global forces named (economic, social, cultural, legal, geographical, ecological)",
+        "marks": 1
+      },
+      {
+        "point": "Three layers: internal, domestic, global",
+        "marks": 2
+      },
+      {
+        "point": "Link to the mix: controllable 4Ps vs uncontrollable environment",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "EN-2-03",
+    "node": "EN-2",
+    "unit": "International Marketing Unit 2",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "Explain how market capitalism, centrally planned capitalism, centrally planned socialism and market socialism differ. Give an example country for each, as per the class slides.",
+    "model_answer": "Two questions define a system: **who owns resources** (private or state) and **how they are allocated** (market or command).\n\n| | Market allocation | Command allocation |\n|---|---|---|\n| **Private ownership** | Market capitalism | Centrally planned capitalism |\n| **State ownership** | Market socialism | Centrally planned socialism |\n\n- **Market capitalism:** individuals and firms allocate resources, privately owned, consumer driven; government promotes competition and protects consumers. Example: North America, European Union.\n- **Centrally planned capitalism:** command allocation used extensively with private ownership. Example: Sweden (government controls about two-thirds of spending).\n- **Centrally planned socialism:** state decides what and how much is produced and owns whole industries; demand exceeds supply. Example: the former USSR (China and India moving towards market allocation).\n- **Market socialism:** state or workers own the means of production, with market allocation permitted. Examples on the slide: China, Denmark, Finland, Netherlands.",
+    "marking_scheme": [
+      {
+        "point": "Two-by-two logic of ownership and allocation",
+        "marks": 1
+      },
+      {
+        "point": "Market capitalism and centrally planned capitalism described",
+        "marks": 1
+      },
+      {
+        "point": "Centrally planned socialism and market socialism described",
+        "marks": 1
+      },
+      {
+        "point": "Slide examples for all four systems",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "EN-3-02",
+    "node": "EN-3",
+    "unit": "International Marketing Unit 2",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Explain the World Bank's four stages of market development with the GNI per capita bands on the faculty slides. How do marketers use the stages?",
+    "model_answer": "The World Bank classifies countries by **GNI per capita** (slide bands, revised by the World Bank every year).\n\n| Stage | GNI per capita | Characteristics |\n|---|---|---|\n| Low-income | $1,045 or less | Limited industrialisation, mostly farming, high birth rates, low literacy, aid dependence, instability |\n| Lower-middle | $1,046 to $4,125 | Expanding consumer markets, cheap labour, labour-intensive industries (India, China) |\n| Upper-middle (NIEs) | $4,126 to $12,745 | Rapid industrialisation, urbanisation, rising wages, high literacy |\n| High-income | $12,476 or more | Service sector over 70% of GNI, innovation led, knowledge over capital |\n\n**Use.** The stages are a basis for global market segmentation and target marketing, and guide marketers in judging product saturation (the share of households owning a product).",
+    "marking_scheme": [
+      {
+        "point": "World Bank and GNI per capita basis",
+        "marks": 1
+      },
+      {
+        "point": "Four stages with correct slide bands",
+        "marks": 2
+      },
+      {
+        "point": "One characteristic for each stage",
+        "marks": 1
+      },
+      {
+        "point": "Use for segmentation and product saturation",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "EN-3-03",
+    "node": "EN-3",
+    "unit": "International Marketing Unit 2",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Discuss the marketing opportunities in less developed countries (LDCs) and list the mistaken assumptions about the poor and bottom-of-the-pyramid (BOP) markets.",
+    "model_answer": "**Opportunities.** LDCs are characterised by a shortage of goods and services, so long-term opportunities must be nurtured. Rules: **look beyond per capita GNP**, **consider LDCs collectively** rather than individually, **seek first-mover advantage**, and **set realistic deadlines**.\n\n**Mistaken assumptions.**\n1. The poor have no money.\n2. The poor will not 'waste' money on non-essential goods.\n3. Entering developing markets is fruitless because goods are too cheap to make a profit.\n4. BOP people cannot use technology.\n5. Global companies in BOP countries will be seen as exploiting the poor.\n\n**Role of marketing.** Create and deliver products suited to local needs and incomes, and use appropriate communication to speed acceptance; marketing links resources to opportunity on the consumer's terms.",
+    "marking_scheme": [
+      {
+        "point": "Shortage of goods; long-term nurturing",
+        "marks": 1
+      },
+      {
+        "point": "Four rules for opportunity",
+        "marks": 2
+      },
+      {
+        "point": "Five mistaken assumptions (4 or more named)",
+        "marks": 1
+      },
+      {
+        "point": "Role of marketing in developing countries",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "EN-4-02",
+    "node": "EN-4",
+    "unit": "International Marketing Unit 2",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Define the self-reference criterion (SRC). List the tasks of the global marketer with respect to culture and show how SRC can distort a marketing decision.",
+    "model_answer": "**SRC** is the unconscious reference to one's own cultural values, which may influence the marketer's perception of a foreign market.\n\n**Tasks of the global marketer (slide).**\n1. Study and understand the cultures of the countries where business is done.\n2. Understand how SRC may colour perception.\n3. Build this understanding into the marketing planning process.\n\n**Illustration.** A manager who assumes the home habit of eating bread at breakfast also holds abroad will mis-size demand for a sandwich product in a market where bread is not a normal food. The correction is to define the problem first in home cultural terms, then in host terms, remove the home influence, and plan on the host view.",
+    "marking_scheme": [
+      {
+        "point": "Definition of SRC",
+        "marks": 1
+      },
+      {
+        "point": "Three tasks of the global marketer",
+        "marks": 1
+      },
+      {
+        "point": "Example of distortion",
+        "marks": 1
+      },
+      {
+        "point": "Correction by separating home and host views",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "EN-4-03",
+    "node": "EN-4",
+    "unit": "International Marketing Unit 2",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "Define attitude, belief and value, with an example of each. What is a global consumer culture?",
+    "model_answer": "- **Attitude:** a learned tendency to respond in a consistent way to a given object or entity. Example: a favourable attitude to a local brand.\n- **Belief:** an organised pattern of knowledge an individual holds to be true about the world. Example: the belief that imported goods last longer.\n- **Value:** an enduring belief or feeling that a specific mode of conduct is personally or socially preferable. Example: respect for elders or thrift.\n\n**Global consumer culture.** Persons who share meaningful sets of consumption-related symbols (pub, coffee, fast-food and credit-card cultures). It is mainly the product of a technologically interconnected world: the internet, satellite TV and cell phones. It allows some standardisation of the marketing programme.",
+    "marking_scheme": [
+      {
+        "point": "Attitude defined with example",
+        "marks": 1
+      },
+      {
+        "point": "Belief defined with example",
+        "marks": 1
+      },
+      {
+        "point": "Value defined with example",
+        "marks": 1
+      },
+      {
+        "point": "Global consumer culture defined",
+        "marks": 1
+      },
+      {
+        "point": "Technology drivers and marketing implication",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "EN-5-02",
+    "node": "EN-5",
+    "unit": "International Marketing Unit 2",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "Explain the role of religion and aesthetics in international marketing, giving colour examples from the faculty slides.",
+    "model_answer": "**Religion.** Buddhism, Christianity, Hinduism, Islam and Judaism are an important source of beliefs, attitudes and values. Religious tenets, practices, holidays and history affect marketing activity: product choice, timing of promotions, and what advertising is acceptable.\n\n**Aesthetics.** The sense of what is beautiful and what is good taste as opposed to tastelessness. It appears in **visual** form (colour, shape of a product, label or package) and in **styles** (complexity is perceived differently around the world).\n\n**Colour (slide).**\n| Colour | Meaning |\n|---|---|\n| Red | Blood, vibrancy, heat in many places; poorly received in some African countries |\n| White | Purity in the West; death in parts of Asia |\n| Gray | Inexpensive in Japan and China; high quality and expensive in the US |\n\nA firm should test colours, labels and packs locally before standardising.",
+    "marking_scheme": [
+      {
+        "point": "Religions named and their effect on marketing",
+        "marks": 2
+      },
+      {
+        "point": "Aesthetics: visual and styles",
+        "marks": 1
+      },
+      {
+        "point": "Colour examples (two or more correct)",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "EN-5-03",
+    "node": "EN-5",
+    "unit": "International Marketing Unit 2",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "What is environmental sensitivity? Rank food, computers and integrated circuits on it, and illustrate with examples from the class.",
+    "model_answer": "**Definition.** Environmental sensitivity is the extent to which a product must be adapted to the culture-specific needs of different national markets.\n\n**Ranking (class chart).** **Food** is the most culturally sensitive consumer category (high), **computers** are medium, **integrated circuits** are low (industrial, technical products).\n\n**Examples.** Dehydrated Knorr soups did not gain popularity in the US, which preferred canned soups; Starbucks overcame cultural barriers in Great Britain. Subway had to educate Indians about sandwiches because bread is not a normal part of the diet.\n\n**Implication.** Independent of social class and income, culture strongly affects consumption, so high-sensitivity products need heavy adaptation and local testing, while low-sensitivity products can be standardised.",
+    "marking_scheme": [
+      {
+        "point": "Definition",
+        "marks": 1
+      },
+      {
+        "point": "Correct ranking: food high, computers medium, ICs low",
+        "marks": 2
+      },
+      {
+        "point": "Class examples",
+        "marks": 1
+      },
+      {
+        "point": "Implication: adapt vs standardise",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "EN-6-03",
+    "node": "EN-6",
+    "unit": "International Marketing Unit 2",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Explain the diffusion adoption process and the adopter categories. In a market of 20,00,000 potential adopters, how many are innovators and early adopters together? (Use the class shares.)",
+    "model_answer": "**Adoption process.** Mental stages from first knowledge of an innovation to purchase: **awareness, interest, evaluation, trial, adoption.** Impersonal sources (mass-media advertising) matter most at awareness; personal sources (salespeople, word of mouth) matter more at evaluation, trial and adoption.\n\n**Adopter categories (class shares).** Innovators 2.5%, early adopters 13.5%, early majority 34%, late majority 34%, laggards 16% (total 100%).\n\n**Calculation.** Innovators 2.5% of 20,00,000 = 50,000. Early adopters 13.5% = 2,70,000. Together 16%, i.e. **3,20,000**.\n\n**Interpretation.** The campaign must reach these 3.2 lakh opinion leaders to trigger the 6.8 lakh early majority.",
+    "marking_scheme": [
+      {
+        "point": "Five stages in order",
+        "marks": 1
+      },
+      {
+        "point": "Role of impersonal vs personal information sources",
+        "marks": 1
+      },
+      {
+        "point": "Five adopter categories with shares",
+        "marks": 1
+      },
+      {
+        "point": "Correct computation: 3,20,000",
+        "marks": 1
+      },
+      {
+        "point": "Interpretation of the result",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "EN-7-02",
+    "node": "EN-7",
+    "unit": "International Marketing Unit 2",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "What is political risk? Discuss its causes and its effect on foreign direct investment.",
+    "model_answer": "**Definition.** The risk of a change in the political environment or government policy that would adversely affect a company's ability to operate effectively and profitably.\n\n**Causes (slide).**\n- **Tension between aspirations and reality**, mostly in low and lower-middle income countries (slide example: Indonesia and its economic crisis).\n- In high-income countries, generally a **long-standing conflict** (Northern Ireland).\n- The less developed the country, the greater the risk; increased economic uncertainty raises risk.\n\n**Effect on FDI.** When perceived political risk is high, a country has a difficult time attracting foreign direct investment, so investors choose lighter-capital entry modes or avoid the market.",
+    "marking_scheme": [
+      {
+        "point": "Definition",
+        "marks": 1
+      },
+      {
+        "point": "Aspiration-reality tension and income-level pattern",
+        "marks": 1
+      },
+      {
+        "point": "Conflict in high-income countries and uncertainty",
+        "marks": 1
+      },
+      {
+        "point": "Examples (Indonesia, Northern Ireland)",
+        "marks": 1
+      },
+      {
+        "point": "Effect on FDI",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "EN-7-03",
+    "node": "EN-7",
+    "unit": "International Marketing Unit 2",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Distinguish expropriation, confiscation and nationalisation. On what conditions is nationalisation acceptable under international law, as per the class slides?",
+    "model_answer": "| Term | Meaning |\n|---|---|\n| **Expropriation** | Governmental action to dispossess a foreign company or investor; compensation should be 'prompt, effective and adequate' |\n| **Confiscation** | Expropriation where **no compensation** is provided |\n| **Nationalisation** | The government takes control of some or all enterprises in an **entire industry** |\n\n**Acceptable nationalisation (slide):** it satisfies a **public purpose** and **includes compensation**.\n\nExample: seizing one foreign plant with no payment is confiscation; taking over every bank with fair payment and a public purpose is acceptable nationalisation.",
+    "marking_scheme": [
+      {
+        "point": "Expropriation with compensation standard",
+        "marks": 1
+      },
+      {
+        "point": "Confiscation",
+        "marks": 1
+      },
+      {
+        "point": "Nationalisation (industry-wide)",
+        "marks": 1
+      },
+      {
+        "point": "Two conditions for acceptable nationalisation",
+        "marks": 1
+      },
+      {
+        "point": "Example showing the distinction",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "EN-8-02",
+    "node": "EN-8",
+    "unit": "International Marketing Unit 2",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Name the four forms of intellectual property and explain counterfeiting, associative counterfeit and piracy. Why must IP be registered in each country?",
+    "model_answer": "**Forms (WIPO: 'creations of the mind').**\n| Form | Protects |\n|---|---|\n| Patent | Exclusive right to make, use and sell an invention for a specified time |\n| Trademark | Symbol, word or object distinguishing a firm's product; registered when accepted by the Trademark Office |\n| Copyright | Ownership of a written, recorded, performed or filmed creative work |\n| Trade secret | Know-how (methods, formulas, plans) kept secret in the business |\n\n**Infringement.** Counterfeiting: unauthorised copying and production of a product. Associative counterfeit (imitation): product name differs slightly from a well-known brand. Piracy: unauthorised publication or reproduction of copyrighted work.\n\n**Registration.** IP must be registered in each country where business is conducted; rights are territorial, so home registration does not protect abroad.",
+    "marking_scheme": [
+      {
+        "point": "Four forms named",
+        "marks": 1
+      },
+      {
+        "point": "One-line meaning of each form",
+        "marks": 1
+      },
+      {
+        "point": "Counterfeiting, associative counterfeit, piracy",
+        "marks": 2
+      },
+      {
+        "point": "Registration in each country",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "EN-8-03",
+    "node": "EN-8",
+    "unit": "International Marketing Unit 2",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "Explain the Foreign Corrupt Practices Act (FCPA) and its significance for a firm doing international business.",
+    "model_answer": "The **FCPA** is a US law with three main parts:\n1. It requires publicly held companies to institute **internal accounting controls** that record all transactions.\n2. It makes it a **crime for a US corporation to bribe an official of a foreign government or political party** to obtain or retain business.\n3. It **prohibits payments to third parties** (agents, consultants) when there is reason to believe the money may be channelled to foreign officials.\n\n**Significance.** Managers cannot avoid liability by routing a bribe through a local agent, so firms need agent due diligence, clear records and a compliance policy; this has to be weighed against local business practices.",
+    "marking_scheme": [
+      {
+        "point": "Internal accounting controls",
+        "marks": 1
+      },
+      {
+        "point": "Bribery of foreign officials a crime",
+        "marks": 2
+      },
+      {
+        "point": "Third-party payments",
+        "marks": 1
+      },
+      {
+        "point": "Significance for firms",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "EN-3-04",
+    "node": "EN-3",
+    "unit": "International Marketing Unit 2",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "medium",
+    "question": "Discuss the global economic environment and its implications for marketers. Cover the new realities of the world economy, the four economic systems and the World Bank's stages of market development.",
+    "model_answer": "**Introduction.** The economic environment is the first layer of the global forces. The slides say economic integration rose from about 10% in the early 20th century to over 50% today (per the class slide), so markets are connected as never before.\n\n**New realities.** Capital movements, not trade, drive the world economy; production is uncoupled from employment; the world economy dominates individual countries; the capitalism-socialism struggle has almost ended; e-commerce reduces the importance of national barriers.\n\n**Economic systems.**\n| | Market allocation | Command allocation |\n|---|---|---|\n| Private | Market capitalism (North America, EU) | Centrally planned capitalism (Sweden) |\n| State | Market socialism (China, Denmark, Finland, Netherlands, per slide) | Centrally planned socialism (former USSR) |\n\nMarket reforms and privatisation are opening formerly closed countries and enlarging the global market.\n\n**Stages (GNI per capita, slide bands).**\n| Stage | GNI | Marketing meaning |\n|---|---|---|\n| Low | $1,045 or less | Small packs, low price, aid dependence |\n| Lower-middle | $1,046 to $4,125 | Expanding consumers, BRIC nations India and China |\n| Upper-middle | $4,126 to $12,745 | NIEs, rising wages, urbanisation |\n| High | $12,476 or more | Services over 70%, saturated basics |\n\n**Implications.** Stages guide product saturation judgements and segmentation; in LDCs look beyond per capita income, treat countries collectively and seek first-mover advantage; BOP myths (the poor have no money) should be rejected. The system type tells the marketer how much it must rely on advertising, pricing and differentiation (little under central planning).\n\n**Conclusion.** The marketer should scan system and stage together to choose product version, price and entry intensity.",
+    "marking_scheme": [
+      {
+        "point": "Introduction and integration trend",
+        "marks": 1
+      },
+      {
+        "point": "New realities of the world economy (3 or more)",
+        "marks": 2
+      },
+      {
+        "point": "Four systems table with examples",
+        "marks": 2
+      },
+      {
+        "point": "Four stages with correct slide bands",
+        "marks": 2
+      },
+      {
+        "point": "Implications: saturation, segmentation, LDC rules, BOP myths",
+        "marks": 2
+      },
+      {
+        "point": "Conclusion linking scan to decision",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "EN-4-04",
+    "node": "EN-4",
+    "unit": "International Marketing Unit 2",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "medium",
+    "question": "Discuss the role of culture in international marketing. Include the definition, social institutions, religion, aesthetics and diet, and the choice between responding to culture and changing it.",
+    "model_answer": "**Introduction.** Culture is the ways of living built up by a group and passed from generation to generation; it is also 'the collective programming of the mind' that distinguishes one category of people from another. It has conscious and unconscious values, and physical (clothing, tools) and non-physical (religion, beliefs, values) parts.\n\n**Social institutions.** Family, education, religion, government and business reinforce cultural norms.\n\n**Elements affecting marketing.**\n| Element | Effect |\n|---|---|\n| Attitudes, beliefs, values | Differ by country; shape reaction to brands |\n| Religion | Tenets, practices and holidays affect products and promotion |\n| Aesthetics | Colour, shape, package and style meanings differ (white, red, gray) |\n| Diet | Food is the most culturally sensitive category; Subway had to educate Indians about sandwiches |\n| Language and communication | Affects brand names and staff effectiveness |\n\n**Respond or change.** Culture has a pervasive and changing influence; marketers must be prepared either to respond to it or to change it. Universal aspects are opportunities to standardise; the SRC must be checked.\n\n**Convergence.** Travel and communications are converging tastes in some categories, and global consumer cultures (coffee, fast food, credit card) are emerging.\n\n**Conclusion.** Adapt where environmental sensitivity is high (food), standardise where it is low.",
+    "marking_scheme": [
+      {
+        "point": "Definition of culture and its parts",
+        "marks": 2
+      },
+      {
+        "point": "Social institutions",
+        "marks": 1
+      },
+      {
+        "point": "Attitudes, religion, aesthetics, diet, language with effects",
+        "marks": 3
+      },
+      {
+        "point": "Respond or change; SRC",
+        "marks": 2
+      },
+      {
+        "point": "Convergence and global consumer culture",
+        "marks": 1
+      },
+      {
+        "point": "Conclusion: adapt vs standardise",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "EN-6-04",
+    "node": "EN-6",
+    "unit": "International Marketing Unit 2",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "hard",
+    "question": "Explain diffusion theory and its implications for launching a new household water filter in an emerging market. In a market of 25,00,000 potential buyers, compute the number in each adopter category using the class shares. State the factors that will determine the speed of adoption.",
+    "model_answer": "**Introduction.** Diffusion theory explains how an innovation spreads: the individual adoption process and the aggregate adopter categories.\n\n**Adoption process.** Awareness, interest, evaluation, trial, adoption. Mass media works at awareness; personal sources (salesperson, word of mouth) dominate evaluation, trial and adoption.\n\n**Adopter categories (25,00,000 buyers).**\n| Category | Share | Buyers |\n|---|---|---|\n| Innovators | 2.5% | 62,500 |\n| Early adopters | 13.5% | 3,37,500 |\n| Early majority | 34% | 8,50,000 |\n| Late majority | 34% | 8,50,000 |\n| Laggards | 16% | 4,00,000 |\n| **Total** | 100% | **25,00,000** |\n\nInnovators plus early adopters = 4,00,000 (16%), the opinion leaders to win first.\n\n**Five factors for rate of adoption.** Relative advantage (safer water than boiling), compatibility (fits household habits), complexity (installation and maintenance should be easy), divisibility (instalment or smaller models for low incomes), communicability (benefits demonstrable and easy to explain).\n\n**Implications.** Target innovators and early adopters with demonstrations and word of mouth; use low-cost, divisible packs or payment plans; simplify use; then use mass media for the majority.\n\n**Conclusion.** Speed depends mainly on how the five factors look in the local culture, so test them before launch.",
+    "marking_scheme": [
+      {
+        "point": "Adoption process with information sources",
+        "marks": 2
+      },
+      {
+        "point": "Correct numbers for all five categories",
+        "marks": 2
+      },
+      {
+        "point": "Five factors named and applied",
+        "marks": 3
+      },
+      {
+        "point": "Launch implications (sequence, price/size, communication)",
+        "marks": 2
+      },
+      {
+        "point": "Conclusion",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "EN-7-04",
+    "node": "EN-7",
+    "unit": "International Marketing Unit 2",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "medium",
+    "question": "Discuss the political environment of international marketing. Cover political risk, taxation, seizure of assets and ways in which a firm can manage the risk.",
+    "model_answer": "**Introduction.** The political environment is the political or government actions that impact business operations. The governing party's attitude to sovereignty, political risk, taxes and expropriation sets the context.\n\n**Political risk.** The risk of a change in political environment or policy that adversely affects operations and profit. Causes: tension between aspirations and reality (poorer countries, e.g. Indonesia crisis); long-standing conflict in rich countries (Northern Ireland); the less developed the country the greater the risk; economic uncertainty adds risk. High perceived risk deters FDI.\n\n**Taxes.** High taxation can lead to growth of a black market. Companies try to limit tax liability by shifting the location of income.\n\n**Seizure of assets.**\n| Term | Meaning |\n|---|---|\n| Expropriation | Dispossessing a foreign company; compensation 'prompt, effective and adequate' |\n| Confiscation | No compensation |\n| Nationalisation | Control of some or all enterprises in an industry; acceptable if public purpose and compensation |\n\n**Managing the risk (general).** Assess with country ratings and local advisers; reduce exposure through joint ventures, local sourcing and licensing instead of a plant; insure; monitor.\n\n**Conclusion.** Higher risk means a lighter-capital entry mode.",
+    "marking_scheme": [
+      {
+        "point": "Introduction and context",
+        "marks": 1
+      },
+      {
+        "point": "Political risk definition and causes",
+        "marks": 3
+      },
+      {
+        "point": "Taxes",
+        "marks": 1
+      },
+      {
+        "point": "Seizure terms table",
+        "marks": 3
+      },
+      {
+        "point": "Managing political risk",
+        "marks": 1
+      },
+      {
+        "point": "Conclusion linking risk to entry mode",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "EN-8-04",
+    "node": "EN-8",
+    "unit": "International Marketing Unit 2",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "medium",
+    "question": "Discuss the legal and regulatory environment of international marketing. Cover international law and jurisdiction, intellectual property, licensing and trade secrets, the FCPA and regulatory areas.",
+    "model_answer": "**Introduction.** Marketers must work within host-country laws, international law and the rules of regulatory agencies.\n\n**International law and jurisdiction.** International law is the rules nation-states consider binding on themselves. Disputes between nations are public international law issues, handled by the World Court or International Court of Justice (the UN's judicial arm); it does not settle company disputes. Jurisdiction is a court's authority over controversies arising outside national borders or over foreign entities; employees of foreign firms should know how far host courts have jurisdiction, which exists if the company is doing business in the state.\n\n**Intellectual property.** Patent, trademark, copyright and trade secret; registration in each country. Infringement: counterfeiting, associative counterfeit, piracy.\n\n**Licensing and trade secrets.** Licensor allows licensee to use patents, trademarks, trade secrets and technology for royalty payments. Consider what assets, how to price them and the rights granted. Protect trade secrets through confidentiality contracts.\n\n**FCPA.** Accounting controls; bribery of foreign officials is a crime, also through third parties.\n\n**Regulatory environment.** Price control, valuation of imports and exports, trade practices, labelling, food and drug regulations, employment conditions, advertising content, competitive practices.\n\n**Conclusion.** Register IP first, then license; train staff on FCPA and jurisdiction.",
+    "marking_scheme": [
+      {
+        "point": "International law, ICJ and jurisdiction",
+        "marks": 2
+      },
+      {
+        "point": "IP forms and infringement",
+        "marks": 3
+      },
+      {
+        "point": "Licensing and trade secrets",
+        "marks": 2
+      },
+      {
+        "point": "FCPA",
+        "marks": 1
+      },
+      {
+        "point": "Regulatory areas",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "EN-9-01",
+    "node": "EN-9",
+    "unit": "International Marketing Unit 2",
+    "type": "case",
+    "marks": 15,
+    "difficulty": "hard",
+    "question": "**Surabhi Instant Tea Pvt Ltd** (fictional) is an Indian maker of instant milk-tea premix. Its export head, Arjun, must pick one first export market from two (all data illustrative).\n\n| Factor | Halvoria | Dunmere |\n|---|---|---|\n| GNI per capita | $7,200 | $3,100 |\n| Economic system | Market economy | State controls most distribution |\n| Society | Tea drinkers, but strong coffee culture; many consumers are vegetarian and avoid dairy-based mixes during religious fasts | Tea is the national drink; most households share one kettle; low incomes, buy in small quantities |\n| Political risk | Stable; low | Unrest; two industries were nationalised last year with no payment |\n| Legal | Strong trademark registry; strict food-labelling rules | Weak IP enforcement; frequent imitation brands |\n\n(a) Classify each country by the World Bank stage (slide bands) and explain what each stage means for the product and pack. (3 marks)\n\n(b) Analyse the social and cultural fit of each market, using environmental sensitivity, the self-reference criterion and divisibility. (3 marks)\n\n(c) Assess the political and legal environment of each, naming the seizure term that applies to Dunmere's event. (3 marks)\n\n(d) Using the weights Economic 25%, Cultural 30%, Political 25%, Legal 20% and the judgement scores of Halvoria 4, 3, 4, 3 and Dunmere 3, 4, 2, 2 (in that order), compute the weighted scores. Test the result if the weights become 15%, 40%, 25%, 20%. (3 marks)\n\n(e) Recommend a market and the key adaptations, with an interpretation. (3 marks)",
+    "model_answer": "**(a) Stage.** Halvoria $7,200 falls in $4,126 to $12,745: **upper-middle (NIE)**, with rising wages and urbanisation, so a branded premium-economy pack is viable. Dunmere $3,100 falls in $1,046 to $4,125: **lower-middle**, with an expanding consumer market and price sensitivity, so a small, low-price pack.\n\n**(b) Social and cultural.** Food is the most culturally sensitive category, so heavy adaptation and local testing are needed in both. Halvoria: coffee culture is competition; the fasting rule needs a dairy-free variant and clear labels; check SRC so Surabhi does not assume Indian tea habits hold. Dunmere: tea is the national drink (good fit), but shared kettles and small incomes make **divisibility** crucial: sachets and small packs.\n\n**(c) Political and legal.** Halvoria is stable with a strong registry, but labelling rules must be met; register the trademark. Dunmere has high political risk (the less developed, the greater the risk). Nationalising two industries with **no compensation** is **confiscation**, not acceptable nationalisation, because compensation is missing; it deters FDI. Weak IP enforcement raises counterfeit and associative counterfeit risk.\n\n**(d) Weighted comparison.**\n| Environment | Weight | Halvoria score | Weighted | Dunmere score | Weighted |\n|---|---|---|---|---|---|\n| Economic | 0.25 | 4 | 1.00 | 3 | 0.75 |\n| Cultural | 0.30 | 3 | 0.90 | 4 | 1.20 |\n| Political | 0.25 | 4 | 1.00 | 2 | 0.50 |\n| Legal | 0.20 | 3 | 0.60 | 2 | 0.40 |\n| **Total** | 1.00 | | **3.50** | | **2.85** |\n\nSensitivity (15/40/25/20): Halvoria = 3.40, Dunmere = 2.95. Halvoria still leads, so the result is robust to a heavier cultural weight.\n\n**(e) Recommendation.** Enter **Halvoria first** (3.50 against 2.85) with a dairy-free variant, compliant labels and a registered trademark after a city pilot. Keep Dunmere for later through a local partner or licence, with small sachets, rather than a plant, until political risk eases. Interpretation: Dunmere scores lower because of political and legal weakness, not demand, so it is a deferred option with limited exposure, not a rejection; the scores are judgement and should be re-tested.",
+    "marking_scheme": [
+      {
+        "point": "(a) Correct stage for both countries from slide bands",
+        "marks": 1
+      },
+      {
+        "point": "(a) Marketing meaning of stage for product and pack",
+        "marks": 2
+      },
+      {
+        "point": "(b) Environmental sensitivity and adaptation of a food product",
+        "marks": 1
+      },
+      {
+        "point": "(b) SRC and divisibility applied",
+        "marks": 2
+      },
+      {
+        "point": "(c) Political risk assessment with cause and FDI effect",
+        "marks": 1
+      },
+      {
+        "point": "(c) Confiscation identified correctly with reason",
+        "marks": 1
+      },
+      {
+        "point": "(c) Legal: IP registration, labelling, counterfeit risk",
+        "marks": 1
+      },
+      {
+        "point": "(d) Correct weighted totals for both markets",
+        "marks": 2
+      },
+      {
+        "point": "(d) Sensitivity result stated",
+        "marks": 1
+      },
+      {
+        "point": "(e) Decision with entry mode and adaptations",
+        "marks": 2
+      },
+      {
+        "point": "(e) Interpretation of why scores differ and caveat on judgement",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "EN-9-02",
+    "node": "EN-9",
+    "unit": "International Marketing Unit 2",
+    "type": "case",
+    "marks": 15,
+    "difficulty": "hard",
+    "question": "**Sunvale Foods** (fictional) plans to launch a ready-to-cook millet breakfast mix in **Casperia**, a market with 30,00,000 target households (all data illustrative). Market research gives these 1 to 5 scores for how Casperian consumers see the product: relative advantage 4, compatibility 2, complexity 4 (5 = very easy to use), divisibility 2, communicability 3. Households traditionally eat rice-based breakfasts at home; bread-based breakfasts are rare. The product is sold in a 1 kg pack at a price equal to two days of an average household's food budget. Local women's groups and neighbourhood shops are the main sources of information on food products. Sunvale's Casperia manager, Neha, wants to use the same advertising as at home.\n\n(a) Explain the adoption process and the sources of information Sunvale should use at each stage. (3 marks)\n\n(b) Evaluate the product on the five characteristics of innovations using the scores, compute the average score and identify the two weakest factors. (3 marks)\n\n(c) Using the class adopter shares, compute the number of households in each category and say whom Sunvale must win first. (3 marks)\n\n(d) Assess the cultural and self-reference issues and the environmental sensitivity of the product. (3 marks)\n\n(e) Recommend a launch plan and give your decision, with interpretation. (3 marks)",
+    "model_answer": "**(a) Adoption process.** Awareness, interest, evaluation, trial, adoption. Awareness: impersonal sources, mass-media and radio. Evaluation, trial and adoption: personal sources dominate, so women's groups, shop-owner recommendations and in-store tasting are the major pervasive forces.\n\n**(b) Characteristics.** Scores: relative advantage 4, compatibility 2, complexity 4, divisibility 2, communicability 3. Total = 15, average = 15 / 5 = **3.0**. Weakest: **compatibility (2)**, because rice-based breakfasts are the habit, and **divisibility (2)**, because a 1 kg pack at two days of budget is too large. The rate of adoption will be slow unless these two are fixed.\n\n**(c) Adopter categories (30,00,000 households).**\n| Category | Share | Households |\n|---|---|---|\n| Innovators | 2.5% | 75,000 |\n| Early adopters | 13.5% | 4,05,000 |\n| Early majority | 34% | 10,20,000 |\n| Late majority | 34% | 10,20,000 |\n| Laggards | 16% | 4,80,000 |\n\nTotal = 30,00,000. Win innovators and early adopters first: 16% = **4,80,000** households, who lead the 10,20,000 early majority.\n\n**(d) Culture.** Food is the most culturally sensitive category, so high adaptation. The SRC risk: Neha assumes breakfast habits and advertising that work at home will work in Casperia. Home advertising may carry bread-based or unfamiliar cues, so check it against local attitudes, beliefs and values, and adapt the message to rice-based breakfasts (for example a millet idli or porridge style).\n\n**(e) Launch plan and decision.** Redesign the pack into small sachets or 100 g packs (divisibility), position the mix as a quick rice-breakfast substitute (compatibility), sample through women's groups and shops (communicability), and use local-language advertising. Decision: **launch in a pilot region, not nationally**, and scale only when the early adopters respond. Interpretation: the product has a clear advantage and is easy to use, but fit and size would limit the rate of diffusion, so the plan changes the product and pack, not just the promotion.",
+    "marking_scheme": [
+      {
+        "point": "(a) Five stages in order",
+        "marks": 1
+      },
+      {
+        "point": "(a) Information sources matched to stages",
+        "marks": 2
+      },
+      {
+        "point": "(b) Average 3.0 computed correctly",
+        "marks": 1
+      },
+      {
+        "point": "(b) Two weakest factors identified with reasons",
+        "marks": 2
+      },
+      {
+        "point": "(c) Correct household numbers for all categories",
+        "marks": 2
+      },
+      {
+        "point": "(c) Identifies first target group (16%, 4,80,000)",
+        "marks": 1
+      },
+      {
+        "point": "(d) Environmental sensitivity of food and SRC issue",
+        "marks": 2
+      },
+      {
+        "point": "(d) Adaptation of attitudes, beliefs and message",
+        "marks": 1
+      },
+      {
+        "point": "(e) Launch plan addresses divisibility, compatibility, communicability",
+        "marks": 2
+      },
+      {
+        "point": "(e) Decision with pilot and interpretation",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "EN-9-03",
+    "node": "EN-9",
+    "unit": "International Marketing Unit 2",
+    "type": "case",
+    "marks": 15,
+    "difficulty": "hard",
+    "question": "**Meridian Learning Pvt Ltd** (fictional) is an Indian ed-tech firm with a patented adaptive-testing method and a registered brand, **BrightPath**. It wants to enter **Vandora**, a lower-middle-income country (GNI per capita $2,400). Facts (all illustrative):\n\n- Last year Vandora took over the whole private-education sector, paying owners nothing. The government says it was in the public interest.\n- Street vendors already sell photocopied copies of Indian textbooks; a firm sells software under the name 'BrightPaths'.\n- A local agent, Mr Dev, offers to 'smooth the licence process' by paying a fee to a ministry official, to be included in his commission.\n- Meridian is deciding between setting up a subsidiary and licensing its method and brand to a local company in return for royalties.\n- Vandora's rules limit advertising of educational claims and regulate pricing of school materials.\n\n(a) Classify the seizure event in Vandora and evaluate the political risk, giving causes and the likely effect on entry mode. (4 marks)\n\n(b) Identify the infringement types in the facts and advise on the protection of Meridian's patent, trademark and trade secrets. (4 marks)\n\n(c) Advise on Mr Dev's proposal in the light of the FCPA and on the regulatory areas to check. (3 marks)\n\n(d) Recommend an entry mode and give the decision with an interpretation. (4 marks)",
+    "model_answer": "**(a) Seizure and risk.** The government took over the **entire private-education sector** with no payment. Nationalisation of an industry is acceptable only if it satisfies a public purpose **and** includes compensation; here compensation is absent, so for foreign investors this is **confiscation**, even if the public-interest claim is made. Political risk is **high**: a lower-middle-income country, with aspiration-reality tension, the less developed the greater the risk, and economic uncertainty. High risk lowers the appetite for FDI, so Meridian should avoid sinking capital in a subsidiary and prefer a low-capital mode.\n\n**(b) IP.** Photocopied textbooks are **piracy** (unauthorised reproduction of a copyrighted work). 'BrightPaths' is an **associative counterfeit** (a name differing slightly from a well-known brand). Protection: IP is registered country by country, so register the patent, the trademark BrightPath and the copyright in Vandora **before** entry; protect trade secrets (the algorithm, test banks) through confidentiality contracts and by not handing over the full method; license only defined assets with a clear royalty price and rights granted.\n\n**(c) FCPA and regulation.** The FCPA makes it a crime for a US corporation to bribe a foreign official and prohibits payments to third parties when the money may reach officials. Meridian is an Indian firm, so the US Act does not apply to it directly **(general)**, but Indian law and the firm's own compliance policy do prohibit bribery, and a US partner or financier would be caught. Decline Mr Dev's proposal, record all transactions and run agent due diligence. Check regulation of advertising content, pricing of school materials, labelling and employment conditions.\n\n**(d) Decision.** Recommend **licensing** (or a small, staged joint venture) over a subsidiary: royalty income with minimal capital at risk after the confiscation, with protected trade secrets, registered IP and an exit clause. Interpretation: the market is attractive, but the political and legal environment decides the mode: the economic opportunity is taken through a light-capital entry. Revisit a subsidiary if compensation law and IP enforcement improve.",
+    "marking_scheme": [
+      {
+        "point": "(a) Seizure classified as confiscation with reasoning",
+        "marks": 2
+      },
+      {
+        "point": "(a) Political risk causes and effect on FDI/entry mode",
+        "marks": 2
+      },
+      {
+        "point": "(b) Piracy and associative counterfeit identified",
+        "marks": 2
+      },
+      {
+        "point": "(b) Registration and trade secret protection advice",
+        "marks": 2
+      },
+      {
+        "point": "(c) FCPA bribery and third-party rule applied",
+        "marks": 2
+      },
+      {
+        "point": "(c) Regulatory areas",
+        "marks": 1
+      },
+      {
+        "point": "(d) Entry mode choice with reasons",
+        "marks": 2
+      },
+      {
+        "point": "(d) Interpretation linking risk to mode",
+        "marks": 2
+      }
+    ]
+  }
+]
