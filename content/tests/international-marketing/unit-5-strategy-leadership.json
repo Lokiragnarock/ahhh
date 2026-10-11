@@ -1,0 +1,940 @@
+[
+  {
+    "id": "SL-1-01",
+    "node": "SL-1",
+    "unit": "International Marketing Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "In Porter's five forces as taught on the faculty slides, who are the 'buyers' whose bargaining power is assessed?",
+    "options": [
+      "A) End consumers who purchase the product in shops",
+      "B) Manufacturers and retailers that buy from the firm",
+      "C) Only government departments",
+      "D) Only the firm's own employees"
+    ],
+    "answer": "B",
+    "explanation": "The slide states 'Buyers = manufacturers and retailers, not consumers'. Option A is the tempting wrong choice because everyday usage of 'buyer' means the end consumer; the force is about trade buyers who can bargain on price."
+  },
+  {
+    "id": "SL-1-02",
+    "node": "SL-1",
+    "unit": "International Marketing Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Which one of the following gives buyers LEVERAGE over suppliers according to the slides?",
+    "options": [
+      "A) Buyers are many and each buys in very small quantities",
+      "B) The buyer is willing and able to integrate backward",
+      "C) The supplier's product is highly differentiated",
+      "D) The product is an insignificant part of the buyer's costs"
+    ],
+    "answer": "B",
+    "explanation": "Backward integration is a stated source of buyer power (the buyer can make the input itself). Option C is tempting but is a source of SUPPLIER leverage (differentiated products, switching costs). Option D is the reverse of the slide: leverage arises when the product is a SIGNIFICANT part of the buyer's costs."
+  },
+  {
+    "id": "SL-2-01",
+    "node": "SL-2",
+    "unit": "International Marketing Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "A company sells a low-priced product to one narrow customer group and wins on cost. Which generic strategy is it using?",
+    "options": [
+      "A) Cost leadership",
+      "B) Product differentiation",
+      "C) Cost focus",
+      "D) Focused differentiation"
+    ],
+    "answer": "C",
+    "explanation": "Narrow market plus low price is cost focus in the 2 x 2. Option A is the tempting error: cost leadership is also low price but aims at the broad market."
+  },
+  {
+    "id": "SL-2-02",
+    "node": "SL-2",
+    "unit": "International Marketing Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "According to the slides, what is the central issue for a cost focus strategy?",
+    "options": [
+      "A) Sustainability: rivals must define their target more broadly and be unable to segment even more narrowly",
+      "B) Obtaining the largest market share in the industry",
+      "C) Charging a premium price",
+      "D) Constructing the most efficient facilities in the industry"
+    ],
+    "answer": "A",
+    "explanation": "Slides: 'Sustainability is the central issue for this strategy'. Options B and D describe cost leadership (largest share, most efficient facilities), which is the tempting mix-up; option C is the logic of differentiation."
+  },
+  {
+    "id": "SL-2-03",
+    "node": "SL-2",
+    "unit": "International Marketing Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A firm sells a product at Rs 70 with a unit cost of Rs 56. What is its profit margin on price?",
+    "options": [
+      "A) 25%",
+      "B) 20%",
+      "C) 14%",
+      "D) 80%"
+    ],
+    "answer": "B",
+    "explanation": "Profit = 70 - 56 = Rs 14; margin on price = 14 / 70 = 20%. Option A (14 / 56 = 25%) is the tempting mistake of dividing by cost instead of price. Option D is cost as a share of price."
+  },
+  {
+    "id": "SL-3-01",
+    "node": "SL-3",
+    "unit": "International Marketing Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "Savings rate, interest rates, tax laws and the government deficit are part of which factor condition?",
+    "options": [
+      "A) Infrastructure resources",
+      "B) Knowledge resources",
+      "C) Capital resources",
+      "D) Physical resources"
+    ],
+    "answer": "C",
+    "explanation": "The slide defines capital resources as the availability, amount, cost and types of capital, including savings rate, interest rates, tax laws and government deficit. Option A is tempting because banking is listed under infrastructure, but that is the banking system, not the cost and supply of capital."
+  },
+  {
+    "id": "SL-3-02",
+    "node": "SL-3",
+    "unit": "International Marketing Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "What does the absence of significant domestic rivalry tend to cause, according to the slides?",
+    "options": [
+      "A) Complacency, and eventually firms that are non-competitive in world markets",
+      "B) Larger economies of scale and stronger exporters",
+      "C) Lower prices for consumers",
+      "D) Faster adoption of new technology"
+    ],
+    "answer": "A",
+    "explanation": "The slide links no domestic rivalry to complacency and weakness in world markets. Option B is the tempting wrong answer because comfortable home markets seem to help scale; the diamond argues the opposite."
+  },
+  {
+    "id": "SL-4-01",
+    "node": "SL-4",
+    "unit": "International Marketing Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "In the faculty slides, leadership in global marketing is mainly about:",
+    "options": [
+      "A) Hierarchy, title and status",
+      "B) Having influence and mastering change",
+      "C) Maximising wealth creation only",
+      "D) Controlling every subsidiary decision from headquarters"
+    ],
+    "answer": "B",
+    "explanation": "The slides: 'Leadership is not about hierarchy or title or status: it is about having influence and mastering change.' Option A is the common but rejected view; option C fails because leadership is 'not just creating wealth'."
+  },
+  {
+    "id": "SL-4-02",
+    "node": "SL-4",
+    "unit": "International Marketing Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "The key issue in organising for global marketing is achieving a balance between:",
+    "options": [
+      "A) Autonomy for subsidiaries and integration of the whole business",
+      "B) Price and promotion",
+      "C) Exporting and licensing",
+      "D) Cost leadership and differentiation"
+    ],
+    "answer": "A",
+    "explanation": "Subsidiaries need autonomy to adapt locally; the whole business needs integration to implement global strategy. Option D is tempting because it is also 'balance' language, but it belongs to generic strategy (SL-2), not organisation."
+  },
+  {
+    "id": "SL-5-01",
+    "node": "SL-5",
+    "unit": "International Marketing Unit 5",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A case describes a firm whose niche premium product is being copied by a cheaper rival, and asks whether it should enter a new industry. Which pair of Unit 5 tools is the standard analysis?",
+    "options": [
+      "A) Porter's five forces and the generic strategies",
+      "B) The national diamond and the code of ethics",
+      "C) Autonomy-integration and CSR",
+      "D) Barriers to entry and the diamond only"
+    ],
+    "answer": "A",
+    "explanation": "Five forces diagnoses industry pressure and generic strategies decide the position to take. Option D is tempting because barriers to entry are part of force 1, but barriers alone ignore buyers, suppliers, substitutes, rivalry and the choice of strategy."
+  },
+  {
+    "id": "SL-1-03",
+    "node": "SL-1",
+    "unit": "International Marketing Unit 5",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "Explain Michael Porter's five forces that influence competition in an industry.",
+    "model_answer": "**Industry** is a group of firms that produce products that are close substitutes for each other. **Michael Porter** identifies five forces that decide how much profit an industry can keep.\n\n| Force | Core idea | Example factor |\n|---|---|---|\n| Threat of new entrants | Entrants push prices down and cut profits; barriers decide the threat | Economies of scale, capital requirements |\n| Threat of substitutes | Substitutes cap the price market leaders can charge | Alternatives' price and quality |\n| Bargaining power of buyers | Buyers (manufacturers, retailers) seek the lowest price | Large-volume purchases |\n| Bargaining power of suppliers | Powerful suppliers raise prices and squeeze customers | Few, large suppliers of critical inputs |\n| Rivalry among competitors | All actions to gain advantage over each other | Price competition, advertising battles |\n\n**Use:** strong forces mean lower industry profitability, so a firm should position itself where the forces are weakest.",
+    "marking_scheme": [
+      {
+        "point": "Industry definition and Porter",
+        "marks": 1
+      },
+      {
+        "point": "Threat of new entrants and substitutes, one factor each",
+        "marks": 1.5
+      },
+      {
+        "point": "Buyer and supplier power, one factor each",
+        "marks": 1.5
+      },
+      {
+        "point": "Rivalry with its forms",
+        "marks": 0.5
+      },
+      {
+        "point": "Overall use of the model",
+        "marks": 0.5
+      }
+    ]
+  },
+  {
+    "id": "SL-1-04",
+    "node": "SL-1",
+    "unit": "International Marketing Unit 5",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Explain the barriers to entry that determine the threat of new entrants.",
+    "model_answer": "New entrants mean **downward pressure on prices and reduced profitability**. The higher the barriers, the lower the threat.\n\n| Barrier | Meaning |\n|---|---|\n| Economies of scale | Per-unit cost falls as volume per period rises |\n| Product differentiation | Perceived uniqueness of the incumbent's product |\n| Capital requirements | Investment in manufacturing, R&D, advertising, field sales and service |\n| Switching costs | Costs of changing suppliers or products |\n| Distribution channels | Whether channels with spare capacity are available |\n| Government policy | Regulations restricting entry |\n| Cost advantages independent of scale | Access to raw materials, low-cost labour, good locations, subsidies |\n| Competitor response | How the market reacts in anticipation of more competition |",
+    "marking_scheme": [
+      {
+        "point": "Why entry threatens profit",
+        "marks": 1
+      },
+      {
+        "point": "Any four barriers with meaning",
+        "marks": 2
+      },
+      {
+        "point": "Remaining barriers listed",
+        "marks": 1
+      },
+      {
+        "point": "Link: higher barriers mean lower threat",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "SL-1-05",
+    "node": "SL-1",
+    "unit": "International Marketing Unit 5",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Distinguish between the bargaining power of buyers and the bargaining power of suppliers.",
+    "model_answer": "| Basis | Buyers | Suppliers |\n|---|---|---|\n| Who | Manufacturers and retailers, not consumers | Firms that provide inputs |\n| Aim | Pay the lowest possible price | Raise prices high enough to affect customers' profitability |\n| Number and size | Purchase in large quantities, raising supplier dependence | Large and few in number |\n| Product | Suppliers' products are commodities and a significant part of buyer cost | Critical inputs, highly differentiated, or carry switching costs |\n| Substitutes | Many alternatives exist | Few substitutes exist |\n| Integration threat | Buyer able and willing to integrate backward | Supplier able and willing to sell the product itself |\n\n**Conclusion:** power sits with the side that is concentrated, has alternatives and can integrate.",
+    "marking_scheme": [
+      {
+        "point": "Who the buyers and suppliers are, and their aim",
+        "marks": 1
+      },
+      {
+        "point": "Buyer leverage conditions",
+        "marks": 1.5
+      },
+      {
+        "point": "Supplier leverage conditions",
+        "marks": 1.5
+      },
+      {
+        "point": "Integration threat for each",
+        "marks": 0.5
+      },
+      {
+        "point": "Conclusion",
+        "marks": 0.5
+      }
+    ]
+  },
+  {
+    "id": "SL-2-04",
+    "node": "SL-2",
+    "unit": "International Marketing Unit 5",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "What is competitive advantage? Explain the four generic strategies for creating it.",
+    "model_answer": "**Competitive advantage** is achieved when there is a match between a firm's distinctive competencies and the factors critical for success in its industry.\n\n| | Low price | Premium price |\n|---|---|---|\n| Broad market | Cost leadership | Product differentiation |\n| Narrow market | Cost focus | Focused differentiation |\n\n- **Cost leadership:** the industry's low-cost producer; most efficient facilities and largest share; works only if barriers stop rivals matching cost.\n- **Differentiation:** actual or perceived uniqueness in a broad market; premium price and above-average returns; defends position.\n- **Cost focus:** low cost used to serve a narrow target at lower prices; sustainability is the issue.\n- **Focused differentiation:** unique product for a very narrow target, from better understanding of customer wants (high-end audio equipment).",
+    "marking_scheme": [
+      {
+        "point": "Definition of competitive advantage",
+        "marks": 1
+      },
+      {
+        "point": "2 x 2 with four names",
+        "marks": 1
+      },
+      {
+        "point": "Cost leadership and differentiation, one point each",
+        "marks": 1.5
+      },
+      {
+        "point": "Cost focus and focused differentiation, one point each",
+        "marks": 1.5
+      }
+    ]
+  },
+  {
+    "id": "SL-2-05",
+    "node": "SL-2",
+    "unit": "International Marketing Unit 5",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Distinguish between cost leadership and product differentiation as generic strategies.",
+    "model_answer": "| Basis | Cost leadership | Product differentiation |\n|---|---|---|\n| Source of advantage | Position as the lowest-cost producer | Actual or perceived uniqueness |\n| Price | Low price | Premium price |\n| Requirement | Most efficient facilities, largest market share | Uniqueness that buyers value |\n| Return | Volume-based returns | Above-average returns per unit |\n| Condition or risk | Works only if barriers stop rivals reaching the same cost | Uniqueness must be kept from being copied; defends market position |\n\n**Conclusion:** neither is superior in the abstract; the test is the match with the firm's distinctive competencies.",
+    "marking_scheme": [
+      {
+        "point": "Source of advantage",
+        "marks": 1
+      },
+      {
+        "point": "Price level",
+        "marks": 1
+      },
+      {
+        "point": "Requirements",
+        "marks": 1
+      },
+      {
+        "point": "Returns and risk or condition",
+        "marks": 1
+      },
+      {
+        "point": "Conclusion on competency match",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "SL-2-06",
+    "node": "SL-2",
+    "unit": "International Marketing Unit 5",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Explain 'strategic intent' using the Hamel and Prahalad view. Why is it more relevant today?",
+    "model_answer": "Hamel and Prahalad: few competitive advantages are long lasting; **keeping score of existing advantages is not the same as building new ones**. The essence of strategy is **creating tomorrow's advantages faster than competitors mimic today's**. An organisation's **capacity to improve existing skills and learn new ones is the most defensible advantage of all**.\n\n**Relevance today:** short product life cycles, short design cycles, new technologies and globalisation escalate and accelerate competition, so a static position (even a generic strategy) is copied quickly. Firms must keep renewing skills.\n\n(The slides give the quote but not the four types of strategic intent; state the idea in full rather than inventing a list.)",
+    "marking_scheme": [
+      {
+        "point": "Advantages are not long lasting; scorekeeping is not building",
+        "marks": 1
+      },
+      {
+        "point": "Build tomorrow's advantage faster than rivals mimic",
+        "marks": 1.5
+      },
+      {
+        "point": "Learning capacity as most defensible advantage",
+        "marks": 1
+      },
+      {
+        "point": "Current issues: short cycles, technology, globalisation",
+        "marks": 1
+      },
+      {
+        "point": "Link to generic strategies as today's position",
+        "marks": 0.5
+      }
+    ]
+  },
+  {
+    "id": "SL-2-07",
+    "node": "SL-2",
+    "unit": "International Marketing Unit 5",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Firm P is a cost leader: price Rs 45, unit cost Rs 36, volume 2,40,000 units. Firm Q is a differentiator: price Rs 66, unit cost Rs 51, volume 1,00,000 units. (a) Name each firm's strategy in the 2 x 2. (b) Compute unit profit, margin on price and total profit for each. (c) Give a decision line.",
+    "model_answer": "**(a)** P: broad market, low price, **cost leadership**. Q: broad market, premium price, **product differentiation**.\n\n**(b)**\n\n| Item | Firm P | Firm Q |\n|---|---|---|\n| Unit profit | 45 - 36 = Rs 9 | 66 - 51 = Rs 15 |\n| Margin on price | 9 / 45 = 20.0% | 15 / 66 = 22.7% |\n| Total profit | 9 x 2,40,000 = Rs 21,60,000 | 15 x 1,00,000 = Rs 15,00,000 |\n\n**(c)** Q earns the higher margin (22.7% against 20.0%) but P earns the higher total profit (Rs 21,60,000 against Rs 15,00,000). Both work. P is sound only if barriers stop rivals matching its cost; Q only if buyers keep valuing its uniqueness. The firm should choose the strategy that matches its distinctive competencies.",
+    "marking_scheme": [
+      {
+        "point": "Correct strategy names with 2 x 2 reasoning",
+        "marks": 1
+      },
+      {
+        "point": "Unit profit and margin for both",
+        "marks": 2
+      },
+      {
+        "point": "Total profits for both",
+        "marks": 1
+      },
+      {
+        "point": "Decision line with conditions",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "SL-3-03",
+    "node": "SL-3",
+    "unit": "International Marketing Unit 5",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "Explain the factor conditions that contribute to national competitive advantage.",
+    "model_answer": "**Factor conditions** are a nation's endowment of inputs for competition. The slides list five:\n\n| Resource | Meaning |\n|---|---|\n| Human | Quantity of workers, their skills, wage levels, work ethic |\n| Physical | Availability, quantity, quality and cost of land, water, minerals, natural resources |\n| Knowledge | Population with scientific, technical and market-related knowledge |\n| Capital | Availability, amount, cost, types of capital; savings rate, interest rates, tax laws, government deficit |\n| Infrastructure | Banking, healthcare, transportation and communication systems |\n\nFactor conditions are one corner of the diamond, interacting with demand conditions, related and supporting industries, and firm strategy, structure and rivalry.",
+    "marking_scheme": [
+      {
+        "point": "Definition and place in the diamond",
+        "marks": 1
+      },
+      {
+        "point": "Human and physical resources",
+        "marks": 1
+      },
+      {
+        "point": "Knowledge resources",
+        "marks": 1
+      },
+      {
+        "point": "Capital resources",
+        "marks": 1
+      },
+      {
+        "point": "Infrastructure resources",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "SL-3-04",
+    "node": "SL-3",
+    "unit": "International Marketing Unit 5",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Explain the role of domestic rivalry and of demand conditions in building national competitive advantage.",
+    "model_answer": "**Domestic rivalry (firm strategy, structure and rivalry):** rivalry in a single national market is a powerful influence on advantage. Its absence leads to **complacency** and eventually firms that are **non-competitive in world markets**. Management styles, organisational skills and strategic perspectives, and capital markets and attitudes toward investment, also create advantages or disadvantages.\n\n**Demand conditions:** the **composition of home demand** determines how firms perceive, interpret and respond to buyer needs; the **size and growth pattern of home demand** let firms achieve economies of scale and learning in familiar markets.\n\n**Link:** demanding buyers and tough rivals force firms to improve, which makes them stronger abroad.",
+    "marking_scheme": [
+      {
+        "point": "Domestic rivalry as powerful influence",
+        "marks": 1
+      },
+      {
+        "point": "Complacency and weakness abroad",
+        "marks": 1
+      },
+      {
+        "point": "Management styles and capital markets",
+        "marks": 1
+      },
+      {
+        "point": "Composition of home demand",
+        "marks": 1
+      },
+      {
+        "point": "Size and growth of home demand",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "SL-4-03",
+    "node": "SL-4",
+    "unit": "International Marketing Unit 5",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "What does the faculty mean by global leadership? State the leader's tasks.",
+    "model_answer": "**Global marketing demands exceptional leadership.** The leader's challenge is to direct the efforts and creativity of everyone in the company toward a global effort that best uses organisational resources to exploit global opportunities. Leadership is **not about hierarchy, title or status** but about **having influence and mastering change**.\n\nTasks:\n1. Direct effort and creativity globally.\n2. Connect and engage at multiple levels: challenge minds and capture hearts (not just create wealth).\n3. Empower others to decide for themselves and reach their full potential.\n4. Articulate beliefs, values, policies and the intended geographic scope of the company's activities.",
+    "marking_scheme": [
+      {
+        "point": "Definition: influence and mastering change, not title",
+        "marks": 2
+      },
+      {
+        "point": "Four tasks, 0.75 each",
+        "marks": 3
+      }
+    ]
+  },
+  {
+    "id": "SL-4-04",
+    "node": "SL-4",
+    "unit": "International Marketing Unit 5",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Explain the autonomy versus integration balance in organising for global marketing.",
+    "model_answer": "**Goal of organising:** find a structure that lets the company respond to relevant differences in market environments.\n\n**Key issue:** balance autonomy and integration.\n\n| | Autonomy | Integration |\n|---|---|---|\n| Needed by | Local subsidiaries | The business as a whole |\n| Purpose | Adapt to local environments | Implement global strategy |\n| Risk if excessive | Fragmentation, duplicated effort | Ignores local differences, slow response |\n\n**Practical resolution:** keep a central core (brand identity, quality standards, values) and give subsidiaries freedom on local adaptation (product features, promotion, price points), reviewing the split as markets mature.",
+    "marking_scheme": [
+      {
+        "point": "Goal of organising",
+        "marks": 1
+      },
+      {
+        "point": "Autonomy: who and why",
+        "marks": 1.5
+      },
+      {
+        "point": "Integration: who and why",
+        "marks": 1.5
+      },
+      {
+        "point": "Balance or practical resolution",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "SL-4-05",
+    "node": "SL-4",
+    "unit": "International Marketing Unit 5",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Explain corporate social responsibility and the role of a code of ethics for a global company.",
+    "model_answer": "**CSR** is a company's obligation to pursue goals and policies that are in society's best interests. Global company leaders must practise it.\n\n- **Ways to show commitment:** cause-marketing efforts, or a commitment to sustainability.\n- **Ethical conduct:** in a socially responsible firm, employees conduct business ethically and are guided by moral principles that separate right from wrong.\n- **Code of ethics:** a formal statement summarising core ideologies, corporate values and expectations. Slide examples: GE's *The Spirit and the Letter* and Johnson & Johnson's *Our Credo*.\n\nA code turns leaders' articulated values into expected behaviour across all subsidiaries.",
+    "marking_scheme": [
+      {
+        "point": "Definition of CSR",
+        "marks": 1
+      },
+      {
+        "point": "Cause marketing and sustainability",
+        "marks": 1
+      },
+      {
+        "point": "Ethical conduct and moral principles",
+        "marks": 1
+      },
+      {
+        "point": "Code of ethics defined",
+        "marks": 1
+      },
+      {
+        "point": "Slide examples (GE, J&J)",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "SL-1-06",
+    "node": "SL-1",
+    "unit": "International Marketing Unit 5",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "medium",
+    "question": "**Industry: packaged instant noodles in Country Z (fictional, illustrative).** Two firms hold 70% of sales and compete through price cuts and advertising. A new foreign brand wants to enter. Retail chains account for 60% of volume and demand deep discounts. Wheat and palm oil suppliers are numerous and sell commodities. Ready-to-eat snack packs and street food are cheap alternatives. Building a factory needs heavy capital and the two leaders control shelf space. Analyse the industry using Porter's five forces and state whether it is attractive to a new entrant.",
+    "model_answer": "**Introduction.** An industry is a group of firms producing close substitutes; Porter's five forces judge how much profit it can retain.\n\n| Force | Evidence | Strength |\n|---|---|---|\n| Threat of new entrants | Heavy capital requirements, leaders hold shelf space (distribution channels), likely competitor response; economies of scale favour the leaders | **Low to moderate**, but costly for the entrant |\n| Substitutes | Ready-to-eat packs and street food are cheap alternatives, capping price | **Moderate to high** |\n| Buyer power | Retail chains buy 60% of volume, are large, can demand discounts | **High** |\n| Supplier power | Many suppliers of commodity inputs (wheat, palm oil), few switching costs | **Low** |\n| Rivalry | Two dominant firms, price cuts and advertising battles | **High** |\n\n**Assessment.** Three forces (buyers, rivalry, substitutes) are strong, so margins are squeezed; only supplier power is weak. Barriers protect incumbents but also raise the entrant's cost.\n\n**Decision line:** the industry is **unattractive for a straightforward mass-market entry**. The entrant should either target a niche (focused differentiation) or enter through a retailer partnership that secures shelf access, rather than fight the leaders on price.",
+    "marking_scheme": [
+      {
+        "point": "Industry definition and Porter's framework",
+        "marks": 1
+      },
+      {
+        "point": "New entrants with barriers",
+        "marks": 1.5
+      },
+      {
+        "point": "Substitutes",
+        "marks": 1.5
+      },
+      {
+        "point": "Buyers",
+        "marks": 1.5
+      },
+      {
+        "point": "Suppliers",
+        "marks": 1.5
+      },
+      {
+        "point": "Rivalry",
+        "marks": 1.5
+      },
+      {
+        "point": "Overall assessment and decision line",
+        "marks": 1.5
+      }
+    ]
+  },
+  {
+    "id": "SL-2-08",
+    "node": "SL-2",
+    "unit": "International Marketing Unit 5",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "medium",
+    "question": "Discuss the generic strategies for creating competitive advantage. How does strategic intent change the way a firm should think about them in today's environment?",
+    "model_answer": "**Introduction.** Competitive advantage is a match between a firm's distinctive competencies and the factors critical for success in its industry. The slides give two routes: generic strategies and strategic intent.\n\n| | Low price | Premium price |\n|---|---|---|\n| Broad | Cost leadership | Product differentiation |\n| Narrow | Cost focus | Focused differentiation |\n\n**Strategies**\n- *Cost leadership:* lowest-cost producer; most efficient facilities; largest share; needs barriers so rivals cannot match cost.\n- *Differentiation:* actual or perceived uniqueness; premium price; defends position; above-average returns.\n- *Cost focus:* low cost in a narrow market; sustainability is the central issue (rivals must define targets more broadly and not segment more narrowly).\n- *Focused differentiation:* unique product for a very narrow target, from better understanding of customer wants (high-end audio equipment).\n\n**Strategic intent.** Hamel and Prahalad: create tomorrow's advantages faster than rivals mimic today's; the capacity to learn and renew skills is the most defensible advantage.\n\n**Today's environment.** Short product life and design cycles, new technology and globalisation escalate and accelerate competition, so any one generic position is copied quickly.\n\n**Conclusion.** A firm should choose the generic strategy that fits its competencies, then invest in continuous learning so the position can be renewed before rivals imitate it.",
+    "marking_scheme": [
+      {
+        "point": "Competitive advantage definition and two routes",
+        "marks": 1
+      },
+      {
+        "point": "2 x 2 matrix",
+        "marks": 1
+      },
+      {
+        "point": "Cost leadership and differentiation with conditions",
+        "marks": 2
+      },
+      {
+        "point": "Cost focus and focused differentiation with conditions",
+        "marks": 2
+      },
+      {
+        "point": "Strategic intent and the quote",
+        "marks": 2
+      },
+      {
+        "point": "Current issues and link to strategic intent",
+        "marks": 1
+      },
+      {
+        "point": "Conclusion",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "SL-3-05",
+    "node": "SL-3",
+    "unit": "International Marketing Unit 5",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "medium",
+    "question": "Explain the determinants of national competitive advantage. Illustrate with an industry of a nation of your choice.",
+    "model_answer": "**Introduction.** Global competition raises the question of why firms from certain nations repeatedly win in certain industries. The determinants form Porter's diamond (draw four boxes joined by arrows, with government at the side).\n\n1. **Factor conditions:** human, physical, knowledge, capital and infrastructure resources.\n2. **Demand conditions:** composition of home demand (how firms read buyer needs) and size and growth of home demand (scale and learning).\n3. **Related and supporting industries:** advantage from being home to internationally competitive supplier and related industries.\n4. **Firm strategy, structure and rivalry:** strong domestic rivalry drives improvement; its absence breeds complacency; management styles and capital-market attitudes matter.\n5. **Government:** influences the determinants as consumer, policy maker and commerce regulator.\n\n**Illustration (Indian IT services, qualitative):** a large English-speaking engineering workforce (human and knowledge factors), supporting telecom and training industries, hard domestic rivalry between large firms, and export-friendly policy. Home demand is the weakest corner because early demand came largely from overseas clients.\n\n**Conclusion.** Advantage is a system of linked determinants; a manager choosing a location should check all four, not just wage cost.",
+    "marking_scheme": [
+      {
+        "point": "Introduction linking to global competition",
+        "marks": 1
+      },
+      {
+        "point": "Factor conditions with five resources",
+        "marks": 2
+      },
+      {
+        "point": "Demand conditions",
+        "marks": 1.5
+      },
+      {
+        "point": "Related and supporting industries",
+        "marks": 1
+      },
+      {
+        "point": "Firm strategy, structure and rivalry",
+        "marks": 1.5
+      },
+      {
+        "point": "Role of government",
+        "marks": 0.5
+      },
+      {
+        "point": "Illustration applied to the determinants",
+        "marks": 2
+      },
+      {
+        "point": "Conclusion",
+        "marks": 0.5
+      }
+    ]
+  },
+  {
+    "id": "SL-4-06",
+    "node": "SL-4",
+    "unit": "International Marketing Unit 5",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "medium",
+    "question": "A consumer goods firm sells in 12 countries and has 10 key marketing decision areas. Head office wants 4 of them centrally controlled (brand identity, quality standards, code of ethics, core R&D) and the other 6 left to local managers. Discuss the autonomy versus integration issue, compute the central and local shares, and explain the leader's role in making the structure work.",
+    "model_answer": "**Introduction.** The goal of organising is to respond to environmental differences across markets; the key issue is balancing autonomy and integration.\n\n**Autonomy** lets subsidiaries adapt to local conditions (flavour, pack size, local promotion and price points). **Integration** lets the business implement global strategy (brand identity, quality, ethics, core R&D platform).\n\n**Computation.** Central share = 4 / 10 = **40%**; local share = 6 / 10 = **60%**.\n\n**Assessment.** A 40:60 split gives a firm central core and meaningful local freedom. Too much autonomy risks fragmentation and duplicated effort; too much integration ignores local differences and slows response. The split should be reviewed as markets mature.\n\n**Leader's role.** Leadership is influence and mastering change, not hierarchy. The leader must articulate the beliefs, values, policies and geographic scope that hold the 40% core together, empower local managers to decide on the 60%, and engage minds and hearts so subsidiaries accept integration willingly. A code of ethics supports this.\n\n**Decision line:** keep the central core of brand, quality and ethics, delegate adaptation, and let leadership values bind the two.",
+    "marking_scheme": [
+      {
+        "point": "Goal and key issue of organising",
+        "marks": 1
+      },
+      {
+        "point": "Autonomy and integration explained",
+        "marks": 3
+      },
+      {
+        "point": "Computation 40% and 60%",
+        "marks": 1.5
+      },
+      {
+        "point": "Risks of excess in either direction",
+        "marks": 1.5
+      },
+      {
+        "point": "Leader's role (values, empowerment, scope)",
+        "marks": 2
+      },
+      {
+        "point": "Decision line",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "SL-4-07",
+    "node": "SL-4",
+    "unit": "International Marketing Unit 5",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "medium",
+    "question": "Discuss corporate social responsibility and ethics as part of global leadership. How can a company demonstrate and embed its commitment?",
+    "model_answer": "**Introduction.** Leaders of global companies must practise CSR: the company's obligation to pursue goals and policies in society's best interests.\n\n**Demonstrating commitment**\n- Cause-marketing efforts.\n- A commitment to sustainability.\n- Ethical conduct: employees are guided by moral principles that separate right from wrong.\n\n**Embedding commitment**\n- A formal **code of ethics** summarising core ideologies, values and expectations; slide examples are GE's *The Spirit and the Letter* and Johnson & Johnson's *Our Credo*.\n- Leaders must **articulate beliefs, values and policies**, so ethics is part of leadership, not an add-on.\n- Consistency across subsidiaries: ethics and quality standards belong in the integrated core, with local autonomy on adaptation only.\n\n**Evaluation.** CSR protects reputation and supports long-term advantage, but a code that is not enforced across suppliers and subsidiaries is only words. Costs of ethical sourcing must be weighed against the larger risk of loss of trust.\n\n**Conclusion.** Ethics and CSR are core to global leadership: set the values, codify them and apply them everywhere the company operates.",
+    "marking_scheme": [
+      {
+        "point": "Definition of CSR",
+        "marks": 1.5
+      },
+      {
+        "point": "Ways to demonstrate: cause marketing, sustainability, ethical conduct",
+        "marks": 2
+      },
+      {
+        "point": "Code of ethics with GE and J&J",
+        "marks": 2
+      },
+      {
+        "point": "Link to leaders articulating values",
+        "marks": 1.5
+      },
+      {
+        "point": "Evaluation: enforcement across subsidiaries and cost against risk",
+        "marks": 2
+      },
+      {
+        "point": "Conclusion",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "SL-5-02",
+    "node": "SL-5",
+    "unit": "International Marketing Unit 5",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "hard",
+    "question": "A mid-sized firm wants to expand internationally. Using Unit 5 tools, show how (a) Porter's five forces, (b) generic strategies and (c) the national diamond together guide the decision on which industry segment to enter and where to base operations. Support with a short example.",
+    "model_answer": "**Introduction.** Unit 5 gives three linked lenses: industry (five forces), firm position (generic strategies) and location (national diamond).\n\n**Step 1: five forces.** Check threat of new entrants (barriers), substitutes, buyer power, supplier power and rivalry. Enter segments where forces are weaker, or where the firm can overcome the barriers.\n\n**Step 2: generic strategy.** Choose cost leadership, differentiation, cost focus or focused differentiation to match distinctive competencies to critical success factors. A cost leader needs scale and barriers; a differentiator needs buyers who value uniqueness. Build strategic intent so the advantage is renewed faster than rivals copy it.\n\n**Step 3: diamond for location.** Assess factor conditions, demand conditions, related and supporting industries and domestic rivalry in candidate countries, plus government as consumer, policy maker and regulator.\n\n**Example (fictional).** A maker of premium audio equipment finds an industry with strong buyers and rivalry (forces), so it takes **focused differentiation** for a narrow, high-end segment. It bases R&D in a country with deep engineering knowledge, supplier clusters and tough domestic rivals (diamond), not merely the cheapest labour.\n\n**Conclusion.** Forces tell where to compete, generic strategy tells how, and the diamond tells where to base operations; a decision uses all three.",
+    "marking_scheme": [
+      {
+        "point": "Introduction: three linked lenses",
+        "marks": 1
+      },
+      {
+        "point": "Five forces applied to entry choice",
+        "marks": 2
+      },
+      {
+        "point": "Generic strategy choice with conditions",
+        "marks": 2
+      },
+      {
+        "point": "Strategic intent as renewal",
+        "marks": 1
+      },
+      {
+        "point": "Diamond applied to location",
+        "marks": 2
+      },
+      {
+        "point": "Coherent example",
+        "marks": 1
+      },
+      {
+        "point": "Conclusion and decision logic",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "SL-1-07",
+    "node": "SL-1",
+    "unit": "International Marketing Unit 5",
+    "type": "case",
+    "marks": 15,
+    "difficulty": "hard",
+    "question": "**Case: Veloce Mobility (fictional, illustrative figures).** Veloce, an electric-scooter maker from another country, plans to enter Country K, whose market is 4,00,000 scooters a year. Two incumbents hold 65% of sales and own most dealerships. A new plant costs Rs 180 crore (treat as an annual fixed cost for this exercise). Price per scooter is Rs 1,20,000 and variable cost is Rs 84,000. Large fleet operators (food-delivery companies) buy 40% of volume and threaten to build their own assembly. Battery cells come from three global suppliers, with no alternative technology available. Petrol scooters and e-bikes are cheaper substitutes. Government offers a purchase subsidy to buyers of locally assembled scooters.\n\n(a) Compute Veloce's break-even volume and the market share it needs to break even, and comment on economies of scale as a barrier. (4)\n(b) Assess buyer power and supplier power. (4)\n(c) Assess substitutes and rivalry, and the effect of government policy on entry. (3)\n(d) Give an overall verdict on industry attractiveness, a recommended entry approach and a decision line. (4)",
+    "model_answer": "**(a)** Contribution per scooter = 1,20,000 - 84,000 = Rs 36,000. Break-even volume = Rs 180 crore / Rs 36,000 = 1,80,00,00,000 / 36,000 = **50,000 scooters**. Share needed = 50,000 / 4,00,000 = **12.5%**. This shows economies of scale and capital requirements as barriers: the entrant must win one eighth of the market just to break even, against incumbents with established dealerships (distribution channels) and lower per-unit cost at their volumes. The barrier is high but not prohibitive.\n\n**(b)** *Buyers:* fleet operators buy 40% of volume in bulk, are price-sensitive and can integrate backward (build assembly), so buyer power is **high**. *Suppliers:* only three battery-cell suppliers, a critical input, no substitutes, so supplier power is **high** and could squeeze the Rs 36,000 contribution.\n\n**(c)** *Substitutes:* petrol scooters and e-bikes are cheaper alternatives and cap the price, so the threat is **moderate to high**. *Rivalry:* two incumbents with 65% share and dealerships, so rivalry is **high**. *Government:* the subsidy for locally assembled scooters lowers the barrier for a local plant but also helps incumbents, so it is a net positive only if Veloce assembles locally.\n\n**(d)** Entry threat moderate, buyer power high, supplier power high, substitutes moderate to high, rivalry high: the industry is **moderately unattractive**. Recommended approach: do not build the full Rs 180 crore plant first; secure long-term contracts with one or two fleet operators (reducing buyer risk and delivering volume toward the 12.5%), negotiate a battery supply agreement, and consider local assembly to qualify for the subsidy, targeting a differentiated or niche segment.\n\n**Decision line:** enter only after locking in anchor fleet contracts covering close to 50,000 scooters a year; otherwise defer entry.",
+    "marking_scheme": [
+      {
+        "point": "Contribution and break-even computation (50,000)",
+        "marks": 2
+      },
+      {
+        "point": "Market share 12.5% and scale barrier interpretation",
+        "marks": 2
+      },
+      {
+        "point": "Buyer power with evidence",
+        "marks": 2
+      },
+      {
+        "point": "Supplier power with evidence",
+        "marks": 2
+      },
+      {
+        "point": "Substitutes and rivalry",
+        "marks": 2
+      },
+      {
+        "point": "Government policy effect on entry",
+        "marks": 1
+      },
+      {
+        "point": "Verdict across forces and recommended approach",
+        "marks": 2
+      },
+      {
+        "point": "Decision line with condition",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "SL-2-09",
+    "node": "SL-2",
+    "unit": "International Marketing Unit 5",
+    "type": "case",
+    "marks": 15,
+    "difficulty": "hard",
+    "question": "**Case: Zenora Textiles (fictional, illustrative figures).** Zenora can follow one of two strategies for export markets.\n\nOption 1: bulk uniform fabric for institutional buyers: price Rs 90 per metre, cost Rs 78 per metre, volume 50,00,000 metres. Several rivals have similar machines.\n\nOption 2: certified organic handloom fabric for boutique brands: price Rs 240 per metre, cost Rs 168 per metre, volume 6,00,000 metres. Only a few artisan clusters can produce it.\n\n(a) Name each option's generic strategy in the 2 x 2 and state the condition for it to work. (4)\n(b) Compute unit profit, margin on price and total profit for each option. (4)\n(c) A rival forces the Option 1 price down by Rs 4.50 per metre with cost unchanged. Recompute Option 1's total profit and compare. (3)\n(d) Recommend an option and explain the role of strategic intent. State a decision line. (4)",
+    "model_answer": "**(a)** Option 1 is **cost leadership** (broad market, low price): works only if barriers stop rivals from matching its cost, and it needs the most efficient facilities and largest share. Option 2 is **focused differentiation** (narrow market, premium price): works if the firm understands boutique buyers' wants and the uniqueness (organic certification, handloom craft) cannot be copied easily.\n\n**(b)**\n\n| Item | Option 1 | Option 2 |\n|---|---|---|\n| Unit profit | 90 - 78 = Rs 12 | 240 - 168 = Rs 72 |\n| Margin on price | 12 / 90 = 13.3% | 72 / 240 = 30.0% |\n| Total profit | 12 x 50,00,000 = Rs 6.00 crore | 72 x 6,00,000 = Rs 4.32 crore |\n\n**(c)** New price Rs 85.50, unit profit Rs 7.50, total = 7.50 x 50,00,000 = **Rs 3.75 crore**, a fall of 37.5% in profit from a 5% price cut. This is now below Option 2's Rs 4.32 crore. A thin 13.3% margin means small price moves swing profit; the cost leader is exposed because several rivals have similar machines (weak barriers).\n\n**(d)** Option 1 earns more today (Rs 6.00 crore) but its advantage is fragile. Option 2 has a thicker margin (30.0%), fewer imitators and a protected segment, though its volume is small. **Recommend Option 2 as the core**, keeping Option 1 only if the firm can build scale barriers. Strategic intent (Hamel and Prahalad) says to create tomorrow's advantage faster than rivals copy today's: invest in certification, designs and artisan relationships, and learn from boutique buyers to renew the offering.\n\n**Decision line:** choose focused differentiation because Option 1 falls below Option 2 on profit after a Rs 4.50 price cut and lacks barriers, while Option 2's advantage can be renewed through learning.",
+    "marking_scheme": [
+      {
+        "point": "Strategy names with 2 x 2 reasoning",
+        "marks": 2
+      },
+      {
+        "point": "Conditions for each strategy",
+        "marks": 2
+      },
+      {
+        "point": "Unit profit, margin and total profit for both",
+        "marks": 4
+      },
+      {
+        "point": "Sensitivity computation Rs 3.75 crore and comparison",
+        "marks": 3
+      },
+      {
+        "point": "Recommendation using margin, barriers and risk",
+        "marks": 1.5
+      },
+      {
+        "point": "Strategic intent applied",
+        "marks": 1
+      },
+      {
+        "point": "Decision line",
+        "marks": 1.5
+      }
+    ]
+  },
+  {
+    "id": "SL-4-08",
+    "node": "SL-4",
+    "unit": "International Marketing Unit 5",
+    "type": "case",
+    "marks": 15,
+    "difficulty": "hard",
+    "question": "**Case: Nordhaven Foods (fictional, illustrative figures).** Nordhaven sells packaged foods in 15 countries and has 12 key marketing decision areas. Head office centrally controls 5 (brand identity, quality standards, code of ethics, core R&D platform, procurement standards); 7 are left to local managers. In Country M, an audit finds that a local supplier uses child labour. The local managing director wants to keep the supplier because an alternative compliant supplier charges 8% more on the Rs 250 crore annual input spend. Country M sales are Rs 2,000 crore; management estimates a boycott could cut sales by 3%.\n\n(a) Compute the central and local shares of decision areas, and explain whether the autonomy and integration balance is appropriate. (4)\n(b) Compute the extra annual cost of switching supplier and the estimated sales loss from a boycott, and compare. (3)\n(c) Evaluate the situation as a CSR and code of ethics issue. (4)\n(d) What should leadership do? Give a decision line and the wider implications for the organisation. (4)",
+    "model_answer": "**(a)** Central share = 5 / 12 = **41.7%**; local share = 7 / 12 = **58.3%**. The balance is sensible: the central core (brand, quality, ethics, R&D, procurement standards) protects global strategy, while 7 areas stay local for adaptation. The audit failure shows, however, that procurement standards were not enforced in Country M: integration exists on paper but not in practice.\n\n**(b)** Extra cost = 8% x Rs 250 crore = **Rs 20 crore** a year. Boycott loss = 3% x Rs 2,000 crore = **Rs 60 crore** of sales a year (a revenue figure, so the profit impact is smaller, but brand damage may spread beyond Country M). The cost of compliance is one third of the revenue at risk.\n\n**(c)** CSR is the obligation to pursue goals and policies in society's best interests; ethical conduct means moral principles guide right and wrong. Keeping a child-labour supplier breaches this and Nordhaven's own code of ethics (which sets core values and expectations). Keeping it for a Rs 20 crore saving is a short-term cost decision that conflicts with the company's articulated values.\n\n**(d)** Leadership should **suspend or end the supplier relationship, switch to the compliant source and absorb the Rs 20 crore**, while working with the supplier on remediation if feasible. Decision line: ethics is a non-negotiable part of the integrated core; Rs 20 crore is cheaper than Rs 60 crore of revenue risk plus reputational damage. **Implications:** audit procurement in all 15 countries; move supplier compliance out of local autonomy into central control; leaders must articulate and visibly enforce the values (influence and mastering change), and local managers should be rewarded for ethical performance as well as cost.",
+    "marking_scheme": [
+      {
+        "point": "Central and local shares 41.7% and 58.3%",
+        "marks": 1.5
+      },
+      {
+        "point": "Assessment of autonomy-integration balance and enforcement gap",
+        "marks": 2.5
+      },
+      {
+        "point": "Extra cost Rs 20 crore",
+        "marks": 1
+      },
+      {
+        "point": "Boycott loss Rs 60 crore and comparison",
+        "marks": 2
+      },
+      {
+        "point": "CSR and code of ethics evaluation",
+        "marks": 4
+      },
+      {
+        "point": "Leadership decision line",
+        "marks": 1.5
+      },
+      {
+        "point": "Organisational implications",
+        "marks": 2.5
+      }
+    ]
+  },
+  {
+    "id": "SL-5-03",
+    "node": "SL-5",
+    "unit": "International Marketing Unit 5",
+    "type": "case",
+    "marks": 15,
+    "difficulty": "hard",
+    "question": "**Case: Tessera Devices (fictional, illustrative figures).** Tessera makes premium smart-home sensors and must choose a regional hub: Country Alpha or Country Beta. Planned output is 2,00,000 units a year at a base unit cost of Rs 400 in Alpha, of which labour is 25%.\n\nAlpha: large pool of engineers, strong cluster of component makers, sophisticated home buyers, six competing domestic firms.\nBeta: wages 30% lower than Alpha, few component suppliers (components imported at an extra Rs 45 per unit), one protected dominant firm, small and basic home demand.\n\nIn the global sensors industry, buyers (large electronics chains) are powerful and rivals are fast-moving; Tessera competes on product uniqueness.\n\n(a) Appraise Alpha and Beta using the four determinants of national advantage. (5)\n(b) Compute the unit cost and total annual cost difference of choosing Beta rather than Alpha. (3)\n(c) Identify Tessera's generic strategy and explain how the location choice supports it, with reference to the five forces. (3)\n(d) Recommend a hub and give a decision line, including the role of strategic intent. (4)",
+    "model_answer": "**(a)**\n\n| Determinant | Alpha | Beta |\n|---|---|---|\n| Factor conditions | Deep human and knowledge resources (engineers) | Cheaper labour but thin knowledge base |\n| Demand conditions | Sophisticated home buyers push quality and learning | Small, basic demand gives little learning |\n| Related and supporting industries | Strong component cluster | Few suppliers, imports needed |\n| Firm strategy, structure, rivalry | Six domestic rivals force improvement | One protected dominant firm: risk of complacency |\n\nAlpha is stronger on all four; Beta wins only on wage cost.\n\n**(b)** Labour in Alpha = 25% x Rs 400 = Rs 100. In Beta, labour = 70% x Rs 100 = Rs 70, a saving of Rs 30. Extra component cost = Rs 45. Net effect = 45 - 30 = Rs 15 *higher* per unit in Beta, so Beta unit cost = Rs 415 against Rs 400 in Alpha. Annual difference = 15 x 2,00,000 = **Rs 30,00,000** higher in Beta.\n\n**(c)** Tessera follows **product differentiation** (premium, unique sensors in a broad market). The five forces show strong buyer power and fast rivalry, so uniqueness is its protection. Alpha's engineers, suppliers, demanding buyers and rivalry help sustain uniqueness; Beta's weak ecosystem would erode it. Imitation risk is high in fast-moving technology.\n\n**(d)** **Recommend Alpha.** Beta is cheaper on wages but dearer overall (Rs 30 lakh a year more) and weaker on every determinant of advantage. Strategic intent says to build tomorrow's advantage faster than rivals copy today's; Alpha's engineers, buyers and rivals feed learning, a more defensible advantage than a labour saving.\n\n**Decision line:** choose Alpha as the hub; revisit Beta only for low-end assembly if supplier clusters and local demand develop.",
+    "marking_scheme": [
+      {
+        "point": "Factor conditions appraisal",
+        "marks": 1.25
+      },
+      {
+        "point": "Demand conditions appraisal",
+        "marks": 1.25
+      },
+      {
+        "point": "Related and supporting industries appraisal",
+        "marks": 1.25
+      },
+      {
+        "point": "Firm strategy and rivalry appraisal",
+        "marks": 1.25
+      },
+      {
+        "point": "Unit cost comparison (Rs 30 saving, Rs 45 extra, net Rs 15)",
+        "marks": 1.5
+      },
+      {
+        "point": "Total difference Rs 30,00,000",
+        "marks": 1.5
+      },
+      {
+        "point": "Generic strategy identified (differentiation)",
+        "marks": 1
+      },
+      {
+        "point": "Location supports strategy, link to five forces",
+        "marks": 2
+      },
+      {
+        "point": "Recommendation and decision line",
+        "marks": 3
+      },
+      {
+        "point": "Strategic intent applied",
+        "marks": 1
+      }
+    ]
+  }
+]
