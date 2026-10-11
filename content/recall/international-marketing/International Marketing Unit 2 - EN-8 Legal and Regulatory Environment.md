@@ -58,7 +58,7 @@ Covers: international law and the ICJ, jurisdiction, the four intellectual prope
 - Requires publicly held companies to keep **internal accounting controls that record all transactions**.
 - Makes it a **crime for a US corporation to bribe an official of a foreign government or political party** to obtain or retain business.
 - **Prohibits payments to third parties** when there is reason to believe they may be passed to foreign officials.
-- **(general)** The US Act reaches US firms and their agents abroad. India's counterpart is the Prevention of Corruption Act, 1988 (amended 2018), and the UK has the Bribery Act 2010. **[VERIFY]** details before quoting in an answer beyond naming them.
+- **(general)** The US Act reaches US firms and their agents abroad. India has no direct FCPA equivalent for bribing foreign officials. The nearest domestic law, which covers Indian public servants, is the Prevention of Corruption Act, 1988 (amended 2018). An Indian firm's controls are its compliance policy, host-country law, and any US or UK nexus (FCPA, UK Bribery Act 2010). **[VERIFY]** details before quoting in an answer beyond naming them.
 
 ## The regulatory environment (class)
 - **Agencies, governmental and non-governmental, that enforce laws or set guidelines** for doing business.

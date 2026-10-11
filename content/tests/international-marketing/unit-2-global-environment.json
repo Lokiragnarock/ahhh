@@ -43,12 +43,29 @@
     "question": "Per the faculty slide, which set of countries is given as examples of market socialism?",
     "options": [
       "A) Sweden and the former USSR",
-      "B) China, Denmark, Finland and the Netherlands",
+      "B) India and Sweden",
       "C) North America and the European Union",
-      "D) India and Sweden"
+      "D) China, Denmark, Finland and the Netherlands"
     ],
-    "answer": "B",
+    "answer": "D",
     "explanation": "The slide lists China, Denmark, Finland and the Netherlands under market socialism, and this is the marked answer (some textbooks call the last three welfare-state market economies, but follow the slide). Sweden and the USSR is tempting because Sweden is the slide's example of a hybrid, but it is the example for centrally planned capitalism, while North America and the EU illustrate market capitalism."
+  },
+  {
+    "id": "EN-2-04",
+    "node": "EN-2",
+    "unit": "International Marketing Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Per the faculty slide, which of the following is NOT one of the variables used to rank a country's economic freedom?",
+    "options": [
+      "A) Property rights",
+      "B) Banking policy",
+      "C) Wage and price controls",
+      "D) Literacy rate"
+    ],
+    "answer": "D",
+    "explanation": "The slide's variables are trade policy, taxation policy, capital flows and foreign investment, banking policy, wage and price controls, property rights and black market activity. Literacy rate is a development indicator used to describe income groups, not an economic freedom variable. Wage and price controls is the tempting option because it sounds like a labour measure, but it is on the list because it shows how far the state sets prices."
   },
   {
     "id": "EN-3-01",
@@ -68,6 +85,23 @@
     "explanation": "The lower-middle band on the slide is $1,046 to $4,125, and $4,100 sits inside it. Upper-middle-income is the tempting wrong option because $4,100 looks close to the $4,126 cut-off, but it is $26 below it. Low-income stops at $1,045."
   },
   {
+    "id": "EN-3-05",
+    "node": "EN-3",
+    "unit": "International Marketing Unit 2",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "Per the faculty slide on the G-8 (goal: global economic stability and prosperity), which of the following countries is a member?",
+    "options": [
+      "A) India",
+      "B) China",
+      "C) Brazil",
+      "D) Italy"
+    ],
+    "answer": "D",
+    "explanation": "The slide lists the G-8 as the US, Japan, Germany, France, Britain, Canada, Italy and Russia (joined 1998). India, China and Brazil are tempting because they appear on the same slides as members of the BRICS (Brazil, Russia, India, China, South Africa), but they are not G-8 members. Russia sits in both lists."
+  },
+  {
     "id": "EN-4-01",
     "node": "EN-4",
     "unit": "International Marketing Unit 2",
@@ -77,11 +111,11 @@
     "question": "A marketing manager from Country H rejects a proposed sales-incentive scheme for Country J because 'nobody would value such a scheme', judging it by H's own norms without checking J's. This is a failure to control the:",
     "options": [
       "A) Environmental sensitivity of the product",
-      "B) Self-reference criterion",
+      "B) Political risk of the market",
       "C) Diffusion rate of the innovation",
-      "D) Political risk of the market"
+      "D) Self-reference criterion"
     ],
-    "answer": "B",
+    "answer": "D",
     "explanation": "The self-reference criterion is the unconscious reference to one's own cultural values when perceiving a market. Environmental sensitivity is the tempting wrong option because the case is about culture, but that term describes how far a product must be adapted to a culture, not a bias in the manager's perception."
   },
   {
@@ -91,7 +125,7 @@
     "type": "mcq",
     "marks": 1,
     "difficulty": "easy",
-    "question": "A firm plans all-white packaging for a funeral-service product line in several Asian markets and for a skin-care line in the West. Per the faculty slide on aesthetics and colour, which statement is correct?",
+    "question": "A firm plans all-white packaging for markets in the West and in several Asian countries. Per the faculty slide on aesthetics and colour, which statement is correct?",
     "options": [
       "A) White signals purity in the West but is linked to death in parts of Asia",
       "B) White signals death everywhere",
@@ -159,7 +193,7 @@
     "type": "mcq",
     "marks": 1,
     "difficulty": "medium",
-    "question": "Without permission, an operator copies and sells a publisher's textbook in a foreign market. This is best described as:",
+    "question": "Without permission, an operator copies and sells a publisher's textbook in a foreign market. Per the slide definitions, this is best described as:",
     "options": [
       "A) Counterfeiting",
       "B) Associative counterfeit",
@@ -240,7 +274,7 @@
         "marks": 1
       },
       {
-        "point": "Four stages with correct slide bands",
+        "point": "Four stages with correct slide bands (accept $12,746 as well as $12,476 for the high-income floor)",
         "marks": 2
       },
       {
@@ -289,7 +323,7 @@
     "marks": 5,
     "difficulty": "medium",
     "question": "Define the self-reference criterion (SRC). List the tasks of the global marketer with respect to culture and show how SRC can distort a marketing decision.",
-    "model_answer": "**SRC** is the unconscious reference to one's own cultural values, which may influence the marketer's perception of a foreign market.\n\n**Tasks of the global marketer (slide).**\n1. Study and understand the cultures of the countries where business is done.\n2. Understand how SRC may colour perception.\n3. Build this understanding into the marketing planning process.\n\n**Illustration.** A manager who assumes the home habit of eating bread at breakfast also holds abroad will mis-size demand for a sandwich product in a market where bread is not a normal food. The correction is to define the problem first in home cultural terms, then in host terms, remove the home influence, and plan on the host view.",
+    "model_answer": "**SRC** is the unconscious reference to one's own cultural values, which may influence the marketer's perception of a foreign market.\n\n**Tasks of the global marketer (slide).**\n1. Study and understand the cultures of the countries where business is done.\n2. Understand how SRC may colour perception.\n3. Build this understanding into the marketing planning process.\n\n**Illustration.** A manager who assumes the home habit of eating bread at breakfast also holds abroad will mis-size demand for a sandwich product in a market where bread is not a normal food. **Correction (general, Cateora's steps).** Define the problem in home cultural terms, then in host terms, isolate the home influence, and redefine the problem without it.",
     "marking_scheme": [
       {
         "point": "Definition of SRC",
@@ -297,15 +331,15 @@
       },
       {
         "point": "Three tasks of the global marketer",
-        "marks": 1
+        "marks": 2
       },
       {
         "point": "Example of distortion",
         "marks": 1
       },
       {
-        "point": "Correction by separating home and host views",
-        "marks": 2
+        "point": "Cateora correction step (general): separate home and host views",
+        "marks": 1
       }
     ]
   },
@@ -568,7 +602,7 @@
         "marks": 2
       },
       {
-        "point": "Four stages with correct slide bands",
+        "point": "Four stages with correct slide bands (accept $12,746 as well as $12,476 for the high-income floor)",
         "marks": 2
       },
       {
@@ -780,8 +814,8 @@
     "type": "case",
     "marks": 15,
     "difficulty": "hard",
-    "question": "**Sunvale Foods** (fictional) plans to launch a ready-to-cook millet breakfast mix in **Casperia**, a market with 30,00,000 target households (all data illustrative). Market research gives these 1 to 5 scores for how Casperian consumers see the product: relative advantage 4, compatibility 2, complexity 4 (5 = very easy to use), divisibility 2, communicability 3. Households traditionally eat rice-based breakfasts at home; bread-based breakfasts are rare. The product is sold in a 1 kg pack at a price equal to two days of an average household's food budget. Local women's groups and neighbourhood shops are the main sources of information on food products. Sunvale's Casperia manager, Neha, wants to use the same advertising as at home.\n\n(a) Explain the adoption process and the sources of information Sunvale should use at each stage. (3 marks)\n\n(b) Evaluate the product on the five characteristics of innovations using the scores, compute the average score and identify the two weakest factors. (3 marks)\n\n(c) Using the class adopter shares, compute the number of households in each category and say whom Sunvale must win first. (3 marks)\n\n(d) Assess the cultural and self-reference issues and the environmental sensitivity of the product. (3 marks)\n\n(e) Recommend a launch plan and give your decision, with interpretation. (3 marks)",
-    "model_answer": "**(a) Adoption process.** Awareness, interest, evaluation, trial, adoption. Awareness: impersonal sources, mass-media and radio. Evaluation, trial and adoption: personal sources dominate, so women's groups, shop-owner recommendations and in-store tasting are the major pervasive forces.\n\n**(b) Characteristics.** Scores: relative advantage 4, compatibility 2, complexity 4, divisibility 2, communicability 3. Total = 15, average = 15 / 5 = **3.0**. Weakest: **compatibility (2)**, because rice-based breakfasts are the habit, and **divisibility (2)**, because a 1 kg pack at two days of budget is too large. The rate of adoption will be slow unless these two are fixed.\n\n**(c) Adopter categories (30,00,000 households).**\n| Category | Share | Households |\n|---|---|---|\n| Innovators | 2.5% | 75,000 |\n| Early adopters | 13.5% | 4,05,000 |\n| Early majority | 34% | 10,20,000 |\n| Late majority | 34% | 10,20,000 |\n| Laggards | 16% | 4,80,000 |\n\nTotal = 30,00,000. Win innovators and early adopters first: 16% = **4,80,000** households, who lead the 10,20,000 early majority.\n\n**(d) Culture.** Food is the most culturally sensitive category, so high adaptation. The SRC risk: Neha assumes breakfast habits and advertising that work at home will work in Casperia. Home advertising may carry bread-based or unfamiliar cues, so check it against local attitudes, beliefs and values, and adapt the message to rice-based breakfasts (for example a millet idli or porridge style).\n\n**(e) Launch plan and decision.** Redesign the pack into small sachets or 100 g packs (divisibility), position the mix as a quick rice-breakfast substitute (compatibility), sample through women's groups and shops (communicability), and use local-language advertising. Decision: **launch in a pilot region, not nationally**, and scale only when the early adopters respond. Interpretation: the product has a clear advantage and is easy to use, but fit and size would limit the rate of diffusion, so the plan changes the product and pack, not just the promotion.",
+    "question": "**Sunvale Foods** (fictional) plans to launch a ready-to-cook millet breakfast mix in **Casperia**, a market with 30,00,000 target households (all data illustrative). Market research gives these 1 to 5 scores for how Casperian consumers see the product: relative advantage 4, compatibility 2, complexity 4 (5 = very easy to use), divisibility 2, communicability 3. Households traditionally eat rice-based breakfasts at home; bread-based breakfasts are rare. The product is sold in a 1 kg pack at a price equal to two days of an average household's food budget. Local women's groups and neighbourhood shops are the main sources of information on food products. Sunvale's Casperia manager, Neha, wants to use the same advertising as at home. Sunvale's home advertising shows bread-based breakfasts (illustrative).\n\n(a) Explain the adoption process and the sources of information Sunvale should use at each stage. (3 marks)\n\n(b) Evaluate the product on the five characteristics of innovations using the scores, compute the average score and identify the two weakest factors. (3 marks)\n\n(c) Using the class adopter shares, compute the number of households in each category and say whom Sunvale must win first. (3 marks)\n\n(d) Assess the cultural and self-reference issues and the environmental sensitivity of the product. (3 marks)\n\n(e) Recommend a launch plan and give your decision, with interpretation. (3 marks)",
+    "model_answer": "**(a) Adoption process.** Awareness, interest, evaluation, trial, adoption. Awareness: impersonal sources, mass-media and radio. Evaluation, trial and adoption: personal sources dominate, so women's groups, shop-owner recommendations and in-store tasting are the major pervasive forces.\n\n**(b) Characteristics.** Scores: relative advantage 4, compatibility 2, complexity 4, divisibility 2, communicability 3. Total = 15, average = 15 / 5 = **3.0**. Weakest: **compatibility (2)**, because rice-based breakfasts are the habit, and **divisibility (2)**, because a 1 kg pack at two days of budget is too large. The rate of adoption will be slow unless these two are fixed.\n\n**(c) Adopter categories (30,00,000 households).**\n| Category | Share | Households |\n|---|---|---|\n| Innovators | 2.5% | 75,000 |\n| Early adopters | 13.5% | 4,05,000 |\n| Early majority | 34% | 10,20,000 |\n| Late majority | 34% | 10,20,000 |\n| Laggards | 16% | 4,80,000 |\n\nTotal = 30,00,000. Win innovators and early adopters first: 16% = **4,80,000** households, who lead the 10,20,000 early majority.\n\n**(d) Culture.** Food is the most culturally sensitive category, so high adaptation. The SRC risk: Neha assumes breakfast habits and advertising that work at home will work in Casperia. Sunvale's home advertising shows bread-based breakfasts, a cue that does not fit a rice-breakfast market, so check it against local attitudes, beliefs and values, and adapt the message to rice-based breakfasts (for example a millet idli or porridge style).\n\n**(e) Launch plan and decision.** Redesign the pack into small sachets or 100 g packs (divisibility), position the mix as a quick rice-breakfast substitute (compatibility), sample through women's groups and shops (communicability), and use local-language advertising. Decision: **launch in a pilot region, not nationally**, and scale only when the early adopters respond. Interpretation: the product has a clear advantage and is easy to use, but fit and size would limit the rate of diffusion, so the plan changes the product and pack, not just the promotion.",
     "marking_scheme": [
       {
         "point": "(a) Five stages in order",
@@ -832,8 +866,8 @@
     "type": "case",
     "marks": 15,
     "difficulty": "hard",
-    "question": "**Meridian Learning Pvt Ltd** (fictional) is an Indian ed-tech firm with a patented adaptive-testing method and a registered brand, **BrightPath**. It wants to enter **Vandora**, a lower-middle-income country (GNI per capita $2,400). Facts (all illustrative):\n\n- Last year Vandora took over the whole private-education sector, paying owners nothing. The government says it was in the public interest.\n- Street vendors already sell photocopied copies of Indian textbooks; a firm sells software under the name 'BrightPaths'.\n- A local agent, Mr Dev, offers to 'smooth the licence process' by paying a fee to a ministry official, to be included in his commission.\n- Meridian is deciding between setting up a subsidiary and licensing its method and brand to a local company in return for royalties.\n- Vandora's rules limit advertising of educational claims and regulate pricing of school materials.\n\n(a) Classify the seizure event in Vandora and evaluate the political risk, giving causes and the likely effect on entry mode. (4 marks)\n\n(b) Identify the infringement types in the facts and advise on the protection of Meridian's patent, trademark and trade secrets. (4 marks)\n\n(c) Advise on Mr Dev's proposal in the light of the FCPA and on the regulatory areas to check. (3 marks)\n\n(d) Recommend an entry mode and give the decision with an interpretation. (4 marks)",
-    "model_answer": "**(a) Seizure and risk.** The government took over the **entire private-education sector** with no payment. Nationalisation of an industry is acceptable only if it satisfies a public purpose **and** includes compensation; here compensation is absent, so for foreign investors this is **confiscation**, even if the public-interest claim is made. Political risk is **high**: a lower-middle-income country, with aspiration-reality tension, the less developed the greater the risk, and economic uncertainty. High risk lowers the appetite for FDI, so Meridian should avoid sinking capital in a subsidiary and prefer a low-capital mode.\n\n**(b) IP.** Photocopied textbooks are **piracy** (unauthorised reproduction of a copyrighted work). 'BrightPaths' is an **associative counterfeit** (a name differing slightly from a well-known brand). Protection: IP is registered country by country, so register the patent, the trademark BrightPath and the copyright in Vandora **before** entry; protect trade secrets (the algorithm, test banks) through confidentiality contracts and by not handing over the full method; license only defined assets with a clear royalty price and rights granted.\n\n**(c) FCPA and regulation.** The FCPA makes it a crime for a US corporation to bribe a foreign official and prohibits payments to third parties when the money may reach officials. Meridian is an Indian firm, so the US Act does not apply to it directly **(general)**, but Indian law and the firm's own compliance policy do prohibit bribery, and a US partner or financier would be caught. Decline Mr Dev's proposal, record all transactions and run agent due diligence. Check regulation of advertising content, pricing of school materials, labelling and employment conditions.\n\n**(d) Decision.** Recommend **licensing** (or a small, staged joint venture) over a subsidiary: royalty income with minimal capital at risk after the confiscation, with protected trade secrets, registered IP and an exit clause. Interpretation: the market is attractive, but the political and legal environment decides the mode: the economic opportunity is taken through a light-capital entry. Revisit a subsidiary if compensation law and IP enforcement improve.",
+    "question": "**Meridian Learning Pvt Ltd** (fictional) is an Indian ed-tech firm with a patented adaptive-testing method and a registered brand, **BrightPath**. It wants to enter **Vandora**, a lower-middle-income country (GNI per capita $2,400). Facts (all illustrative):\n\n- Last year Vandora took over the whole private-education sector, paying owners nothing. The government says it was in the public interest.\n- Street vendors already sell photocopied copies of Indian textbooks; a firm sells software under the name 'BrightPaths'.\n- A local agent, Mr Dev, offers to 'smooth the licence process' by paying a fee to a ministry official, to be included in his commission.\n- Meridian is deciding between setting up a subsidiary and licensing its method and brand to a local company in return for royalties.\n- Vandora's rules limit advertising of educational claims and regulate pricing of school materials.\n\n(a) Classify the seizure event in Vandora and evaluate the political risk, giving causes and the likely effect on entry mode. (4 marks)\n\n(b) Identify the infringement types in the facts and advise on the protection of Meridian's patent, trademark and trade secrets. (4 marks)\n\n(c) Advise on Mr Dev's proposal in the light of the FCPA, Indian law and the firm's own controls, and on the regulatory areas to check. (3 marks)\n\n(d) Recommend an entry mode and give the decision with an interpretation. (4 marks)",
+    "model_answer": "**(a) Seizure and risk.** The government took over the **entire private-education sector** with no payment. Nationalisation of an industry is acceptable only if it satisfies a public purpose **and** includes compensation; here compensation is absent, so for foreign investors this is **confiscation**, even if the public-interest claim is made. Political risk is **high**: a lower-middle-income country, with aspiration-reality tension, the less developed the greater the risk, and economic uncertainty. High risk lowers the appetite for FDI, so Meridian should avoid sinking capital in a subsidiary and prefer a low-capital mode.\n\n**(b) IP.** Photocopied textbooks are **piracy** (unauthorised reproduction of a copyrighted work; piracy of third-party works; it signals weak enforcement for Meridian's copyright). 'BrightPaths' is an **associative counterfeit** (a name differing slightly from a well-known brand). Protection: IP is registered country by country, so register the patent, the trademark BrightPath and the copyright in Vandora **before** entry; protect trade secrets (the algorithm, test banks) through confidentiality contracts and by not handing over the full method; license only defined assets with a clear royalty price and rights granted.\n\n**(c) Bribery and regulation.** The FCPA makes it a crime for a US corporation to bribe a foreign official and prohibits payments to third parties when the money may reach officials. Meridian is an Indian firm, so the US Act does not apply to it directly **(general)**. India has no direct FCPA equivalent for bribing foreign officials (the Prevention of Corruption Act 1988, amended 2018, covers Indian public servants), so the controls are Meridian's own compliance policy, Vandora's host-country law, and any US/UK nexus (FCPA, UK Bribery Act 2010, for example through a US partner or financier) **[VERIFY]**. Decline Mr Dev's proposal, record all transactions and run agent due diligence. Check regulation of advertising content, pricing of school materials, labelling and employment conditions.\n\n**(d) Decision.** Recommend **licensing** (or a small, staged joint venture) over a subsidiary: royalty income with minimal capital at risk after the confiscation, with protected trade secrets, registered IP and an exit clause. Interpretation: the market is attractive, but the political and legal environment decides the mode: the economic opportunity is taken through a light-capital entry. Revisit a subsidiary if compensation law and IP enforcement improve.",
     "marking_scheme": [
       {
         "point": "(a) Seizure classified as confiscation with reasoning",
@@ -852,7 +886,7 @@
         "marks": 2
       },
       {
-        "point": "(c) FCPA bribery and third-party rule applied",
+        "point": "(c) Declines the proposal; FCPA third-party rule; India has no direct equivalent, so controls are compliance policy, host law and any US/UK nexus",
         "marks": 2
       },
       {

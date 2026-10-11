@@ -26,14 +26,16 @@ Covers: the World Bank income groups with the slide's GNI bands, characteristics
 ## The four groups (class, slide figures)
 | Group | GNI per capita (slide) | Characteristics on the slide | Examples on the slide |
 |---|---|---|---|
-| **Low income** | $1,045 or less | Limited industrialisation; high share of population in farming; high birth rates; low literacy; heavy reliance on foreign aid; political instability; concentrated in Sub-Saharan Africa | Uzbekistan, Turkmenistan |
-| **Lower-middle income** | $1,046 to $4,125 | Rapidly expanding consumer markets; cheap labour; mature, standardised, labour-intensive industries (footwear, textiles, toys) | India, China (the BRIC pair) |
+| **Low income** | $1,045 or less | Limited industrialisation; high share of population in farming; high birth rates; low literacy; heavy reliance on foreign aid; political instability; concentrated in Sub-Saharan Africa | Uzbekistan, Turkmenistan (slide, dated) |
+| **Lower-middle income** | $1,046 to $4,125 | Rapidly expanding consumer markets; cheap labour; mature, standardised, labour-intensive industries (footwear, textiles, toys) | India, China (the BRIC pair) (slide, dated) |
 | **Upper-middle income** | $4,126 to $12,745 | Rapid industrialisation, less farm employment; urbanisation; rising wages; high literacy and advanced education; lower wage costs than advanced countries; also called **newly industrialising economies (NIEs)** | Brazil, Russia, Malaysia, Chile, Venezuela, Hungary, Mexico |
-| **High income** | $12,476 or more | See below | US, Japan, Germany etc. (advanced, developed, industrialised, postindustrial) |
+| **High income** | $12,476 or more (slide; a transposition of $12,746, the World Bank figure for the year these bands come from) | See below | US, Japan, Germany etc. (advanced, developed, industrialised, postindustrial) |
 
-**Slide errors to know.** (1) The slide's top-of-band for upper-middle ($12,745) and bottom of high income ($12,476) overlap between $12,476 and $12,745. (2) The low-income slide says "GNP per capita" while the heading says GNI. (3) The World Bank resets these cut-offs every year, and the slide mixes figures from different years. In the exam write the slide numbers, add "World Bank thresholds are revised annually" and mark them **[VERIFY]** against the latest release. Country groupings on the slide (Russia, Venezuela, India's grouping) also change by year **[VERIFY]**.
+**Slide errors to know.** (1) The slide's top-of-band for upper-middle ($12,745) and bottom of high income ($12,476 or more (slide; a transposition of $12,746, the World Bank figure for the year these bands come from)) overlap between $12,476 and $12,745; the true high-income floor is $12,746, so the overlap is a typo and not a real band. (2) The low-income slide says "GNP per capita" while the heading says GNI. (3) The World Bank resets these cut-offs every year, and the slide mixes figures from different years. In the exam write the slide numbers, add "World Bank thresholds are revised annually" and mark them **[VERIFY]** against the latest release. Country groupings on the slide (Russia, Venezuela, India's grouping) also change by year **[VERIFY]**.
 
 Slide saying: "if you are not manufactured in China or selling in India, you are as good as finished".
+
+Slide examples are dated; the World Bank currently places Uzbekistan in lower-middle and Turkmenistan and China in upper-middle. Quote the slide examples but do not defend them as current.
 
 ## LDC marketing opportunities (class)
 - LDCs are characterised by a **shortage of goods and services**.
@@ -49,7 +51,7 @@ Slide saying: "if you are not manufactured in China or selling in India, you are
 **(general)** The BOP idea is C. K. Prahalad's; the logic is that large numbers of low-income buyers, small unit packs and low margins with high volume can make money. Do not attach figures unless given.
 
 ## High-income countries (class)
-- GNI per capita $12,476 or more; also advanced, developed, industrialised or postindustrial.
+- GNI per capita $12,476 or more (slide; a transposition of $12,746, the World Bank figure for the year these bands come from); also advanced, developed, industrialised or postindustrial.
 - Sustained growth through disciplined innovation; **service sector above 70% of GNI**; households own most basic products.
 - Information processing and exchange matter; **knowledge over capital, intellectual over machine technology, scientists and professionals over engineers and semi-skilled workers**; future-oriented; importance of interpersonal relationships.
 
@@ -77,7 +79,7 @@ The stages guide marketers in judging **product saturation levels**, that is, th
 4. Decision line: Altoria is the best first target because it has real purchasing power and 60% unserved households; Cendra second as a follow-on; Dolmar only for premium models because basics are saturated. Interpretation: the income stage plus saturation tells the firm which product version and how much volume to plan, before any entry mode is chosen.
 
 ## What to remember
-- Four World Bank groups on GNI per capita; slide cut-offs 1,045; 1,046-4,125; 4,126-12,745; 12,476+ (note the overlap).
+- Four World Bank groups on GNI per capita; slide cut-offs 1,045; 1,046-4,125; 4,126-12,745; $12,476 or more (slide; a transposition of $12,746, the World Bank figure for the year these bands come from) (note the overlap).
 - Today's focus is BRICS, earlier it was BEMs.
 - LDC rules: look beyond GNP, treat LDCs collectively, first-mover advantage, realistic deadlines.
 - Learn all five mistaken assumptions about BOP markets.
@@ -102,7 +104,7 @@ Q: Which measure does the World Bank use to define the four categories of develo
 A: Gross National Income (GNI) per capita.
 
 Q: Give the slide's GNI bands for low, lower-middle and upper-middle income.
-A: $1,045 or less; $1,046 to $4,125; $4,126 to $12,745 (high income $12,476 or more, which overlaps; thresholds change yearly).
+A: $1,045 or less; $1,046 to $4,125; $4,126 to $12,745 (high income $12,476 or more (slide; a transposition of $12,746, the World Bank figure for the year these bands come from), which overlaps; thresholds change yearly).
 
 Q: What is the difference between BEMs and BRICS in the slide?
 A: BEMs were the focus about ten years earlier (Central Europe, Latin America, Asia); today the focus is Brazil, Russia, India, China, South Africa.

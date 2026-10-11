@@ -44,7 +44,7 @@ An innovation is something new. Five factors affect the **rate of adoption**.
 | **Complexity** | Degree to which it is difficult to understand and use | **No**, lower is better |
 | **Divisibility** | Wide income gaps across the globe cause large differences in preferred purchase quantities and sizes | Yes (smaller units help in low-income markets) |
 | **Communicability** | Degree to which benefits or value can be communicated to the market | Yes |
-Memory hook: **R-C-C-D-C** (Relative advantage, Compatibility, Complexity, Divisibility, Communicability). **(general)** The textbook list uses "trialability" and "observability" in place of divisibility and communicability; give the class list in the exam.
+Memory hook: **R-C-C-D-C** (Relative advantage, Compatibility, Complexity, Divisibility, Communicability). **(general)** Rogers' original list says trialability and observability; Keegan, Cateora and the class slide use divisibility and communicability. Write the class list.
 
 ## Link to culture
 Compatibility is the cultural filter: a product that clashes with local values, religion or habits adopts slowly (EN-5). Divisibility links to income stages (EN-3): small packs for low-income markets.

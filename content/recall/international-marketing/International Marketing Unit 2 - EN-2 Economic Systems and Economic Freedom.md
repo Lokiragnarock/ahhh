@@ -116,8 +116,8 @@ A: China, Denmark, Finland and the Netherlands (textbooks treat the last three a
 Q: Name the economic freedom bands on the slide.
 A: Free, mostly free, mostly unfree, repressed.
 
-Q: Name six variables used to rank economic freedom.
-A: Trade policy, taxation policy, capital flows and foreign investment, banking policy, wage and price controls, property rights (and black market).
+Q: Name seven variables used to rank economic freedom.
+A: Trade policy, taxation policy, capital flows and foreign investment, banking policy, wage and price controls, property rights, black market.
 
 Q: Why do market reforms matter to global firms?
 A: They open formerly closed countries to trade and investment and vastly increase the global market.

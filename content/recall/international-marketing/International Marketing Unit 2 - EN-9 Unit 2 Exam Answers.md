@@ -28,7 +28,7 @@ No course plan is on file, so assume the standard Christ BBA ESE: **50 marks, 2 
 | Differentiate the four economic systems with an example each | 2 x 2 of allocation and ownership (1); one line each for four systems (3); examples: North America/EU, former USSR, Sweden, China (1) |
 | Stages of market development | World Bank, GNI per capita (1); four groups with slide bands (2); one characteristic each (1); use for segmentation (1) |
 | Marketing opportunities and myths in LDCs / BOP | Four opportunity rules (2); five mistaken assumptions, name at least four (2); role of marketing (1) |
-| Self-reference criterion | Define (1); three tasks of global marketers (1); example (1); correction steps (2) |
+| Self-reference criterion | Define (1); three tasks of global marketers (2); example (1); Cateora correction step (1) **(general)** |
 | Attitude, belief, value | Three definitions (3); example each (2) |
 | Role of religion and aesthetics in marketing | Religion list and effect (2); aesthetics visual and styles (1); colour examples (2) |
 | Environmental sensitivity | Definition (1); chart: food high, computers mid, ICs low (2); Knorr, Starbucks (1); implication (1) |
@@ -102,9 +102,9 @@ Arithmetic: Altoria = 1.20 + 0.90 + 0.75 + 0.60 = 3.45; Borania = 0.60 + 1.20 + 
 
 ## Common slips to avoid
 - Mixing up "capitalism" (ownership) and "market" (allocation) in the four systems.
-- Quoting GNI bands without noting that the slide's upper-middle and high-income figures overlap and that the World Bank revises them yearly **[VERIFY]**.
+- Quoting GNI bands without noting that the slide's upper-middle and high-income figures overlap and that the World Bank revises them yearly **[VERIFY]**. Write high income as $12,476 or more (slide; a transposition of $12,746, the World Bank figure for the year these bands come from).
 - Calling confiscation "nationalisation"; nationalisation is industry-wide and acceptable with public purpose and compensation.
-- Listing "trialability" and "observability" instead of divisibility and communicability in the class answer.
+- Rogers' original list says trialability and observability; Keegan, Cateora and the class slide use divisibility and communicability. Write the class list.
 - Saying the ICJ settles company disputes; it handles disputes between states.
 - Writing GNP and GNI as if they were different in the exam; use GNI per capita, the World Bank measure.
 
