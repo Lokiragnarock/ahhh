@@ -28,3 +28,11 @@ Node notes `International Marketing Unit N - XX-k Title.md` with the standard fr
 ## Order
 
 Notes for all five units in parallel, then question banks, then an audit. One commit per unit.
+
+## Phase 2: student Obsidian notes (2026-10-11)
+
+Source: `D:\Lokesh\Downloads\IM Obs Notes.zip` (56 notes, organised by the syllabus unit titles). Extracted to the session scratchpad `imobs\`.
+
+Syllabus unit titles from the notes: 1 Introduction to International Marketing and Global Institutions; 2 Global Marketing Environment; 3 Global Market Analysis and Entry Strategies; 4 Global Marketing Strategy and Marketing Mix; 5 Contemporary Issues in International Marketing.
+
+Rules: the faculty slides stay the source of truth. Student-note material is tagged **(student notes)**. Topics the slides miss become new nodes appended after each unit's exam-answers node (existing node ids and question ids do not change). Where a student note contradicts the slides or is factually wrong, the node says so and gives the correct version.
