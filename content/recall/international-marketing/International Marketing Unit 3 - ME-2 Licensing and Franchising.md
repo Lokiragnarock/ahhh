@@ -3,7 +3,7 @@ title: "International Marketing Unit 3 - ME-2 Licensing and Franchising"
 type: recall
 status: active
 created: 2026-10-11
-source: "Faculty deck Unit 3 slides 8-14 (licensing definition, property licensed, process, agreement terms, advantages and disadvantages; franchising definition, features, advantages and disadvantages) + general knowledge for the numeric illustration"
+source: "Faculty deck Unit 3 slides 8-14 (licensing definition, property licensed, process, agreement terms, advantages and disadvantages; franchising definition, features, advantages and disadvantages) + student Obsidian note 'Market Entry Modes' (additions only) + general knowledge for the numeric illustration"
 tags: [international-marketing, recall, unit-3, licensing, franchising]
 node: ME-2
 section: "3.2"
@@ -76,6 +76,12 @@ Rows tagged **(general)** go beyond the slides; the control and payment rows are
 | Support **(general)** | Mostly none | Franchisor helps with set-up (class) and operations (general) |
 | Typical users **(general)** | Manufacturing, technology, beverages | Fast food, retail, services |
 
+## Extra detail from the student notes (student notes)
+- The comparison grid in the note rates licensing as low capital, low control and low risk (market access without capital), and franchising as low capital, medium control and low risk (fast scaling of a proven concept).
+- Main franchising risk: quality control across culturally different franchisees.
+- Common licensing mistake: licensing core technology to a potential future competitor without safeguards.
+- **Student-note corrections:** none on facts. The note says the franchisee "follows a royalty based on sales"; the correct wording is that the franchisee **pays** a fixed amount plus a sales-based royalty.
+
 ## Worked example: franchise income and the answer to give (exam layout)
 **Q.** Rasam Express (illustrative Indian restaurant chain) grants a UAE franchisee a 5-year franchise: fixed fee ₹20 lakh once, plus royalty 6% of sales. Franchisee sales are ₹5 crore a year (illustrative). Compute the franchisor's income and advise.
 
@@ -130,6 +136,8 @@ Q: Give four disadvantages of licensing.
 A: Limited market opportunities and profits, dependence on the licensee, potential conflicts, and the possibility of creating a future competitor.
 Q: How does franchising differ from licensing?
 A: Franchising is a form of licensing, but the franchisor exercises more control over the franchisee, supports set-up, and earns a fixed fee plus a sales-based royalty.
+Q: What is the main franchising risk and the main licensing mistake? (student notes)
+A: Franchising: keeping quality control across culturally different franchisees. Licensing: handing core technology to a future competitor without safeguards.
 Q: What does the franchisee pay?
 A: A fixed amount and a royalty based on sales.
 Q: Franchise fee ₹20 lakh once, royalty 6% on ₹5 crore annual sales, 5 years. Total income?

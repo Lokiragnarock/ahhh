@@ -3,20 +3,20 @@ title: "International Marketing Unit 3 - ME-5 Unit 3 Exam Answers"
 type: recall
 status: active
 created: 2026-10-11
-source: "Faculty deck Unit 3 (all slides) as the answer base + plan exam pattern (50 marks, 2 hours; assumed standard Christ BBA ESE, no course plan on file)"
+source: "Faculty deck Unit 3 (all slides) as the answer base + student-note topics ME-6 to ME-8 (skeletons only) + plan exam pattern (50 marks, 2 hours; assumed standard Christ BBA ESE, no course plan on file)"
 tags: [international-marketing, recall, unit-3, exam]
 node: ME-5
 section: "3.5"
-minutes: 35
+minutes: 40
 deps: [ME-1, ME-2, ME-3, ME-4]
-weight: 35
+weight: 40
 exam_focus: true
 state: unstudied
 ---
 
 # ME-5 - Unit 3 Exam Answers
 
-Covers: likely 5-mark and 10-mark questions with skeletons, and the 15-mark case layout with a worked entry-mode choice. **(class)** content from the faculty deck; the scoring method is **(general)**.
+Covers: likely 5-mark and 10-mark questions with skeletons, and the 15-mark case layout with a worked entry-mode choice. **(class)** content from the faculty deck; the scoring method is **(general)**. The syllabus unit is titled Global Market Analysis and Entry Strategies, so the last section adds skeletons for research, screening and STP from the student notes (ME-6 to ME-8).
 
 ## The paper (assumed)
 ESE: 50 marks, 2 hours (**no course plan on file, so assumed**). Section A: 3 of 5 x 5. Section B: 2 of 3 x 10. Section C: one compulsory 15-mark case. Budget about 7 minutes per 5-marker, 15 per 10-marker, 30 for the case. Unit 3 is a theory unit, and market entry is a natural case topic.
@@ -36,6 +36,12 @@ ESE: 50 marks, 2 hours (**no course plan on file, so assumed**). Section A: 3 of
 | Joint venture | Definition with shared equity, revenue, control (2); Sony Ericsson (1); pros (1); cons (1) |
 | Merger vs acquisition | Two definitions (2); HDFC Bank and Centurion Bank of Punjab (1); benefits and liabilities (2) |
 | Role of strategic alliances | Define (1); roles from the slide, any four of six (4) |
+| Steps in international marketing research (student notes, ME-6) | Why harder than domestic (1); six steps: problem, sources, instrument, sample, comparable analysis, MIS (3); one safeguard such as back-translation (1) |
+| Secondary vs primary data abroad (student notes, ME-6) | Define each with sources (2); strengths and weaknesses table (2); when to use which (1) |
+| Market screening funnel (student notes, ME-7) | Purpose (1); four stages (3); one tool such as CAGE or the attractiveness matrix (1) |
+| CAGE framework (general, named in student notes, ME-7) | Four distances defined (3); one example each or one implication (2) |
+| Bases of global segmentation (student notes, ME-8) | Five bases with one line each (4); intermarket segment example (1) |
+| Global vs local positioning (student notes, ME-8) | Define both (2); country-of-origin lever (1); trade-off and example (2) |
 
 ## 10-mark answers (about 300-350 words)
 **Layout:** introduction (1-2), body in headed points or a table (6), interpretation or conclusion (1-2).
@@ -47,6 +53,9 @@ ESE: 50 marks, 2 hours (**no course plan on file, so assumed**). Section A: 3 of
 | Explain special entry modes: contract manufacturing, management contract, turnkey | Define each (3); examples (1); advantages and disadvantages table (4); comparison and leak per mode (2) |
 | Explain FDI modes with advantages and disadvantages | FDI definition (1); greenfield (2); M&A (3); JV (3); selection line (1) |
 | Evaluate exporting as an entry strategy | Three forms (3); pros and cons (4); when to graduate to licensing or FDI (3) |
+| Explain how a firm screens and selects foreign markets (student notes, ME-7) | Why screen (1); four-stage funnel (3); tools and criteria table (3); weighted-score illustration with a decision line (2); link to entry mode (1) |
+| Discuss international marketing research and the role of an MIS (student notes, ME-6) | Why different (2); six-step process (3); challenges and safeguards (3); MIS with its three feeds (2) |
+| Explain global segmentation, targeting and positioning (student notes, ME-8) | Definitions (1); segmentation bases and intermarket segment (3); three targeting strategies (2); global vs adapted positioning (2); trade-off line (2) |
 
 ## 15-mark case layout (Section C)
 The case describes a firm, a target country and constraints, then asks which entry mode to choose and why. Spend about 30 minutes.
@@ -59,6 +68,9 @@ The case describes a firm, a target country and constraints, then asks which ent
 | 5. Recommendation | 2 | The winner, plus a staged route (for example start franchising, move to JV or own units) |
 | 6. Risks and safeguards | 2 | The slide risks for that mode (future competitor, control, conflict) and contract safeguards |
 | 7. Decision line and interpretation | 1 | One sentence stating the choice and what would change it |
+
+### When one case combines screening and entry mode
+A case may ask "which country should the firm enter and how". Answer in two linked tables. Table 1 (ME-7): knock out unviable countries, then score the survivors on size, growth, risk, competition, fit and ease. Table 2 (this node): score entry modes for the winning country on control, capital, speed, risk and local knowledge. Use different criteria and weights in each table, show both sums, and end with one decision line naming country and mode. Add research (ME-6) as the source of the scores and STP (ME-8) for the target segment and positioning if the case mentions consumers. Mark split for a 15-mark combined case: context and assumptions 2, screening table 4, entry-mode table 4, risks and safeguards 2, decision line and sensitivity 3.
 
 ## Worked case: Rasam Express enters the UAE (exam layout)
 **Case.** Rasam Express (illustrative Indian quick-service restaurant chain, 60 outlets in India) wants to enter the UAE within 12 months, with limited capital, wanting control over taste and brand. Choose an entry mode. All figures and scores are illustrative judgements.
@@ -127,5 +139,7 @@ Q: Which mode suits a client wanting a finished plant handed over?
 A: A turnkey project: the firm designs, constructs, equips and hands over.
 Q: When should a firm choose acquisition over greenfield?
 A: When speed, existing plants, brands and customers matter and liabilities are acceptable after due diligence.
+Q: How do you answer a case that asks for both the country and the entry mode?
+A: Two linked scored tables: a country screen first (size, growth, risk, competition, fit, ease), then an entry-mode table for the winning country (control, capital, speed, risk, local knowledge), with different weights and one decision line.
 Q: What caveat should a scored entry-mode table carry?
 A: The weights and scores are judgements, so state them as assumptions and say what change would alter the result.

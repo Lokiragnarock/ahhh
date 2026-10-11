@@ -3,13 +3,13 @@ title: "International Marketing Unit 3 - ME-4 FDI Greenfield Mergers Acquisition
 type: recall
 status: active
 created: 2026-10-11
-source: "Faculty deck Unit 3 slides 23-31 (FDI without alliances, greenfield, strategic alliances, M&A, HDFC Bank and Centurion Bank of Punjab, joint ventures, Sony-Ericsson) + general knowledge for selection factors"
+source: "Faculty deck Unit 3 slides 23-31 (FDI without alliances, greenfield, strategic alliances, M&A, HDFC Bank and Centurion Bank of Punjab, joint ventures, Sony-Ericsson) + student Obsidian note 'Market Entry Modes' (additions only) + general knowledge for selection factors"
 tags: [international-marketing, recall, unit-3, fdi, joint-venture]
 node: ME-4
 section: "3.4"
-minutes: 40
+minutes: 45
 deps: [ME-1, ME-2, ME-3]
-weight: 40
+weight: 45
 exam_focus: true
 state: unstudied
 ---
@@ -78,6 +78,14 @@ The slide lists three JV advantages: the local partner's knowledge, shared costs
 | Political risk | Highest | High | Reduced |
 | Main problem | Time, cost, outsider status | Inherited liabilities, integration | Conflict, technology leakage |
 
+## Extra detail from the student notes (student notes)
+- **Dunning's OLI (eclectic) paradigm** explains why a firm chooses FDI over other modes: it invests abroad when it has **Ownership** advantages (proprietary technology, brand), the host country offers **Location** advantages (resources, market access, low cost) and **Internalisation** advantages favour owning the operation rather than licensing it out. Use it to justify FDI in a case.
+- **Managerial choice factors:** resource commitment the firm can bear, desired control over quality and brand, political and legal risk (higher risk often favours JVs and licensing over full FDI), IP sensitivity (high-IP-risk industries need tighter control or strong contracts) and speed to market. Exporting is usually the first step, with escalation to licensing, JVs and FDI as knowledge grows, consistent with the Uppsala internationalisation model **(general)**: Johanson and Vahlne's stage-wise commitment.
+- **Capital, control and risk grid:** greenfield very high capital, highest control, high risk (long-term, control-seeking); acquisition very high capital, high control, high risk (speed and assets); JV shared on all three (distant or restricted markets).
+- **Examples:** Tesla's Gigafactories in China and Germany as greenfield FDI (qualitative). The note calls Sony Ericsson a JV later "dissolved", a sign that JVs are often transitional; JV failure rates are high because partners' cultures and strategies misalign.
+- **Common mistakes:** choosing FDI for prestige without the resources to sustain it, and entering JVs without governance, exit and IP clauses.
+- **Student-note corrections:** (1) The note lists "strategic alliances" as a further FDI mode beside greenfield, M&A and JV. On the slides the alliance is the umbrella: FDI with alliances = M&A and JV only. (2) The note gives **five** roles of alliances and merges the slide's first two points; the slide has six (see above). Give six. (3) The note's JV table omits the slide's first advantage, the local partner's knowledge. (4) The note says Sony Ericsson was "dissolved"; more exactly Sony bought out Ericsson's stake in 2012 **(general)**. (5) The note repeats the slide's "foreign worker", which means foreign outsider status.
+
 ## Worked example: greenfield, acquisition or JV? (exam layout)
 **Q.** Sudarshan Auto Components (illustrative Indian firm) wants a plant in Vietnam. A local firm is for sale with 600 staff and existing OEM customers, and another local firm wants a 51:49 JV. Recommend a mode.
 
@@ -138,6 +146,8 @@ Q: Define a joint venture.
 A: A new entity formed by two or more parties each contributing equity, who share revenues, expenses and control. Example: Sony Ericsson.
 Q: Advantages and disadvantages of a joint venture?
 A: Advantages: the local partner's knowledge, shared costs and risks, and reduced political risk. Disadvantages: risk of giving technology control to the partner, possibly no experience curve or location economies, and ownership conflict.
+Q: What does Dunning's OLI paradigm say? (student notes)
+A: A firm chooses FDI when it has Ownership advantages, the host country offers Location advantages, and Internalisation advantages favour owning the operation rather than licensing it out.
 Q: Which Indian acquisition does the slide cite?
 A: HDFC Bank's acquisition of Centurion Bank of Punjab for $2.4 billion (the slide figure; 2008).
 Q: List the six roles of strategic alliances on the slide.

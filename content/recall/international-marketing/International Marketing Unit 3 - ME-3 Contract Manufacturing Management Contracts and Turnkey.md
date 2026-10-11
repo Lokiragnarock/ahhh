@@ -3,7 +3,7 @@ title: "International Marketing Unit 3 - ME-3 Contract Manufacturing Management 
 type: recall
 status: active
 created: 2026-10-11
-source: "Faculty deck Unit 3 slides 15-22 (specialised entry modes, contract manufacturing, management contract, turnkey project, advantages and disadvantages) + general knowledge for the comparison table"
+source: "Faculty deck Unit 3 slides 15-22 (specialised entry modes, contract manufacturing, management contract, turnkey project, advantages and disadvantages) + student Obsidian note 'Market Entry Modes' (additions only) + general knowledge for the comparison table"
 tags: [international-marketing, recall, unit-3, contract-manufacturing, turnkey]
 node: ME-3
 section: "3.3"
@@ -55,6 +55,11 @@ The cells are quoted as the slide words them. **(general)** Read advantage 1 as 
 | | Problems with suppliers |
 
 Contrast to remember: management contract earns by running the business; turnkey earns by building it and leaving.
+
+## Extra detail from the student notes (student notes)
+- Capital, control and risk grid: contract manufacturing is low capital, low control on production and low risk (outsourcing production); a management contract is minimal capital, medium control and low risk (selling operating know-how); turnkey is project-funded, control ends at handover and carries execution risk (large infrastructure).
+- A turnkey project ends at handover, while a management contract keeps operating the facility for a fee. This agrees with the contrast line above.
+- **Student-note correction:** the note lists a contract manufacturing disadvantage as "reduces learning about other parts of the value chain" and an advantage "minimizes resources devoted to manufacturing". The slide separates these differently: the **advantage** is that resources are freed for **other** elements of the value chain (marketing, design, brand), and the **disadvantage** is "reduced learning potential", meaning the firm learns less about manufacturing. Use the slide wording.
 
 ## Comparison (exam table)
 | Basis | Contract manufacturing | Management contract | Turnkey project |
@@ -110,6 +115,8 @@ Q: Which industries commonly use contract manufacturing per the slide?
 A: Pharmaceuticals and personal care products.
 Q: Give disadvantages of contract manufacturing.
 A: Reduced control (quality, delivery schedules), reduced learning potential and potential public relations problems.
+Q: How does a turnkey project differ from a management contract in duration? (student notes)
+A: A turnkey project ends at handover; a management contract keeps the firm operating the facility for a fee over a set period.
 Q: Define a management contract.
 A: An agreement where one company provides managerial assistance, technical expertise and specialised services to another for a certain period in return for monetary compensation.
 Q: Advantages and disadvantages of a management contract, as the slide words them?

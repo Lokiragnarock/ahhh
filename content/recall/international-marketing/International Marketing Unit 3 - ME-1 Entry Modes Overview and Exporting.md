@@ -3,13 +3,13 @@ title: "International Marketing Unit 3 - ME-1 Entry Modes Overview and Exporting
 type: recall
 status: active
 created: 2026-10-11
-source: "Faculty deck Unit 3 Market Entry Strategies (Prof. Prakash N.) slides 1-7 (modes map, indirect vs direct involvement, forms of exporting, advantages and disadvantages) + general knowledge for selection factors"
+source: "Faculty deck Unit 3 Market Entry Strategies (Prof. Prakash N.) slides 1-7 (modes map, indirect vs direct involvement, forms of exporting, advantages and disadvantages) + student Obsidian note 'Market Entry Modes' (additions only) + general knowledge for selection factors"
 tags: [international-marketing, recall, unit-3, entry-modes, exporting]
 node: ME-1
 section: "3.1"
-minutes: 30
+minutes: 35
 deps: []
-weight: 30
+weight: 35
 exam_focus: true
 state: unstudied
 ---
@@ -56,6 +56,14 @@ Slides show three diagrams. Reproduce them as examples.
 | Avoids restrictions on foreign investment | |
 
 Link the two columns: low exposure and gradual entry are why exporting is the first step; tariffs and distributor conflict are why firms later move to licensing or FDI.
+
+## Extra detail from the student notes (student notes)
+- **Piggyback (cooperative) exporting:** using another firm's established distribution network abroad for a complementary, non-competing product. Not on the slides; treat it as a bonus point.
+- **Rating of the forms:** indirect exporting has the lowest risk and lowest control, which suits first-time exporters; direct exporting gives more control and margin but needs in-house skill in documentation, logistics and compliance.
+- **Importing** is the mirror process: sourcing goods or inputs abroad. It matters as a sourcing strategy and for understanding the buyer side in B2B.
+- **Operational points:** Incoterms (FOB, CIF, EXW) fix where cost and risk pass (see Unit 4); documents are commercial invoice, packing list, bill of lading or airway bill and certificate of origin; payment risk is reduced by letters of credit and export credit insurance such as ECGC in India.
+- **Extra pros and cons:** pro, uses existing home production and scale; cons, limited marketing control when indirect, currency risk and less local adaptation, and intermediary margins plus tariffs cut profit per unit.
+- **Student-note corrections:** (1) The note lists the indirect intermediaries as export merchants, export commission agents and international trading firms. The slide 6 image lists four: manufacturers' export agents, export commission agents, export merchants and international firms (the text extract drops the first). Write all four. (2) The note puts an "own sales subsidiary abroad" under direct exporting. On the slides a sale to your own subsidiary is an intra-corporate transfer, so give the slide classification in the exam.
 
 ## Worked example: classify the route (exam layout)
 **Q.** Anand Spices (illustrative firm, Kerala) sells cardamom in three ways: (i) to a Mumbai export merchant who ships to Dubai; (ii) by its own export team to a Malaysian supermarket chain; (iii) to its own Singapore warehouse company. Classify each.
@@ -109,5 +117,9 @@ Q: Give four advantages of exporting.
 A: Low financial exposure, gradual market entry, knowledge of the local market, and avoidance of foreign investment restrictions.
 Q: Give three disadvantages of exporting.
 A: Vulnerability to tariffs and NTBs, logistical complexities, and potential conflicts with distributors.
+Q: What is piggyback exporting? (student notes)
+A: Using another firm's established foreign distribution network for your complementary, non-competing product.
+Q: What documents and protections go with exporting? (student notes)
+A: Commercial invoice, packing list, bill of lading or airway bill, certificate of origin; letters of credit and export credit insurance (ECGC in India) against payment risk.
 Q: Which blocks of entry modes does the deck list besides exporting?
 A: Licensing, franchising, special modes (contract manufacturing, management contracts, turnkey) and FDI with or without alliances.
