@@ -1,0 +1,804 @@
+[
+  {
+    "id": "GM-1-01",
+    "node": "GM-1",
+    "unit": "International Marketing Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "On the faculty slides, which decade is linked to customer orientation and the development of the marketing mix (product, price, place, promotion)?",
+    "options": [
+      "A) 1950s",
+      "B) 1960s",
+      "C) 1990s",
+      "D) Today (co-creation era)"
+    ],
+    "answer": "B",
+    "explanation": "The 1960s brought customer orientation and the 4Ps. Option A is tempting because the 1950s is the first decade on the slide, but its focus was on products. The 1990s added the external environment and stakeholder value."
+  },
+  {
+    "id": "GM-1-02",
+    "node": "GM-1",
+    "unit": "International Marketing Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A firm changes its pack size after a new import-duty rule and a rival's price cut in a foreign market. Which stage of the marketing concept does this behaviour best reflect?",
+    "options": [
+      "A) 1950s: focus on products",
+      "B) 1960s: customer orientation and the 4Ps",
+      "C) 1990s: customer in the context of the broader external environment",
+      "D) Today: customer co-creation"
+    ],
+    "answer": "C",
+    "explanation": "Competition and government policy and regulation are the 1990s additions: the customer is served in the context of the external environment. Option B is the tempting slip because the pack size is a product decision, but a 4P decision taken in reaction to policy and competition is the 1990s view, not plain 1960s customer orientation."
+  },
+  {
+    "id": "GM-1-03",
+    "node": "GM-1",
+    "unit": "International Marketing Unit 1",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "Explain the statement 'marketing is a universal discipline, but marketing practice varies from country to country'. (5)",
+    "model_answer": "**Two readings of marketing (faculty slides).**\n\n| Reading | Meaning |\n|---|---|\n| Marketing (1) | The process of focusing the resources and objectives of an organisation on environmental opportunities and needs |\n| Marketing (2) | A set of concepts, tools, theories, practices, procedures and experiences |\n\n**Universal.** Both readings apply anywhere: every firm must find a need, build value and exchange it.\n\n**Practice varies.** The environment (customers, culture, competition, law, income) differs by country, so the same tools are used differently.\n\n**Link to international marketing.** The discipline travels but the market does not; this gap is why global marketing needs country knowledge and adjustment to local requirements.",
+    "marking_scheme": [
+      {
+        "point": "Marketing (1): process of focusing resources and objectives on opportunities and needs",
+        "marks": 1
+      },
+      {
+        "point": "Marketing (2): set of concepts, tools, theories, practices",
+        "marks": 1
+      },
+      {
+        "point": "Universal discipline stated and explained",
+        "marks": 1
+      },
+      {
+        "point": "Practice varies by country, with reason (environment)",
+        "marks": 1
+      },
+      {
+        "point": "Link to international marketing or localization",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "GM-1-04",
+    "node": "GM-1",
+    "unit": "International Marketing Unit 1",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Trace the evolution of the marketing concept from the 1950s to today. (5)",
+    "model_answer": "| Period | Focus |\n|---|---|\n| 1950s | Products |\n| 1960s | Customer orientation; marketing mix of product, price, place, promotion (4Ps) |\n| 1990s | Customer in the context of the broader external environment (competition, government policy and regulation); stakeholder value (employees, customers, shareholders, society) |\n| Today | Two key tasks: focus on the customer and his or her environment, and create value for consumers and stakeholders; managing strategic partnerships and positioning in the value chain; customer co-creation |\n\nProfit is a measure of success, not an end in itself.\n\n**Conclusion.** The circle of concern widens with each era, which is why a firm crossing borders must read each country's environment.",
+    "marking_scheme": [
+      {
+        "point": "1950s product focus",
+        "marks": 1
+      },
+      {
+        "point": "1960s customer orientation and 4Ps",
+        "marks": 1
+      },
+      {
+        "point": "1990s external environment and stakeholders",
+        "marks": 1
+      },
+      {
+        "point": "Today: two tasks, partnerships, co-creation",
+        "marks": 1
+      },
+      {
+        "point": "Profit as a measure, and closing link to wider circle or global relevance",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "GM-1-05",
+    "node": "GM-1",
+    "unit": "International Marketing Unit 1",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "medium",
+    "question": "Trace the evolution of the marketing concept from the 1950s to today and explain its relevance to global marketing. (10)",
+    "model_answer": "**Introduction.** Marketing can be read as the process of focusing an organisation's resources and objectives on environmental opportunities and needs, and as a set of concepts, tools and practices. It is universal, but practice varies from country to country.\n\n**Evolution**\n\n| Period | Focus |\n|---|---|\n| 1950s | Products |\n| 1960s | Customer orientation; marketing mix (4Ps) |\n| 1990s | Customer within the broader external environment: competition, government policy and regulation; stakeholder value for employees, customers, shareholders, society |\n| Today | Focus on customer and environment; create value for consumers and stakeholders; strategic partnerships and value-chain positioning; customer co-creation; profit is a measure of success, not an end in itself |\n\n**Relevance to global marketing**\n- The 1990s version adds competition, policy and regulation, exactly what changes when a firm crosses a border.\n- Stakeholder value means a foreign market's employees, community and regulators matter alongside customers.\n- Partnerships and value-chain positioning explain why firms use distributors, joint ventures and local suppliers abroad.\n- Co-creation requires listening to local customers rather than copying the home offer.\n\n**Conclusion.** The later the era, the wider the circle a firm must serve; a global firm needs the broader-environment concept, not the 1950s product view, and must adapt practice to each country.",
+    "marking_scheme": [
+      {
+        "point": "Introduction: two readings, universal but varies",
+        "marks": 1
+      },
+      {
+        "point": "1950s and 1960s with 4Ps",
+        "marks": 2
+      },
+      {
+        "point": "1990s: environment and stakeholders",
+        "marks": 2
+      },
+      {
+        "point": "Today: tasks, partnerships, co-creation, profit as measure",
+        "marks": 2
+      },
+      {
+        "point": "Relevance to global marketing with reasoning",
+        "marks": 2
+      },
+      {
+        "point": "Conclusion",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "GM-2-01",
+    "node": "GM-2",
+    "unit": "International Marketing Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A supplier's customers perceive benefits of 95 and perceived costs of 35 on a 100-point scale. The price is 40 (Rs hundred). Using the faculty formula V = B/P, customer value is:",
+    "options": [
+      "A) 2.375",
+      "B) 1.500",
+      "C) 20",
+      "D) 0.667"
+    ],
+    "answer": "B",
+    "explanation": "B = perceived benefits minus perceived costs = 95 - 35 = 60, so V = 60/40 = 1.500. Option A is the tempting mistake: it uses gross benefits (95/40) and forgets to subtract perceived costs. Option C subtracts price as well (95 - 35 - 40), which is not the formula. Option D inverts the ratio (40/60)."
+  },
+  {
+    "id": "GM-2-02",
+    "node": "GM-2",
+    "unit": "International Marketing Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "hard",
+    "question": "An entrant has net benefit B = 60 at price P = 50. A local rival delivers V = 1.40. The entrant can either raise B to 70 at the same price, or cut P to 40 at the same B. Which statement is correct?",
+    "options": [
+      "A) Only the benefit improvement beats the rival",
+      "B) Only the price cut beats the rival",
+      "C) Both beat the rival, and the benefit improvement gives the higher V",
+      "D) Neither beats the rival"
+    ],
+    "answer": "B",
+    "explanation": "Benefit route: 70/50 = 1.40, which only ties the rival's 1.40. Price route: 60/40 = 1.50, which beats it. Option A is tempting because the slide stresses a superior product, but a tie is not a win: value must exceed the competitor's value."
+  },
+  {
+    "id": "GM-2-03",
+    "node": "GM-2",
+    "unit": "International Marketing Unit 1",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "Define international marketing. What decisions does it cover? (5)",
+    "model_answer": "**AMA definition.** International marketing is the multinational process of planning and executing the conception, pricing, promotion and distribution of ideas, goods and services to create exchanges that satisfy individual and organisational objectives.\n\n**Faculty definition.** Marketing carried out by companies overseas or across national borderlines. It is firm-level marketing practice across the border.\n\n**Decision areas covered**\n1. Market identification and targeting\n2. Entry mode selection\n3. Marketing mix\n4. Strategic decisions to compete in international markets\n\nIn simple words: the application of marketing principles across national boundaries.",
+    "marking_scheme": [
+      {
+        "point": "AMA definition with 'multinational process' and 'individual and organisational objectives'",
+        "marks": 2
+      },
+      {
+        "point": "Faculty definition (marketing across national borders, firm-level)",
+        "marks": 1
+      },
+      {
+        "point": "Four decision areas named",
+        "marks": 1
+      },
+      {
+        "point": "One-line summary: marketing principles across boundaries",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "GM-2-04",
+    "node": "GM-2",
+    "unit": "International Marketing Unit 1",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Explain the three principles of marketing: customer value, differentiation and focus. (5)",
+    "model_answer": "**1. Customer value.** Goal: create value greater than competitors. Strategies: improve benefits, reduce price, or both. Formula: V = B/P, where B = perceived benefits minus perceived costs and P = price.\n\n**2. Differentiation.** Goal: competitive advantage. It can exist in any element of the offer. One way into a new national market is a superior product at a lower price.\n\n**3. Focus.** A concentration of attention and resources on customer needs and wants. It is a viable route for small and medium-sized firms to a dominant position in the world market.\n\n**How they fit.** Focus picks the segment, differentiation builds the edge, and customer value shows whether the edge is large enough relative to the rival.",
+    "marking_scheme": [
+      {
+        "point": "Customer value goal and strategies",
+        "marks": 1
+      },
+      {
+        "point": "V = B/P with terms defined",
+        "marks": 1
+      },
+      {
+        "point": "Differentiation: goal, any element, superior product at lower price",
+        "marks": 1
+      },
+      {
+        "point": "Focus: concentration, SMEs",
+        "marks": 1
+      },
+      {
+        "point": "How the three fit together",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "GM-2-05",
+    "node": "GM-2",
+    "unit": "International Marketing Unit 1",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "hard",
+    "question": "Firm X sells in a new market with perceived benefits 85, perceived costs 25 and price 40 (Rs hundred). Rival R has perceived benefits 75, perceived costs 20 and price 30. (a) Compute V = B/P for both. (b) Show one benefit-led and one price-led route by which X can beat R, and say which route you prefer. (5)",
+    "model_answer": "**(a)** X: B = 85 - 25 = 60; V = 60/40 = **1.500**. R: B = 75 - 20 = 55; V = 55/30 = **1.833**. R delivers more value, so X loses on value.\n\n**(b)** X needs V above 1.833.\n\n| Route | Change | New V |\n|---|---|---|\n| Benefit-led | Raise benefits to 100 so B = 75, price stays 40 | 75/40 = 1.875 |\n| Price-led | Cut price to 32, B stays 60 | 60/32 = 1.875 |\n\nBoth just clear 1.833. **Preference:** the benefit-led route, because a price cut of 20% (40 to 32) erodes margin and invites a response; improvement must be real and visible to buyers. If benefits cannot be raised quickly, a smaller price cut combined with a modest benefit gain is safer.\n\n**Decision line:** value is relative; X wins only if its V exceeds R's 1.833.",
+    "marking_scheme": [
+      {
+        "point": "V for X = 1.500",
+        "marks": 1
+      },
+      {
+        "point": "V for R = 1.833 and comparison",
+        "marks": 1
+      },
+      {
+        "point": "Benefit-led route computed (1.875)",
+        "marks": 1
+      },
+      {
+        "point": "Price-led route computed (1.875)",
+        "marks": 1
+      },
+      {
+        "point": "Preferred route with reasoning (value relative, margin)",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "GM-2-06",
+    "node": "GM-2",
+    "unit": "International Marketing Unit 1",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "hard",
+    "question": "Discuss the three principles of marketing and illustrate customer value with the following. An entrant has perceived benefits 88 and perceived costs 28 at a price of 48 (Rs hundred); the local rival has perceived benefits 80, perceived costs 25 and price 40. Compute V = B/P for both, evaluate three strategies for the entrant (raise benefits to 98; cut price to 40; both) and advise. (10)",
+    "model_answer": "**Principles.** (1) Customer value: create value greater than competitors by improving benefits, reducing price, or both; V = B/P with B = perceived benefits minus perceived costs. (2) Differentiation: competitive advantage in any element of the offer; a superior product at a lower price is one way to penetrate a new national market. (3) Focus: concentration of attention and resources on customer needs and wants; a viable route for small and medium firms to a dominant world position.\n\n**Computation**\n- Entrant: B = 88 - 28 = 60; V = 60/48 = **1.250**.\n- Rival: B = 80 - 25 = 55; V = 55/40 = **1.375**.\n- The rival leads by 0.125.\n\n| Strategy | New B | New P | New V | Beats 1.375? |\n|---|---|---|---|---|\n| Raise benefits to 98 | 70 | 48 | 1.458 | Yes, narrowly |\n| Cut price to 40 | 60 | 40 | 1.500 | Yes |\n| Both | 70 | 40 | 1.750 | Yes, strongly |\n\n**Advice.** All three beat the rival because value is judged relative to the competitor. The price cut gives a higher V than the benefit gain alone but costs margin (48 to 40 is a 16.7% cut) and invites a price response. The combined route is strongest. Preferred: raise benefits first (a durable differentiation), and take a moderate price reduction only as needed; use focus on a segment that values the extra benefit so resources are concentrated.\n\n**Decision line.** Enter with a benefit-led plan aimed at a focused segment; the entrant wins only if its V stays above 1.375.",
+    "marking_scheme": [
+      {
+        "point": "Three principles explained",
+        "marks": 3
+      },
+      {
+        "point": "V computed for entrant and rival (1.250, 1.375)",
+        "marks": 2
+      },
+      {
+        "point": "Three strategies computed (1.458, 1.500, 1.750)",
+        "marks": 2
+      },
+      {
+        "point": "Recommendation with margin and relative-value reasoning",
+        "marks": 2
+      },
+      {
+        "point": "Link to focus / decision line",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "GM-2-07",
+    "node": "GM-2",
+    "unit": "International Marketing Unit 1",
+    "type": "case",
+    "marks": 15,
+    "difficulty": "hard",
+    "question": "**Case: Coorg Hills Coffee Pvt Ltd (fictional, all figures illustrative).** Coorg Hills, a small roaster, plans to sell packaged specialty coffee in Japan. On a 100-point scale, Japanese buyers rate its perceived benefits at 88 and perceived costs at 28, at a price of 24 (Rs hundred per pack). A local roaster scores benefits 80, costs 20 and price 20. A global brand scores benefits 85, costs 25 and price 30. Coorg Hills has limited funds and can concentrate on one buyer segment.\n\n(a) Define international marketing (AMA) and name the four decision areas the firm now faces. (3)\n(b) Compute V = B/P for all three firms and rank them. (3)\n(c) Evaluate these strategies for Coorg Hills: price cut to 20; raise benefits to 98 (price stays 24); raise benefits to 98 and cut price to 22. (4)\n(d) Explain the roles of differentiation and focus for this firm. (3)\n(e) Recommend a strategy with a decision line, noting one risk. (2)",
+    "model_answer": "**(a)** International marketing is the multinational process of planning and executing the conception, pricing, promotion and distribution of ideas, goods and services to create exchanges that satisfy individual and organisational objectives (AMA). Four decision areas: market identification and targeting, entry mode selection, marketing mix, and strategic decisions to compete in international markets.\n\n**(b)**\n\n| Firm | B | P | V = B/P |\n|---|---|---|---|\n| Coorg Hills | 88 - 28 = 60 | 24 | 2.500 |\n| Local roaster | 80 - 20 = 60 | 20 | 3.000 |\n| Global brand | 85 - 25 = 60 | 30 | 2.000 |\n\nRanking: local roaster (3.000), Coorg Hills (2.500), global brand (2.000). Coorg Hills already beats the global brand but trails the local rival by 0.5.\n\n**(c)**\n\n| Strategy | B | P | V | Verdict |\n|---|---|---|---|---|\n| Price cut to 20 | 60 | 20 | 3.000 | Ties the local roaster; no lead |\n| Benefits to 98 | 70 | 24 | 2.917 | Closer, still behind |\n| Benefits to 98 and price 22 | 70 | 22 | 3.182 | Beats local roaster |\n\nOnly the combined strategy gives a lead, because value is judged relative to the best competitor.\n\n**(d)** Differentiation: build advantage in any element, such as origin, freshness, pack and story, and offer a superior product at a lower price. Focus: with limited funds, concentrate on one segment (for example specialty cafes or gift buyers) and one city; this is a viable way for small firms to reach a dominant position. Focus also makes the benefit gain more credible, because the offer is tailored to that segment's needs.\n\n**(e)** Choose the combined route aimed at a focused segment. **Decision line:** it is the only option with V above 3.000 (3.182), and it requires only an 8.3% price cut (24 to 22). Risk: the local roaster may respond with a price cut, and the benefit gain must be real and visible to Japanese buyers, so test it before launch. The firm should also verify cultural and import requirements (country and cross-cultural knowledge).",
+    "marking_scheme": [
+      {
+        "point": "(a) AMA definition and four decision areas",
+        "marks": 3
+      },
+      {
+        "point": "(b) Three V values and ranking",
+        "marks": 3
+      },
+      {
+        "point": "(c) Three strategies computed and judged",
+        "marks": 4
+      },
+      {
+        "point": "(d) Differentiation and focus applied to the firm",
+        "marks": 3
+      },
+      {
+        "point": "(e) Recommendation, decision line and risk",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "GM-3-01",
+    "node": "GM-3",
+    "unit": "International Marketing Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "World market potential for a German firm's product is Rs 800 crore (illustrative). Using the faculty figure that 94% of market potential for German companies lies outside Germany, the potential inside Germany is:",
+    "options": [
+      "A) Rs 752 crore",
+      "B) Rs 48 crore",
+      "C) Rs 94 crore",
+      "D) Rs 6 crore"
+    ],
+    "answer": "B",
+    "explanation": "Home share = 100% - 94% = 6%, and 6% of 800 = Rs 48 crore. Option A is the outside potential (94% of 800), the figure the student computes first and then forgets to subtract. Option D takes 6 as a rupee amount rather than a percentage."
+  },
+  {
+    "id": "GM-3-02",
+    "node": "GM-3",
+    "unit": "International Marketing Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A marketer must decide the invoice currency, the shipping terms and the customs documents for a first export order. Which of the three domains of knowledge in global marketing does this mainly draw on?",
+    "options": [
+      "A) Cross-cultural knowledge",
+      "B) Country/regional knowledge",
+      "C) Cross-border transactions knowledge",
+      "D) Global localization"
+    ],
+    "answer": "C",
+    "explanation": "Payments, documents and logistics are cross-border transactions knowledge. Option B is tempting because customs rules belong to a country, but the task here is how to execute the transaction. Option D is not a domain: global localization is the adjustment of global strategy to local requirements."
+  },
+  {
+    "id": "GM-3-03",
+    "node": "GM-3",
+    "unit": "International Marketing Unit 1",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "Explain the three domains of knowledge needed in global marketing and the idea of global localization. (5)",
+    "model_answer": "Marketing discipline is universal but markets and customers are quite different, so a global marketer needs:\n\n| Domain | Covers (illustration) |\n|---|---|\n| Cross-cultural knowledge | Values, language, habits, buying behaviour |\n| Country/regional knowledge | Economy, politics, law, infrastructure, competition |\n| Cross-border transactions knowledge | Documents, payments, currency, customs, logistics |\n\n**Global localization** is the adjustment of global marketing strategies to local requirements: keep the common core, adapt what culture, customers or law demand.\n\nThe illustrations in the table go beyond the slide wording; the three domain names and the definition of global localization are from the slides.",
+    "marking_scheme": [
+      {
+        "point": "Cross-cultural domain with illustration",
+        "marks": 1
+      },
+      {
+        "point": "Country/regional domain with illustration",
+        "marks": 1
+      },
+      {
+        "point": "Cross-border transactions domain with illustration",
+        "marks": 1
+      },
+      {
+        "point": "Global localization defined",
+        "marks": 1
+      },
+      {
+        "point": "Link: why the three domains make localization necessary",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "GM-3-04",
+    "node": "GM-3",
+    "unit": "International Marketing Unit 1",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "World market potential for a firm's product is Rs 2,000 crore (illustrative). Using the faculty figures (75% of potential lies outside the US, 94% outside Germany), compute potential at home and abroad for a US firm and a German firm, compare them and state what this implies about the pull to go global. (5)",
+    "model_answer": "| Home country | Outside share | Home | Outside | Outside as multiple of home |\n|---|---|---|---|---|\n| United States | 75% | 25% x 2,000 = Rs 500 crore | Rs 1,500 crore | 3.0 times |\n| Germany | 94% | 6% x 2,000 = Rs 120 crore | Rs 1,880 crore | 15.7 times |\n\nA German firm staying at home reaches only 6% of its potential, a US firm 25%.\n\n**Implication:** the smaller the home market's share of world potential, the stronger the pull to go global. The German firm has the stronger need; even the US firm has three times its home potential abroad. Only the percentages are from the slides; the Rs 2,000 crore base is illustrative.",
+    "marking_scheme": [
+      {
+        "point": "US home potential Rs 500 crore and outside Rs 1,500 crore",
+        "marks": 1
+      },
+      {
+        "point": "Germany home potential Rs 120 crore and outside Rs 1,880 crore",
+        "marks": 1
+      },
+      {
+        "point": "Comparison (multiples 3.0 and 15.7 or shares 25% vs 6%)",
+        "marks": 1
+      },
+      {
+        "point": "Implication: smaller home share, stronger pull",
+        "marks": 1
+      },
+      {
+        "point": "Link to growth potential / handful of global firms",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "GM-3-05",
+    "node": "GM-3",
+    "unit": "International Marketing Unit 1",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "medium",
+    "question": "Define international marketing and explain why companies go global. Support your answer with the market-potential evidence and explain why global localization is needed. (10)",
+    "model_answer": "**Introduction.** International marketing is the multinational process of planning and executing the conception, pricing, promotion and distribution of ideas, goods and services to create exchanges that satisfy individual and organisational objectives (AMA). The faculty scope covers market identification and targeting, entry mode, marketing mix and competitive strategy.\n\n**Why companies go global**\n1. **Growth potential:** the international arena matters to firms maximising growth.\n2. **Market potential outside the home country:**\n\n| Home country | Potential outside |\n|---|---|\n| United States | 75% |\n| Germany (German firms) | 94% |\n| Japan (Japanese firms) | 90% |\n\n3. **Industry structure:** many industries will be dominated by a handful of global companies (the slide names Walmart, Toyota, Volkswagen), so staying home risks being left behind.\n4. **Market size:** the size of global markets for industries and product categories explains why firms go global.\n\n**Knowledge needed.** Marketing is universal but markets and customers differ, so firms need cross-cultural, country/regional and cross-border transactions knowledge.\n\n**Global localization.** Adjusting global strategies to local requirements (think global, act local): standardise the core, adapt what culture, customers or law require, or the offer fails despite the market's size.\n\n**Interpretation.** The smaller the home market's share of world potential, the stronger the pull to go global; but the size of the prize is only captured if the firm localises.",
+    "marking_scheme": [
+      {
+        "point": "AMA and faculty definition",
+        "marks": 2
+      },
+      {
+        "point": "Growth and market-potential evidence (75, 94, 90)",
+        "marks": 2
+      },
+      {
+        "point": "Handful of global companies and market-size argument",
+        "marks": 1
+      },
+      {
+        "point": "Three domains of knowledge",
+        "marks": 2
+      },
+      {
+        "point": "Global localization explained with reason",
+        "marks": 2
+      },
+      {
+        "point": "Interpretation / conclusion",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "GM-4-01",
+    "node": "GM-4",
+    "unit": "International Marketing Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "A foreign investor says a host government cancelled its operating licence unfairly and wants conciliation or arbitration. Which body from the faculty list is designed for this?",
+    "options": [
+      "A) WTO",
+      "B) IMF",
+      "C) ICSID",
+      "D) UNCTAD"
+    ],
+    "answer": "C",
+    "explanation": "ICSID (International Centre for Settlement of Investment Disputes) handles disputes between foreign investors and host states. Option A is the tempting mistake: the WTO settles trade disputes between member governments, not claims by a private investor against a state."
+  },
+  {
+    "id": "GM-4-02",
+    "node": "GM-4",
+    "unit": "International Marketing Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A very poor country seeks a long-term, interest-free or low-interest credit for rural roads. Which institution is the best fit?",
+    "options": [
+      "A) IBRD",
+      "B) IDA",
+      "C) IFC",
+      "D) IMF"
+    ],
+    "answer": "B",
+    "explanation": "IDA gives soft loans and grants to the poorest countries. Option A is the common mix-up: IBRD lends to middle-income governments at near-market terms. IFC lends to private firms, and the IMF supports balance-of-payments and exchange-rate stability."
+  },
+  {
+    "id": "GM-4-03",
+    "node": "GM-4",
+    "unit": "International Marketing Unit 1",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Explain the role of the WTO, the IMF and the IBRD in global marketing. (5)",
+    "model_answer": "| Body | Role | Why the marketer cares |\n|---|---|---|\n| WTO (World Trade Organization) | Sets and polices trade rules, settles trade disputes, negotiates lower barriers | Tariffs, quotas and anti-dumping rules decide market access |\n| IMF (International Monetary Fund) | Exchange-rate stability, monetary cooperation, balance-of-payments lending | Currency swings affect prices, payment and profit repatriation |\n| IBRD (International Bank for Reconstruction and Development) | World Bank arm lending to middle-income governments for development | Finances ports, roads, power and telecom that make a market reachable |\n\n**Closing line:** WTO is about rules, IMF about money, Bank about projects. The faculty deck lists these bodies by name only; the descriptions are general knowledge.",
+    "marking_scheme": [
+      {
+        "point": "WTO role",
+        "marks": 1
+      },
+      {
+        "point": "IMF role",
+        "marks": 1
+      },
+      {
+        "point": "IBRD role",
+        "marks": 1
+      },
+      {
+        "point": "Marketing relevance of each (market access, currency risk, infrastructure)",
+        "marks": 1
+      },
+      {
+        "point": "Closing line / grouping (rules, money, projects)",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "GM-4-04",
+    "node": "GM-4",
+    "unit": "International Marketing Unit 1",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Distinguish between IBRD, IDA, IFC and ICSID. (5)",
+    "model_answer": "All four sit in the World Bank Group.\n\n| Body | Who it serves | What it does |\n|---|---|---|\n| IBRD | Middle-income governments | Development loans at near-market terms |\n| IDA | Poorest countries | Interest-free or low-interest credit and grants |\n| IFC | Private firms in developing countries | Loans, equity and advice |\n| ICSID | Foreign investors and host states | Conciliation and arbitration of investment disputes |\n\n**Memory anchors:** IBRD and IDA lend to governments (middle-income vs poorest); IFC finances the private sector; ICSID settles disputes, it does not lend. The common slips are mixing IBRD with IDA and IFC with ICSID. (Descriptions are general knowledge; the slides give the names only.)",
+    "marking_scheme": [
+      {
+        "point": "IBRD correctly described",
+        "marks": 1
+      },
+      {
+        "point": "IDA correctly described and contrasted with IBRD",
+        "marks": 1
+      },
+      {
+        "point": "IFC correctly described",
+        "marks": 1
+      },
+      {
+        "point": "ICSID correctly described",
+        "marks": 1
+      },
+      {
+        "point": "Clear basis of distinction (client, terms, purpose) or table format",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "GM-4-05",
+    "node": "GM-4",
+    "unit": "International Marketing Unit 1",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "medium",
+    "question": "Explain the role of the international organisations named in your syllabus (WTO, IBRD, IDA, IFC, ICSID, IMF, UNCTAD, UNIDO) in global trade and marketing. (10)",
+    "model_answer": "**Introduction.** International organisations shape the global environment in which marketers operate: trade rules, money, finance, investor protection and development. The faculty deck lists the eight by name; the roles below are general knowledge.\n\n| Function | Body | Role | Marketing relevance |\n|---|---|---|---|\n| Rules | WTO | Polices trade rules, settles trade disputes, negotiates lower barriers | Market access: tariffs, quotas, anti-dumping |\n| Money | IMF | Exchange-rate stability; balance-of-payments lending | Currency risk, pricing, payment and profit repatriation |\n| Projects | IBRD | Development loans to middle-income governments | Infrastructure that makes markets reachable |\n| Projects | IDA | Soft loans and grants to the poorest countries | Builds infrastructure in low-income future markets |\n| Private finance | IFC | Loans, equity and advice to private firms in developing countries | Project finance and entry partner |\n| Disputes | ICSID | Conciliation and arbitration between investors and host states | Protects FDI and joint ventures |\n| Data and policy | UNCTAD | Helps developing countries integrate through trade, investment, research | Reports on trade and FDI flows |\n| Industry | UNIDO | Industrial development and technology transfer | Industrial upgrading, technology partners |\n\n**Linking to decisions.** WTO rules inform entry-mode and pricing choices; IMF context informs the invoicing currency and payment terms; ICSID cover reassures a firm choosing FDI or a joint venture; IFC and the World Bank arms point to growing markets and funding partners.\n\n**Conclusion.** WTO is about rules, IMF about money, Bank about projects: together they form the global environment (developed in Unit 2).",
+    "marking_scheme": [
+      {
+        "point": "Introduction",
+        "marks": 1
+      },
+      {
+        "point": "Eight bodies grouped with correct roles (about 0.6 each, rounded)",
+        "marks": 5
+      },
+      {
+        "point": "Marketing relevance of at least three bodies",
+        "marks": 2
+      },
+      {
+        "point": "Linking to decisions and conclusion",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "GM-5-01",
+    "node": "GM-5",
+    "unit": "International Marketing Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A firm spends Rs 90 crore on product development. It expects to sell 15 lakh units if it stays home and 45 lakh units if it sells in three markets. By how much does development cost per unit fall because of the wider market? (1 crore = 100 lakh)",
+    "options": [
+      "A) Rs 200",
+      "B) Rs 400",
+      "C) Rs 600",
+      "D) Rs 300"
+    ],
+    "answer": "B",
+    "explanation": "Home: 90 crore / 15 lakh = Rs 600 per unit. Three markets: 90 crore / 45 lakh = Rs 200 per unit. Fall = Rs 400. Option A is the tempting slip: it reports the new per-unit cost instead of the fall. This is the driving force 'product development costs'."
+  },
+  {
+    "id": "GM-5-02",
+    "node": "GM-5",
+    "unit": "International Marketing Unit 1",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "A senior manager insists 'customers abroad are just like ours, so we will copy our home offer'. Which restraining force is at work?",
+    "options": [
+      "A) National controls and barriers",
+      "B) Opposition to globalisation",
+      "C) Management myopia and organisational culture",
+      "D) Regional economic agreements"
+    ],
+    "answer": "C",
+    "explanation": "A home-market-only view that assumes foreign customers are alike is management myopia. Option A is tempting because the firm may later hit barriers, but nothing in the statement concerns tariffs or rules. Option D is a driving force, not a restraint."
+  },
+  {
+    "id": "GM-5-03",
+    "node": "GM-5",
+    "unit": "International Marketing Unit 1",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "List and briefly explain the driving forces affecting global marketing. (5)",
+    "model_answer": "| # | Driving force | Effect |\n|---|---|---|\n| 1 | Technology | Common tools make products and information alike across markets |\n| 2 | Regional economic agreements | Lower barriers, wider markets |\n| 3 | Market needs and wants | Similar demand across countries |\n| 4 | Transportation and communication improvements | Cheaper, faster links |\n| 5 | Product development costs | R&D spread over larger volume |\n| 6 | Quality | Global quality standards, reached through scale |\n| 7 | World economic trends | Growth and liberalisation open markets |\n| 8 | Leverage | Experience transfers, scale economies, resource utilisation |\n\n**Link to decision:** where these forces are strong for a firm, it should go global now; otherwise stage entry.",
+    "marking_scheme": [
+      {
+        "point": "Any six forces correctly named",
+        "marks": 3
+      },
+      {
+        "point": "Brief effect of the forces",
+        "marks": 1
+      },
+      {
+        "point": "Leverage correctly explained (experience, scale, resources)",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "GM-5-04",
+    "node": "GM-5",
+    "unit": "International Marketing Unit 1",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Name the restraining forces on global marketing and suggest a response to each. (5)",
+    "model_answer": "| Restraining force | Meaning | Response |\n|---|---|---|\n| Management myopia and organisational culture | Home-market-only view; assumption that foreign customers are alike; culture that resists change | Global mindset training for top management; research on each market |\n| National controls and barriers | Tariffs, quotas, licensing, local-content and exchange rules | Joint venture, licensing or local production |\n| Opposition to globalisation | Public and political resistance on jobs, culture, environment | Local employment and sourcing; visible social responsibility |\n\nThe three forces are from the slides; the meanings and responses are general knowledge. Close with the net judgement: if driving forces outweigh these, go global but manage the largest restraint first.",
+    "marking_scheme": [
+      {
+        "point": "Management myopia and organisational culture",
+        "marks": 1
+      },
+      {
+        "point": "National controls and barriers",
+        "marks": 1
+      },
+      {
+        "point": "Opposition to globalisation",
+        "marks": 1
+      },
+      {
+        "point": "Appropriate responses (two or three)",
+        "marks": 1
+      },
+      {
+        "point": "Net judgement or tie to firm decision",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "GM-5-05",
+    "node": "GM-5",
+    "unit": "International Marketing Unit 1",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "A firm's driving forces score 48 and its restraining forces score 32 on a weighted scorecard (illustrative). Compute the net score and the ratio, state what they mean and name two restraining forces that might make the firm stage its entry. (5)",
+    "model_answer": "Net = 48 - 32 = **+16**. Ratio = 48/32 = **1.5**.\n\n**Meaning:** driving forces are one and a half times the restraints, so the balance favours going global. The margin is modest, so the decision should be staged, not an all-in entry. The scores are judgemental; the ratio shows direction only.\n\n**Restraints to manage:** national controls and barriers (use a joint venture, licensing or local production) and management myopia and organisational culture (training, market research).",
+    "marking_scheme": [
+      {
+        "point": "Net score +16",
+        "marks": 1
+      },
+      {
+        "point": "Ratio 1.5",
+        "marks": 1
+      },
+      {
+        "point": "Interpretation: balance favours going global",
+        "marks": 1
+      },
+      {
+        "point": "Staged entry / modest margin reasoning",
+        "marks": 1
+      },
+      {
+        "point": "Two restraining forces named with response",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "GM-5-06",
+    "node": "GM-5",
+    "unit": "International Marketing Unit 1",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "medium",
+    "question": "Discuss the driving and restraining forces affecting global marketing. How should a firm weigh them before going global? (10)",
+    "model_answer": "**Introduction.** Some forces push firms to market globally; others hold them back. A firm should weigh both for its own situation.\n\n**Driving forces**\n\n| Force | Effect |\n|---|---|\n| Technology | Common tools and information |\n| Regional economic agreements | Lower barriers, larger markets |\n| Market needs and wants | Similar demand across countries |\n| Transportation and communication improvements | Cheaper, faster links |\n| Product development costs | R&D spread over larger volume |\n| Quality | Global standards through scale |\n| World economic trends | Growth, liberalisation |\n| Leverage | Experience transfers, scale economies, resource utilisation |\n\n**Restraining forces**\n- Management myopia and organisational culture (home-market view): train managers, research each market.\n- National controls and barriers: use joint ventures, licensing or local production.\n- Opposition to globalisation: local jobs, local sourcing, visible social responsibility.\n\n**Weighing them.** Score each force as weight x strength, total the two sides, and compute net and ratio. For example, 56 against 28 gives net +28 and ratio 2.0 (illustrative). A high ratio supports going global now; a low or negative one means staging entry or delaying.\n\n**Conclusion.** The largest restraint should shape the entry mode; the scorecard is judgemental and shows direction, not precision.",
+    "marking_scheme": [
+      {
+        "point": "Introduction",
+        "marks": 1
+      },
+      {
+        "point": "Driving forces (at least six) with effect, plus leverage detail",
+        "marks": 3
+      },
+      {
+        "point": "Three restraining forces",
+        "marks": 2
+      },
+      {
+        "point": "Responses to restraints",
+        "marks": 2
+      },
+      {
+        "point": "Weighing method and net judgement",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "GM-5-07",
+    "node": "GM-5",
+    "unit": "International Marketing Unit 1",
+    "type": "case",
+    "marks": 15,
+    "difficulty": "hard",
+    "question": "**Case: Konkan Marine Equipment Ltd (fictional, all figures illustrative).** Konkan makes pumps for fishing boats. It spent Rs 60 crore developing a new range. Selling only in India, it expects 20,000 units; if it exports as well, 60,000 units. Management scores each force for the firm as weight (1-5) x strength (1-5):\n\nDriving: product development costs (5, 5); regional economic agreements (4, 3); quality (3, 4); technology (2, 4).\nRestraining: national controls and barriers (5, 4); management myopia and organisational culture (4, 3); opposition to globalisation (2, 2).\n\n(a) Compute development cost per unit at home-only and at export volume, and name the driving force this shows. (2)\n(b) Compute the driving and restraining totals, the net and the ratio. (4)\n(c) A new import licensing rule raises the strength of 'national controls and barriers' from 4 to 5. Recompute and say whether your advice changes. (3)\n(d) Suggest a response to each restraining force. (3)\n(e) Give your final recommendation and decision line. (3)",
+    "model_answer": "**(a)** Home only: Rs 60 crore / 20,000 = Rs 30,000 per unit. Export volume: Rs 60 crore / 60,000 = Rs 10,000 per unit. Volume trebles and cost per unit falls by two-thirds (Rs 20,000). Driving force: **product development costs** (the leverage of scale economies).\n\n**(b)**\n\n| Side | Force | Score |\n|---|---|---|\n| Driving | Product development costs | 5 x 5 = 25 |\n| Driving | Regional economic agreements | 4 x 3 = 12 |\n| Driving | Quality | 3 x 4 = 12 |\n| Driving | Technology | 2 x 4 = 8 |\n| Restraining | National controls and barriers | 5 x 4 = 20 |\n| Restraining | Management myopia and culture | 4 x 3 = 12 |\n| Restraining | Opposition to globalisation | 2 x 2 = 4 |\n\nDriving = 25 + 12 + 12 + 8 = **57**. Restraining = 20 + 12 + 4 = **36**. Net = **+21**. Ratio = 57/36 = **1.58**.\n\n**(c)** National controls become 5 x 5 = 25, so restraining = 41, net = 57 - 41 = **+16**, ratio = 57/41 = **1.39**. The balance still favours going global but the margin has narrowed, so advice shifts from full export launch to a staged or partnered entry.\n\n**(d)**\n- National controls and barriers: local assembly partner, licensing or joint venture to work around the licence.\n- Management myopia: train managers, market research on foreign boat owners, adapt specifications.\n- Opposition to globalisation: local jobs, local sourcing, visible responsibility.\n\n**(e)** Go, but in stages: pursue the export market with the lowest barriers first, via a partner. **Decision line:** drivers beat restraints (+21, falling to +16 after the new rule) and the cost per unit falls from Rs 30,000 to Rs 10,000, so the case for export is strong; the largest restraint, import licensing, decides the entry mode. Scores are judgemental and show direction only.",
+    "marking_scheme": [
+      {
+        "point": "(a) Per-unit costs Rs 30,000 and Rs 10,000; driving force named",
+        "marks": 2
+      },
+      {
+        "point": "(b) Totals 57 and 36, net +21, ratio 1.58",
+        "marks": 4
+      },
+      {
+        "point": "(c) Recomputed 41, +16, 1.39 and judgement on advice",
+        "marks": 3
+      },
+      {
+        "point": "(d) Response to each restraining force",
+        "marks": 3
+      },
+      {
+        "point": "(e) Recommendation with decision line and interpretation",
+        "marks": 3
+      }
+    ]
+  },
+  {
+    "id": "GM-6-01",
+    "node": "GM-6",
+    "unit": "International Marketing Unit 1",
+    "type": "case",
+    "marks": 15,
+    "difficulty": "hard",
+    "question": "**Case: Nilgiri Home Linen Ltd (fictional, all figures illustrative).** Nilgiri sells handloom bed and bath sets in India. Home revenue is Rs 90 crore in a home market it estimates at Rs 360 crore, and growth has slowed to 4% a year. A Netherlands importer offers to stock the range. For European buyers Nilgiri's set scores perceived benefits 84 and perceived costs 24 at a price of Rs 15 hundred per set; the leading rival scores benefits 75 and costs 20 at the same price. EU product-safety and labelling rules apply, and the founder says 'European homes buy linen just as we do'. A senior executive points out that the rival has signalled a 10% price cut.\n\n(a) Compute Nilgiri's home market share and explain why the firm should consider going global, using the faculty market-potential evidence. (3)\n(b) Tabulate the driving and restraining forces in the case and give a net judgement. (3)\n(c) Compute V = B/P for both firms, then recompute after the rival's 10% price cut. What must Nilgiri do, and which principles of marketing are involved? (4)\n(d) Which knowledge domains does Nilgiri need, what should it localise, and which international organisation is relevant? (2)\n(e) Recommend a course of action with a decision line. (3)",
+    "model_answer": "**(a)** Share = 90/360 = **25%**; Rs 270 crore of the home market is held by others, and growth is only 4%, so the ceiling is near. Faculty evidence shows most potential lies outside the home country (75% outside the US, 94% outside Germany, 90% outside Japan), and the smaller the home market, the stronger the pull. Export is a logical route to growth.\n\n**(b)**\n\n| Side | Force from the case | Effect |\n|---|---|---|\n| Driving | Importer offer; transport and communication links | Low-risk first step |\n| Driving | Slowing home growth; fixed costs to spread (leverage: scale economies) | Pushes volume abroad |\n| Restraining | EU safety and labelling rules (national controls and barriers) | Compliance cost and delay |\n| Restraining | Founder's belief that markets are alike (management myopia) | Risk of copying home offer |\n\nNet: drivers stronger, but both restraints must be managed.\n\n**(c)** Nilgiri: B = 84 - 24 = 60; V = 60/15 = **4.000**. Rival: B = 75 - 20 = 55; V = 55/15 = **3.667**. Nilgiri leads by 0.333.\n\nAfter a 10% cut the rival's price is 13.5: V = 55/13.5 = **4.074**, which now beats Nilgiri's 4.000.\n\nNilgiri's options: to beat 4.074 it needs a price below 60/4.074 = 14.73 (a cut of only about 1.8%), or net benefit above 4.074 x 15 = 61.1 (perceived benefits about 86). Principles: customer value (relative to the rival), differentiation (protect the benefit lead, for example in craft authenticity and quality), and focus (target a premium segment where the rival's price cut matters less).\n\n**(d)** Cross-cultural: bedding sizes, colours, buying habits. Country/regional: EU safety and labelling rules, competition, income. Cross-border transactions: documents, currency, payment terms. Localise labels, sizes and compliance while keeping the handloom brand core (global localization). Relevant body: WTO (trade rules on duties) and, for currency and payment risk, the IMF context (general knowledge).\n\n**(e)** Go, in stages: start with the Dutch importer, one product line, EU-compliant labels and a compliance check before shipment; research local tastes to counter myopia; plan a small price or benefit adjustment to defend value.\n\n**Decision line:** the case for entry is sound (25% home share, slowing growth, positive value lead), but the value lead disappears after a 10% rival price cut (4.074 vs 4.000), so success depends on localisation and a quick response, not on the product alone.",
+    "marking_scheme": [
+      {
+        "point": "(a) 25% share; ceiling; 75/94/90 evidence and pull-to-go-global reasoning",
+        "marks": 3
+      },
+      {
+        "point": "(b) Forces tabulated from the case with net judgement",
+        "marks": 3
+      },
+      {
+        "point": "(c) V values 4.000 and 3.667 (1); 4.074 after cut (1); response numbers (1); principles named (1)",
+        "marks": 4
+      },
+      {
+        "point": "(d) Domains, localisation and organisation",
+        "marks": 2
+      },
+      {
+        "point": "(e) Staged recommendation, decision line and interpretation",
+        "marks": 3
+      }
+    ]
+  }
+]
