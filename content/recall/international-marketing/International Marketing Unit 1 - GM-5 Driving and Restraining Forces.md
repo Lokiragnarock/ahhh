@@ -31,7 +31,7 @@ The slide lists eight forces that push firms towards global marketing.
 | 7 | **World economic trends** | Growth, liberalisation and rising incomes in new markets open opportunities |
 | 8 | **Leverage** | Experience transfers, scale economies and resource utilisation (the slide's own list) |
 
-**Leverage in detail (class):** experience transfers (lessons learned in one market used in another), scale economies (lower unit cost at higher volume) and resources utilisation (spare capacity, brands and know-how used more fully). Treat these as the firm-side reasons that sit beside the five environment-side forces.
+**Leverage in detail (class):** experience transfers (lessons learned in one market used in another), scale economies (lower unit cost at higher volume) and resources utilisation (spare capacity, brands and know-how used more fully). Treat these as the firm-side reasons that sit beside the seven other forces.
 
 ## Restraining forces (class)
 Three forces hold firms back.
@@ -45,6 +45,7 @@ Three forces hold firms back.
 - Name the force, state its effect on the firm, tie it to a decision (enter, adapt, delay, partner).
 - Pair each restraint with a response **(general)**: myopia is answered by training and a global mindset in top management; barriers by joint ventures, local production or licensing; opposition by local jobs, local sourcing and visible social responsibility.
 - Conclude with the net direction: if driving forces outweigh restraints for this firm, go global now; otherwise stage the entry.
+- Make the cut-offs explicit: net ratio of driving to restraining 2.0 or more: go now; 1.0 to 2.0: staged entry; below 1.0: delay (illustrative rule). Use it whenever a question gives scores.
 
 ## Worked example: force-field scorecard (fictional firm, illustrative scores)
 Question. Deccan Auto Components Ltd (fictional) is deciding whether to enter export markets. Management scores each force for importance (weight 1 to 5) and strength for this firm (1 to 5). Weigh the forces and advise.
@@ -63,7 +64,7 @@ Question. Deccan Auto Components Ltd (fictional) is deciding whether to enter ex
 2. Driving total = 12 + 20 + 12 + 12 = **56**.
 3. Restraining total = 16 + 6 + 6 = **28**.
 4. Net = 56 - 28 = **+28**; ratio driving to restraining = 56 / 28 = **2.0**.
-5. Decision line: driving forces are twice the restraints, so Deccan should go global, led by the pressure to spread product development cost. Interpretation: the largest restraint is national barriers (16), so enter through a route that works around them, for example a local assembly partner, and keep a plan for the myopia risk (6) through management training. The scale and scores are judgemental and illustrative; the ratio only shows direction.
+5. Decision line: driving forces are twice the restraints, a ratio of 2.0 that meets the go-now band of the illustrative rule, so Deccan should go global, led by the pressure to spread product development cost. Interpretation: the largest restraint is national barriers (16), so enter through a route that works around them, for example a local assembly partner, and keep a plan for the myopia risk (6) through management training. The scale and scores are judgemental and illustrative; the ratio only shows direction.
 
 ## 5-mark skeleton: "Explain the driving and restraining forces affecting global marketing"
 Driving forces listed with a line each (2); leverage explained (1); three restraining forces (1); net judgement or response (1).
@@ -117,7 +118,10 @@ Q: Give one response to national controls and barriers.
 A: Enter through a joint venture, licensing or local production (general).
 
 Q: Illustrative: driving score 56 and restraining score 28. What is the ratio and what does it say?
-A: 56 / 28 = 2.0; driving forces are twice the restraints, so the case favours going global.
+A: 56 / 28 = 2.0; driving forces are twice the restraints, which meets the go-now band of the illustrative rule.
+
+Q: State the illustrative rule for net ratio of driving to restraining forces.
+A: 2.0 or more: go now; 1.0 to 2.0: staged entry; below 1.0: delay (illustrative rule).
 
 Q: What should every force in an answer be tied to?
 A: A firm decision such as enter, adapt, delay or partner.

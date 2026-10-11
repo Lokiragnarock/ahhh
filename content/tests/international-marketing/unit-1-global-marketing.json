@@ -142,13 +142,13 @@
     "difficulty": "medium",
     "question": "A supplier's customers perceive benefits of 95 and perceived costs of 35 on a 100-point scale. The price is 40 (Rs hundred). Using the faculty formula V = B/P, customer value is:",
     "options": [
-      "A) 2.375",
-      "B) 1.500",
+      "A) 0.667",
+      "B) 2.375",
       "C) 20",
-      "D) 0.667"
+      "D) 1.500"
     ],
-    "answer": "B",
-    "explanation": "B = perceived benefits minus perceived costs = 95 - 35 = 60, so V = 60/40 = 1.500. Option A is the tempting mistake: it uses gross benefits (95/40) and forgets to subtract perceived costs. Option C subtracts price as well (95 - 35 - 40), which is not the formula. Option D inverts the ratio (40/60)."
+    "answer": "D",
+    "explanation": "B = perceived benefits minus perceived costs = 95 - 35 = 60, so V = 60/40 = 1.500. Option B is the tempting mistake: it uses gross benefits (95/40) and forgets to subtract perceived costs. Option C subtracts price as well (95 - 35 - 40), which is not the formula. Option A inverts the ratio (40/60). V is a relative index, comparable only across firms on the same scale."
   },
   {
     "id": "GM-2-02",
@@ -159,13 +159,13 @@
     "difficulty": "hard",
     "question": "An entrant has net benefit B = 60 at price P = 50. A local rival delivers V = 1.40. The entrant can either raise B to 70 at the same price, or cut P to 40 at the same B. Which statement is correct?",
     "options": [
-      "A) Only the benefit improvement beats the rival",
-      "B) Only the price cut beats the rival",
+      "A) Only the price cut beats the rival",
+      "B) Only the benefit improvement beats the rival",
       "C) Both beat the rival, and the benefit improvement gives the higher V",
       "D) Neither beats the rival"
     ],
-    "answer": "B",
-    "explanation": "Benefit route: 70/50 = 1.40, which only ties the rival's 1.40. Price route: 60/40 = 1.50, which beats it. Option A is tempting because the slide stresses a superior product, but a tie is not a win: value must exceed the competitor's value."
+    "answer": "A",
+    "explanation": "Benefit route: 70/50 = 1.40, which only ties the rival's 1.40. Price route: 60/40 = 1.50, which beats it. Option B is tempting because the slide stresses a superior product, but a tie is not a win: value must exceed the competitor's value."
   },
   {
     "id": "GM-2-03",
@@ -235,7 +235,7 @@
     "marks": 5,
     "difficulty": "hard",
     "question": "Firm X sells in a new market with perceived benefits 85, perceived costs 25 and price 40 (Rs hundred). Rival R has perceived benefits 75, perceived costs 20 and price 30. (a) Compute V = B/P for both. (b) Show one benefit-led and one price-led route by which X can beat R, and say which route you prefer. (5)",
-    "model_answer": "**(a)** X: B = 85 - 25 = 60; V = 60/40 = **1.500**. R: B = 75 - 20 = 55; V = 55/30 = **1.833**. R delivers more value, so X loses on value.\n\n**(b)** X needs V above 1.833.\n\n| Route | Change | New V |\n|---|---|---|\n| Benefit-led | Raise benefits to 100 so B = 75, price stays 40 | 75/40 = 1.875 |\n| Price-led | Cut price to 32, B stays 60 | 60/32 = 1.875 |\n\nBoth just clear 1.833. **Preference:** the benefit-led route, because a price cut of 20% (40 to 32) erodes margin and invites a response; improvement must be real and visible to buyers. If benefits cannot be raised quickly, a smaller price cut combined with a modest benefit gain is safer.\n\n**Decision line:** value is relative; X wins only if its V exceeds R's 1.833.",
+    "model_answer": "**(a)** X: B = 85 - 25 = 60; V = 60/40 = **1.500**. R: B = 75 - 20 = 55; V = 55/30 = **1.833**. R delivers more value, so X loses on value.\n\n**(b)** X needs V above 1.833.\n\n| Route | Change | New V |\n|---|---|---|\n| Benefit-led | Raise benefits to 100 so B = 75, price stays 40 | 75/40 = 1.875 |\n| Price-led | Cut price to 32, B stays 60 | 60/32 = 1.875 |\n\nBoth just clear 1.833. **Preference:** the benefit-led route, because a price cut of 20% (40 to 32) erodes margin and invites a response; improvement must be real and visible to buyers. If benefits cannot be raised quickly, a smaller price cut combined with a modest benefit gain is safer.\n\n**Decision line:** value is relative; X wins only if its V exceeds R's 1.833. V is a relative index, comparable only across firms on the same scale (here both firms are scored on the same 100-point scale and price unit).",
     "marking_scheme": [
       {
         "point": "V for X = 1.500",
@@ -333,11 +333,11 @@
     "question": "World market potential for a German firm's product is Rs 800 crore (illustrative). Using the faculty figure that 94% of market potential for German companies lies outside Germany, the potential inside Germany is:",
     "options": [
       "A) Rs 752 crore",
-      "B) Rs 48 crore",
-      "C) Rs 94 crore",
+      "B) Rs 94 crore",
+      "C) Rs 48 crore",
       "D) Rs 6 crore"
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Home share = 100% - 94% = 6%, and 6% of 800 = Rs 48 crore. Option A is the outside potential (94% of 800), the figure the student computes first and then forgets to subtract. Option D takes 6 as a rupee amount rather than a percentage."
   },
   {
@@ -347,15 +347,15 @@
     "type": "mcq",
     "marks": 1,
     "difficulty": "medium",
-    "question": "A marketer must decide the invoice currency, the shipping terms and the customs documents for a first export order. Which of the three domains of knowledge in global marketing does this mainly draw on?",
+    "question": "A marketer must decide the invoice currency, the payment terms and the shipping terms for a first export order. Which of the three domains of knowledge in global marketing does this mainly draw on?",
     "options": [
-      "A) Cross-cultural knowledge",
+      "A) Cross-border transactions knowledge",
       "B) Country/regional knowledge",
-      "C) Cross-border transactions knowledge",
+      "C) Cross-cultural knowledge",
       "D) Global localization"
     ],
-    "answer": "C",
-    "explanation": "Payments, documents and logistics are cross-border transactions knowledge. Option B is tempting because customs rules belong to a country, but the task here is how to execute the transaction. Option D is not a domain: global localization is the adjustment of global strategy to local requirements."
+    "answer": "A",
+    "explanation": "Currency, payments and logistics are cross-border transactions knowledge. Option B is tempting because export rules belong to a country, but the task here is how to execute the transaction. Option D is not a domain: global localization is the adjustment of global strategy to local requirements."
   },
   {
     "id": "GM-3-03",
@@ -468,10 +468,10 @@
     "options": [
       "A) WTO",
       "B) IMF",
-      "C) ICSID",
-      "D) UNCTAD"
+      "C) UNCTAD",
+      "D) ICSID"
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "ICSID (International Centre for Settlement of Investment Disputes) handles disputes between foreign investors and host states. Option A is the tempting mistake: the WTO settles trade disputes between member governments, not claims by a private investor against a state."
   },
   {
@@ -563,14 +563,14 @@
     "marks": 10,
     "difficulty": "medium",
     "question": "Explain the role of the international organisations named in your syllabus (WTO, IBRD, IDA, IFC, ICSID, IMF, UNCTAD, UNIDO) in global trade and marketing. (10)",
-    "model_answer": "**Introduction.** International organisations shape the global environment in which marketers operate: trade rules, money, finance, investor protection and development. The faculty deck lists the eight by name; the roles below are general knowledge.\n\n| Function | Body | Role | Marketing relevance |\n|---|---|---|---|\n| Rules | WTO | Polices trade rules, settles trade disputes, negotiates lower barriers | Market access: tariffs, quotas, anti-dumping |\n| Money | IMF | Exchange-rate stability; balance-of-payments lending | Currency risk, pricing, payment and profit repatriation |\n| Projects | IBRD | Development loans to middle-income governments | Infrastructure that makes markets reachable |\n| Projects | IDA | Soft loans and grants to the poorest countries | Builds infrastructure in low-income future markets |\n| Private finance | IFC | Loans, equity and advice to private firms in developing countries | Project finance and entry partner |\n| Disputes | ICSID | Conciliation and arbitration between investors and host states | Protects FDI and joint ventures |\n| Data and policy | UNCTAD | Helps developing countries integrate through trade, investment, research | Reports on trade and FDI flows |\n| Industry | UNIDO | Industrial development and technology transfer | Industrial upgrading, technology partners |\n\n**Linking to decisions.** WTO rules inform entry-mode and pricing choices; IMF context informs the invoicing currency and payment terms; ICSID cover reassures a firm choosing FDI or a joint venture; IFC and the World Bank arms point to growing markets and funding partners.\n\n**Conclusion.** WTO is about rules, IMF about money, Bank about projects: together they form the global environment (developed in Unit 2).",
+    "model_answer": "**Introduction.** International organisations shape the global environment in which marketers operate: trade rules, money, finance, investor protection and development. The faculty deck lists the eight by name; the roles below are general knowledge.\n\n| Function | Body | Role | Marketing relevance |\n|---|---|---|---|\n| Rules | WTO | Polices trade rules, settles trade disputes, negotiates lower barriers | Market access: tariffs, quotas, anti-dumping |\n| Money | IMF | Exchange-rate stability; balance-of-payments lending (agreed July 1944 at Bretton Woods, established December 1945, lending from 1947) | Currency risk, pricing, payment and profit repatriation |\n| Projects | IBRD | Development loans to middle-income governments (agreed July 1944 at Bretton Woods, operating from 1946) | Infrastructure that makes markets reachable |\n| Projects | IDA | Soft loans and grants to the poorest countries | Builds infrastructure in low-income future markets |\n| Private finance | IFC | Loans, equity and advice to private firms in developing countries | Project finance and entry partner |\n| Disputes | ICSID | Conciliation and arbitration between investors and host states | Protects FDI and joint ventures; India is not a party to the ICSID Convention (general) |\n| Data and policy | UNCTAD | Helps developing countries integrate through trade, investment, research | Reports on trade and FDI flows |\n| Industry | UNIDO | Industrial development and technology transfer | Industrial upgrading, technology partners |\n\n**Linking to decisions.** WTO rules inform entry-mode and pricing choices; IMF context informs the invoicing currency and payment terms; ICSID cover reassures a firm choosing FDI or a joint venture; IFC and the World Bank arms point to growing markets and funding partners.\n\n**Conclusion.** WTO is about rules, IMF about money, Bank about projects: together they form the global environment (developed in Unit 2).",
     "marking_scheme": [
       {
         "point": "Introduction",
         "marks": 1
       },
       {
-        "point": "Eight bodies grouped with correct roles (about 0.6 each, rounded)",
+        "point": "1 mark per body for any five correct role statements (5 x 1)",
         "marks": 5
       },
       {
@@ -592,13 +592,13 @@
     "difficulty": "medium",
     "question": "A firm spends Rs 90 crore on product development. It expects to sell 15 lakh units if it stays home and 45 lakh units if it sells in three markets. By how much does development cost per unit fall because of the wider market? (1 crore = 100 lakh)",
     "options": [
-      "A) Rs 200",
-      "B) Rs 400",
+      "A) Rs 400",
+      "B) Rs 200",
       "C) Rs 600",
       "D) Rs 300"
     ],
-    "answer": "B",
-    "explanation": "Home: 90 crore / 15 lakh = Rs 600 per unit. Three markets: 90 crore / 45 lakh = Rs 200 per unit. Fall = Rs 400. Option A is the tempting slip: it reports the new per-unit cost instead of the fall. This is the driving force 'product development costs'."
+    "answer": "A",
+    "explanation": "Home: 90 crore / 15 lakh = Rs 600 per unit. Three markets: 90 crore / 45 lakh = Rs 200 per unit. Fall = Rs 400. Option B is the tempting slip: it reports the new per-unit cost instead of the fall. This is the driving force 'product development costs'."
   },
   {
     "id": "GM-5-02",
@@ -611,11 +611,11 @@
     "options": [
       "A) National controls and barriers",
       "B) Opposition to globalisation",
-      "C) Management myopia and organisational culture",
-      "D) Regional economic agreements"
+      "C) Regional economic agreements",
+      "D) Management myopia and organisational culture"
     ],
-    "answer": "C",
-    "explanation": "A home-market-only view that assumes foreign customers are alike is management myopia. Option A is tempting because the firm may later hit barriers, but nothing in the statement concerns tariffs or rules. Option D is a driving force, not a restraint."
+    "answer": "D",
+    "explanation": "A home-market-only view that assumes foreign customers are alike is management myopia. Option A is tempting because the firm may later hit barriers, but nothing in the statement concerns tariffs or rules. Option C is a driving force, not a restraint."
   },
   {
     "id": "GM-5-03",
@@ -680,8 +680,8 @@
     "type": "short",
     "marks": 5,
     "difficulty": "medium",
-    "question": "A firm's driving forces score 48 and its restraining forces score 32 on a weighted scorecard (illustrative). Compute the net score and the ratio, state what they mean and name two restraining forces that might make the firm stage its entry. (5)",
-    "model_answer": "Net = 48 - 32 = **+16**. Ratio = 48/32 = **1.5**.\n\n**Meaning:** driving forces are one and a half times the restraints, so the balance favours going global. The margin is modest, so the decision should be staged, not an all-in entry. The scores are judgemental; the ratio shows direction only.\n\n**Restraints to manage:** national controls and barriers (use a joint venture, licensing or local production) and management myopia and organisational culture (training, market research).",
+    "question": "A firm's driving forces score 48 and its restraining forces score 32 on a weighted scorecard (illustrative). Compute the net score and the ratio, state what they mean and name two restraining forces that might make the firm stage its entry. Use the rule: net ratio of driving to restraining 2.0 or more: go now; 1.0 to 2.0: staged entry; below 1.0: delay (illustrative rule). (5)",
+    "model_answer": "Net = 48 - 32 = **+16**. Ratio = 48/32 = **1.5**.\n\n**Meaning:** driving forces are one and a half times the restraints. A ratio of 1.5 falls in the 1.0 to 2.0 band, so the rule says **staged entry**, not go-now (which needs 2.0 or more). The balance favours going global, but the margin is modest, so the entry should be staged rather than all-in. The scores are judgemental; the ratio shows direction only.\n\n**Restraints to manage:** national controls and barriers (use a joint venture, licensing or local production) and management myopia and organisational culture (training, market research).",
     "marking_scheme": [
       {
         "point": "Net score +16",
@@ -692,11 +692,11 @@
         "marks": 1
       },
       {
-        "point": "Interpretation: balance favours going global",
+        "point": "Interpretation: 1.5 lies in the 1.0 to 2.0 band, balance favours going global",
         "marks": 1
       },
       {
-        "point": "Staged entry / modest margin reasoning",
+        "point": "Staged entry per the rule (below 2.0), modest margin reasoning",
         "marks": 1
       },
       {
@@ -713,7 +713,7 @@
     "marks": 10,
     "difficulty": "medium",
     "question": "Discuss the driving and restraining forces affecting global marketing. How should a firm weigh them before going global? (10)",
-    "model_answer": "**Introduction.** Some forces push firms to market globally; others hold them back. A firm should weigh both for its own situation.\n\n**Driving forces**\n\n| Force | Effect |\n|---|---|\n| Technology | Common tools and information |\n| Regional economic agreements | Lower barriers, larger markets |\n| Market needs and wants | Similar demand across countries |\n| Transportation and communication improvements | Cheaper, faster links |\n| Product development costs | R&D spread over larger volume |\n| Quality | Global standards through scale |\n| World economic trends | Growth, liberalisation |\n| Leverage | Experience transfers, scale economies, resource utilisation |\n\n**Restraining forces**\n- Management myopia and organisational culture (home-market view): train managers, research each market.\n- National controls and barriers: use joint ventures, licensing or local production.\n- Opposition to globalisation: local jobs, local sourcing, visible social responsibility.\n\n**Weighing them.** Score each force as weight x strength, total the two sides, and compute net and ratio. For example, 56 against 28 gives net +28 and ratio 2.0 (illustrative). A high ratio supports going global now; a low or negative one means staging entry or delaying.\n\n**Conclusion.** The largest restraint should shape the entry mode; the scorecard is judgemental and shows direction, not precision.",
+    "model_answer": "**Introduction.** Some forces push firms to market globally; others hold them back. A firm should weigh both for its own situation.\n\n**Driving forces**\n\n| Force | Effect |\n|---|---|\n| Technology | Common tools and information |\n| Regional economic agreements | Lower barriers, larger markets |\n| Market needs and wants | Similar demand across countries |\n| Transportation and communication improvements | Cheaper, faster links |\n| Product development costs | R&D spread over larger volume |\n| Quality | Global standards through scale |\n| World economic trends | Growth, liberalisation |\n| Leverage | Experience transfers, scale economies, resource utilisation |\n\n**Restraining forces**\n- Management myopia and organisational culture (home-market view): train managers, research each market.\n- National controls and barriers: use joint ventures, licensing or local production.\n- Opposition to globalisation: local jobs, local sourcing, visible social responsibility.\n\n**Weighing them.** Score each force as weight x strength, total the two sides, and compute net and ratio. For example, 56 against 28 gives net +28 and ratio 2.0 (illustrative). Illustrative rule: net ratio of driving to restraining 2.0 or more: go now; 1.0 to 2.0: staged entry; below 1.0: delay (illustrative rule). A high ratio supports going global now; a middling one means staging entry; a low one means delay.\n\n**Conclusion.** The largest restraint should shape the entry mode; the scorecard is judgemental and shows direction, not precision.",
     "marking_scheme": [
       {
         "point": "Introduction",
@@ -744,8 +744,8 @@
     "type": "case",
     "marks": 15,
     "difficulty": "hard",
-    "question": "**Case: Konkan Marine Equipment Ltd (fictional, all figures illustrative).** Konkan makes pumps for fishing boats. It spent Rs 60 crore developing a new range. Selling only in India, it expects 20,000 units; if it exports as well, 60,000 units. Management scores each force for the firm as weight (1-5) x strength (1-5):\n\nDriving: product development costs (5, 5); regional economic agreements (4, 3); quality (3, 4); technology (2, 4).\nRestraining: national controls and barriers (5, 4); management myopia and organisational culture (4, 3); opposition to globalisation (2, 2).\n\n(a) Compute development cost per unit at home-only and at export volume, and name the driving force this shows. (2)\n(b) Compute the driving and restraining totals, the net and the ratio. (4)\n(c) A new import licensing rule raises the strength of 'national controls and barriers' from 4 to 5. Recompute and say whether your advice changes. (3)\n(d) Suggest a response to each restraining force. (3)\n(e) Give your final recommendation and decision line. (3)",
-    "model_answer": "**(a)** Home only: Rs 60 crore / 20,000 = Rs 30,000 per unit. Export volume: Rs 60 crore / 60,000 = Rs 10,000 per unit. Volume trebles and cost per unit falls by two-thirds (Rs 20,000). Driving force: **product development costs** (the leverage of scale economies).\n\n**(b)**\n\n| Side | Force | Score |\n|---|---|---|\n| Driving | Product development costs | 5 x 5 = 25 |\n| Driving | Regional economic agreements | 4 x 3 = 12 |\n| Driving | Quality | 3 x 4 = 12 |\n| Driving | Technology | 2 x 4 = 8 |\n| Restraining | National controls and barriers | 5 x 4 = 20 |\n| Restraining | Management myopia and culture | 4 x 3 = 12 |\n| Restraining | Opposition to globalisation | 2 x 2 = 4 |\n\nDriving = 25 + 12 + 12 + 8 = **57**. Restraining = 20 + 12 + 4 = **36**. Net = **+21**. Ratio = 57/36 = **1.58**.\n\n**(c)** National controls become 5 x 5 = 25, so restraining = 41, net = 57 - 41 = **+16**, ratio = 57/41 = **1.39**. The balance still favours going global but the margin has narrowed, so advice shifts from full export launch to a staged or partnered entry.\n\n**(d)**\n- National controls and barriers: local assembly partner, licensing or joint venture to work around the licence.\n- Management myopia: train managers, market research on foreign boat owners, adapt specifications.\n- Opposition to globalisation: local jobs, local sourcing, visible responsibility.\n\n**(e)** Go, but in stages: pursue the export market with the lowest barriers first, via a partner. **Decision line:** drivers beat restraints (+21, falling to +16 after the new rule) and the cost per unit falls from Rs 30,000 to Rs 10,000, so the case for export is strong; the largest restraint, import licensing, decides the entry mode. Scores are judgemental and show direction only.",
+    "question": "**Case: Konkan Marine Equipment Ltd (fictional, all figures illustrative).** Konkan makes pumps for fishing boats. It spent Rs 60 crore developing a new range. Selling only in India, it expects 20,000 units; if it exports as well, 60,000 units. Management scores each force for the firm as weight (1-5) x strength (1-5):\n\nDriving: product development costs (5, 5); regional economic agreements (4, 3); quality (3, 4); technology (2, 4).\nRestraining: national controls and barriers (5, 4); management myopia and organisational culture (4, 3); opposition to globalisation (2, 2).\n\nDecision rule: net ratio of driving to restraining 2.0 or more: go now; 1.0 to 2.0: staged entry; below 1.0: delay (illustrative rule).\n\n(a) Compute development cost per unit at home-only and at export volume, and name the driving force this shows. (2)\n(b) Compute the driving and restraining totals, the net and the ratio. (4)\n(c) A new import licensing rule raises the strength of 'national controls and barriers' from 4 to 5. Recompute, state which band the firm now falls in and whether the advice changes. (3)\n(d) Suggest a response to each restraining force. (3)\n(e) Give your final recommendation and decision line. (3)",
+    "model_answer": "**(a)** Home only: Rs 60 crore / 20,000 = Rs 30,000 per unit. Export volume: Rs 60 crore / 60,000 = Rs 10,000 per unit. Volume trebles and cost per unit falls by two-thirds (Rs 20,000). Driving force: **product development costs** (the leverage of scale economies).\n\n**(b)**\n\n| Side | Force | Score |\n|---|---|---|\n| Driving | Product development costs | 5 x 5 = 25 |\n| Driving | Regional economic agreements | 4 x 3 = 12 |\n| Driving | Quality | 3 x 4 = 12 |\n| Driving | Technology | 2 x 4 = 8 |\n| Restraining | National controls and barriers | 5 x 4 = 20 |\n| Restraining | Management myopia and culture | 4 x 3 = 12 |\n| Restraining | Opposition to globalisation | 2 x 2 = 4 |\n\nDriving = 25 + 12 + 12 + 8 = **57**. Restraining = 20 + 12 + 4 = **36**. Net = **+21**. Ratio = 57/36 = **1.58**, which lies in the 1.0 to 2.0 band: staged entry.\n\n**(c)** National controls become 5 x 5 = 25, so restraining = 41, net = 57 - 41 = **+16**, ratio = 57/41 = **1.39**. Band: still 1.0 to 2.0, so the firm falls in the same staged-entry band as before and the advice does not change. The ratio has moved further from the 2.0 go-now line, so the staging should be more cautious (partnered entry).\n\n**(d)**\n- National controls and barriers: local assembly partner, licensing or joint venture to work around the licence.\n- Management myopia: train managers, market research on foreign boat owners, adapt specifications.\n- Opposition to globalisation: local jobs, local sourcing, visible responsibility.\n\n**(e)** Go, but in stages: pursue the export market with the lowest barriers first, via a partner. **Decision line:** drivers beat restraints (ratio 1.58, falling to 1.39 after the new rule), both in the 1.0 to 2.0 staged-entry band, and the cost per unit falls from Rs 30,000 to Rs 10,000, so the case for export is real but not a go-now; the largest restraint, import licensing, decides the entry mode. Scores are judgemental and show direction only.",
     "marking_scheme": [
       {
         "point": "(a) Per-unit costs Rs 30,000 and Rs 10,000; driving force named",
@@ -756,7 +756,7 @@
         "marks": 4
       },
       {
-        "point": "(c) Recomputed 41, +16, 1.39 and judgement on advice",
+        "point": "(c) Recomputed 41, +16, 1.39; band stated (1.0 to 2.0, staged) and whether advice changes (no)",
         "marks": 3
       },
       {
@@ -776,15 +776,15 @@
     "type": "case",
     "marks": 15,
     "difficulty": "hard",
-    "question": "**Case: Nilgiri Home Linen Ltd (fictional, all figures illustrative).** Nilgiri sells handloom bed and bath sets in India. Home revenue is Rs 90 crore in a home market it estimates at Rs 360 crore, and growth has slowed to 4% a year. A Netherlands importer offers to stock the range. For European buyers Nilgiri's set scores perceived benefits 84 and perceived costs 24 at a price of Rs 15 hundred per set; the leading rival scores benefits 75 and costs 20 at the same price. EU product-safety and labelling rules apply, and the founder says 'European homes buy linen just as we do'. A senior executive points out that the rival has signalled a 10% price cut.\n\n(a) Compute Nilgiri's home market share and explain why the firm should consider going global, using the faculty market-potential evidence. (3)\n(b) Tabulate the driving and restraining forces in the case and give a net judgement. (3)\n(c) Compute V = B/P for both firms, then recompute after the rival's 10% price cut. What must Nilgiri do, and which principles of marketing are involved? (4)\n(d) Which knowledge domains does Nilgiri need, what should it localise, and which international organisation is relevant? (2)\n(e) Recommend a course of action with a decision line. (3)",
-    "model_answer": "**(a)** Share = 90/360 = **25%**; Rs 270 crore of the home market is held by others, and growth is only 4%, so the ceiling is near. Faculty evidence shows most potential lies outside the home country (75% outside the US, 94% outside Germany, 90% outside Japan), and the smaller the home market, the stronger the pull. Export is a logical route to growth.\n\n**(b)**\n\n| Side | Force from the case | Effect |\n|---|---|---|\n| Driving | Importer offer; transport and communication links | Low-risk first step |\n| Driving | Slowing home growth; fixed costs to spread (leverage: scale economies) | Pushes volume abroad |\n| Restraining | EU safety and labelling rules (national controls and barriers) | Compliance cost and delay |\n| Restraining | Founder's belief that markets are alike (management myopia) | Risk of copying home offer |\n\nNet: drivers stronger, but both restraints must be managed.\n\n**(c)** Nilgiri: B = 84 - 24 = 60; V = 60/15 = **4.000**. Rival: B = 75 - 20 = 55; V = 55/15 = **3.667**. Nilgiri leads by 0.333.\n\nAfter a 10% cut the rival's price is 13.5: V = 55/13.5 = **4.074**, which now beats Nilgiri's 4.000.\n\nNilgiri's options: to beat 4.074 it needs a price below 60/4.074 = 14.73 (a cut of only about 1.8%), or net benefit above 4.074 x 15 = 61.1 (perceived benefits about 86). Principles: customer value (relative to the rival), differentiation (protect the benefit lead, for example in craft authenticity and quality), and focus (target a premium segment where the rival's price cut matters less).\n\n**(d)** Cross-cultural: bedding sizes, colours, buying habits. Country/regional: EU safety and labelling rules, competition, income. Cross-border transactions: documents, currency, payment terms. Localise labels, sizes and compliance while keeping the handloom brand core (global localization). Relevant body: WTO (trade rules on duties) and, for currency and payment risk, the IMF context (general knowledge).\n\n**(e)** Go, in stages: start with the Dutch importer, one product line, EU-compliant labels and a compliance check before shipment; research local tastes to counter myopia; plan a small price or benefit adjustment to defend value.\n\n**Decision line:** the case for entry is sound (25% home share, slowing growth, positive value lead), but the value lead disappears after a 10% rival price cut (4.074 vs 4.000), so success depends on localisation and a quick response, not on the product alone.",
+    "question": "**Case: Nilgiri Home Linen Ltd (fictional, all figures illustrative).** Nilgiri sells handloom bed and bath sets in India. Home revenue is Rs 90 crore in a home market it estimates at Rs 360 crore, and growth has slowed to 4% a year. A Netherlands importer offers to stock the range. For European buyers Nilgiri's set scores perceived benefits 84 and perceived costs 24 at a price of Rs 15 hundred per set; the leading rival scores benefits 75 and costs 20 at the same price. EU product-safety and labelling rules apply, and the founder says 'European homes buy linen just as we do'. A senior executive points out that the rival has signalled a 10% price cut.\n\n(a) Compute Nilgiri's home market share and explain why the firm should consider going global, using the faculty market-potential evidence. (3)\n(b) Tabulate the driving and restraining forces in the case and give a net judgement using the rule: net ratio of driving to restraining 2.0 or more: go now; 1.0 to 2.0: staged entry; below 1.0: delay (illustrative rule). The case gives no scores, so judge the band qualitatively. (3)\n(c) Compute V = B/P for both firms, then recompute after the rival's 10% price cut. What must Nilgiri do, and which principles of marketing are involved? (4)\n(d) Which knowledge domains does Nilgiri need, what should it localise, and which international organisation is relevant? (2)\n(e) Recommend a course of action with a decision line. (3)",
+    "model_answer": "**(a)** Share = 90/360 = **25%**; Rs 270 crore of the home market is held by others, and growth is only 4%, so the ceiling is near. Faculty evidence shows most potential lies outside the home country (75% outside the US, 94% outside Germany, 90% outside Japan), and the smaller the home market, the stronger the pull. Export is a logical route to growth.\n\n**(b)**\n\n| Side | Force from the case | Effect |\n|---|---|---|\n| Driving | Importer offer; transport and communication links | Low-risk first step |\n| Driving | Slowing home growth; fixed costs to spread (leverage: scale economies) | Pushes volume abroad |\n| Restraining | EU safety and labelling rules (national controls and barriers) | Compliance cost and delay |\n| Restraining | Founder's belief that markets are alike (management myopia) | Risk of copying home offer |\n\nNet: drivers are stronger, but two material restraints (compliance cost and the founder's myopia) keep the balance short of a clear 2.0, so on the rule the firm sits in the 1.0 to 2.0 band: staged entry, not go-now (judged qualitatively, as no scores are given).\n\n**(c)** Nilgiri: B = 84 - 24 = 60; V = 60/15 = **4.000**. Rival: B = 75 - 20 = 55; V = 55/15 = **3.667**. Nilgiri leads by 0.333.\n\nAfter a 10% cut the rival's price is 13.5: V = 55/13.5 = **4.074**, which now beats Nilgiri's 4.000.\n\nNilgiri's options: to beat 4.074 it needs a price below 60/4.074 = 14.73 (a cut of only about 1.8%), or net benefit above 4.074 x 15 = 61.1 (perceived benefits about 86). Principles: customer value (relative to the rival), differentiation (protect the benefit lead, for example in craft authenticity and quality), and focus (target a premium segment where the rival's price cut matters less).\n\n**(d)** Cross-cultural: bedding sizes, colours, buying habits. Country/regional: EU safety and labelling rules, competition, income. Cross-border transactions: documents, currency, payment terms. Localise labels, sizes and compliance while keeping the handloom brand core (global localization). Relevant body: WTO (trade rules on duties) and, for currency and payment risk, the IMF context (general knowledge).\n\n**(e)** Go, in stages (the staged-entry band): start with the Dutch importer, one product line, EU-compliant labels and a compliance check before shipment; research local tastes to counter myopia; plan a small price or benefit adjustment to defend value.\n\n**Decision line:** the case for entry is sound (25% home share, slowing growth, positive value lead), but the value lead disappears after a 10% rival price cut (4.074 vs 4.000), so success depends on localisation and a quick response, not on the product alone.",
     "marking_scheme": [
       {
         "point": "(a) 25% share; ceiling; 75/94/90 evidence and pull-to-go-global reasoning",
         "marks": 3
       },
       {
-        "point": "(b) Forces tabulated from the case with net judgement",
+        "point": "(b) Forces tabulated from the case with net judgement and band (staged entry)",
         "marks": 3
       },
       {
@@ -798,6 +798,74 @@
       {
         "point": "(e) Staged recommendation, decision line and interpretation",
         "marks": 3
+      }
+    ]
+  },
+  {
+    "id": "GM-6-02",
+    "node": "GM-6",
+    "unit": "International Marketing Unit 1",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "State the customer value formula and explain how a firm can raise customer value. Illustrate with a firm whose perceived benefits are 80, perceived costs 30 and price 50 (Rs hundred), facing a rival with perceived benefits 75, perceived costs 20 and price 50. (5)",
+    "model_answer": "**Formula (class).** V = B/P, where B = perceived benefits minus perceived costs and P = price. Goal: create customer value greater than the value created by competitors.\n\n**Three routes.** Improve benefits, reduce price, or combine the two.\n\n**Illustration (illustrative figures)**\n- Firm: B = 80 - 30 = 50; V = 50/50 = **1.000**.\n- Rival: B = 75 - 20 = 55; V = 55/50 = **1.100**. The firm trails by 0.100.\n\n| Route | Change | New B | New P | New V |\n|---|---|---|---|---|\n| Improve benefits | Benefits 80 to 90 | 60 | 50 | 1.200 |\n| Reduce price | Price 50 to 40 | 50 | 40 | 1.250 |\n| Combine | Both | 60 | 40 | 1.500 |\n\n**Decision line:** all three routes beat the rival's 1.100, so any would win. The price cut gives up margin, so improve benefits first and use a price move only if needed. V is a relative index, comparable only across firms on the same scale; the firm wins only if its V exceeds the rival's.",
+    "marking_scheme": [
+      {
+        "point": "V = B/P with B and P defined",
+        "marks": 1
+      },
+      {
+        "point": "Goal and three routes (benefits, price, both)",
+        "marks": 1
+      },
+      {
+        "point": "V for firm 1.000 and rival 1.100 with comparison",
+        "marks": 1
+      },
+      {
+        "point": "Three routes computed (1.200, 1.250, 1.500)",
+        "marks": 1
+      },
+      {
+        "point": "Decision line: relative value, same scale, margin",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "GM-6-03",
+    "node": "GM-6",
+    "unit": "International Marketing Unit 1",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "medium",
+    "question": "Define international marketing and explain why firms go global. Take a world market potential of Rs 1,000 crore (illustrative) to compare the United States, Germany and Japan, and show with a numeric example how product development cost per unit falls when a firm exports. (10)",
+    "model_answer": "**Introduction.** International marketing is the multinational process of planning and executing the conception, pricing, promotion and distribution of ideas, goods and services to create exchanges that satisfy individual and organisational objectives (AMA). The faculty scope: market identification and targeting, entry mode selection, marketing mix, and strategic decisions to compete in international markets. In simple words, it is the application of marketing principles across national boundaries.\n\n**Why firms go global**\n\n1. **Market potential outside the home country.** Faculty figures: 75% outside the US, 94% outside Germany, 90% outside Japan. On an illustrative Rs 1,000 crore of world potential:\n\n| Home country | Home | Outside | Outside as multiple of home |\n|---|---|---|---|\n| United States | 25% = Rs 250 crore | Rs 750 crore | 3.0 times |\n| Germany | 6% = Rs 60 crore | Rs 940 crore | 15.7 times |\n| Japan | 10% = Rs 100 crore | Rs 900 crore | 9.0 times |\n\nThe smaller the home share, the stronger the pull to go global.\n\n2. **Product development cost (a driving force).** Illustrative: Rs 48 crore of development cost over 4 lakh home units is Rs 1,200 per unit; over 12 lakh units with exports it is Rs 400 per unit, a fall of Rs 800.\n3. **Growth and industry structure.** The international arena matters to firms maximising growth, and many industries will be dominated by a handful of global companies.\n4. **Other driving forces:** technology, regional economic agreements, market needs and wants, transport and communication, quality, world economic trends and leverage.\n\n**Cost of going global.** Marketing is universal but practice varies, so firms need cross-cultural, country/regional and cross-border transactions knowledge, and must apply global localization (adjusting global strategy to local requirements). Restraints include management myopia, national controls and barriers, and opposition to globalisation.\n\n**Interpretation.** A German firm reaches only 6% of its potential at home, so its need to go global is strongest; the Rs 800 saving per unit shows the scale gain; but the prize is captured only if the firm localises and manages the restraints. Figures are illustrative; only the percentages are from the slides.",
+    "marking_scheme": [
+      {
+        "point": "AMA definition and faculty scope of four decision areas",
+        "marks": 2
+      },
+      {
+        "point": "Market-potential table computed (250/750, 60/940, 100/900) and read",
+        "marks": 2
+      },
+      {
+        "point": "Product development cost example (Rs 1,200 to Rs 400, fall Rs 800)",
+        "marks": 2
+      },
+      {
+        "point": "Growth, handful of global firms and other driving forces",
+        "marks": 1
+      },
+      {
+        "point": "Three knowledge domains, global localization and restraints",
+        "marks": 2
+      },
+      {
+        "point": "Interpretation / conclusion",
+        "marks": 1
       }
     ]
   }

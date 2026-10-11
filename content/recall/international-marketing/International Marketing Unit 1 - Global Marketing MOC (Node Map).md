@@ -36,6 +36,9 @@ graph TD
     GM4 --> GM5
     GM5 --> GM6["GM-6 Exam answers"]
     GM2 --> GM6
+    GM1 --> GM6
+    GM3 --> GM6
+    GM4 --> GM6
 ```
 
 ## Headline facts to know
@@ -47,5 +50,10 @@ graph TD
 - Eight driving forces, three restraining forces; leverage = experience, scale, resources.
 
 ## Links
+- [[International Marketing MOC]]
 - [[International Marketing Unit 1 - GM-1 Marketing as a Universal Discipline and the Marketing Concept]]
+- [[International Marketing Unit 1 - GM-2 Definition of International Marketing and the Three Principles]]
+- [[International Marketing Unit 1 - GM-3 Global Marketing Knowledge Domains and Importance]]
+- [[International Marketing Unit 1 - GM-4 International Organisations]]
+- [[International Marketing Unit 1 - GM-5 Driving and Restraining Forces]]
 - [[International Marketing Unit 1 - GM-6 Unit 1 Exam Answers]]

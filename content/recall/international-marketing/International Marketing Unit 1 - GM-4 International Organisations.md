@@ -38,14 +38,14 @@ Covers: what each of the eight organisations does and why an international marke
 ## Background facts for one-line answers (general) [VERIFY all dates and counts]
 | Organisation | Founded (approx.) | Base |
 |---|---|---|
-| IMF and IBRD | Agreed at Bretton Woods, 1944 | Washington, D.C. |
+| IMF and IBRD | Agreed July 1944 at Bretton Woods; IMF established December 1945 (lending from 1947), IBRD operating from June 1946 | Washington, D.C. |
 | IFC | 1956 | Washington, D.C. |
 | IDA | 1960 | Washington, D.C. |
 | UNCTAD | 1964 | Geneva |
 | ICSID | 1966 (convention in force) | Washington, D.C. |
 | UNIDO | 1966 (UN specialised agency from the mid-1980s) | Vienna |
 | WTO | 1 January 1995, successor to GATT (1947) | Geneva |
-India is a WTO member **(general)**. Whether India is a party to the ICSID convention is a point to check before writing it **[VERIFY]**; leave it out of an exam answer if unsure.
+India is a WTO member **(general)**. India is not a party to the ICSID Convention **(general)**.
 
 ## Worked example: which organisation fits the problem? (illustrative)
 Question. For each situation below, name the organisation a firm or government would turn to, and justify in one line. All situations are fictional.

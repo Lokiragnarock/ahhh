@@ -30,8 +30,8 @@ The slides give two ways to read the word marketing.
 The concept "has changed dramatically". Learn it as a timeline.
 | Period | Focus (slide) | Detail |
 |---|---|---|
-| 1950s | Products | Make a good product and it sells |
-| 1960s | Customer orientation | Marketing mix developed: product, price, place, promotion (the 4Ps) |
+| 1950s | Products | Make a good product and it sells **(general)** |
+| 1960s | Customer orientation | Marketing mix developed, the 4Ps; the four Ps are product, price, place, promotion **(general)** |
 | 1990s | Customer in the broader external environment; stakeholder value | Competition, government policy and regulation; value for employees, customers, shareholders, society |
 | Today | Two key tasks; strategic partnerships; co-creation | See below |
 
@@ -39,7 +39,7 @@ The concept "has changed dramatically". Learn it as a timeline.
 - **Two key tasks:** (1) focus on the customer and his or her environment; (2) create value for consumers and stakeholders.
 - **Shift towards** managing strategic partnerships, and positioning the firm in the value chain to optimise value creation.
 - **Profit is a measure of success, not an end in itself.**
-- **Customer co-creation:** the customer helps shape the offer, not just buy it.
+- **Customer co-creation:** the customer helps shape the offer, not just buy it **(general)**.
 
 **(general)** Textbooks label the stages production, product, selling, marketing and societal orientation. The slides use decades instead; in the exam use the slide decades and mention the textbook labels in one line at most.
 
@@ -91,7 +91,7 @@ Q: What was the marketing focus in the 1950s?
 A: Products.
 
 Q: What developed in the 1960s?
-A: Customer orientation and the marketing mix of product, price, place and promotion (4Ps).
+A: Customer orientation and the marketing mix (4Ps; spelling them out as product, price, place, promotion is general).
 
 Q: What did the 1990s add to the marketing concept?
 A: Customer focus within the broader external environment (competition, government policy and regulation) and stakeholder value.
@@ -106,9 +106,9 @@ Q: How does the slide treat profit?
 A: As a measure of success, not an end in itself.
 
 Q: What is customer co-creation?
-A: The customer takes part in shaping the offer, a feature of today's marketing concept.
+A: The customer takes part in shaping the offer, a feature of today's marketing concept (the plain-words gloss is general).
 
 ## Sources
-- Faculty deck Unit 1, slides 3-6. The textbook stage labels are **(general)**.
+- Faculty deck Unit 1, slides 3-6. The textbook stage labels, the 1950s gloss, the four Ps spelled out and the co-creation gloss are **(general)**.
 - Next node: [[International Marketing Unit 1 - GM-2 Definition of International Marketing and the Three Principles]]
 - [[International Marketing Unit 1 - Global Marketing MOC (Node Map)]]

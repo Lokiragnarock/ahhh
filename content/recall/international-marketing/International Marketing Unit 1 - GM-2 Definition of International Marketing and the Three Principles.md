@@ -38,9 +38,11 @@ The slide shows three words: **customer focus (value), differentiation, focus**.
 
 **Reading the formula:** value rises if net benefits rise or price falls. **(general)** To avoid counting price twice, treat "perceived costs" as the non-price costs of buying and using (time, effort, risk, switching). Say this in one line only if the examiner asks about the formula; otherwise write it as the slide does.
 
+**V is a relative index, comparable only across firms on the same scale.** A V of 1.500 means nothing alone; compare it with the rival's V, computed with the same 100-point scale and the same price units.
+
 ### 2. Differentiation (class)
 - **Goal:** create competitive advantage through differentiation.
-- Advantage can exist in **any element** of the company's offer (product, price, place, promotion).
+- Advantage can exist in **any element** of the company's offer (the four Ps: product, price, place, promotion **(general)**).
 - One way to penetrate a new national market: offer a **superior product at a lower price**.
 
 ### 3. Focus (class)
@@ -77,7 +79,7 @@ AMA definition (1); faculty scope: targeting, entry mode, mix, strategy (1); cus
 - IM = marketing across national borders; firm-level decisions: targeting, entry mode, mix, strategy.
 - AMA: multinational process of planning and executing conception, pricing, promotion, distribution to create exchanges that satisfy individual and organisational objectives.
 - Customer value: V = B/P, with B = perceived benefits minus perceived costs.
-- Customer value must exceed competitors' value: raise benefits, cut price, or both.
+- Customer value must exceed competitors' value: raise benefits, cut price, or both. V is a relative index, comparable only across firms on the same scale.
 - Differentiation can be in any element; focus suits small and medium firms.
 
 ## Concept map
@@ -115,6 +117,9 @@ A: Improve benefits, reduce price, or combine the two.
 
 Q: Illustrative: B = 70 and P = 50. What is V?
 A: 70 / 50 = 1.400.
+
+Q: Why can V = B/P not be judged on its own?
+A: V is a relative index, comparable only across firms on the same scale; the entrant wins only if its V exceeds the rival's.
 
 Q: What is the goal of differentiation?
 A: To create competitive advantage; it can sit in any element of the company's offer.

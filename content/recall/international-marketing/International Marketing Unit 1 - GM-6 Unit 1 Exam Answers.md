@@ -16,7 +16,7 @@ state: unstudied
 
 # GM-6: Unit 1 Exam Answers
 
-Covers: likely 5-mark and 10-mark questions with answer skeletons, and the 15-mark case layout with a worked case. **(class)** content from the faculty deck, with **(general)** only for the organisations in GM-4.
+Covers: likely 5-mark and 10-mark questions with answer skeletons, and the 15-mark case layout with a worked case. **(class)** content from the faculty deck, with **(general)** for GM-4, GM-5 explanations and the WTO and IMF lines.
 
 ## The paper (assumed)
 No course plan is on file, so assume the standard Christ BBA ESE **[VERIFY with your course plan]**: 50 marks, 2 hours. **Section A:** 3 of 5 × 5. **Section B:** 2 of 3 × 10. **Section C:** one compulsory 15-mark case. Budget about 7 minutes per 5-mark answer, 15 per 10-mark, 30 for the case. Unit 1 is theory, so it feeds Sections A and B and the opening paragraph of the case.
