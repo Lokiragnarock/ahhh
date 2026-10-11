@@ -1,0 +1,1188 @@
+[
+  {
+    "id": "MM-1-01",
+    "node": "MM-1",
+    "unit": "International Marketing Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "According to the class notes, a brand with strong brand equity shows which price response?",
+    "options": [
+      "A) Inelastic to price increases and inelastic to price decreases",
+      "B) Inelastic to price increases and elastic to price decreases",
+      "C) Elastic to price increases and inelastic to price decreases",
+      "D) Elastic to price increases and elastic to price decreases"
+    ],
+    "answer": "B",
+    "explanation": "Strong equity means loyal buyers barely react to a rise (inelastic) but respond strongly to a cut (elastic): benefits 5 and 6 of the slide list. A is the tempting option because students write 'inelastic' for both; the two benefits are opposites on purpose."
+  },
+  {
+    "id": "MM-1-02",
+    "node": "MM-1",
+    "unit": "International Marketing Unit 4",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "Distinguish local, international and global brands with one example each, and explain the price-response benefit of strong brand equity. (5 marks)",
+    "model_answer": "**Local brand.** Success in a single national market or a narrow geographical area; the lifeblood of domestic firms and a competitive hurdle to global entrants (class example: Haier in China refrigerators).\n\n**International brand.** Offered in several markets of a region, but the firm **tailors** marketing, packaging or even the product to local culture, law and taste (class example: McDonald's menu differs by country; Unilever sells similar products under different names).\n\n**Global brand.** Meets the wants of a global market and is offered in all world regions with the **same name and a similar image and positioning** (class examples: Nestle, Gillette, GE, BMW, Harley-Davidson).\n\n**Brand equity and price response.** Brand equity is the added value that accrues to a product from marketing investment, and an asset built through the customer relationship over time. One of its seven benefits is a price response that is **inelastic to increases** (volume holds when price rises) and **elastic to decreases** (volume jumps when price falls).\n\n**Exam tip.** McDonald's appears on the slide under both international and global. Resolve it by separating the brand (global: same name and image) from the offering (adapted, for example McAloo Tikki in India).",
+    "marking_scheme": [
+      {
+        "point": "Local brand: definition and example",
+        "marks": 1
+      },
+      {
+        "point": "International brand: tailored offering and example",
+        "marks": 1
+      },
+      {
+        "point": "Global brand: same name, image, positioning and example",
+        "marks": 1
+      },
+      {
+        "point": "Brand equity defined (added value / relationship asset)",
+        "marks": 1
+      },
+      {
+        "point": "Inelastic to increases, elastic to decreases",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "MM-2-01",
+    "node": "MM-2",
+    "unit": "International Marketing Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "The slide cites the American Automobile Labelling Act as an example of a labelling rule. It requires cars to show:",
+    "options": [
+      "A) A mandatory health warning",
+      "B) The country of origin and the final assembly point",
+      "C) Whether any ingredient comes from genetically modified crops",
+      "D) That the vehicle uses eco-friendly packaging"
+    ],
+    "answer": "B",
+    "explanation": "The Act clarifies country of origin and final assembly point. C is the tempting option because it is another slide labelling example, but it is the European Union rule for food. A belongs to tobacco products."
+  },
+  {
+    "id": "MM-2-02",
+    "node": "MM-2",
+    "unit": "International Marketing Unit 4",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Explain the three roles of packaging in global marketing and give three examples of country-specific labelling regulation. (5 marks)",
+    "model_answer": "**Roles of packaging (class).**\n1. **Protect and contain** the product during shipping (long transit, handling, climate).\n2. **Eco-packaging**: designers must address environmental issues, such as recyclable or minimal material.\n3. **Communication cues**: colour, language and claims give consumers a basis for the purchase decision.\n\n**Labelling** gives consumers information, and regulations differ by country. Slide examples:\n- **Tobacco**: mandatory health warnings on packs.\n- **United States**: the American Automobile Labelling Act requires the country of origin and final assembly point on cars.\n- **European Union**: labels are required on all food products that include ingredients from genetically modified crops.\n\n**Implication.** A labelling rule is a legal reason to adapt even a standardised product, so packaging and label cost belongs in the adaptation decision (MM-3).",
+    "marking_scheme": [
+      {
+        "point": "Protective/shipping role",
+        "marks": 1
+      },
+      {
+        "point": "Eco-packaging and communication cues",
+        "marks": 1
+      },
+      {
+        "point": "Tobacco health warning example",
+        "marks": 1
+      },
+      {
+        "point": "US Automobile Labelling Act example",
+        "marks": 1
+      },
+      {
+        "point": "EU GM food label example",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "MM-3-01",
+    "node": "MM-3",
+    "unit": "International Marketing Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A global instant-noodle brand cuts the sodium and changes the flavour of its product for Japan, but keeps the same worldwide tagline, logo and ad theme. In the class grid this is:",
+    "options": [
+      "A) Strategy 1: Product-Communication Extension",
+      "B) Strategy 2: Product Extension, Communication Adaptation",
+      "C) Strategy 3: Product Adaptation, Communication Extension",
+      "D) Strategy 5: Product Invention"
+    ],
+    "answer": "C",
+    "explanation": "The product changes (adapted) while communication stays the same (extended), which is Strategy 3, the McAloo Tikki pattern. B is the tempting option because it reverses the two halves: Strategy 2 keeps the product and adapts the message. Nothing new is invented, so Strategy 5 does not apply."
+  },
+  {
+    "id": "MM-3-02",
+    "node": "MM-3",
+    "unit": "International Marketing Unit 4",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Explain the five strategic alternatives in global product planning using the product and communication grid. Note any gap in the class slide text. (5 marks)",
+    "model_answer": "The firm chooses whether the **product** and the **communication** stay the same or change. Broad options: **extend** the product unchanged, **adapt** design, function or packaging, or **create** a new product. Firms usually use a mix.\n\n| No. | Strategy | Product | Communication | Class example |\n|---|---|---|---|---|\n| 1 | Product-Communication Extension (dual extension) | Same | Same | Pepsi |\n| 2 | Product Extension, Communication Adaptation | Same | Adapted | Coca-Cola |\n| 3 | Product Adaptation, Communication Extension | Adapted | Same | McDonald's McAloo Tikki in India, same brand image |\n| 4 | Dual Adaptation | Adapted | Adapted | not described on the slide |\n| 5 | Product Invention | New | New or local | P&G products created for emerging markets |\n\n**Slide gap.** The grid lists Strategy 4 as Dual Adaptation, but the follow-up slides jump from 3 to 5. State it as changing both product and message for a market where use and perception both differ, and tag this as general knowledge.\n\n**Choice factors:** market needs, cost of adaptation against the benefit of standardisation, and the competitive landscape.",
+    "marking_scheme": [
+      {
+        "point": "Extend / adapt / create and grid logic",
+        "marks": 1
+      },
+      {
+        "point": "Strategies 1 to 3 with class examples",
+        "marks": 2
+      },
+      {
+        "point": "Strategy 4 dual adaptation and the slide gap",
+        "marks": 1
+      },
+      {
+        "point": "Strategy 5 invention with example / factors",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "MM-3-03",
+    "node": "MM-3",
+    "unit": "International Marketing Unit 4",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "medium",
+    "question": "**Lotus Leaf Snacks (fictional)** is an Indian packaged-snacks brand with a strong domestic name. It plans to enter Japan and the United States. Discuss its product and brand decisions: (a) standardisation vs adaptation and the brand level it should aim for; (b) the role of country of origin; (c) which of the five strategic alternatives to use in each market, with reasons; (d) your recommendation. (10 marks)",
+    "model_answer": "**(a) Standardise or adapt.** The slide tension is the efficiency of standardising against the fit of adapting; firms usually mix the two. Lotus Leaf can aim for an **international brand** first (same name, tailored offering) and move toward a **global brand** (same name, image, positioning everywhere) only if scale economies appear. A strong brand also gives larger margins and inelastic response to price rises, so protecting equity matters.\n\nBefore building a global brand ask the slide's three questions: Will scale economies materialise? How hard is a global brand team? Can a single brand be imposed on all markets? Test the name, marks and symbols for meaning abroad.\n\n**(b) Country of origin.** National perceptions transfer to products (Japan, Germany, France, Italy on the slide). 'Made in India' can help if the craft and spice story is credible and hurt if buyers link India with low price. Assumption: the premium origin story travels; test it.\n\n**(c) Strategy by market.**\n| Market | Product | Communication | Strategy |\n|---|---|---|---|\n| Japan | Milder spice, smaller packs, Japanese labelling | Local-language, subtle tone | **Strategy 4, dual adaptation** (general definition; slide text silent) |\n| United States | Adapt flavour intensity and nutrition label, keep brand story | Same global brand theme | **Strategy 3, product adaptation, communication extension** (the McAloo Tikki pattern) |\nStrategy 1 fails on taste; Strategy 5 (invention) is premature without proof of demand.\n\nFactors: market needs, cost of adaptation against scale, local competition. Labelling law (for example EU-style GM labels, US country-of-origin rules) forces some adaptation anyway.\n\n**(d) Recommendation.** Keep the **brand core** (name, premium craft, origin story) and adapt the **offering** market by market; start with the US where Strategy 3 is enough and scale economies are kept, then enter Japan with dual adaptation. Choose the **least adaptation that still fits** local buyers, because every change costs scale and consistency.",
+    "marking_scheme": [
+      {
+        "point": "Standardisation vs adaptation, brand levels, equity benefit",
+        "marks": 2
+      },
+      {
+        "point": "Three global-brand questions / identity test",
+        "marks": 1
+      },
+      {
+        "point": "Country of origin discussed with caveat",
+        "marks": 2
+      },
+      {
+        "point": "Strategy chosen per market with reasons and grid terms",
+        "marks": 3
+      },
+      {
+        "point": "Recommendation: keep brand core, adapt offering, least adaptation",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "MM-4-01",
+    "node": "MM-4",
+    "unit": "International Marketing Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "An exporter sells at an ex-works price of ₹8,000. Packing, inland freight and documents are ₹400; ocean freight ₹900; marine insurance ₹100. Import duty is 10% of CIF. The importer-wholesaler adds 20% on cost, the retailer 25% on cost (each on the previous running total) and sales tax is 10% on the retailer's price. The shelf price is closest to:",
+    "options": [
+      "A) ₹13,200",
+      "B) ₹16,027",
+      "C) ₹16,830",
+      "D) ₹17,061"
+    ],
+    "answer": "D",
+    "explanation": "Landed = CIF 9,400 + duty 940 = 10,340. Then 10,340 × 1.20 × 1.25 × 1.10 = ₹17,061, an escalation of 2.13 times. A (₹13,200) compounds the mark-ups on the ex-works price and ignores freight, insurance and duty. B (₹16,027) adds the three percentages together instead of compounding them, which understates the escalation. C (₹16,830) charges duty on the ex-works price instead of CIF."
+  },
+  {
+    "id": "MM-4-02",
+    "node": "MM-4",
+    "unit": "International Marketing Unit 4",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "hard",
+    "question": "A local competitor sells a comparable product at a shelf price of **₹8,910 including 20% sales tax**. An Indian exporter wants to match it through a long channel. Assumptions: retailer mark-up 25% and importer-wholesaler mark-up 20% (both on cost); import duty 10% of CIF; freight and insurance ₹700 per unit; packing and documents ₹300 per unit. The exporter's unit cost is ₹3,000.\n\nUse the price-back method to find the ex-works price the exporter can charge, and the margin per unit. If the exporter's normal ex-works price is ₹4,000, what cut is needed? (5 marks)",
+    "model_answer": "**Price-back** (target costing logic): start at the shelf price and strip each layer by **dividing**, not by subtracting percentages.\n\n| Step | Calculation | Result (₹) |\n|---|---|---|\n| Shelf price incl. tax | given | 8,910 |\n| Remove sales tax 20% | 8,910 ÷ 1.20 | 7,425 |\n| Remove retailer 25% | 7,425 ÷ 1.25 | 5,940 |\n| Remove importer-wholesaler 20% | 5,940 ÷ 1.20 | 4,950 (landed) |\n| Remove duty 10% of CIF | 4,950 ÷ 1.10 | 4,500 (CIF) |\n| Remove freight and insurance | 4,500 − 700 | 3,800 (FOB) |\n| Remove packing and documents | 3,800 − 300 | **3,500 ex-works** |\n\n**Margin** = 3,500 − 3,000 = **₹500 per unit** (16.7% on cost).\n\n**Required cut** from the normal ₹4,000 ex-works price = (4,000 − 3,500) ÷ 4,000 = **12.5%**.\n\n**Decision.** At ₹3,500 the exporter still earns ₹500, so matching the rival is viable. Alternatives: shorten the channel (drop the importer-wholesaler), cut freight cost, or hold ₹4,000 and position as a premium brand. State the assumed mark-ups.",
+    "marking_scheme": [
+      {
+        "point": "Correct method: divide through each layer starting from shelf price",
+        "marks": 1
+      },
+      {
+        "point": "Tax, retailer and importer layers removed correctly (4,950 landed)",
+        "marks": 1
+      },
+      {
+        "point": "Duty on CIF and freight, packing removed (ex-works 3,500)",
+        "marks": 1
+      },
+      {
+        "point": "Margin 500 (16.7% on cost)",
+        "marks": 1
+      },
+      {
+        "point": "12.5% cut and one-line decision",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "MM-4-03",
+    "node": "MM-4",
+    "unit": "International Marketing Unit 4",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "The class slide titled 'Target Costing' gives the formula SELLING PRICE = TOTAL COST + PROFIT, and speaks of rigid and flexible versions. (a) What does this slide actually describe, and how does true target costing differ? (b) A unit has total cost ₹5,000 and the firm wants 20% profit on cost, but the market will bear only ₹5,400. Show the rigid and flexible outcomes. (5 marks)",
+    "model_answer": "**(a) Correction.** The slide is headed Target Costing, but its formula is **cost-plus (cost-based) pricing**: price equals total unit cost plus desired profit. *Class wording:* give the formula as taught, then add one line that **true target costing works backwards**: target price minus desired margin gives the allowable cost. (The price-back sum in MM-4 uses that backward logic.)\n\n- **Rigid cost-plus:** price set by formula without regard to the eight pricing considerations (quality, competition, objective, discounts, segments, cost and elasticity, government view, dumping law).\n- **Flexible cost-plus:** price adjusted so it is competitive in the particular market.\n\n**(b) Numbers.**\n- Rigid: 5,000 × 1.20 = **₹6,000**. This is ₹600 (11.1%) above what the market will bear (5,400), so volume is at risk.\n- Flexible: price at **₹5,400**. Profit = 5,400 − 5,000 = ₹400, which is 8% on cost (not 20%).\n\n**Decision.** The formula gives the floor, the market sets the ceiling. Accept the thinner 8% margin if the aim is share (penetration), or find a cost saving or a premium position that supports ₹6,000.",
+    "marking_scheme": [
+      {
+        "point": "Slide is cost-plus, not true target costing (class wording acknowledged)",
+        "marks": 1
+      },
+      {
+        "point": "True target costing works backwards from target price",
+        "marks": 1
+      },
+      {
+        "point": "Rigid vs flexible defined",
+        "marks": 1
+      },
+      {
+        "point": "Rigid ₹6,000 and flexible ₹5,400 with 8% margin",
+        "marks": 1
+      },
+      {
+        "point": "Decision: formula is floor, market is ceiling",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "MM-4-04",
+    "node": "MM-4",
+    "unit": "International Marketing Unit 4",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "hard",
+    "question": "An Indian machine-tools maker quotes an **ex-works price of ₹16,000** per unit. Packing, inland freight and documents ₹800; ocean freight ₹1,400; insurance ₹200; import duty 10% of CIF. Importer 15%, wholesaler 10% and retailer 30% mark-ups (each on cost, applied one after the other), then 18% sales tax. (a) Build the escalation table and the escalation ratio. (b) If a large retailer imports directly and skips the importer and wholesaler, what is the shelf price and the saving? (c) A local rival sells at ₹30,000 including tax; use price-back through the long channel to find the ex-works price needed. (d) Interpret. (10 marks)",
+    "model_answer": "**(a) Escalation (class method: compound each layer).**\n| Step | Item | Running total (₹) |\n|---|---|---|\n| 1 | Ex-works | 16,000 |\n| 2 | + packing, inland freight, documents 800 | **FOB 16,800** |\n| 3 | + ocean freight 1,400 and insurance 200 | **CIF 18,400** |\n| 4 | + duty 10% of CIF = 1,840 | **Landed 20,240** |\n| 5 | Importer +15% | 23,276 |\n| 6 | Wholesaler +10% | 25,604 |\n| 7 | Retailer +30% | 33,285 |\n| 8 | Sales tax +18% | **39,276** |\n\nEscalation ratio = 39,276 ÷ 16,000 = **2.45 times**.\n\n**(b) Shorter channel.** 20,240 × 1.30 × 1.18 = **₹31,048** (ratio 1.94). Saving = 39,276 − 31,048 = **₹8,228** per unit (20.9% of the long-channel price).\n\n**(c) Price-back from ₹30,000.**\n| Step | Calculation | Result (₹) |\n|---|---|---|\n| Remove tax 18% | 30,000 ÷ 1.18 | 25,424 |\n| Remove retailer 30% | ÷ 1.30 | 19,557 |\n| Remove wholesaler 10% | ÷ 1.10 | 17,779 |\n| Remove importer 15% | ÷ 1.15 | 15,460 (landed) |\n| Remove duty 10% | ÷ 1.10 | 14,054 (CIF) |\n| Remove freight and insurance 1,600 | | 12,454 (FOB) |\n| Remove packing and documents 800 | | **11,654 ex-works** |\n\nRequired cut = (16,000 − 11,654) ÷ 16,000 = **27.2%**.\n\n**(d) Interpretation.** Freight, duty, three mark-up layers and tax multiply the price by 2.45, which leaves the product uncompetitive against a ₹30,000 rival. Matching through the long channel needs a 27% ex-works cut, which may destroy the margin. Better levers: a shorter channel (saves ₹8,228), cheaper freight, offshore component sourcing, or a premium position with proof of quality (skimming). Mark-up rates are assumptions and must be stated.",
+    "marking_scheme": [
+      {
+        "point": "Escalation table to landed 20,240",
+        "marks": 2
+      },
+      {
+        "point": "Shelf price 39,276 and ratio 2.45",
+        "marks": 2
+      },
+      {
+        "point": "Shorter channel 31,048 and saving 8,228",
+        "marks": 2
+      },
+      {
+        "point": "Price-back to ex-works about 11,654 and 27% cut",
+        "marks": 3
+      },
+      {
+        "point": "Interpretation with levers and assumptions",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "MM-5-01",
+    "node": "MM-5",
+    "unit": "International Marketing Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "An exporter's costs are: ex-works ₹12,000; packing, inland freight and export documents ₹600; ocean freight ₹1,500; marine insurance ₹200; destination import duty ₹1,430 (10% of CIF). The correct CFR quote to the buyer (ignoring the exporter's profit on services) is:",
+    "options": [
+      "A) ₹12,600",
+      "B) ₹14,100",
+      "C) ₹14,300",
+      "D) ₹15,730"
+    ],
+    "answer": "B",
+    "explanation": "CFR = ex-works + packing, inland freight and documents + ocean freight = 12,000 + 600 + 1,500 = ₹14,100. C (₹14,300) is the CIF quote and is the tempting error because it also adds the insurance, which under CFR the buyer arranges. A stops at FOB and misses the ocean freight the CFR seller pays. D adds the destination duty, which belongs only in a DDP quote."
+  },
+  {
+    "id": "MM-5-02",
+    "node": "MM-5",
+    "unit": "International Marketing Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "The class slide says that under CFR the 'seller is not responsible at any point outside of factory'. Which statement gives the correct meaning of CFR (cost and freight)?",
+    "options": [
+      "A) The slide wording is correct: the seller's duty ends at the factory gate",
+      "B) The seller pays the cost and the freight to the named destination port; risk still passes to the buyer once the goods are on board at the port of shipment",
+      "C) The seller pays cost, insurance and freight, and bears the risk until the goods reach the destination port",
+      "D) The seller delivers to the buyer's premises with all duties paid"
+    ],
+    "answer": "B",
+    "explanation": "The class one-liner describes ex-works and contradicts the term's own name. Under CFR the seller pays the main carriage (freight) to the destination port, but risk transfers at origin once the goods are on board, and insurance is the buyer's job. C is the tempting option because it blends CFR with CIF and with the old idea that risk moves at destination. D describes DDP."
+  },
+  {
+    "id": "MM-5-03",
+    "node": "MM-5",
+    "unit": "International Marketing Unit 4",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "hard",
+    "question": "The class slide says CIF transfers 'risk of loss or damage' to the buyer 'once goods have passed the ship's rail', and that under CFR 'the seller is not responsible at any point outside of factory'. Evaluate both statements and give the correct position. (5 marks)",
+    "model_answer": "**CIF (cost, insurance, freight), named port of destination.** The seller pays the cost of goods, **marine insurance** and **freight** to the named destination port.\n- *Class wording:* risk passes when the goods have passed the ship's rail. This is the older (Incoterms 2000) wording.\n- *Current rule:* risk passes to the buyer when the goods are **on board the vessel at the port of shipment**. (Incoterms 2020 is the current edition as far as the notes know; verify the edition your faculty uses.) Note the split: the seller pays freight and insurance to the destination, but the buyer carries the risk from loading.\n\n**CFR (cost and freight).** The slide sentence is wrong as a definition: it describes ex-works and contradicts the term's own name. Correct meaning: the seller **pays the cost and the freight to the named destination port**; risk still passes to the buyer on board at origin; the buyer arranges insurance.\n\n**Also.** FAS, FOB, CFR and CIF are for sea and inland-waterway transport only; EXW and DDP suit any mode.\n\n**How to answer in the exam.** If the question quotes the slide, write the class one-liner first, then add 'under current Incoterms, correctly...' so that you score for both the faculty version and the accurate one.",
+    "marking_scheme": [
+      {
+        "point": "CIF: seller pays cost, insurance and freight to the destination port",
+        "marks": 1
+      },
+      {
+        "point": "CIF risk: class wording (ship's rail)",
+        "marks": 1
+      },
+      {
+        "point": "CIF risk: current rule (on board at port of shipment)",
+        "marks": 1
+      },
+      {
+        "point": "CFR slide statement identified as wrong",
+        "marks": 1
+      },
+      {
+        "point": "CFR correct: seller pays freight to destination, buyer insures, risk at origin",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "MM-5-04",
+    "node": "MM-5",
+    "unit": "International Marketing Unit 4",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Build a quote ladder. Ex-works price ₹15,000 per unit; packing, inland freight and export documents ₹750; ocean freight ₹1,800; marine insurance ₹250; import duty 12% of CIF. Ignore customs clearance fees and the seller's profit on services. State the seller's quote under EXW, FOB, CFR, CIF and DDP, what the buyer still pays under each, and what the ladder shows. (5 marks)",
+    "model_answer": "| Quote term | Seller's quote (₹) | Buyer still pays (₹) |\n|---|---|---|\n| EXW | 15,000 | 750 + 1,800 + 250 + 2,136 = 4,936 |\n| FOB | 15,750 | 1,800 + 250 + 2,136 = 4,186 |\n| CFR | 17,550 | 250 + 2,136 = 2,386 |\n| CIF | 17,800 | 2,136 = 2,136 |\n| DDP | 19,936 | 0 |\n\nDuty = 12% × CIF 17,800 = ₹2,136; DDP = 17,800 + 2,136 = ₹19,936.\n\n**Check.** In every row, the seller's quote plus what the buyer still pays equals ₹19,936 (for example EXW: 15,000 + 4,936).\n\n**Reading the ladder.** Only **who carries which cost and risk** changes; the total cost of the chain does not. A higher DDP quote is not a higher real price; it buys the buyer certainty. Choose the term by who can arrange freight, insurance and clearance more cheaply and with less risk.",
+    "marking_scheme": [
+      {
+        "point": "Seller quotes FOB 15,750 and CFR 17,550",
+        "marks": 1
+      },
+      {
+        "point": "CIF 17,800 and duty 2,136",
+        "marks": 1
+      },
+      {
+        "point": "DDP 19,936",
+        "marks": 1
+      },
+      {
+        "point": "Buyer-still-pays column correct",
+        "marks": 1
+      },
+      {
+        "point": "Interpretation: total unchanged, only cost and risk shift",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "MM-5-05",
+    "node": "MM-5",
+    "unit": "International Marketing Unit 4",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "hard",
+    "question": "**BrightVolt Solar (fictional)** makes affordable solar panels in India and will sell in Brazil, Germany and Kenya. For one panel: ex-works ₹9,000; packing, inland freight and documents ₹400; ocean freight ₹700; marine insurance ₹100. Assume Brazil's import duty is 20% of CIF (illustrative). (a) Build the quote ladder for Brazil under EXW, FOB, CFR, CIF and DDP. (b) Explain what changes and what does not change across the ladder. (c) Recommend an Incoterm for each market. (d) The class slide says CIF risk passes at the ship's rail and CFR leaves the seller 'not responsible outside the factory'; correct these. (10 marks)",
+    "model_answer": "**(a) Brazil quote ladder.** CIF = 9,000 + 400 + 700 + 100 = ₹10,200; duty = 20% × 10,200 = ₹2,040.\n| Term | Seller's quote (₹) | Buyer still pays (₹) |\n|---|---|---|\n| EXW | 9,000 | 400 + 700 + 100 + 2,040 = 3,240 |\n| FOB | 9,400 | 700 + 100 + 2,040 = 2,840 |\n| CFR | 10,100 | 100 + 2,040 = 2,140 |\n| CIF | 10,200 | 2,040 |\n| DDP | 12,240 | 0 |\n\n**(b) What changes.** The seller's quote rises by exactly the cost it takes over; **the total (₹12,240) never changes**. What shifts is **responsibility and risk**: licence and packing, inland transport, export clearance, ocean freight, insurance and import tax. Higher seller burden order: EXW, FAS, FOB, CFR, CIF, DDP. A higher quote under DDP is not a higher real price; it buys the buyer certainty and gives the seller exposure to import-tax changes.\n\n**(c) Recommendations (judgemental; state assumptions).**\n- **Kenya** (price-sensitive, affordability): FOB or CFR, so BrightVolt controls freight cost, quotes a clear price and the buyer clears import.\n- **Germany** (quality-sensitive, regulated, strong rivals): CIF or DAP with documented compliance; price on quality proof, not lowest price.\n- **Brazil** (heavy import taxes): avoid DDP unless the tax regime is understood; use CIF or CFR and let a local importer handle duty.\nDo not pick one of affordability, premium or risk-sharing: set price positioning per market and let the Incoterm follow who can manage freight, insurance and tax best.\n\n**(d) Corrections.** *CIF:* the seller pays cost, insurance and freight to the destination port; the class wording (risk passes at the ship's rail) is the older rule, and under current Incoterms risk passes when the goods are **on board at the port of shipment**. *CFR:* the slide sentence describes ex-works; correct CFR means the seller **pays cost and freight to the destination port**, with risk passing on board at origin and insurance the buyer's job. Give the class wording first, then the correction.",
+    "marking_scheme": [
+      {
+        "point": "Correct ladder figures (FOB 9,400; CFR 10,100; CIF 10,200; DDP 12,240)",
+        "marks": 3
+      },
+      {
+        "point": "Total constant; responsibility and risk shift; seller burden order",
+        "marks": 2
+      },
+      {
+        "point": "Incoterm per market with reasons",
+        "marks": 3
+      },
+      {
+        "point": "CIF and CFR corrections with class wording",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "MM-6-01",
+    "node": "MM-6",
+    "unit": "International Marketing Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "The rupee weakens sharply against the dollar. Which action matches the class playbook for a weak home currency?",
+    "options": [
+      "A) Bill foreign customers in the domestic currency",
+      "B) Slow down collections and keep foreign-earned income in the host country",
+      "C) Stress price benefits and bill foreign customers in their own currency",
+      "D) Shift sourcing outside the home country"
+    ],
+    "answer": "C",
+    "explanation": "A weak home currency makes exports cheap abroad, so stress price benefits, speed repatriation and bill in the customer's currency. A is the tempting option because it is the opposite half of the table: billing in the domestic currency is the strong-currency action. B and D are also strong-currency actions."
+  },
+  {
+    "id": "MM-6-02",
+    "node": "MM-6",
+    "unit": "International Marketing Unit 4",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "An Indian exporter invoices USD 200 per unit; unit cost is ₹13,000. The rupee strengthens from ₹84 to ₹80 per USD. (a) Compute the unit margin before and after. (b) What dollar price would hold the rupee margin? (c) State the actions the class playbook recommends for a strong home currency. (5 marks)",
+    "model_answer": "**(a)** At ₹84: revenue 200 × 84 = ₹16,800; margin 16,800 − 13,000 = **₹3,800**. At ₹80: revenue 200 × 80 = ₹16,000; margin = **₹3,000**. Margin falls ₹800, or 21.1% (800 ÷ 3,800).\n\n**(b)** To keep ₹16,800 of rupee revenue: 16,800 ÷ 80 = **USD 210**, a 5% price rise. That makes the product dearer abroad, which may cost volume.\n\n**(c) Strong home currency playbook (class slide).** Compete on non-price factors (quality, delivery, after-sale service); improve productivity and cut cost; shift sourcing outside the home country; give priority to countries with stronger currencies; trim margins and use marginal-cost pricing; keep foreign earnings in the host country and slow collections; spend more in local currency; buy services abroad; bill in the domestic currency.\n\n**Logic.** A strong rupee makes exports dear abroad, so the exporter either absorbs the squeeze (margin 3,000) or passes it on (USD 210) and defends volume through non-price competition and cost cuts.",
+    "marking_scheme": [
+      {
+        "point": "Margin before ₹3,800 and after ₹3,000",
+        "marks": 1
+      },
+      {
+        "point": "Fall of ₹800 or 21.1%",
+        "marks": 1
+      },
+      {
+        "point": "USD 210 to hold the margin",
+        "marks": 1
+      },
+      {
+        "point": "Playbook: non-price competition, cost cuts, offshore sourcing, trim margin",
+        "marks": 1
+      },
+      {
+        "point": "Bill in domestic currency / logic of strong home currency",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "MM-6-03",
+    "node": "MM-6",
+    "unit": "International Marketing Unit 4",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "hard",
+    "question": "An Indian shirt exporter sells at **USD 25 per shirt**; unit cost is ₹1,900, of which ₹700 is fabric. The rupee strengthens from ₹86 to ₹80 per USD. Domestic inflation also lifts all costs by 5%, and a rival has moved to lower-cost sourcing. (a) Compute the unit margin before and after the currency move. (b) What dollar price would hold the original rupee revenue? (c) After the 5% cost rise, what is the margin at ₹80 and USD 25? (d) If shifting fabric sourcing offshore cuts (inflated) fabric cost by 12%, what is the margin? (e) Recommend the response using the class influences on price. (10 marks)",
+    "model_answer": "**(a)** At ₹86: revenue 25 × 86 = ₹2,150; margin 2,150 − 1,900 = **₹250**. At ₹80: revenue = ₹2,000; margin = **₹100**. The margin falls 150 or 60.0%.\n\n**(b)** To hold ₹2,150: 2,150 ÷ 80 = **USD 26.875** (about USD 26.88), a 7.5% rise, which makes shirts dearer abroad.\n\n**(c) Inflation.** Cost = 1,900 × 1.05 = ₹1,995. Margin at ₹80 = 2,000 − 1,995 = **₹5**, which is effectively no margin. Class point: inflation is a persistent rise in price levels and the essential pricing requirement is to **maintain operating margins**.\n\n**(d) Offshore sourcing.** Fabric after inflation = 700 × 1.05 = ₹735; 12% saving = ₹88.2; new cost = 1,995 − 88.2 = ₹1,906.8. Margin = 2,000 − 1,906.8 = **₹93.2**.\n\n**(e) Recommendation (class influences).**\n- *Currency (strong home currency):* compete on quality, delivery and service; cut cost; shift sourcing abroad; trim margin; bill in the domestic currency where possible.\n- *Inflation:* protect operating margin with price validity limits and escalation clauses.\n- *Competitor behaviour:* a rival sourcing cheaply may force a price cut or a sourcing change.\n- *Sourcing:* the strongest lever here, since it lifts the margin from ₹5 to about ₹93 without a price rise.\nCheck that no government local-content rule blocks offshore sourcing, and weigh the loss of 'made in' appeal. Decision: make sourcing the main lever, currency the second, and hold the dollar price where volume allows.",
+    "marking_scheme": [
+      {
+        "point": "Currency effect: margins ₹250 vs ₹100 (revenue 2,150 vs 2,000)",
+        "marks": 2
+      },
+      {
+        "point": "Dollar price to hold revenue, about USD 26.88",
+        "marks": 1
+      },
+      {
+        "point": "Margin after 5% inflation (₹5)",
+        "marks": 2
+      },
+      {
+        "point": "Margin after offshore sourcing (about ₹93)",
+        "marks": 2
+      },
+      {
+        "point": "Recommendation with class influences and decision",
+        "marks": 3
+      }
+    ]
+  },
+  {
+    "id": "MM-7-01",
+    "node": "MM-7",
+    "unit": "International Marketing Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A brand skims at USD 150 in Market A and sells at USD 90 in Market B. Moving a unit from B to A costs USD 20 (freight, duty and handling). The lowest price at which an unauthorised importer can sell genuine units in A, and the resulting position, is:",
+    "options": [
+      "A) USD 90, undercutting the authorised price by USD 60",
+      "B) USD 110, undercutting the authorised price by USD 40 (gray market likely)",
+      "C) USD 130, undercutting the authorised price by USD 20",
+      "D) USD 150, no undercutting"
+    ],
+    "answer": "B",
+    "explanation": "Gray landed price = 90 + 20 = USD 110, which is USD 40 (26.7%) below USD 150. A forgets the cost of moving the goods. C subtracts the moving cost from the authorised price instead of adding it to the source price. The price gap (USD 60) exceeds the transport cost (USD 20), so gray trading is attractive."
+  },
+  {
+    "id": "MM-7-02",
+    "node": "MM-7",
+    "unit": "International Marketing Unit 4",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "A foreign producer's cost of production is USD 250 per unit; its home-market price is USD 280; it exports to a country at USD 255. Using the class benchmark (price below cost of production plus an 8% profit margin, or below prices in the producing country), test for dumping. What else must be shown before duty can be imposed? (5 marks)",
+    "model_answer": "**Definition (class).** Dumping is the sale of an imported product at a price lower than that normally charged in the domestic market or country of origin.\n\n**Test 1, constructed value.** 250 × 1.08 = USD 270. Export price 255 is below 270 by **USD 15** (5.6% of 270).\n\n**Test 2, home-market price.** Export price 255 is below the home price 280 by **USD 25** (8.9% of 280).\n\nBoth limbs of the benchmark are met, so **price discrimination** is shown.\n\n**Injury.** To prove dumping, **both price discrimination and injury** must be shown. Without evidence of injury to the importing country's industry (lost sales, price depression, job losses), no anti-dumping duty follows.\n\n**Caution.** The 8% figure is the slide's US constructed-value convention. State it as the class benchmark, not as a universal rule (verify how other authorities apply the idea).",
+    "marking_scheme": [
+      {
+        "point": "Definition of dumping",
+        "marks": 1
+      },
+      {
+        "point": "Constructed value 270 and USD 15 gap",
+        "marks": 1
+      },
+      {
+        "point": "Home-market comparison 280 and USD 25 gap",
+        "marks": 1
+      },
+      {
+        "point": "Price discrimination established",
+        "marks": 1
+      },
+      {
+        "point": "Injury is also required; 8% flagged as the class benchmark",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "MM-7-03",
+    "node": "MM-7",
+    "unit": "International Marketing Unit 4",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "hard",
+    "question": "A parent in Country L (tax rate 25%) makes a product at a cost of ₹200 and sells it to its subsidiary in Country H (tax rate 35%). The subsidiary sells to customers at ₹400 and incurs ₹40 of its own selling cost. Compare group tax at transfer prices of ₹260 and ₹320. Name the transfer pricing methods and the constraint that applies. (5 marks)",
+    "model_answer": "Group pre-tax profit is the same either way: 400 − 200 − 40 = ₹160.\n\n| | TP ₹260 | TP ₹320 |\n|---|---|---|\n| Parent profit | 60 | 120 |\n| Parent tax at 25% | 15 | 30 |\n| Subsidiary profit | 400 − 260 − 40 = 100 | 400 − 320 − 40 = 40 |\n| Subsidiary tax at 35% | 35 | 14 |\n| **Group tax** | **50** | **44** |\n| Group after-tax profit | 110 | 116 |\n\nRaising the transfer price moves profit to the lower-tax country (L) and saves ₹6.\n\n**Methods (class):** cost-based, market-based and negotiated transfer pricing. **Constraint (general):** tax authorities demand **arm's length** pricing (what an unrelated party would pay) and can reverse the saving with penalties, so the price should be set by a documented method, not by tax gain alone.",
+    "marking_scheme": [
+      {
+        "point": "Group pre-tax profit constant at 160",
+        "marks": 1
+      },
+      {
+        "point": "Tax at TP 260 = 50 and TP 320 = 44",
+        "marks": 2
+      },
+      {
+        "point": "Saving of 6 explained: profit moves to lower-tax country",
+        "marks": 1
+      },
+      {
+        "point": "Three methods and arm's length constraint",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "MM-7-04",
+    "node": "MM-7",
+    "unit": "International Marketing Unit 4",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "hard",
+    "question": "Discuss global pricing policies and legal issues, using these facts. A firm charges the same ex-factory price of ₹20,000 to importers everywhere. Country X has no duty and freight plus insurance of ₹1,000; Country Y has 25% duty on CIF and freight plus insurance of ₹2,000. Separately, the firm's product retails at ₹40,000 in skimming Market X and ₹30,000 in Market Y, and moving a unit from Y to X costs ₹4,000. (a) Name the three pricing policies and identify the policy shown, with its weakness (use landed costs). (b) Show how gray marketing arises. (c) Explain dumping and price fixing briefly, and say why transfer pricing is regulated. (10 marks)",
+    "model_answer": "**(a) Policies (class).**\n- **Extension / ethnocentric:** the same per-unit price wherever the buyer is; the importer absorbs freight and duty; it fails to respond to each national market.\n- **Adaptation / polycentric:** affiliate managers or distributors set price as they see fit; sensitive to local conditions but creates the potential for gray marketing.\n- **Geocentric:** intermediate and more dynamic; recognises local costs, income levels, competition and local marketing strategy without a single world price or independent local prices.\n\nThe facts show **extension**. Landed cost: X: CIF = 20,000 + 1,000 = 21,000; duty 0; landed **₹21,000**. Y: CIF = 22,000; duty 25% = 5,500; landed **₹27,500**. The same ex-factory price gives landed costs that differ by ₹6,500 (31% higher in Y), which may price the product out of a lower-income market. That is the failure to respond to local markets.\n\n**(b) Gray market.** Gray goods are genuine trademarked goods sold in a country by unauthorised sellers; they occur with short supply, skimming in some markets and large mark-ups. Landed gray price in X = 30,000 + 4,000 = **₹34,000**, which undercuts the authorised ₹40,000 by **₹6,000** (15%). The price gap (₹10,000) exceeds the cost of moving the goods (₹4,000), so gray trade pays. Response: narrow the gap below ₹4,000 or add value to the authorised offer (warranty, service). A geocentric policy with coordination limits the gap.\n\n**(c) Legal issues.**\n- **Dumping:** sale of an import at a price below that normally charged in the home market or country of origin; the class US rule is below cost plus an 8% margin or below producing-country prices (verify the 8%). **Both price discrimination and injury must be shown.**\n- **Price fixing:** secret, anticompetitive and illegal; **horizontal** (rivals keep prices high) or **vertical** (a manufacturer and its wholesalers or retailers keep retail prices).\n- **Transfer pricing:** intra-company prices (cost-based, market-based, negotiated) can shift profit to low-tax countries, so authorities require **arm's length** prices.\n\n**Conclusion.** Move from extension toward geocentric pricing: local cost and income inputs with central coordination, keeping the cross-market gap below the cost of arbitrage.",
+    "marking_scheme": [
+      {
+        "point": "Three policies defined with weakness",
+        "marks": 2
+      },
+      {
+        "point": "Landed costs 21,000 and 27,500, policy identified",
+        "marks": 2
+      },
+      {
+        "point": "Gray market mechanism with ₹34,000 and ₹6,000 undercut",
+        "marks": 2
+      },
+      {
+        "point": "Dumping with two limbs",
+        "marks": 1
+      },
+      {
+        "point": "Price fixing and transfer pricing (arm's length)",
+        "marks": 2
+      },
+      {
+        "point": "Conclusion (geocentric, gap below arbitrage cost)",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "MM-7-05",
+    "node": "MM-7",
+    "unit": "International Marketing Unit 4",
+    "type": "case",
+    "marks": 15,
+    "difficulty": "hard",
+    "question": "**Case: Medilink Instruments (fictional; all figures in USD and illustrative).** Medilink manufactures portable diagnostic devices in India at a **production cost of USD 220**. It sells in **Market A** through its own subsidiary at **USD 400** (skimming, scarce supply) and in **Market B** through independent distributors at **USD 250** (penetration; the distributor sets the shelf price). The home-market price in India is USD 300. Authorised distributors in A complain that genuine Medilink units from B are being sold in A by unauthorised traders; moving a unit from B to A costs USD 40. Medilink's competitors in B lodge a complaint that Medilink is dumping. Medilink sells to its A subsidiary at a transfer price; the subsidiary has selling cost of USD 50 per unit. India's tax rate is 25% and Market A's is 40%.\n\n(a) Name the pricing policy that produced the problem in A, compute the gray-market price in A and the undercut, and suggest two responses. (4 marks)\n(b) Test the dumping complaint using the class benchmark (cost plus 8%, and home-market price). What must the complainant also prove? (4 marks)\n(c) Compare group tax if the transfer price to the A subsidiary is USD 280 or USD 340, and comment. (4 marks)\n(d) Recommend a pricing policy and give a final decision line. (3 marks)",
+    "model_answer": "**(a) Gray market (4).** Pricing policy: **adaptation or polycentric** (distributors in B set their own price), combined with **skimming** in A; the result is a large price gap and gray marketing (genuine trademarked goods sold by unauthorised sellers, driven by short supply, skimming and big mark-ups). Gray landed price in A = 250 + 40 = **USD 290**, an undercut of 400 − 290 = **USD 110 (27.5%)**. The gap (USD 150) far exceeds the moving cost (USD 40). Responses: narrow the gap below USD 40 (or raise B prices and lower A prices), differentiate the product versions or warranty/service between markets, and control B distributors by contract on resale destination.\n\n**(b) Dumping test (4).**\n| Test | Calculation | Result |\n|---|---|---|\n| Constructed value (class benchmark) | 220 × 1.08 = USD 237.6 | Export price 250 is **above** it, so this limb is not met |\n| Home-market price | USD 300 | Export price 250 is **below** it by USD 50 (16.7%), so this limb is met |\nDumping is a sale below the price normally charged in the home market or country of origin, so **price discrimination is shown on the home-price limb** even though the cost-plus limb fails. The complainant must also prove **injury** to B's industry; without it, no anti-dumping duty. The 8% figure is the class US convention; verify the rule that B's authority applies.\n\n**(c) Transfer pricing (4).** Group pre-tax profit = 400 − 220 − 50 = USD 130 either way.\n| | TP 280 | TP 340 |\n|---|---|---|\n| Parent profit | 60 | 120 |\n| Parent tax 25% | 15 | 30 |\n| Subsidiary profit | 400 − 280 − 50 = 70 | 400 − 340 − 50 = 10 |\n| Subsidiary tax 40% | 28 | 4 |\n| **Group tax** | **43** | **34** |\n| Group after-tax profit | 87 | 96 |\nA TP of USD 340 saves USD 9 by shifting profit to lower-tax India. Authorities test for **arm's length** pricing and can reverse the saving with penalties, so use a documented cost-based, market-based or negotiated method, not tax gain alone. A very high TP also raises Medilink's recorded cost in A.\n\n**(d) Recommendation (3).** Move from polycentric to a **geocentric** policy: price by local cost, income, competition and marketing strategy, but coordinate across markets to cap the gap near the cost of arbitrage. Keep B's price above the cost-plus-8% benchmark and consider pricing nearer the home price to avoid dumping exposure; document an arm's length TP. **Decision line:** the gray-market and dumping risks both come from price gaps, so narrowing the gaps solves both; the tax gain of USD 9 is not worth the penalty risk.",
+    "marking_scheme": [
+      {
+        "point": "Policy named; gray price USD 290 and undercut USD 110",
+        "marks": 2
+      },
+      {
+        "point": "Two valid responses to gray market",
+        "marks": 2
+      },
+      {
+        "point": "Cost-plus-8% test (237.6) and home-price test (50 gap)",
+        "marks": 2
+      },
+      {
+        "point": "Price discrimination and injury requirement",
+        "marks": 2
+      },
+      {
+        "point": "Group tax 43 vs 34 and arm's length comment",
+        "marks": 4
+      },
+      {
+        "point": "Geocentric recommendation and decision line",
+        "marks": 3
+      }
+    ]
+  },
+  {
+    "id": "MM-8-01",
+    "node": "MM-8",
+    "unit": "International Marketing Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "A firm wants a foreign intermediary that negotiates sales with buyers but never takes title to, or stocks, the goods. In the class terminology this is a:",
+    "options": [
+      "A) Distributor",
+      "B) Wholesaler",
+      "C) Agent",
+      "D) Piggyback partner"
+    ],
+    "answer": "C",
+    "explanation": "An agent negotiates transactions between parties and does not take title. A distributor is the tempting option because both are 'intermediaries', but a distributor is a wholesale intermediary that carries lines or brands selectively and takes title. Piggyback is a channel arrangement, not an intermediary type."
+  },
+  {
+    "id": "MM-8-02",
+    "node": "MM-8",
+    "unit": "International Marketing Unit 4",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "Explain the four channel utilities and distinguish a distributor from an agent. State the first three class guidelines for working with international intermediaries. (5 marks)",
+    "model_answer": "**Channel utilities.** Channels exist to create utility:\n- **Place**: product available where the customer finds it convenient.\n- **Time**: available when wanted.\n- **Form**: processed, prepared, in proper condition or ready to use.\n- **Information**: answers and communication about features and benefits.\n\n**Distributor vs agent.** A **distributor** is a wholesale intermediary that carries product lines or brands selectively and takes title. An **agent** negotiates transactions between parties but **does not take title** to the goods.\n\n**Guidelines (first three).** (1) Select distributors; do not let them select you. (2) Look for distributors able to develop markets, not just those with a few good contacts. (3) Treat local distributors as long-term partners, not temporary entry vehicles.",
+    "marking_scheme": [
+      {
+        "point": "Four utilities defined",
+        "marks": 2
+      },
+      {
+        "point": "Distributor defined (selective, takes title)",
+        "marks": 1
+      },
+      {
+        "point": "Agent defined (no title)",
+        "marks": 1
+      },
+      {
+        "point": "Three guidelines",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "MM-8-03",
+    "node": "MM-8",
+    "unit": "International Marketing Unit 4",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "medium",
+    "question": "An Indian hand-tools maker plans to enter Brazil, where products reach customers through importer-wholesalers and independent retailers. Discuss its channel decision: (a) the channel utilities the channel must supply; (b) direct vs indirect involvement and piggyback marketing; (c) the effect of channel length on price, if the landed cost is ₹10,000, a wholesaler adds 15% and a retailer 30%, against a retailer who imports directly and adds 30%; (d) the guidelines for working with the chosen distributor; (e) a recommendation. (10 marks)",
+    "model_answer": "**(a) Utilities.** The AMA defines a channel as an organised network of agencies and institutions that together perform the activities that link producers with users. It must supply **place** (towns beyond the port city), **time** (stock availability), **form** (tested, ready to use) and **information** (demonstration, after-sales answers).\n\n**(b) Involvement.** *Direct:* own sales force or stores; control and data, but high fixed cost and slow reach. *Indirect:* independent agents, distributors and wholesalers; speed and local knowledge, with less control. An **agent** does not take title; a **distributor** carries lines selectively. **Piggyback marketing** uses another firm's channel and needs complementary lines selling to the same customer (a power-tools or hardware brand may fit). Channel strategy must fit the firm's competitive position and objectives in each national market.\n\n**(c) Price effect.** Long channel: 10,000 × 1.15 × 1.30 = **₹14,950** (ratio 1.50). Direct-importing retailer: 10,000 × 1.30 = **₹13,000**. Saving = ₹1,950 (13.0%). Each intermediary adds a margin layer, so a longer channel raises the shelf price; the shorter one gains price competitiveness but needs a larger retailer.\n\n**(d) Guidelines (class, seven).** Select distributors, do not let them select you; look for market developers; treat them as long-term partners; support entry with money, managers and proven ideas; maintain control over marketing strategy; require detailed market and financial data; build links among national distributors early.\n\n**(e) Recommendation.** Start indirect: a market-developing distributor plus one large retailer with direct import, under a long-term contract with data reporting and firm control of price and brand; add own online sales later for data. The call depends on volume and control needs; state them.",
+    "marking_scheme": [
+      {
+        "point": "Four utilities applied to the case",
+        "marks": 2
+      },
+      {
+        "point": "Direct vs indirect, agent vs distributor, piggyback",
+        "marks": 2
+      },
+      {
+        "point": "Price effect: 14,950 vs 13,000 and saving 1,950 (13.0%)",
+        "marks": 2
+      },
+      {
+        "point": "Intermediary guidelines",
+        "marks": 2
+      },
+      {
+        "point": "Recommendation with assumptions",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "MM-9-01",
+    "node": "MM-9",
+    "unit": "International Marketing Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A retailer targets a market that is culturally distant in consumer behaviour and retail structure, and which is also difficult to enter. The class guidance on global retailing strategies is:",
+    "options": [
+      "A) Franchise",
+      "B) Organic growth on greenfield sites",
+      "C) Joint venture",
+      "D) Chain acquisition only"
+    ],
+    "answer": "C",
+    "explanation": "The slide says a joint venture is advisable when culturally distant, difficult-to-enter markets are targeted. Franchise is the tempting option because it also suits cultural distance, but only when barriers to entry are low."
+  },
+  {
+    "id": "MM-9-02",
+    "node": "MM-9",
+    "unit": "International Marketing Unit 4",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Define supply chain and logistics. Name the four functions of physical distribution and choose a transport mode, or combination, for moving 18 tonnes of non-perishable garments from Tiruppur to a port in Europe, justifying the choice from the class mode table. (5 marks)",
+    "model_answer": "**Supply chain** is all the firms that generate raw materials, convert them into components or finished goods and make them available to customers. **Logistics** is the management process that integrates their activities for efficient flow of goods through the chain.\n\n**Four functions.** Order processing (entry, handling, delivery); warehousing (warehouses store, distribution centres fill orders); inventory management (avoid stock-outs and excess stock); transportation.\n\n**Mode choice (class table).** Priority is low cost with acceptable time; goods are non-perishable and heavy in bulk (18 tonnes of low-value goods).\n- Air: high cost, moderate capability, so wrong for the bulk.\n- Water: low cost, high capability, but slow, low reliability and low ease of tracing.\n- Truck/rail: access for the inland legs.\n\n**Choose a combination:** truck to the port, water for the ocean leg, truck at destination. Mitigate water's weaknesses with a forwarder who gives tracking, buffer stock and cargo insurance. Use air only for urgent samples where delay cost exceeds the extra freight.",
+    "marking_scheme": [
+      {
+        "point": "Supply chain vs logistics",
+        "marks": 1
+      },
+      {
+        "point": "Four functions named with a clause each",
+        "marks": 2
+      },
+      {
+        "point": "Mode screening from the class table",
+        "marks": 1
+      },
+      {
+        "point": "Combination and mitigation",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "MM-9-03",
+    "node": "MM-9",
+    "unit": "International Marketing Unit 4",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "hard",
+    "question": "A European homeware retailer wants to enter a culturally distant, hard-to-enter Asian market, and plans to ship goods from Europe. (a) Compare organic growth, franchise, chain acquisition and joint venture, and choose one using the class guidance. (b) For shipping, one tonne is worth ₹5,00,000; inventory carrying cost is 18% a year; sea freight is ₹6,000 per tonne and takes 30 days; air freight is ₹40,000 per tonne and takes 4 days. Compute the total cost per tonne of each and the value per tonne above which air wins. (c) Name the four physical distribution functions. (10 marks)",
+    "model_answer": "**(a) Retail entry strategies (class).**\n- **Organic:** own resources, greenfield or acquired stores; full control but slow and costly.\n- **Franchise:** appropriate when barriers to entry are low yet the market is culturally distant; low capital, brand-control risk.\n- **Chain acquisition:** buy a company with multiple outlets; fast scale, higher cost, fit uncertain.\n- **Joint venture:** advisable when culturally distant, difficult-to-enter markets are targeted; shares risk and local knowledge.\nThe market is both distant and hard to enter, so the class rule points to a **joint venture** with a local retailer, scaling by franchise if the formula works. (What would change the answer: a permissive rule that allows full ownership. Verify the current retail rules.)\n\n**(b) Mode cost.** Carrying cost for the time in transit = value × 18% × days ÷ 365.\n- Sea: 5,00,000 × 0.18 × 30 ÷ 365 = **₹7,397**; total = 6,000 + 7,397 = **₹13,397**.\n- Air: 5,00,000 × 0.18 × 4 ÷ 365 = **₹986**; total = 40,000 + 986 = **₹40,986**.\nSea is cheaper by ₹27,589 per tonne.\n\n**Break-even value.** Extra air freight = 34,000. Time saved = 26 days, so the carrying saving is V × 0.18 × 26 ÷ 365 = 0.012822 V. Setting 0.012822 V = 34,000 gives **V = ₹2,651,709 per tonne**. Above about ₹26.5 lakh per tonne (or for urgent promotion stock) air wins; for this ₹5 lakh cargo, sea wins. This matches the class table: water is low cost and high capability but slow and low in reliability; air is fast and high cost.\n\n**(c) Four functions.** Order processing (entry, handling, delivery); warehousing (warehouses and distribution centres); inventory management (avoid stock-outs and excess); transportation (rail, truck, air, water). Logistics integrates them for efficient flow.\n\n**Conclusion.** Joint venture for entry; sea freight with a forwarder and buffer stock for bulk, air for exceptions.",
+    "marking_scheme": [
+      {
+        "point": "Four retail strategies compared",
+        "marks": 3
+      },
+      {
+        "point": "Choice of JV with class rule",
+        "marks": 1
+      },
+      {
+        "point": "Sea and air total costs (13,397 and 40,986)",
+        "marks": 3
+      },
+      {
+        "point": "Break-even value about ₹26.5 lakh",
+        "marks": 1
+      },
+      {
+        "point": "Four functions named",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "MM-10-01",
+    "node": "MM-10",
+    "unit": "International Marketing Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "In the Nobel Biocare case, setting up training centres alongside the logistics hubs mainly creates which channel utility?",
+    "options": [
+      "A) Place utility",
+      "B) Time utility",
+      "C) Form utility",
+      "D) Information utility"
+    ],
+    "answer": "D",
+    "explanation": "Training gives dentists answers and know-how about the product, which is information utility. Time utility (fast delivery from hubs) is the tempting option because the training centres sit beside the hubs, but speed comes from the warehousing, not the training. Bundled digital workflow is the form-utility element."
+  },
+  {
+    "id": "MM-10-02",
+    "node": "MM-10",
+    "unit": "International Marketing Unit 4",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Describe the four-part distribution model of Nobel Biocare and map each part to a channel utility. Why does this support its premium brand image? (5 marks)",
+    "model_answer": "| Element | What it did | Utility |\n|---|---|---|\n| Direct-to-clinic distribution | Bypassed wholesalers and delivered implants and prosthetics straight to clinics and hospitals | Place (reach) and authenticity |\n| Regional warehousing and logistics hubs | Warehouses in Europe, North America and Asia; delivery within days | Time |\n| Integrated partnerships | 3Shape and CAD/CAM providers: scan, plan, place, restore as a one-stop digital workflow | Form |\n| Education and training centres | Hands-on training beside hubs | Information |\n\n**Premium alignment.** A premium promise needs reliable supply, authenticity and expertise. Direct delivery and training provide these, while a discount wholesaler channel would dilute the image. Bundling also raises **switching costs**, which builds loyalty.\n\n**Conclusion.** Nobel Biocare delivers all four utilities, so its distribution became a source of competitive advantage and not merely a cost.",
+    "marking_scheme": [
+      {
+        "point": "Direct-to-clinic and hubs described",
+        "marks": 1
+      },
+      {
+        "point": "Integrated partnerships and training centres described",
+        "marks": 1
+      },
+      {
+        "point": "Utility mapping (place/time/form/information)",
+        "marks": 1
+      },
+      {
+        "point": "Link to premium brand image",
+        "marks": 1
+      },
+      {
+        "point": "Switching costs / competitive advantage conclusion",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "MM-10-03",
+    "node": "MM-10",
+    "unit": "International Marketing Unit 4",
+    "type": "case",
+    "marks": 15,
+    "difficulty": "hard",
+    "question": "**Case: Haneul Air (fictional; scores and weights illustrative).** Haneul Air, a Korean maker of premium air purifiers, plans to enter India. Its products sell in Europe and North America through big retail chains and online. India's metros have heavy air pollution, but demand in tier-2 and tier-3 cities is growing and buyers there need installation and filter replacement support. Four distribution options are under review, scored 1 (poor) to 5 (strong):\n\n| Criterion | Weight | Retail tie-up | Warehouses + distributors | E-commerce | Omnichannel |\n|---|---|---|---|---|---|\n| Reach | 35% | 2 | 4 | 3 | 5 |\n| Speed | 20% | 2 | 5 | 3 | 4 |\n| Cost | 25% | 3 | 2 | 5 | 2 |\n| Brand and premium fit | 20% | 5 | 3 | 2 | 4 |\n\n(a) Compute the weighted scores and rank the options. (4 marks)\n(b) The CFO re-weights to reach 20%, speed 20%, cost 40%, brand fit 20%. Recompute and comment on what changes. (3 marks)\n(c) Using the Nobel Biocare case, identify which distribution lessons transfer to Haneul Air, linked to the four channel utilities. (4 marks)\n(d) Recommend a phased channel plan with risks. (4 marks)",
+    "model_answer": "**(a) Weighted scores (4).**\n- Retail tie-up: 0.35×2 + 0.20×2 + 0.25×3 + 0.20×5 = 0.70 + 0.40 + 0.75 + 1.00 = **2.85**\n- Warehouses + distributors: 1.40 + 1.00 + 0.50 + 0.60 = **3.50**\n- E-commerce: 1.05 + 0.60 + 1.25 + 0.40 = **3.30**\n- Omnichannel: 1.75 + 0.80 + 0.50 + 0.80 = **3.85**\nRanking: **omnichannel 3.85**, distributors 3.50, e-commerce 3.30, retail tie-up 2.85. Omnichannel wins on reach and speed despite high cost.\n\n**(b) Re-weighted (3).** Retail: 0.20×2 + 0.20×2 + 0.40×3 + 0.20×5 = **3.00**; distributors: 0.8 + 1.0 + 0.8 + 0.6 = **3.20**; e-commerce: 0.6 + 0.6 + 2.0 + 0.4 = **3.60**; omnichannel: 1.0 + 0.8 + 0.8 + 0.8 = **3.40**. **E-commerce now ranks first** (3.60) and omnichannel falls to second (3.40). The ranking depends on the weights, so name them and test sensitivity; when cost dominates, the cheapest route wins.\n\n**(c) Nobel Biocare lessons (4).** Nobel Biocare used direct-to-clinic delivery, regional hubs, integrated digital partners and training centres, so distribution became an advantage. Transferable to Haneul Air: *regional warehouses in metros* give **time utility** and *place utility* in tier-2 cities; *installation and filter-replacement training for partner technicians* gives **information utility**; *bundled subscription for filters and an app* gives **form utility** and raises switching costs; direct delivery for premium units protects authenticity and the premium image. It suits a high-value, technical product where buyers need support and volume covers the cost; it would suit a low-margin commodity poorly.\n\n**(d) Recommendation (4).** **Phase the plan.** Phase 1: e-commerce plus retail tie-up in the three biggest metros (low investment, strong brand fit). Phase 2: add regional warehouses and certified local installers for tier-2 and tier-3 reach as volume justifies. Phase 3: integrate data across channels into omnichannel. Risks: omnichannel needs supply-chain technology and coordination (the slide warns of this); delivery delays in rural areas; channel conflict between retailers and online prices; weak premium presence online. Mitigations: one price policy across channels, service-level targets, and KPIs (delivery time, share of tier-2 sales, cost per sale). **Decision line:** omnichannel is the destination (3.85), e-commerce plus retail the starting point, because the cost-heavy view favours e-commerce first.",
+    "marking_scheme": [
+      {
+        "point": "Weighted scores 2.85, 3.50, 3.30, 3.85 and ranking",
+        "marks": 4
+      },
+      {
+        "point": "Re-weighted scores 3.00, 3.20, 3.60, 3.40 and the ranking change",
+        "marks": 3
+      },
+      {
+        "point": "Nobel Biocare lessons mapped to utilities",
+        "marks": 4
+      },
+      {
+        "point": "Phased recommendation",
+        "marks": 2
+      },
+      {
+        "point": "Risks, KPIs and decision line",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "MM-11-01",
+    "node": "MM-11",
+    "unit": "International Marketing Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A global ad reaches the target audience and is understood, but buyers do not purchase. Which of the four communication difficulties is this?",
+    "options": [
+      "A) The message does not get through to the recipient",
+      "B) The message is misunderstood",
+      "C) The message is understood but does not induce the desired action",
+      "D) Noise impairs the message"
+    ],
+    "answer": "C",
+    "explanation": "Reached and understood but no action is the third difficulty (weak offer, price or call to action). B is the tempting option because students read 'no result' as 'not understood'; here understanding is given. Noise is interference in transmission or decoding."
+  },
+  {
+    "id": "MM-11-02",
+    "node": "MM-11",
+    "unit": "International Marketing Unit 4",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "One ad film costs ₹45 lakh to produce. A firm enters 4 markets. Making a fully local film per market is one option; the other is one global film plus local adaptation (language, locations, legal changes) at ₹6 lakh per market. (a) Compute the saving and the break-even adaptation cost per market. (b) State two risks that could undermine the standardised approach. (5 marks)",
+    "model_answer": "**(a)** All-local: 4 × 45 = ₹180 lakh. Global plus adaptation: 45 + 4 × 6 = ₹69 lakh. Saving = 180 − 69 = **₹111 lakh**, which is 61.7% of the all-local cost.\n\n**Break-even:** 45 + 4x = 180, so 4x = 135 and x = **₹33.75 lakh per market**. Above that adaptation cost, producing locally is cheaper.\n\n**(b) Risks (class problems with global advertising).** Differences in culture and economic development; different consumer needs and usage; media availability varies; legal restrictions on appeals (for example health claims or comparative ads). Any of these can force adaptation costs above the break-even or make the message fail (not understood, no action, or lost in noise).\n\n**Decision.** Standardise the idea and adapt the execution; the saving is large unless adaptation cost rises more than five-fold.",
+    "marking_scheme": [
+      {
+        "point": "All-local ₹180 lakh and global ₹69 lakh",
+        "marks": 1
+      },
+      {
+        "point": "Saving ₹111 lakh (61.7%)",
+        "marks": 1
+      },
+      {
+        "point": "Break-even ₹33.75 lakh",
+        "marks": 1
+      },
+      {
+        "point": "Two relevant risks from the problems list",
+        "marks": 1
+      },
+      {
+        "point": "Decision: standardise idea, adapt execution",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "MM-11-03",
+    "node": "MM-11",
+    "unit": "International Marketing Unit 4",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "medium",
+    "question": "Discuss the decisions a firm faces in global marketing communications: (a) the role of IMC; (b) global advertising, its advantages and problems; (c) the standardisation vs adaptation question and the four communication difficulties; (d) media decisions; (e) the other communication tools. (10 marks)",
+    "model_answer": "**(a) Purpose and IMC.** The primary purpose of marketing communications is to tell customers about the benefits and values a company, product or service offers. **Integrated Marketing Communications** is growing in popularity because of the challenges of communicating across borders; it coordinates all tools into one message (general).\n\n**(b) Global advertising.** Advertising is any sponsored, paid, non-personal message (single country, regional or global). **Global advertising** uses the same appeals, messages, art, copy, photographs, stories and video in multiple markets.\n- *Advantages:* economies of scale; lower planning and control costs; lower production costs; exploit good ideas worldwide; introduce products quickly; consistent brand image; simpler coordination.\n- *Problems:* culture, market and economic differences; varying needs and usage; media availability; legal restrictions.\n\n**(c) Standardise or adapt.** Must the specific message and media strategy change from country to country? Four difficulties: (1) the message may not get through; (2) it may not be understood or may be misunderstood; (3) it may be understood but not induce the desired action; (4) noise can impair it.\n\n**(d) Media decisions.** Prepare new copy in the host language, translate the original, or leave some copy in the home language; follow country-specific media regulation. New copy fits best but costs most; translation is cheap but idiom can be mistranslated.\n\n**(e) Other tools.** PR and publicity (goodwill, news releases, press conferences); sales promotion (paid, limited duration, tangible value, localised for economy, maturity, perception, regulation and trade structure); personal selling (six steps); direct marketing, event sponsorship and internet communications.\n\n**Conclusion.** Standardise the core idea for scale and consistency, adapt execution, language and promotion to culture and law, and coordinate through IMC.",
+    "marking_scheme": [
+      {
+        "point": "Purpose and IMC",
+        "marks": 1
+      },
+      {
+        "point": "Global advertising defined; advantages and problems",
+        "marks": 3
+      },
+      {
+        "point": "Standardise vs adapt and four difficulties",
+        "marks": 2
+      },
+      {
+        "point": "Media decisions",
+        "marks": 1
+      },
+      {
+        "point": "Other tools and conclusion",
+        "marks": 3
+      }
+    ]
+  },
+  {
+    "id": "MM-12-01",
+    "node": "MM-12",
+    "unit": "International Marketing Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "Which sequence is the class personal selling process?",
+    "options": [
+      "A) Approach, presentation, demonstration, negotiation, closing, servicing the sale",
+      "B) Presentation, approach, negotiation, demonstration, closing, servicing the sale",
+      "C) Approach, demonstration, presentation, closing, negotiation, servicing the sale",
+      "D) Approach, presentation, negotiation, demonstration, servicing the sale, closing"
+    ],
+    "answer": "A",
+    "explanation": "The six steps in order are approach, presentation, demonstration, negotiation, closing and servicing. B and C swap adjacent steps; D is the tempting option because it looks nearly right but puts servicing before closing and negotiation before demonstration."
+  },
+  {
+    "id": "MM-12-02",
+    "node": "MM-12",
+    "unit": "International Marketing Unit 4",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Define sales promotion and list its two classifications. A packaged-snacks brand enters a low-income market with many small, fragmented stores. Using the five localisation factors, recommend the promotion approach. (5 marks)",
+    "model_answer": "**Definition (class).** Any paid consumer or trade communication programme of **limited duration** that adds **tangible value** to a product or brand. Classified as **price vs non-price** and **consumer vs trade** promotions.\n\n**Five localisation factors, applied.**\n1. **Economic development:** low incomes limit the range of tools, so avoid costly ones.\n2. **Market maturity:** awareness and trial are low, so build trial.\n3. **Local perception:** a coupon may signal poverty or thrift; samples are often trusted more.\n4. **Local regulation:** check rules on contests and free goods.\n5. **Trade structure:** fragmented small stores favour push through wholesalers with a trade allowance.\n\n**Recommendation.** Non-price consumer promotion (small free samples) plus a trade promotion (volume allowance to wholesalers), supported by personal selling to kiosks. Mass media and price coupons used at home fit the market poorly. State the assumptions.",
+    "marking_scheme": [
+      {
+        "point": "Definition with limited duration and tangible value",
+        "marks": 1
+      },
+      {
+        "point": "Price/non-price and consumer/trade splits",
+        "marks": 1
+      },
+      {
+        "point": "Five factors listed",
+        "marks": 1
+      },
+      {
+        "point": "Factors applied to the scenario",
+        "marks": 1
+      },
+      {
+        "point": "Recommendation with assumptions",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "MM-12-03",
+    "node": "MM-12",
+    "unit": "International Marketing Unit 4",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "Explain the personal selling process and why selling differs across cultures. Name the other special forms of marketing communication on the slide. (5 marks)",
+    "model_answer": "**Personal selling** is person-to-person communication between a company representative and potential buyers. It informs and persuades; the short-term goal is a sale and the long-term goal is a relationship.\n\n**Six steps:** approach, presentation, demonstration, negotiation, closing, servicing the sale.\n\n**Cultural difference (general).** Negotiation style, gift norms and time orientation vary, so firms train staff or hire local sales people (link to Unit 2 cultural environment).\n\n**Special forms (class):** direct marketing (direct mail, catalogues, infomercials, teleshopping); event sponsorship (concerts, sporting events, product placement in movies); and internet communications.",
+    "marking_scheme": [
+      {
+        "point": "Definition and the two goals",
+        "marks": 1
+      },
+      {
+        "point": "Six steps in order",
+        "marks": 2
+      },
+      {
+        "point": "Cultural variation point",
+        "marks": 1
+      },
+      {
+        "point": "Special forms named",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "MM-13-01",
+    "node": "MM-13",
+    "unit": "International Marketing Unit 4",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Per the exam notes (general knowledge, not slide text), which pricing risk do online cross-border price comparison sites most directly raise for a firm using different prices in different countries?",
+    "options": [
+      "A) Dumping duties in every market",
+      "B) Gray marketing as price gaps become visible",
+      "C) Resale price maintenance",
+      "D) Horizontal price fixing"
+    ],
+    "answer": "B",
+    "explanation": "Digital makes price gaps visible across borders, so arbitrage by unauthorised sellers grows. A is tempting because it is also a pricing-law risk, but dumping concerns a price below the home or cost-plus benchmark, not simple visibility of price differences. C and D are legal restrictions on the firm's own conduct, not a result of transparency."
+  },
+  {
+    "id": "MM-13-02",
+    "node": "MM-13",
+    "unit": "International Marketing Unit 4",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Explain how the digital revolution changes each of the 4 Ps in global marketing, with one benefit and one challenge. Note which part of your answer is not taken from the class slides. (5 marks)",
+    "model_answer": "**Slide scraps (class).** Internet communications is a special form of communication; the internet is a direct channel in the consumer and industrial diagrams; and e-commerce appears in the electronics case (wide reach, lower overheads, data insights against rural delivery delays and weak premium presence).\n\n**4 Ps (general knowledge, not slide text).**\n- **Product:** user data guides adaptation; digital products cross borders at near-zero shipping cost.\n- **Price:** prices become visible across borders, exposing gaps and increasing gray marketing; dynamic and local-currency pricing become easy.\n- **Place:** direct-to-consumer reach, marketplaces, omnichannel; intermediaries can be bypassed.\n- **Promotion:** search, social media, influencers and email with precise, measurable targeting.\n\n**Benefit:** low-cost reach to many countries and real-time customer data. **Challenge:** data-privacy law (for example EU GDPR) and cross-border returns and logistics.\n\nDigital makes each P more visible, more measurable and more global.",
+    "marking_scheme": [
+      {
+        "point": "Slide scraps identified (class)",
+        "marks": 1
+      },
+      {
+        "point": "Product and price impact",
+        "marks": 1
+      },
+      {
+        "point": "Place and promotion impact",
+        "marks": 1
+      },
+      {
+        "point": "One benefit and one challenge",
+        "marks": 1
+      },
+      {
+        "point": "Flags general-knowledge content",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "MM-13-03",
+    "node": "MM-13",
+    "unit": "International Marketing Unit 4",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "medium",
+    "question": "Discuss how the digital revolution has changed the global marketing mix. Separate what the class slides say from general knowledge, and conclude with the main challenges and a condition for scaling. (10 marks)",
+    "model_answer": "**What the class slides say.** Little. The deck lists the topic but carries only scraps: internet communications as a special form of communication; the internet as a direct channel in the consumer and industrial diagrams; the internet row in the transport table (reliability high, cost low, speed moderate to fast, capability low, ease of tracing high, so for digital goods only); and e-commerce in the Japanese electronics case (wide reach, lower overheads, data insights against rural delivery delays and weaker premium presence). *The rest below is general knowledge.*\n\n**Impact on the 4 Ps (general).**\n| P | Change |\n|---|---|\n| Product | User data guides adaptation; digital products and services cross borders at near-zero shipping cost |\n| Price | Prices visible across borders so gaps and gray markets grow; dynamic and local-currency pricing easy |\n| Place | Direct-to-consumer, marketplaces, omnichannel; intermediaries bypassed |\n| Promotion | Search, social, influencers, email, mobile; precise, measurable targeting |\n\n**Benefits.** Low-cost reach (born-global firms), real-time data and feedback, personalisation, faster entry with less capital, 24x7 service.\n\n**Challenges.** Privacy law (EU GDPR; India's data protection law, verify status), language and culture, payments and trust, infrastructure and rural last mile, cross-border logistics and returns (Incoterms DAP/DDP), platform dependence, content and advertising rules. The four problems of global advertising apply online too.\n\n**Condition to scale.** Cost per acquisition plus delivery cost must stay below the contribution margin per order; otherwise move to distributors or retail channels.\n\n**Conclusion.** Digital makes each P more visible, more measurable and more global, but it does not remove the need to adapt to culture, law and logistics.",
+    "marking_scheme": [
+      {
+        "point": "Slide scraps identified",
+        "marks": 2
+      },
+      {
+        "point": "Impact on each P",
+        "marks": 3
+      },
+      {
+        "point": "Benefits",
+        "marks": 1
+      },
+      {
+        "point": "Challenges with an example",
+        "marks": 2
+      },
+      {
+        "point": "Scaling condition and conclusion",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "MM-13-04",
+    "node": "MM-13",
+    "unit": "International Marketing Unit 4",
+    "type": "case",
+    "marks": 15,
+    "difficulty": "hard",
+    "question": "**Case: Rangoli Crafts (fictional; illustrative figures).** Rangoli Crafts, an Indian home-decor brand, wants to test **Germany** online before committing to stores or distributors. It will list on a marketplace and open a German-language website, shipping on a delivered-duty-paid basis. Per order: average order value ₹3,000; product cost ₹1,200; packaging ₹100; shipping and duty ₹600; payment fees 3% of order value. **12% of orders are returned**, and each return costs ₹800 (return shipping and unsaleable stock). Customer acquisition cost (CAC) is ₹750 per order.\n\n(a) Outline the digital entry plan across the 4 Ps, indicating where you rely on general knowledge. (5 marks)\n(b) Compute the contribution per order after expected returns, and the profit per order after CAC. (4 marks)\n(c) The return rate could be 25%. Recompute, find the break-even return rate at CAC ₹750, and state the scale-up rule. (3 marks)\n(d) Identify three challenges with mitigations. (3 marks)",
+    "model_answer": "**(a) Digital entry plan (5).** The slides only give scraps (internet communications, internet as a direct channel, e-commerce pros and cons in the electronics case); the 4 P treatment below is **general knowledge**.\n- **Product:** a few best-selling items; adapt sizes, labels and German descriptions; use review data to refine.\n- **Price:** show the landed price in euros including duty (DDP) for buyer confidence; watch visible price gaps and gray resale.\n- **Place:** marketplace plus own site; local returns address or partner; add a distributor if orders build.\n- **Promotion:** German search ads, social content on craft and origin (country-of-origin cue), influencer sampling and email.\nObjective: test demand with low capital before stores or distributors.\n\n**(b) Unit economics (4).**\n| Item | ₹ |\n|---|---|\n| Average order value | 3,000 |\n| Product cost | −1,200 |\n| Packaging | −100 |\n| Shipping and duty (DDP) | −600 |\n| Payment fee 3% | −90 |\n| Expected return cost 12% × 800 | −96 |\n| **Contribution per order** | **914** |\n| CAC | −750 |\n| **Profit per order** | **164** |\nBreak-even CAC at a 12% return rate is ₹914; CAC is below it, so each order earns ₹164.\n\n**(c) Sensitivity (3).** At 25% returns: return cost 25% × 800 = ₹200; contribution = 3,000 − 1,200 − 100 − 600 − 90 − 200 = **₹810**; profit after CAC = **₹60**. Break-even return rate: contribution before returns = 1,010; 1,010 − 750 = 260; 260 ÷ 800 = **32.5%**. **Scale-up rule (notes):** scale only if CAC plus delivery cost stays below the contribution margin per order; if returns or delivery cost push CAC above contribution, move to distributor or retail channels. Thin headroom (₹164) means test before scaling.\n\n**(d) Challenges (3).** *Data privacy law* (EU GDPR; consent for email and tracking): use consent tools and a local data policy. *Language and culture:* poor translation or wrong colour symbolism: native-language copy and local reviewers. *Logistics and returns:* costly cross-border returns and customs: German returns address, DDP to avoid customs surprises, size guides to cut returns. Other: payment preferences, platform dependence, advertising rules.\n\n**Decision line.** The test is viable at a 12% return rate (₹164 profit per order) but fragile above a 32.5% return rate or CAC above ₹914; scale in stages and track CAC and return rate weekly.",
+    "marking_scheme": [
+      {
+        "point": "4P plan with general-knowledge flag",
+        "marks": 5
+      },
+      {
+        "point": "Contribution ₹914 and profit ₹164",
+        "marks": 4
+      },
+      {
+        "point": "25% scenario ₹810 / ₹60 and break-even return 32.5%",
+        "marks": 2
+      },
+      {
+        "point": "Scale-up rule",
+        "marks": 1
+      },
+      {
+        "point": "Three challenges with mitigations",
+        "marks": 3
+      }
+    ]
+  },
+  {
+    "id": "MM-14-01",
+    "node": "MM-14",
+    "unit": "International Marketing Unit 4",
+    "type": "case",
+    "marks": 15,
+    "difficulty": "hard",
+    "question": "**Case: Jaipur Weave Home (fictional; all figures illustrative).** Jaipur Weave Home makes hand-block-printed cotton bedding sets in India and wants to enter **Germany** as a premium craft brand, and later test **Kenya** with a lower-priced range. The German retail price points for comparable premium sets are around **₹7,497 including 19% sales tax**. Unit cost is ₹2,800. Per set: packing and documents ₹150; freight and insurance ₹350; German duty 5% of CIF; importer-wholesaler mark-up 20% and retailer mark-up 25% (both on cost, successive). German buyers expect washing-care labels in German and look for recognised textile-quality marks. The firm's usual ex-works price is ₹4,200.\n\n(a) Recommend the product and brand approach for Germany using the five-strategy grid; address brand level, country of origin and labelling. (4 marks)\n(b) Use price-back to find the ex-works price and margin at the ₹7,497 shelf price. Then find the shelf price if the usual ₹4,200 is charged, and if the importer-wholesaler layer is removed (direct online sales landed in Germany, same duty). (4 marks)\n(c) State the quote to a German importer under FOB, CIF and, for online buyers, DDP at the price-back ex-works price. Recommend the place strategy. (3 marks)\n(d) Outline promotion for Germany and the Kenya approach in one line. (2 marks)\n(e) Name two risks with mitigations and give a final decision line. (2 marks)",
+    "model_answer": "**(a) Product and brand (4).** Aim for a **global-style premium brand with an adapted offering**. Keep the craft story and brand identity (communication extension) and adapt the product to German needs (bed sizes, care labels in German, quality marks): **Strategy 3, product adaptation with communication extension** (the McAloo Tikki pattern). Brand level: start as an **international brand** (same name, tailored offering). **Country of origin:** India as a craft origin can lift a premium handloom story but may signal low price to some buyers; back it with certified quality marks and a provenance story. **Labelling** is a legal reason to adapt (language, fibre content, care symbols). Assumption: premium positioning travels.\n\n**(b) Pricing (4).** Price-back (divide, do not subtract):\n| Step | Calculation | Result (₹) |\n|---|---|---|\n| Shelf price incl. tax | given | 7,497 |\n| Remove tax 19% | 7,497 ÷ 1.19 | 6,300 |\n| Remove retailer 25% | ÷ 1.25 | 5,040 |\n| Remove importer-wholesaler 20% | ÷ 1.20 | 4,200 (landed) |\n| Remove duty 5% | ÷ 1.05 | 4,000 (CIF) |\n| Remove freight and insurance | 4,000 − 350 | 3,650 (FOB) |\n| Remove packing and documents | 3,650 − 150 | **3,500 ex-works** |\nMargin = 3,500 − 2,800 = **₹700 per set** (25% on cost).\n\nForward check at the usual ex-works ₹4,200: CIF = 4,200 + 150 + 350 = 4,700; landed = 4,700 × 1.05 = 4,935; × 1.20 = 5,922; × 1.25 = 7,402.5; × 1.19 = **₹8,809**, which is 17.5% above the ₹7,497 price point. Without the importer-wholesaler: 4,935 × 1.25 × 1.19 = **₹7,341**, within the price point, which allows ₹4,200 ex-works (margin ₹1,400, 50% on cost).\n\n**(c) Place (3).** At ex-works ₹3,500: **FOB ₹3,650**; **CIF ₹4,000** (adds freight 350 but not duty); **DDP for online buyers = 4,000 × 1.05 = ₹4,200** (adds 5% duty on CIF). The total cost chain is the same; only responsibility and risk shift. Place strategy: sell online direct (DDP/DAP for buyer confidence) through a marketplace and own site, plus a distributor-importer or a department-store listing for credibility; sea freight to a European port, truck for the last leg. Direct sales remove a layer and protect price; the importer layer adds reach and clearance know-how.\n\n**(d) Promotion (2).** One global creative idea (craft heritage) with German-language copy written fresh for key assets; quality-focused PR, trade-fair presence and sampling to retailers; sales promotion kept non-price to protect the premium. **Kenya:** penetration pricing, smaller sets and a local-pack adaptation, FOB or CFR quote through a distributor (check duty).\n\n**(e) Risks and decision (2).** *Currency*: the euro price translates to fewer rupees if the rupee strengthens, so bill in the customer's currency only if margins hold, or hedge. *Gray imports or an anti-dumping query* if India prices are lower than export prices. **Decision:** at ₹7,497 the margin is only ₹700, so position above the price point as premium craft with proof of quality, or shorten the channel by selling online direct; recommend the premium, part-direct route. All mark-ups are assumptions.",
+    "marking_scheme": [
+      {
+        "point": "Strategy 3 / grid, brand level, COO, labelling",
+        "marks": 4
+      },
+      {
+        "point": "Price-back to ₹3,500 and margin ₹700",
+        "marks": 2
+      },
+      {
+        "point": "Forward shelf price ₹8,809 and shorter channel ₹7,341",
+        "marks": 2
+      },
+      {
+        "point": "FOB 3,650, CIF 4,000, DDP 4,200 with place strategy",
+        "marks": 3
+      },
+      {
+        "point": "Promotion for Germany and Kenya",
+        "marks": 2
+      },
+      {
+        "point": "Two risks with mitigation and decision line",
+        "marks": 2
+      }
+    ]
+  }
+]
