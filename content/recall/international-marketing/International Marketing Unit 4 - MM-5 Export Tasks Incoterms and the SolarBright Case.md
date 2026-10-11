@@ -41,8 +41,9 @@ Covers: the nine tasks when goods cross a border, why the sales contract decides
 | **Delivery duty paid (DDP)** | Seller delivers to a named place in the import country with all costs, including duties, paid | Maximum obligation |
 Order of seller burden, least to most: **EXW, FAS, FOB, CFR, CIF, DDP** **(general)**.
 
-### Corrections to two slide statements
-- **CIF risk point.** The slide says risk passes when goods "have passed the ship's rail". That is the old (Incoterms 2000) wording. Under later editions risk passes when goods are **on board** the vessel at the port of shipment. Give the slide wording as the class answer and add one line on the current rule. **[VERIFY]** the edition (Incoterms 2020 is current as of my knowledge).
+### Corrections to slide statements
+- **CIF risk point.** The slide says risk passes when goods "have passed the ship's rail". That is the old (Incoterms 2000) wording. Under later editions risk passes when goods are **on board** the vessel at the port of shipment. Give the slide wording as the class answer and add one line on the current rule. CIF minimum insurance: Institute Cargo Clauses (C) under Incoterms 2020 (general). **[VERIFY]** the edition (Incoterms 2020 is current as of my knowledge).
+- **FAS.** The slide says named port of destination; it is the named port of shipment. Write the class wording first, then the correct version.
 - **CFR.** The slide's sentence is wrong as a definition: it contradicts the term's own name. Under CFR the seller **pays cost and freight to the named destination port**, but risk still passes to the buyer on board at origin. Write the slide's one-liner if the question quotes it, then the correct definition.
 - Also **(general)**: FAS, FOB, CFR and CIF are for sea and inland waterway transport only; EXW and DDP suit any mode.
 
@@ -54,7 +55,7 @@ Using the ex-works sum from MM-4: ex-works ₹10,000; packing, inland freight an
 | FOB | 10,500 | 1,200 + 150 + 1,185 = 2,535 |
 | CFR | 11,700 | 150 + 1,185 = 1,335 |
 | CIF | 11,850 | 1,185 |
-| DDP | 13,035 | 0 (import clearance excluded) |
+| DDP | 13,035 | 0 (customs clearance fees ignored for simplicity) |
 Check: every row sums to the same total for the buyer, 13,035. Only **who carries which cost and risk** changes, not the total cost of the chain.
 Decision line: a higher quote under DDP is not a higher real price; it buys the buyer certainty. Pick the term by who can arrange freight, insurance and clearance cheaper and with less risk.
 
@@ -78,7 +79,7 @@ One line each on EXW, FOB, CIF, DDP (4); one sentence that terms decide who does
 - Nine export tasks; the sales contract (Incoterms) decides who does them.
 - EXW is minimum seller burden, DDP maximum; FAS, FOB, CFR, CIF in between.
 - Quote ladder: only responsibility and risk shift; the buyer's total landed cost stays the same.
-- Two slide slips: CIF risk "ship's rail" (older wording) and the CFR definition.
+- Three slide slips: CIF risk "ship's rail" (older wording), the CFR definition and the FAS port (shipment, not destination).
 - SolarBright: pricing per market, Incoterm by ability to manage logistics risk.
 
 ## Concept map
@@ -103,7 +104,7 @@ A: Seller places goods at the buyer's disposal at his own premises; buyer takes 
 Q: Define delivery duty paid.
 A: Seller delivers to a named place in the import country with all costs, including duties, paid.
 Q: Define FAS.
-A: Free alongside ship at a named port; seller places goods alongside the vessel and pays all charges up to that point.
+A: Free alongside ship at a named port; seller places goods alongside the vessel and pays all charges up to that point. Slide slip: it says named port of destination; it is the named port of shipment.
 Q: Define FOB.
 A: Seller's responsibility continues until the goods are actually placed aboard the ship.
 Q: What does CIF cover and what is the slide's risk point?

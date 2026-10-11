@@ -91,13 +91,14 @@ Always show **at least one number** (a landed price or price-back) and **state a
 | Remove packing and documents 50 | 2,928 minus 50 | **2,878 ex-works** |
 | Unit cost | given | 2,600 |
 | Margin at target shelf price | 2,878 minus 2,600 | **₹278 per set (10.7% on cost)** |
-**Check the other direction.** If Nirmal prices ex-works at ₹3,600 (about 38% over cost), the shelf price becomes (3,600 + 50 + 150) × 1.05 × 1.20 × 1.30 × 1.19 = **₹7,407**, which is 23% above the ₹6,000 target. A ₹3,600 ex-works price needs either a premium position or a shorter channel.
+**Check the other direction.** If Nirmal prices ex-works at ₹3,600 (about 38% over cost), the shelf price becomes (3,600 + 50 + 150) × 1.05 × 1.20 × 1.30 × 1.19 = **₹7,407**, which is about 23% above the ₹6,000 target. This assumes import VAT is ignored in the DDP quote; shelf VAT is charged once, at retail. A ₹3,600 ex-works price needs either a premium position or a shorter channel. Without the importer-wholesaler at 3,600 ex-works the shelf price is about 6,173 ((3,600 + 50 + 150) × 1.05 × 1.30 × 1.19), still slightly above 6,000. Correction to the usual rule of thumb: an ex-works price near 3,500 does not quite clear it (3,500 gives about 6,010); about 3,490 or lower does (about 5,994).
 **Decision line:** at ₹6,000 the margin is thin (₹278 per set); either position above ₹6,000 as a premium craft brand with proof of quality (skimming), or shorten the channel by selling online direct and bearing DAP, which removes the importer-wholesaler layer (about 20% of the chain). Recommend the premium, partly direct route, and state the assumed mark-ups.
 
 **Kenya (two lines).** Penetration pricing, Strategy 3 (smaller set sizes, local pack), FOB or CFR quote with a distributor, trade promotion and sampling; check import duty **[VERIFY]**.
 
 ## Common mistakes
 - Writing the Incoterm CFR as "seller not responsible outside factory". Use the correct definition (MM-5).
+- Copying the FAS slide as "named port of destination". It is the named port of shipment; write the class wording first, then the correct version (MM-5).
 - Treating the "Target Costing" slide as target costing; it is cost-plus (MM-4).
 - Forgetting that dumping needs both price discrimination and injury (MM-7).
 - Stating Strategy 4 as missing; define it as dual adaptation (MM-3).
@@ -132,7 +133,7 @@ A: Start from the target shelf price and remove tax and each margin, duty, freig
 Q: In the Nirmal case, what ex-works price meets a ₹6,000 shelf price?
 A: ₹2,878 per set, giving a margin of ₹278 (10.7% on a ₹2,600 cost).
 Q: In the Nirmal case, what happens at ₹3,600 ex-works?
-A: The shelf price becomes ₹7,407, 23% above target.
+A: The shelf price becomes ₹7,407, about 23% above target (assumes import VAT ignored in the DDP quote; shelf VAT charged once, at retail).
 Q: Which Incoterm slide statement should you correct in the exam?
 A: CFR: the seller pays cost and freight to the destination port, not "no responsibility outside the factory".
 Q: Why is the Target Costing slide really cost-plus?

@@ -65,7 +65,7 @@ Labels give consumers information, and **regulations differ by country**. Slide 
 | Rule | Where | What it requires |
 |---|---|---|
 | Health warnings | Tobacco products | Mandatory warning on packs |
-| American Automobile Labelling Act | United States | Country of origin and final assembly point on cars |
+| American Automobile Labelling Act | United States | Country of origin and final assembly point on cars (general: also US/Canadian parts content %) |
 | Genetically modified ingredient labels | European Union | Labels on all food products that include ingredients from genetically modified crops |
 Exam use: labelling is a legal reason to adapt even a standardised product. Give two slide examples.
 

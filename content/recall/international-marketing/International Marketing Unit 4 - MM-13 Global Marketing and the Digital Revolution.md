@@ -43,7 +43,7 @@ Mnemonic: digital makes each P **more visible, more measurable and more global**
 ## Challenges and constraints (general)
 | Challenge | Detail |
 |---|---|
-| **Data privacy and law** | Rules differ: EU GDPR; India's Digital Personal Data Protection Act 2023 **[VERIFY]** status of rules and dates |
+| **Data privacy and law** | Rules differ: EU GDPR; India's DPDP Act 2023; the DPDP Rules were notified in November 2025 with phased commencement; confirm current dates **[VERIFY]** |
 | **Language and culture** | Poor translation, wrong colours, humour; localisation beyond translation |
 | **Payments and trust** | Preferred payment methods differ; fraud and currency conversion |
 | **Infrastructure** | Internet speed and smartphone access vary; rural last-mile delivery (slide case) |

@@ -58,7 +58,7 @@ Nobel Biocare, headquartered in Zurich, Switzerland, is a global leader in denta
 2. **How does bundling education and digital workflows with distribution enhance loyalty?** Switching means leaving the whole system, the training and the digital tools, not just changing a product, so switching costs rise.
 3. **Could the model be replicated in other industries?** Yes in pharmaceuticals (authenticity, cold chain, doctor education) and in consumer electronics (installation, after-sales, data) if the product is high-value and technical, buyers need support and the volume covers the cost of direct reach. Less suited to low-margin commodities.
 4. **How does it align with the premium brand image?** A premium promise needs reliable supply, authenticity and expertise, which direct delivery and training deliver. A discount wholesaler channel would dilute it.
-Linking utilities (MM-8): speed gives time utility, hubs give place utility, bundling gives form utility, training gives information utility. Excellent exam bridge: **Nobel Biocare delivers all four channel utilities**.
+Linking utilities (MM-8): direct-to-clinic gives place utility plus authenticity, hubs give time utility (speed) and place utility, bundling gives form utility, training gives information utility. Excellent exam bridge: **Nobel Biocare delivers all four channel utilities**.
 
 ## 15-mark case layout using these cases (see MM-14)
 Facts and objective (2); options with pros and cons (4); scoring or criteria (3); recommendation with phasing (3); risks, KPIs and the decision line (3).

@@ -78,7 +78,7 @@ An Indian maker exports a machine part. Ex-works (factory) price ₹10,000. All 
 | 6 | Importer mark-up 15% | 1,955 | 14,990 |
 | 7 | Wholesaler mark-up 12% | 1,799 | 16,789 |
 | 8 | Retailer mark-up 30% | 5,037 | 21,826 |
-| 9 | Sales tax or VAT 18% (illustrative rate) | 3,928 | **25,754** |
+| 9 | Sales tax or VAT 18% (illustrative rate) | 3,929 (shown to the rupee; totals may differ by 1) | **25,754** |
 Check: 13,035 × 1.15 × 1.12 × 1.30 × 1.18 = 25,754 (rounded to the rupee).
 **Escalation ratio** = 25,754 ÷ 10,000 = **2.58 times**. Duties, freight and three layers of margin more than double the price.
 

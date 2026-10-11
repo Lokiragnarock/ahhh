@@ -20,6 +20,7 @@ Covers: what a brand is, brand image, brand equity and its seven benefits, the t
 
 ## Why this matters
 Unit 4 is the 4 Ps taken across borders. The slides open with brand and product decisions because every other P (price, place, promotion) is set after the company has decided what it is selling and under what name. The slide's key tension: **product standardisation vs adaptation**, and **global branding vs local branding**. Firms balance the efficiency of standardising with the fit of adapting, usually through a mix.
+Assignment slide (Apple vs Samsung global strategy): no exam content; see Unit 5 (SL-2).
 
 ## What a brand is (class)
 The slides give five ways to say it:

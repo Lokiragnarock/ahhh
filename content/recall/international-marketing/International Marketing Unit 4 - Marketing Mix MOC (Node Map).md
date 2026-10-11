@@ -73,7 +73,7 @@ graph TD
 - Strategy 4 (dual adaptation) has no slide text; defined in MM-3 (general).
 - Digital revolution topic has almost no slide content; MM-13 is mostly general knowledge.
 - "Target Costing" slides are cost-plus pricing; noted in MM-4.
-- Incoterms: CIF risk "ship's rail" and the CFR definition on the slides need correction (MM-5).
+- Incoterms: CIF risk "ship's rail", the CFR definition and the FAS port (slide says destination; it is the port of shipment) need correction (MM-5).
 - Maslow slide shows only the pyramid; product mapping is general (MM-2).
 
 ## Links
