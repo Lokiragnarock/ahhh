@@ -1,0 +1,836 @@
+[
+  {
+    "id": "ME-1-01",
+    "node": "ME-1",
+    "unit": "International Marketing Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "Anand Traders (illustrative) sells handloom fabric to a Mumbai export merchant, who ships it to buyers in Dubai. Anand never deals with the Dubai buyers. This is:",
+    "options": [
+      "A) Direct exporting",
+      "B) Indirect exporting",
+      "C) Intra-corporate transfer",
+      "D) Licensing"
+    ],
+    "answer": "B",
+    "explanation": "Goods move through a home-based exporter (export merchant) and the firm has no contact with foreign customers, which is the faculty definition of indirect involvement. Direct exporting is tempting because the goods do end up abroad, but direct means the firm itself faces the foreign buyer."
+  },
+  {
+    "id": "ME-1-02",
+    "node": "ME-1",
+    "unit": "International Marketing Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "A firm ships components from its plant in the UK to its own assembly subsidiary in Malaysia. In the faculty classification this is:",
+    "options": [
+      "A) Indirect exporting",
+      "B) Direct exporting",
+      "C) Intra-corporate transfer",
+      "D) Contract manufacturing"
+    ],
+    "answer": "C",
+    "explanation": "A sale to the firm's own subsidiary, affiliate or branch abroad is an intra-corporate transfer. Direct exporting is tempting because the firm ships itself, but direct exporting means selling to an independent foreign buyer."
+  },
+  {
+    "id": "ME-1-03",
+    "node": "ME-1",
+    "unit": "International Marketing Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Which of the following is listed on the faculty slide as a DISADVANTAGE of exporting?",
+    "options": [
+      "A) Avoiding restrictions on foreign investment",
+      "B) Permitting gradual market entry",
+      "C) Vulnerability to tariffs and non-tariff barriers",
+      "D) Low financial exposure"
+    ],
+    "answer": "C",
+    "explanation": "Tariffs and NTBs hit exporters directly, since the goods cross the border. The other three are listed advantages. Option A is tempting because licensing and franchising also list 'avoids tariffs, NTBs', but for exporting the tariff point sits on the disadvantage side."
+  },
+  {
+    "id": "ME-2-01",
+    "node": "ME-2",
+    "unit": "International Marketing Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "According to the faculty slides, the key advantage franchising has over licensing is that it:",
+    "options": [
+      "A) Needs no royalty",
+      "B) Lets the owner maintain more control",
+      "C) Removes the risk of creating a future competitor",
+      "D) Needs larger capital from the owner"
+    ],
+    "answer": "B",
+    "explanation": "The slide says the franchisor can exercise more control over the franchisee than a licensor can. Option C is tempting, but the 'future competitor' risk is listed for both licensing and franchising."
+  },
+  {
+    "id": "ME-2-02",
+    "node": "ME-2",
+    "unit": "International Marketing Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A franchisor charges a one-time fixed fee of ₹12 lakh and a royalty of 5% of sales. The franchisee's sales are ₹8 crore a year and the contract runs 3 years. Total income to the franchisor over the contract is (assume constant sales, fee paid once):",
+    "options": [
+      "A) ₹52 lakh",
+      "B) ₹120 lakh",
+      "C) ₹132 lakh",
+      "D) ₹156 lakh"
+    ],
+    "answer": "C",
+    "explanation": "Royalty = 5% x 800 lakh = 40 lakh a year; 3 years = 120 lakh; add the fixed fee 12 lakh = 132 lakh. Option B forgets the fixed fee; option D wrongly charges the fixed fee every year (3 x 52 = 156); option A counts only one year of royalty plus the fee."
+  },
+  {
+    "id": "ME-3-01",
+    "node": "ME-3",
+    "unit": "International Marketing Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A firm agrees to design, construct and equip a plant abroad and hand it over to the purchaser when ready for operation, for a remuneration. This is a:",
+    "options": [
+      "A) Management contract",
+      "B) Contract manufacturing arrangement",
+      "C) Turnkey project",
+      "D) Greenfield investment"
+    ],
+    "answer": "C",
+    "explanation": "Design, construct, equip and hand over is the faculty definition of a turnkey project. A greenfield investment is tempting because a plant is built, but in greenfield the firm builds for itself and keeps ownership and operation."
+  },
+  {
+    "id": "ME-3-02",
+    "node": "ME-3",
+    "unit": "International Marketing Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "easy",
+    "question": "In the Apple and Foxconn example from the faculty deck, which disadvantage does Apple face as the owner of the brand?",
+    "options": [
+      "A) Huge capital outlay on factories",
+      "B) Reduced control over quality and delivery schedules",
+      "C) Assuming the liabilities of Foxconn",
+      "D) Shared ownership conflict"
+    ],
+    "answer": "B",
+    "explanation": "Contract manufacturing lowers financial risk but reduces control and learning potential. Option C is tempting but belongs to acquisitions; Apple does not buy Foxconn, so it inherits no liabilities."
+  },
+  {
+    "id": "ME-4-01",
+    "node": "ME-4",
+    "unit": "International Marketing Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "Which statement about acquiring a foreign firm is consistent with the faculty slide?",
+    "options": [
+      "A) It avoids all inherited liabilities",
+      "B) It gives control of factories and brand names but the acquirer assumes all liabilities",
+      "C) It is the slowest FDI route",
+      "D) It always shares control with a local partner"
+    ],
+    "answer": "B",
+    "explanation": "The slide lists control over the acquired firm's factories and brand names, and assuming all financial and managerial liabilities. Option C is tempting because it describes greenfield, which starts from scratch; option D describes a joint venture."
+  },
+  {
+    "id": "ME-4-02",
+    "node": "ME-4",
+    "unit": "International Marketing Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "medium",
+    "question": "A firm wants to share costs and reduce political risk in a new market and accepts shared control. The best FDI route is a:",
+    "options": [
+      "A) Greenfield investment",
+      "B) Wholly owned acquisition",
+      "C) Joint venture",
+      "D) Turnkey project"
+    ],
+    "answer": "C",
+    "explanation": "Shared cost and risk and reduced political risk are the joint venture advantages. Greenfield is tempting because it gives the most control, but it carries the highest capital and political exposure."
+  },
+  {
+    "id": "ME-5-01",
+    "node": "ME-5",
+    "unit": "International Marketing Unit 3",
+    "type": "mcq",
+    "marks": 1,
+    "difficulty": "hard",
+    "question": "In an entry-mode scoring table, a mode scores 4 on control (weight 50), 2 on capital saved (weight 30) and 5 on speed (weight 20). The weighted score out of 5 is:",
+    "options": [
+      "A) 3.50",
+      "B) 3.60",
+      "C) 3.67",
+      "D) 360"
+    ],
+    "answer": "B",
+    "explanation": "(4 x 50 + 2 x 30 + 5 x 20) / 100 = (200 + 60 + 100) / 100 = 3.60. Option C is the simple average (4 + 2 + 5) / 3 = 3.67, which ignores the weights. Option D is the weighted total before dividing by the weight sum of 100."
+  },
+  {
+    "id": "ME-1-04",
+    "node": "ME-1",
+    "unit": "International Marketing Unit 3",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "Explain the three forms of exporting in the faculty classification, with one advantage and one disadvantage of exporting.",
+    "model_answer": "**Exporting** is the lowest-commitment entry mode: goods or services are produced at home and sold abroad.\n\n| Form | Meaning |\n|---|---|\n| Indirect exporting | Sold through home-based exporters (export commission agents, export merchants, international firms); the firm does not deal with foreign customers |\n| Direct exporting | The firm itself finds, ships to and deals with the foreign buyer, so it can build a relationship |\n| Intra-corporate transfer | Sale to the firm's own subsidiary, affiliate or branch abroad |\n\n**Advantage:** relatively low financial exposure (also gradual entry, local market knowledge). **Disadvantage:** vulnerability to tariffs and non-tariff barriers (also logistics and distributor conflict).",
+    "marking_scheme": [
+      {
+        "point": "Definition of exporting",
+        "marks": 1
+      },
+      {
+        "point": "Indirect exporting with home-based intermediaries",
+        "marks": 1
+      },
+      {
+        "point": "Direct exporting",
+        "marks": 1
+      },
+      {
+        "point": "Intra-corporate transfer",
+        "marks": 1
+      },
+      {
+        "point": "One advantage and one disadvantage",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "ME-1-05",
+    "node": "ME-1",
+    "unit": "International Marketing Unit 3",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Distinguish between indirect and direct involvement in international business. Classify with reasons: (a) a firm sells to a home-based export merchant; (b) a firm's own export team negotiates with an overseas supermarket chain.",
+    "model_answer": "**Indirect involvement:** the firm participates in international business through an intermediary and does not deal with foreign customers or markets.\n\n**Direct involvement:** the firm works with foreign customers or markets, with the opportunity to develop a relationship.\n\n| Basis | Indirect | Direct |\n|---|---|---|\n| Foreign customer contact | None | Yes |\n| Relationship building | None | Yes |\n| Financial exposure | Lowest | Moderate (staff, documents) |\n\n(a) **Indirect exporting**: the merchant is a home-based exporter and the firm never meets the foreign buyer.\n(b) **Direct exporting**: the firm itself negotiates with and ships to the foreign buyer.",
+    "marking_scheme": [
+      {
+        "point": "Indirect involvement defined (intermediary, no foreign customer contact)",
+        "marks": 1.5
+      },
+      {
+        "point": "Direct involvement defined (customer contact, relationship)",
+        "marks": 1.5
+      },
+      {
+        "point": "Case (a) classified with reason",
+        "marks": 1
+      },
+      {
+        "point": "Case (b) classified with reason",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "ME-1-06",
+    "node": "ME-1",
+    "unit": "International Marketing Unit 3",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Evaluate exporting as a market entry strategy by listing its advantages and disadvantages. When should a firm move beyond it?",
+    "model_answer": "**Advantages:** relatively low financial exposure; permits gradual market entry; acquires knowledge about the local market; avoids restrictions on foreign investment.\n\n**Disadvantages:** vulnerability to tariffs and non-tariff barriers; logistical complexities; potential conflicts with distributors.\n\n**Interpretation:** low exposure and gradual entry make exporting the first step. When tariffs, logistics cost or distributor conflict erode margins and volumes justify the commitment, the firm should graduate to licensing, franchising or FDI.",
+    "marking_scheme": [
+      {
+        "point": "Four advantages",
+        "marks": 2
+      },
+      {
+        "point": "Three disadvantages",
+        "marks": 1.5
+      },
+      {
+        "point": "Link: why exporting is the first step",
+        "marks": 0.5
+      },
+      {
+        "point": "When to move to licensing or FDI",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "ME-2-03",
+    "node": "ME-2",
+    "unit": "International Marketing Unit 3",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "What is licensing? Explain the property that can be licensed, the terms the agreement must settle, and the advantages and disadvantages.",
+    "model_answer": "**Licensing:** a firm, the licensor, leases the right to use its intellectual property to another firm, the licensee, in return for a fee.\n\n**Property licensed:** patents, trademarks, copyrights, technology, technical know-how, specific business skills. Example: PepsiCo and Coca-Cola bottling plants.\n\n**The agreement must settle:** boundaries (territory, products), compensation, rights, privileges and constraints, and duration.\n\n| Advantages | Disadvantages |\n|---|---|\n| Low financial risk; low-cost market test; avoids tariffs, NTBs, investment limits; licensee knows the local market | Limited profits; dependence on licensee; conflicts; may create a future competitor |",
+    "marking_scheme": [
+      {
+        "point": "Definition with licensor, licensee and fee",
+        "marks": 1
+      },
+      {
+        "point": "Property licensed and example",
+        "marks": 1
+      },
+      {
+        "point": "Four agreement terms",
+        "marks": 1
+      },
+      {
+        "point": "Advantages and disadvantages",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "ME-2-04",
+    "node": "ME-2",
+    "unit": "International Marketing Unit 3",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Define franchising and explain how it differs from licensing. Give two examples.",
+    "model_answer": "**Franchising:** an independent organisation, the franchisee, operates a business under the name of another company, the franchisor, and pays a fee to it.\n\n**Differences from licensing:**\n\n| Basis | Licensing | Franchising |\n|---|---|---|\n| What is given | Patents, trademarks, know-how | Whole business format and brand |\n| Control by owner | Lower | Higher |\n| Payment | Fee and royalty | Fixed amount plus sales-based royalty |\n| Support | Mostly none | Franchisor helps set up facilities |\n\nFranchising is a form of licensing in which the franchisor exercises more control, while allowing some local flexibility. **Examples:** McDonald's, Subway, KFC. A shared risk is creating a future competitor.",
+    "marking_scheme": [
+      {
+        "point": "Definition with franchisor, franchisee, fee",
+        "marks": 1
+      },
+      {
+        "point": "Franchising is a form of licensing with more control",
+        "marks": 1
+      },
+      {
+        "point": "Fixed fee plus sales royalty / support",
+        "marks": 1
+      },
+      {
+        "point": "Comparison on at least two further bases",
+        "marks": 1
+      },
+      {
+        "point": "Two examples",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "ME-2-05",
+    "node": "ME-2",
+    "unit": "International Marketing Unit 3",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "A franchisor charges a one-time fixed fee of ₹25 lakh and a royalty of 4% of sales. The franchisee's sales are ₹6 crore a year for a 4-year contract. (a) Compute the franchisor's total income. (b) State one reason the franchisor might still prefer this to opening its own outlet. Assume constant sales and the fee paid once.",
+    "model_answer": "(a) Annual royalty = 4% x ₹600 lakh = **₹24 lakh**.\nRoyalty over 4 years = 4 x 24 = ₹96 lakh.\nTotal income = 96 + 25 = **₹121 lakh (₹1.21 crore)**.\n\n| Item | ₹ lakh |\n|---|---|\n| Fixed fee (once) | 25 |\n| Royalty per year | 24 |\n| Royalty, 4 years | 96 |\n| Total | 121 |\n\n(b) The franchisor invests almost no capital in the outlet (low financial risk), and the franchisee supplies local market knowledge. The cost is some loss of control and the chance of a future competitor, so the contract must fix quality standards.",
+    "marking_scheme": [
+      {
+        "point": "Annual royalty 24 lakh",
+        "marks": 1
+      },
+      {
+        "point": "Four-year royalty 96 lakh",
+        "marks": 1
+      },
+      {
+        "point": "Total 121 lakh including the fee once",
+        "marks": 1.5
+      },
+      {
+        "point": "Reason with slide advantage (low risk or local knowledge)",
+        "marks": 1
+      },
+      {
+        "point": "Risk or safeguard noted",
+        "marks": 0.5
+      }
+    ]
+  },
+  {
+    "id": "ME-3-03",
+    "node": "ME-3",
+    "unit": "International Marketing Unit 3",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "Explain contract manufacturing with an example, and list its advantages and disadvantages.",
+    "model_answer": "**Contract manufacturing** is outsourcing the entire or part of manufacturing operations to a local firm. Common in pharmaceuticals and personal care products.\n\n**Example:** Apple's iPad and iPhone are manufactured in China by Foxconn; Foxconn is the contract manufacturer and Apple benefits from a lower cost of manufacturing.\n\n| Advantages | Disadvantages |\n|---|---|\n| Low financial risk | Reduced control (quality, delivery schedules) |\n| Minimises resources devoted to manufacturing | Reduced learning potential |\n| Resources freed for other value-chain activities | Potential public relations problems |",
+    "marking_scheme": [
+      {
+        "point": "Definition",
+        "marks": 1
+      },
+      {
+        "point": "Apple and Foxconn example",
+        "marks": 1
+      },
+      {
+        "point": "Advantages",
+        "marks": 1.5
+      },
+      {
+        "point": "Disadvantages",
+        "marks": 1.5
+      }
+    ]
+  },
+  {
+    "id": "ME-3-04",
+    "node": "ME-3",
+    "unit": "International Marketing Unit 3",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Differentiate between a management contract and a turnkey project, with an example and one advantage and one disadvantage of each.",
+    "model_answer": "**Management contract:** one company provides managerial assistance, technical expertise and specialised services to a second company for a certain period, for monetary compensation. Example: specialist caterers running cafeterias in schools, hospitals and malls. Advantage: minimal financial exposure. Disadvantage: may unintentionally transfer proprietary knowledge to the contractee.\n\n**Turnkey project:** a contract under which a firm designs, constructs and equips a facility and turns it over to the purchaser when ready for operation, for a remuneration. Example: a plant built and handed over. Advantage: avoids long-term operating risk. Disadvantage: cost overruns and delays.\n\n| Basis | Management contract | Turnkey |\n|---|---|---|\n| Earns by | Running the business for a period | Building and leaving |\n| Main risk | Know-how leakage | Overruns, delays |",
+    "marking_scheme": [
+      {
+        "point": "Management contract definition and example",
+        "marks": 1.5
+      },
+      {
+        "point": "Turnkey definition and example",
+        "marks": 1.5
+      },
+      {
+        "point": "Advantage and disadvantage of each",
+        "marks": 1.5
+      },
+      {
+        "point": "Contrast line",
+        "marks": 0.5
+      }
+    ]
+  },
+  {
+    "id": "ME-4-03",
+    "node": "ME-4",
+    "unit": "International Marketing Unit 3",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "easy",
+    "question": "Explain the greenfield strategy with its advantages and disadvantages.",
+    "model_answer": "**FDI** means entering a market by investing own money and establishing manufacturing and marketing facilities with ownership and control. **Greenfield** means starting operations from scratch in the foreign market.\n\n| Advantages | Disadvantages |\n|---|---|\n| Best site | Huge time and patience needed |\n| Modern facilities | Expensive |\n| Economic development incentives | Must comply with local and national regulation |\n| Clean slate | Local workforce needed; seen as a foreign outsider |\n\nGreenfield gives the highest control but the highest capital and slowest start.",
+    "marking_scheme": [
+      {
+        "point": "FDI and greenfield defined",
+        "marks": 1
+      },
+      {
+        "point": "Advantages (four)",
+        "marks": 2
+      },
+      {
+        "point": "Disadvantages (four)",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "ME-4-04",
+    "node": "ME-4",
+    "unit": "International Marketing Unit 3",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "Distinguish a merger from an acquisition, give the faculty example, and state the benefits and the main risk to an acquirer.",
+    "model_answer": "**Merger:** combining two or more companies, generally by offering the stockholders of one company securities in the acquiring company in exchange for their stock.\n\n**Acquisition:** one company takes over another and clearly establishes itself as the new owner.\n\n**Example:** HDFC Bank's acquisition of Centurion Bank of Punjab (a domestic Indian example).\n\n**Benefits:** control over the acquired firm's factories and brand names; integrating its management into the overall international strategy.\n\n**Main risk:** the acquirer assumes all liabilities, financial and managerial, so due diligence is needed.",
+    "marking_scheme": [
+      {
+        "point": "Merger defined",
+        "marks": 1
+      },
+      {
+        "point": "Acquisition defined",
+        "marks": 1
+      },
+      {
+        "point": "Example",
+        "marks": 1
+      },
+      {
+        "point": "Benefits",
+        "marks": 1
+      },
+      {
+        "point": "Liabilities risk",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "ME-4-05",
+    "node": "ME-4",
+    "unit": "International Marketing Unit 3",
+    "type": "short",
+    "marks": 5,
+    "difficulty": "medium",
+    "question": "What is a joint venture? Explain its advantages and disadvantages with an example, and state any two roles of strategic alliances.",
+    "model_answer": "**Joint venture:** an entity formed between two or more parties to undertake economic activity together; they create a new entity by contributing equity and share revenues, expenses and control.\n\n**Example:** Sony Ericsson, a JV of Sony and Ericsson to make mobile phones.\n\n| Advantages | Disadvantages |\n|---|---|\n| Shared costs and risks | Risk of giving control of technology to partner |\n| Reduced political risk | May not realise experience curve or location economies; shared ownership can cause conflict |\n\n**Roles of alliances (any two):** developing new products across industries; meeting technological change; managing heavy outlay; competing with a multinational.",
+    "marking_scheme": [
+      {
+        "point": "JV definition with shared equity and control",
+        "marks": 1
+      },
+      {
+        "point": "Example",
+        "marks": 1
+      },
+      {
+        "point": "Advantages",
+        "marks": 1
+      },
+      {
+        "point": "Disadvantages",
+        "marks": 1
+      },
+      {
+        "point": "Two alliance roles",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "ME-1-07",
+    "node": "ME-1",
+    "unit": "International Marketing Unit 3",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "medium",
+    "question": "Evaluate exporting as a market entry strategy. Discuss its three forms, advantages and disadvantages, and when a firm should graduate to other modes.",
+    "model_answer": "**Introduction.** Exporting is the lowest-commitment entry mode on the ladder from exporting to FDI, where commitment, control and risk rise together.\n\n**Forms**\n\n| Form | Description | Customer contact |\n|---|---|---|\n| Indirect | Through home-based exporters: export commission agents, export merchants, international firms | None |\n| Direct | Firm deals with the foreign buyer itself | Yes, relationship |\n| Intra-corporate | Sale to own subsidiary, affiliate, branch | Via own unit |\n\n**Advantages:** relatively low financial exposure; gradual market entry; knowledge of the local market; avoids foreign investment restrictions.\n\n**Disadvantages:** vulnerability to tariffs and NTBs; logistical complexities; potential conflicts with distributors.\n\n**Evaluation.** Indirect suits small volumes and untested markets; direct builds relationships where volume justifies an export team. Once tariffs, logistics cost or distributor conflict erode margins and demand is proven, the firm should graduate to licensing or franchising (low capital), then special modes or FDI (control).\n\n**Conclusion.** Exporting is the right first step, not usually the final one.",
+    "marking_scheme": [
+      {
+        "point": "Introduction with commitment-control-risk ladder",
+        "marks": 1
+      },
+      {
+        "point": "Three forms explained",
+        "marks": 3
+      },
+      {
+        "point": "Advantages",
+        "marks": 1.5
+      },
+      {
+        "point": "Disadvantages",
+        "marks": 1.5
+      },
+      {
+        "point": "Evaluation of when to graduate",
+        "marks": 2
+      },
+      {
+        "point": "Conclusion",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "ME-2-06",
+    "node": "ME-2",
+    "unit": "International Marketing Unit 3",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "hard",
+    "question": "Compare licensing, franchising and joint venture as entry modes on control, capital, risk, income and examples. Which suits a small restaurant chain with limited capital?",
+    "model_answer": "**Definitions.** Licensing: licensor leases intellectual property to licensee for a fee. Franchising: franchisee operates under the franchisor's name and pays a fee; a form of licensing with more control. Joint venture: a new entity with shared equity, revenue, expenses and control.\n\n| Basis | Licensing | Franchising | Joint venture |\n|---|---|---|---|\n| Control | Lowest | More than licensing | Shared |\n| Capital by owner | Very low | Very low | Shared equity, higher |\n| Risk | Low; dependence, future competitor | Low; dependence, conflict | Shared; technology leakage, conflict |\n| Income | Fee and royalty | Fixed fee plus sales royalty | Share of profits |\n| Political risk | Low | Low | Reduced by partner |\n| Examples | PepsiCo and Coke bottlers | McDonald's, Subway, KFC | Sony Ericsson |\n\n**Choice.** A small restaurant chain with limited capital should choose **franchising**: it needs almost no capital, keeps more control than licensing (menu and quality standards), and the franchisee brings local knowledge. A JV needs equity the chain lacks. Safeguards: contract on standards, territory and duration.",
+    "marking_scheme": [
+      {
+        "point": "Three definitions",
+        "marks": 2
+      },
+      {
+        "point": "Comparison table on at least five bases",
+        "marks": 4
+      },
+      {
+        "point": "Choice for restaurant chain with reasons",
+        "marks": 2.5
+      },
+      {
+        "point": "Risks and safeguards",
+        "marks": 1.5
+      }
+    ]
+  },
+  {
+    "id": "ME-3-05",
+    "node": "ME-3",
+    "unit": "International Marketing Unit 3",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "medium",
+    "question": "Explain the special entry modes: contract manufacturing, management contracts and turnkey projects. Give examples and compare them on advantages, disadvantages and the main leak in each.",
+    "model_answer": "**Introduction.** These modes earn a fee or save cost without owning a long-term foreign operation, so capital at risk is low.\n\n**Definitions and examples**\n- Contract manufacturing: outsourcing entire or part of production (Apple and Foxconn; pharmaceuticals, personal care).\n- Management contract: managerial assistance, technical expertise and specialised services supplied for a period for compensation (hospital, mall or school catering).\n- Turnkey project: design, construct, equip and hand over for a remuneration.\n\n| Basis | Contract manufacturing | Management contract | Turnkey |\n|---|---|---|---|\n| Advantages | Low financial risk; resources freed for other value-chain elements | Minimal financial exposure; uses own expertise | Focus on expertise; avoids long-term operating risk |\n| Disadvantages | Reduced control and learning; PR problems | Returns limited by contract | Financial risk, cost overruns, construction risk, delays, supplier problems |\n| Main leak | Quality and control | Proprietary know-how | Overruns |\n\n**Conclusion.** All three suit capital-light entry; the choice depends on whether the firm's strength is brand (contract manufacturing), management skill, or engineering and construction. Each contract must guard against its named leak.",
+    "marking_scheme": [
+      {
+        "point": "Introduction",
+        "marks": 1
+      },
+      {
+        "point": "Three definitions with examples",
+        "marks": 3
+      },
+      {
+        "point": "Advantages and disadvantages table",
+        "marks": 3
+      },
+      {
+        "point": "Leak in each mode",
+        "marks": 2
+      },
+      {
+        "point": "Conclusion or choice line",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "ME-4-06",
+    "node": "ME-4",
+    "unit": "International Marketing Unit 3",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "medium",
+    "question": "Explain the modes of foreign direct investment: greenfield, mergers and acquisitions, and joint ventures. Discuss the advantages and disadvantages of each and the role of strategic alliances.",
+    "model_answer": "**FDI** means investing the firm's own money and establishing manufacturing and marketing facilities with ownership and control. It is split into FDI without alliances (greenfield) and FDI with alliances (M&A, joint ventures).\n\n**Greenfield:** start from scratch. Advantages: best site, modern facilities, development incentives, clean slate. Disadvantages: time, expense, regulation, local workforce, foreign-outsider image.\n\n**Mergers and acquisitions:** merger combines companies by share exchange; acquisition is a takeover with clear new ownership (HDFC Bank and Centurion Bank of Punjab). Advantages: control of factories and brands; integrating management. Disadvantage: assumes all liabilities.\n\n**Joint venture:** new entity with shared equity, revenues, expenses and control (Sony Ericsson). Advantages: shared cost and risk, reduced political risk. Disadvantages: technology control risk, no experience-curve or location economies, conflict.\n\n**Role of alliances:** develop new products across industries, meet technological change, manage heavy outlay, compete with multinationals.\n\n| Basis | Greenfield | Acquisition | JV |\n|---|---|---|---|\n| Speed | Slowest | Fast | Medium |\n| Control | Highest | High | Shared |\n| Capital | Highest | High | Shared |\n\n**Selection:** greenfield for control, acquisition for speed, JV for shared risk.",
+    "marking_scheme": [
+      {
+        "point": "FDI definition and split",
+        "marks": 1
+      },
+      {
+        "point": "Greenfield with pros and cons",
+        "marks": 2
+      },
+      {
+        "point": "M&A with example, pros and cons",
+        "marks": 2.5
+      },
+      {
+        "point": "JV with example, pros and cons",
+        "marks": 2.5
+      },
+      {
+        "point": "Alliance roles",
+        "marks": 1
+      },
+      {
+        "point": "Selection line",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "ME-5-02",
+    "node": "ME-5",
+    "unit": "International Marketing Unit 3",
+    "type": "long",
+    "marks": 10,
+    "difficulty": "medium",
+    "question": "Discuss the modes of entering international markets, showing how commitment, control and risk change along the ladder. Give a closing recommendation framework.",
+    "model_answer": "**Introduction.** Entry modes lie on a ladder: exporting, licensing and franchising, special modes, FDI. Commitment, control and risk rise together.\n\n| Rung | Modes | Capital | Control | Risk |\n|---|---|---|---|---|\n| Exporting | Indirect, direct, intra-corporate | Low | Low | Low |\n| Contractual | Licensing, franchising | Low | Low to medium | Low |\n| Special | Contract manufacturing, management contract, turnkey | Low to medium | Medium | Medium |\n| FDI | Greenfield, M&A, JV | High | High (shared in JV) | High |\n\n**Exporting:** through home-based exporters, directly, or to own subsidiaries. **Licensing/franchising:** owner earns fees and royalties; franchising keeps more control (McDonald's). **Special modes:** Apple and Foxconn; hospital catering; plants handed over. **FDI:** greenfield from scratch, acquisition (HDFC Bank), JV (Sony Ericsson).\n\n**Framework.** Choose by weighting control, capital, speed, risk and local knowledge, score each feasible mode and pick the highest, stating weights as assumptions. Firms typically progress from exporting to FDI as market knowledge and volume grow.",
+    "marking_scheme": [
+      {
+        "point": "Ladder introduction",
+        "marks": 1
+      },
+      {
+        "point": "Exporting forms",
+        "marks": 2
+      },
+      {
+        "point": "Licensing and franchising",
+        "marks": 2
+      },
+      {
+        "point": "Special modes",
+        "marks": 2
+      },
+      {
+        "point": "FDI modes",
+        "marks": 2
+      },
+      {
+        "point": "Selection framework or conclusion",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "ME-5-03",
+    "node": "ME-5",
+    "unit": "International Marketing Unit 3",
+    "type": "case",
+    "marks": 15,
+    "difficulty": "hard",
+    "question": "**Tantra Fitness enters Malaysia.** Tantra Fitness (illustrative boutique fitness chain with 40 studios in India) wants to open in Malaysia within 18 months. Capital available for the move is limited, and the founders want to protect the class format and brand standards. Malaysia has a strong local fitness culture the team does not know well. Management shortlists licensing, franchising, a joint venture with a Malaysian group, and a greenfield studio network. Exporting is ruled out because a fitness class is a service delivered on the premises.\n\nUse these illustrative criteria weights (total 100): control 30, capital saved 25, speed 20, low risk 15, local knowledge 10. Scores (1 poor to 5 best), in the order control, capital, speed, risk, local knowledge: licensing 2,5,4,4,4; franchising 3,5,4,4,4; joint venture 4,3,3,3,5; greenfield 5,1,1,2,2.\n\n(a) Explain why exporting is infeasible and state the key difference between licensing and franchising. (3 marks)\n(b) Compute the weighted score of each mode out of 5 and rank them. (4 marks)\n(c) Recommend an entry mode and a staged route. (3 marks)\n(d) Identify the risks of the chosen mode and the contract safeguards. (2 marks)\n(e) Management now raises the control weight to 50 (capital 15, speed 15, risk 10, local knowledge 10). Recompute for franchising, joint venture and greenfield, and interpret the change. (3 marks)",
+    "model_answer": "**(a)** Exporting means shipping goods or services from home; a class consumed inside a studio cannot be shipped, so it is infeasible. Franchising is a form of licensing in which the owner exercises **more control** and transfers a whole business system for a fixed fee plus sales-based royalty; licensing only leases specific intellectual property.\n\n**(b)** Weighted total = sum of score x weight; score out of 5 = total / 100.\n\n| Mode | Control | Capital | Speed | Risk | Local | Total | Score |\n|---|---|---|---|---|---|---|---|\n| Licensing | 2 | 5 | 4 | 4 | 4 | 365 | 3.65 |\n| Franchising | 3 | 5 | 4 | 4 | 4 | 395 | 3.95 |\n| Joint venture | 4 | 3 | 3 | 3 | 5 | 350 | 3.50 |\n| Greenfield | 5 | 1 | 1 | 2 | 2 | 245 | 2.45 |\n\nWorking for franchising: 3x30 + 5x25 + 4x20 + 4x15 + 4x10 = 90 + 125 + 80 + 60 + 40 = **395**, so 3.95. Rank: franchising 3.95, licensing 3.65, joint venture 3.50, greenfield 2.45.\n\n**(c)** Recommend **franchising**: highest score, almost no capital, more control than licensing, and the franchisee supplies local knowledge. Staged route: franchise in the first city, then buy back or add own studios or a JV once the market is proven.\n\n**(d)** Risks: dependence on and conflict with the franchisee, limited profit, and creating a future competitor. Safeguards: contract fixing class format, instructor training, supplier approvals, territory and duration, with termination rights.\n\n**(e)** New weights 50, 15, 15, 10, 10: franchising 3x50 + 5x15 + 4x15 + 4x10 + 4x10 = 150 + 75 + 60 + 40 + 40 = **365** (3.65); joint venture 4x50 + 3x15 + 3x15 + 3x10 + 5x10 = 200 + 45 + 45 + 30 + 50 = **370** (3.70); greenfield 5x50 + 1x15 + 1x15 + 2x10 + 2x10 = 250 + 15 + 15 + 20 + 20 = **320** (3.20). The ranking flips: the JV now edges ahead. The result is therefore sensitive to the weights, which are judgements; state them as assumptions. **Decision line:** franchise on the original weights, but if brand control is the dominant concern, a JV is the better route.",
+    "marking_scheme": [
+      {
+        "point": "(a) Exporting infeasible with reason",
+        "marks": 1
+      },
+      {
+        "point": "(a) Licensing vs franchising difference",
+        "marks": 2
+      },
+      {
+        "point": "(b) Correct weighted totals for all four modes",
+        "marks": 3
+      },
+      {
+        "point": "(b) Ranking",
+        "marks": 1
+      },
+      {
+        "point": "(c) Recommendation with reasoning",
+        "marks": 2
+      },
+      {
+        "point": "(c) Staged route",
+        "marks": 1
+      },
+      {
+        "point": "(d) Risks and safeguards",
+        "marks": 2
+      },
+      {
+        "point": "(e) Recomputed scores (franchising 365, JV 370, greenfield 320)",
+        "marks": 2
+      },
+      {
+        "point": "(e) Interpretation: ranking flips, weights are judgement",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "ME-4-07",
+    "node": "ME-4",
+    "unit": "International Marketing Unit 3",
+    "type": "case",
+    "marks": 15,
+    "difficulty": "hard",
+    "question": "**Nilgiri Cables in Indonesia.** Nilgiri Cables (illustrative Indian power-cable manufacturer) wants to serve utilities in Indonesia and has three FDI routes, all figures illustrative.\n\n- **Greenfield:** new plant costing ₹180 crore, 30 months to start production, 100% owned.\n- **Acquisition:** buy 100% of a local cable maker for ₹140 crore; due diligence finds liabilities of ₹25 crore the buyer would assume; integration cost ₹10 crore; production starts in 9 months with existing utility customers.\n- **Joint venture:** a new company with a local partner, total project cost ₹150 crore, Nilgiri holds 60% and funds its share; production in 18 months; the partner would need access to Nilgiri's cable-insulation technology.\n\nOnce operating, the plant is expected to give revenue of ₹120 crore a year at a 15% contribution margin. Nilgiri's board is concerned about political risk and technology leakage.\n\n(a) Compute the total cash commitment of each route, and the contribution foregone by greenfield relative to acquisition because of its longer start-up. (3 marks)\n(b) Compare the three routes on speed, control, capital, political risk and main problem. (3 marks)\n(c) Recommend a route, with reasons. (4 marks)\n(d) State the risks of your choice and the safeguards. (3 marks)\n(e) Explain what would change your recommendation. (2 marks)",
+    "model_answer": "**(a)** Greenfield: **₹180 crore**. Acquisition: 140 + 25 + 10 = **₹175 crore** (price plus assumed liabilities plus integration). JV: 60% x 150 = **₹90 crore**.\nContribution per month = 120 x 15% / 12 = ₹1.5 crore. Greenfield starts 30 - 9 = 21 months later than acquisition, so it forgoes 21 x 1.5 = **₹31.5 crore** of contribution; effective greenfield cost relative to acquisition = 180 + 31.5 = ₹211.5 crore against 175.\n\n**(b)**\n\n| Basis | Greenfield | Acquisition | JV |\n|---|---|---|---|\n| Speed | Slowest (30 months) | Fastest (9 months) | Medium (18 months) |\n| Control | Highest | High | Shared (60:40) |\n| Capital | 180 | 175 | 90 |\n| Political risk | Highest | High | Reduced by local partner |\n| Main problem | Time, cost, outsider status | Inherited liabilities, integration | Technology leakage, conflict |\n\n**(c)** Two defensible answers, marked on reasoning. Recommended: **acquisition** if the board prioritises speed and utility customers: it is cheaper than greenfield even after liabilities (175 vs 180), starts 21 months earlier (31.5 crore contribution), and gives control and existing brand and customers. Alternatively, **JV** if the board's priority is political risk and capital (₹90 crore, shared risk), accepting the technology leakage. Greenfield ranks last: dearest, slowest, and a foreign outsider.\n\n**(d)** Acquisition: assumes all liabilities (25 crore found, others may be hidden) and integration problems. Safeguards: full due diligence, price adjustment or indemnity and escrow for liabilities, retain key staff, integration plan. (For a JV: ring-fence the insulation technology by licence terms, limit partner access, define deadlock and exit clauses.)\n\n**(e)** The recommendation changes if due diligence finds liabilities well above ₹25 crore or the target's customers are not transferable (then JV or greenfield), if political risk intensifies (JV), or if the board's weight on control exceeds speed. **Decision line:** acquire for speed and control if diligence is clean; otherwise JV with protected technology. State assumptions.",
+    "marking_scheme": [
+      {
+        "point": "(a) Total commitments 180, 175, 90",
+        "marks": 2
+      },
+      {
+        "point": "(a) Delay cost 31.5 crore",
+        "marks": 1
+      },
+      {
+        "point": "(b) Comparison table covering five bases",
+        "marks": 3
+      },
+      {
+        "point": "(c) Clear recommendation tied to the board's priorities",
+        "marks": 2
+      },
+      {
+        "point": "(c) Reasons using numbers and slide advantages",
+        "marks": 2
+      },
+      {
+        "point": "(d) Risks of chosen route (liabilities or leakage)",
+        "marks": 1.5
+      },
+      {
+        "point": "(d) Safeguards",
+        "marks": 1.5
+      },
+      {
+        "point": "(e) Conditions that change the decision",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "ME-2-07",
+    "node": "ME-2",
+    "unit": "International Marketing Unit 3",
+    "type": "case",
+    "marks": 15,
+    "difficulty": "hard",
+    "question": "**Chai Chaupal in Dubai.** Chai Chaupal (illustrative Indian tea-cafe chain, 90 cafes) is considering Dubai. Two options (all figures illustrative, ₹ lakh):\n\n- **Franchise:** a Dubai franchisee pays a one-time fixed fee of ₹30 lakh and royalty of 5% of sales. Franchisee sales are expected at ₹400 lakh, ₹500 lakh and ₹600 lakh in years 1 to 3. Chai Chaupal bears support and monitoring costs of ₹10 lakh a year.\n- **Own cafe:** capital outlay ₹300 lakh; the same sales path; operating profit of 10% of sales.\n\nThe founders also want to protect the tea recipe and ensure consistent quality. Assume no other costs or taxes and ignore the time value of money.\n\n(a) Compute the franchisor's net income over 3 years. (4 marks)\n(b) Compute the own-cafe cumulative operating profit over 3 years and compare with the capital outlay. (3 marks)\n(c) Why would the firm prefer franchising to licensing the recipe alone? (3 marks)\n(d) Identify the risks of franchising and the contract safeguards. (3 marks)\n(e) Give your recommendation and state when you would switch to own cafes. (2 marks)",
+    "model_answer": "**(a)** Royalty: year 1 = 5% x 400 = 20; year 2 = 5% x 500 = 25; year 3 = 5% x 600 = 30; total royalty = 75. Add fixed fee 30: gross income = **₹105 lakh**. Support costs 3 x 10 = 30. Net income = 105 - 30 = **₹75 lakh**, with no capital invested.\n\n| Item | ₹ lakh |\n|---|---|\n| Fixed fee | 30 |\n| Royalty, 3 years | 75 |\n| Gross | 105 |\n| Support cost | (30) |\n| Net | 75 |\n\n**(b)** Own cafe operating profit: 40 + 50 + 60 = **₹150 lakh** over 3 years, against capital of ₹300 lakh; capital is not recovered in 3 years (half recovered) and the firm bears all operating risk. Net position after 3 years = 150 - 300 = -150 lakh, against +75 for franchising.\n\n**(c)** Franchising is licensing with more control: the franchisee uses the whole business format and brand, follows prescribed standards, and the franchisor helps establish the facilities. Licensing the recipe alone gives less control over the cafe experience and quality. The franchisee also provides local market knowledge, and the franchisor earns a sales-linked royalty.\n\n**(d)** Risks: dependence on the franchisee, conflicts, limited profits, creating a future competitor, and recipe leakage. Safeguards: contract fixing quality standards, supplier-approved tea blend, territory, duration, audit rights, training, termination and non-compete clauses.\n\n**(e)** Recommend **franchising**: net +₹75 lakh with no capital against an own cafe that has not recovered its outlay in 3 years. Switch to own cafes (or buy back) if the market proves strong, volumes grow, or quality control fails, since own cafes give full control and keep all profit. The comparison covers only 3 years and ignores time value, so say so.",
+    "marking_scheme": [
+      {
+        "point": "(a) Royalty by year and total 75",
+        "marks": 1.5
+      },
+      {
+        "point": "(a) Gross 105 and net 75",
+        "marks": 2.5
+      },
+      {
+        "point": "(b) Own-cafe profit 150 and comparison with 300",
+        "marks": 3
+      },
+      {
+        "point": "(c) Franchising vs licensing control reasoning",
+        "marks": 2
+      },
+      {
+        "point": "(c) Local knowledge or system point",
+        "marks": 1
+      },
+      {
+        "point": "(d) Risks",
+        "marks": 1.5
+      },
+      {
+        "point": "(d) Safeguards",
+        "marks": 1.5
+      },
+      {
+        "point": "(e) Recommendation with trigger to switch",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "ME-3-06",
+    "node": "ME-3",
+    "unit": "International Marketing Unit 3",
+    "type": "case",
+    "marks": 15,
+    "difficulty": "hard",
+    "question": "**Ganga Healthcare goes global.** Ganga Healthcare (illustrative Indian hospital group with a generics subsidiary) has three overseas offers, all figures illustrative:\n\n1. A Ghanaian distributor wants Ganga's generics subsidiary to make a branded tablet to Ghana's specifications at a local plant under contract.\n2. An Omani investor wants Ganga to run its newly built hospital for 5 years for a fee of 4% of annual hospital revenue (expected ₹150 crore a year).\n3. A Nigerian state government asks Ganga to design, build and equip a 300-bed hospital for a fixed price of ₹240 crore and hand it over; Ganga's own cost estimate is ₹210 crore.\n\nGanga has limited capital and wants to build its reputation without owning foreign assets.\n\n(a) Name the entry mode in each offer, with one reason. (3 marks)\n(b) Compute the management-contract fee over 5 years, and Ganga's result on the turnkey project if costs overrun the estimate by 15%. (4 marks)\n(c) Evaluate each offer on advantages and the main risk. (4 marks)\n(d) Recommend which offer(s) to accept and the contract safeguards. (4 marks)",
+    "model_answer": "**(a)** (1) **Contract manufacturing**: outsourcing production to a local plant under the buyer's specifications. (2) **Management contract**: Ganga supplies managerial and technical expertise for a fixed period for a fee. (3) **Turnkey project**: design, construct, equip and hand over for a remuneration.\n\n**(b)** Management fee: 4% x 150 = ₹6 crore a year; 5 years = **₹30 crore**. Turnkey: cost with overrun = 210 x 1.15 = ₹241.5 crore; result = 240 - 241.5 = **-₹1.5 crore (a loss)**, instead of the planned +₹30 crore margin. The planned ₹30 crore margin is wiped out by a 15% overrun on a fixed price.\n\n**(c)**\n\n| Offer | Advantages | Main risk |\n|---|---|---|\n| Contract manufacturing | Low financial risk; resources freed for brand and other elements | Reduced control of quality and delivery; reduced learning; PR problems |\n| Management contract | Minimal financial exposure; uses Ganga's expertise | Returns limited by contract; know-how transfer to the owner |\n| Turnkey | Focus on expertise; avoids long-term operating risk | Financial risk, cost overruns, construction risk, delays, supplier problems |\n\n**(d)** Accept the **management contract** (₹30 crore for minimal exposure, builds the hospital-operator brand) as the priority. Accept contract manufacturing only with quality audit rights and a brand-protection clause. Decline or renegotiate the turnkey offer: a 15% overrun already causes a loss, so seek a price escalation clause, staged payments, a contingency allowance and supplier guarantees. Protect know-how in the management contract by confidentiality, limiting term and training clauses. **Decision line:** prioritise fee-based, low-capital modes where the leak (know-how) can be contracted; take the turnkey only at a repriced contract.",
+    "marking_scheme": [
+      {
+        "point": "(a) Three modes correctly named with reasons",
+        "marks": 3
+      },
+      {
+        "point": "(b) Management fee 6 crore a year, 30 crore total",
+        "marks": 2
+      },
+      {
+        "point": "(b) Turnkey cost 241.5 and loss 1.5",
+        "marks": 2
+      },
+      {
+        "point": "(c) Advantages and risks per offer",
+        "marks": 4
+      },
+      {
+        "point": "(d) Recommendation with reasoning",
+        "marks": 2
+      },
+      {
+        "point": "(d) Safeguards",
+        "marks": 2
+      }
+    ]
+  }
+]
