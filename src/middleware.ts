@@ -6,10 +6,16 @@ import { isValidSyncKey, SYNC_COOKIE, SYNC_COOKIE_MAX_AGE as MAX_AGE, SYNC_PARAM
 // shared link keeps working local-only for everyone else.
 export function middleware(req: NextRequest) {
   const param = req.nextUrl.searchParams.get(SYNC_PARAM);
+  // Inside another site's iframe (Homebase's AHH tab) a lax cookie is neither
+  // sent nor stored, so the frame gets a cross-site cookie partitioned to the
+  // embedding site: it links that frame only and is invisible elsewhere.
+  // Opened directly, the cookie stays lax as before.
+  const framed = req.headers.get("sec-fetch-dest") === "iframe" && req.nextUrl.protocol === "https:";
   const cookieOpts = {
     httpOnly: true,
     secure: req.nextUrl.protocol === "https:",
-    sameSite: "lax" as const,
+    sameSite: framed ? ("none" as const) : ("lax" as const),
+    partitioned: framed || undefined,
     path: "/",
     maxAge: MAX_AGE,
   };
