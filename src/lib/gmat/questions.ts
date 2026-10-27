@@ -17,6 +17,7 @@ interface Row {
   difficulty: string | null;
   statement_1: string | null;
   statement_2: string | null;
+  node: string | null;
 }
 
 // The five standard DS choices. Some stored DS rows carry only four (no E),
@@ -72,7 +73,7 @@ const loadRows = cache(async (): Promise<Row[]> => {
   try {
     return (await db().query(
       `select q.id, q.section, q.topic, q.question, q.type, q.options, q.correct_answer,
-              q.explanation, q.difficulty, q.statement_1, q.statement_2
+              q.explanation, q.difficulty, q.statement_1, q.statement_2, q.node
          from questions q
          join topics t on t.id = q.topic_id
         where t.exam_type = 'gmat' and q.archived = false
@@ -84,15 +85,30 @@ const loadRows = cache(async (): Promise<Row[]> => {
   }
 });
 
-// Questions for one gmat-* subject. A shared-pool question appears once per
-// node of its topic, with the same id.
+// Stable string hash, so an unpinned question lands on the same node every load.
+function hash(s: string): number {
+  let h = 0;
+  for (let i = 0; i < s.length; i++) h = (h * 31 + s.charCodeAt(i)) | 0;
+  return Math.abs(h);
+}
+
+// Questions for one gmat-* subject. A question pinned to a node (questions.node)
+// appears under that node only. An unpinned one goes to exactly one node of its
+// topic, picked by hashing the start of its stem: RC and table sets share a
+// passage, so their questions stay together. Serving it under every node of the
+// topic repeated Critical Reasoning 4x and Algebra 3x.
 export async function getGmatQuestions(subject: string): Promise<Question[]> {
   const out: Question[] = [];
   for (const r of await loadRows()) {
-    for (const node of nodesOfTopic(r.topic, subject)) {
-      const q = toQuestion(r, node);
-      if (q) out.push(q);
+    let node: string | undefined;
+    if (r.node) {
+      if (GMAT_NODES[r.node]?.subject === subject) node = r.node;
+    } else {
+      const nodes = nodesOfTopic(r.topic, subject);
+      if (nodes.length) node = nodes[hash(r.question.slice(0, 120).toLowerCase()) % nodes.length];
     }
+    const q = node && toQuestion(r, node);
+    if (q) out.push(q);
   }
   const order = Object.keys(GMAT_NODES);
   return out.sort((a, b) => order.indexOf(a.node) - order.indexOf(b.node) || a.id.localeCompare(b.id));
