@@ -97,6 +97,7 @@ export interface AnswerState {
   ticks?: number[];
   override?: number | null;
   skipped?: boolean;
+  bookmarked?: boolean; // GMAT runner: flagged for review
 }
 
 export interface SessionState {
@@ -106,4 +107,8 @@ export interface SessionState {
   endedAt: number | null;
   answers: Record<string, AnswerState>;
   phase: "answer" | "mark";
+  // GMAT runner only: where the student is, so a refresh resumes there.
+  gmatIndex?: number;
+  gmatStage?: "answer" | "review";
+  gmatEdits?: number;
 }

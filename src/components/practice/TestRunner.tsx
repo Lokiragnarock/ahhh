@@ -24,10 +24,11 @@ import { trackOfSubject } from "@/lib/tracks";
 import { recordGmatAttempt } from "@/lib/gmat/client";
 import { MarkRoundPrompt } from "./Rounds";
 import type { Step } from "@/lib/flow";
+import { GmatRunner } from "./GmatRunner";
 
-type Sessions = Record<string, SessionState>;
+export type Sessions = Record<string, SessionState>;
 
-interface Props {
+export interface Props {
   pool: RenderedQuestion[];
   kind: TestKind;
   scope: string;
@@ -36,7 +37,7 @@ interface Props {
   limit?: number; // mini tests only: ask this many questions instead of the whole pool
 }
 
-function build(pool: RenderedQuestion[], kind: TestKind, scope: string, limit?: number): Paper {
+export function build(pool: RenderedQuestion[], kind: TestKind, scope: string, limit?: number): Paper {
   if (kind === "mini") return buildMini(pool, scope, limit);
   if (kind === "sectional") return buildSectional(pool, scope);
   if (kind === "mock") return buildMock(pool);
@@ -106,7 +107,13 @@ export function scorePaper(paper: Paper, answers: Record<string, AnswerState>, q
   return { results, score, max };
 }
 
-export function TestRunner({ pool, kind, scope, resolveEntryId, next, limit }: Props) {
+export function TestRunner(props: Props) {
+  const gmat = trackOfSubject(useSubject()) === "gmat";
+  if (gmat && props.kind !== "resolve") return <GmatRunner {...props} />;
+  return <ScrollRunner {...props} />;
+}
+
+function ScrollRunner({ pool, kind, scope, resolveEntryId, next, limit }: Props) {
   const subject = useSubject();
   const keys = useMemo(() => KEYS(subject), [subject]);
   const key = `${kind}:${scope}`;
@@ -348,7 +355,7 @@ export function TestRunner({ pool, kind, scope, resolveEntryId, next, limit }: P
   );
 }
 
-function QuestionBlock({
+export function QuestionBlock({
   n,
   q,
   a,
@@ -525,7 +532,7 @@ function WrittenReveal({
   );
 }
 
-function Results({
+export function Results({
   paper,
   kind,
   attempt,
