@@ -2,7 +2,13 @@
 
 import { useRouter } from "next/navigation";
 import { useState, useTransition } from "react";
-import type { SubjectInfo } from "@/lib/subject/shared";
+import {
+  SUBJECT_GROUPS,
+  hasSubjectGroup,
+  subjectGroup,
+  type SubjectGroupKey,
+  type SubjectInfo,
+} from "@/lib/subject/shared";
 
 // Real tabs across every subject folder discovered under content/recall.
 // Clicking one sets the subject_key cookie server-side, then refreshes the
@@ -29,11 +35,43 @@ export function SubjectTabs({ subjects, current }: { subjects: SubjectInfo[]; cu
     }
   }
 
+  const grouped = subjects.some((s) => hasSubjectGroup(s.slug));
+  const currentGroup = subjectGroup(current);
+  const [selectedGroup, setSelectedGroup] = useState<SubjectGroupKey | null>(null);
+  const activeGroup = selectedGroup ?? currentGroup;
+
   if (subjects.length === 0) return null;
 
+  const groups = grouped
+    ? SUBJECT_GROUPS.filter((g) => subjects.some((s) => subjectGroup(s.slug) === g.key))
+    : [];
+  const visible = grouped ? subjects.filter((s) => subjectGroup(s.slug) === activeGroup) : subjects;
+
   return (
-    <div className="flex items-center gap-2 mb-8 flex-wrap">
-      {subjects.map((s) => {
+    <div className="mb-8">
+      {grouped && (
+        <div className="flex items-center gap-4 mb-2">
+          {groups.map((g) => {
+            const on = g.key === activeGroup;
+            return (
+              <button
+                key={g.key}
+                type="button"
+                onClick={() => setSelectedGroup(g.key)}
+                className={`pb-0.5 text-[11px] font-semibold uppercase tracking-[0.08em] border-b-2 ${
+                  on
+                    ? "text-[color:var(--sp-ink)] border-[color:var(--sp-accent)]"
+                    : "text-[#888] border-transparent hover:text-[color:var(--sp-ink)]"
+                }`}
+              >
+                {g.label}
+              </button>
+            );
+          })}
+        </div>
+      )}
+      <div className="flex items-center gap-2 flex-wrap">
+      {visible.map((s) => {
         const active = s.slug === current;
         return (
           <button
@@ -51,6 +89,7 @@ export function SubjectTabs({ subjects, current }: { subjects: SubjectInfo[]; cu
           </button>
         );
       })}
+      </div>
     </div>
   );
 }

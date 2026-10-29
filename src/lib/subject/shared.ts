@@ -40,6 +40,41 @@ export function subjectLabel(slug: string): string {
     .join(" ");
 }
 
+// Semester grouping for the subject tabs. Groups are listed in display order.
+// A subject not mapped here falls back to "other"; the tabs only show the
+// grouped view when at least one subject is explicitly mapped, so GMAT
+// subjects (none mapped) render as a flat list.
+export const SUBJECT_GROUPS = [
+  { key: "sem6", label: "Sem 6" },
+  { key: "sem5", label: "Sem 5" },
+  { key: "other", label: "Other" },
+] as const;
+export type SubjectGroupKey = (typeof SUBJECT_GROUPS)[number]["key"];
+
+const SUBJECT_GROUP_MAP: Record<string, SubjectGroupKey> = {
+  "corporate-valuation": "sem6",
+  derivatives: "sem6",
+  "management-accounting": "sem6",
+  "global-business-finance": "sem6",
+  taxation: "sem5",
+  sfm: "sem5",
+  "sustainable-finance": "sem5",
+  "bond-market": "sem5",
+  sapm: "sem5",
+  crm: "sem5",
+  "international-marketing": "sem5",
+  "retail-management": "sem5",
+  psychology: "other",
+};
+
+export function hasSubjectGroup(slug: string): boolean {
+  return slug in SUBJECT_GROUP_MAP;
+}
+
+export function subjectGroup(slug: string): SubjectGroupKey {
+  return SUBJECT_GROUP_MAP[slug] ?? "other";
+}
+
 export interface SubjectInfo {
   slug: string;
   label: string;

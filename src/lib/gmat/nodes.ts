@@ -1,6 +1,8 @@
 // Planner node -> StudyDuel question-bank topic, and node -> subject folder.
 // Several nodes share one topic (Algebra, Critical Reasoning, ...): the whole
-// pool of that topic is offered under each of its nodes. A null topic means
+// pool of that topic is offered under each of its nodes, unless a question is
+// pinned to one node by questions.node (D-1 and D-2 split Data Sufficiency
+// that way: method versus traps). A null topic means
 // the node has no questions in the bank.
 
 interface GmatNode {
