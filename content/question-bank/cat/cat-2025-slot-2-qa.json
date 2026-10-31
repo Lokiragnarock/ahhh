@@ -1,0 +1,787 @@
+{
+  "exam": "CAT",
+  "year": 2025,
+  "slot": 2,
+  "section": "qa",
+  "source": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-Quant/",
+  "licence": "Real CAT questions (c) IIMs, as re-published free by 2IIM (c) 2IIM. Private study use in AHH only; do not republish.",
+  "scraped": "2026-10-31",
+  "count": 22,
+  "sets": [],
+  "questions": [
+    {
+      "id": "cat-2025-s2-qa-01",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 2,
+      "section": "qa",
+      "number": 1,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "If \\( m \\) and \\( n \\) are integers such that \\( ( m + 2 n ) ( 2 m + n ) = 27 \\), then the maximum possible value of \\( 2 m - 3 n \\) is",
+      "options": null,
+      "answer": "17",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 1.5,
+        "incorrect": 52.83,
+        "unattempted": 45.67
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-Quant/quants-question-1.shtml",
+      "official_qid": "3328181731",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2025-s2-qa-02",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 2,
+      "section": "qa",
+      "number": 2,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "If \\( \\log _ { 64 } x ^ { 2 } + \\log _ { 8 } \\sqrt { y } + 3 \\log _ { 512 } ( \\sqrt { y } z ) = 4 \\), where \\( x , y \\) and \\( z \\) are positive real numbers, then the minimum possible value of \\( ( x + y + z ) \\) is",
+      "options": [
+        "A) \\( 96 \\)",
+        "B) \\( 48 \\)",
+        "C) \\( 36 \\)",
+        "D) \\( 24 \\)"
+      ],
+      "answer": "B",
+      "answer_text": "\\( 48 \\)",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 19.0,
+        "incorrect": 9.85,
+        "unattempted": 71.15
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-Quant/quants-question-2.shtml",
+      "official_qid": "3328181027",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2025-s2-qa-03",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 2,
+      "section": "qa",
+      "number": 3,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "The average number of copies of a book sold per day by a shopkeeper is 60 in the initial seven days and 63 in the initial eight days, after the book launch. On the ninth day, she sells 11 copies less than the eighth day, and the average number of copies sold per day from second day to ninth day becomes 66. The number of copies sold on the first day of the book launch is",
+      "options": null,
+      "answer": "49",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 35.47,
+        "incorrect": 34.49,
+        "unattempted": 30.04
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-Quant/quants-question-3.shtml",
+      "official_qid": "3328181729",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2025-s2-qa-04",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 2,
+      "section": "qa",
+      "number": 4,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "Let \\( f ( x ) = \\frac { x } { ( 2 x - 1 ) } \\) and \\( g ( x ) = \\frac { x } { ( x - 1 ) } \\). Then, the domain of the function \\( h ( x ) = f ( g ( x ) ) + g ( f ( x ) ) \\) is all real numbers except",
+      "options": [
+        "A) \\( - 1 , \\frac { 1 } { 2 } \\), and 1",
+        "B) \\( \\frac { 1 } { 2 } , 1 \\), and \\( \\frac { 3 } { 2 } \\)",
+        "C) \\( - \\frac { 1 } { 2 } , \\frac { 1 } { 2 } \\), and 1",
+        "D) \\( \\frac { 1 } { 2 } \\), and 1"
+      ],
+      "answer": "A",
+      "answer_text": "\\( - 1 , \\frac { 1 } { 2 } \\), and 1",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 18.96,
+        "incorrect": 9.67,
+        "unattempted": 71.37
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-Quant/quants-question-4.shtml",
+      "official_qid": "3328181054",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2025-s2-qa-05",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 2,
+      "section": "qa",
+      "number": 5,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "If \\( 9 ^ { x ^ { 2 } + 2 x - 3 } - 4 \\left( 3 ^ { x ^ { 2 } + 2 x - 2 } \\right) + 27 = 0 \\), then the product of all possible values of \\( x \\) is",
+      "options": [
+        "A) \\( 5 \\)",
+        "B) \\( 20 \\)",
+        "C) \\( 30 \\)",
+        "D) \\( 15 \\)"
+      ],
+      "answer": "B",
+      "answer_text": "\\( 20 \\)",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 7.3,
+        "incorrect": 9.75,
+        "unattempted": 82.95
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-Quant/quants-question-5.shtml",
+      "official_qid": "3328181029",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2025-s2-qa-06",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 2,
+      "section": "qa",
+      "number": 6,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "Let ABCDEF be a regular hexagon and P and Q be the midpoints of AB and CD, respectively. Then, the ratio of the areas of trapezium PBCQ and hexagon ABCDEF is",
+      "options": [
+        "A) 5 : 24",
+        "B) 7 : 24",
+        "C) 6 : 25",
+        "D) 6 : 19"
+      ],
+      "answer": "A",
+      "answer_text": "5 : 24",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 12.96,
+        "incorrect": 11.57,
+        "unattempted": 75.47
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-Quant/quants-question-6.shtml",
+      "official_qid": "3328181059",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2025-s2-qa-07",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 2,
+      "section": "qa",
+      "number": 7,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "If \\( a , b , c \\) and \\( d \\) are integers such that their sum is 46 , then the minimum possible value of \\( ( a - b ) ^ { 2 } + ( a - c ) ^ { 2 } + ( a - d ) ^ { 2 } \\) is",
+      "options": null,
+      "answer": "2",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 17.25,
+        "incorrect": 38.0,
+        "unattempted": 44.75
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-Quant/quants-question-7.shtml",
+      "official_qid": "3328181728",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2025-s2-qa-08",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 2,
+      "section": "qa",
+      "number": 8,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "Let \\( a _ { n } \\) be the \\( n ^ { \\text {th } } \\) term of a decreasing infinite geometric progression. If \\( a _ { 1 } + a _ { 2 } + a _ { 3 } = 52 \\) and \\( a _ { 1 } a _ { 2 } + a _ { 2 } a _ { 3 } + a _ { 3 } a _ { 1 } = 624 \\), then the sum of this geometric progression is",
+      "options": [
+        "A) \\( 63 \\)",
+        "B) \\( 60 \\)",
+        "C) \\( 54 \\)",
+        "D) \\( 57 \\)"
+      ],
+      "answer": "C",
+      "answer_text": "\\( 54 \\)",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 10.83,
+        "incorrect": 7.94,
+        "unattempted": 81.23
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-Quant/quants-question-8.shtml",
+      "official_qid": "3328181002",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2025-s2-qa-09",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 2,
+      "section": "qa",
+      "number": 9,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "Suppose \\( a , b , c \\) are three distinct natural numbers, such that \\( 3 a c = 8 ( a + b ) \\). Then, the smallest possible value of \\( 3 a + 2 b + c \\) is",
+      "options": null,
+      "answer": "12",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 16.67,
+        "incorrect": 43.28,
+        "unattempted": 40.05
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-Quant/quants-question-9.shtml",
+      "official_qid": "3328181702",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2025-s2-qa-10",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 2,
+      "section": "qa",
+      "number": 10,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "Two tangents drawn from a point \\( P \\) touch a circle with center \\( O \\) at points \\( Q \\) and \\( R \\). Points \\( A \\) and \\( B \\) lie on \\( P Q \\) and \\( P R \\), respectively, such that \\( A B \\) is also a tangent to the same circle. If \\( \\angle A O B = 50 ^ { \\circ } \\), then \\( \\angle A P B \\), in degrees, equals",
+      "options": null,
+      "answer": "80",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 2.44,
+        "incorrect": 44.17,
+        "unattempted": 53.39
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-Quant/quants-question-10.shtml",
+      "official_qid": "3328181732",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2025-s2-qa-11",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 2,
+      "section": "qa",
+      "number": 11,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "The number of divisors of \\( \\left( 2 ^ { 6 } \\times 3 ^ { 5 } \\times 5 ^ { 3 } \\times 7 ^ { 2 } \\right) \\), which are of the form \\( ( 3 r + 1 ) \\), where \\( r \\) is a non-negative integer, is",
+      "options": [
+        "A) \\( 42 \\)",
+        "B) \\( 36 \\)",
+        "C) \\( 56 \\)",
+        "D) \\( 24 \\)"
+      ],
+      "answer": "A",
+      "answer_text": "\\( 42 \\)",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 3.56,
+        "incorrect": 9.56,
+        "unattempted": 86.88
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-Quant/quants-question-11.shtml",
+      "official_qid": "3328181022",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2025-s2-qa-12",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 2,
+      "section": "qa",
+      "number": 12,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "Ankita is twice as efficient as Bipin, while Bipin is twice as efficient as Chandan. All three of them start together on a job, and Bipin leaves the job after 20 days. If the job got completed in 60 days, the number of days needed by Chandan to complete the job alone, is",
+      "options": null,
+      "answer": "340",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 46.55,
+        "incorrect": 37.46,
+        "unattempted": 15.99
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-Quant/quants-question-12.shtml",
+      "official_qid": "3328181733",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2025-s2-qa-13",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 2,
+      "section": "qa",
+      "number": 13,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "The ratio of expenditures of Lakshmi and Meenakshi is 2 : 3, and the ratio of income of Lakshmi to expenditure of Meenakshi is 6 : 7. If excess of income over expenditure is saved by Lakshmi and Meenakshi, and the ratio of their savings is 4 : 9, then the ratio of their incomes is",
+      "options": [
+        "A) 5 : 6",
+        "B) 3 : 5",
+        "C) 7 : 8",
+        "D) 2 : 1"
+      ],
+      "answer": "B",
+      "answer_text": "3 : 5",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 44.91,
+        "incorrect": 13.05,
+        "unattempted": 42.04
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-Quant/quants-question-13.shtml",
+      "official_qid": "3328181188",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2025-s2-qa-14",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 2,
+      "section": "qa",
+      "number": 14,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "The set of all real values of \\( x \\) for which \\( \\left( x ^ { 2 } - | x + 9 | + x \\right) > 0 \\), is",
+      "options": [
+        "A) \\( ( - \\infty , - 9 ) \\cup ( 9 , \\infty ) \\)",
+        "B) \\( ( - \\infty , - 3 ) \\cup ( 3 , \\infty ) \\)",
+        "C) \\( ( - 9 , - 3 ) \\cup ( 3 , \\infty ) \\)",
+        "D) \\( ( - \\infty , - 9 ) \\cup ( 3 , \\infty ) \\)"
+      ],
+      "answer": "B",
+      "answer_text": "\\( ( - \\infty , - 3 ) \\cup ( 3 , \\infty ) \\)",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 32.96,
+        "incorrect": 20.33,
+        "unattempted": 46.71
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-Quant/quants-question-14.shtml",
+      "official_qid": "3328181208",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2025-s2-qa-15",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 2,
+      "section": "qa",
+      "number": 15,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "An item with a cost price of Rs. 1650 is sold at a certain discount on a fixed marked price to earn a profit of 20% on the cost price. If the discount was doubled, the profit would have been Rs. 110. The rate of discount, in percentage, at which the profit percentage would be equal to the rate of discount, is nearest to",
+      "options": [
+        "A) 12",
+        "B) 14",
+        "C) 16",
+        "D) 18"
+      ],
+      "answer": "B",
+      "answer_text": "14",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 18.32,
+        "incorrect": 20.34,
+        "unattempted": 61.34
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-Quant/quants-question-15.shtml",
+      "official_qid": "3328181257",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2025-s2-qa-16",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 2,
+      "section": "qa",
+      "number": 16,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "The equations \\( 3 x ^ { 2 } - 5 x + p = 0 \\) and \\( 2 x ^ { 2 } - 2 x + q = 0 \\) have one common root. The sum of the other roots of these two equations is",
+      "options": [
+        "A) \\( \\frac { 2 } { 3 } - p + \\frac { 3 } { 2 } q \\)",
+        "B) \\( \\frac { 8 } { 3 } + p + \\frac { 1 } { 3 } q \\)",
+        "C) \\( \\frac { 2 } { 3 } - 2 p + \\frac { 2 } { 3 } q \\)",
+        "D) \\( \\frac { 8 } { 3 } - p + \\frac { 3 } { 2 } q \\)"
+      ],
+      "answer": "D",
+      "answer_text": "\\( \\frac { 8 } { 3 } - p + \\frac { 3 } { 2 } q \\)",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 8.26,
+        "incorrect": 9.54,
+        "unattempted": 82.2
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-Quant/quants-question-16.shtml",
+      "official_qid": "3328181223",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2025-s2-qa-17",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 2,
+      "section": "qa",
+      "number": 17,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "A mixture of coffee and cocoa, 16% of which is coffee, costs Rs 240 per kg. Another mixture of coffee and cocoa, of which 36% is coffee, costs Rs 320 per kg. If a new mixture of coffee and cocoa costs Rs 376 per kg, then the quantity, in kg, of coffee in 10 kg of this new mixture is",
+      "options": [
+        "A) 4",
+        "B) 6",
+        "C) 2.5",
+        "D) 5"
+      ],
+      "answer": "D",
+      "answer_text": "5",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 18.17,
+        "incorrect": 19.61,
+        "unattempted": 62.22
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-Quant/quants-question-17.shtml",
+      "official_qid": "3328181212",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2025-s2-qa-18",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 2,
+      "section": "qa",
+      "number": 18,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "A loan of Rs 1000 is fully repaid by two installments of Rs 530 and Rs 594, paid at the end of first and second year, respectively. If the interest is compounded annually, then the rate of interest, in percentage, is",
+      "options": [
+        "A) 8",
+        "B) 10",
+        "C) 11",
+        "D) 9"
+      ],
+      "answer": "A",
+      "answer_text": "8",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 39.72,
+        "incorrect": 19.87,
+        "unattempted": 40.41
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-Quant/quants-question-18.shtml",
+      "official_qid": "3328181280",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2025-s2-qa-19",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 2,
+      "section": "qa",
+      "number": 19,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "Rita and Sneha can row a boat at 5 km/h and 6 km/h in still water, respectively. In a river flowing with a constant velocity, Sneha takes 48 minutes more to row 14 km upstream than to row the same distance downstream. If Rita starts from a certain location in the river, and returns downstream to the same location, taking a total of 100 minutes, then the total distance, in km, Rita will cover is",
+      "options": null,
+      "answer": "8",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 6.01,
+        "incorrect": 39.09,
+        "unattempted": 54.9
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-Quant/quants-question-19.shtml",
+      "official_qid": "3328181734",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2025-s2-qa-20",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 2,
+      "section": "qa",
+      "number": 20,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "The sum of digits of the number \\( ( 625 ) ^ { 65 } \\times ( 128 ) ^ { 36 } \\), is",
+      "options": null,
+      "answer": "25",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 5.96,
+        "incorrect": 36.31,
+        "unattempted": 57.73
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-Quant/quants-question-20.shtml",
+      "official_qid": "3328181725",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2025-s2-qa-21",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 2,
+      "section": "qa",
+      "number": 21,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "In a \\( \\triangle A B C \\), points D and E are on the sides BC and AC , respectively. BE and AD intersect at point T such that \\( \\mathrm { AD } : A T = 4 : 3 \\), and \\( \\mathrm { BE } : \\mathrm { BT } = 5 : 4 \\). Point F lies on AC such that DF is parallel to BE . Then, \\( \\mathrm { BD } : \\mathrm { CD } \\) is",
+      "options": [
+        "A) \\( 9 : 4 \\)",
+        "B) \\( 15 : 4 \\)",
+        "C) \\( 11 : 4 \\)",
+        "D) \\( 7 : 4 \\)"
+      ],
+      "answer": "C",
+      "answer_text": "\\( 11 : 4 \\)",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 4.1,
+        "incorrect": 10.51,
+        "unattempted": 85.39
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-Quant/quants-question-21.shtml",
+      "official_qid": "3328181358",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2025-s2-qa-22",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 2,
+      "section": "qa",
+      "number": 22,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "A certain amount of money was divided among Pinu, Meena, Rinu and Seema. Pinu received 20% of the total amount and Meena received 40% of the remaining amount. If Seema received 20% less than Pinu, the ratio of the amounts received by Pinu and Rinu is",
+      "options": [
+        "A) 8 : 5",
+        "B) 5 : 8",
+        "C) 2 : 1",
+        "D) 1 : 2"
+      ],
+      "answer": "B",
+      "answer_text": "5 : 8",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 77.07,
+        "incorrect": 10.4,
+        "unattempted": 12.53
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-Quant/quants-question-22.shtml",
+      "official_qid": "3328181050",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false
+    }
+  ]
+}

@@ -1,0 +1,745 @@
+{
+  "exam": "CAT",
+  "year": 2021,
+  "slot": 1,
+  "section": "dilr",
+  "source": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-DILR/",
+  "licence": "Real CAT questions (c) IIMs, as re-published free by 2IIM (c) 2IIM. Private study use in AHH only; do not republish.",
+  "scraped": "2026-10-31",
+  "count": 20,
+  "sets": [
+    {
+      "id": "cat-2021-s1-dilr-set1",
+      "text": "![figure](img/2021-s1-dilr/756_489168_0_1011660_4096_psg.jpg)\n\nThe horizontal bars in the above diagram represent 2020 aggregate sales (in ₹ million) of a company for the different subcategories of its products. The top four product subcategories (Bookcases, Chairs, Furnishings, Tables) belong to furniture product category; the bottom four product subcategories (Accessories, Copiers, Machines, Phones) belong to the technology product category while all other product subcategories belong to the office supply product category. For each of the product subcategories, there is a vertical line indicating the sales of the corresponding subcategory in 2019."
+    },
+    {
+      "id": "cat-2021-s1-dilr-set2",
+      "text": "Amudha, Bharatan, Chandran, Dhinesh, Ezhil, Fani and Gowtham are seven people in a town. Any pair of them could either be strangers, acquaintances, or friends. All relationships are mutual. For example, if Amudha is a friend of Bharatan, then Bharatan is also a friend of Amudha. Similarly, if Amudha is a stranger to Bharatan, then Bharatan is also a stranger to Amudha.\n\nPartial information about the number of friends, acquaintances, and strangers of each of these people among them is given in the table below.\n\n| | No. of Friends | No. of Acquaintances | No. of Strangers |\n|---|---|---|---|\n| Amudha | | 1 | 4 |\n| Bharatan | | | |\n| Chandran | | 1 | |\n| Dhinesh | | | 2 |\n| Ezhil | | | 1 |\n| Fani | 1 | | |\n| Gowtham | | 3 | 2 |"
+    },
+    {
+      "id": "cat-2021-s1-dilr-set3",
+      "text": "Ganga, Kaveri, and Narmada are three women who buy four raw materials (Mango, Apple, Banana and Milk) and sell five finished products (Mango smoothie, Apple smoothie, Banana smoothie, Mixed fruit smoothie and Fruit salad). Table-1 gives information about the raw materials required to produce the five finished products. One unit of a finished product requires one unit of each of the raw materials mentioned in the second column of the table.\n\n**Table-1**\n\n| **Finished product** | **Raw materials required** |\n|---|---|\n| Mango smoothie | Mango, Milk |\n| Apple smoothie | Apple, Milk |\n| Banana smoothie | Banana, Milk |\n| Mixed fruit smoothie | Mango, Apple, Banana, Milk |\n| Fruit salad | Mango, Apple, Banana |\n\n| **Business Hour** | **Ganga** | **Kaveri** | **Narmada** |\n|---|---|---|---|\n| Hour 1 | 23 | 19 | 31 |\n| Hour 2 | 21 | 22 | 21 |\n| Hour 3 | 29 | 30 | 23 |\n| Hour 4 (last hour) | 30 | 27 | 22 |"
+    },
+    {
+      "id": "cat-2021-s1-dilr-set4",
+      "text": "A journal plans to publish 18 research papers, written by eight authors (A, B, C, D, E, F, G, and H) in four issues of the journal scheduled in January, April, July and October. Each of the research papers was written by exactly one of the eight authors. Five papers were scheduled in each of the first two issues, while four were scheduled in each of the last two issues. Every author wrote at least one paper and at most three papers. The total number of papers written by A, D, G and H was double the total number of papers written by the other four authors. Four of the authors were from India and two each were from Japan and China. Each author belonged to exactly one of the three areas — Manufacturing, Automation and Logistics. Four of the authors were from the Logistics area and two were from the Automation area. As per the journal policy, none of the authors could have more than one paper in any issue of the journal.\n\nThe following facts are also known.\n\n1. F, an Indian author from the Logistics area, wrote only one paper. It was scheduled in the October issue.\n2. A was from the Automation area and did not have a paper scheduled in the October issue.\n3. None of the Indian authors were from the Manufacturing area and none of the Japanese or Chinese authors were from the Automation area.\n4. A and H were from different countries, but had their papers scheduled in exactly the same issues.\n5. C and E, both Chinese authors from different areas, had the same number of papers scheduled. Further, E had papers scheduled in consecutive issues of the journal but C did not.\n6. B, from the Logistics area, had a paper scheduled in the April issue of the journal.\n7. B and G belonged to the same country. None of their papers were scheduled in the same issue of the journal.\n8. D, a Japanese author from the Manufacturing area, did not have a paper scheduled in the July issue.\n9. C and H belonged to different areas."
+    }
+  ],
+  "questions": [
+    {
+      "id": "cat-2021-s1-dilr-01",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 1,
+      "section": "dilr",
+      "number": 1,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2021-s1-dilr-set1",
+      "question": "The total sales (in ₹ million) in 2019 from products in office supplies category is closest to",
+      "options": [
+        "A) 16.5",
+        "B) 12.5",
+        "C) 18.0",
+        "D) 13.5"
+      ],
+      "answer": "D",
+      "answer_text": "13.5",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 69.4,
+        "incorrect": 17.51,
+        "unattempted": 13.09
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-DILR/dilr-question-1.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2021-s1-dilr-02",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 1,
+      "section": "dilr",
+      "number": 2,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2021-s1-dilr-set1",
+      "question": "The percentage increase in sales in Furniture category from 2019 to 2020 is closest to",
+      "options": [
+        "A) 1%",
+        "B) 8%",
+        "C) 20%",
+        "D) 25%"
+      ],
+      "answer": "B",
+      "answer_text": "8%",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 69.1,
+        "incorrect": 16.67,
+        "unattempted": 14.23
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-DILR/dilr-question-2.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2021-s1-dilr-03",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 1,
+      "section": "dilr",
+      "number": 3,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2021-s1-dilr-set1",
+      "question": "How many subcategories had sales of ₹ 4 million or more in 2019 and registered an increase in sales in excess of 25% in 2020?",
+      "options": null,
+      "answer": "1",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 50.63,
+        "incorrect": 33.19,
+        "unattempted": 16.18
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-DILR/dilr-question-3.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2021-s1-dilr-04",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 1,
+      "section": "dilr",
+      "number": 4,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2021-s1-dilr-set1",
+      "question": "The improvement index for a category is the maximum percentage increase in sales from 2019 to 2020 among any of its subcategories. The correct order of categories in increasing order of this improvement index is",
+      "options": [
+        "A) office supply, technology, furniture",
+        "B) technology, furniture, office supply",
+        "C) office supply, furniture, technology",
+        "D) furniture, technology, office supply"
+      ],
+      "answer": "D",
+      "answer_text": "furniture, technology, office supply",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 27.17,
+        "incorrect": 44.94,
+        "unattempted": 27.89
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-DILR/dilr-question-4.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2021-s1-dilr-05",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 1,
+      "section": "dilr",
+      "number": 5,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2021-s1-dilr-set2",
+      "question": "Who are Gowtham's acquaintances?",
+      "options": [
+        "A) Amudha, Bharatan and Fani",
+        "B) Dhinesh, Ezhil and Fani",
+        "C) Amudha, Dhinesh and Fani",
+        "D) Bharatan, Dhinesh and Ezhil"
+      ],
+      "answer": "B",
+      "answer_text": "Dhinesh, Ezhil and Fani",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 30.29,
+        "incorrect": 19.19,
+        "unattempted": 50.52
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-DILR/dilr-question-5.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2021-s1-dilr-06",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 1,
+      "section": "dilr",
+      "number": 6,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2021-s1-dilr-set2",
+      "question": "Which of these pairs share the same type of relationship?",
+      "options": [
+        "A) (Bharatan, Chandran) and (Dhinesh, Ezhil)",
+        "B) (Chandran, Ezhil) and (Dhinesh, Gowtham)",
+        "C) (Amudha, Gowtham) and (Ezhil, Fani)",
+        "D) (Bharatan, Ezhil) and (Fani, Gowtham)"
+      ],
+      "answer": "D",
+      "answer_text": "(Bharatan, Ezhil) and (Fani, Gowtham)",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 30.14,
+        "incorrect": 14.35,
+        "unattempted": 55.51
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-DILR/dilr-question-6.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2021-s1-dilr-07",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 1,
+      "section": "dilr",
+      "number": 7,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2021-s1-dilr-set2",
+      "question": "Who is an acquaintance of Amudha?",
+      "options": [
+        "A) Dhinesh",
+        "B) Fani",
+        "C) Ezhil",
+        "D) Gowtham"
+      ],
+      "answer": "A",
+      "answer_text": "Dhinesh",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 24.76,
+        "incorrect": 27.2,
+        "unattempted": 48.04
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-DILR/dilr-question-7.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2021-s1-dilr-08",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 1,
+      "section": "dilr",
+      "number": 8,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2021-s1-dilr-set2",
+      "question": "Who is an acquaintance of Chandran?",
+      "options": [
+        "A) Ezhil",
+        "B) Bharatan",
+        "C) Fani",
+        "D) Dhinesh"
+      ],
+      "answer": "C",
+      "answer_text": "Fani",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 20.18,
+        "incorrect": 18.01,
+        "unattempted": 61.81
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-DILR/dilr-question-8.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2021-s1-dilr-09",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 1,
+      "section": "dilr",
+      "number": 9,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2021-s1-dilr-set2",
+      "question": "How many friends does Ezhil have?",
+      "options": null,
+      "answer": "3",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 53.19,
+        "incorrect": 18.05,
+        "unattempted": 28.76
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-DILR/dilr-question-9.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2021-s1-dilr-10",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 1,
+      "section": "dilr",
+      "number": 10,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2021-s1-dilr-set2",
+      "question": "How many people are either a friend or a friend-of-a-friend of Ezhil?",
+      "options": null,
+      "answer": "4",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 18.24,
+        "incorrect": 45.17,
+        "unattempted": 36.59
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-DILR/dilr-question-10.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2021-s1-dilr-11",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 1,
+      "section": "dilr",
+      "number": 11,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2021-s1-dilr-set3",
+      "question": "What BEST can be concluded about the number of units of fruit salad sold in the first hour?",
+      "options": [
+        "A) Either 0 or 1 or 2.",
+        "B) Exactly 1.",
+        "C) Exactly 2.",
+        "D) Either 1 or 2."
+      ],
+      "answer": "D",
+      "answer_text": "Either 1 or 2.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 11.79,
+        "incorrect": 13.09,
+        "unattempted": 75.12
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-DILR/dilr-question-11.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2021-s1-dilr-12",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 1,
+      "section": "dilr",
+      "number": 12,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2021-s1-dilr-set3",
+      "question": "Which of the following is NECESSARILY true?",
+      "options": [
+        "A) Narmada sold one unit of leftover milk.",
+        "B) Kaveri sold one unit of leftover mangoes.",
+        "C) Ganga did not sell any leftover apples.",
+        "D) Ganga did not sell any leftover mangoes."
+      ],
+      "answer": "C",
+      "answer_text": "Ganga did not sell any leftover apples.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 4.46,
+        "incorrect": 9.73,
+        "unattempted": 85.81
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-DILR/dilr-question-12.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2021-s1-dilr-13",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 1,
+      "section": "dilr",
+      "number": 13,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2021-s1-dilr-set3",
+      "question": "What BEST can be concluded about the total number of units of milk the three women had in the beginning?",
+      "options": [
+        "A) Either 18 or 19 or 20 units.",
+        "B) Either 17 or 18 or 19 units.",
+        "C) Either 19 or 20 units.",
+        "D) Either 18 or 19 units."
+      ],
+      "answer": "A",
+      "answer_text": "Either 18 or 19 or 20 units.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 3.36,
+        "incorrect": 8.05,
+        "unattempted": 88.59
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-DILR/dilr-question-13.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2021-s1-dilr-14",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 1,
+      "section": "dilr",
+      "number": 14,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2021-s1-dilr-set3",
+      "question": "If it is known that three leftover units of mangoes were sold during the last business hour of the day, how many apple smoothies were sold during the day?",
+      "options": null,
+      "answer": "6",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 4.16,
+        "incorrect": 29.42,
+        "unattempted": 66.42
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-DILR/dilr-question-14.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2021-s1-dilr-15",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 1,
+      "section": "dilr",
+      "number": 15,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2021-s1-dilr-set4",
+      "question": "What is the correct sequence of number of papers written by B, C, E and G, respectively?",
+      "options": [
+        "A) 3, 1, 1, 3",
+        "B) 1, 2, 2, 1",
+        "C) 1, 2, 2, 3",
+        "D) 1, 3, 3, 1"
+      ],
+      "answer": "C",
+      "answer_text": "1, 2, 2, 3",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 31.86,
+        "incorrect": 9.5,
+        "unattempted": 58.64
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-DILR/dilr-question-15.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2021-s1-dilr-16",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 1,
+      "section": "dilr",
+      "number": 16,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2021-s1-dilr-set4",
+      "question": "How many papers were written by Indian authors?",
+      "options": null,
+      "answer": "8",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 28.77,
+        "incorrect": 31.9,
+        "unattempted": 39.33
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-DILR/dilr-question-16.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2021-s1-dilr-17",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 1,
+      "section": "dilr",
+      "number": 17,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2021-s1-dilr-set4",
+      "question": "Which of the following statement(s) MUST be true?\n\\nStatement A: Every issue had at least one paper by author(s) from each country.\n\\nStatement B: Every issue had at most two papers by author(s) from each area.",
+      "options": [
+        "A) Only Statement A",
+        "B) Neither of the statements",
+        "C) Both the statements",
+        "D) Only Statement B"
+      ],
+      "answer": "A",
+      "answer_text": "Only Statement A",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 12.9,
+        "incorrect": 16.18,
+        "unattempted": 70.92
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-DILR/dilr-question-17.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2021-s1-dilr-18",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 1,
+      "section": "dilr",
+      "number": 18,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2021-s1-dilr-set4",
+      "question": "Which of the following statements is FALSE?",
+      "options": [
+        "A) Every issue had exactly one paper by a Chinese author.",
+        "B) Every issue had at least one paper by author(s) from Automation area.",
+        "C) Every issue had exactly two papers by authors from Logistics area.",
+        "D) Every issue had exactly two papers by Indian authors."
+      ],
+      "answer": "C",
+      "answer_text": "Every issue had exactly two papers by authors from Logistics area.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 14.12,
+        "incorrect": 13.28,
+        "unattempted": 72.6
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-DILR/dilr-question-18.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2021-s1-dilr-19",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 1,
+      "section": "dilr",
+      "number": 19,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2021-s1-dilr-set4",
+      "question": "Which of the following statements is FALSE?",
+      "options": [
+        "A) There was exactly one paper by an author from Logistics area in the October issue.",
+        "B) There was exactly one paper by an author from Manufacturing area in the April issue.",
+        "C) There were exactly two papers by authors from Manufacturing area in the July issue.",
+        "D) There were exactly two papers by authors from Manufacturing area in the January issue."
+      ],
+      "answer": "C",
+      "answer_text": "There were exactly two papers by authors from Manufacturing area in the July issue.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 12.78,
+        "incorrect": 8.47,
+        "unattempted": 78.75
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-DILR/dilr-question-19.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2021-s1-dilr-20",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 1,
+      "section": "dilr",
+      "number": 20,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2021-s1-dilr-set4",
+      "question": "Which of the following is the correct sequence of number of papers by authors from Automation, Manufacturing and Logistics areas, respectively?",
+      "options": [
+        "A) 6, 5, 7",
+        "B) 6, 7, 5",
+        "C) 5, 6, 7",
+        "D) 6, 6, 6"
+      ],
+      "answer": "A",
+      "answer_text": "6, 5, 7",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 18.85,
+        "incorrect": 8.7,
+        "unattempted": 72.45
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-DILR/dilr-question-20.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    }
+  ]
+}

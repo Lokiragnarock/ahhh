@@ -1,0 +1,798 @@
+{
+  "exam": "CAT",
+  "year": 2024,
+  "slot": 2,
+  "section": "dilr",
+  "source": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-2-DILR/",
+  "licence": "Real CAT questions (c) IIMs, as re-published free by 2IIM (c) 2IIM. Private study use in AHH only; do not republish.",
+  "scraped": "2026-10-31",
+  "count": 22,
+  "sets": [
+    {
+      "id": "cat-2024-s2-dilr-set1",
+      "text": "![figure](img/2024-s2-dilr/32842_332818_0_25976760_dilr_p1.jpg)\n\nThe above is a schematic diagram of walkways (indicated by all the straight-lines) and lakes (3 of them, each in the shape of rectangles – shaded in the diagram) of a gated area. Different points on the walkway are indicated by letters (A through P) with distances being OP = 150 m, ON = MN = 300 m, ML = 400 m, EL = 200 m, DE = 400 m.\n\nThe following additional information about the facilities in the area is known.\n1. The only entry/exit point is at C.\n2. There are many residences within the gated area; all of them are located on the path AH and ML with four of them being at A, H, M, and L.\n3. The post office is located at P and the bank is located at B."
+    },
+    {
+      "id": "cat-2024-s2-dilr-set2",
+      "text": "Eight gymnastics players numbered 1 through 8 underwent a training camp where they were coached by three coaches - Xena, Yuki, and Zara. Each coach trained at least two players. Yuki trained only even numbered players, while Zara trained only odd numbered players. After the camp, the coaches evaluated the players and gave integer ratings to the respective players trained by them on a scale of 1 to 7, with 1 being the lowest rating and 7 the highest.\n\nThe following additional information is known.\n1. Xena trained more players than Yuki.\n2. Player-1 and Player-4 were trained by the same coach, while the coaches who trained Player-2, Player-3 and Player-5 were all different.\n3. Player-5 and Player-7 were trained by the same coach and got the same rating. All other players got a unique rating.\n4. The average of the ratings of all the players was 4.\n5. Player-2 got the highest rating.\n6. The average of the ratings of the players trained by Yuki was twice that of the players trained by Xena and two more than that of the players trained by Zara.\n7. Player-4's rating was double of Player-8's and less than Player-5's."
+    },
+    {
+      "id": "cat-2024-s2-dilr-set3",
+      "text": "The numbers 1, 2, 3, 4, 5, 6, 7, 8, 9, and 10 are placed in ten slots of the following grid based on the conditions below.\n\n![figure](img/2024-s2-dilr/32842_332818_0_25976760_q8186_p_m.jpg)\n\n1. Numbers in any row appear in an increasing order from left to right.\n2. Numbers in any column appear in a decreasing order from top to bottom.\n3. 1 is placed either in the same row or in the same column as 10.\n4. Neither 2 nor 3 is placed in the same row or in the same column as 10.\n5. Neither 7 nor 8 is placed in the same row or in the same column as 9.\n6. 4 and 6 are placed in the same row."
+    },
+    {
+      "id": "cat-2024-s2-dilr-set4",
+      "text": "An online e-commerce firm receives daily integer product ratings from 1 through 5 given by buyers. The daily average is the average of the ratings given on that day. The cumulative average is the average of all ratings given on or before that day.\nThe rating system began on Day 1, and the cumulative averages were 3 and 3.1 at the end of Day 1 and Day 2, respectively. The distribution of ratings on Day 2 is given in the figure below.\n\n![figure](img/2024-s2-dilr/32842_332818_0_25976760_q8309_p.jpg)\n\nThe following information is known about ratings on Day 3.\n1. 100 buyers gave product ratings on Day 3.\n2. The modes of the product ratings were 4 and 5.\n3. The numbers of buyers giving each product rating are non-zero multiples of 10.\n4. The same number of buyers gave product ratings of 1 and 2, and that number is half the number of buyers who gave a rating of 3."
+    },
+    {
+      "id": "cat-2024-s2-dilr-set5",
+      "text": "The two plots below give the following information about six firms A, B, C, D, E, and F for 2019 and 2023.\n\nPAT: The firm's profits after taxes in Rs. crores,\n\nES: The firm's employee strength, that is the number of employees in the firm, and\n\nPRD: The percentage of the firm's PAT that they spend on Research and Development (R&D).\n\nIn the plots, the horizontal and vertical coordinates of point representing each firm gives their ES and PAT values respectively. The PRD values of each firm are proportional to the areas around the points representing each firm. The areas are comparable between the two plots, i.e., equal areas in the two plots represent the same PRD values for the two years.\n\n![figure](img/2024-s2-dilr/32842_332818_0_25976760_q8517_m.jpg)"
+    }
+  ],
+  "questions": [
+    {
+      "id": "cat-2024-s2-dilr-01",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 2,
+      "section": "dilr",
+      "number": 1,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2024-s2-dilr-set1",
+      "question": "One resident whose house is located at L, needs to visit the post office as well as the bank. What is the minimum distance (in m) he has to walk starting from his residence and returning to his residence after visiting both the post office and the bank?",
+      "options": [
+        "A) 3200",
+        "B) 2700",
+        "C) 3000",
+        "D) 3400"
+      ],
+      "answer": "A",
+      "answer_text": "3200",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 25.97,
+        "incorrect": 10.69,
+        "unattempted": 63.34
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-2-DILR/dilr-question-1.shtml",
+      "official_qid": "33281855",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2024-s2-dilr-02",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 2,
+      "section": "dilr",
+      "number": 2,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2024-s2-dilr-set1",
+      "question": "One person enters the gated area and decides to walk as much as possible before leaving the area without walking along any path more than once and always walking next to one of the lakes. Note that he may cross a point multiple times. How much distance (in m) will he walk within the gated area?",
+      "options": [
+        "A) 3800",
+        "B) 2800",
+        "C) 3000",
+        "D) 3200"
+      ],
+      "answer": "A",
+      "answer_text": "3800",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 23.48,
+        "incorrect": 5.37,
+        "unattempted": 71.15
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-2-DILR/dilr-question-2.shtml",
+      "official_qid": "33281856",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2024-s2-dilr-03",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 2,
+      "section": "dilr",
+      "number": 3,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2024-s2-dilr-set1",
+      "question": "One resident takes a walk within the gated area starting from A and returning to A without going through any point (other than A) more than once. What is the maximum distance (in m) she can walk in this way?",
+      "options": null,
+      "answer": "5100",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 1.11,
+        "incorrect": 42.41,
+        "unattempted": 56.48
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-2-DILR/dilr-question-3.shtml",
+      "official_qid": "332818699",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2024-s2-dilr-04",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 2,
+      "section": "dilr",
+      "number": 4,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2024-s2-dilr-set1",
+      "question": "Visitors coming for morning walks are allowed to enter as long as they do not pass by any of the residences and do not cross any point (except C) more than once. What is the maximum distance (in m) that such a visitor can walk within the gated area?",
+      "options": null,
+      "answer": "3500",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 6.04,
+        "incorrect": 32.28,
+        "unattempted": 61.68
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-2-DILR/dilr-question-4.shtml",
+      "official_qid": "332818700",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2024-s2-dilr-05",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 2,
+      "section": "dilr",
+      "number": 5,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2024-s2-dilr-set2",
+      "question": "What best can be concluded about the number of players coached by Zara?",
+      "options": [
+        "A) Exactly 3",
+        "B) Either 2 or 3 or 4",
+        "C) Exactly 2",
+        "D) Either 2 or 3"
+      ],
+      "answer": "C",
+      "answer_text": "Exactly 2",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 40.42,
+        "incorrect": 16.78,
+        "unattempted": 42.8
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-2-DILR/dilr-question-5.shtml",
+      "official_qid": "332818430",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2024-s2-dilr-06",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 2,
+      "section": "dilr",
+      "number": 6,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2024-s2-dilr-set2",
+      "question": "What was the rating of Player-7?",
+      "options": null,
+      "answer": "4",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 41.64,
+        "incorrect": 27.13,
+        "unattempted": 31.23
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-2-DILR/dilr-question-6.shtml",
+      "official_qid": "332818748",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2024-s2-dilr-07",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 2,
+      "section": "dilr",
+      "number": 7,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2024-s2-dilr-set2",
+      "question": "What was the rating of Player-6?",
+      "options": null,
+      "answer": "5",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 33.44,
+        "incorrect": 30.45,
+        "unattempted": 36.1
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-2-DILR/dilr-question-7.shtml",
+      "official_qid": "332818749",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2024-s2-dilr-08",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 2,
+      "section": "dilr",
+      "number": 8,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2024-s2-dilr-set2",
+      "question": "For how many players the ratings can be determined with certainty?",
+      "options": null,
+      "answer": "6",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 32.89,
+        "incorrect": 33.11,
+        "unattempted": 34.0
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-2-DILR/dilr-question-8.shtml",
+      "official_qid": "332818750",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2024-s2-dilr-09",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 2,
+      "section": "dilr",
+      "number": 9,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2024-s2-dilr-set2",
+      "question": "Who all were the players trained by Xena?",
+      "options": [
+        "A) Player-1, Player-3, Player-4, Player-6",
+        "B) Player-1, Player-4, Player-6, Player-8",
+        "C) Player-1, Player-3, Player-4, Player-8",
+        "D) Player-1, Player-3, Player-4"
+      ],
+      "answer": "C",
+      "answer_text": "Player-1, Player-3, Player-4,\nPlayer-8",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 31.4,
+        "incorrect": 19.99,
+        "unattempted": 48.62
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-2-DILR/dilr-question-9.shtml",
+      "official_qid": "332818392",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2024-s2-dilr-10",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 2,
+      "section": "dilr",
+      "number": 10,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2024-s2-dilr-set3",
+      "question": "What is the row number which has the least sum of numbers placed in that row?",
+      "options": null,
+      "answer": "4",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 62.24,
+        "incorrect": 16.33,
+        "unattempted": 21.43
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-2-DILR/dilr-question-10.shtml",
+      "official_qid": "332818734",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2024-s2-dilr-11",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 2,
+      "section": "dilr",
+      "number": 11,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2024-s2-dilr-set3",
+      "question": "Which of the following statements MUST be true?\n\nI. 10 is placed in a slot in Row 1.\nII. 1 is placed in a slot in Row 4.",
+      "options": [
+        "A) Both I and II",
+        "B) Only I",
+        "C) Only II",
+        "D) Neither I nor II"
+      ],
+      "answer": "A",
+      "answer_text": "Both I and II",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 49.56,
+        "incorrect": 17.83,
+        "unattempted": 32.61
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-2-DILR/dilr-question-11.shtml",
+      "official_qid": "332818188",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2024-s2-dilr-12",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 2,
+      "section": "dilr",
+      "number": 12,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2024-s2-dilr-set3",
+      "question": "Which of the following statements MUST be true?\n\nI. 2 is placed in a slot in Column 2.\nII. 3 is placed in a slot in Column 3.",
+      "options": [
+        "A) Both I and II",
+        "B) Neither I nor II",
+        "C) Only II",
+        "D) Only I"
+      ],
+      "answer": "B",
+      "answer_text": "Neither I nor II",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 29.46,
+        "incorrect": 31.4,
+        "unattempted": 39.15
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-2-DILR/dilr-question-12.shtml",
+      "official_qid": "332818189",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2024-s2-dilr-13",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 2,
+      "section": "dilr",
+      "number": 13,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2024-s2-dilr-set3",
+      "question": "For how many slots in the grid, placement of numbers CANNOT be determined with certainty?",
+      "options": null,
+      "answer": "2",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 31.4,
+        "incorrect": 44.08,
+        "unattempted": 24.53
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-2-DILR/dilr-question-13.shtml",
+      "official_qid": "332818735",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2024-s2-dilr-14",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 2,
+      "section": "dilr",
+      "number": 14,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2024-s2-dilr-set3",
+      "question": "What is the sum of the numbers placed in Column 4?",
+      "options": null,
+      "answer": "26",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 41.25,
+        "incorrect": 32.83,
+        "unattempted": 25.91
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-2-DILR/dilr-question-14.shtml",
+      "official_qid": "332818736",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2024-s2-dilr-15",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 2,
+      "section": "dilr",
+      "number": 15,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2024-s2-dilr-set4",
+      "question": "How many buyers gave ratings on Day 1?",
+      "options": null,
+      "answer": "150",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 19.49,
+        "incorrect": 34.11,
+        "unattempted": 46.4
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-2-DILR/dilr-question-15.shtml",
+      "official_qid": "332818704",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2024-s2-dilr-16",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 2,
+      "section": "dilr",
+      "number": 16,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2024-s2-dilr-set4",
+      "question": "What is the daily average rating of Day 3?",
+      "options": [
+        "A) 3.5",
+        "B) 3.2",
+        "C) 3.0",
+        "D) 3.6"
+      ],
+      "answer": "D",
+      "answer_text": "3.6",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 24.09,
+        "incorrect": 7.03,
+        "unattempted": 68.88
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-2-DILR/dilr-question-16.shtml",
+      "official_qid": "332818311",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2024-s2-dilr-17",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 2,
+      "section": "dilr",
+      "number": 17,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2024-s2-dilr-set4",
+      "question": "What is the median of all ratings given on Day 3?",
+      "options": null,
+      "answer": "4",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 25.36,
+        "incorrect": 24.7,
+        "unattempted": 49.94
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-2-DILR/dilr-question-17.shtml",
+      "official_qid": "332818705",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2024-s2-dilr-18",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 2,
+      "section": "dilr",
+      "number": 18,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2024-s2-dilr-set4",
+      "question": "Which of the following is true about the cumulative average ratings of Day 2 and Day 3?",
+      "options": [
+        "A) The cumulative average of Day 3 increased by less than 5% from Day 2.",
+        "B) The cumulative average of Day 3 increased by more than 8% from Day 2.",
+        "C) The cumulative average of Day 3 increased by a percentage between 5% and 8% from Day 2.",
+        "D) The cumulative average of Day 3 decreased from Day 2."
+      ],
+      "answer": "C",
+      "answer_text": "The cumulative average of Day 3\nincreased by a percentage between 5% and 8% from Day 2.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 15.34,
+        "incorrect": 11.02,
+        "unattempted": 73.64
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-2-DILR/dilr-question-18.shtml",
+      "official_qid": "332818315",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2024-s2-dilr-19",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 2,
+      "section": "dilr",
+      "number": 19,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2024-s2-dilr-set5",
+      "question": "Assume that the annual rate of growth in PAT over the previous year (ARG) remained constant over the years for each of the six firms. Which among the firms A, B, C, and E had the highest ARG?",
+      "options": [
+        "A) Firm C",
+        "B) Firm B",
+        "C) Firm A",
+        "D) Firm E"
+      ],
+      "answer": "D",
+      "answer_text": "Firm E",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 28.41,
+        "incorrect": 8.31,
+        "unattempted": 63.29
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-2-DILR/dilr-question-19.shtml",
+      "official_qid": "332818518",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2024-s2-dilr-20",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 2,
+      "section": "dilr",
+      "number": 20,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2024-s2-dilr-set5",
+      "question": "The ratio of the amount of money spent by Firm C on R&D in 2019 to that in 2023 is closest to",
+      "options": [
+        "A) 5 : 9",
+        "B) 9 : 5",
+        "C) 9 **:** 4",
+        "D) 5 : 6"
+      ],
+      "answer": "B",
+      "answer_text": "9 : 5",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 15.34,
+        "incorrect": 18.88,
+        "unattempted": 65.78
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-2-DILR/dilr-question-20.shtml",
+      "official_qid": "332818519",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2024-s2-dilr-21",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 2,
+      "section": "dilr",
+      "number": 21,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2024-s2-dilr-set5",
+      "question": "Which among the firms A, C, E, and F had the maximum PAT per employee in 2023?",
+      "options": [
+        "A) Firm C",
+        "B) Firm A",
+        "C) Firm E",
+        "D) Firm F"
+      ],
+      "answer": "A",
+      "answer_text": "Firm C",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 33.89,
+        "incorrect": 8.47,
+        "unattempted": 57.64
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-2-DILR/dilr-question-21.shtml",
+      "official_qid": "332818520",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2024-s2-dilr-22",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 2,
+      "section": "dilr",
+      "number": 22,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2024-s2-dilr-set5",
+      "question": "Which among the firms C, D, E, and F had the least amount of R&D spending per employee in 2023?",
+      "options": [
+        "A) Firm D",
+        "B) Firm E",
+        "C) Firm C",
+        "D) Firm F"
+      ],
+      "answer": "A",
+      "answer_text": "Firm D",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 12.79,
+        "incorrect": 20.1,
+        "unattempted": 67.11
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-2-DILR/dilr-question-22.shtml",
+      "official_qid": "332818521",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    }
+  ]
+}

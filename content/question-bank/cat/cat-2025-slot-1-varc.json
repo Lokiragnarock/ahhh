@@ -1,0 +1,898 @@
+{
+  "exam": "CAT",
+  "year": 2025,
+  "slot": 1,
+  "section": "varc",
+  "source": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-VARC/",
+  "licence": "Real CAT questions (c) IIMs, as re-published free by 2IIM (c) 2IIM. Private study use in AHH only; do not republish.",
+  "scraped": "2026-10-31",
+  "count": 24,
+  "sets": [
+    {
+      "id": "cat-2025-s1-varc-set1",
+      "text": "The passage below is accompanied by four questions. Based on the passage, choose the best answer for each question.\n\nUnderstanding the key properties of complex systems can help us clarify and deal with many new and existing global challenges, from pandemics to poverty . . . A recent study in Nature Physics found transitions to orderly states such as schooling in fish (all fish swimming in the same direction), can be caused, paradoxically, by randomness, or 'noise' feeding back on itself. That is, a misalignment among the fish causes further misalignment, eventually inducing a transition to schooling. Most of us wouldn't guess that noise can produce predictable behaviour. The result invites us to consider how technology such as contact-tracing apps, although informing us locally, might negatively impact our collective movement. If each of us changes our behaviour to avoid the infected, we might generate a collective pattern we had aimed to avoid: higher levels of interaction between the infected and susceptible, or high levels of interaction among the asymptomatic.\n\nComplex systems also suffer from a special vulnerability to events that don't follow a normal distribution or 'bell curve'. When events are distributed normally, most outcomes are familiar and don't seem particularly striking. Height is a good example: it's pretty unusual for a man to be over 7 feet tall; most adults are between 5 and 6 feet, and there is no known person over 9 feet tall. But in collective settings where contagion shapes behaviour – a run on the banks, a scramble to buy toilet paper – the probability distributions for possible events are often heavy-tailed. There is a much higher probability of extreme events, such as a stock market crash or a massive surge in infections. These events are still unlikely, but they occur more frequently and are larger than would be expected under normal distributions.\n\nWhat's more, once a rare but hugely significant 'tail' event takes place, this raises the probability of further tail events. We might call them second-order tail events; they include stock market gyrations after a big fall and earthquake aftershocks. The initial probability of second-order tail events is so tiny it's almost impossible to calculate – but once a first-order tail event occurs, the rules change, and the probability of a second-order tail event increases.\n\nThe dynamics of tail events are complicated by the fact that they result from cascades of other unlikely events. When COVID-19 first struck, the stock market suffered stunning losses followed by an equally stunning recovery. Some of these dynamics are potentially attributable to former sports bettors, with no sports to bet on, entering the market as speculators rather than investors. The arrival of these new players might have increased inefficiencies and allowed savvy long-term investors to gain an edge over bettors with different goals. . . .\n\nOne reason a first-order tail event can induce further tail events is that it changes the perceived costs of our actions and changes the rules that we play by. This game-change is an example of another key complex systems concept: nonstationarity. A second, canonical example of nonstationarity is adaptation, as illustrated by the arms race involved in the coevolution of hosts and parasites [in which] each has to 'run' faster, just to keep up with the novel solutions the other one presents as they battle it out in evolutionary time."
+    },
+    {
+      "id": "cat-2025-s1-varc-set2",
+      "text": "The passage below is accompanied by four questions. Based on the passage, choose the best answer for each question.\n\nOften the well intentioned music lover or the traditionally-minded professional composer asks two basic questions when faced with the electronic music phenomena: (1) . . . is this type of artistic creation music at all? and, (2) given that the product is accepted as music of a new type or order, is not such music \"inhuman\"? . . . As Lejaren Hiller points out in his book Experimental Music (co-author Leonard M. Isaacson), two questions which often arise when music is discussed are: (a) the substance of musical communication and its symbolic and semantic significance, if any, and (b) the particular processes, both mental and technical, which are involved in creating and responding to musical composition. The ever-present popular concept of music as a direct, open, emotional expression and as a subjective form of communication from the composer, is, of course still that of the nineteenth century, when composers themselves spoke of music in those terms . . . But since the third decade of our century many composers have preferred more objective definitions of music, epitomized in Stravinsky's description of it as \"a form of speculation in terms of sound and time\". An acceptance of this more characteristic twentieth-century view of the art of musical composition will of course immediately bring the layman closer to an understanding of, and sympathetic response to, electronic music, even if the forms, sounds and approaches it uses will still be of a foreign nature to him.\n\nA communication problem however will still remain. The principal barrier that electronic music presents at large, in relation to the communication process, is that composers in this medium are employing a new language of forms . . . where terms like 'densities', 'indefinite pitch relations', 'dynamic serialization', 'permutation', etc., are substitutes (or remote equivalents) for the traditional concepts of harmony, melody, rhythm, etc. . . . When the new structural procedures of electronic music are at last fully understood by the listener the barriers between him and the work he faces will be removed. . . .\n\nThe medium of electronic music has of course tempted many kinds of composers to try their hand at it . . . But the serious-minded composer approaches the world of electronic music with a more sophisticated and profound concept of creation. Although he knows that he can reproduce and employ melodic, rhythmic patterns and timbres of a traditional nature, he feels that it is in the exploration of sui generis languages and forms that the aesthetic magic of the new medium lies. And, conscientiously, he plunges into this search.\n\nThe second objection usually levelled against electronic music is much more innocent in nature. When people speak—sometimes very vehemently—of the 'inhuman' quality of this music they seem to forget that the composer is the one who fires the machines, collects the sounds, manipulates them, pushes the buttons, programs the computer, filters the sounds, establishes pitches and scales, splices tape, thinks of forms, and rounds up the over-all structure of the piece, as well as every detail of it."
+    },
+    {
+      "id": "cat-2025-s1-varc-set3",
+      "text": "The passage below is accompanied by four questions. Based on the passage, choose the best answer for each question.\n\nStudies showing that income inequality plays a positive role in economic growth are largely based on three arguments. The first argument focuses on investment indivisibilities wherein large sunk costs are required when implementing new fundamental innovations. Without stock markets and financial institutions to mobilize large sums of money, a high concentration of wealth is needed for individuals to undertake new industrial activities accompanied by high sunk costs . . . [One study] shows the relation between economic growth and income inequality for 45 countries during 1966-1995. [It was found] that the increase in income inequality has a significant positive relationship with economic growth in the short and medium term. Using system GMM, [another study estimated] the relation between income inequality and economic growth for 106 countries during 1965–2005 period. The results show that income inequality has a positive impact on economic growth in the short run, but the two are negatively correlated in the long run. The second argument is related to moral hazard and incentives . . . Because economic performance is determined by the unobservable level of effort that agents make, paying compensations without taking into account the economic performance achieved by individual agents will fail to elicit optimum effort from the agents. Thus, certain income inequalities contribute to growth by enhancing worker motivation . . . and by giving motivation to innovators and entrepreneurs . . . Finally, [another study] point[s] out that the concentration of wealth or stock ownership in relation to corporate governance contributes to growth. If stock ownership is distributed and owned by a large number of shareholders, it is not easy to make quick decisions due to the conflicting interests among shareholders, and this may also cause a free-rider problem in terms of monitoring and supervising managers and workers. . . .\n\nVarious studies have examined the relationships between income inequality and economic growth, and most of these assert that a negative correlation exists between the two. . . . Analyzing 159 countries for 1980–2012, they conclude that there exists a negative relation between income inequality and economic growth; when the income share of the richest 20% of population increases by 1%, the GDP decreases by 0.08%, whereas when the income share of the poorest 20% of population increases by 1%, the GDP increases by 0.38%. Some studies find that inequality has a negative impact on growth due to poor human capital accumulation and low fertility rates . . . while [others] point out that inequality creates political instability, resulting in lower investment. . . . [Some economists] argue that widening income inequality has a negative impact on economic growth because it negatively affects social consensus or social capital formation. One important research topic is the correlation between democratization and income redistribution. [Some scholars] explain that social pressure for income redistribution rises as income inequality increases in a democratic society. In other words, when democratization extends suffrage to a wider class of people, the increased political power of low- and middle-income voters results in broader support for income redistribution and social welfare expansion. However . . . if the rich have more political influence than the poor, the democratic system actually worsens income inequality rather than improving it."
+    },
+    {
+      "id": "cat-2025-s1-varc-set4",
+      "text": "The passage below is accompanied by four questions. Based on the passage, choose the best answer for each question.\n\nHow can we know what someone else is thinking or feeling, let alone prove it in court? In his 1863 book, A General View of the Criminal Law of England, James Fitzjames Stephen, among the most celebrated legal thinkers of his generation, was of the opinion that the assessment of a person's mental state was an inference made with \"little consciousness.\" In a criminal case, jurors, doctors, and lawyers could watch defendants—scrutinizing clothing, mannerisms, tone of voice—but the best they could hope for were clues. . . . Rounding these clues up to a judgment about a defendant's guilt, or a defendant's life, was an act of empathy and imagination. . . . The closer the resemblance between defendants and their judges, the easier it was to overlook the gap that inference filled. Conversely, when a defendant struck officials as unlike themselves, whether by dint of disease, gender, confession, or race, the precariousness of judgments about mental state was exposed.\n\nIn the nineteenth century, physicians who specialized in the study of madness and the care of the insane held themselves out as experts in the new field of mental science. Often called alienists or mad doctors, they were the predecessors of modern psychiatrists, neurologists, and psychologists. . . . The opinions of family and neighbors had once been sufficient to sift the sane from the insane, but a growing belief that insanity was a subtle condition that required expert, medical diagnosis pushed physicians into the witness box. . . . Lawyers for both prosecution and defense began to recruit alienists to assess defendants' sanity and to testify to it in court.\n\nIrresponsibility and insanity were not identical, however. Criminal responsibility was a legal concept and not, fundamentally, a medical one. Stephen explained: \"The question 'What are the mental elements of responsibility?' is, and must be, a legal question. It cannot be anything else, for the meaning of responsibility is liability to punishment.\" . . . Nonetheless, medical and legal accounts of what it meant to be mentally sound became entangled and mutually referential throughout the nineteenth century. Lawyers relied on medical knowledge to inform their opinions and arguments about the sanity of their clients. Doctors commented on the legal responsibility of their patients. Ultimately, the fields of criminal law and mental science were both invested in constructing an image of the broken and damaged psyche that could be contrasted with the whole and healthy one. This shared interest, and the shared space of the criminal courtroom, made it nearly impossible to consider responsibility without medicine, or insanity without law. . . .\n\nPhysicians and lawyers shared more than just concern for the mind. Class, race, and gender bound these middle-class, white, professional men together, as did family ties, patriotism, Protestantism, business ventures, the alumni networks of elite schools and universities, and structures of political patronage. But for all their affinities, men of medicine and law were divided by contests over the borders of criminal responsibility, as much within each profession as between them. Alienists steadily pushed the boundaries of their field, developing increasingly complex and capacious definitions of insanity. Eccentricity and aggression came to be classified as symptoms of mental disease, at least by some."
+    }
+  ],
+  "questions": [
+    {
+      "id": "cat-2025-s1-varc-01",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 1,
+      "section": "varc",
+      "number": 1,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2025-s1-varc-set1",
+      "question": "All of the following inferences are supported by the passage EXCEPT that:",
+      "options": [
+        "A) the text attributes the COVID-19 pandemic rebound in financial markets solely to displaced sports bettors and treats their entry as the overriding cause of the rapid recovery across assets and time horizons.",
+        "B) heavy-tailed events make extreme outcomes more frequent and larger than bell curve expectations. This complicates forecasting and risk management in collective settings shaped by contagion and copying behaviour.",
+        "C) learning can change the rules that actors face. So, a rare shock can alter payoffs and raise the odds of subsequent large disturbances within the same system, which supports the idea of second-order tail events.",
+        "D) examples like runs on banks and toilet paper scrambles illustrate how contagion can amplify local choices into system-wide cascades that surprise participants and lead to patterns they did not intend to create."
+      ],
+      "answer": "A",
+      "answer_text": "the text attributes the COVID-19 pandemic rebound in financial markets solely to displaced sports bettors and treats their entry as the overriding cause of the rapid recovery across assets and time horizons.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 24.74,
+        "incorrect": 14.52,
+        "unattempted": 60.74
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-VARC/verbal-question-1.shtml",
+      "official_qid": "3328181497",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2025-s1-varc-02",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 1,
+      "section": "varc",
+      "number": 2,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2025-s1-varc-set1",
+      "question": "The passage suggests that contact tracing apps could inadvertently raise risky interactions by altering local behaviour. Which one of the assumptions below is most necessary for that suggestion to hold?",
+      "options": [
+        "A) Individuals base movement choices partly on observed infections and on the behaviour of others. So, local responses interact, which turns many small adjustments into large scale patterns that can frustrate the intended aim of risk reduction.",
+        "B) Urban networks have uniform traffic conditions at all hours, which allows perfectly predictable routing independent of personal choices, social signals, or crowd reactions and, therefore, makes interdependence negligible in city movement decisions.",
+        "C) App alerts always include precise location to within one metre and deliver real time updates for all users, which ensures that the data feed is perfectly accurate regardless of privacy settings, power limits, or network conditions.",
+        "D) Most users uninstall apps within a week, which leaves only highly exposed individuals participating. This neutralises any systematic bias in routing decisions and prevents any predictable change in aggregate contact patterns."
+      ],
+      "answer": "A",
+      "answer_text": "Individuals base movement choices partly on observed infections and on the behaviour of others. So, local responses interact, which turns many small adjustments into large scale patterns that can frustrate the intended aim of risk reduction.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 26.99,
+        "incorrect": 9.82,
+        "unattempted": 63.19
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-VARC/verbal-question-2.shtml",
+      "official_qid": "3328181496",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2025-s1-varc-03",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 1,
+      "section": "varc",
+      "number": 3,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2025-s1-varc-set1",
+      "question": "Which one of the options below best summarises the passage?",
+      "options": [
+        "A) The passage explains how speculative entrants always produce inefficiency after health shocks. Therefore, long-term investors invariably profit when new participants push prices away from fundamentals under pandemic conditions and comparable crises.",
+        "B) The passage explains how noise can create order, then shows why complex systems with contagion are vulnerable to heavy-tailed cascades. It also explains why early shocks change rules through nonstationarity with a market illustration during the COVID-19 disruption.",
+        "C) The passage explains how social outcomes generally follow normal distributions. So, extreme events are negligible, and policy should stabilise averages rather than learn from large shocks in fast-changing collective settings.",
+        "D) The passage explains how nonstationarity works in evolutionary biology and rejects applications in markets or public health because adaptation is exclusive to parasite-host systems and cannot arise in technology-mediated social dynamics."
+      ],
+      "answer": "B",
+      "answer_text": "The passage explains how noise can create order, then shows why complex systems with contagion are vulnerable to heavy-tailed cascades. It also explains why early shocks change rules through nonstationarity with a market illustration during the COVID-19 disruption.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 38.53,
+        "incorrect": 7.36,
+        "unattempted": 54.11
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-VARC/verbal-question-3.shtml",
+      "official_qid": "3328181498",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2025-s1-varc-04",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 1,
+      "section": "varc",
+      "number": 4,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2025-s1-varc-set1",
+      "question": "Which one of the following observations would most strengthen the passage's claim that a first-order tail event raises the probability of further tail events in complex systems?",
+      "options": [
+        "A) In epidemic networks, initial super-spreading episodes are isolated spikes after which outbreak sizes match the baseline distribution from independent contact models across comparable cities with no rise in the frequency or size of later extreme clusters.",
+        "B) After a major equity crash, researchers find dense clusters of large daily moves for several weeks, with extreme days occurring far more often than in normal circumstances for assets with customarily low volatility profiles.",
+        "C) River discharge records show water levels fit a normal distribution with thin tails that match laboratory data, regardless of storms or floods.",
+        "D) Following large earthquakes, regional seismic activity returns to baseline within hours with no aftershock sequence once data are adjusted for reporting effects, which suggests independence across events rather than any elevation in subsequent tail probabilities."
+      ],
+      "answer": "B",
+      "answer_text": "After a major equity crash, researchers find dense clusters of large daily moves for several weeks, with extreme days occurring far more often than in normal circumstances for assets with customarily low volatility profiles.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 34.93,
+        "incorrect": 6.83,
+        "unattempted": 58.24
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-VARC/verbal-question-4.shtml",
+      "official_qid": "3328181495",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2025-s1-varc-05",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 1,
+      "section": "varc",
+      "number": 5,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "Five jumbled sentences (labelled 1, 2, 3, 4, and 5), related to a topic, are given below. Four of them can be put together to form a coherent paragraph. Identify the odd sentence out and key in the number of that sentence as your answer.\n\n1. The Bayeux tapestry was, therefore, an obvious way to tell people about the downfall of the English and the rise of the Normans.\n2. So if we take expert in Anglo-Saxon culture Gale Owen-Crocker's idea that the tapestry was originally hung in a square with certain scenes facing each other, people would have stood in the centre.\n3. Art historian Linda Neagley has argued that pre-Renaissance people interacted with art visually, kinaesthetically (sensory perception through bodily movement) and physically.\n4. That would make it an 11th-century immersive space with scenes corresponding and echoing each other, drawing the viewer's attention, playing on their senses and understanding of the story they thought they knew.\n5. The Bayeux tapestry would have been hung at eye level to enable this.",
+      "options": null,
+      "answer": "1",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 26.41,
+        "incorrect": 56.33,
+        "unattempted": 17.26
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-VARC/verbal-question-5.shtml",
+      "official_qid": "3328181148",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2025-s1-varc-06",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 1,
+      "section": "varc",
+      "number": 6,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "The given sentence is missing in the paragraph below. Decide where it best fits among the options 1, 2, 3, or 4 indicated in the paragraph.\n\nSentence: Historically, silver has been, and still is, an important element in the business of 'show' visible in private houses, churches, government and diplomacy.\n\nParagraph: ____(1) ____. Timothy Schroder put it succinctly in suggesting that electric light and eating in the kitchen eroded this need. As he explained to the author, 'Silver, when illuminated by flickering candlelight, comes alive and almost dances before the eyes, but when lit by electric light it becomes flat and dead.' ____(2) ____. Domestic and economic changes may have worked against the market, but the London silver trade remained buoyant, thanks to the competition of collectors seeking grand display silver at the top end, and the buyers of 'collectables', like spoons and wine labels and 'novelties', at the bottom. ____(3) ____. Another factor that came into play was the systematic collection building of certain American museums over the period. Boston, Huntington Art Gallery and Williamsburg, among others, were largely supplied by London dealers. ____(4) ____.",
+      "options": [
+        "A) Option 1",
+        "B) Option 3",
+        "C) Option 4",
+        "D) Option 2"
+      ],
+      "answer": "B",
+      "answer_text": "Option 3",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 11.26,
+        "incorrect": 63.91,
+        "unattempted": 24.83
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-VARC/verbal-question-6.shtml",
+      "official_qid": "3328181488",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2025-s1-varc-07",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 1,
+      "section": "varc",
+      "number": 7,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "The passage given below is followed by four summaries. Choose the option that best captures the essence of the passage.\n\nZombie cells may contribute to age-related chronic inflammation: this finding could help scientists understand more about the aging process and why the immune system becomes less effective as we get older. Zombie or \"senescent\" cells are damaged cells that can no longer divide and grow like normal cells. Scientists think that these cells can contribute to chronic health problems when they accumulate in the body. In younger people, the immune system is more effective at clearing senescent cells from the body through a process called apoptosis, but as we age this process becomes less efficient. As a result, there is an accumulation of senescent cells in different organs in the body, either through increased production or reduced clearance by the immune system. The zombie cells continue to use energy though they do not divide, and often secrete chemicals that cause inflammation, which if persistent for longer periods of time can damage healthy cells leading to chronic diseases.",
+      "options": [
+        "A) Aging leads to less effective apoptosis, and therefore zombie cells start to accumulate in the body, causing inflammation, which accelerates aging and leads to chronic diseases.",
+        "B) A younger person's immune system is healthy and is able to clear the damaged cells, but as people age, the zombie cells resist apoptosis, and start accumulating in the body.",
+        "C) Senescent \"zombie\" cells are inactive or malfunctioning cells that can be found throughout the body.",
+        "D) Dead cells accelerate chronic inflammation weakening the immune system and lead to aging."
+      ],
+      "answer": "A",
+      "answer_text": "Aging leads to less effective apoptosis, and therefore zombie cells start to accumulate in the body, causing inflammation, which accelerates aging and leads to chronic diseases.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 54.84,
+        "incorrect": 25.3,
+        "unattempted": 19.86
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-VARC/verbal-question-7.shtml",
+      "official_qid": "3328181297",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2025-s1-varc-08",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 1,
+      "section": "varc",
+      "number": 8,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "The four sentences (labelled 1, 2, 3, and 4) given below, when properly sequenced, would yield a coherent paragraph. Decide on the proper sequencing of the order of the sentences and key in the sequence of the four numbers as your answer.\n\n1. But man, woman or otherwise, there is no denying that the quality of our life and character will be significantly shaped by the way we handle our anger.\n2. Once the taboos have been broken, women usually experience letting their fists fly as intensely liberating.\n3. Though this might seem a stereotype, women—unlike men, who are frequently applauded for unbridled aggression—are often socialized to keep a lid on their ire.\n4. Many of them are so at odds with their aggressive feelings that, as a coach, I often have to stop them from pulling their punches and encourage them to extend their arms so their blows might actually reach their fleshy target.",
+      "options": null,
+      "answer": "3421",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 16.76,
+        "incorrect": 67.47,
+        "unattempted": 15.77
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-VARC/verbal-question-8.shtml",
+      "official_qid": "3328181482",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2025-s1-varc-09",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 1,
+      "section": "varc",
+      "number": 9,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2025-s1-varc-set2",
+      "question": "What relation does the \"communication problem\" mentioned in paragraph 2 have to the questions that the author recounts at the beginning of the passage?",
+      "options": [
+        "A) The communication problem is what allows us to see electronic music as music because music must be difficult to understand.",
+        "B) Unfamiliar forms and terms might get in the way of our seeing electronic music as music, but this can be overcome.",
+        "C) None; they are unrelated to one another and form parts of different discussions.",
+        "D) Its unfamiliar \"language of forms\" and novel terms mean that we cannot see electronic music as music since it does not employ traditional musical concepts."
+      ],
+      "answer": "B",
+      "answer_text": "Unfamiliar forms and terms might get in the way of our seeing electronic music as music, but this can be overcome.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 41.51,
+        "incorrect": 20.96,
+        "unattempted": 37.53
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-VARC/verbal-question-9.shtml",
+      "official_qid": "3328181311",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2025-s1-varc-10",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 1,
+      "section": "varc",
+      "number": 10,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2025-s1-varc-set2",
+      "question": "From the context in which it is placed, the phrase \"sui generis\" in paragraph 3 suggests which one of the following?",
+      "options": [
+        "A) Particular",
+        "B) Indescribable",
+        "C) Generic",
+        "D) Unaesthetic"
+      ],
+      "answer": "A",
+      "answer_text": "Particular",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 15.9,
+        "incorrect": 46.2,
+        "unattempted": 37.9
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-VARC/verbal-question-10.shtml",
+      "official_qid": "3328181308",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2025-s1-varc-11",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 1,
+      "section": "varc",
+      "number": 11,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2025-s1-varc-set2",
+      "question": "The goal of the author over the course of this passage is to:",
+      "options": [
+        "A) defend electronic music from certain common charges.",
+        "B) differentiate between electronic music and other forms of music.",
+        "C) defend the \"serious-minded composer\" from Lejaren Hill and Stravinsky.",
+        "D) differentiate the modern composer from the nineteenth century composer."
+      ],
+      "answer": "A",
+      "answer_text": "defend electronic music from certain common charges.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 43.1,
+        "incorrect": 22.58,
+        "unattempted": 34.32
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-VARC/verbal-question-11.shtml",
+      "official_qid": "3328181312",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2025-s1-varc-12",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 1,
+      "section": "varc",
+      "number": 12,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2025-s1-varc-set2",
+      "question": "The mention of Stravinsky's description of music in the first paragraph does all the following EXCEPT:",
+      "options": [
+        "A) help us determine which sounds are musical and which are not.",
+        "B) complicate our notion of what is communicated through music.",
+        "C) allow us to classify electronic music as music.",
+        "D) respond to and expand upon earlier understandings of music."
+      ],
+      "answer": "A",
+      "answer_text": "help us determine which sounds are musical and which are not.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 17.36,
+        "incorrect": 43.55,
+        "unattempted": 39.09
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-VARC/verbal-question-12.shtml",
+      "official_qid": "3328181310",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2025-s1-varc-13",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 1,
+      "section": "varc",
+      "number": 13,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "The given sentence is missing in the paragraph below. Decide where it best fits among the options 1, 2, 3, or 4 indicated in the paragraph.\n\nSentence: \"Everything is old-world, traditional techniques from Mexico,\" Ava emphasizes.\n\nParagraph: The sisters embrace the ways their great-grandfather built and repaired instruments. ____(1) ____. When crafting a Mexican guitarrón used in mariachi music, they use tacote wood for the top of the instrument. Once the wood is cut, they carve the neck and heel from a single block using tools like hand saws, chisels and sandpaper rather than modern power tools — and believe that this traditional method improves the tone of the instrument. ____(2) ____. Their store has a three-year waitlist for instruments that take months to create. ____(3) ____. The family's artisanship has attracted stars like Los Lobos, who own custom guitars made by all three generations of the Delgado family. ____(4) ____. For the sisters, involvement in the family business started at an early age. They each built their first instruments at age 9.",
+      "options": [
+        "A) Option 3",
+        "B) Option 4",
+        "C) Option 2",
+        "D) Option 1"
+      ],
+      "answer": "D",
+      "answer_text": "Option 1",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 27.9,
+        "incorrect": 46.54,
+        "unattempted": 25.56
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-VARC/verbal-question-13.shtml",
+      "official_qid": "3328181492",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2025-s1-varc-14",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 1,
+      "section": "varc",
+      "number": 14,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "The four sentences (labelled 1, 2, 3, and 4) given below, when properly sequenced, would yield a coherent paragraph. Decide on the proper sequencing of the order of the sentences and key in the sequence of the four numbers as your answer.\n\n1. It can in fact be integrated into any function (education, medical treatment, production, punishment); it can increase the effect of this function, by being linked closely with it; it can constitute a mixed mechanism in which relations of power (and of knowledge) may be precisely adjusted, in the smallest detail, to the processes that are to be supervised; it can establish a direct proportion between 'surplus power' and 'surplus production'.\n2. It's a case of 'it's easy once you've thought of it' in the political sphere.\n3. The panoptic mechanism is not simply a hinge, a point of exchange between a mechanism of power and a function; it is a way of making power relations function in a function, and of making a function function through these power relations.\n4. In short, it arranges things in such a way that the exercise of power is not added on from the outside, like a rigid, heavy constraint, to the functions it invests, but is so subtly present in them as to increase their efficiency by itself increasing its own points of contact.",
+      "options": null,
+      "answer": "2143",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 0.22,
+        "incorrect": 78.04,
+        "unattempted": 21.74
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-VARC/verbal-question-14.shtml",
+      "official_qid": "3328181610",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2025-s1-varc-15",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 1,
+      "section": "varc",
+      "number": 15,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "Five jumbled sentences (labelled 1, 2, 3, 4, and 5), related to a topic, are given below. Four of them can be put together to form a coherent paragraph. Identify the odd sentence out and key in the number of that sentence as your answer.\n\n1. Developments both technological and sociocultural have afforded us far greater freedom over death than we had in the past, and while we are still adapting ourselves to that freedom, we now appreciate the moral importance of this freedom.\n2. But I believe that a type of freedom we can call freedom over death – that is, a freedom in which we shape the timing and circumstances of how we die – should be central to this conversation.\n3. Legalising assisted dying is but a further step in realising this freedom over death.\n4. Many people endorse, through their opinions or their choices, our freedom over death encompassing a right to medical assistance in hastening our deaths.\n5. Freedom is a notoriously complex and contested philosophical notion, and I won't pretend to settle any of the big controversies it raises.",
+      "options": null,
+      "answer": "4",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 11.88,
+        "incorrect": 74.39,
+        "unattempted": 13.73
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-VARC/verbal-question-15.shtml",
+      "official_qid": "3328181143",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2025-s1-varc-16",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 1,
+      "section": "varc",
+      "number": 16,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "The passage given below is followed by four summaries. Choose the option that best captures the essence of the passage.\n\nIn the dynamic realm of creativity, artists often find themselves at the crossroads between drawing inspiration from diverse cultures and inadvertently crossing into the territory of cultural appropriation. Inspiration is the lifeblood of creativity, driving artists to create works that resonate across borders. The globalized nature of the modern world invites artists to draw from a vast array of cultural influences. When approached respectfully, inspiration becomes a bridge, fostering understanding and appreciation of cultural diversity. However, the line between inspiration and cultural appropriation can be thin and easily blurred. Cultural appropriation occurs when elements from a particular culture are borrowed without proper understanding, respect, or acknowledgment. This leads to the commodification of sacred symbols, the reinforcement of stereotypes, and the erasure of the cultural context from which these elements originated. It's essential to recognize that the impact of cultural appropriation extends beyond the realm of artistic expression, influencing societal perceptions and perpetuating power imbalances.",
+      "options": [
+        "A) Artists in a globalised world must navigate between drawing inspiration from diverse cultures respectfully and cultural appropriation that involves borrowing without proper acknowledgement which has broader societal impacts including perpetuating power imbalances.",
+        "B) In today's world of creativity, artists have to decide between respectfully acknowledging works that are inspired by diverse cultures and appropriating elements without respect for their contexts.",
+        "C) In a globalised world, artists must draw from diverse cultural influences to create works that appeal to all, and this results in instances of both inspiration and cultural appropriation.",
+        "D) Artists must navigate the thin line between inspiration and cultural appropriation, where respectful inspiration fosters cultural understanding whereas appropriation involves borrowing without acknowledgement leading to commodification and reinforcement of stereotypes."
+      ],
+      "answer": "A",
+      "answer_text": "Artists in a globalised world must navigate between drawing inspiration from diverse cultures respectfully and cultural appropriation that involves borrowing without proper acknowledgement which has broader societal impacts including perpetuating power imbalances.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 26.01,
+        "incorrect": 37.5,
+        "unattempted": 36.49
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-VARC/verbal-question-16.shtml",
+      "official_qid": "3328181179",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2025-s1-varc-17",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 1,
+      "section": "varc",
+      "number": 17,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2025-s1-varc-set3",
+      "question": "The passage refers to \"democratization\". Choose the one option below that comes closest to the opposite of this process.",
+      "options": [
+        "A) After the emergency decree, the regime shifted toward authoritarianism as suffrage narrowed and opposition parties were deregistered.",
+        "B) Corporate donations were capped and parties received public funding which was portrayed as establishing an oligarchy.",
+        "C) Municipalities adopted participatory budgeting and recall elections which a press release called totalitarianism.",
+        "D) The coalition imposed term limits and strengthened judicial review in order to further entrench autocratic rule."
+      ],
+      "answer": "A",
+      "answer_text": "After the emergency decree, the regime shifted toward authoritarianism as suffrage narrowed and opposition parties were deregistered.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 32.52,
+        "incorrect": 17.58,
+        "unattempted": 49.9
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-VARC/verbal-question-17.shtml",
+      "official_qid": "3328181587",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2025-s1-varc-18",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 1,
+      "section": "varc",
+      "number": 18,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2025-s1-varc-set3",
+      "question": "According to the incentive or moral hazard argument, which one of the designs below is most consistent with the claim that some inequality can raise growth?",
+      "options": [
+        "A) Rents protected by market power that enlarge top incomes without linking pay to results.",
+        "B) Wages are determined by tenure rather than output to ensure equity.",
+        "C) Pay rewards on verifiable performance for highly productive workers.",
+        "D) A regime that concentrates stock ownership in relation to corporate governance."
+      ],
+      "answer": "C",
+      "answer_text": "Pay rewards on verifiable performance for highly productive workers.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 44.95,
+        "incorrect": 19.42,
+        "unattempted": 35.63
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-VARC/verbal-question-18.shtml",
+      "official_qid": "3328181584",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2025-s1-varc-19",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 1,
+      "section": "varc",
+      "number": 19,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2025-s1-varc-set3",
+      "question": "The primary function of the three-part case for a positive income inequality–economic growth link in the first half of the passage is to show that:",
+      "options": [
+        "A) inequality can aid short-term growth in settings with high sunk costs, incentive alignment, and concentrated ownership.",
+        "B) inequality boosts growth in every period and type of economy, regardless of finance or governance conditions.",
+        "C) dispersed ownership speeds corporate decision-making and removes free rider problems.",
+        "D) mature stock markets make wealth concentration unnecessary, yet they might still be harmful to investment."
+      ],
+      "answer": "A",
+      "answer_text": "inequality can aid short-term growth in settings with high sunk costs, incentive alignment, and concentrated ownership.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 63.79,
+        "incorrect": 5.67,
+        "unattempted": 30.54
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-VARC/verbal-question-19.shtml",
+      "official_qid": "3328181583",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2025-s1-varc-20",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 1,
+      "section": "varc",
+      "number": 20,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2025-s1-varc-set3",
+      "question": "Which one of the options below best summarises the passage?",
+      "options": [
+        "A) The passage confines its discussion to financing gaps and corporate control while undercutting cross country evidence and overlooking the significance of concerns regarding human capital accumulation, fertility rates, and income redistribution under democratisation.",
+        "B) The passage argues that income inequality accelerates economic growth while also emphasising the significance of concerns regarding human capital accumulation, fertility rates, and political instability.",
+        "C) The passage outlines investment, incentive, and governance channels through which income inequality may support economic growth and reports short-term gains while noting long-term drawbacks.",
+        "D) The passage claims that evaluating the effect of income inequality on economic growth without considering both short- and long-term consequences is misguided."
+      ],
+      "answer": "C",
+      "answer_text": "The passage outlines investment, incentive, and governance channels through which income inequality may support economic growth and reports short-term gains while noting long-term drawbacks.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 35.98,
+        "incorrect": 31.88,
+        "unattempted": 32.14
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-VARC/verbal-question-20.shtml",
+      "official_qid": "3328181586",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2025-s1-varc-21",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 1,
+      "section": "varc",
+      "number": 21,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2025-s1-varc-set4",
+      "question": "Study the following sets of concepts and identify the set that is conceptually closest to the concerns and arguments of the passage.",
+      "options": [
+        "A) Judgement, Belief, Accounts, Patronage.",
+        "B) Empathy, Prosecution, Knowledge, Business.",
+        "C) Assessment, Empathy, Prosecution, Patriotism.",
+        "D) Judgement, Insanity, Punishment, Responsibility."
+      ],
+      "answer": "D",
+      "answer_text": "Judgement, Insanity, Punishment, Responsibility.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 46.4,
+        "incorrect": 14.57,
+        "unattempted": 39.03
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-VARC/verbal-question-21.shtml",
+      "official_qid": "3328181602",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2025-s1-varc-22",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 1,
+      "section": "varc",
+      "number": 22,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2025-s1-varc-set4",
+      "question": "\"Conversely, when a defendant struck officials as unlike themselves, whether by dint of disease, gender, confession, or race, the precariousness of judgments about mental state was exposed.\" Which one of the following best describes the use of the word \"confession\" in this sentence?",
+      "options": [
+        "A) The defendants struck out at the officials and then confessed to the act.",
+        "B) Referring to the practice of 'confession' in some faiths, here it is a metaphor for the religion of the defendant.",
+        "C) Referring to the defendant's confession of his or her crime as false, because 'dint' is an archaic form of 'didn't' or 'did not'.",
+        "D) Referring to the gender, race or disease claimed as a defence by the defendant, here it is a synonym for 'professing' a gender, race, or disease."
+      ],
+      "answer": "B",
+      "answer_text": "Referring to the practice of 'confession' in some faiths, here it is a metaphor for the religion of the defendant.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 28.23,
+        "incorrect": 24.13,
+        "unattempted": 47.64
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-VARC/verbal-question-22.shtml",
+      "official_qid": "3328181600",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2025-s1-varc-23",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 1,
+      "section": "varc",
+      "number": 23,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2025-s1-varc-set4",
+      "question": "The last paragraph of the passage refers to \"middle-class, white, professional men\". Which one of the following qualities best describes the connection among them?",
+      "options": [
+        "A) Eccentricity and aggression.",
+        "B) Empathy and imagination.",
+        "C) The borders of criminal responsibility.",
+        "D) The opinions of family and neighbours."
+      ],
+      "answer": "C",
+      "answer_text": "The borders of criminal responsibility.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 28.0,
+        "incorrect": 36.01,
+        "unattempted": 35.99
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-VARC/verbal-question-23.shtml",
+      "official_qid": "3328181599",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2025-s1-varc-24",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 1,
+      "section": "varc",
+      "number": 24,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2025-s1-varc-set4",
+      "question": "According to the passage, who or what was an \"alienist\"?",
+      "options": [
+        "A) Physicians who specialised in the study of madness and the care of the insane in the nineteenth century.",
+        "B) Professionals who pushed the boundaries of their fields till they became unrecognisable in the nineteenth century.",
+        "C) Physicians and lawyers who were responsible for the condition of immigrants or 'aliens' in the nineteenth century.",
+        "D) Physicians and lawyers who were responsible for examining accounts of extraterrestrials or 'aliens' in the nineteenth century."
+      ],
+      "answer": "A",
+      "answer_text": "Physicians who specialised in the study of madness and the care of the insane in the nineteenth century.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 63.82,
+        "incorrect": 6.47,
+        "unattempted": 29.71
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-VARC/verbal-question-24.shtml",
+      "official_qid": "3328181601",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": false
+    }
+  ]
+}

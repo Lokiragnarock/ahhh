@@ -1,0 +1,1062 @@
+{
+  "exam": "CAT",
+  "year": 2019,
+  "slot": 1,
+  "section": "dilr",
+  "source": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/",
+  "licence": "Real CAT questions (c) IIMs, as re-published free by 2IIM (c) 2IIM. Private study use in AHH only; do not republish.",
+  "scraped": "2026-10-31",
+  "count": 32,
+  "sets": [
+    {
+      "id": "cat-2019-s1-dilr-set1",
+      "text": "A new game show on TV has 100 boxes numbered 1, 2, ....., 100 in a row, each containing a mystery prize. The prizes are items of different types, a, b, c, ....., in decreasing order of value. The most expensive item is of type a, a diamond ring, and there is exactly one of these. You are told that the number of items at least doubles as you move to the next type. For example, there would be at least twice as many items of type b as of type a, at least twice as many items of type c as of type b and so on. There is no particular order in which the prizes are placed in the boxes"
+    },
+    {
+      "id": "cat-2019-s1-dilr-set2",
+      "text": "The figure below shows the street map for a certain region with the street intersections marked from a through l. A person standing at an intersection can see along straight lines to other intersections that are in her line of sight and all other people standing at these intersections. For example, a person standing at intersection g can see all people standing at intersections b, c, e, f, h, and k. In particular, the person standing at intersection g can see the person standing at intersection e irrespective of whether there is a person standing at intersection f.\n\n![CAT DI LR 2019 Slot 1](img/2019-s1-dilr/Street-intersection-1.png)\n\nSix people U, V, W, X, Y, and Z, are standing at different intersections. No two people are standing at the same intersection.\nThe following additional facts are known.\n1. X, U, and Z are standing at the three corners of a triangle formed by three street segments.\n2. X can see only U and Z.\n3. Y can see only U and W.\n4. U sees V standing in the next intersection behind Z.\n5. W cannot see V or Z.\n6. No one among the six is standing at intersection d."
+    },
+    {
+      "id": "cat-2019-s1-dilr-set3",
+      "text": "The Ministry of Home Affairs is analysing crimes committed by foreigners in different states and union territories (UT) of India. All cases refer to the ones registered against foreigners in 2016. The number of cases – classified into three categories: IPC crimes, SLL crimes and other crimes – for nine states/UTs are shown in the figure below. These nine belong to the top ten states/UTs in terms of the total number of cases registered. The remaining state (among top ten) is West Bengal, where all the 520 cases registered were SLL crimes.\n\n![CAT DI LR 2019 Slot 1](img/2019-s1-dilr/Crimes-1.png)\n\nThe table below shows the ranks of the ten states/UTs mentioned above among ALL states/UTs of India in terms of the number of cases registered in each of the three category of crimes. A state/UT is given rank r for a category of crimes if there are (r‐1) states/UTs having a larger number of cases registered in that category of crimes. For example, if two states have the same number of cases in a category, and exactly three other states/UTs have larger numbers of cases registered in the same category, then both the states are given rank 4 in that category. Missing ranks in the table are denoted by <sup>*</sup>\n\n![CAT DI LR 2019 Slot 1](img/2019-s1-dilr/Crimes-2.png)"
+    },
+    {
+      "id": "cat-2019-s1-dilr-set4",
+      "text": "Five vendors are being considered for a service. The evaluation committee evaluated each vendor on six aspects – Cost, Customer Service, Features, Quality, Reach, and Reliability. Each of these evaluations are on a scale of 0 (worst) to 100 (perfect). The evaluation scores on these aspects are shown in the radar chart. For example, Vendor 1 obtains a score of 52 on Reliability, Vendor 2 obtains a score of 45 on Features and Vendor 3 obtains a score of 90 on Cost\n\n![CAT DI LR 2019 Slot 1](img/2019-s1-dilr/Vendor-1.png)"
+    },
+    {
+      "id": "cat-2019-s1-dilr-set5",
+      "text": "A supermarket has to place 12 items (coded A to L) in shelves numbered 1 to 16. Five of these items are types of biscuits, three are types of candies and the rest are types of savouries. Only one item can be kept in a shelf. Items are to be placed such that all items of same type are clustered together with no empty shelf between items of the same type and at least one empty shelf between two different types of items. At most two empty shelves can have consecutive numbers.\n\nThe following additional facts are known.\n1. A and B are to be placed in consecutively numbered shelves in increasing order.\n2. I and J are to be placed in consecutively numbered shelves both higher numbered than the shelves in which A and B are kept.\n3. D, E and F are savouries and are to be placed in consecutively numbered shelves in increasing order after all the biscuits and candies.\n4. K is to be placed in shelf number 16.\n5. L and J are items of the same type, while H is an item of a different type.\n6. C is a candy and is to be placed in a shelf preceded by two empty shelves.\n7. L is to be placed in a shelf preceded by exactly one empty shelf."
+    },
+    {
+      "id": "cat-2019-s1-dilr-set6",
+      "text": "Six players – Tanzi, Umeza, Wangdu, Xyla, Yonita and Zeneca competed in an archery tournament. The tournament had three compulsory rounds, Rounds 1 to 3. In each round every player shot an arrow at a target. Hitting the centre of the target (called bull’s eye) fetched the highest score of 5. The only other possible scores that a player could achieve were 4, 3, 2 and 1. Every bull’s eye score in the first three rounds gave a player one additional chance to shoot in the bonus rounds, Rounds 4 to 6. The possible scores in Rounds 4 to 6 were identical to the first three.\nA player’s total score in the tournament was the sum of his/her scores in all rounds played by him/her. The table below presents partial information on points scored by the players after completion of the tournament. In the table, NP means that the player did not participate in that round, while a hyphen means that the player participated in that round and the score information is missing\n\n![CAT DI LR 2019 Slot 1](img/2019-s1-dilr/Archery-1.png)\n\nThe following facts are also known.\n1.Tanzi, Umeza and Yonita had the same total score.\n2.Total scores for all players, except one, were in multiples of three.\n3.The highest total score was one more than double of the lowest total score.\n4.The number of players hitting bull’s eye in Round 2 was double of that in Round 3. 5.Tanzi and Zeneca had the same score in Round 1 but different scores in Round 3."
+    },
+    {
+      "id": "cat-2019-s1-dilr-set7",
+      "text": "The following table represents addition of two six-digit numbers given in the first and the second rows, while the sum is given in the third row. In the representation, each of the digits 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 has been coded with one letter among A, B, C, D, E, F, G, H, J, K, with distinct letters representing distinct digits.\n\n![CAT DI LR 2019 Slot 1](img/2019-s1-dilr/Letter-coding-1.png)"
+    },
+    {
+      "id": "cat-2019-s1-dilr-set8",
+      "text": "Princess, Queen, Rani and Samragni were the four finalists in a dance competition. Ashman, Badal, Gagan and Dyu were the four music composers who individually assigned items to the dancers. Each dancer had to individually perform in two dance items assigned by the different composers. The first items performed by the four dancers were all assigned by different music composers. No dancer performed her second item before the performance of the first item by any other dancers. The dancers performed their second items in the same sequence of their performance of their first items.\nThe following additional facts are known.\ni) No composer who assigned item to Princess, assigned any item to Queen.\nii) No composer who assigned item to Rani, assigned any item to Samragni.\niii) The first performance was by Princess; this item was assigned by Badal.\niv) The last performance was by Rani; this item was assigned by Gagan.\nv) The items assigned by Ashman were performed consecutively. The number of performances between items assigned by each of the remaining composers was the same."
+    }
+  ],
+  "questions": [
+    {
+      "id": "cat-2019-s1-dilr-01",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 1,
+      "section": "dilr",
+      "number": 1,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2019-s1-dilr-set1",
+      "question": "What is the minimum possible number of different types of prizes? ? (TITA)",
+      "options": null,
+      "answer": "2",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/dilr-question-1.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2019-s1-dilr-02",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 1,
+      "section": "dilr",
+      "number": 2,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2019-s1-dilr-set1",
+      "question": "What is the maximum possible number of different types of prizes? ? (TITA)",
+      "options": null,
+      "answer": "6",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/dilr-question-2.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2019-s1-dilr-03",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 1,
+      "section": "dilr",
+      "number": 3,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2019-s1-dilr-set1",
+      "question": "Which of the following is not possible?",
+      "options": [
+        "A) There are exactly 30 items of type b.",
+        "B) There are exactly 75 items of type e.",
+        "C) There are exactly 60 items of type d.",
+        "D) There are exactly 45 items of type c."
+      ],
+      "answer": "D",
+      "answer_text": "There are exactly 45 items of type c.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/dilr-question-3.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2019-s1-dilr-04",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 1,
+      "section": "dilr",
+      "number": 4,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2019-s1-dilr-set1",
+      "question": "You ask for the type of item in box 45. Instead of being given a direct answer, you are told that there are 31 items of the same type as box 45 in boxes 1 to 44 and 43 items of the same type as box 45 in boxes 46 to 100. What is the maximum possible number of different types of items?",
+      "options": [
+        "A) 5",
+        "B) 6",
+        "C) 3",
+        "D) 4"
+      ],
+      "answer": "A",
+      "answer_text": "5",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/dilr-question-4.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2019-s1-dilr-05",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 1,
+      "section": "dilr",
+      "number": 5,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2019-s1-dilr-set2",
+      "question": "Who is standing at intersection a?",
+      "options": [
+        "A) W",
+        "B) Y",
+        "C) No one",
+        "D) V"
+      ],
+      "answer": "C",
+      "answer_text": "No one",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/dilr-question-5.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2019-s1-dilr-06",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 1,
+      "section": "dilr",
+      "number": 6,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2019-s1-dilr-set2",
+      "question": "Who can V see?",
+      "options": [
+        "A) U, W and Z only",
+        "B) U and Z only",
+        "C) Z only",
+        "D) U only"
+      ],
+      "answer": "B",
+      "answer_text": "U and Z only",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/dilr-question-6.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2019-s1-dilr-07",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 1,
+      "section": "dilr",
+      "number": 7,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2019-s1-dilr-set2",
+      "question": "What is the minimum number of street segments that X must cross to reach Y?",
+      "options": [
+        "A) 3",
+        "B) 2",
+        "C) 1",
+        "D) 4"
+      ],
+      "answer": "B",
+      "answer_text": "2",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/dilr-question-7.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2019-s1-dilr-08",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 1,
+      "section": "dilr",
+      "number": 8,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2019-s1-dilr-set2",
+      "question": "Should a new person stand at intersection d, who among the six would she see?",
+      "options": [
+        "A) V and X only",
+        "B) U and Z only",
+        "C) U and W only",
+        "D) W and X only"
+      ],
+      "answer": "D",
+      "answer_text": "W and X only",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/dilr-question-8.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2019-s1-dilr-09",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 1,
+      "section": "dilr",
+      "number": 9,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2019-s1-dilr-set3",
+      "question": "What is the rank of Kerala in the ‘IPC crimes’ category? (TITA)",
+      "options": null,
+      "answer": "5",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/dilr-question-9.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2019-s1-dilr-10",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 1,
+      "section": "dilr",
+      "number": 10,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2019-s1-dilr-set3",
+      "question": "In the two states where the highest total number of cases are registered, the ratio of the total number of cases in IPC crimes to the total number in SLL crimes is closest to Ans :",
+      "options": [
+        "A) 19 : 20",
+        "B) 11 : 10",
+        "C) 1 : 9",
+        "D) 3 : 2"
+      ],
+      "answer": "C",
+      "answer_text": "1 : 9",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/dilr-question-10.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2019-s1-dilr-11",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 1,
+      "section": "dilr",
+      "number": 11,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2019-s1-dilr-set3",
+      "question": "Which of the following is DEFINITELY true about the ranks of states/UT in the ‘other crimes’ category?\ni) Tamil Nadu: 2\nii) Puducherry: 3",
+      "options": [
+        "A) only ii)",
+        "B) both i) and ii)",
+        "C) only i)",
+        "D) neither i), nor ii)"
+      ],
+      "answer": "B",
+      "answer_text": "both i) and ii)",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/dilr-question-11.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2019-s1-dilr-12",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 1,
+      "section": "dilr",
+      "number": 12,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2019-s1-dilr-set3",
+      "question": "What is the sum of the ranks of Delhi in the three categories of crimes? (TITA)",
+      "options": null,
+      "answer": "5",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/dilr-question-12.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2019-s1-dilr-13",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 1,
+      "section": "dilr",
+      "number": 13,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2019-s1-dilr-set4",
+      "question": "On which aspect is the median score of the five vendors the least?",
+      "options": [
+        "A) Cost",
+        "B) Quality",
+        "C) Reliability",
+        "D) Customer Service"
+      ],
+      "answer": "D",
+      "answer_text": "Customer Service",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/dilr-question-13.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2019-s1-dilr-14",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 1,
+      "section": "dilr",
+      "number": 14,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2019-s1-dilr-set4",
+      "question": "A vendor's final score is the average of their scores on all six aspects. Which vendor has the highest final score?",
+      "options": [
+        "A) Vendor 1",
+        "B) Vendor 3",
+        "C) Vendor 4",
+        "D) Vendor 2"
+      ],
+      "answer": "B",
+      "answer_text": "Vendor 3",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/dilr-question-14.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2019-s1-dilr-15",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 1,
+      "section": "dilr",
+      "number": 15,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2019-s1-dilr-set4",
+      "question": "List of all the vendors who are among the top two scorers on the maximum number of aspects is:",
+      "options": [
+        "A) Vendor 1 and Vendor 2",
+        "B) Vendor 2, Vendor 3 and Vendor 4",
+        "C) Vendor 2 and Vendor 5",
+        "D) Vendor 1 and Vendor 5"
+      ],
+      "answer": "D",
+      "answer_text": "Vendor 1 and Vendor 5",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/dilr-question-15.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2019-s1-dilr-16",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 1,
+      "section": "dilr",
+      "number": 16,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2019-s1-dilr-set4",
+      "question": "List of all the vendors who are among the top three vendors on all six aspects is:",
+      "options": [
+        "A) None of the Vendors",
+        "B) Vendor 1",
+        "C) Vendor 1 and Vendor 3",
+        "D) Vendor 3"
+      ],
+      "answer": "D",
+      "answer_text": "Vendor 3",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/dilr-question-16.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2019-s1-dilr-17",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 1,
+      "section": "dilr",
+      "number": 17,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2019-s1-dilr-set5",
+      "question": "In how many different ways can the items be arranged on the shelves?",
+      "options": [
+        "A) 2",
+        "B) 1",
+        "C) 4",
+        "D) 8"
+      ],
+      "answer": "D",
+      "answer_text": "8",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/dilr-question-17.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2019-s1-dilr-18",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 1,
+      "section": "dilr",
+      "number": 18,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2019-s1-dilr-set5",
+      "question": "Which of the following items is not a type of biscuit?",
+      "options": [
+        "A) B",
+        "B) A",
+        "C) L",
+        "D) G"
+      ],
+      "answer": "D",
+      "answer_text": "G",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/dilr-question-18.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2019-s1-dilr-19",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 1,
+      "section": "dilr",
+      "number": 19,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2019-s1-dilr-set5",
+      "question": "Which of the following can represent the numbers of the empty shelves in a possible arrangement?",
+      "options": [
+        "A) 1,7,11,12",
+        "B) 1,5,6,12",
+        "C) 1,2,6,12",
+        "D) 1,2,8,12"
+      ],
+      "answer": "C",
+      "answer_text": "1,2,6,12",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/dilr-question-19.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2019-s1-dilr-20",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 1,
+      "section": "dilr",
+      "number": 20,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2019-s1-dilr-set5",
+      "question": "Which of the following statements is necessarily true?",
+      "options": [
+        "A) There are two empty shelves between the biscuits and the candies.",
+        "B) All candies are kept before biscuits.",
+        "C) All biscuits are kept before candies",
+        "D) There are at least four shelves between items B and C."
+      ],
+      "answer": "D",
+      "answer_text": "There are at least four shelves between items B and C.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/dilr-question-20.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2019-s1-dilr-21",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 1,
+      "section": "dilr",
+      "number": 21,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2019-s1-dilr-set6",
+      "question": "What was the highest total score?",
+      "options": [
+        "A) 23",
+        "B) 24",
+        "C) 25",
+        "D) 21"
+      ],
+      "answer": "C",
+      "answer_text": "25",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/dilr-question-21.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2019-s1-dilr-22",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 1,
+      "section": "dilr",
+      "number": 22,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2019-s1-dilr-set6",
+      "question": "What was Zeneca's total score?",
+      "options": [
+        "A) 21",
+        "B) 22",
+        "C) 23",
+        "D) 24"
+      ],
+      "answer": "D",
+      "answer_text": "24",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/dilr-question-22.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2019-s1-dilr-23",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 1,
+      "section": "dilr",
+      "number": 23,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2019-s1-dilr-set6",
+      "question": "Which of the following statements is true?",
+      "options": [
+        "A) Zeneca’s score was 23.",
+        "B) Zeneca was the highest scorer",
+        "C) Xyla was the highest scorer.",
+        "D) Xyla’s score was 23"
+      ],
+      "answer": "C",
+      "answer_text": "Xyla was the highest scorer.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/dilr-question-23.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2019-s1-dilr-24",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 1,
+      "section": "dilr",
+      "number": 24,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2019-s1-dilr-set6",
+      "question": "What was Tanzi's score in Round 3?",
+      "options": [
+        "A) 1",
+        "B) 5",
+        "C) 3",
+        "D) 4"
+      ],
+      "answer": "A",
+      "answer_text": "1",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/dilr-question-24.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2019-s1-dilr-25",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 1,
+      "section": "dilr",
+      "number": 25,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2019-s1-dilr-set7",
+      "question": "Which digit does the letter A represent?(TITA)",
+      "options": null,
+      "answer": "1",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/dilr-question-25.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2019-s1-dilr-26",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 1,
+      "section": "dilr",
+      "number": 26,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2019-s1-dilr-set7",
+      "question": "Which digit does the letter B represent? (TITA)",
+      "options": null,
+      "answer": "9",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/dilr-question-26.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2019-s1-dilr-27",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 1,
+      "section": "dilr",
+      "number": 27,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2019-s1-dilr-set7",
+      "question": "Which among the digits 3, 4, 6 and 7 cannot be represented by the letter D? (TITA)",
+      "options": null,
+      "answer": "7",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/dilr-question-27.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2019-s1-dilr-28",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 1,
+      "section": "dilr",
+      "number": 28,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2019-s1-dilr-set7",
+      "question": "Which among the digits 4, 6, 7 and 8 cannot be represented by the letter G? (TITA)",
+      "options": null,
+      "answer": "6",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/dilr-question-28.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2019-s1-dilr-29",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 1,
+      "section": "dilr",
+      "number": 29,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2019-s1-dilr-set8",
+      "question": "Which of the following is true?",
+      "options": [
+        "A) The third performance was composed by Ashman.",
+        "B) The second performance was composed by Dyu.",
+        "C) The second performance was composed by Gagan.",
+        "D) The third performance was composed by Dyu."
+      ],
+      "answer": "B",
+      "answer_text": "The second performance was composed by Dyu.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/dilr-question-29.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2019-s1-dilr-30",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 1,
+      "section": "dilr",
+      "number": 30,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2019-s1-dilr-set8",
+      "question": "Which of the following is FALSE?",
+      "options": [
+        "A) Queen did not perform in any item composed by Gagan.",
+        "B) Rani did not perform in any item composed by Badal.",
+        "C) Samragni did not perform in any item composed by Ashman.",
+        "D) Princess did not perform in any item composed by Dyu."
+      ],
+      "answer": "A",
+      "answer_text": "Queen did not perform in any item composed by Gagan.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/dilr-question-30.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2019-s1-dilr-31",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 1,
+      "section": "dilr",
+      "number": 31,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2019-s1-dilr-set8",
+      "question": "The sixth performance was composed by:",
+      "options": [
+        "A) Gagan",
+        "B) Ashman",
+        "C) Badal",
+        "D) Dyu"
+      ],
+      "answer": "C",
+      "answer_text": "Badal",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/dilr-question-31.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2019-s1-dilr-32",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 1,
+      "section": "dilr",
+      "number": 32,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2019-s1-dilr-set8",
+      "question": "Which pair of performances were composed by the same composer?",
+      "options": [
+        "A) The third and the seventh",
+        "B) The first and the seventh",
+        "C) The first and the sixth",
+        "D) The second and the sixth"
+      ],
+      "answer": "C",
+      "answer_text": "The first and the sixth",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/dilr-question-32.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    }
+  ]
+}

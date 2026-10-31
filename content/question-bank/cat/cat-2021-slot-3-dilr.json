@@ -1,0 +1,745 @@
+{
+  "exam": "CAT",
+  "year": 2021,
+  "slot": 3,
+  "section": "dilr",
+  "source": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-DILR/",
+  "licence": "Real CAT questions (c) IIMs, as re-published free by 2IIM (c) 2IIM. Private study use in AHH only; do not republish.",
+  "scraped": "2026-10-31",
+  "count": 20,
+  "sets": [
+    {
+      "id": "cat-2021-s3-dilr-set1",
+      "text": "Three reviewers Amal, Bimal, and Komal are tasked with selecting questions from a pool of 13 questions (Q01 to Q13). Questions can be created by external \"subject matter experts\" (SMEs) or by one of the three reviewers. Each of the reviewers either approves or disapproves a question that is shown to them. Their decisions lead to eventual acceptance or rejection of the question in the manner described below.\n\nIf a question is created by an SME, it is reviewed first by Amal, and then by Bimal. If both of them approve the question, then the question is accepted and is not reviewed by Komal. If both disapprove the question, it is rejected and is not reviewed by Komal. If one of them approves the question and the other disapproves it, then the question is reviewed by Komal. Then the question is accepted only if she approves it.\n\nA question created by one of the reviewers is decided upon by the other two. If a question is created by Amal, then it is first reviewed by Bimal. If Bimal approves the question, then it is accepted. Otherwise, it is reviewed by Komal. The question is then accepted only if Komal approves it. A similar process is followed for questions created by Bimal, whose questions are first reviewed by Komal, and then by Amal only if Komal disapproves it. Questions created by Komal are first reviewed by Amal, and then, if required, by Bimal.\n\nThe following facts are known about the review process after its completion.\n\n1. Q02, Q06, Q09, Q11, and Q12 were rejected and the other questions were accepted.\n2. Amal reviewed only Q02, Q03, Q04, Q06, Q08, Q10, Q11, and Q13.\n3. Bimal reviewed only Q02, Q04, Q06 through Q09, Q12, and Q13.\n4. Komal reviewed only Q01 through Q05, Q07, Q08, Q09, Q11, and Q12."
+    },
+    {
+      "id": "cat-2021-s3-dilr-set2",
+      "text": "10 players – P1, P2, … , P10 - competed in an international javelin throw event. The number (after P) of a player reflects his rank at the beginning of the event, with rank 1 going to the topmost player. There were two phases in the event with the first phase consisting of rounds 1, 2, and 3, and the second phase consisting of rounds 4, 5, and 6. A throw is measured in terms of the distance it covers (in meters, up to one decimal point accuracy), only if the throw is a 'valid' one. For an invalid throw, the distance is taken as zero. A player's score at the end of a round is the maximum distance of all his throws up to that round. Players are re-ranked after every round based on their current scores. In case of a tie in scores, the player with a prevailing higher rank retains the higher rank. This ranking determines the order in which the players go for their throws in the next round.\n\nIn each of the rounds in the first phase, the players throw in increasing order of their latest rank, i.e. the player ranked 1 at that point throws first, followed by the player ranked 2 at that point and so on. The top six players at the end of the first phase qualify for the second phase. In each of the rounds in the second phase, the players throw in decreasing order of their latest rank i.e. the player ranked 6 at that point throws first, followed by the player ranked 5 at that point and so on. The players ranked 1, 2, and 3 at the end of the sixth round receive gold, silver, and bronze medals respectively.\n\nAll the valid throws of the event were of distinct distances (as per stated measurement accuracy). The tables below show distances (in meters) covered by all valid throws in the first and the third round in the event.\n\nDistances covered by all the valid throws in the first round\n\n| Player | Distance (in m) |\n|---|---|\n| P1 | 82.9 |\n| P3 | 81.5 |\n| P5 | 86.4 |\n| P6 | 82.5 |\n| P7 | 87.2 |\n| P9 | 84.1 |\n\n| Player | Distance (in m) |\n|---|---|\n| P1 | 88.6 |\n| P3 | 79.0 |\n| P9 | 81.4 |"
+    },
+    {
+      "id": "cat-2021-s3-dilr-set3",
+      "text": "![figure](img/2021-s3-dilr/756_489168_0_1011660_4103_psg.jpg)\n\nThe figure above shows the schedule of four employees – Abani, Bahni, Danni and Tinni – whom Dhoni supervised in 2020. Altogether there were five projects which started and concluded in 2020 in which they were involved. For each of these projects and for each employee, the starting day was at the beginning of a month and the concluding day was the end of a month, and these are indicated by the left and right end points of the corresponding horizontal bars. The number within each bar indicates the percentage of assigned work completed by the employee for that project, as assessed by Dhoni.\n\nFor each employee, his/her total project-month (in 2020) is the sum of the number of months (s)he worked across the five project, while his/her annual completion index is the weightage average of the completion percentage assigned from the different projects, with the weights being the corresponding number of months (s)he worked in these projects. For each project, the total employee-month is the sum of the number of months four employees worked in this project, while its completion index is the weightage average of the completion percentage assigned for the employees who worked in this project, with the weights being the corresponding number of months they worked in this project."
+    },
+    {
+      "id": "cat-2021-s3-dilr-set4",
+      "text": "Each of the bottles mentioned in this question contains 50 ml of liquid. The liquid in any bottle can be 100% pure content (P) or can have certain amount of impurity (I). Visually it is not possible to distinguish between P and I. There is a testing device which detects impurity, as long as the percentage of impurity in the content tested is 10% or more.\n\nFor example, suppose bottle 1 contains only P, and bottle 2 contains 80% P and 20% I. If content from bottle 1 is tested, it will be found out that it contains only P. If content of bottle 2 is tested, the test will reveal that it contains some amount of I. If 10 ml of content from bottle 1 is mixed with 20 ml content from bottle 2, the test will show that the mixture has impurity, and hence we can conclude that at least one of the two bottles has I. However, if 10 ml of content from bottle 1 is mixed with 5 ml of content from bottle 2. the test will not detect any impurity in the resultant mixture."
+    }
+  ],
+  "questions": [
+    {
+      "id": "cat-2021-s3-dilr-01",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 3,
+      "section": "dilr",
+      "number": 1,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2021-s3-dilr-set1",
+      "question": "How many questions were DEFINITELY created by Amal?",
+      "options": null,
+      "answer": "3",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 46.2,
+        "incorrect": 40.16,
+        "unattempted": 13.64
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-DILR/dilr-question-1.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2021-s3-dilr-02",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 3,
+      "section": "dilr",
+      "number": 2,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2021-s3-dilr-set1",
+      "question": "How many questions were DEFINITELY created by Komal?",
+      "options": null,
+      "answer": "1",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 30.23,
+        "incorrect": 55.63,
+        "unattempted": 14.14
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-DILR/dilr-question-2.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2021-s3-dilr-03",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 3,
+      "section": "dilr",
+      "number": 3,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2021-s3-dilr-set1",
+      "question": "How many questions were DEFINITELY created by the SMEs?",
+      "options": null,
+      "answer": "3",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 35.95,
+        "incorrect": 48.29,
+        "unattempted": 15.76
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-DILR/dilr-question-3.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2021-s3-dilr-04",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 3,
+      "section": "dilr",
+      "number": 4,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2021-s3-dilr-set1",
+      "question": "How many questions were DEFINITELY disapproved by Bimal?",
+      "options": [
+        "A) 3",
+        "B) 7",
+        "C) 4",
+        "D) 5"
+      ],
+      "answer": "C",
+      "answer_text": "4",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 31.52,
+        "incorrect": 31.59,
+        "unattempted": 36.89
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-DILR/dilr-question-4.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2021-s3-dilr-05",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 3,
+      "section": "dilr",
+      "number": 5,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2021-s3-dilr-set1",
+      "question": "The approval ratio of a reviewer is the ratio of the number of questions (s)he approved to the number of questions (s)he reviewed. Which option best describes Amal's approval ratio?",
+      "options": [
+        "A) lies between 0.25 and 0.75",
+        "B) either 0.25 or 0.75",
+        "C) lies between 0.25 and 0.50",
+        "D) 0.25"
+      ],
+      "answer": "A",
+      "answer_text": "lies between 0.25 and 0.75",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 29.83,
+        "incorrect": 15.58,
+        "unattempted": 54.59
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-DILR/dilr-question-5.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2021-s3-dilr-06",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 3,
+      "section": "dilr",
+      "number": 6,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2021-s3-dilr-set1",
+      "question": "How many questions created by Amal or Bimal were disapproved by at least one of the other reviewers?",
+      "options": [
+        "A) 5",
+        "B) 4",
+        "C) 7",
+        "D) 2"
+      ],
+      "answer": "A",
+      "answer_text": "5",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 25.44,
+        "incorrect": 22.02,
+        "unattempted": 52.54
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-DILR/dilr-question-6.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2021-s3-dilr-07",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 3,
+      "section": "dilr",
+      "number": 7,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2021-s3-dilr-set2",
+      "question": "Which two players got the double?",
+      "options": [
+        "A) P1, P10",
+        "B) P2, P4",
+        "C) P1, P8",
+        "D) P8, P10"
+      ],
+      "answer": "D",
+      "answer_text": "P8, P10",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 4.28,
+        "incorrect": 9.9,
+        "unattempted": 85.82
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-DILR/dilr-question-7.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2021-s3-dilr-08",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 3,
+      "section": "dilr",
+      "number": 8,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2021-s3-dilr-set2",
+      "question": "Who won the silver medal?",
+      "options": [
+        "A) P1",
+        "B) P9",
+        "C) P7",
+        "D) P5"
+      ],
+      "answer": "A",
+      "answer_text": "P1",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 3.24,
+        "incorrect": 11.37,
+        "unattempted": 85.39
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-DILR/dilr-question-8.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2021-s3-dilr-09",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 3,
+      "section": "dilr",
+      "number": 9,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2021-s3-dilr-set2",
+      "question": "Who threw the last javelin in the event?",
+      "options": [
+        "A) P1",
+        "B) P7",
+        "C) P9",
+        "D) P10"
+      ],
+      "answer": "B",
+      "answer_text": "P7",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 2.63,
+        "incorrect": 9.61,
+        "unattempted": 87.76
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-DILR/dilr-question-9.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2021-s3-dilr-10",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 3,
+      "section": "dilr",
+      "number": 10,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2021-s3-dilr-set2",
+      "question": "What was the final score (in m) of the silver-medalist?",
+      "options": [
+        "A) 89.6",
+        "B) 87.2",
+        "C) 88.4",
+        "D) 88.6"
+      ],
+      "answer": "D",
+      "answer_text": "88.6",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 5.69,
+        "incorrect": 6.37,
+        "unattempted": 87.94
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-DILR/dilr-question-10.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2021-s3-dilr-11",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 3,
+      "section": "dilr",
+      "number": 11,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2021-s3-dilr-set2",
+      "question": "Which of the following can be the final score (in m) of P8?",
+      "options": [
+        "A) 0",
+        "B) 82.7",
+        "C) 81.9",
+        "D) 85.1"
+      ],
+      "answer": "B",
+      "answer_text": "82.7",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 1.94,
+        "incorrect": 9.25,
+        "unattempted": 88.81
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-DILR/dilr-question-11.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2021-s3-dilr-12",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 3,
+      "section": "dilr",
+      "number": 12,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2021-s3-dilr-set2",
+      "question": "By how much did the gold medalist improve his score (in m) in the second phase?",
+      "options": [
+        "A) 1.2",
+        "B) 2.0",
+        "C) 2.4",
+        "D) 1.0"
+      ],
+      "answer": "C",
+      "answer_text": "2.4",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 2.7,
+        "incorrect": 6.08,
+        "unattempted": 91.22
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-DILR/dilr-question-12.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2021-s3-dilr-13",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 3,
+      "section": "dilr",
+      "number": 13,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2021-s3-dilr-set3",
+      "question": "Which of the following statements is/are true?\n\nI: The total project-month was the same for the four employees.\nII: The total employee-month was the same for the five projects.",
+      "options": [
+        "A) Neither I nor II",
+        "B) Only II",
+        "C) Both I and II",
+        "D) Only I"
+      ],
+      "answer": "D",
+      "answer_text": "Only I",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 48.87,
+        "incorrect": 21.48,
+        "unattempted": 29.65
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-DILR/dilr-question-13.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2021-s3-dilr-14",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 3,
+      "section": "dilr",
+      "number": 14,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2021-s3-dilr-set3",
+      "question": "Which employees did not work in multiple projects for any of the months in 2020?",
+      "options": [
+        "A) Only Abani and Bahni",
+        "B) All four of them",
+        "C) Only Tinni",
+        "D) Only Abani, Bahni and Danni"
+      ],
+      "answer": "D",
+      "answer_text": "Only Abani, Bahni and Danni",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 54.52,
+        "incorrect": 19.79,
+        "unattempted": 25.69
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-DILR/dilr-question-14.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2021-s3-dilr-15",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 3,
+      "section": "dilr",
+      "number": 15,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2021-s3-dilr-set3",
+      "question": "The project duration, measured in terms of the number of months, is the time during which at least one employee worked in the project. Which of the following pairs of the projects had the same duration?",
+      "options": [
+        "A) Project 3, Project 5",
+        "B) Project 1, Project 5",
+        "C) Project 4, Project 5",
+        "D) Project 3, Project 4"
+      ],
+      "answer": "D",
+      "answer_text": "Project 3, Project 4",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 46.1,
+        "incorrect": 24.33,
+        "unattempted": 29.57
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-DILR/dilr-question-15.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2021-s3-dilr-16",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 3,
+      "section": "dilr",
+      "number": 16,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2021-s3-dilr-set3",
+      "question": "The list of employees in decreasing order of *annual completion index* is:",
+      "options": [
+        "A) Danni, Tinni, Bahni, Abani",
+        "B) Bahni, Abani, Tinni, Danni",
+        "C) Danni, Tinni, Abani, Bahni",
+        "D) Tinni, Danni, Abani, Bahni"
+      ],
+      "answer": "C",
+      "answer_text": "Danni, Tinni, Abani, Bahni",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 43.0,
+        "incorrect": 15.94,
+        "unattempted": 41.06
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-DILR/dilr-question-16.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2021-s3-dilr-17",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 3,
+      "section": "dilr",
+      "number": 17,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2021-s3-dilr-set4",
+      "question": "5 ml of content from bottle A is mixed with 5 ml of content from bottle B. The resultant mixture, when tested, detects the presence of I. If it is known that bottle A contains only P, what BEST can be concluded about the volume of I in bottle B?",
+      "options": [
+        "A) 10 ml or more",
+        "B) Less than 1 ml",
+        "C) 10 ml",
+        "D) 1 ml"
+      ],
+      "answer": "A",
+      "answer_text": "10 ml or more",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 49.3,
+        "incorrect": 27.2,
+        "unattempted": 23.5
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-DILR/dilr-question-17.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2021-s3-dilr-18",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 3,
+      "section": "dilr",
+      "number": 18,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2021-s3-dilr-set4",
+      "question": "There are four bottles. Each bottle is known to contain only P or only I. They will be considered to be \"collectively ready for despatch\" if all of them contain only P. In minimum how many tests, is it possible to ascertain whether these four bottles are \"collectively ready for despatch\"?",
+      "options": null,
+      "answer": "1",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 16.73,
+        "incorrect": 61.42,
+        "unattempted": 21.85
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-DILR/dilr-question-18.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2021-s3-dilr-19",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 3,
+      "section": "dilr",
+      "number": 19,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2021-s3-dilr-set4",
+      "question": "There are four bottles. It is known that three of these bottles contain only P, while the remaining one contains 80% P and 20% I. What is the minimum number of tests required to definitely identify the bottle containing some amount of I?",
+      "options": null,
+      "answer": "2",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 19.14,
+        "incorrect": 60.09,
+        "unattempted": 20.77
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-DILR/dilr-question-19.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2021-s3-dilr-20",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 3,
+      "section": "dilr",
+      "number": 20,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2021-s3-dilr-set4",
+      "question": "There are four bottles. It is known that either one or two of these bottles contain(s) only P, while the remaining ones contain 85% P and 15% I. What is the minimum number of tests required to ascertain the exact number of bottles containing only P?",
+      "options": [
+        "A) 1",
+        "B) 4",
+        "C) 3",
+        "D) 2"
+      ],
+      "answer": "A",
+      "answer_text": "1",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 3.81,
+        "incorrect": 38.65,
+        "unattempted": 57.54
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-DILR/dilr-question-20.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false
+    }
+  ]
+}

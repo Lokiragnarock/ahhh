@@ -1,0 +1,699 @@
+{
+  "exam": "CAT",
+  "year": 2023,
+  "slot": 3,
+  "section": "qa",
+  "source": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-Quant/",
+  "licence": "Real CAT questions (c) IIMs, as re-published free by 2IIM (c) 2IIM. Private study use in AHH only; do not republish.",
+  "scraped": "2026-10-31",
+  "count": 22,
+  "sets": [],
+  "questions": [
+    {
+      "id": "cat-2023-s3-qa-01",
+      "exam": "CAT",
+      "year": 2023,
+      "slot": 3,
+      "section": "qa",
+      "number": 1,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "For a real number \\(x\\), if \\(\\frac{1}{2}, \\frac{\\log _3\\left(2^x-9\\right)}{\\log _3 4}\\), and \\(\\frac{\\log _5\\left(2^x+\\frac{17}{2}\\right)}{\\log _5 4}\\) are in an arithmetic progression, then the common difference is",
+      "options": [
+        "A) \\(\\log _4 7\\)",
+        "B) \\(\\log _4\\left(\\frac{3}{2}\\right)\\)",
+        "C) \\(\\log _4\\left(\\frac{7}{2}\\right)\\)",
+        "D) \\(\\log _4\\left(\\frac{23}{2}\\right)\\)"
+      ],
+      "answer": "C",
+      "answer_text": "\\(\\log _4\\left(\\frac{7}{2}\\right)\\)",
+      "topic_2iim": "Logarithms_Exponents",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-Quant/quants-question-1.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2023-s3-qa-02",
+      "exam": "CAT",
+      "year": 2023,
+      "slot": 3,
+      "section": "qa",
+      "number": 2,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "Let \\(n\\) and \\(m\\) be two positive integers such that there are exactly 41 integers greater than \\(8^m\\) and less than \\(8^n\\), which can be expressed as powers of 2 . Then, the smallest possible value of \\(n+m\\) is",
+      "options": [
+        "A) 14",
+        "B) 42",
+        "C) 16",
+        "D) 44"
+      ],
+      "answer": "C",
+      "answer_text": "16",
+      "topic_2iim": "Logarithms_Exponents",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-Quant/quants-question-2.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2023-s3-qa-03",
+      "exam": "CAT",
+      "year": 2023,
+      "slot": 3,
+      "section": "qa",
+      "number": 3,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "For some real numbers \\(a\\) and \\(b\\), the system of equations \\(x+y=4\\) and \\((a+5) x+\\left(b^2-15\\right) y=8 b\\) has infinitely many solutions for \\(x\\) and \\(y\\). Then, the maximum possible value of \\(a b\\) is",
+      "options": [
+        "A) 15",
+        "B) 33",
+        "C) 55",
+        "D) 25"
+      ],
+      "answer": "B",
+      "answer_text": "33",
+      "topic_2iim": "Linear_Quadratic",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-Quant/quants-question-3.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2023-s3-qa-04",
+      "exam": "CAT",
+      "year": 2023,
+      "slot": 3,
+      "section": "qa",
+      "number": 4,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "If \\(x\\) is a positive real number such that \\(x^8+\\left(\\frac{1}{x}\\right)^8=47\\), then the value of \\(x^9+\\left(\\frac{1}{x}\\right)^9\\) is",
+      "options": [
+        "A) \\(40 \\sqrt{5}\\)",
+        "B) \\(36 \\sqrt{5}\\)",
+        "C) \\(30 \\sqrt{5}\\)",
+        "D) \\(34 \\sqrt{5}\\)"
+      ],
+      "answer": "D",
+      "answer_text": "\\(34 \\sqrt{5}\\)",
+      "topic_2iim": "Polynomials",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-Quant/quants-question-4.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2023-s3-qa-05",
+      "exam": "CAT",
+      "year": 2023,
+      "slot": 3,
+      "section": "qa",
+      "number": 5,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "A quadratic equation \\(x^2+b x+c=0\\) has two real roots. If the difference between the reciprocals of the roots is \\(\\frac{1}{3}\\), and the sum of the reciprocals of the squares of the roots is \\(\\frac{5}{9}\\), then the largest possible value of \\((b+c)\\) is",
+      "options": null,
+      "answer": "9",
+      "answer_text": null,
+      "topic_2iim": "Linear_Quadratic",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-Quant/quants-question-5.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2023-s3-qa-06",
+      "exam": "CAT",
+      "year": 2023,
+      "slot": 3,
+      "section": "qa",
+      "number": 6,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "The sum of the first two natural numbers, each having 15 factors (including 1 and the number itself), is",
+      "options": null,
+      "answer": "468",
+      "answer_text": null,
+      "topic_2iim": "Factors",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-Quant/quants-question-6.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2023-s3-qa-07",
+      "exam": "CAT",
+      "year": 2023,
+      "slot": 3,
+      "section": "qa",
+      "number": 7,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "Let \\(n\\) be any natural number such that \\(5^{n-1} \\lt 3^{n+1}\\). Then, the least integer value of \\(m\\) that satisfies \\(3^{n+1} \\lt 2^{n+m}\\) for each such \\(n\\), is",
+      "options": null,
+      "answer": "5",
+      "answer_text": null,
+      "topic_2iim": "Logarithms_Exponents",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-Quant/quants-question-7.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2023-s3-qa-08",
+      "exam": "CAT",
+      "year": 2023,
+      "slot": 3,
+      "section": "qa",
+      "number": 8,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "Rahul, Rakshita and Gurmeet, working together, would have taken more than 7 days to finish a job. On the other hand, Rahul and Gurmeet, working together would have taken less than 15 days to finish the job. However, they all worked together for 6 days, followed by Rakshita, who worked alone for 3 more days to finish the job. If Rakshita had worked alone on the job then the number of days she would have taken to finish the job, cannot be",
+      "options": [
+        "A) 17",
+        "B) 21",
+        "C) 16",
+        "D) 20"
+      ],
+      "answer": "B",
+      "answer_text": "21",
+      "topic_2iim": "Pipes_Cisterns_Work_Time",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-Quant/quants-question-8.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2023-s3-qa-09",
+      "exam": "CAT",
+      "year": 2023,
+      "slot": 3,
+      "section": "qa",
+      "number": 9,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "Anil mixes cocoa with sugar in the ratio 3 : 2 to prepare mixture A, and coffee with sugar in the ratio 7 : 3 to prepare mixture B. He combines mixtures A and B in the ratio 2 : 3 to make a new mixture C. If he mixes C with an equal amount of milk to make a drink, then the percentage of sugar in this drink will be",
+      "options": [
+        "A) 21",
+        "B) 24",
+        "C) 16",
+        "D) 17"
+      ],
+      "answer": "D",
+      "answer_text": "17",
+      "topic_2iim": "Ratios_Mixtures_Averages",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-Quant/quants-question-9.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2023-s3-qa-10",
+      "exam": "CAT",
+      "year": 2023,
+      "slot": 3,
+      "section": "qa",
+      "number": 10,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "The population of a town in 2020 was 100000 . The population decreased by \\(y \\%\\) from the year 2020 to 2021 , and increased by \\(x \\%\\) from the year 2021 to 2022, where \\(x\\) and \\(y\\) are two natural numbers. If population in 2022 was greater than the population in 2020 and the difference between \\(x\\) and \\(y\\) is 10 , then the lowest possible population of the town in 2021 was",
+      "options": [
+        "A) 74000",
+        "B) 75000",
+        "C) 72000",
+        "D) 73000"
+      ],
+      "answer": "D",
+      "answer_text": "73000",
+      "topic_2iim": "Percents_Profits_SICI",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-Quant/quants-question-10.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2023-s3-qa-11",
+      "exam": "CAT",
+      "year": 2023,
+      "slot": 3,
+      "section": "qa",
+      "number": 11,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "A merchant purchases a cloth at a rate of Rs.100 per meter and receives 5 cm length of cloth free for every 100 cm length of cloth purchased by him. He sells the same cloth at a rate of Rs.110 per meter but cheats his customers by giving 95 cm length of cloth for every 100 cm length of cloth purchased by the customers. If the merchant provides a 5% discount, the resulting profit earned by him is",
+      "options": [
+        "A) 4.2%",
+        "B) 15.5%",
+        "C) 16%",
+        "D) 9.7%"
+      ],
+      "answer": "B",
+      "answer_text": "15.5%",
+      "topic_2iim": "Percents_Profits_SICI",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-Quant/quants-question-11.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2023-s3-qa-12",
+      "exam": "CAT",
+      "year": 2023,
+      "slot": 3,
+      "section": "qa",
+      "number": 12,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "There are three persons \\(\\mathrm{A}, \\mathrm{B}\\) and \\(\\mathrm{C}\\) in a room. If a person \\(\\mathrm{D}\\) joins the room, the average weight of the persons in the room reduces by \\(x \\mathrm{~kg}\\). Instead of \\(\\mathrm{D}\\), if person \\(\\mathrm{E}\\) joins the room, the average weight of the persons in the room increases by \\(2 x \\mathrm{~kg}\\). If the weight of \\(\\mathrm{E}\\) is \\(12 \\mathrm{~kg}\\) more than that of \\(\\mathrm{D}\\), then the value of \\(x\\) is",
+      "options": [
+        "A) 1.5",
+        "B) 2",
+        "C) 0.5",
+        "D) 1"
+      ],
+      "answer": "D",
+      "answer_text": "1",
+      "topic_2iim": "Ratios_Mixtures_Averages",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-Quant/quants-question-12.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2023-s3-qa-13",
+      "exam": "CAT",
+      "year": 2023,
+      "slot": 3,
+      "section": "qa",
+      "number": 13,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "A boat takes 2 hours to travel downstream a river from port A to port B, and 3 hours to return to port A. Another boat takes a total of 6 hours to travel from port B to port A and return to port B. If the speeds of the boats and the river are constant, then the time, in hours, taken by the slower boat to travel from port A to port B is",
+      "options": [
+        "A) \\(3(3-\\sqrt{5})\\)",
+        "B) \\(12(\\sqrt{5}-2)\\)",
+        "C) \\(3(3+\\sqrt{5})\\)",
+        "D) \\(3(\\sqrt{5}-1)\\)"
+      ],
+      "answer": "A",
+      "answer_text": "\\(3(3-\\sqrt{5})\\)",
+      "topic_2iim": "Speed_Time_Distance_Races",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-Quant/quants-question-13.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2023-s3-qa-14",
+      "exam": "CAT",
+      "year": 2023,
+      "slot": 3,
+      "section": "qa",
+      "number": 14,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "A fruit seller has a stock of mangoes, bananas and apples with at least one fruit of each type. At the beginning of a day, the number of mangoes make up 40% of his stock. That day, he sells half of the mangoes, 96 bananas and 40% of the apples. At the end of the day, he ends up selling 50% of the fruits. The smallest possible total number of fruits in the stock at the beginning of the day is",
+      "options": null,
+      "answer": "340",
+      "answer_text": null,
+      "topic_2iim": "Percents_Profits_SICI",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-Quant/quants-question-14.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2023-s3-qa-15",
+      "exam": "CAT",
+      "year": 2023,
+      "slot": 3,
+      "section": "qa",
+      "number": 15,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "The number of coins collected per week by two coin-collectors A and B are in the ratio 3 : 4. If the total number of coins collected by A in 5 weeks is a multiple of 7, and the total number of coins collected by B in 3 weeks is a multiple of 24, then the minimum possible number of coins collected by A in one week is",
+      "options": null,
+      "answer": "42",
+      "answer_text": null,
+      "topic_2iim": "Ratios_Mixtures_Averages",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-Quant/quants-question-15.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2023-s3-qa-16",
+      "exam": "CAT",
+      "year": 2023,
+      "slot": 3,
+      "section": "qa",
+      "number": 16,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "Gautam and Suhani, working together, can finish a job in 20 days. If Gautam does only 60% of his usual work on a day, Suhani must do 150% of her usual work on that day to exactly make up for it. Then, the number of days required by the faster worker to complete the job working alone is",
+      "options": null,
+      "answer": "36",
+      "answer_text": null,
+      "topic_2iim": "Pipes_Cisterns_Work_Time",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-Quant/quants-question-16.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2023-s3-qa-17",
+      "exam": "CAT",
+      "year": 2023,
+      "slot": 3,
+      "section": "qa",
+      "number": 17,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "Let \\(\\triangle A B C\\) be an isosceles triangle such that \\(A B\\) and \\(A C\\) are of equal length. \\(A D\\) is the altitude from \\(A\\) on \\(B C\\) and \\(B E\\) is the altitude from \\(\\mathrm{B}\\) on \\(\\mathrm{AC}\\). If \\(\\mathrm{AD}\\) and \\(\\mathrm{BE}\\) intersect at \\(\\mathrm{O}\\) such that \\(\\angle \\mathrm{AOB}=105^{\\circ}\\), then \\(\\frac{A D}{B E}\\) equals",
+      "options": [
+        "A) \\(2 \\sin 15^{\\circ}\\)",
+        "B) \\(\\cos 15^{\\circ}\\)",
+        "C) \\(2 \\cos 15^{\\circ}\\)",
+        "D) \\(\\sin 15^{\\circ}\\)"
+      ],
+      "answer": "C",
+      "answer_text": "\\(2 \\cos 15^{\\circ}\\)",
+      "topic_2iim": "Geometry",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-Quant/quants-question-17.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2023-s3-qa-18",
+      "exam": "CAT",
+      "year": 2023,
+      "slot": 3,
+      "section": "qa",
+      "number": 18,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "A rectangle with the largest possible area is drawn inside a semicircle of radius \\(2 \\mathrm{~cm}\\). Then, the ratio of the lengths of the largest to the smallest side of this rectangle is",
+      "options": [
+        "A) \\(2 : 1\\)",
+        "B) \\(\\sqrt{5} : 1\\)",
+        "C) \\(1 : 1\\)",
+        "D) \\(\\sqrt{2} : 1\\)"
+      ],
+      "answer": "A",
+      "answer_text": "\\(2 : 1\\)",
+      "topic_2iim": "Mensuration",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-Quant/quants-question-18.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2023-s3-qa-19",
+      "exam": "CAT",
+      "year": 2023,
+      "slot": 3,
+      "section": "qa",
+      "number": 19,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "In a regular polygon, any interior angle exceeds the exterior angle by 120 degrees. Then, the number of diagonals of this polygon is",
+      "options": null,
+      "answer": "54",
+      "answer_text": null,
+      "topic_2iim": "Geometry",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-Quant/quants-question-19.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2023-s3-qa-20",
+      "exam": "CAT",
+      "year": 2023,
+      "slot": 3,
+      "section": "qa",
+      "number": 20,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "The value of \\(1+\\left(1+\\frac{1}{3}\\right) \\frac{1}{4}+\\left(1+\\frac{1}{3}+\\frac{1}{9}\\right) \\frac{1}{16}+\\left(1+\\frac{1}{3}+\\frac{1}{9}+\\frac{1}{27}\\right) \\frac{1}{64}+\\cdots\\), is",
+      "options": [
+        "A) \\(\\frac{15}{13}\\)",
+        "B) \\(\\frac{16}{11}\\)",
+        "C) \\(\\frac{27}{12}\\)",
+        "D) \\(\\frac{15}{8}\\)"
+      ],
+      "answer": "B",
+      "answer_text": "\\(\\frac{16}{11}\\)",
+      "topic_2iim": "Progressions",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-Quant/quants-question-20.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2023-s3-qa-21",
+      "exam": "CAT",
+      "year": 2023,
+      "slot": 3,
+      "section": "qa",
+      "number": 21,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "Let \\(a_n=46+8 n\\) and \\(b_n=98+4 n\\) be two sequences for natural numbers \\(n \\leq 100\\). Then, the sum of all terms common to both the sequences is",
+      "options": [
+        "A) 15000",
+        "B) 14900",
+        "C) 14602",
+        "D) 14798"
+      ],
+      "answer": "B",
+      "answer_text": "14900",
+      "topic_2iim": "Progressions",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-Quant/quants-question-21.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2023-s3-qa-22",
+      "exam": "CAT",
+      "year": 2023,
+      "slot": 3,
+      "section": "qa",
+      "number": 22,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "Suppose \\(f(x, y)\\) is a real-valued function such that \\(f(3 x+2 y, 2 x-5 y)=19 x\\), for all real numbers \\(x\\) and \\(y\\). The value of \\(x\\) for which \\(f(x, 2 x)=27\\), is",
+      "options": null,
+      "answer": "3",
+      "answer_text": null,
+      "topic_2iim": "Functions",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-Quant/quants-question-22.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false
+    }
+  ]
+}

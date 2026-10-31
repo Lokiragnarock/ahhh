@@ -1,0 +1,796 @@
+{
+  "exam": "CAT",
+  "year": 2020,
+  "slot": 1,
+  "section": "dilr",
+  "source": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-DILR/",
+  "licence": "Real CAT questions (c) IIMs, as re-published free by 2IIM (c) 2IIM. Private study use in AHH only; do not republish.",
+  "scraped": "2026-10-31",
+  "count": 24,
+  "sets": [
+    {
+      "id": "cat-2020-s1-dilr-set1",
+      "text": "The local office of the APP-CAB company evaluates the performance of five cab drivers, Arun, Barun, Chandan, Damodaran, and Eman for their monthly payment based on ratings in five different parameters (P1 to P5) as given below:\nP1: timely arrival\nP2: behaviour\nP3: comfortable ride\nP4: driver's familiarity with the route\nP5: value for money\n\nBased on feedback from the customers, the office assigns a rating from 1 to 5 in each of these parameters. Each rating is an integer from a low value of 1 to a high value of 5. The final rating of a driver is the average of his ratings in these five parameters. The monthly payment of the drivers has two parts – a fixed payment and final rating-based bonus. If a driver gets a rating of 1 in any of the parameters, he is not eligible to get bonus. To be eligible for bonus a driver also needs to get a rating of five in at least one of the parameters.\n\nThe partial information related to the ratings of the drivers in different parameters and the monthly payment structure (in rupees) is given in the table below:\n\n![figure](img/2020-s1-dilr/756_489168_0_1011669_q1_29july19.jpg)\n\nThe following additional facts are known.\n\n1. Arun and Barun have got a rating of 5 in exactly one of the parameters. Chandan has got a rating of 5 in exactly two parameters.\n2. None of drivers has got the same rating in three parameters."
+    },
+    {
+      "id": "cat-2020-s1-dilr-set2",
+      "text": "Four institutes, A, B, C, and D, had contracts with four vendors W, X, Y, and Z during the ten calendar years from 2010 to 2019. The contracts were either multi-year contracts running for several consecutive years or single-year contracts. No institute had more than one contract with the same vendor. However, in a calendar year, an institute may have had contracts with multiple vendors, and a vendor may have had contracts with multiple institutes. It is known that over the decade, the institutes each got into two contracts with two of these vendors, and each vendor got into two contracts with two of these institutes.\n\nThe following facts are also known about these contracts.\n\nI. Vendor Z had at least one contract in every year.\nII. Vendor X had one or more contracts in every year up to 2015, but no contract in any year after that.\nIII. Vendor Y had contracts in 2010 and 2019. Vendor W had contracts only in 2012.\nIV. There were five contracts in 2012.\nV. There were exactly four multi-year contracts. Institute B had a 7-year contract, D had a 4-year contract, and A and C had one 3-year contract each. The other four contracts were single-year contracts.\nVI. Institute C had one or more contracts in 2012 but did not have any contract in 2011.\nVII. Institutes B and D each had exactly one contract in 2012. Institute D did not have any contract in 2010."
+    },
+    {
+      "id": "cat-2020-s1-dilr-set3",
+      "text": "In a certain board examination, students were to appear for examination in five subjects: English, Hindi, Mathematics, Science and Social Science. Due to a certain emergency situation, a few of the examinations could not be conducted for some students. Hence, some students missed one examination and some others missed two examinations. Nobody missed more than two examinations.\n\nThe board adopted the following policy for awarding marks to students. If a student appeared in all five examinations, then the marks awarded in each of the examinations were on the basis of the scores obtained by them in those examinations.\n\nIf a student missed only one examination, then the marks awarded in that examination was the average of the best three among the four scores in the examinations they appeared for.\n\nIf a student missed two examinations, then the marks awarded in each of these examinations was the average of the best two among the three scores in the examinations they appeared for.\n\nThe marks obtained by six students in the examination are given in the table below. Each of them missed either one or two examinations.\n\n| | English | Hindi | Mathematics | Science | Social Science |\n|---|---|---|---|---|---|\n| Alva | 80 | 75 | 70 | 75 | 60 |\n| Bithi | 90 | 80 | 55 | 85 | 85 |\n| Carl | 75 | 80 | 90 | 100 | 90 |\n| Deep | 70 | 90 | 100 | 90 | 80 |\n| Esha | 80 | 85 | 95 | 60 | 55 |\n| Foni | 83 | 72 | 78 | 88 | 83 |\n\nThe following facts are also known.\n\nI. Four of these students appeared in each of the English, Hindi, Science, and Social Science examinations.\nII. The student who missed the Mathematics examination did not miss any other examination.\nIll. One of the students who missed the Hindi examination did not miss any other examination. The other student who missed the Hindi examination also missed the Science examination."
+    },
+    {
+      "id": "cat-2020-s1-dilr-set4",
+      "text": "Ten musicians (A, B, C, D, E, F, G, H, I and J) are experts in at least one of the following three percussion instruments: tabla, mridangam, and ghatam. Among them, three are experts in tabla but not in mridangam or ghatam, another three are experts in mridangam but not in tabla or ghatam, and one is an expert in ghatam but not in tabla or mridangam. Further, two are experts in tabla and mridangam but not in ghatam, and one is an expert in tabla and ghatam but not in mridangam.\n\nThe following facts are known about these ten musicians."
+    },
+    {
+      "id": "cat-2020-s1-dilr-set5",
+      "text": "1000 patients currently suffering from a disease were selected to study the effectiveness of treatment of four types of medicines — A, B, C and D. These patients were first randomly assigned into two groups of equal size, called treatment group and control group. The patients in the control group were not treated with any of these medicines; instead they were given a dummy medicine, called placebo, containing only sugar and starch. The following information is known about the patients in the treatment group.\n\na. A total of 250 patients were treated with type A medicine and a total of 210 patients were treated with type C medicine.\n\nb. 25 patients were treated with type A medicine only. 20 patients were treated with type C medicine only. 10 patients were treated with type D medicine only.\n\nc. 35 patients were treated with type A and type D medicines only. 20 patients were treated with type A and type B medicines only. 30 patients were treated with type A and type C medicines only. 20 patients were treated with type C and type D medicines only.\n\nd. 100 patients were treated with exactly three types of medicines.\n\ne. 40 patients were treated with medicines of types A, B and C, but not with medicines of type D. 20 patients were treated with medicines of types A, C and D, but not with medicines of type B.\n\nf. 50 patients were given all the four types of medicines. 75 patients were treated with exactly one type of medicine."
+    }
+  ],
+  "questions": [
+    {
+      "id": "cat-2020-s1-dilr-01",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 1,
+      "section": "dilr",
+      "number": 1,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2020-s1-dilr-set1",
+      "question": "If Damodaran does not get a bonus, what is the maximum possible value of his final rating?",
+      "options": [
+        "A) 3.4",
+        "B) 3.6",
+        "C) 3.8",
+        "D) 3.2"
+      ],
+      "answer": "B",
+      "answer_text": "3.6",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-DILR/dilr-question-1.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2020-s1-dilr-02",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 1,
+      "section": "dilr",
+      "number": 2,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2020-s1-dilr-set1",
+      "question": "If Eman gets a bonus, what is the minimum possible value of his final rating?",
+      "options": [
+        "A) 3.4",
+        "B) 3.2",
+        "C) 3.0",
+        "D) 2.8"
+      ],
+      "answer": "C",
+      "answer_text": "3.0",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-DILR/dilr-question-2.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2020-s1-dilr-03",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 1,
+      "section": "dilr",
+      "number": 3,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2020-s1-dilr-set1",
+      "question": "If all five drivers get bonus, what is the minimum possible value of the monthly payment (in rupees) that a driver gets?",
+      "options": [
+        "A) 1600",
+        "B) 1700",
+        "C) 1740",
+        "D) 1750"
+      ],
+      "answer": "B",
+      "answer_text": "1700",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-DILR/dilr-question-3.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2020-s1-dilr-04",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 1,
+      "section": "dilr",
+      "number": 4,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2020-s1-dilr-set1",
+      "question": "If all five drivers get bonus, what is the maximum possible value of the monthly payment (in rupees) that a driver gets?",
+      "options": [
+        "A) 1960",
+        "B) 1950",
+        "C) 1900",
+        "D) 2050"
+      ],
+      "answer": "A",
+      "answer_text": "1960",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-DILR/dilr-question-4.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2020-s1-dilr-05",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 1,
+      "section": "dilr",
+      "number": 5,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2020-s1-dilr-set2",
+      "question": "In which of the following years were there two or more contracts?",
+      "options": [
+        "A) 2017",
+        "B) 2018",
+        "C) 2016",
+        "D) 2015"
+      ],
+      "answer": "D",
+      "answer_text": "2015",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-DILR/dilr-question-5.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2020-s1-dilr-06",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 1,
+      "section": "dilr",
+      "number": 6,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2020-s1-dilr-set2",
+      "question": "Which of the following is true?",
+      "options": [
+        "A) B had a contract with Y in 2019",
+        "B) D had a contract with X in 2011",
+        "C) B had a contract with Z in 2017",
+        "D) D had a contract with Y in 2019"
+      ],
+      "answer": "D",
+      "answer_text": "D had a contract with Y in 2019",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-DILR/dilr-question-6.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2020-s1-dilr-07",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 1,
+      "section": "dilr",
+      "number": 7,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2020-s1-dilr-set2",
+      "question": "In how many years during this period was there only one contract?",
+      "options": [
+        "A) 3",
+        "B) 4",
+        "C) 2",
+        "D) 5"
+      ],
+      "answer": "A",
+      "answer_text": "3",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-DILR/dilr-question-7.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2020-s1-dilr-08",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 1,
+      "section": "dilr",
+      "number": 8,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2020-s1-dilr-set2",
+      "question": "What BEST can be concluded about the number of contracts in 2010?",
+      "options": [
+        "A) exactly 3",
+        "B) at least 3",
+        "C) at least 4",
+        "D) exactly 4"
+      ],
+      "answer": "A",
+      "answer_text": "exactly 3",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-DILR/dilr-question-8.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2020-s1-dilr-09",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 1,
+      "section": "dilr",
+      "number": 9,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2020-s1-dilr-set2",
+      "question": "Which institutes had multiple contracts during the same year?",
+      "options": [
+        "A) B and C only",
+        "B) A only",
+        "C) B only",
+        "D) A and B only"
+      ],
+      "answer": "D",
+      "answer_text": "A and B only",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-DILR/dilr-question-9.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2020-s1-dilr-10",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 1,
+      "section": "dilr",
+      "number": 10,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2020-s1-dilr-set2",
+      "question": "Which institutes and vendors had more than one contracts in any year?",
+      "options": [
+        "A) B, W, X, and Z",
+        "B) B, D, W, and X",
+        "C) A, B, W, and X",
+        "D) A, D, W, and Z"
+      ],
+      "answer": "C",
+      "answer_text": "A, B, W, and X",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-DILR/dilr-question-10.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2020-s1-dilr-11",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 1,
+      "section": "dilr",
+      "number": 11,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2020-s1-dilr-set3",
+      "question": "Who among the following did not appear for the Mathematics examination?",
+      "options": [
+        "A) Carl",
+        "B) Alva",
+        "C) Esha",
+        "D) Foni"
+      ],
+      "answer": "A",
+      "answer_text": "Carl",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-DILR/dilr-question-11.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2020-s1-dilr-12",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 1,
+      "section": "dilr",
+      "number": 12,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2020-s1-dilr-set3",
+      "question": "Which students did not appear for the English examination?",
+      "options": [
+        "A) Cannot be determined",
+        "B) Alva and Bithi",
+        "C) Carl and Deep",
+        "D) Esha and Foni"
+      ],
+      "answer": "D",
+      "answer_text": "Esha and Foni",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-DILR/dilr-question-12.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2020-s1-dilr-13",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 1,
+      "section": "dilr",
+      "number": 13,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2020-s1-dilr-set3",
+      "question": "What BEST can be concluded about the students who did not appear for the Hindi examination?",
+      "options": [
+        "A) Two among Alva, Deep and Esha",
+        "B) Alva and Esha",
+        "C) Alva and Deep",
+        "D) Deep and Esha"
+      ],
+      "answer": "C",
+      "answer_text": "Alva and Deep",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-DILR/dilr-question-13.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2020-s1-dilr-14",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 1,
+      "section": "dilr",
+      "number": 14,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2020-s1-dilr-set3",
+      "question": "What BEST can be concluded about the students who missed the Science examination?",
+      "options": [
+        "A) Deep and Bithi",
+        "B) Alva and Bithi",
+        "C) Alva and Deep",
+        "D) Bithi and one out of Alva and Deep"
+      ],
+      "answer": "D",
+      "answer_text": "Bithi and one out of Alva and Deep",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-DILR/dilr-question-14.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2020-s1-dilr-15",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 1,
+      "section": "dilr",
+      "number": 15,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2020-s1-dilr-set3",
+      "question": "How many out of these six students missed exactly one examination?",
+      "options": null,
+      "answer": "3",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-DILR/dilr-question-15.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2020-s1-dilr-16",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 1,
+      "section": "dilr",
+      "number": 16,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2020-s1-dilr-set3",
+      "question": "For how many students can we be definite about which examinations they missed?",
+      "options": null,
+      "answer": "4",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-DILR/dilr-question-16.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2020-s1-dilr-17",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 1,
+      "section": "dilr",
+      "number": 17,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2020-s1-dilr-set4",
+      "question": "Who among the following is DEFINITELY an expert in tabla but not in either mridangam or ghatam?",
+      "options": [
+        "A) A",
+        "B) F",
+        "C) H",
+        "D) C"
+      ],
+      "answer": "C",
+      "answer_text": "H",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-DILR/dilr-question-17.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2020-s1-dilr-18",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 1,
+      "section": "dilr",
+      "number": 18,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2020-s1-dilr-set4",
+      "question": "Who among the following is DEFINITELY an expert in mridangam but not in either tabla or ghatam?",
+      "options": [
+        "A) B",
+        "B) J",
+        "C) G",
+        "D) E"
+      ],
+      "answer": "B",
+      "answer_text": "J",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-DILR/dilr-question-18.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2020-s1-dilr-19",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 1,
+      "section": "dilr",
+      "number": 19,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2020-s1-dilr-set4",
+      "question": "Which of the following pairs CANNOT have any musician who is an expert in both tabla and mridangam but not in ghatam?",
+      "options": [
+        "A) A and B",
+        "B) F and G",
+        "C) C and E",
+        "D) C and F"
+      ],
+      "answer": "C",
+      "answer_text": "C and E",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-DILR/dilr-question-19.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2020-s1-dilr-20",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 1,
+      "section": "dilr",
+      "number": 20,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2020-s1-dilr-set4",
+      "question": "If C is an expert in mridangam and F is not, then which are the three musicians who are experts in tabla but not in either mridangam or ghatam?",
+      "options": [
+        "A) E, F and H",
+        "B) C, G and H",
+        "C) E, G and H",
+        "D) C, E and G"
+      ],
+      "answer": "A",
+      "answer_text": "E, F and H",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-DILR/dilr-question-20.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2020-s1-dilr-21",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 1,
+      "section": "dilr",
+      "number": 21,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2020-s1-dilr-set5",
+      "question": "How many patients were treated with medicine type B?",
+      "options": null,
+      "answer": "340",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-DILR/dilr-question-21.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2020-s1-dilr-22",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 1,
+      "section": "dilr",
+      "number": 22,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2020-s1-dilr-set5",
+      "question": "The number of patients who were treated with medicine types B, C and D, but not type A was:",
+      "options": null,
+      "answer": "10",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-DILR/dilr-question-22.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2020-s1-dilr-23",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 1,
+      "section": "dilr",
+      "number": 23,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2020-s1-dilr-set5",
+      "question": "How many patients were treated with medicine types B and D only?",
+      "options": null,
+      "answer": "150",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-DILR/dilr-question-23.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2020-s1-dilr-24",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 1,
+      "section": "dilr",
+      "number": 24,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2020-s1-dilr-set5",
+      "question": "The number of patients who were treated with medicine type D was:",
+      "options": null,
+      "answer": "325",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-DILR/dilr-question-24.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    }
+  ]
+}

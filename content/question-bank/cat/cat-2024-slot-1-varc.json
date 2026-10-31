@@ -1,0 +1,914 @@
+{
+  "exam": "CAT",
+  "year": 2024,
+  "slot": 1,
+  "section": "varc",
+  "source": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-VARC/",
+  "licence": "Real CAT questions (c) IIMs, as re-published free by 2IIM (c) 2IIM. Private study use in AHH only; do not republish.",
+  "scraped": "2026-10-31",
+  "count": 24,
+  "sets": [
+    {
+      "id": "cat-2024-s1-varc-set1",
+      "text": "The passage below is accompanied by four questions. Based on the passage, choose the best answer for each question.\n\nLanding in Australia, the British colonists weren't much impressed with the small-bodied, slender-snooted marsupials called bandicoots. \"Their muzzle, which is much too long, gives them an air exceedingly stupid,\" one naturalist noted in 1805. They nicknamed one type the \"zebra rat\" because of its black-striped rump.\n\nSilly-looking or not, though, the zebra rat—the smallest bandicoot, more commonly known today as the western barred bandicoot—exhibited a genius for survival in the harsh outback, where its ancestors had persisted for some 26 million years. Its births were triggered by rainfall in the bone-dry desert. It carried its breath-mint-size babies in a backward-facing pouch so mothers could forage for food and dig shallow, camouflaged shelters.\n\nStill, these adaptations did not prepare the western barred bandicoot for the colonial-era transformation of its ecosystem, particularly the onslaught of imported British animals, from cattle and rabbits that damaged delicate desert vegetation to ravenous house cats that soon developed a taste for bandicoots. Several of the dozen-odd bandicoot species went extinct, and by the 1940s the western barred bandicoot, whose original range stretched across much of the continent, persisted only on two predator-free islands in Shark Bay, off Australia's western coast.\n\n\"Our isolated fauna had simply not been exposed to these predators,\" says Reece Pedler, an ecologist with the Wild Deserts conservation program.\n\nNow Wild Deserts is using descendants of those few thousand island survivors, called Shark Bay bandicoots, in a new effort to seed a mainland bandicoot revival. They've imported 20 bandicoots to a preserve on the edge of the Strzelecki Desert, in the remote interior of New South Wales. This sanctuary is a challenging place, desolate much of the year, with one of the world's most mercurial rainfall patterns—relentless droughts followed by sudden drenching floods.\n\nThe imported bandicoots occupy two fenced \"exclosures,\" cleared of invasive rabbits (courtesy of Pedler's sheepdog) and of feral cats (which slunk off once the rabbits disappeared). A third fenced area contains the program's Wild Training Zone, where two other rare marsupials (bilbies, a larger type of bandicoot, and mulgaras, a somewhat fearsome fuzzball known for sucking the brains out of prey) currently share terrain with controlled numbers of cats, learning to evade them. It's unclear whether the Shark Bay bandicoots, which are perhaps even more predator-naive than their now-extinct mainland bandicoot kin, will be able to make that kind of breakthrough.\n\nFor now, though, a recent surge of rainfall has led to a bandicoot joey boom, raising the Wild Deserts population to about 100, with other sanctuaries adding to that number. There are also signs of rebirth in the landscape itself. With their constant digging, the bandicoots trap moisture and allow for seed germination so the cattle-damaged desert can restore itself.\n\nThey have a new nickname—a flattering one, this time. \"We call them ecosystem engineers,\" Pedler says."
+    },
+    {
+      "id": "cat-2024-s1-varc-set2",
+      "text": "The passage below is accompanied by four questions. Based on the passage, choose the best answer for each question.\n\nOftentimes, when economists cross borders, they are less interested in learning from others than in invading their garden plots. Gary Becker, for instance, pioneered the idea of human capital. To do so, he famously tackled topics like crime and domesticity, applying methods honed in the study of markets to domains of nonmarket life. He projected economics outward into new realms: for example, by revealing the extent to which humans calculate marginal utilities when choosing their spouses or stealing from neighbors. At the same time, he did not let other ways of thinking enter his own economic realm: for example, he did not borrow from anthropology or history or let observations of nonmarket economics inform his homo economicus. Becker was a picture of the imperial economist in the heyday of the discipline's bravura.\n\nTimes have changed for the once almighty discipline. Economics has been taken to task, within and beyond its ramparts. Some economists have reached out, imported, borrowed, and collaborated—been less imperial, more open. Consider Thomas Piketty and his outreach to historians. The booming field of behavioral economics—the fusion of economics and social psychology—is another case. Having spawned active subfields, like judgment, decision-making and a turn to experimentation, the field aims to go beyond the caricature of Rational Man to explain how humans make decisions….\n\nIt is important to underscore how this flips the way we think about economics. For generations, economists have presumed that people have interests—\"preferences,\" in the neoclassical argot—that get revealed in the course of peoples' choices. Interests come before actions and determine them. If you are hungry, you buy lunch; if you are cold, you get a sweater. If you only have so much money and can't afford to deal with both your growling stomach and your shivering, which need you choose to meet using your scarce savings reveals your preference.\n\nPsychologists take one look at this simple formulation and shake their heads. Increasingly, even some mainstream economists have to admit that homo economicus doesn't always behave like the textbook maximizer; irrational behavior can't simply be waved away as extra-economic expressions of passions over interests, and thus the domain of other disciplines…. This is one place where the humanist can help the economist. If narrative economics is going to help us understand how rivals duke it out, who wins and who loses, we are going to need much more than lessons from epidemiological studies of viruses or intracranial stimuli.\n\nAbove all, we need politics and institutions. Shiller [the Nobel prize winning economist] connects perceptions of narratives to changes in behavior and thence to social outcomes. He completes a circle that was key to behavioral economics and brings in storytelling to make sense of how perceptions get framed. This cycle (perception to behavior to society) was once mediated or dominated by institutions: the political parties, lobby groups, and media organizations that played a vital role in legitimating, representing, and excluding interests. Yet institutions have been stripped from Shiller's account, to reveal a bare dynamic of emotions and economics, without the intermediating place of politics."
+    },
+    {
+      "id": "cat-2024-s1-varc-set3",
+      "text": "The passage below is accompanied by four questions. Based on the passage, choose the best answer for each question.\n\n. . . [T]he idea of craftsmanship is not simply nostalgic. . . . Crafts require distinct skills, an all-round approach to work that involves the whole product, rather than individual parts, and an attitude that necessitates devotion to the job and a focus on the communal interest. The concept of craft emphasises the human touch and individual judgment.\n\nEssentially, the crafts concept seems to run against the preponderant ethos of management studies which, as the academics note, have long prioritised efficiency and consistency. . . . Craft skills were portrayed as being primitive and traditionalist.\n\nThe contrast between artisanship and efficiency first came to the fore in the 19<sup>th</sup> century when British manufacturers suddenly faced competition from across the Atlantic as firms developed the \"American system\" using standardised parts. . . . the worldwide success of the Singer sewing machine showed the potential of a mass-produced device. This process created its own reaction, first in the form of the Arts and Crafts movement of the late 19<sup>th</sup> century, and then again in the \"small is beautiful\" movement of the 1970s. A third crafts movement is emerging as people become aware of the environmental impact of conventional industry.\n\nThere are two potential markets for those who practise crafts. The first stems from the existence of consumers who are willing to pay a premium price for goods that are deemed to be of extra quality. . . . The second market lies in those consumers who wish to use their purchases to support local workers, or to reduce their environmental impact by taking goods to craftspeople to be mended, or recycled.\n\nFor workers, the appeal of craftsmanship is that it allows them the autonomy to make creative choices, and thus makes a job far more satisfying. In that sense, it could offer hope for the overall labour market. Let the machines automate dull and repetitive tasks and let workers focus purely on their skills, judgment and imagination. As a current example, the academics cite the \"agile\" manifesto in the software sector, an industry at the heart of technological change. The pioneers behind the original agile manifesto promised to prioritise \"individuals and interactions over processes and tools\". By bringing together experts from different teams, agile working is designed to improve creativity.\n\nBut the broader question is whether crafts can create a lot more jobs than they do today. Demand for crafted products may rise but will it be easy to retrain workers in sectors that might get automated (such as truck drivers) to take advantage? In a world where products and services often have to pass through regulatory hoops, large companies will usually have the advantage.\n\nHistory also suggests that the link between crafts and creativity is not automatic. Medieval craft guilds were monopolies which resisted new entrants. They were also highly hierarchical with young men required to spend long periods as apprentices and journeymen before they could set up on their own; by that time the innovative spirit may have been knocked out of them. Craft workers can thrive in the modern era, but only if they don't get too organised."
+    },
+    {
+      "id": "cat-2024-s1-varc-set4",
+      "text": "The passage below is accompanied by four questions. Based on the passage, choose the best answer for each question.\n\nIn the summer of 2022, subscribers to the US streaming service HBO MAX were alarmed to discover that dozens of the platform's offerings – from the Covid-themed heist thriller Locked Down to the recent remake of The Witches – had been quietly removed from the service . . . The news seemed like vindication to those who had long warned that streaming was more about controlling access to the cultural commons than expanding it, as did reports (since denied by the show's creators) that Netflix had begun editing old episodes of Stranger Things to retroactively improve their visual effects.\n\nWhat's less clear is whether the commonly prescribed cure for these cultural ills – a return to the material pleasures of physical media – is the right one. While the makers of Blu-ray discs claim they have a shelf life of 100 years, such statistics remain largely theoretical until they come to pass, and are dependent on storage conditions, not to mention the continued availability of playback equipment. The humble DVD has already proved far less resilient, with many early releases already beginning to deteriorate in quality Digital movie purchases provide even less security. Any film \"bought\" on iTunes could disappear if you move to another territory with a different rights agreement and try to redownload it. It's a bold new frontier in the commodification of art: the birth of the product recall. After a man took to Twitter to bemoan losing access to Cars 2 after moving from Canada to Australia, Apple clarified that users who downloaded films to their devices would retain permanent access to those downloads, even if they relocated to a hemisphere where the [content was] subject to a different set of rights agreements. Thanks to the company's ironclad digital rights management technology, however, such files cannot be moved or backed up, locking you into watching with your Apple account.\n\nAnyone who does manage to acquire Digital Rights Management free (DRM-free) copies of their favourite films must nonetheless grapple with ever-changing file format standards, not to mention data decay – the gradual process by which electronic information slowly but surely corrupts. Only the regular migration of files from hard drive to hard drive can delay the inevitable, in a sisyphean battle against the ravages of digital time.\n\nIn a sense, none of this is new. Charlie Chaplin burned the negative of his 1926 film A Woman of the Sea as a tax write-off. Many more films have been lost through accident, negligence or plain indifference. During a heatwave in July 1937, a Fox film vault in New Jersey burned down, destroying a majority of the silent films produced by the studio.\n\nBack then, at least, cinema was defined by its ephemerality: the sense that a film was as good as gone once it left your local cinema. Today, with film studios keen to stress the breadth of their back catalogues (or to put in Hollywood terms, the value of their IPs), audiences may start to wonder why those same studios seem happy to set the vault alight themselves if it'll help next quarter's numbers."
+    }
+  ],
+  "questions": [
+    {
+      "id": "cat-2024-s1-varc-01",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 1,
+      "section": "varc",
+      "number": 1,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "There is a sentence that is missing in the paragraph below. Look at the paragraph and decide where (option 1, 2, 3, or 4) the following sentence would best fit.\n\nSentence: Comprehending a wide range of emotions, Renaissance music nevertheless portrayed all emotions in a balanced and moderate fashion.\nParagraph: A volume of translated Italian madrigals were published in London during the year of 1588. This sudden public interest facilitated a surge of English Madrigal writing as well as a spurt of other secular music writing and publication. ___(1)___. This music boom lasted for thirty years and was as much a golden age of music as British literature was with Shakespeare and Queen Elizabeth I. ___(2)___. The rebirth in both literature and music originated in Italy and migrated to England; the English madrigal became more humorous and lighter in England as compared to Italy. Renaissance music was mostly polyphonic in texture. ___(3)___. Extreme use of and contrasts in dynamics, rhythm, and tone colour do not occur. ___(4)___. The rhythms in Renaissance music tend to have a smooth, soft flow instead of a sharp, well-defined pulse of accents.",
+      "options": [
+        "A) Option 2",
+        "B) Option 4",
+        "C) Option 1",
+        "D) Option 3"
+      ],
+      "answer": "D",
+      "answer_text": "Option 3",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 38.78,
+        "incorrect": 26.41,
+        "unattempted": 34.81
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-VARC/verbal-question-1.shtml",
+      "official_qid": "332818298",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2024-s1-varc-02",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 1,
+      "section": "varc",
+      "number": 2,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "The passage given below is followed by four alternate summaries. Choose the option that best captures the essence of the passage.\n\nCartographers design and create maps to communicate information about phenomena located somewhere on our planet. In the past, cartographers did not worry too much about who was going to read their maps. Although some simple \"usability\" research was done—like comparing whether circle or bar symbols worked best—cartographers knew how to make maps. This has changed now, however, due to all kinds of societal and technological developments. Today, map readers are more demanding—mostly because of the tools they use to read maps. Cartographers, who are also influenced by these trends, are now more interested in seeing if their products are efficient, effective, and appreciated.",
+      "options": [
+        "A) New technological developments have prompted cartographers to experiment with their maps by applying these new innovations.",
+        "B) Modern mapmakers evaluate a map's effectiveness efficiency and satisfaction of the user through a series of experiments.",
+        "C) Today, cartographers also need to look into the usability of maps because of the new technological developments.",
+        "D) Maps are being used for a variety of reasons and therefore map readers have become more demanding."
+      ],
+      "answer": "C",
+      "answer_text": "Today, cartographers also need to\nlook into the usability of maps because of the new technological\ndevelopments.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 34.16,
+        "incorrect": 43.86,
+        "unattempted": 21.98
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-VARC/verbal-question-2.shtml",
+      "official_qid": "332818483",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2024-s1-varc-03",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 1,
+      "section": "varc",
+      "number": 3,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "Five jumbled up sentences (labelled 1, 2, 3, 4 and 5), related to a topic, are given below. Four of them can be put together to form a coherent paragraph. Identify the odd sentence and key in the number of that sentence as your answer.",
+      "options": [
+        "A) Animals have an interest in fulfilling their basic needs, but also in avoiding suffering, and thus we ought to extend moral consideration.",
+        "B) Singer viewed himself as a utilitarian, and presents a direct moral theory concerning animal rights, in contrast to indirect positions, such as welfarist views.",
+        "C) He argued for extending moral consideration to animals because, similar to humans, animals have certain significant interests.",
+        "D) The event that publicly announced animal rights as a legitimate issue within contemporary philosophy was Peter Singer's Animal Liberation text in 1975.",
+        "E) As such, we ought to view their interests alongside and equal to human interests, which results in humans having direct moral duties towards animals."
+      ],
+      "answer": "A",
+      "answer_text": "Animals have an interest in\nfulfilling their basic needs, but also in avoiding suffering, and thus\nwe ought to extend moral consideration.",
+      "topic_2iim": "not",
+      "node": null,
+      "stats_2iim": {
+        "correct": 31.31,
+        "incorrect": 58.19,
+        "unattempted": 10.5
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-VARC/verbal-question-3.shtml",
+      "official_qid": "332818284",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2024-s1-varc-04",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 1,
+      "section": "varc",
+      "number": 4,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2024-s1-varc-set1",
+      "question": "According to the text, the western barred bandicoots now have a flattering name because they have",
+      "options": [
+        "A) grown fivefold in terms of population.",
+        "B) led a revival in preserving the species.",
+        "C) aided in altering an arid environment.",
+        "D) led to a surge and increase of rainfall."
+      ],
+      "answer": "C",
+      "answer_text": "aided in altering an arid\nenvironment.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 63.37,
+        "incorrect": 12.37,
+        "unattempted": 24.27
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-VARC/verbal-question-4.shtml",
+      "official_qid": "332818222",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2024-s1-varc-05",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 1,
+      "section": "varc",
+      "number": 5,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2024-s1-varc-set1",
+      "question": "Which one of the following options does NOT represent the characteristics of the western barred bandicoot?",
+      "options": [
+        "A) Look of a rat but with a baby pouch and a slender snout",
+        "B) Shallow diggers having an elongated muzzle",
+        "C) Long thin nose, black striped back, pouch for joeys",
+        "D) Smallest black striped marsupial that uses camouflage and dig"
+      ],
+      "answer": "D",
+      "answer_text": "Smallest black striped marsupial\nthat uses camouflage and dig",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 27.58,
+        "incorrect": 38.08,
+        "unattempted": 34.34
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-VARC/verbal-question-5.shtml",
+      "official_qid": "332818219",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2024-s1-varc-06",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 1,
+      "section": "varc",
+      "number": 6,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2024-s1-varc-set1",
+      "question": "The text uses the word**'**exclosures**'**because Wild Deserts has adopted a measure of",
+      "options": [
+        "A) restoring cattle damaged deserts to green landscapes.",
+        "B) excluding animals to make the islands predator-free.",
+        "C) ridding the main desert of feral cats and large bilbies.",
+        "D) barring the entry of invasive species."
+      ],
+      "answer": "D",
+      "answer_text": "barring the entry of invasive\nspecies.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 47.69,
+        "incorrect": 21.19,
+        "unattempted": 31.12
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-VARC/verbal-question-6.shtml",
+      "official_qid": "332818221",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2024-s1-varc-07",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 1,
+      "section": "varc",
+      "number": 7,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2024-s1-varc-set1",
+      "question": "Which one of the following statements provides a gist of this passage?",
+      "options": [
+        "A) The negligent attitude of the British colonists towards these bandicoots evidenced by the names given to them led to their annihilation.",
+        "B) A type of bandicoots was nearly wiped out by invasive species but rescuers now pin hopes on a remnant island population.",
+        "C) Marsupials are going extinct due to the colonial era transformation of the ecosystem which also destroyed natural vegetation.",
+        "D) The onslaught of animals, such as cattle, rabbits and housecats, brought in by the British led to the extinction of the western barred bandicoot."
+      ],
+      "answer": "B",
+      "answer_text": "A type of bandicoots was nearly\nwiped out by invasive species but rescuers now pin hopes on a remnant\nisland population.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 54.46,
+        "incorrect": 14.51,
+        "unattempted": 31.03
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-VARC/verbal-question-7.shtml",
+      "official_qid": "332818218",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2024-s1-varc-08",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 1,
+      "section": "varc",
+      "number": 8,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "There is a sentence that is missing in the paragraph below. Look at the paragraph and decide where (option 1, 2, 3, or 4) the following sentence would best fit.\n\nSentence: The brain isn't organized the way you might set up your home office or bathroom medicine cabinet.\n\nParagraph: ___(1)___. You can't just put things anywhere you want to. The evolved architecture of the brain is haphazard and disjointed, and incorporates multiple systems, each of which has a mind of its own. ___(2)___. Evolution doesn't *design* things and it doesn't build systems—it *settles on* systems that, historically, conveyed a survival benefit. There is no overarching, grand planner engineering the systems so that they work harmoniously together. ___(3)___. The brain is more like a big, old house with piecemeal renovations done on every floor, and less like new construction. ___(4)___.",
+      "options": [
+        "A) Option 1",
+        "B) Option 4",
+        "C) Option 2",
+        "D) Option 3"
+      ],
+      "answer": "A",
+      "answer_text": "Option 1",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 56.37,
+        "incorrect": 24.22,
+        "unattempted": 19.41
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-VARC/verbal-question-8.shtml",
+      "official_qid": "332818466",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2024-s1-varc-09",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 1,
+      "section": "varc",
+      "number": 9,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2024-s1-varc-set2",
+      "question": "In the first paragraph the author is making the point that economists like Becker",
+      "options": [
+        "A) tended to guard their discipline from poaching by academics from other subject areas.",
+        "B) benefitted from the application of their principles and concepts to non-economic phenomena.",
+        "C) used economics to analyse non-market behaviour, without incorporating perspectives from other areas of inquiry.",
+        "D) had begun to borrow concepts from other disciplines but were averse to the latter applying economic principles."
+      ],
+      "answer": "C",
+      "answer_text": "used economics to analyse\nnon-market behaviour, without incorporating perspectives from other\nareas of inquiry.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 38.45,
+        "incorrect": 8.59,
+        "unattempted": 52.96
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-VARC/verbal-question-9.shtml",
+      "official_qid": "332818230",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2024-s1-varc-10",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 1,
+      "section": "varc",
+      "number": 10,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2024-s1-varc-set2",
+      "question": "\"Times have changed for the once almighty discipline.\" We can infer from this statement and the associated paragraph that the author is being",
+      "options": [
+        "A) disparaging of economists' inability to precisely predict market behaviour, and are now borrowing from other disciplines to remedy this.",
+        "B) sarcastic about how economists, who earlier shunned other disciplines, are now beginning to incorporate them in their analyses.",
+        "C) critical of economists' openly borrowing and collaborating across disciplines to explain how humans make decisions.",
+        "D) judgemental about the ability of economic tools to accurately manage crises leading to the downfall of this lofty science."
+      ],
+      "answer": "B",
+      "answer_text": "sarcastic about how economists, who\nearlier shunned other disciplines, are now beginning to incorporate them\nin their analyses.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 28.23,
+        "incorrect": 13.3,
+        "unattempted": 58.47
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-VARC/verbal-question-10.shtml",
+      "official_qid": "332818234",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2024-s1-varc-11",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 1,
+      "section": "varc",
+      "number": 11,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2024-s1-varc-set2",
+      "question": "The author critiques Schiller's approach to behavioural economics for",
+      "options": [
+        "A) relying excessively on storytelling as the main influence on the formation of perceptions.",
+        "B) denigrating the role of institutions while creating a link between behavioural economics and perceptions.",
+        "C) linking emotions and rational behaviour without considering the mediation of social institutions.",
+        "D) ignoring the marginal role that media and politics play in influencing people's behaviour."
+      ],
+      "answer": "C",
+      "answer_text": "linking emotions and rational\nbehaviour without considering the mediation of social\ninstitutions.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 12.09,
+        "incorrect": 25.85,
+        "unattempted": 62.06
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-VARC/verbal-question-11.shtml",
+      "official_qid": "332818233",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2024-s1-varc-12",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 1,
+      "section": "varc",
+      "number": 12,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2024-s1-varc-set2",
+      "question": "We can infer from the passage that the term ''homo economicus\" refers to someone who",
+      "options": [
+        "A) makes rational decisions based on their own preferences.",
+        "B) is not influenced by the preferences and choices of others.",
+        "C) maximises their opportunities based on nonmarket choices.",
+        "D) believes in borrowing and collaborating with other disciplines in their work."
+      ],
+      "answer": "A",
+      "answer_text": "makes rational decisions based on\ntheir own preferences.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 19.88,
+        "incorrect": 21.79,
+        "unattempted": 58.33
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-VARC/verbal-question-12.shtml",
+      "official_qid": "332818232",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2024-s1-varc-13",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 1,
+      "section": "varc",
+      "number": 13,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "The passage given below is followed by four alternate summaries. Choose the option that best captures the essence of the passage.\n\nCertain codes may, of course, be so widely distributed in a specific language community or culture, and be learned at so early an age, that they appear not to be constructed – the effect of an articulation between sign and referent – but to be 'naturally' given. Simple visual signs appear to have achieved a 'near-universality' in this sense: though evidence remains that even apparently 'natural' visual codes are culture specific. However, this does not mean that no codes have intervened; rather, that the codes have been profoundly naturalized. The operation of naturalized codes reveals not the transparency and 'naturalness' of language but the depth, the habituation and the near-universality of the codes in use. They produce apparently 'natural' recognitions. This has the (ideological) effect of concealing the practices of coding which are present.",
+      "options": [
+        "A) Learning linguistic and visual signs at an early age makes all such codes appear natural. This naturalization of codes is the effect of ideology.",
+        "B) Language and visual signs are codes. However, some of the codes are so widespread that they not only seem naturally given but also hide the mechanism of coding behind the signs.",
+        "C) All codes, linguistic and visual, have a natural origin but some are so widespread that they become universal. This is what hides the mechanism of coding behind signs.",
+        "D) Not all codes are natural but certain codes are naturalized and made to appear universal. Ideology aims to hide the mechanism of coding behind signs."
+      ],
+      "answer": "B",
+      "answer_text": "Language and visual signs are\ncodes. However, some of the codes are so widespread that they not only\nseem naturally given but also hide the mechanism of coding behind the\nsigns.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 15.54,
+        "incorrect": 24.64,
+        "unattempted": 59.82
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-VARC/verbal-question-13.shtml",
+      "official_qid": "332818458",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2024-s1-varc-14",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 1,
+      "section": "varc",
+      "number": 14,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2024-s1-varc-set3",
+      "question": "We can infer from the passage that medieval crafts guilds resembled mass production in that both",
+      "options": [
+        "A) discouraged innovation by restricting entry through strict rules.",
+        "B) focused excessively on product quality.",
+        "C) did not necessarily promote creativity.",
+        "D) did not always employ egalitarian production processes."
+      ],
+      "answer": "C",
+      "answer_text": "did not necessarily promote\ncreativity.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 20.3,
+        "incorrect": 40.27,
+        "unattempted": 39.43
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-VARC/verbal-question-14.shtml",
+      "official_qid": "332818665",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2024-s1-varc-15",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 1,
+      "section": "varc",
+      "number": 15,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2024-s1-varc-set3",
+      "question": "The most recent revival in interest in the crafts is a result of the emergence of all of the following EXCEPT:",
+      "options": [
+        "A) support for individual creations as opposed to mass-produced objects.",
+        "B) a greater interest in buying locally produced goods.",
+        "C) a niche market for discerning buyers of quality products.",
+        "D) concerns about the environmental impact of mass production."
+      ],
+      "answer": "A",
+      "answer_text": "support for individual creations as\nopposed to mass-produced objects.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 38.96,
+        "incorrect": 27.06,
+        "unattempted": 33.97
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-VARC/verbal-question-15.shtml",
+      "official_qid": "332818662",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2024-s1-varc-16",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 1,
+      "section": "varc",
+      "number": 16,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2024-s1-varc-set3",
+      "question": "The author questions the ability of crafts to create substantial employment opportunities presently because",
+      "options": [
+        "A) regulatory requirements could make it difficult for small crafts outfits to compete.",
+        "B) workers made redundant by automation are unlikely to opt for crafts-related work.",
+        "C) crafts guilds tend to resist new entrants and are unlikely to accept large numbers of trainees.",
+        "D) the low scale of crafts production will not be able to absorb the mass of redundant labour."
+      ],
+      "answer": "A",
+      "answer_text": "regulatory requirements could make\nit difficult for small crafts outfits to compete.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 28.0,
+        "incorrect": 35.37,
+        "unattempted": 36.63
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-VARC/verbal-question-16.shtml",
+      "official_qid": "332818663",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2024-s1-varc-17",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 1,
+      "section": "varc",
+      "number": 17,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2024-s1-varc-set3",
+      "question": "Which one of the following statements is NOT inconsistent with the views stated in the passage?",
+      "options": [
+        "A) Creativity in the crafts could be stifled if the market for artisan goods becomes too organised.",
+        "B) The Arts and Crafts movement was initially inspired by the \"American system\" of production.",
+        "C) The agile movement in software is a throwback to the tenets of the medieval crafts guilds.",
+        "D) We need to support the crafts; only then can we retain the creativity intrinsic to their production."
+      ],
+      "answer": "A",
+      "answer_text": "Creativity in the crafts could be\nstifled if the market for artisan goods becomes too organised.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 24.5,
+        "incorrect": 32.34,
+        "unattempted": 43.16
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-VARC/verbal-question-17.shtml",
+      "official_qid": "332818664",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2024-s1-varc-18",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 1,
+      "section": "varc",
+      "number": 18,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2024-s1-varc-set4",
+      "question": "Which of the following statements is suggested by the sentence \"Back then, at least, cinema was defined by its ephemerality: the sense that a film was as good as gone once it left your local cinema\"?",
+      "options": [
+        "A) Today, films are expected to be available for a long time, since they are no longer tied solely to their stay at the local cinema.",
+        "B) Cinema is now no longer as ephemeral as it used to be earlier, because the technology used for creating and preserving films has improved manifold.",
+        "C) Presently, there is no reason why film studios should remove access to films once they have left the local cinema.",
+        "D) Around a century ago, people were more accepting of not having access to films once they left the local cinema."
+      ],
+      "answer": "A",
+      "answer_text": "Today, films are expected to be\navailable for a long time, since they are no longer tied solely to their\nstay at the local cinema.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 25.43,
+        "incorrect": 32.15,
+        "unattempted": 42.42
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-VARC/verbal-question-18.shtml",
+      "official_qid": "33281880",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2024-s1-varc-19",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 1,
+      "section": "varc",
+      "number": 19,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2024-s1-varc-set4",
+      "question": "\"Netflix had begun editing old episodes of Stranger Things to retroactively improve their visual effects.\" What is the purpose of this example used in the passage?",
+      "options": [
+        "A) To show a practice that justifies the fears of people who feel streaming services cannot be trusted to be custodians of cultural artefacts like film.",
+        "B) To show how unsubstantiated reports are leading to an increase in the level of distrust towards streaming services.",
+        "C) To show that art in the digital age, specifically film, is no longer sacrosanct, and may be changed to suit changing tastes or technology.",
+        "D) To show that streaming services are controlling access to the cultural commons rather than expanding it."
+      ],
+      "answer": "A",
+      "answer_text": "To show a practice that justifies\nthe fears of people who feel streaming services cannot be trusted to be\ncustodians of cultural artefacts like film.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 11.39,
+        "incorrect": 51.52,
+        "unattempted": 37.1
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-VARC/verbal-question-19.shtml",
+      "official_qid": "33281881",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2024-s1-varc-20",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 1,
+      "section": "varc",
+      "number": 20,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2024-s1-varc-set4",
+      "question": "Which one of the following statements, if true, would best invalidate the main argument of the passage?",
+      "options": [
+        "A) Improved cloud storage services have made it possible for movie collections to now be preserved in perpetuity, without the need to keep migrating the files.",
+        "B) Studios and streaming services have committed to giving customers perpetual and platform-independent access to the original digital content they have paid for.",
+        "C) Recent research has irrefutably proven that Blu-Ray discs have a shelf life of at least 100 years.",
+        "D) When moving to a different geographical location, customers can easily use Virtual Private Networks (VPNs) to bypass geo-blocking and regain access to their content on any streaming service."
+      ],
+      "answer": "B",
+      "answer_text": "Studios and streaming services have\ncommitted to giving customers perpetual and platform-independent\naccess to the original digital content they have paid for.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 32.66,
+        "incorrect": 22.54,
+        "unattempted": 44.8
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-VARC/verbal-question-20.shtml",
+      "official_qid": "33281879",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2024-s1-varc-21",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 1,
+      "section": "varc",
+      "number": 21,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2024-s1-varc-set4",
+      "question": "Which one of the following statements about art best captures the arguments made in the passage?",
+      "options": [
+        "A) Works of art belong to the cultural commons and hence must remain available in perpetuity, irrespective of who pays for access to them.",
+        "B) In the age of online subscription services, it is time to change our understanding of classic works of art being primarily immutable and easily available to the public.",
+        "C) As art is increasingly created, stored and distributed digitally, access to it is counterintuitively likely to be made more difficult by the rapid churn in technology and the whims of host platforms.",
+        "D) Accepting retroactive changes to works of art is dangerous because it will encourage creators to not put enough effort into the original attempt, given that they can always edit or update their work later."
+      ],
+      "answer": "C",
+      "answer_text": "As art is increasingly created,\nstored and distributed digitally, access to it is counterintuitively\nlikely to be made more difficult by the rapid churn in technology and\nthe whims of host platforms.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 31.73,
+        "incorrect": 14.42,
+        "unattempted": 53.85
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-VARC/verbal-question-21.shtml",
+      "official_qid": "33281882",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2024-s1-varc-22",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 1,
+      "section": "varc",
+      "number": 22,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "The passage given below is followed by four alternate summaries. Choose the option that best captures the essence of the passage.\n\nScientific research shows that many animals are very intelligent and have sensory and motor abilities that dwarf ours. Dogs are able to detect diseases such as cancer and diabetes and warn humans of impending heart attacks and strokes. Elephants, whales, hippopotamuses, giraffes, and alligators use low-frequency sounds to communicate over long distances, often miles. Many animals also display wide-ranging emotions, including joy, happiness, empathy, compassion, grief, and even resentment and embarrassment. It's not surprising that animals share many emotions with us because we also share brain structures, located in the limbic system, that are the seat of our emotions.",
+      "options": [
+        "A) Animals can show emotions which are typically associated with humans.",
+        "B) The similarity in brain structure explains why animals show emotions typically associated with humans.",
+        "C) The advanced sensory and motor abilities of animals is the reason why they can display wide-ranging emotions.",
+        "D) Animals are more intelligent than us in sensing danger and detecting diseases."
+      ],
+      "answer": "B",
+      "answer_text": "The similarity in brain structure\nexplains why animals show emotions typically associated with\nhumans.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 64.21,
+        "incorrect": 20.07,
+        "unattempted": 15.73
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-VARC/verbal-question-22.shtml",
+      "official_qid": "332818459",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2024-s1-varc-23",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 1,
+      "section": "varc",
+      "number": 23,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "Five jumbled up sentences (labelled 1, 2, 3, 4 and 5), related to a topic, are given below. Four of them can be put together to form a coherent paragraph. Identify the odd sentence and key in the number of that sentence as your answer.\n\n1. Urbanites also have more and better options for getting around: Uber is ubiquitous; easy-to-rent dockless bicycles are spreading; battery-powered scooters will be next.\n2. When more people use buses or trains the service usually improves because public-transport agencies run more buses and trains.\n3. Worsening services on public transport, terrorist attacks in some urban metros and a rise in fares have been blamed for this trend.\n4. It seems more likely that public transport is being squeezed structurally as people's need to travel is diminishing as a result of smartphones, video-conferencing, online shopping and so on.\n5. There has been a puzzling decline in the use of urban public transport in many countries in the west, despite the growth in urban populations and rising employment.",
+      "options": null,
+      "answer": "2",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 45.96,
+        "incorrect": 42.0,
+        "unattempted": 12.04
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-VARC/verbal-question-23.shtml",
+      "official_qid": "332818484",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2024-s1-varc-24",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 1,
+      "section": "varc",
+      "number": 24,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "There is a sentence that is missing in the paragraph below. Look at the paragraph and decide where (option 1, 2, 3, or 4) the following sentence would best fit.\n\nSentence: Understanding central Asia's role helps developments make more sense not only across Asia but in Europe, the Americas and Africa.\n\nParagraph: The nations of the Silk Roads are sometimes called 'developing countries', but they are actually some of the world's most highly developed countries, the very crossroads of civilization, in advanced states of disrepair. ___(1)___. These countries lie at the centre of global affairs: they have since the beginning of history. Running across the spine of Asia, they form a web of connections fanning out in every direction, routes along which pilgrims and warriors, nomads and merchants have travelled, goods and produce have been bought and sold, and ideas exchanged, adapted and refined. ___(2)___ .They have carried not only prosperity, but also death and violence, disease and disaster. ___(3)___. The Silk Roads are the world's central nervous system, connecting otherwise far-flung peoples and places…. ___(4)___. It allows us to see patterns and links, causes and effects that remain invisible if one looks only at Europe, or North America.",
+      "options": [
+        "A) Option 1",
+        "B) Option 4",
+        "C) Option 3",
+        "D) Option 2"
+      ],
+      "answer": "B",
+      "answer_text": "Option 4",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 51.84,
+        "incorrect": 19.27,
+        "unattempted": 28.88
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-VARC/verbal-question-24.shtml",
+      "official_qid": "332818464",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": false
+    }
+  ]
+}

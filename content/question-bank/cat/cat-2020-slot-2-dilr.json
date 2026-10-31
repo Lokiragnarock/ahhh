@@ -1,0 +1,796 @@
+{
+  "exam": "CAT",
+  "year": 2020,
+  "slot": 2,
+  "section": "dilr",
+  "source": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-2-DILR/",
+  "licence": "Real CAT questions (c) IIMs, as re-published free by 2IIM (c) 2IIM. Private study use in AHH only; do not republish.",
+  "scraped": "2026-10-31",
+  "count": 24,
+  "sets": [
+    {
+      "id": "cat-2020-s2-dilr-set1",
+      "text": "Twenty five coloured beads are to be arranged in a grid comprising of five rows and five columns. Each cell in the grid must contain exactly one bead. Each bead is coloured either Red, Blue or Green.\n\nWhile arranging the beads along any of the five rows or along any of the five columns, the rules given below are to be followed:\n\n1. Two adjacent beads along the same row or column are always of different colours.\n2. There is at least one Green bead between any two Blue beads along the same row or column.\n3. There is at least one Blue and at least one Green bead between any two Red beads along the same row or column.\n\nEvery unique, complete arrangement of twenty five beads is called a configuration."
+    },
+    {
+      "id": "cat-2020-s2-dilr-set2",
+      "text": "A shopping mall has a large basement parking lot with parking slots painted in it along a single row. These slots are quite narrow; a compact car can fit in a single slot but an SUV requires two slots. When a car arrives, the parking attendant guides the car to the first available slot from the beginning of the row into which the car can fit.\n\nFor our purpose, cars are numbered according to the order in which they arrive at the lot. For example, the first car to arrive is given a number 1, the second a number 2, and so on. This numbering does not indicate whether a car is a compact or an SUV. The configuration of a parking lot is a sequence of the car numbers in each slot. Each single vacant slot is represented by letter V.\n\nFor instance, suppose cars numbered 1 through 5 arrive and park, where cars 1, 3 and 5 are compact cars and 2 and 4 are SUVs. At this point, the parking lot would be described by the sequence 1, 2, 3, 4, 5. If cars 2 and 5 now vacate their slots, the parking lot would now be described as 1, V, V, 3, 4. If a compact car (numbered 6) arrives subsequently followed by an SUV (numbered 7), the parking lot would be described by the sequence 1, 6, V, 3, 4, 7.\n\nAnswer the following questions INDEPENDENTLY of each other."
+    },
+    {
+      "id": "cat-2020-s2-dilr-set3",
+      "text": "A chain of departmental stores has outlets in Delhi, Mumbai, Bengaluru and Kolkata. The sales are categorized by its three departments – ‘Apparel’, ‘Electronics’, and ‘HomeDecor’. An Accountant has been asked to prepare a summary of the 2018 and 2019 sales amounts for an internal report. He has collated partial information and prepared the following table.\n\n![figure](img/2020-s2-dilr/756_489168_0_1011658_48916812410.jpg)\n\nThe following additional information is known.\n1. The sales amounts in the Apparel departments were the same for Delhi and Kolkata in 2018.\n2. The sales amounts in the Apparel departments were the same for Mumbai and Bengaluru in 2018. This sales amount matched the sales amount in the Apparel department for Delhi in 2019.\n3. The sales amounts in the HomeDecor departments were the same for Mumbai and Kolkata in 2018.\n4. The sum of the sales amounts of four Electronics departments increased by the same amount as the sum of the sales amounts of four Apparel departments from 2018 to 2019.\n5. The total sales amounts of the four HomeDecor departments increased by Rs 70 Crores from 2018 to 2019.\n6. The sales amounts in the HomeDecor departments of Delhi and Bengaluru each increased by Rs 20 Crores from 2018 to 2019.\n7. The sales amounts in the Apparel departments of Delhi and Bengaluru each increased by the same amount in 2019 from 2018. The sales amounts in the Apparel departments of Mumbai and Kolkata also each increased by the same amount in 2019 from 2018.\n8. The sales amounts in the Apparel departments of Delhi, Kolkata and Bengaluru in 2019 followed an Arithmetic Progression."
+    },
+    {
+      "id": "cat-2020-s2-dilr-set4",
+      "text": "In an election several candidates contested for a constituency. In any constituency, the winning candidate was the one who polled the highest number of votes, the first runner up was the one who polled the second highest number of votes, the second runner up was the one who polled the third highest number of votes, and so on. There were no ties (in terms of number of votes polled by the candidates) in any of the constituencies in this election.\n\nIn an electoral system, a security deposit is the sum of money that a candidate is required to pay to the election commission before he or she is permitted to contest. Only the defeated candidates (i.e., one who is not the winning candidate) who fail to secure more than one sixth of the valid votes polled in the constituency, lose their security deposits.\n\nThe following table provides some incomplete information about votes polled in four constituencies: A, B, C and D, in this election.\n\n| | Constituency | | | |\n|---|---|---|---|---|\n| | A | B | C | D |\n| No. of candidates contesting | 10 | 12 | 5 | 8 |\n| Total No. of valid votes polled | 5,00,000 | 3,25,000 | 6,00,030 | |\n| No. of votes polled by the winning candidate | 2,75,000 | 48,750 | | |\n| No. of votes polled by the first runner up | 95,000 | | | 37,500 |\n| No. of votes polled by the second runner up | | | | 30,000 |\n| % of valid votes polled by the third runner up | | | | 10% |"
+    },
+    {
+      "id": "cat-2020-s2-dilr-set5",
+      "text": "The Humanities department of a college is planning to organize eight seminars, one for each of the eight doctoral students - A, B, C, D, E, F, G and H. Four of them are from Economics, three from Sociology and one from Anthropology department. Each student is guided by one among P, Q, R, S and T. Two students are guided by each of P, R and T, while one student is guided by each of Q and S. Each student is guided by a guide belonging to their department.\n\nEach seminar is to be scheduled in one of four consecutive 30-minute slots starting at 9:00 am, 9:30 am, 10:00 am and 10:30 am on the same day. More than one seminars can be scheduled in a slot, provided the guide is free. Only three rooms are available and hence at the most three seminars can be scheduled in a slot. Students who are guided by the same guide must be scheduled in consecutive slots.\n\nThe following additional facts are also known.\n\n1. Seminars by students from Economics are scheduled in each of the four slots.\n2. A’s is the only seminar that is scheduled at 10:00 am. A is guided by R.\n3. F is an Anthropology student whose seminar is scheduled at 10:30 am.\n4. The seminar of a Sociology student is scheduled at 9:00 am.\n5. B and G are both Sociology students, whose seminars are scheduled in the same slot. The seminar of an Economics student, who is guided by T, is also scheduled in the same slot.\n6. P, who is guiding both B and C, has students scheduled in the first two slots.\n7. A and G are scheduled in two consecutive slots."
+    }
+  ],
+  "questions": [
+    {
+      "id": "cat-2020-s2-dilr-01",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 2,
+      "section": "dilr",
+      "number": 1,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2020-s2-dilr-set1",
+      "question": "The total number of possible congurations using beads of only two colours is:",
+      "options": null,
+      "answer": "2",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-2-DILR/dilr-question-1.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2020-s2-dilr-02",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 2,
+      "section": "dilr",
+      "number": 2,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2020-s2-dilr-set1",
+      "question": "What is the maximum possible number of Red beads that can appear in any conguration?",
+      "options": null,
+      "answer": "9",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-2-DILR/dilr-question-2.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2020-s2-dilr-03",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 2,
+      "section": "dilr",
+      "number": 3,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2020-s2-dilr-set1",
+      "question": "What is the minimum number of Blue beads in any conguration?",
+      "options": null,
+      "answer": "6",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-2-DILR/dilr-question-3.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2020-s2-dilr-04",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 2,
+      "section": "dilr",
+      "number": 4,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2020-s2-dilr-set1",
+      "question": "Two Red beads have been placed in ‘second row, third column’ and ‘third row, second column’. How many more Red beads can be placed so as to maximise the number of Red beads used in the configuration?",
+      "options": null,
+      "answer": "6",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-2-DILR/dilr-question-4.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2020-s2-dilr-05",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 2,
+      "section": "dilr",
+      "number": 5,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2020-s2-dilr-set2",
+      "question": "Initially cars numbered 1, 2, 3, and 4 arrive among which 1 and 4 are SUVs while 2 and 3 are compact cars. Car 1 then leaves, followed by the arrivals of car 5 (a compact car) and car 6 (an SUV). Car 4 then leaves. Then car 7 (an SUV) and car 8 (a compact car) arrive. At this moment, which among the following numbered car is parked next to car 3?",
+      "options": [
+        "A) 6",
+        "B) 5",
+        "C) 8",
+        "D) 7"
+      ],
+      "answer": "D",
+      "answer_text": "7",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-2-DILR/dilr-question-5.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2020-s2-dilr-06",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 2,
+      "section": "dilr",
+      "number": 6,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2020-s2-dilr-set2",
+      "question": "Suppose eight cars have arrived, of which two have left. Also suppose that car 4 is a compact and car 7 is an SUV. Which of the following is a POSSIBLE current configuration of the parking lot?",
+      "options": [
+        "A) 8, 2, 3, V, 5, 7, 6",
+        "B) 8, 2, 3, V, 6, 5, 7",
+        "C) 8, 2, 3, V, 5, 6, 7",
+        "D) V, 2, 3, 7, 5, 6, 8"
+      ],
+      "answer": "C",
+      "answer_text": "8, 2, 3, V, 5, 6, 7",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-2-DILR/dilr-question-6.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2020-s2-dilr-07",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 2,
+      "section": "dilr",
+      "number": 7,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2020-s2-dilr-set2",
+      "question": "Suppose the sequence at some point of time is 4, 5, 6, V, 3. Which of the following is NOT necessarily true?",
+      "options": [
+        "A) Car 5 is a compact.",
+        "B) Car 1 is an SUV.",
+        "C) Car 3 is an SUV.",
+        "D) Car 4 is a compact."
+      ],
+      "answer": "C",
+      "answer_text": "Car 3 is an SUV.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-2-DILR/dilr-question-7.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2020-s2-dilr-08",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 2,
+      "section": "dilr",
+      "number": 8,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2020-s2-dilr-set2",
+      "question": "Suppose that car 4 is not the first car to leave and that the sequence at a time between the arrival of the car 7 and car 8 is V, 7, 3, 6, 5. Then which of the following statements MUST be false?",
+      "options": [
+        "A) Car 6 is a compact.",
+        "B) Car 2 is a compact.",
+        "C) Car 7 is a compact.",
+        "D) Car 4 is an SUV."
+      ],
+      "answer": "A",
+      "answer_text": "Car 6 is a compact.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-2-DILR/dilr-question-8.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2020-s2-dilr-09",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 2,
+      "section": "dilr",
+      "number": 9,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2020-s2-dilr-set3",
+      "question": "In HomeDecor departments of which cities were the sales amounts the highest in 2018 and 2019, respectively?",
+      "options": [
+        "A) Delhi and Delhi",
+        "B) Mumbai and Delhi",
+        "C) Mumbai and Mumbai",
+        "D) Bengaluru and Delhi"
+      ],
+      "answer": "A",
+      "answer_text": "Delhi and Delhi",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-2-DILR/dilr-question-9.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2020-s2-dilr-10",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 2,
+      "section": "dilr",
+      "number": 10,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2020-s2-dilr-set3",
+      "question": "What was the increase in sales amount, in Crore Rupees, in the Apparel department of Mumbai from 2018 to 2019?",
+      "options": [
+        "A) 12",
+        "B) 10",
+        "C) 5",
+        "D) 8"
+      ],
+      "answer": "A",
+      "answer_text": "12",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-2-DILR/dilr-question-10.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2020-s2-dilr-11",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 2,
+      "section": "dilr",
+      "number": 11,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2020-s2-dilr-set3",
+      "question": "Among all the 12 departments (i.e., the 3 departments in each of the 4 cities), what was the maximum percentage increase in sales amount from 2018 to 2019?",
+      "options": [
+        "A) 75",
+        "B) 50",
+        "C) 25",
+        "D) 28"
+      ],
+      "answer": "B",
+      "answer_text": "50",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-2-DILR/dilr-question-11.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2020-s2-dilr-12",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 2,
+      "section": "dilr",
+      "number": 12,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2020-s2-dilr-set3",
+      "question": "What was the total sales amount, in Crore Rupees, in 2019 for the chain of departmental stores?",
+      "options": [
+        "A) 900",
+        "B) 150",
+        "C) 750",
+        "D) 600"
+      ],
+      "answer": "A",
+      "answer_text": "900",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-2-DILR/dilr-question-12.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2020-s2-dilr-13",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 2,
+      "section": "dilr",
+      "number": 13,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2020-s2-dilr-set4",
+      "question": "What is the percentage of votes polled in total by all the candidates who lost their security deposits while contesting for constituency A?",
+      "options": null,
+      "answer": "9",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-2-DILR/dilr-question-13.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2020-s2-dilr-14",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 2,
+      "section": "dilr",
+      "number": 14,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2020-s2-dilr-set4",
+      "question": "How many candidates who contested in constituency B lost their security deposit?",
+      "options": null,
+      "answer": "11",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-2-DILR/dilr-question-14.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2020-s2-dilr-15",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 2,
+      "section": "dilr",
+      "number": 15,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2020-s2-dilr-set4",
+      "question": "What BEST can be concluded about the number of votes polled by the winning candidate in constituency C?",
+      "options": [
+        "A) between 1,40,005 and 1,40,010",
+        "B) 1,40,006",
+        "C) less than 2,00,010",
+        "D) 1,40,010"
+      ],
+      "answer": "B",
+      "answer_text": "1,40,006",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-2-DILR/dilr-question-15.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2020-s2-dilr-16",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 2,
+      "section": "dilr",
+      "number": 16,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2020-s2-dilr-set4",
+      "question": "What was the number of valid votes polled in constituency D?",
+      "options": [
+        "A) 1,75,000",
+        "B) 62,500",
+        "C) 1,25,000",
+        "D) 1,50,000"
+      ],
+      "answer": "A",
+      "answer_text": "1,75,000",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-2-DILR/dilr-question-16.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2020-s2-dilr-17",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 2,
+      "section": "dilr",
+      "number": 17,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2020-s2-dilr-set4",
+      "question": "The winning margin of a constituency is defined as the difference of votes polled by the winner and that of the first runner up. Which of the following CANNOT be the list of constituencies, in increasing order of winning margin?",
+      "options": [
+        "A) B, D, C, A",
+        "B) D, B, C, A",
+        "C) D, C, B, A",
+        "D) B, C, D, A"
+      ],
+      "answer": "D",
+      "answer_text": "B, C, D, A",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-2-DILR/dilr-question-17.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2020-s2-dilr-18",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 2,
+      "section": "dilr",
+      "number": 18,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2020-s2-dilr-set4",
+      "question": "For all the four constituencies taken together, what was the approximate number of votes polled by all the candidates who lost their security deposit expressed as a percentage of the total valid votes from these four constituencies?",
+      "options": [
+        "A) 32.00%",
+        "B) 38.25%",
+        "C) 23.54%",
+        "D) 23.91%"
+      ],
+      "answer": "D",
+      "answer_text": "23.91%",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-2-DILR/dilr-question-18.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2020-s2-dilr-19",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 2,
+      "section": "dilr",
+      "number": 19,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2020-s2-dilr-set5",
+      "question": "Which one of the following statements is true?",
+      "options": [
+        "A) Only one seminar is scheduled in the second slot.",
+        "B) Three seminars are scheduled in the last slot.",
+        "C) Three seminars are scheduled in the first slot.",
+        "D) Two seminars are scheduled in the first slot."
+      ],
+      "answer": "D",
+      "answer_text": "Two seminars are scheduled in the first slot.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-2-DILR/dilr-question-19.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2020-s2-dilr-20",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 2,
+      "section": "dilr",
+      "number": 20,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2020-s2-dilr-set5",
+      "question": "Who all are NOT guiding any Economics students?",
+      "options": [
+        "A) P, R and S",
+        "B) P, Q and R",
+        "C) P, Q and S",
+        "D) Q, R and S"
+      ],
+      "answer": "C",
+      "answer_text": "P, Q and S",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-2-DILR/dilr-question-20.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2020-s2-dilr-21",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 2,
+      "section": "dilr",
+      "number": 21,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2020-s2-dilr-set5",
+      "question": "Which of the following statements is necessarily true?",
+      "options": [
+        "A) Q is guiding G.",
+        "B) H is an Economics student.",
+        "C) B is scheduled in the first slot.",
+        "D) S is guiding F."
+      ],
+      "answer": "B",
+      "answer_text": "H is an Economics student.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-2-DILR/dilr-question-21.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2020-s2-dilr-22",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 2,
+      "section": "dilr",
+      "number": 22,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2020-s2-dilr-set5",
+      "question": "If D is scheduled in a slot later than Q's, then which of the following two statement(s) is(are) true?\n(i) E and H are guided by T.\n(ii) G is guided by Q.",
+      "options": [
+        "A) Neither (i) nor (ii)",
+        "B) Both (i) and (ii)",
+        "C) Only (ii)",
+        "D) Only (i)"
+      ],
+      "answer": "B",
+      "answer_text": "Both (i) and (ii)",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-2-DILR/dilr-question-22.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2020-s2-dilr-23",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 2,
+      "section": "dilr",
+      "number": 23,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2020-s2-dilr-set5",
+      "question": "If E and Q are both scheduled in the same slot, then which of the following statements BEST describes the relationship between D, H, and T?",
+      "options": [
+        "A) At least one of D and H is guided by T.",
+        "B) Both D and H are guided by T.",
+        "C) Neither D nor H is guided by T.",
+        "D) Exactly one of D and H is guided by T."
+      ],
+      "answer": "A",
+      "answer_text": "At least one of D and H is guided by T.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-2-DILR/dilr-question-23.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2020-s2-dilr-24",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 2,
+      "section": "dilr",
+      "number": 24,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2020-s2-dilr-set5",
+      "question": "If D is scheduled in the slot immediately before Q’s, then which of the following is NOT necessarily true?",
+      "options": [
+        "A) G is guided by Q.",
+        "B) D is guided by T.",
+        "C) F is guided by S.",
+        "D) E is guided by R."
+      ],
+      "answer": "D",
+      "answer_text": "E is guided by R.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-2-DILR/dilr-question-24.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    }
+  ]
+}

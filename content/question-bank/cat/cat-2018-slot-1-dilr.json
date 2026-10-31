@@ -1,0 +1,1062 @@
+{
+  "exam": "CAT",
+  "year": 2018,
+  "slot": 1,
+  "section": "dilr",
+  "source": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/",
+  "licence": "Real CAT questions (c) IIMs, as re-published free by 2IIM (c) 2IIM. Private study use in AHH only; do not republish.",
+  "scraped": "2026-10-31",
+  "count": 32,
+  "sets": [
+    {
+      "id": "cat-2018-s1-dilr-set1",
+      "text": "A company administers a written test comprising of three sections of 20 marks each – Data Interpretation (DI), Written English (WE) and General Awareness (GA), for recruitment. A composite score for a candidate (out of 80) is calculated by doubling her marks in DI and adding it to the sum of her marks in the other two sections. Candidates who score less than 70% marks in two or more sections are disqualified. From among the rest, the four with the highest composite scores are recruited. If four or less candidates qualify, all who qualify are recruited.\n\nTen candidates appeared for the written test. Their marks in the test are given in the table below:\n\n![CAT DI LR 2018 Slot 1](img/2018-s1-dilr/written-test-1.png)\n\nSome marks in the table are missing, but the following facts are known:\n1. No two candidates had the same composite score.\n2. Ajay was the unique highest scorer in WE.\n3. Among the four recruited, Geeta had the lowest composite score.\n4. Indu was recruited.\n5. Danish, Harini, and Indu had scored the same marks the in GA.\n6. Indu and Jatin both scored 100% in exactly one section and Jatin’s composite score was 10 more than Indu’s."
+    },
+    {
+      "id": "cat-2018-s1-dilr-set2",
+      "text": "1600 satellites were sent up by a country for several purposes. The purposes are classified as broadcasting (B), communication (C), surveillance (S), and others (O). A satellite can serve multiple purposes; however a satellite serving either B, or C, or S does not serve O.\nThe following facts are known about the satellites:\n1.The numbers of satellites serving B, C, and S (though may be not exclusively) are in the ratio 2:1:1.\n2.The number of satellites serving all three of B, C, and S is 100.\n3.The number of satellites exclusively serving C is the same as the number of satellites exclusively serving S. This number is 30% of the number of satellites exclusively serving B.\n4.The number of satellites serving O is the same as the number of satellites serving both C and S but not B."
+    },
+    {
+      "id": "cat-2018-s1-dilr-set3",
+      "text": "You are given an n×n square matrix to be ﬁlled with numerals so that no two adjacent cells have the same numeral. Two cells are called adjacent if they touch each other horizontally, vertically or diagonally. So a cell in one of the four corners has three cells adjacent to it, and a cell in the ﬁrst or last row or column which is not in the corner has five cells adjacent to it. Any other cell has eight cells adjacent to it."
+    },
+    {
+      "id": "cat-2018-s1-dilr-set4",
+      "text": "The multi-layered pie-chart below shows the sales of LED television sets for a big retail electronics outlet during 2016 and 2017. The outer layer shows the monthly sales during this period, with each label showing the month followed by sales figure of that month. For some months, the sales figures are not given in the chart. The middle-layer shows quarter-wise aggregate sales figures (in some cases, aggregate quarter-wise sales numbers are not given next to the quarter). The innermost layer shows annual sales. It is known that the sales figures during the three months of the second quarter (April, May, June) of 2016 form an arithmetic progression, as do the three monthly sales figures in the fourth quarter (October, November, December)of that year.\n\n![CAT DI LR 2017 Slot 1](img/2018-s1-dilr/LED-TV-Sales-1.png)"
+    },
+    {
+      "id": "cat-2018-s1-dilr-set5",
+      "text": "An ATM dispenses exactly Rs. 5000 per withdrawal using 100, 200 and 500 rupee notes. The ATM requires every customer to give her preference for one of the three denominations of notes. It then dispenses notes such that the number of notes of the customer’s preferred denomination exceeds the total number of notes of other denominations dispensed to her."
+    },
+    {
+      "id": "cat-2018-s1-dilr-set6",
+      "text": "Fuel contamination levels at each of 20 petrol pumps P1, P2, …, P20 were recorded as either high, medium, or low.\n\n1. Contamination levels at three pumps among P1 – P5 were recorded as high.\n2. P6 was the only pump among P1 – P10 where the contamination level was recorded as low.\n3. P7 and P8 were the only two consecutively numbered pumps where the same levels of contamination were recorded.\n4. High contamination levels were not recorded at any of the pumps P16 – P20.\n5. The number of pumps where high contamination levels were recorded was twice the number of pumps where low contamination levels were recorded."
+    },
+    {
+      "id": "cat-2018-s1-dilr-set7",
+      "text": "Adriana, Bandita, Chitra, and Daisy are four female students, and Amit, Barun, Chetan, and Deb are four male students. Each of them studies in one of three institutes - X, Y, and Z. Each student majors in one subject among Marketing, Operations, and Finance, and minors in a different one among these three subjects. The following facts are known about the eight students:\n\n1. Three students are from X, three are from Y, and the remaining two students, both female, are from Z.\n2. Both the male students from Y minor in Finance, while the female student from Y majors in Operations.\n3. Only one male student majors in Operations, while three female students minor in Marketing.\n4. One female and two male students major in Finance.\n5. Adriana and Deb are from the same institute. Daisy and Amit are from the same institute.\n6. Barun is from Y and majors in Operations. Chetan is from X and majors in Finance.\n7. Daisy minors in Operations."
+    },
+    {
+      "id": "cat-2018-s1-dilr-set8",
+      "text": "Twenty four people are part of three committees which are to look at research, teaching, and administration respectively. No two committees have any member in common. No two committees are of the same size. Each committee has three types of people: bureaucrats, educationalists, and politicians, with at least one from each of the three types in each committee. The following facts are also known about the committees:\n\n1. The numbers of bureaucrats in the research and teaching committees are equal, while the number of bureaucrats in the research committee is 75% of the number of bureaucrats in the administration committee.\n2. The number of educationalists in the teaching committee is less than the number of educationalists in the research committee. The number of educationalists in the research committee is the average of the numbers of educationalists in the other two committees.\n3. 60% of the politicians are in the administration committee, and 20% are in the teaching committee."
+    }
+  ],
+  "questions": [
+    {
+      "id": "cat-2018-s1-dilr-01",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 1,
+      "section": "dilr",
+      "number": 1,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2018-s1-dilr-set1",
+      "question": "Which of the following statements MUST be true?\n\n1.Jatin's composite score was more than that of Danish.\n2.Indu scored less than Chetna in DI.\n3.Jatin scored more than Indu in GA.",
+      "options": [
+        "A) Only 2",
+        "B) Both 2 and 3",
+        "C) Only 1",
+        "D) Both 1 and 2"
+      ],
+      "answer": "D",
+      "answer_text": "Both 1 and 2",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/dilr-set1-1.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2018-s1-dilr-02",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 1,
+      "section": "dilr",
+      "number": 2,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2018-s1-dilr-set1",
+      "question": "Which of the following statements MUST be FALSE?",
+      "options": [
+        "A) Bala scored same as Jatin in DI",
+        "B) Bala’s composite score was less than that of Ester",
+        "C) Chetna scored more than Bala in DI",
+        "D) Harini’s composite score was less than that of Falak"
+      ],
+      "answer": "A",
+      "answer_text": "Bala scored same as Jatin in DI",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/dilr-set1-2.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2018-s1-dilr-03",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 1,
+      "section": "dilr",
+      "number": 3,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2018-s1-dilr-set1",
+      "question": "If all the candidates except Ajay and Danish had different marks in DI, and Bala's composite score was less than Chetna's composite score, then what is the maximum marks that Bala could have scored in DI? (TITA)",
+      "options": null,
+      "answer": "13 Marks",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/dilr-set1-3.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2018-s1-dilr-04",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 1,
+      "section": "dilr",
+      "number": 4,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2018-s1-dilr-set1",
+      "question": "If all the candidates scored different marks in WE then what is the maximum marks that Harini could have scored in WE? (TITA)",
+      "options": null,
+      "answer": "14 Marks",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/dilr-set1-4.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2018-s1-dilr-05",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 1,
+      "section": "dilr",
+      "number": 5,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2018-s1-dilr-set2",
+      "question": "What best can be said about the number of satellites serving C?",
+      "options": [
+        "A) Must be between 400 and 800",
+        "B) Cannot be more than 800",
+        "C) Must be at least 100",
+        "D) Must be between 450 and 725"
+      ],
+      "answer": "D",
+      "answer_text": "Must be between 450 and 725",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/dilr-set2-1.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2018-s1-dilr-06",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 1,
+      "section": "dilr",
+      "number": 6,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2018-s1-dilr-set2",
+      "question": "What is the minimum possible number of satellites serving B exclusively?",
+      "options": [
+        "A) 100",
+        "B) 200",
+        "C) 250",
+        "D) 500"
+      ],
+      "answer": "C",
+      "answer_text": "250",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/dilr-set2-2.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2018-s1-dilr-07",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 1,
+      "section": "dilr",
+      "number": 7,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2018-s1-dilr-set2",
+      "question": "If at least 100 of the 1600 satellites were serving O, what can be said about the number of satellites serving S?",
+      "options": [
+        "A) At least 475",
+        "B) No conclusion is possible based on the given information",
+        "C) Exactly 475",
+        "D) At most 475"
+      ],
+      "answer": "D",
+      "answer_text": "At most 475",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/dilr-set2-3.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2018-s1-dilr-08",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 1,
+      "section": "dilr",
+      "number": 8,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2018-s1-dilr-set2",
+      "question": "If the number of satellites serving at least two among B, C, and S is 1200, which of the following MUST be FALSE?",
+      "options": [
+        "A) All 1600 satellites serve B or C or S",
+        "B) The number of satellites serving C cannot be uniquely determined",
+        "C) The number of satellites serving B exclusively is exactly 250",
+        "D) The number of satellites serving B is more than 1000"
+      ],
+      "answer": "B",
+      "answer_text": "The number of satellites\nserving C cannot be uniquely determined",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/dilr-set2-4.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2018-s1-dilr-09",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 1,
+      "section": "dilr",
+      "number": 9,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2018-s1-dilr-set3",
+      "question": "What is the minimum number of different numerals needed to ﬁll a 3×3 square matrix? (TITA)",
+      "options": null,
+      "answer": "4",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/dilr-set3-1.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2018-s1-dilr-10",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 1,
+      "section": "dilr",
+      "number": 10,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2018-s1-dilr-set3",
+      "question": "What is the minimum number of different numerals needed to ﬁll a 5×5 square matrix? (TITA)",
+      "options": null,
+      "answer": "4",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/dilr-set3-2.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2018-s1-dilr-11",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 1,
+      "section": "dilr",
+      "number": 11,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2018-s1-dilr-set3",
+      "question": "Suppose you are allowed to make one mistake, that is, one pair of adjacent cells can have the same numeral. What is the minimum number of different numerals required to ﬁll a 5×5 matrix?",
+      "options": [
+        "A) 4",
+        "B) 16",
+        "C) 9",
+        "D) 25"
+      ],
+      "answer": "A",
+      "answer_text": "4",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/dilr-set3-3.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2018-s1-dilr-12",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 1,
+      "section": "dilr",
+      "number": 12,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2018-s1-dilr-set3",
+      "question": "Suppose that all the cells adjacent to any particular cell must have different numerals. What is the minimum number of different numerals needed to fill a 5×5 square matrix?",
+      "options": [
+        "A) 9",
+        "B) 25",
+        "C) 16",
+        "D) 4"
+      ],
+      "answer": "A",
+      "answer_text": "9",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/dilr-set3-4.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2018-s1-dilr-13",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 1,
+      "section": "dilr",
+      "number": 13,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2018-s1-dilr-set4",
+      "question": "What is the percentage increase in sales in December 2017 as compared to the sales in December 2016?",
+      "options": [
+        "A) 22.22%",
+        "B) 28.57%",
+        "C) 50.00%",
+        "D) 38.46%"
+      ],
+      "answer": "B",
+      "answer_text": "28.57%",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/dilr-set4-1.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2018-s1-dilr-14",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 1,
+      "section": "dilr",
+      "number": 14,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2018-s1-dilr-set4",
+      "question": "In which quarter of 2017 was the percentage increase in sales from the same quarter of 2016 the highest?",
+      "options": [
+        "A) Q2",
+        "B) Q4",
+        "C) Q1",
+        "D) Q3"
+      ],
+      "answer": "C",
+      "answer_text": "Q1",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/dilr-set4-2.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2018-s1-dilr-15",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 1,
+      "section": "dilr",
+      "number": 15,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2018-s1-dilr-set4",
+      "question": "During which quarter was the percentage decrease in sales from the previous quarter’s sales the highest?",
+      "options": [
+        "A) Q4 of 2017",
+        "B) Q1 of 2017",
+        "C) Q2 of 2017",
+        "D) Q2 of 2016"
+      ],
+      "answer": "C",
+      "answer_text": "Q2 of 2017",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/dilr-set4-3.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2018-s1-dilr-16",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 1,
+      "section": "dilr",
+      "number": 16,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2018-s1-dilr-set4",
+      "question": "During which month was the percentage increase in sales from the previous month’s sales the highest?",
+      "options": [
+        "A) March of 2016",
+        "B) October of 2016",
+        "C) October of 2017",
+        "D) March of 2017"
+      ],
+      "answer": "C",
+      "answer_text": "October of 2017",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/dilr-set4-4.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2018-s1-dilr-17",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 1,
+      "section": "dilr",
+      "number": 17,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2018-s1-dilr-set5",
+      "question": "In how many diﬀerent ways can the ATM serve a customer who gives 500 rupee notes as her preference? (TITA)",
+      "options": null,
+      "answer": "7 ways",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/dilr-set5-1.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2018-s1-dilr-18",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 1,
+      "section": "dilr",
+      "number": 18,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2018-s1-dilr-set5",
+      "question": "If the ATM could serve only 10 customers with a stock of fifty 500 rupee notes and a sufficient number of notes of other denominations, what is the maximum number of customers among these 10 who could have given 500 rupee notes as their preferences? (TITA)",
+      "options": null,
+      "answer": "6",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/dilr-set5-2.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2018-s1-dilr-19",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 1,
+      "section": "dilr",
+      "number": 19,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2018-s1-dilr-set5",
+      "question": "What is the maximum number of customers that the ATM can serve with a stock of fifty 500 rupee notes and a sufficient number of notes of other denominations, if all the customers are to be served with at most 20 notes per withdrawal?",
+      "options": [
+        "A) 13",
+        "B) 10",
+        "C) 12",
+        "D) 16"
+      ],
+      "answer": "C",
+      "answer_text": "12",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/dilr-set5-3.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2018-s1-dilr-20",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 1,
+      "section": "dilr",
+      "number": 20,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2018-s1-dilr-set5",
+      "question": "What is the number of 500 rupee notes required to serve 50 customers with 500 rupee notes as their preferences and another 50 customers with 100 rupee notes as their preferences, if the total number of notes to be dispensed is the smallest possible?",
+      "options": [
+        "A) 750",
+        "B) 800",
+        "C) 1400",
+        "D) 900"
+      ],
+      "answer": "D",
+      "answer_text": "900",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/dilr-set5-4.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2018-s1-dilr-21",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 1,
+      "section": "dilr",
+      "number": 21,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2018-s1-dilr-set6",
+      "question": "Which of the following MUST be true?",
+      "options": [
+        "A) The contamination level at P12 was recorded as high.",
+        "B) The contamination level at P20 was recorded as medium.",
+        "C) The contamination level at P10 was recorded as high.",
+        "D) The contamination level at P13 was recorded as low."
+      ],
+      "answer": "C",
+      "answer_text": "P10 was recorded as High",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/dilr-set6-1.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2018-s1-dilr-22",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 1,
+      "section": "dilr",
+      "number": 22,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2018-s1-dilr-set6",
+      "question": "What best can be said about the number of pumps at which the contamination levels were recorded as medium?",
+      "options": [
+        "A) Exactly 8",
+        "B) At most 9",
+        "C) At least 8",
+        "D) More than 4"
+      ],
+      "answer": "A",
+      "answer_text": "Exactly 8",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/dilr-set6-2.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2018-s1-dilr-23",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 1,
+      "section": "dilr",
+      "number": 23,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2018-s1-dilr-set6",
+      "question": "If the contamination level at P11 was recorded as low, then which of the following MUST be true?",
+      "options": [
+        "A) The contamination level at P18 was recorded as low.",
+        "B) The contamination level at P15 was recorded as medium.",
+        "C) The contamination level at P14 was recorded as medium.",
+        "D) The contamination level at P12 was recorded as high."
+      ],
+      "answer": "C",
+      "answer_text": "The contamination level at P14\nwas recorded as medium.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/dilr-set6-3.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2018-s1-dilr-24",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 1,
+      "section": "dilr",
+      "number": 24,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2018-s1-dilr-set6",
+      "question": "If contamination level at P15 was recorded as medium, then which of the following MUST be FALSE?",
+      "options": [
+        "A) Contamination levels at P11 and P16 were recorded as the same.",
+        "B) Contamination levels at P10 and P14 were recorded as the same.",
+        "C) Contamination level at P14 was recorded to be higher than that at P15.",
+        "D) Contamination levels at P13 and P17 were recorded as the same."
+      ],
+      "answer": "A",
+      "answer_text": "P11 & P16 were recorded as same",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/dilr-set6-4.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2018-s1-dilr-25",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 1,
+      "section": "dilr",
+      "number": 25,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2018-s1-dilr-set7",
+      "question": "Who are the students from the institute Z?",
+      "options": [
+        "A) Chitra and Daisy",
+        "B) Adriana and Daisy",
+        "C) Bandita and Chitra",
+        "D) Adriana and Bandita"
+      ],
+      "answer": "C",
+      "answer_text": "Bandita and Chitra",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/dilr-set7-1.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2018-s1-dilr-26",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 1,
+      "section": "dilr",
+      "number": 26,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2018-s1-dilr-set7",
+      "question": "Which subject does Deb minor in?",
+      "options": [
+        "A) Operations",
+        "B) Marketing",
+        "C) Finance",
+        "D) Cannot be determined uniquely from the given information"
+      ],
+      "answer": "C",
+      "answer_text": "Finance",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/dilr-set7-2.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2018-s1-dilr-27",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 1,
+      "section": "dilr",
+      "number": 27,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2018-s1-dilr-set7",
+      "question": "Which subject does Amit major in?",
+      "options": [
+        "A) Operations",
+        "B) Marketing",
+        "C) Finance",
+        "D) Cannot be determined uniquely from the given information"
+      ],
+      "answer": "C",
+      "answer_text": "Finance",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/dilr-set7-3.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2018-s1-dilr-28",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 1,
+      "section": "dilr",
+      "number": 28,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2018-s1-dilr-set7",
+      "question": "If Chitra majors in Finance, which subject does Bandita major in?",
+      "options": [
+        "A) Finance",
+        "B) Operations",
+        "C) Cannot be determined uniquely from the given information",
+        "D) Marketing"
+      ],
+      "answer": "B",
+      "answer_text": "Operations",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/dilr-set7-4.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2018-s1-dilr-29",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 1,
+      "section": "dilr",
+      "number": 29,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2018-s1-dilr-set8",
+      "question": "Based on the given information, which of the following statements MUST be FALSE?",
+      "options": [
+        "A) In the administration committee the number of bureaucrats is equal to the number of educationalists",
+        "B) The size of the research committee is less than the size of the teaching committee",
+        "C) The size of the research committee is less than the size of the administration committee",
+        "D) In the teaching committee the number of educationalists is equal to the number of politicians"
+      ],
+      "answer": "B",
+      "answer_text": "The size of the research\ncommittee is less than the size of the teaching committee",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/dilr-set8-1.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2018-s1-dilr-30",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 1,
+      "section": "dilr",
+      "number": 30,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2018-s1-dilr-set8",
+      "question": "What is the number of bureaucrats in the administration committee? (TITA)",
+      "options": null,
+      "answer": "4",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/dilr-set8-2.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2018-s1-dilr-31",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 1,
+      "section": "dilr",
+      "number": 31,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2018-s1-dilr-set8",
+      "question": "What is the number of educationalists in the research committee? (TITA)",
+      "options": null,
+      "answer": "3",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/dilr-set8-3.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2018-s1-dilr-32",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 1,
+      "section": "dilr",
+      "number": 32,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2018-s1-dilr-set8",
+      "question": "Which of the following CANNOT be determined uniquely based on the given information?",
+      "options": [
+        "A) The total number of educationalists in the three committees",
+        "B) The total number of bureaucrats in the three committees",
+        "C) The size of the teaching committee",
+        "D) The size of the research committee"
+      ],
+      "answer": "C",
+      "answer_text": "Size of Teaching Committee",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/dilr-set8-4.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    }
+  ]
+}

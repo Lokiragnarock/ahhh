@@ -1,0 +1,1062 @@
+{
+  "exam": "CAT",
+  "year": 2017,
+  "slot": 2,
+  "section": "dilr",
+  "source": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-DILR/",
+  "licence": "Real CAT questions (c) IIMs, as re-published free by 2IIM (c) 2IIM. Private study use in AHH only; do not republish.",
+  "scraped": "2026-10-31",
+  "count": 32,
+  "sets": [
+    {
+      "id": "cat-2017-s2-dilr-set1",
+      "text": "An old woman had the following assets:\n(a) Rs. 70 lakh in bank deposits\n(b) 1 house worth Rs. 50 lakh\n(c) 3 flats, each worth Rs. 30 lakh\n(d) Certain number of gold coins , each worth Rs. 1 lakh\n\nShe wanted to distribute her assets among her three children; Neeta, Seeta and Geeta. The house, any of the flats or any of the coins were not to be split. That is, the house went entirely to one child; a flat went to one child and similarly, a gold coin went to one child.\n\nAmong the three, Neeta received the least amount in bank deposits, while Geeta received the highest. The value of the assets was distributed equally among the children, as were the gold coins."
+    },
+    {
+      "id": "cat-2017-s2-dilr-set2",
+      "text": "In an 8 X 8 chessboard a queen placed anywhere can attack another piece if the piece is present in the same row, or in the same column or in any diagonal position in any possible 4 directions, provided there is no other piece in between in the path from the queen to that piece. The columns are labelled a to h (left to right) and the rows are numbered 1 to 8 (bottom to top). The position of a piece is given by the combination of column and row labels. For example, position c5 means that the piece is in cth column and 5th row."
+    },
+    {
+      "id": "cat-2017-s2-dilr-set3",
+      "text": "At a management school, the oldest 10 dorms, numbered 1 to 10, need to be repaired urgently, The diagram represents the estimated repair costs (in Rs. Crores) for the 10 dorms. For any dorm, the estimated repair cost (in Rs. Crores) is an integer. Repairs with estimated cost Rs. 1 or 2 Crores are considered light repairs, repairs with estimated cost Rs. 3 or 4 are considered moderate repairs and repairs with estimated cost Rs. 5 or 6 Crores are considered extensive repairs.\n\nFurther, the following are known:\n1. Odd-numbered dorms do not need light repair; even-numbered dorms do not need moderate repair and dorms, whose numbers are divisible by 3, do not need extensive repair.\n2. Dorms 4 to 9 all need different repair costs, with Dorm 7 needing the maximum and Dorm 8 needing the minimum.\n\n![CAT DI LR 2017 Slot 2](img/2017-s2-dilr/dorms-1.png)"
+    },
+    {
+      "id": "cat-2017-s2-dilr-set4",
+      "text": "Eight friends: Ajit, Byomkesh, Gargi, Jayanta, Kikira, Manik, Prodosh and Tapesh are going to Delhi from Kolkata by a flight operated by Cheap Air. In the flight, sitting is arranged in 30 rows, numbered 1 to 30, each consisting of 6 seats, marked by letters A to F from left to right, respectively. Seats A to C are to the left of the aisle (the passage running from the front of the aircraft to the back), and seats D to F are to the right of the aisle. Seats A and F are by the windows and referred to as Window seats, C and D are by the aisle and are referred to as Aisle seats while B and E are referred to as Middle seats. Seats marked by consecutive letters are called consecutive seats (or seats next to each other). A seat number is a combination of the row number, followed by the letter indicating the position in the row; e.g., 1A is the left window seat in the first row, while 12E is the right middle seat in the 12th row.\n\nCheap Air charges Rs. 1000 extra for any seats in Rows 1, 12 and 13 as those have extra legroom. For Rows 2-10, it charges Rs. 300 extra for Window seats and Rs. 500 extra for Aisle seats. For Rows 11 and 14 to 20, it charges Rs. 200 extra for Window seats and Rs. 400 extra for Aisle seats. All other seats are available at no extra charge.\n\nThe following are known:\n1. The eight friends were seated in six different rows.\n2. They occupied 3 Window seats, 4 Aisle seats and 1 Middle seat.\n3. Seven of them had to pay extra amounts, totaling to Rs. 4600, for their choices of seat. One of them did not pay any additional amount for his/her choice of seat.\n4. Jayanta, Ajit and Byomkesh were sitting in seats marked by the same letter, in consecutive rows in increasing order of row numbers; but all of them paid different amounts for their choices of seat. One of these amounts may be zero.\n5. Gargi was sitting next to Kikira, and Manik was sitting next to Jayanta.\n6. Prodosh and Tapesh were sitting in seats marked by the same letter, in consecutive rows in increasing order of row numbers; but they paid different amounts for their choices of seat. One of these amounts may be zero."
+    },
+    {
+      "id": "cat-2017-s2-dilr-set5",
+      "text": "There were seven elective courses – E1 to E7 - running in a specific term in a college. Each of the 300 students enrolled had chosen just one elective from among these seven. However, before the start of the term, E7 was withdrawn as the instructor concerned had left the college. The students who had opted for E7 were allowed to join any of the remaining electives. Also, the students who had chosen other electives were given one chance to change their choice. The table below captures the movement of the students from one elective to another during this process. Movement from one elective to the same elective simply means no movement. Some numbers in the table got accidentally erased; however, it is known that these were either 0 or 1.\nFurther, the following are known:\n1. Before the change process there were 6 more students in E1 than in E4, but after the reshuffle, the number of students in E4 was 3 more than that in E1.\n2. The number of students in E2 increased by 30 after the change process.\n3. Before the change process, E4 had 2 more students than E6, while E2 had 10 more students than E3.\nThe table is given below -\n\n![Data Interpretation: Many Graphs](img/2017-s2-dilr/electives-1.png)"
+    },
+    {
+      "id": "cat-2017-s2-dilr-set6",
+      "text": "Funky Pizzeria was required to supply Pizzas to three different parties. The total number of Pizzas it had to deliver was 800. 70% of which was to be delivered to Party 3 and the rest equally divided between Party 1 and Party 2.\n\nPizzas could be of Thin Crust (T) or Deep Dish (D) variety and come in either Normal Cheese (NC) or Extra Cheese (EC) versions. Hence, there are 4 types of Pizzas: T – NC, T – EC, D-NC, D-EC. Partial information about proportions of T and NC pizzas ordered by the three parties are given below.\n\n![CAT DI LR 2017 Slot 2](img/2017-s2-dilr/funky_pizzeria-1.png)"
+    },
+    {
+      "id": "cat-2017-s2-dilr-set7",
+      "text": "A high security research lab requires the researchers to set a pass key sequence based on the scan of the five fingers of their left hands. When an employee first joins the lab, her fingers are scanned in an order of her choice, and then when she wants to re-enter the facility, she has to scan the five fingers in the same sequence.\n\nThe lab authorities are considering some relaxations of the scan order requirements, since it is observed that some employees often get locked-out because they forget the sequence.\n\nThe lab has decided to allow a variation in the sequence of scans of the five fingers so that at most two scans (out of five) are out of place. For example, if the original sequence is Thumb (T), index finger (I), middle finger (M), ring finger (R) and little finger (L) then TLMRI is also allowed, but TMRLI is not."
+    },
+    {
+      "id": "cat-2017-s2-dilr-set8",
+      "text": "A tea taster was assigned to rate teas from six different locations - Munnar, Wayanad, Ooty, Darjeeling, Assam and Himachal. These teas were placed in six cups, numbered 1 to 6, not necessarily in the same order. The tea taster was asked to rate these teas on the strength of their flavour on a scale of 1 to 10. He gave a unique integer rating to each tea.\nSome other information is given below:\n1. Cup 6 contained tea from Himachal.\n2. Tea from Ooty got the highest rating, but it was not in Cup 3.\n3. The rating of tea in Cup 3 was double the rating of the tea in Cup 5.\n4. Only two cups got ratings in even numbers.\n5. Cup 2 got the minimum rating and this rating was an even number.\n6. Tea in Cup 3 got a higher rating than that in Cup 1.\n7. The rating of tea from Wayanad was more than the rating of tea from Munnar, but less than that from Assam."
+    }
+  ],
+  "questions": [
+    {
+      "id": "cat-2017-s2-dilr-01",
+      "exam": "CAT",
+      "year": 2017,
+      "slot": 2,
+      "section": "dilr",
+      "number": 1,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2017-s2-dilr-set1",
+      "question": "How much did Seeta receive in bank deposits (in lakhs of rupees)?",
+      "options": [
+        "A) 30",
+        "B) 40",
+        "C) 20",
+        "D) 10"
+      ],
+      "answer": "C",
+      "answer_text": "20",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://iim-cat-questions-answers.2iim.com/DILR_CAT-2017-2_Assets/assets1_1.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2017-s2-dilr-02",
+      "exam": "CAT",
+      "year": 2017,
+      "slot": 2,
+      "section": "dilr",
+      "number": 2,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2017-s2-dilr-set1",
+      "question": "How many flats did Neeta receive? (TITA)",
+      "options": null,
+      "answer": "2 flats",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://iim-cat-questions-answers.2iim.com/DILR_CAT-2017-2_Assets/assets1_2.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2017-s2-dilr-03",
+      "exam": "CAT",
+      "year": 2017,
+      "slot": 2,
+      "section": "dilr",
+      "number": 3,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2017-s2-dilr-set1",
+      "question": "The value of the assets distributed among Neeta, Seeta and Geeta was in the ratio of 1:2:3, while the gold coins were distributed among them in the ratio of 2:3:4. One child got all three flats and she did not get the house. One child, other than Geeta, got Rs. 30 lakh in bank deposits.\nHow many gold coins did the old woman have?",
+      "options": [
+        "A) 72",
+        "B) 90",
+        "C) 180",
+        "D) 216"
+      ],
+      "answer": "B",
+      "answer_text": "90",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://iim-cat-questions-answers.2iim.com/DILR_CAT-2017-2_Assets/assets1_3.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2017-s2-dilr-04",
+      "exam": "CAT",
+      "year": 2017,
+      "slot": 2,
+      "section": "dilr",
+      "number": 4,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2017-s2-dilr-set1",
+      "question": "The value of the assets distributed among Neeta, Seeta and Geeta was in the ratio of 1:2:3, while the gold coins were distributed among them in the ratio of 2:3:4. One child got all three flats and she did not get the house. One child, other than Geeta, got Rs. 30 lakh in bank deposits.\nHow much did Seeta get in bank deposits (in lakhs of rupees)? (TITA)",
+      "options": null,
+      "answer": "20 lakh",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://iim-cat-questions-answers.2iim.com/DILR_CAT-2017-2_Assets/assets1_4.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2017-s2-dilr-05",
+      "exam": "CAT",
+      "year": 2017,
+      "slot": 2,
+      "section": "dilr",
+      "number": 5,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2017-s2-dilr-set2",
+      "question": "If the queen is at c5, and the other pieces at positions c2, gl, g3, g5 and a3, how many are under attack by the queen? There are no other pieces on the board.",
+      "options": [
+        "A) 2",
+        "B) 3",
+        "C) 4",
+        "D) 5"
+      ],
+      "answer": "C",
+      "answer_text": "4",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://iim-cat-questions-answers.2iim.com/DILR_CAT-2017-2_Chessboard/Chessboard1_1.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2017-s2-dilr-06",
+      "exam": "CAT",
+      "year": 2017,
+      "slot": 2,
+      "section": "dilr",
+      "number": 6,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2017-s2-dilr-set2",
+      "question": "If the other pieces are only at positions al, a3, b4, d7, h7 and h8, then which of the following positions of the queen results in the maximum number of pieces being under attack?",
+      "options": [
+        "A) f8",
+        "B) a7",
+        "C) c1",
+        "D) d3"
+      ],
+      "answer": "D",
+      "answer_text": "d3",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://iim-cat-questions-answers.2iim.com/DILR_CAT-2017-2_Chessboard/Chessboard1_2.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2017-s2-dilr-07",
+      "exam": "CAT",
+      "year": 2017,
+      "slot": 2,
+      "section": "dilr",
+      "number": 7,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2017-s2-dilr-set2",
+      "question": "If the other pieces are only at positions al, a3, b4, d7, h7 and h8, then from how many positions the queen cannot attack any of the pieces?",
+      "options": [
+        "A) 0",
+        "B) 3",
+        "C) 4",
+        "D) 6"
+      ],
+      "answer": "C",
+      "answer_text": "4",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://iim-cat-questions-answers.2iim.com/DILR_CAT-2017-2_Chessboard/Chessboard1_3.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2017-s2-dilr-08",
+      "exam": "CAT",
+      "year": 2017,
+      "slot": 2,
+      "section": "dilr",
+      "number": 8,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2017-s2-dilr-set2",
+      "question": "Suppose the queen is the only piece on the board and it is at position d5. In how many positions can another piece be placed on the board such that it is safe from attack from the queen?",
+      "options": [
+        "A) 32",
+        "B) 35",
+        "C) 36",
+        "D) 37"
+      ],
+      "answer": "C",
+      "answer_text": "36",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://iim-cat-questions-answers.2iim.com/DILR_CAT-2017-2_Chessboard/Chessboard1_4.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2017-s2-dilr-09",
+      "exam": "CAT",
+      "year": 2017,
+      "slot": 2,
+      "section": "dilr",
+      "number": 9,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2017-s2-dilr-set3",
+      "question": "Which of the following is NOT necessarily true?",
+      "options": [
+        "A) Dorm 1 needs a moderate repair",
+        "B) Dorm 5 repair will cost no more than Rs. 4 Crores",
+        "C) Dorm 7 needs an extensive repair",
+        "D) Dorm 10 repair will cost no more than Rs. 4 Crores"
+      ],
+      "answer": "D",
+      "answer_text": "Dorm 10 repair will cost no more\nthan Rs. 4 Crores",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://iim-cat-questions-answers.2iim.com/DILR_CAT-2017-2_Dorms/Dorms1_1.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2017-s2-dilr-10",
+      "exam": "CAT",
+      "year": 2017,
+      "slot": 2,
+      "section": "dilr",
+      "number": 10,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2017-s2-dilr-set3",
+      "question": "What is the total cost of repairing the odd-numbered dorms (in Rs. Crores)? (TITA)",
+      "options": null,
+      "answer": "Rs. 19 crores",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://iim-cat-questions-answers.2iim.com/DILR_CAT-2017-2_Dorms/Dorms1_2.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2017-s2-dilr-11",
+      "exam": "CAT",
+      "year": 2017,
+      "slot": 2,
+      "section": "dilr",
+      "number": 11,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2017-s2-dilr-set3",
+      "question": "Suppose further that:\n1. 4 of the 10 dorms needing repair are women's dorms and need a total of Rs. 20 Crores for repair.\n2. Only one of Dorms 1 to 5 is a women's dorm.\nWhat is the cost for repairing Dorm 9 (in Rs. Crores)? (TITA)",
+      "options": null,
+      "answer": "Rs. 3 crores",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://iim-cat-questions-answers.2iim.com/DILR_CAT-2017-2_Dorms/Dorms1_3.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2017-s2-dilr-12",
+      "exam": "CAT",
+      "year": 2017,
+      "slot": 2,
+      "section": "dilr",
+      "number": 12,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2017-s2-dilr-set3",
+      "question": "Suppose further that:\n1. 4 of the 10 dorms needing repair are women's dorms and need a total of Rs. 20 Crores for repair.\n2. Only one of Dorms 1 to 5 is a women's dorm.\nWhich of the following is a women's dorm?",
+      "options": [
+        "A) Dorm 2",
+        "B) Dorm 5",
+        "C) Dorm 8",
+        "D) Dorm 10"
+      ],
+      "answer": "D",
+      "answer_text": "Dorm 10",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://iim-cat-questions-answers.2iim.com/DILR_CAT-2017-2_Dorms/Dorms1_4.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2017-s2-dilr-13",
+      "exam": "CAT",
+      "year": 2017,
+      "slot": 2,
+      "section": "dilr",
+      "number": 13,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2017-s2-dilr-set4",
+      "question": "In which row was Manik sitting?",
+      "options": [
+        "A) 10",
+        "B) 11",
+        "C) 12",
+        "D) 13"
+      ],
+      "answer": "A",
+      "answer_text": "10",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://iim-cat-questions-answers.2iim.com/DILR_CAT-2017-2_Eight_Friends/Eight_Friends1_1.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2017-s2-dilr-14",
+      "exam": "CAT",
+      "year": 2017,
+      "slot": 2,
+      "section": "dilr",
+      "number": 14,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2017-s2-dilr-set4",
+      "question": "How much extra did Jayanta pay for his choice of seat?",
+      "options": [
+        "A) Rs.300",
+        "B) Rs.400",
+        "C) Rs.500",
+        "D) Rs.1000"
+      ],
+      "answer": "C",
+      "answer_text": "Rs.500",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://iim-cat-questions-answers.2iim.com/DILR_CAT-2017-2_Eight_Friends/Eight_Friends1_2.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2017-s2-dilr-15",
+      "exam": "CAT",
+      "year": 2017,
+      "slot": 2,
+      "section": "dilr",
+      "number": 15,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2017-s2-dilr-set4",
+      "question": "How much extra did Gargi pay for her choice of seat?",
+      "options": [
+        "A) Rs.0",
+        "B) Rs.300",
+        "C) Rs.500",
+        "D) Rs.1000"
+      ],
+      "answer": "D",
+      "answer_text": "Rs.1000",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://iim-cat-questions-answers.2iim.com/DILR_CAT-2017-2_Eight_Friends/Eight_Friends1_3.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2017-s2-dilr-16",
+      "exam": "CAT",
+      "year": 2017,
+      "slot": 2,
+      "section": "dilr",
+      "number": 16,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2017-s2-dilr-set4",
+      "question": "Who among the following did not pay any extra amount for his/her choice of seat?",
+      "options": [
+        "A) Kikira",
+        "B) Manik",
+        "C) Gargi",
+        "D) Tapesh"
+      ],
+      "answer": "D",
+      "answer_text": "Tapesh",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://iim-cat-questions-answers.2iim.com/DILR_CAT-2017-2_Eight_Friends/Eight_Friends1_4.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2017-s2-dilr-17",
+      "exam": "CAT",
+      "year": 2017,
+      "slot": 2,
+      "section": "dilr",
+      "number": 17,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2017-s2-dilr-set5",
+      "question": "How many elective courses among E1 to E6 had a decrease in their enrolments after the change process?",
+      "options": [
+        "A) 4",
+        "B) 1",
+        "C) 2",
+        "D) 3"
+      ],
+      "answer": "C",
+      "answer_text": "2 electives",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://iim-cat-questions-answers.2iim.com/DILR_CAT-2017-2_Electives/electives1_1.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2017-s2-dilr-18",
+      "exam": "CAT",
+      "year": 2017,
+      "slot": 2,
+      "section": "dilr",
+      "number": 18,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2017-s2-dilr-set5",
+      "question": "After the change process, which of the following is the correct sequence of number of students in the six electives E1 to E6?",
+      "options": [
+        "A) 19, 76, 79, 21, 45, 60",
+        "B) 19, 76, 78, 22, 45, 60",
+        "C) 18, 76, 79, 23, 43, 61",
+        "D) 18, 76, 79, 21, 45, 61"
+      ],
+      "answer": "D",
+      "answer_text": "18, 76, 79, 21, 45, 61",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://iim-cat-questions-answers.2iim.com/DILR_CAT-2017-2_Electives/electives1_2.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2017-s2-dilr-19",
+      "exam": "CAT",
+      "year": 2017,
+      "slot": 2,
+      "section": "dilr",
+      "number": 19,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2017-s2-dilr-set5",
+      "question": "After the change process, which course among E1 to E6 had the largest change in its enrolment as a percentage of its original enrolment?",
+      "options": [
+        "A) E1",
+        "B) E2",
+        "C) E3",
+        "D) E6"
+      ],
+      "answer": "D",
+      "answer_text": "E6",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://iim-cat-questions-answers.2iim.com/DILR_CAT-2017-2_Electives/electives1_3.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2017-s2-dilr-20",
+      "exam": "CAT",
+      "year": 2017,
+      "slot": 2,
+      "section": "dilr",
+      "number": 20,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2017-s2-dilr-set5",
+      "question": "Later, the college imposed a condition that if after the change of electives, the enrolment in any elective (other than E7) dropped to less than 20 students, all the students who had left that course will be required to re-enrol for that elective.\nWhich of the following is a correct sequence of electives in decreasing order of their final enrolments?",
+      "options": [
+        "A) E2, E3, E6, E5, E1, E4",
+        "B) E3, E2, E6, E5, E4, E1",
+        "C) E2, E5, E3, E1, E4, E6",
+        "D) E2, E3, E5, E6, E1, E3"
+      ],
+      "answer": "A",
+      "answer_text": "E2, E3, E6, E5, E1, E4",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://iim-cat-questions-answers.2iim.com/DILR_CAT-2017-2_Electives/electives1_4.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2017-s2-dilr-21",
+      "exam": "CAT",
+      "year": 2017,
+      "slot": 2,
+      "section": "dilr",
+      "number": 21,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2017-s2-dilr-set6",
+      "question": "How many Thin Crust pizzas were to be delivered to Party 3?",
+      "options": [
+        "A) 398",
+        "B) 162",
+        "C) 196",
+        "D) 364"
+      ],
+      "answer": "B",
+      "answer_text": "162",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://iim-cat-questions-answers.2iim.com/DILR_CAT-2017-2_Funky_Pizzeria/funky_pizzeria1_1.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2017-s2-dilr-22",
+      "exam": "CAT",
+      "year": 2017,
+      "slot": 2,
+      "section": "dilr",
+      "number": 22,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2017-s2-dilr-set6",
+      "question": "How many Normal Cheese pizzas were required to be delivered to Party 1?",
+      "options": [
+        "A) 104",
+        "B) 84",
+        "C) 16",
+        "D) 196"
+      ],
+      "answer": "C",
+      "answer_text": "16",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://iim-cat-questions-answers.2iim.com/DILR_CAT-2017-2_Funky_Pizzeria/funky_pizzeria1_2.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2017-s2-dilr-23",
+      "exam": "CAT",
+      "year": 2017,
+      "slot": 2,
+      "section": "dilr",
+      "number": 23,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2017-s2-dilr-set6",
+      "question": "For Party 2, if 50% of the Normal Cheese pizzas were of Thin Crust variety, what was the difference between the numbers of TEC and D-EC pizzas to be delivered to Party 2?",
+      "options": [
+        "A) 18",
+        "B) 12",
+        "C) 30",
+        "D) 24"
+      ],
+      "answer": "B",
+      "answer_text": "12",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://iim-cat-questions-answers.2iim.com/DILR_CAT-2017-2_Funky_Pizzeria/funky_pizzeria1_3.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2017-s2-dilr-24",
+      "exam": "CAT",
+      "year": 2017,
+      "slot": 2,
+      "section": "dilr",
+      "number": 24,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2017-s2-dilr-set6",
+      "question": "Suppose that a T-NC pizza cost as much as a D-NC pizza, but 3/5th of the price of a D-EC pizza. A D-EC pizza costs Rs. 50 more than a T-EC pizza, and the latter costs Rs. 500. If 25% of the Normal Cheese pizzas delivered to Party 1 were of Deep Dish variety, what was the total bill for Party 1?",
+      "options": [
+        "A) Rs.59480",
+        "B) Rs.59840",
+        "C) Rs.42520",
+        "D) Rs.45240"
+      ],
+      "answer": "A",
+      "answer_text": "Rs.59480",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://iim-cat-questions-answers.2iim.com/DILR_CAT-2017-2_Funky_Pizzeria/funky_pizzeria1_4.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2017-s2-dilr-25",
+      "exam": "CAT",
+      "year": 2017,
+      "slot": 2,
+      "section": "dilr",
+      "number": 25,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2017-s2-dilr-set7",
+      "question": "The lab has decided to allow a variation in the sequence of scans of the five fingers so that at most two scans (out of five) are out of place. For example, if the original sequence is Thumb (T), index finger (I), middle finger (M), ring finger (R) and little finger (L) then TLMRI is also allowed, but TMRLI is not. How many different sequences of scans are allowed for any given person's original scan? (TITA)",
+      "options": null,
+      "answer": "11 Outcomes",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://iim-cat-questions-answers.2iim.com/DILR_CAT-2017-2_Security_Scan/security-scan_1.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2017-s2-dilr-26",
+      "exam": "CAT",
+      "year": 2017,
+      "slot": 2,
+      "section": "dilr",
+      "number": 26,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2017-s2-dilr-set7",
+      "question": "The lab has decided to allow variations of the original sequence so that input of the scanned sequence of five fingers is allowed to vary from the original sequence by one place for any of the fingers. Thus, for example, if TIMRL is the original sequence, then ITRML is allowed, but LIMRT is not. How many different sequences are allowed for any given person's original scan?",
+      "options": [
+        "A) 7",
+        "B) 5",
+        "C) 8",
+        "D) 13"
+      ],
+      "answer": "C",
+      "answer_text": "8 Sequences",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://iim-cat-questions-answers.2iim.com/DILR_CAT-2017-2_Security_Scan/security-scan_2.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2017-s2-dilr-27",
+      "exam": "CAT",
+      "year": 2017,
+      "slot": 2,
+      "section": "dilr",
+      "number": 27,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2017-s2-dilr-set7",
+      "question": "The lab has now decided to require six scans in the pass sequence, where exactly one finger is scanned twice, and the other fingers are scanned once, which can be done in any order. For example a possible sequence is TIMTRL.\nSuppose the lab allows a variation of the original sequence (of six inputs) where at most two scans are out of place, as long as the finger originally scanned twice is scanned twice and other fingers are scanned once. How many different sequences of scans are allowed for any given person's original scan? (TITA)",
+      "options": null,
+      "answer": "15 Outcomes",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://iim-cat-questions-answers.2iim.com/DILR_CAT-2017-2_Security_Scan/security-scan_3.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2017-s2-dilr-28",
+      "exam": "CAT",
+      "year": 2017,
+      "slot": 2,
+      "section": "dilr",
+      "number": 28,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2017-s2-dilr-set7",
+      "question": "The lab has now decided to require six scans in the pass sequence, where exactly one finger is scanned twice, and the other fingers are scanned once, which can be done in any order. For example a possible sequence is TIMTRL.\nSuppose the lab allows a variation of the original sequence (of six inputs) so that input in the form of scanned sequence of six fingers is allowed to vary from the original sequence by one place for any of the fingers, as long as the finger originally scanned twice is scanned twice and other fingers are scanned once. How many different sequences of scans are allowed if the original sequence is LRLTIM?",
+      "options": [
+        "A) 8",
+        "B) 11",
+        "C) 13",
+        "D) 14"
+      ],
+      "answer": "C",
+      "answer_text": "13 Sequences",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://iim-cat-questions-answers.2iim.com/DILR_CAT-2017-2_Security_Scan/security-scan_4.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2017-s2-dilr-29",
+      "exam": "CAT",
+      "year": 2017,
+      "slot": 2,
+      "section": "dilr",
+      "number": 29,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2017-s2-dilr-set8",
+      "question": "What was the second highest rating given? (TITA)",
+      "options": null,
+      "answer": "7",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://iim-cat-questions-answers.2iim.com/DILR_CAT-2017-2_Tea_Tasting/Tea_Tasting1_1.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2017-s2-dilr-30",
+      "exam": "CAT",
+      "year": 2017,
+      "slot": 2,
+      "section": "dilr",
+      "number": 30,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2017-s2-dilr-set8",
+      "question": "What was the number of the cup that contained tea from Ooty? (TITA)",
+      "options": null,
+      "answer": "4",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://iim-cat-questions-answers.2iim.com/DILR_CAT-2017-2_Tea_Tasting/Tea_Tasting1_2.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2017-s2-dilr-31",
+      "exam": "CAT",
+      "year": 2017,
+      "slot": 2,
+      "section": "dilr",
+      "number": 31,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2017-s2-dilr-set8",
+      "question": "If the tea from Munnar did not get the minimum rating, what was the rating of the tea from Wayanad?",
+      "options": [
+        "A) 3",
+        "B) 5",
+        "C) 1",
+        "D) 6"
+      ],
+      "answer": "B",
+      "answer_text": "5",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://iim-cat-questions-answers.2iim.com/DILR_CAT-2017-2_Tea_Tasting/Tea_Tasting1_4.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2017-s2-dilr-32",
+      "exam": "CAT",
+      "year": 2017,
+      "slot": 2,
+      "section": "dilr",
+      "number": 32,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2017-s2-dilr-set8",
+      "question": "If the cup containg teas from Wayanad and Ooty had consecutive numbers, which of the following may be true ?",
+      "options": [
+        "A) Cup 5 contains tea from Assam",
+        "B) Cup 1 contains tea from Darjeeling",
+        "C) Tea from Wayanad has got a rating of 6",
+        "D) Tea from Darjeeling got the minimum rating"
+      ],
+      "answer": "B",
+      "answer_text": "Cup 1 contains tea from\nDarjeeling",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://iim-cat-questions-answers.2iim.com/DILR_CAT-2017-2_Tea_Tasting/Tea_Tasting1_3.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    }
+  ]
+}

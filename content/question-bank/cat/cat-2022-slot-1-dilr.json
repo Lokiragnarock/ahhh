@@ -1,0 +1,660 @@
+{
+  "exam": "CAT",
+  "year": 2022,
+  "slot": 1,
+  "section": "dilr",
+  "source": "https://online.2iim.com/CAT-question-paper/CAT-2022-Question-Paper-Slot-1-DILR/",
+  "licence": "Real CAT questions (c) IIMs, as re-published free by 2IIM (c) 2IIM. Private study use in AHH only; do not republish.",
+  "scraped": "2026-10-31",
+  "count": 20,
+  "sets": [
+    {
+      "id": "cat-2022-s1-dilr-set1",
+      "text": "There are 15 girls and some boys among the graduating students in a class. They are planning a get-together, which can be either a 1-day event, or a 2-day event, or a 3-day event. There are 6 singers in the class, 4 of them are boys. There are 10 dancers in the class, 4 of them are girls. No dancer in the class is a singer.\n\nSome students are not interested in attending the get-together. Those students who are interested in attending a 3-day event are also interested in attending a 2-day event; those who are interested in attending a 2-day event are also interested in attending a 1-day event.\n\nThe following facts are also known:\n\n1. All the girls and 80% of the boys are interested in attending a 1-day event. 60% of the boys are interested in attending a 2-day event.\n2. Some of the girls are interested in attending a 1-day event, but not a 2-day event; some of the other girls are interested in attending both.\n3. 70% of the boys who are interested in attending a 2-day event are neither singers nor dancers. 60% of the girls who are interested in attending a 2-day event are neither singers nor dancers.\n4. No girl is interested in attending a 3-day event. All male singers and 2 of the dancers are interested in attending a 3-day event.\n5. The number of singers interested in attending a 2-day event is one more than the number of dancers interested in attending a 2-day event."
+    },
+    {
+      "id": "cat-2022-s1-dilr-set2",
+      "text": "![figure](img/2022-s1-dilr/756_489168_0_1011660_dilr_1011.jpg)\n\nGiven above is the schematic map of the metro lines in a city with rectangles denoting terminal stations (e.g. A), diamonds denoting junction stations (e.g. R) and small filled-up circles denoting other stations. Each train runs either in east-west or north-south direction, but not both. All trains stop for 2 minutes at each of the junction stations on the way and for 1 minute at each of the other stations. It takes 2 minutes to reach the next station for trains going in east-west direction and 3 minutes to reach the next station for trains going in north-south direction. From each terminal station, the first train starts at 6 am; the last trains leave the terminal stations at midnight. Otherwise, during the service hours, there are metro service every 15 minutes in the north-south lines and every 10 minutes in the east-west lines. A train must rest for at least 15 minutes after completing a trip at the terminal station, before it can undertake the next trip in the reverse direction. (All questions are related to this metro service only. Assume that if someone reaches a station exactly at the time a train is supposed to leave, (s)he can catch that train.)"
+    },
+    {
+      "id": "cat-2022-s1-dilr-set3",
+      "text": "The management of a university hockey team was evaluating performance of four women players - Amla, Bimla, Harita and Sarita for their possible selection in the university team for next year. For this purpose, the management was looking at the number of goals scored by them in the past 8 matches, numbered 1 through 8. The four players together had scored a total of 12 goals in these matches. In the 8 matches, each of them had scored at least one goal. No two players had scored the same total number of goals.\n\nThe following facts are known about the goals scored by these four players only. All the questions refer only to the goals scored by these four players.\n\n1. Only one goal was scored in every even numbered match.\n2. Harita scored more goals than Bimla.\n3. The highest goal scorer scored goals in exactly 3 matches including Match 4 and Match 8.\n4. Bimla scored a goal in Match 1 and one each in three other consecutive matches.\n5. An equal number of goals were scored in Match 3 and Match 7, which was different from the number of goals scored in either Match 1 or Match 5.\n6. The match in which the highest number of goals was scored was unique and it was not Match 5."
+    },
+    {
+      "id": "cat-2022-s1-dilr-set4",
+      "text": "Adhara, Bithi, Chhaya, Dhanavi, Esther, and Fathima are the interviewers in a process that awards funding for new initiatives. Every interviewer individually interviews each of the candidates individually and awards a token only if she recommends funding. A token has a face value of 2, 3, 5, 7, 11, or 13. Each interviewer awards tokens of a single face value only. Once all six interviews are over for a candidate, the candidate receives a funding that is Rs.1000 times the product of the face values of all the tokens. For example, if a candidate has tokens with face values 2, 5, and 7, then they get a funding of Rs.1000 × (2 × 5 × 7) = Rs.70,000.\nPragnyaa, Qahira, Rasheeda, Smera, and Tantra were five candidates who received funding. The funds they received, in descending order, were Rs.390,000, Rs.210,000, Rs.165,000, Rs.77,000, and Rs.66,000.\n\nThe following additional facts are known:\n1. Fathima awarded tokens to everyone except Qahira, while Adhara awarded tokens to no one except Pragnyaa.\n2. Rashida received the highest number of tokens that anyone received, but she did not receive one from Esther.\n3. Bithi awarded a token to Smera but not to Qahira, while Dhanavi awarded a token to Qahira but not to Smera."
+    }
+  ],
+  "questions": [
+    {
+      "id": "cat-2022-s1-dilr-01",
+      "exam": "CAT",
+      "year": 2022,
+      "slot": 1,
+      "section": "dilr",
+      "number": 1,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2022-s1-dilr-set1",
+      "question": "How many boys are there in the class?",
+      "options": null,
+      "answer": "50",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2022-Question-Paper-Slot-1-DILR/dilr-question-1.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2022-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2022-s1-dilr-02",
+      "exam": "CAT",
+      "year": 2022,
+      "slot": 1,
+      "section": "dilr",
+      "number": 2,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2022-s1-dilr-set1",
+      "question": "Which of the following can be determined from the given information?\n\nI. The number of boys who are interested in attending a 1-day event and are neither dancers nor singers.\nII. The number of female dancers who are interested in attending a 1-day event.",
+      "options": [
+        "A) Neither I nor II",
+        "B) Both I and II",
+        "C) Only I",
+        "D) Only II"
+      ],
+      "answer": "D",
+      "answer_text": "Only II",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2022-Question-Paper-Slot-1-DILR/dilr-question-2.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2022-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2022-s1-dilr-03",
+      "exam": "CAT",
+      "year": 2022,
+      "slot": 1,
+      "section": "dilr",
+      "number": 3,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2022-s1-dilr-set1",
+      "question": "What fraction of the class are interested in attending a 2-day event?",
+      "options": [
+        "A) 7/10",
+        "B) 9/13",
+        "C) 7/13",
+        "D) 2/3"
+      ],
+      "answer": "C",
+      "answer_text": "7/13",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2022-Question-Paper-Slot-1-DILR/dilr-question-3.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2022-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2022-s1-dilr-04",
+      "exam": "CAT",
+      "year": 2022,
+      "slot": 1,
+      "section": "dilr",
+      "number": 4,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2022-s1-dilr-set1",
+      "question": "What BEST can be concluded about the number of male dancers who are interested in attending a 1-day event?",
+      "options": [
+        "A) 5 or 6",
+        "B) 4 or 6",
+        "C) 5",
+        "D) 6"
+      ],
+      "answer": "A",
+      "answer_text": "5 or 6",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2022-Question-Paper-Slot-1-DILR/dilr-question-4.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2022-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2022-s1-dilr-05",
+      "exam": "CAT",
+      "year": 2022,
+      "slot": 1,
+      "section": "dilr",
+      "number": 5,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2022-s1-dilr-set1",
+      "question": "How many female dancers are interested in attending a 2-day event?",
+      "options": [
+        "A) 0",
+        "B) 2",
+        "C) Cannot be determined",
+        "D) 1"
+      ],
+      "answer": "A",
+      "answer_text": "0",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2022-Question-Paper-Slot-1-DILR/dilr-question-5.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2022-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2022-s1-dilr-06",
+      "exam": "CAT",
+      "year": 2022,
+      "slot": 1,
+      "section": "dilr",
+      "number": 6,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2022-s1-dilr-set2",
+      "question": "If Hari is ready to board a train at 8:05 am from station M, then when is the earliest that he can reach station N?",
+      "options": [
+        "A) 9:01 am",
+        "B) 9:13 am",
+        "C) 9:06 am",
+        "D) 9:11 am"
+      ],
+      "answer": "D",
+      "answer_text": "9:11 am",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2022-Question-Paper-Slot-1-DILR/dilr-question-6.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2022-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2022-s1-dilr-07",
+      "exam": "CAT",
+      "year": 2022,
+      "slot": 1,
+      "section": "dilr",
+      "number": 7,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2022-s1-dilr-set2",
+      "question": "If Priya is ready to board a train at 10:25 am from station T, then when is the earliest that she can reach station S?",
+      "options": [
+        "A) 11:22 am",
+        "B) 11:28 am",
+        "C) 11:12 am",
+        "D) 11:07 am"
+      ],
+      "answer": "C",
+      "answer_text": "11:12 am",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2022-Question-Paper-Slot-1-DILR/dilr-question-7.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2022-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2022-s1-dilr-08",
+      "exam": "CAT",
+      "year": 2022,
+      "slot": 1,
+      "section": "dilr",
+      "number": 8,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2022-s1-dilr-set2",
+      "question": "Haripriya is expected to reach station S late. What is the latest time by which she must be ready to board at station S if she must reach station B before 1 am via station R?",
+      "options": [
+        "A) 11:35 pm",
+        "B) 11:39 pm",
+        "C) 11:43 pm",
+        "D) 11:49 am"
+      ],
+      "answer": "B",
+      "answer_text": "11:39 pm",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2022-Question-Paper-Slot-1-DILR/dilr-question-8.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2022-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2022-s1-dilr-09",
+      "exam": "CAT",
+      "year": 2022,
+      "slot": 1,
+      "section": "dilr",
+      "number": 9,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2022-s1-dilr-set2",
+      "question": "What is the minimum number of trains that are required to provide the service on the AB line (considering both north and south directions)?",
+      "options": null,
+      "answer": "8",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2022-Question-Paper-Slot-1-DILR/dilr-question-9.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2022-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2022-s1-dilr-10",
+      "exam": "CAT",
+      "year": 2022,
+      "slot": 1,
+      "section": "dilr",
+      "number": 10,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2022-s1-dilr-set2",
+      "question": "What is the minimum number of trains that are required to provide the service in this city?",
+      "options": null,
+      "answer": "48",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2022-Question-Paper-Slot-1-DILR/dilr-question-10.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2022-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2022-s1-dilr-11",
+      "exam": "CAT",
+      "year": 2022,
+      "slot": 1,
+      "section": "dilr",
+      "number": 11,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2022-s1-dilr-set3",
+      "question": "How many goals were scored in Match 7?",
+      "options": [
+        "A) 3",
+        "B) Cannot be determined",
+        "C) 2",
+        "D) 1"
+      ],
+      "answer": "D",
+      "answer_text": "1",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2022-Question-Paper-Slot-1-DILR/dilr-question-11.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2022-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2022-s1-dilr-12",
+      "exam": "CAT",
+      "year": 2022,
+      "slot": 1,
+      "section": "dilr",
+      "number": 12,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2022-s1-dilr-set3",
+      "question": "Which of the following is the correct sequence of goals scored in matches 1, 3, 5 and 7?",
+      "options": [
+        "A) 3, 1, 2, 1",
+        "B) 4, 1, 2, 1",
+        "C) 5, 1, 0, 1",
+        "D) 3, 2, 1, 2"
+      ],
+      "answer": "B",
+      "answer_text": "4, 1, 2, 1",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2022-Question-Paper-Slot-1-DILR/dilr-question-12.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2022-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2022-s1-dilr-13",
+      "exam": "CAT",
+      "year": 2022,
+      "slot": 1,
+      "section": "dilr",
+      "number": 13,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2022-s1-dilr-set3",
+      "question": "Which of the following statement(s) is/are true?\n\nStatement-1: Amla and Sarita never scored goals in the same match.\nStatement-2: Harita and Sarita never scored goals in the same match.",
+      "options": [
+        "A) Statement-1 only",
+        "B) Both the statements",
+        "C) None of the statements",
+        "D) Statement-2 only"
+      ],
+      "answer": "B",
+      "answer_text": "Both the statements",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2022-Question-Paper-Slot-1-DILR/dilr-question-13.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2022-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2022-s1-dilr-14",
+      "exam": "CAT",
+      "year": 2022,
+      "slot": 1,
+      "section": "dilr",
+      "number": 14,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2022-s1-dilr-set3",
+      "question": "Which of the following statement(s) is/are false?\n\nStatement-1: In every match at least one player scored a goal.\nStatement-2: No two players scored goals in the same number of matches.",
+      "options": [
+        "A) None of the statements",
+        "B) Statement-1 only",
+        "C) Statement-2 only",
+        "D) Both the statements"
+      ],
+      "answer": "A",
+      "answer_text": "None of the statements",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2022-Question-Paper-Slot-1-DILR/dilr-question-14.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2022-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2022-s1-dilr-15",
+      "exam": "CAT",
+      "year": 2022,
+      "slot": 1,
+      "section": "dilr",
+      "number": 15,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2022-s1-dilr-set3",
+      "question": "If Harita scored goals in one more match as compared to Sarita, which of the following statement(s) is/are necessarily true?\n\nStatement-1: Amla scored goals in consecutive matches.\nStatement-2: Sarita scored goals in consecutive matches.",
+      "options": [
+        "A) None of the statements",
+        "B) Statement-1 only",
+        "C) Both the statements",
+        "D) Statement-2 only"
+      ],
+      "answer": "A",
+      "answer_text": "None of the statements",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2022-Question-Paper-Slot-1-DILR/dilr-question-15.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2022-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2022-s1-dilr-16",
+      "exam": "CAT",
+      "year": 2022,
+      "slot": 1,
+      "section": "dilr",
+      "number": 16,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2022-s1-dilr-set4",
+      "question": "How many tokens did Qahira receive?",
+      "options": null,
+      "answer": "2",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2022-Question-Paper-Slot-1-DILR/dilr-question-16.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2022-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2022-s1-dilr-17",
+      "exam": "CAT",
+      "year": 2022,
+      "slot": 1,
+      "section": "dilr",
+      "number": 17,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2022-s1-dilr-set4",
+      "question": "Who among the following definitely received a token from Bithi but not from Dhanavi?",
+      "options": [
+        "A) Qahira",
+        "B) Tantra",
+        "C) Pragnyaa",
+        "D) Rasheeda"
+      ],
+      "answer": "C",
+      "answer_text": "Pragnyaa",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2022-Question-Paper-Slot-1-DILR/dilr-question-17.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2022-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2022-s1-dilr-18",
+      "exam": "CAT",
+      "year": 2022,
+      "slot": 1,
+      "section": "dilr",
+      "number": 18,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2022-s1-dilr-set4",
+      "question": "How many tokens did Chhaya award?",
+      "options": null,
+      "answer": "3",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2022-Question-Paper-Slot-1-DILR/dilr-question-18.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2022-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2022-s1-dilr-19",
+      "exam": "CAT",
+      "year": 2022,
+      "slot": 1,
+      "section": "dilr",
+      "number": 19,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2022-s1-dilr-set4",
+      "question": "How many tokens did Smera receive?",
+      "options": null,
+      "answer": "3",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2022-Question-Paper-Slot-1-DILR/dilr-question-19.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2022-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2022-s1-dilr-20",
+      "exam": "CAT",
+      "year": 2022,
+      "slot": 1,
+      "section": "dilr",
+      "number": 20,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2022-s1-dilr-set4",
+      "question": "Which of the following could be the amount of funding that Tantra received?\n(a) Rs. 66,000\n(b) Rs. 165,000",
+      "options": [
+        "A) Neither (a) nor (b)",
+        "B) Only (a)",
+        "C) Both (a) and (b)",
+        "D) Only (b)"
+      ],
+      "answer": "C",
+      "answer_text": "Both (a) and (b)",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2022-Question-Paper-Slot-1-DILR/dilr-question-20.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2022-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false
+    }
+  ]
+}

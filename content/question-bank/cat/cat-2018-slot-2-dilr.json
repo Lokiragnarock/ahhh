@@ -1,0 +1,1062 @@
+{
+  "exam": "CAT",
+  "year": 2018,
+  "slot": 2,
+  "section": "dilr",
+  "source": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-DILR/",
+  "licence": "Real CAT questions (c) IIMs, as re-published free by 2IIM (c) 2IIM. Private study use in AHH only; do not republish.",
+  "scraped": "2026-10-31",
+  "count": 32,
+  "sets": [
+    {
+      "id": "cat-2018-s2-dilr-set1",
+      "text": "An agency entrusted to accredit colleges looks at four parameters: faculty quality (F), reputation (R), placement quality (P), and infrastructure (I). The four parameters are used to arrive at an overall score, which the agency uses to give an accreditation to the colleges. In each parameter, there are five possible letter grades given, each carrying certain points: A (50 points), B (40 points), C (30 points), D (20 points), and F (0 points). The overall score for a college is the weighted sum of the points scored in the four parameters. The weights of the parameters are 0.1, 0.2, 0.3 and 0.4 in some order, but the order is not disclosed.\n\nAccreditation is awarded based on the following scheme:\n\n![CAT DI LR 2018 Slot 2](img/2018-s2-dilr/CA1.png)\n\nEight colleges apply for accreditation, and receive the following grades in the four parameters (F, R, P, and I):\n\n![CAT DI LR 2018 Slot 2](img/2018-s2-dilr/CA2.png)\n\nIt is further known that in terms of overall scores:\n1. High Q is better than Best Ed.\n2. Best Ed is better than Cosmopolitan.\n3. Education Aid is better than A-one."
+    },
+    {
+      "id": "cat-2018-s2-dilr-set2",
+      "text": "There are only four brands of entry level smartphones called Azra, Bysi, Cxqi, and Dipq in a country. Details about their market share, unit selling price, and profitability (defined as the profit as a percentage of the revenue) for the year 2016 are given in the table below:\n\n![CAT DI LR 2018 Slot 2](img/2018-s2-dilr/smartphones.png)\n\nIn 2017, sales volume of entry level smartphones grew by 40% as compared to that in 2016. Cxqi offered a 40% discount on its unit selling price in 2017, which resulted in a 15% increase in its market share. Each of the other three brands lost 5% market share. However, the profitability of Cxqi came down to half of its value in 2016. The unit selling prices of the other three brands and their profitability values remained the same in 2017 as they were in 2016."
+    },
+    {
+      "id": "cat-2018-s2-dilr-set3",
+      "text": "Fun Sports (FS) provides training in three sports - Gilli-danda (G), Kho-Kho (K), and Ludo (L). Currently it has an enrollment of 39 students each of whom is enrolled in at least one of the three sports. The following details are known:\n1. The number of students enrolled only in L is double the number of students enrolled in all the three sports.\n2. There are a total of 17 students enrolled in G.\n3. The number of students enrolled only in G is one less than the number of students enrolled only in L.\n4. The number of students enrolled only in K is equal to the number of students who are enrolled in both K and L.\n5. The maximum student enrollment is in L.\n6. Ten students enrolled in G are also enrolled in at least one more sport."
+    },
+    {
+      "id": "cat-2018-s2-dilr-set4",
+      "text": "Each of the 23 boxes in the picture below represents a product manufactured by one of the following three companies: Alfa, Bravo and Charlie. The area of a box is proportional to the revenue from the corresponding product, while its centre represents the Product popularity and Market potential scores of the product (out of 20). The shadings of some of the boxes have got erased.\n\n![CAT DI LR 2018 Slot 2](img/2018-s2-dilr/PC.png)\n\nThe companies classified their products into four categories based on a combination of scores (out of 20) on the two parameters - Product popularity and Market potential as given below:\n\n![CAT DI LR 2018 Slot 2](img/2018-s2-dilr/PC2.png)\n\nThe following facts are known:\n1. Alfa and Bravo had the same number of products in the Blockbuster category.\n2. Charlie had more products than Bravo but fewer products than Alfa in the No-hope category.\n3. Each company had an equal number of products in the Promising category.\n4. Charlie did not have any product in the Doubtful category, while Alfa had one product more than Bravo in this category.\n5. Bravo had a higher revenue than Alfa from products in the Doubtful category.\n6. Charlie had a higher revenue than Bravo from products in the Blockbuster category.\n7. Bravo and Charlie had the same revenue from products in the No-hope category.\n8. Alfa and Charlie had the same total revenue considering all products."
+    },
+    {
+      "id": "cat-2018-s2-dilr-set5",
+      "text": "Each visitor to an amusement park needs to buy a ticket. Tickets can be Platinum, Gold, or Economy. Visitors are classified as Old, Middle-aged, or Young. The following facts are known about visitors and ticket sales on a particular day:\n1. 140 tickets were sold.\n2. The number of Middle-aged visitors was twice the number of Old visitors, while the number of Young visitors was twice the number of Middle-aged visitors.\n3. Young visitors bought 38 of the 55 Economy tickets that were sold, and they bought half the total number of Platinum tickets that were sold.\n4. The number of Gold tickets bought by Old visitors was equal to the number of Economy tickets bought by Old visitors."
+    },
+    {
+      "id": "cat-2018-s2-dilr-set6",
+      "text": "Seven candidates, Akil, Balaram, Chitra, Divya, Erina, Fatima, and Ganeshan, were invited to interview for a position. Candidates were required to reach the venue before 8 am. Immediately upon arrival, they were sent to one of three interview rooms: 101, 102, and 103. The following venue log shows the arrival times for these candidates. Some of the names have not been recorded in the log and have been marked as ‘?’.\n\n![CAT DI LR 2018 Slot 2](img/2018-s2-dilr/job.png)\n\nAdditionally here are some statements from the candidates:\nBalaram: I was the third person to enter Room 101.\nChitra: I was the last person to enter the room I was allotted to.\nErina: I was the only person in the room I was allotted to.\nFatima: Three people including Akil were already in the room that I was allotted to when I entered it.\nGaneshan: I was one among the two candidates allotted to Room 102."
+    },
+    {
+      "id": "cat-2018-s2-dilr-set7",
+      "text": "According to a coding scheme the sentence,\nPeacock is designated as the national bird of India is coded as 5688999 35 1135556678 56 458 13666689 1334 79 13366\nThis coding scheme has the following rules:\n1. The scheme is case-insensitive (does not distinguish between upper case and lower case letters).\n2. Each letter has a unique code which is a single digit from among 1,2,3,......,9.\n3. The digit 9 codes two letters, and every other digit codes three letters.\n4. The code for a word is constructed by arranging the digits corresponding to its letters in a non-decreasing sequence.\nAnswer these questions on the basis of this information"
+    },
+    {
+      "id": "cat-2018-s2-dilr-set8",
+      "text": "The base exchange rate of a currency X with respect to a currency Y is the number of units of currency Y which is equivalent in value to one unit of currency X. Currency exchange outlets buy currency at buying exchange rates that are lower than base exchange rates, and sell currency at selling exchange rates that are higher than base exchange rates.\n\nA currency exchange outlet uses the local currency L to buy and sell three international currencies A, B, and C, but does not exchange one international currency directly with another. The base exchange rates of A, B and C with respect to L are in the ratio 100:120:1. The buying exchange rates of each of A, B, and C with respect to L are 5% below the corresponding base exchange rates, and their selling exchange rates are 10% above their corresponding base exchange rates.\n\nThe following facts are known about the outlet on a particular day:\n1. The amount of L used by the outlet to buy C equals the amount of L it received by selling C.\n2. The amounts of L used by the outlet to buy A and B are in the ratio 5:3.\n3. The amounts of L the outlet received from the sales of A and B are in the ratio 5:9.\n4. The outlet received 88000 units of L by selling A during the day.\n5. The outlet started the day with some amount of L, 2500 units of A, 4800 units of B, and 48000 units of C.\n6. The outlet ended the day with some amount of L, 3300 units of A, 4800 units of B,and 51000 units of C."
+    }
+  ],
+  "questions": [
+    {
+      "id": "cat-2018-s2-dilr-01",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 2,
+      "section": "dilr",
+      "number": 1,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2018-s2-dilr-set1",
+      "question": "What is the weight of the faculty quality parameter?",
+      "options": [
+        "A) 0.2",
+        "B) 0.1",
+        "C) 0.4",
+        "D) 0.3"
+      ],
+      "answer": "B",
+      "answer_text": "0.1",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-DILR/dilr-set1-1.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2018-s2-dilr-02",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 2,
+      "section": "dilr",
+      "number": 2,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2018-s2-dilr-set1",
+      "question": "How many colleges receive the accreditation of AAA? [TITA]",
+      "options": null,
+      "answer": "3",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-DILR/dilr-set1-2.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2018-s2-dilr-03",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 2,
+      "section": "dilr",
+      "number": 3,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2018-s2-dilr-set1",
+      "question": "What is the highest overall score among the eight colleges? [TITA]",
+      "options": null,
+      "answer": "48",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-DILR/dilr-set1-3.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2018-s2-dilr-04",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 2,
+      "section": "dilr",
+      "number": 4,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2018-s2-dilr-set1",
+      "question": "How many colleges have overall scores between 31 and 40, both inclusive?",
+      "options": [
+        "A) 2",
+        "B) 1",
+        "C) 3",
+        "D) 0"
+      ],
+      "answer": "D",
+      "answer_text": "0",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-DILR/dilr-set1-4.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2018-s2-dilr-05",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 2,
+      "section": "dilr",
+      "number": 5,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2018-s2-dilr-set2",
+      "question": "The brand that had the highest revenue in 2016 is:",
+      "options": [
+        "A) Cxqi",
+        "B) Bysi",
+        "C) Azra",
+        "D) Dipq"
+      ],
+      "answer": "C",
+      "answer_text": "Azra",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-DILR/dilr-set2-1.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2018-s2-dilr-06",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 2,
+      "section": "dilr",
+      "number": 6,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2018-s2-dilr-set2",
+      "question": "The brand that had the highest profit in 2016 is:",
+      "options": [
+        "A) Azra",
+        "B) Dipq",
+        "C) Bysi",
+        "D) Cxqi"
+      ],
+      "answer": "D",
+      "answer_text": "Cxqi",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-DILR/dilr-set2-2.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2018-s2-dilr-07",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 2,
+      "section": "dilr",
+      "number": 7,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2018-s2-dilr-set2",
+      "question": "The brand that had the highest profit in 2017 is:",
+      "options": [
+        "A) Azra",
+        "B) Bysi",
+        "C) Cxqi",
+        "D) Dipq"
+      ],
+      "answer": "B",
+      "answer_text": "Bysi",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-DILR/dilr-set2-3.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2018-s2-dilr-08",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 2,
+      "section": "dilr",
+      "number": 8,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2018-s2-dilr-set2",
+      "question": "The complete list of brands whose profits went up in 2017 from 2016 is:",
+      "options": [
+        "A) Bysi, Cxqi, Dipq",
+        "B) Azra, Bysi, Cxqi",
+        "C) Cxqi, Azra, Dipq",
+        "D) Azra, Bysi, Dipq"
+      ],
+      "answer": "D",
+      "answer_text": "Azra, Bysi, Dipq",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-DILR/dilr-set2-4.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2018-s2-dilr-09",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 2,
+      "section": "dilr",
+      "number": 9,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2018-s2-dilr-set3",
+      "question": "What is the minimum number of students enrolled in both G and L but not in K? [TITA]",
+      "options": null,
+      "answer": "4",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-DILR/dilr-set3-1.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2018-s2-dilr-10",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 2,
+      "section": "dilr",
+      "number": 10,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2018-s2-dilr-set3",
+      "question": "If the numbers of students enrolled in K and L are in the ratio 19:22, then what is the number of students enrolled in L?",
+      "options": [
+        "A) 19",
+        "B) 18",
+        "C) 22",
+        "D) 17"
+      ],
+      "answer": "C",
+      "answer_text": "22",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-DILR/dilr-set3-2.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2018-s2-dilr-11",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 2,
+      "section": "dilr",
+      "number": 11,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2018-s2-dilr-set3",
+      "question": "Due to academic pressure, students who were enrolled in all three sports were asked to withdraw from one of the three sports. After the withdrawal, the number of students enrolled in G was six less than the number of students enrolled in L, while the number of students enrolled in K went down by one.After the withdrawal, how many students were enrolled in both G and K? [TITA]",
+      "options": null,
+      "answer": "2",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-DILR/dilr-set3-3.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2018-s2-dilr-12",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 2,
+      "section": "dilr",
+      "number": 12,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2018-s2-dilr-set3",
+      "question": "Due to academic pressure, students who were enrolled in all three sports were asked to withdraw from one of the three sports. After the withdrawal, the number of students enrolled in G was six less than the number of students enrolled in L, while the number of students enrolled in K went down by one.After the withdrawal, how many students were enrolled in both G and L?",
+      "options": [
+        "A) 5",
+        "B) 8",
+        "C) 7",
+        "D) 6"
+      ],
+      "answer": "D",
+      "answer_text": "6",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-DILR/dilr-set3-4.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2018-s2-dilr-13",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 2,
+      "section": "dilr",
+      "number": 13,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2018-s2-dilr-set4",
+      "question": "Considering all companies products, which product category had the highest revenue?",
+      "options": [
+        "A) No-hope",
+        "B) Doubtful",
+        "C) Promising",
+        "D) Blockbuster"
+      ],
+      "answer": "D",
+      "answer_text": "Blockbuster",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-DILR/dilr-set4-1.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2018-s2-dilr-14",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 2,
+      "section": "dilr",
+      "number": 14,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2018-s2-dilr-set4",
+      "question": "Which of the following is the correct sequence of numbers of products Bravo had in No-hope, Doubtful, Promising and Blockbuster categories respectively?",
+      "options": [
+        "A) 2 , 3 , 1 , 2",
+        "B) 1 , 3 , 1 , 2",
+        "C) 3 , 3 , 1 , 2",
+        "D) 1 , 3 , 1 , 3"
+      ],
+      "answer": "B",
+      "answer_text": "1 , 3 , 1 , 2",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-DILR/dilr-set4-2.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2018-s2-dilr-15",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 2,
+      "section": "dilr",
+      "number": 15,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2018-s2-dilr-set4",
+      "question": "Which of the following statements is NOT correct?",
+      "options": [
+        "A) Alfa's revenue from Blockbuster products was the same as Charlie's revenue from Promising products.",
+        "B) Bravo's revenue from Blockbuster products was greater than Alfa's revenue from Doubtful products.",
+        "C) The total revenue from No-hope products was less than the total revenue from Doubtful products.",
+        "D) Bravo and Charlie had the same revenues from No-hope products."
+      ],
+      "answer": "B",
+      "answer_text": "Bravo's revenue from Blockbuster\nproducts was greater than Alfa's revenue from Doubtful products.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-DILR/dilr-set4-3.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2018-s2-dilr-16",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 2,
+      "section": "dilr",
+      "number": 16,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2018-s2-dilr-set4",
+      "question": "If the smallest box on the grid is equivalent to revenue of Rs.1 crore, then what approximately was the total revenue of Bravo in Rs. crore?",
+      "options": [
+        "A) 30",
+        "B) 40",
+        "C) 34",
+        "D) 24"
+      ],
+      "answer": "C",
+      "answer_text": "34",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-DILR/dilr-set4-4.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2018-s2-dilr-17",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 2,
+      "section": "dilr",
+      "number": 17,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2018-s2-dilr-set5",
+      "question": "If the number of Old visitors buying Platinum tickets was equal to the number of Middle-aged visitors buying Platinum tickets, then which among the following could be the total number of Platinum tickets sold?",
+      "options": [
+        "A) 32",
+        "B) 38",
+        "C) 34",
+        "D) 36"
+      ],
+      "answer": "A",
+      "answer_text": "32",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-DILR/dilr-set5-1.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2018-s2-dilr-18",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 2,
+      "section": "dilr",
+      "number": 18,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2018-s2-dilr-set5",
+      "question": "If the number of Old visitors buying Gold tickets was strictly greater than the number of Young visitors buying Gold tickets, then the number Middle-aged visitors buying Gold tickets was [TITA]",
+      "options": null,
+      "answer": "0",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-DILR/dilr-set5-2.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2018-s2-dilr-19",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 2,
+      "section": "dilr",
+      "number": 19,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2018-s2-dilr-set5",
+      "question": "If the number of Old visitors buying Platinum tickets was equal to the number of Middle-aged visitors buying Economy tickets, then the number of Old visitors buying Gold tickets was [TITA]",
+      "options": null,
+      "answer": "3",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-DILR/dilr-set5-3.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2018-s2-dilr-20",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 2,
+      "section": "dilr",
+      "number": 20,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2018-s2-dilr-set5",
+      "question": "Which of the following statements MUST be FALSE?",
+      "options": [
+        "A) The numbers of Gold and Platinum tickets bought by Young visitors were equal",
+        "B) The numbers of Middle-aged and Young visitors buying Gold tickets were equal",
+        "C) The numbers of Old and Middle-aged visitors buying Economy tickets were equal",
+        "D) The numbers of Old and Middle-aged visitors buying Platinum tickets were equal"
+      ],
+      "answer": "C",
+      "answer_text": "The numbers of Old and Middle-aged\nvisitors buying Economy tickets were equal",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-DILR/dilr-set5-4.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2018-s2-dilr-21",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 2,
+      "section": "dilr",
+      "number": 21,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2018-s2-dilr-set6",
+      "question": "What best can be said about the room to which Divya was allotted?",
+      "options": [
+        "A) Either Room 101 or Room 102",
+        "B) Definitely Room 103",
+        "C) Definitely Room 101",
+        "D) Definitely Room 102"
+      ],
+      "answer": "C",
+      "answer_text": "Definitely Room 101",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-DILR/dilr-set6-1.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2018-s2-dilr-22",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 2,
+      "section": "dilr",
+      "number": 22,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2018-s2-dilr-set6",
+      "question": "Who else was in Room 102 when Ganeshan entered?",
+      "options": [
+        "A) No one",
+        "B) Akil",
+        "C) Divya",
+        "D) Chitra"
+      ],
+      "answer": "A",
+      "answer_text": "No one",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-DILR/dilr-set6-2.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2018-s2-dilr-23",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 2,
+      "section": "dilr",
+      "number": 23,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2018-s2-dilr-set6",
+      "question": "When did Erina reach the venue?",
+      "options": [
+        "A) 7:45 am",
+        "B) 7:10 am",
+        "C) 7:15 am",
+        "D) 7:25 am"
+      ],
+      "answer": "A",
+      "answer_text": "7:45 am",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-DILR/dilr-set6-3.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2018-s2-dilr-24",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 2,
+      "section": "dilr",
+      "number": 24,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2018-s2-dilr-set6",
+      "question": "If Ganeshan entered the venue before Divya, when did Balaram enter the venue?",
+      "options": [
+        "A) 7:25 am",
+        "B) 7:45 am",
+        "C) 7:10 am",
+        "D) 7:15 am"
+      ],
+      "answer": "A",
+      "answer_text": "7:25 am",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-DILR/dilr-set6-4.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2018-s2-dilr-25",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 2,
+      "section": "dilr",
+      "number": 25,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2018-s2-dilr-set7",
+      "question": "What best can be concluded about the code for the letter L?",
+      "options": [
+        "A) 6",
+        "B) 8",
+        "C) 1 or 8",
+        "D) 1"
+      ],
+      "answer": "D",
+      "answer_text": "1",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-DILR/dilr-set7-1.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2018-s2-dilr-26",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 2,
+      "section": "dilr",
+      "number": 26,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2018-s2-dilr-set7",
+      "question": "What best can be concluded about the code for the letter B?",
+      "options": [
+        "A) 1 or 3 or 4",
+        "B) 1",
+        "C) 3",
+        "D) 3 or 4"
+      ],
+      "answer": "D",
+      "answer_text": "3 or 4",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-DILR/dilr-set7-2.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2018-s2-dilr-27",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 2,
+      "section": "dilr",
+      "number": 27,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2018-s2-dilr-set7",
+      "question": "For how many digits can the complete list of letters associated with that digit be identified?",
+      "options": [
+        "A) 2",
+        "B) 1",
+        "C) 0",
+        "D) 3"
+      ],
+      "answer": "A",
+      "answer_text": "2",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-DILR/dilr-set7-3.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2018-s2-dilr-28",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 2,
+      "section": "dilr",
+      "number": 28,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2018-s2-dilr-set7",
+      "question": "Which set of letters CANNOT be coded with the same digit?",
+      "options": [
+        "A) S , U , V",
+        "B) X , Y , Z",
+        "C) S , E , Z",
+        "D) I , B , M"
+      ],
+      "answer": "A",
+      "answer_text": "S , U , V",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-DILR/dilr-set7-4.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2018-s2-dilr-29",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 2,
+      "section": "dilr",
+      "number": 29,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2018-s2-dilr-set8",
+      "question": "How many units of currency A did the outlet buy on that day? [TITA]",
+      "options": null,
+      "answer": "1200",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-DILR/dilr-set8-1.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2018-s2-dilr-30",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 2,
+      "section": "dilr",
+      "number": 30,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2018-s2-dilr-set8",
+      "question": "How many units of currency C did the outlet sell on that day?",
+      "options": [
+        "A) 3000",
+        "B) 22000",
+        "C) 6000",
+        "D) 19000"
+      ],
+      "answer": "D",
+      "answer_text": "19000",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-DILR/dilr-set8-2.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2018-s2-dilr-31",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 2,
+      "section": "dilr",
+      "number": 31,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2018-s2-dilr-set8",
+      "question": "What was the base exchange rate of currency B with respect to currency L on that day? [TITA]",
+      "options": null,
+      "answer": "240",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-DILR/dilr-set8-3.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2018-s2-dilr-32",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 2,
+      "section": "dilr",
+      "number": 32,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2018-s2-dilr-set8",
+      "question": "What was the buying exchange rate of currency C with respect to currency L on that day?",
+      "options": [
+        "A) 1.10",
+        "B) 0.95",
+        "C) 2.20",
+        "D) 1.90"
+      ],
+      "answer": "D",
+      "answer_text": "1.90",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-DILR/dilr-set8-4.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false
+    }
+  ]
+}

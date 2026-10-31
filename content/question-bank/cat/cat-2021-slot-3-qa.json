@@ -1,0 +1,787 @@
+{
+  "exam": "CAT",
+  "year": 2021,
+  "slot": 3,
+  "section": "qa",
+  "source": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-Quant/",
+  "licence": "Real CAT questions (c) IIMs, as re-published free by 2IIM (c) 2IIM. Private study use in AHH only; do not republish.",
+  "scraped": "2026-10-31",
+  "count": 22,
+  "sets": [],
+  "questions": [
+    {
+      "id": "cat-2021-s3-qa-01",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 3,
+      "section": "qa",
+      "number": 1,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "If a certain weight of an alloy of silver and copper is mixed with 3 kg of pure silver, the resulting alloy will have 90% silver by weight. If the same weight of the initial alloy is mixed with 2 kg of another alloy which has 90% silver by weight, the resulting alloy will have 84% silver by weight. Then, the weight of the initial alloy, in kg, is",
+      "options": [
+        "A) 3",
+        "B) 2.5",
+        "C) 4",
+        "D) 3.5"
+      ],
+      "answer": "A",
+      "answer_text": "3",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 18.71,
+        "incorrect": 12.27,
+        "unattempted": 69.02
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-Quant/quants-question-1.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2021-s3-qa-02",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 3,
+      "section": "qa",
+      "number": 2,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "Anil can paint a house in 12 days while Barun can paint it in 16 days. Anil, Barun, and Chandu undertake to paint the house for ₹ 24000 and the three of them together complete the painting in 6 days. If Chandu is paid in proportion to the work done by him, then the amount in INR received by him is",
+      "options": null,
+      "answer": "3000",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 60.92,
+        "incorrect": 21.88,
+        "unattempted": 17.2
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-Quant/quants-question-2.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2021-s3-qa-03",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 3,
+      "section": "qa",
+      "number": 3,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "Mira and Amal walk along a circular track, starting from the same point at the same time. If they walk in the same direction, then in 45 minutes, Amal completes exactly 3 more rounds than Mira. If they walk in opposite directions, then they meet for the first time exactly after 3 minutes. The number of rounds Mira walks in one hour is",
+      "options": null,
+      "answer": "8",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 6.48,
+        "incorrect": 36.45,
+        "unattempted": 57.07
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-Quant/quants-question-3.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2021-s3-qa-04",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 3,
+      "section": "qa",
+      "number": 4,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "A four-digit number is formed by using only the digits 1, 2 and 3 such that both 2 and 3 appear at least once. The number of all such four-digit numbers is",
+      "options": null,
+      "answer": "50",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 4.28,
+        "incorrect": 54.08,
+        "unattempted": 41.64
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-Quant/quants-question-4.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2021-s3-qa-05",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 3,
+      "section": "qa",
+      "number": 5,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "In a triangle ABC , ∠ BCA =50°. D and E are points on AB and AC, respectively, such that AD = DE. If F is a point on BC such that BD = DF, then ∠ FDE, in degrees, is equal to",
+      "options": [
+        "A) 100",
+        "B) 80",
+        "C) 96",
+        "D) 72"
+      ],
+      "answer": "B",
+      "answer_text": "80",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 21.63,
+        "incorrect": 12.38,
+        "unattempted": 65.99
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-Quant/quants-question-5.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2021-s3-qa-06",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 3,
+      "section": "qa",
+      "number": 6,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "For a real number a, if \\(\\frac{\\log _{15} a+\\log _{32} a}{\\left(\\log _{15} a\\right)\\left(\\log _{32} a\\right)}=\\) = 4 then a must lie in the range",
+      "options": [
+        "A) 4 < a < 5",
+        "B) 3 < a < 4",
+        "C) a > 5",
+        "D) 2 < a < 3"
+      ],
+      "answer": "A",
+      "answer_text": "4 < a < 5",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 22.74,
+        "incorrect": 11.08,
+        "unattempted": 66.18
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-Quant/quants-question-6.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2021-s3-qa-07",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 3,
+      "section": "qa",
+      "number": 7,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "The arithmetic mean of scores of 25 students in an examination is 50. Five of these students top the examination with the same score. If the scores of the other students are distinct integers with the lowest being 30, then the maximum possible score of the toppers is",
+      "options": null,
+      "answer": "92",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 30.59,
+        "incorrect": 40.63,
+        "unattempted": 28.78
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-Quant/quants-question-7.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2021-s3-qa-08",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 3,
+      "section": "qa",
+      "number": 8,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "One part of a hostel's monthly expenses is fixed, and the other part is proportional to the number of its boarders. The hostel collects ₹ 1600 per month from each boarder. When the number of boarders is 50, the profit of the hostel is ₹ 200 per boarder, and when the number of boarders is 75, the profit of the hostel is ₹ 250 per boarder. When the number of boarders is 80, the total profit of the hostel, in INR, will be",
+      "options": [
+        "A) 20800",
+        "B) 20200",
+        "C) 20500",
+        "D) 20000"
+      ],
+      "answer": "C",
+      "answer_text": "20500",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 15.83,
+        "incorrect": 20.91,
+        "unattempted": 63.26
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-Quant/quants-question-8.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2021-s3-qa-09",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 3,
+      "section": "qa",
+      "number": 9,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "One day, Rahul started a work at 9 AM and Gautam joined him two hours later. They then worked together and completed the work at 5 PM the same day. If both had started at 9 AM and worked together, the work would have been completed 30 minutes earlier. Working alone, the time Rahul would have taken, in hours, to complete the work is",
+      "options": [
+        "A) 12",
+        "B) 11.5",
+        "C) 12.5",
+        "D) 10"
+      ],
+      "answer": "D",
+      "answer_text": "10",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 32.6,
+        "incorrect": 16.88,
+        "unattempted": 50.52
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-Quant/quants-question-9.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2021-s3-qa-10",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 3,
+      "section": "qa",
+      "number": 10,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "The total of male and female populations in a city increased by 25% from 1970 to 1980. During the same period, the male population increased by 40% while the female population increased by 20%. From 1980 to 1990, the female population increased by 25%. In 1990, if the female population is twice the male population, then the percentage increase in the total of male and female populations in the city from 1970 to 1990 is",
+      "options": [
+        "A) 68.75",
+        "B) 68.50",
+        "C) 68.25",
+        "D) 69.25"
+      ],
+      "answer": "A",
+      "answer_text": "68.75",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 17.6,
+        "incorrect": 11.34,
+        "unattempted": 71.06
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-Quant/quants-question-10.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2021-s3-qa-11",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 3,
+      "section": "qa",
+      "number": 11,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "Let ABCD be a parallelogram. The lengths of the side AD and the diagonal AC are 10 cm and 20 cm, respectively. If the angle ∠ADC is equal to 30° then the area of the parallelogram, in sq. cm, is",
+      "options": [
+        "A) \\(\\frac{25(\\sqrt{3}+\\sqrt{15})}{2}\\)",
+        "B) \\(25(\\sqrt{5}+\\sqrt{15})\\)",
+        "C) \\(\\frac{25(\\sqrt{5}+\\sqrt{15})}{2}\\)",
+        "D) \\(25(\\sqrt{3}+\\sqrt{15})\\)"
+      ],
+      "answer": "D",
+      "answer_text": "\\(25(\\sqrt{3}+\\sqrt{15})\\)",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 9.46,
+        "incorrect": 10.87,
+        "unattempted": 79.67
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-Quant/quants-question-11.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2021-s3-qa-12",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 3,
+      "section": "qa",
+      "number": 12,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "A park is shaped like a rhombus and has area 96 sq m. If 40 m of fencing is needed to enclose the park, the cost, in INR, of laying electric wires along its two diagonals, at the rate of ₹125 per m, is",
+      "options": null,
+      "answer": "3500",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 21.12,
+        "incorrect": 26.38,
+        "unattempted": 52.5
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-Quant/quants-question-12.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2021-s3-qa-13",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 3,
+      "section": "qa",
+      "number": 13,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "If \\(3 x+2|y|+y=7\\) and \\(x+|x|+3 y=1\\), then \\(x+2 y\\) is",
+      "options": [
+        "A) 0",
+        "B) 1",
+        "C) \\(-\\frac{4}{3}\\)",
+        "D) \\(\\frac{8}{3}\\)"
+      ],
+      "answer": "A",
+      "answer_text": "0",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 11.05,
+        "incorrect": 22.99,
+        "unattempted": 65.96
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-Quant/quants-question-13.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2021-s3-qa-14",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 3,
+      "section": "qa",
+      "number": 14,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "In a tournament, a team has played 40 matches so far and won 30% of them. If they win 60% of the remaining matches, their overall win percentage will be 50%. Suppose they win 90% of the remaining matches, then the total number of matches won by the team in the tournament will be",
+      "options": [
+        "A) 86",
+        "B) 84",
+        "C) 78",
+        "D) 80"
+      ],
+      "answer": "B",
+      "answer_text": "84",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 56.39,
+        "incorrect": 11.19,
+        "unattempted": 32.42
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-Quant/quants-question-14.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2021-s3-qa-15",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 3,
+      "section": "qa",
+      "number": 15,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "A shop owner bought a total of 64 shirts from a wholesale market that came in two sizes, small and large. The price of a small shirt was INR 50 less than that of a large shirt. She paid a total of INR 5000 for the large shirts, and a total of INR 1800 for the small shirts. Then, the price of a large shirt and a small shirt together, in INR, is",
+      "options": [
+        "A) 150",
+        "B) 225",
+        "C) 175",
+        "D) 200"
+      ],
+      "answer": "D",
+      "answer_text": "200",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 22.96,
+        "incorrect": 17.67,
+        "unattempted": 59.37
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-Quant/quants-question-15.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2021-s3-qa-16",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 3,
+      "section": "qa",
+      "number": 16,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "Consider a sequence of real numbers \\(x_{1}, x_{2}, x_{3}, \\ldots\\) such that \\(x_{n+1}=x_{n}+n-1\\) for all \\(n \\geq 1 .\\) If \\(x_{1}=-1\\) then \\(x_{100}\\) is equal to",
+      "options": [
+        "A) 4949",
+        "B) 4849",
+        "C) 4850",
+        "D) 4950"
+      ],
+      "answer": "C",
+      "answer_text": "4850",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 10.44,
+        "incorrect": 18.71,
+        "unattempted": 70.85
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-Quant/quants-question-16.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2021-s3-qa-17",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 3,
+      "section": "qa",
+      "number": 17,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "A tea shop offers tea in cups of three different sizes. The product of the prices, in INR, of three different sizes is equal to 800. The prices of the smallest size and the medium size are in the ratio 2 : 5. If the shop owner decides to increase the prices of the smallest and the medium ones by INR 6 keeping the price of the largest size unchanged, the product then changes to 3200. The sum of the original prices of three different sizes, in INR, is",
+      "options": null,
+      "answer": "34",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 21.52,
+        "incorrect": 20.3,
+        "unattempted": 58.18
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-Quant/quants-question-17.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2021-s3-qa-18",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 3,
+      "section": "qa",
+      "number": 18,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "The number of distinct pairs of integers (m, n) satisfying |1+mn| < |m+n| < 5 is",
+      "options": null,
+      "answer": "12",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 1.15,
+        "incorrect": 40.77,
+        "unattempted": 58.08
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-Quant/quants-question-18.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2021-s3-qa-19",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 3,
+      "section": "qa",
+      "number": 19,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "The cost of fencing a rectangular plot is ₹ 200 per ft along one side, and ₹ 100 per ft along the three other sides. If the area of the rectangular plot is 60000 sq. ft, then the lowest possible cost of fencing all four sides, in INR, is",
+      "options": [
+        "A) 90000",
+        "B) 160000",
+        "C) 120000",
+        "D) 100000"
+      ],
+      "answer": "C",
+      "answer_text": "120000",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 30.55,
+        "incorrect": 10.8,
+        "unattempted": 58.65
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-Quant/quants-question-19.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2021-s3-qa-20",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 3,
+      "section": "qa",
+      "number": 20,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "If \\(n\\) is a positive integer such that \\((\\sqrt[7]{10})(\\sqrt[7]{10})^{2} \\ldots(\\sqrt[7]{10})^{n}>999\\), then the smallest value of \\(n\\) is",
+      "options": null,
+      "answer": "6",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 21.52,
+        "incorrect": 32.13,
+        "unattempted": 46.35
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-Quant/quants-question-20.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2021-s3-qa-21",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 3,
+      "section": "qa",
+      "number": 21,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "Bank A offers 6% interest rate per annum compounded half yearly. Bank B and Bank C offer simple interest but the annual interest rate offered by Bank C is twice that of Bank B. Raju invests a certain amount in Bank B for a certain period and Rupa invests ₹ 10,000 in Bank C for twice that period. The interest that would accrue to Raju during that period is equal to the interest that would have accrued had he invested the same amount in Bank A for one year. The interest accrued, in INR, to Rupa is",
+      "options": [
+        "A) 2436",
+        "B) 3436",
+        "C) 2346",
+        "D) 1436"
+      ],
+      "answer": "A",
+      "answer_text": "2436",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 16.08,
+        "incorrect": 5.29,
+        "unattempted": 78.63
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-Quant/quants-question-21.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2021-s3-qa-22",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 3,
+      "section": "qa",
+      "number": 22,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "If \\(f(x)=x^{2}-7 x\\) and \\(g(x)=x+3\\), then the minimum value of \\(f(g(x))-3 x\\) is",
+      "options": [
+        "A) - 20",
+        "B) - 15",
+        "C) - 12",
+        "D) - 16"
+      ],
+      "answer": "D",
+      "answer_text": "- 16",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 43.86,
+        "incorrect": 19.68,
+        "unattempted": 36.46
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-Quant/quants-question-22.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false
+    }
+  ]
+}

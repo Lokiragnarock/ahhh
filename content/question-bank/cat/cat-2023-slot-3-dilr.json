@@ -1,0 +1,650 @@
+{
+  "exam": "CAT",
+  "year": 2023,
+  "slot": 3,
+  "section": "dilr",
+  "source": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-DILR/",
+  "licence": "Real CAT questions (c) IIMs, as re-published free by 2IIM (c) 2IIM. Private study use in AHH only; do not republish.",
+  "scraped": "2026-10-31",
+  "count": 20,
+  "sets": [
+    {
+      "id": "cat-2023-s3-dilr-set1",
+      "text": "There are only three female students – Amala, Koli and Rini – and only three male students – Biman, Mathew and Shyamal – in a course. The course has two evaluation components, a project and a test. The aggregate score in the course is a weighted average of the two components, with the weights being positive and adding to 1.\n\nThe projects are done in groups of two, with each group consisting of a female and a male student. Both the group members obtain the same score in the project.\n\nThe following additional facts are known about the scores in the project and the test.\n\n1. The minimum, maximum and the average of both project and test scores were identical – 40, 80 and 60, respectively.\n2. The test scores of the students were all multiples of 10; four of them were distinct and the remaining two were equal to the average test scores.\n3. Amala's score in the project was double that of Koli in the same, but Koli scored 20 more than Amala in the test. Yet Amala had the highest aggregate score.\n4. Shyamal scored the second highest in the test. He scored two more than Koli, but two less than Amala in the aggregate.\n5. Biman scored the second lowest in the test and the lowest in the aggregate.\n6. Mathew scored more than Rini in the project, but less than her in the test."
+    },
+    {
+      "id": "cat-2023-s3-dilr-set2",
+      "text": "In a coaching class, some students register online, and some others register offline. No student registers both online and offline; hence the total registration number is the sum of online and offline registrations. The following facts and table pertain to these registration numbers for the five months – January to May of 2023. The table shows the minimum, maximum, median registration numbers of these five months, separately for online, offline and total number of registrations. The following additional facts are known.\n\n1. In every month, both online and offline registration numbers were multiples of 10.\n2. In January, the number of offline registrations was twice that of online registrations.\n3. In April, the number of online registrations was twice that of offline registrations.\n4. The number of online registrations in March was the same as the number of offline registrations in February.\n5. The number of online registrations was the largest in May.\n\n![figure](img/2023-s3-dilr/756_489168_0_24354807_dilr_qvi123_mr.jpg)"
+    },
+    {
+      "id": "cat-2023-s3-dilr-set3",
+      "text": "An air conditioner (AC) company has four dealers – D1, D2, D3 and D4 in a city. It is evaluating sales performances of these dealers. The company sells two variants of ACs – Window and Split. Both these variants can be either Inverter type or Non-inverter type. It is known that of the total number of ACs sold in the city, 25% were of Window variant, while the rest were of Split variant. Among the Inverter ACs sold, 20% were of Window variant.\n\nThe following information is also known:\n1. Every dealer sold at least two window ACs.\n2. D1 sold 13 inverter ACs, while D3 sold 5 Non-inverter ACs.\n3. A total of six Window Non-inverter ACs and 36 Split Inverter ACs were sold in the city.\n4. The number of Split ACs sold by D1 was twice the number of Window ACs sold by it.\n5. D3 and D4 sold an equal number of Window ACs and this number was one-third of the number of similar ACs sold by D2.\n6. D2 and D3 were the only ones who sold Window Non-inverter ACs. The number of these ACs sold by D2 was twice the number of these ACs sold by D3.\n7. D3 and D4 sold an equal number of Split Inverter ACs. This number was half the number of similar ACs sold by D2."
+    },
+    {
+      "id": "cat-2023-s3-dilr-set4",
+      "text": "A, B, C, D, E and F are the six police stations in an area, which are connected by streets as shown below. Four teams – Team 1, Team 2, Team 3 and Team 4 –\npatrol these streets continuously between 09:00 hrs. and 12:00 hrs. each day.\n\n![figure](img/2023-s3-dilr/756_489168_0_24354775_dgpsg1.jpg)\n\nThe teams need 30 minutes to cross a street connecting one police station to another. All four teams start from Station A at 09:00 hrs. and must return to Station A by 12:00 hrs. They can also pass via Station A at any point on their journeys.\n\nThe following facts are known:\n1. None of the streets has more than one team traveling along it in any direction at any point in time.\n2. Teams 2 and 3 are the only ones in stations E and D respectively at 10:00 hrs.\n3. Teams 1 and 3 are the only ones in station E at 10:30 hrs.\n4. Teams 1 and 4 are the only ones in stations B and E respectively at 11:30 hrs.\n5. Team 1 and Team 4 are the only teams that patrol the street connecting stations A and E.\n6. Team 4 never passes through Stations B, D or F."
+    }
+  ],
+  "questions": [
+    {
+      "id": "cat-2023-s3-dilr-01",
+      "exam": "CAT",
+      "year": 2023,
+      "slot": 3,
+      "section": "dilr",
+      "number": 1,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2023-s3-dilr-set1",
+      "question": "What was Rini's score in the project?",
+      "options": null,
+      "answer": "60",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-DILR/dilr-question-1.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2023-s3-dilr-02",
+      "exam": "CAT",
+      "year": 2023,
+      "slot": 3,
+      "section": "dilr",
+      "number": 2,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2023-s3-dilr-set1",
+      "question": "What was the weight of the test component?",
+      "options": [
+        "A) 0.75",
+        "B) 0.50",
+        "C) 0.60",
+        "D) 0.40"
+      ],
+      "answer": "C",
+      "answer_text": "0.60",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-DILR/dilr-question-2.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2023-s3-dilr-03",
+      "exam": "CAT",
+      "year": 2023,
+      "slot": 3,
+      "section": "dilr",
+      "number": 3,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2023-s3-dilr-set1",
+      "question": "What was the maximum aggregate score obtained by the students?",
+      "options": [
+        "A) 66",
+        "B) 68",
+        "C) 80",
+        "D) 62"
+      ],
+      "answer": "B",
+      "answer_text": "68",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-DILR/dilr-question-3.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2023-s3-dilr-04",
+      "exam": "CAT",
+      "year": 2023,
+      "slot": 3,
+      "section": "dilr",
+      "number": 4,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2023-s3-dilr-set1",
+      "question": "What was Mathew's score in the test?",
+      "options": null,
+      "answer": "40",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-DILR/dilr-question-4.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2023-s3-dilr-05",
+      "exam": "CAT",
+      "year": 2023,
+      "slot": 3,
+      "section": "dilr",
+      "number": 5,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2023-s3-dilr-set1",
+      "question": "Which of the following pairs of students were part of the same project team?\ni) Amala and Biman\nii) Koli and Mathew",
+      "options": [
+        "A) Neither i) nor ii)",
+        "B) Both i) and ii)",
+        "C) Only i)",
+        "D) Only ii)"
+      ],
+      "answer": "A",
+      "answer_text": "Neither i) nor ii)",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-DILR/dilr-question-5.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2023-s3-dilr-06",
+      "exam": "CAT",
+      "year": 2023,
+      "slot": 3,
+      "section": "dilr",
+      "number": 6,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2023-s3-dilr-set2",
+      "question": "What was the total number of registrations in April?",
+      "options": null,
+      "answer": "120",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-DILR/dilr-question-6.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2023-s3-dilr-07",
+      "exam": "CAT",
+      "year": 2023,
+      "slot": 3,
+      "section": "dilr",
+      "number": 7,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2023-s3-dilr-set2",
+      "question": "What was the number of online registrations in January?",
+      "options": null,
+      "answer": "40",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-DILR/dilr-question-7.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2023-s3-dilr-08",
+      "exam": "CAT",
+      "year": 2023,
+      "slot": 3,
+      "section": "dilr",
+      "number": 8,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2023-s3-dilr-set2",
+      "question": "Which of the following statements can be true?\nI. The number of offline registrations was the smallest in May.\nII. The total number of registrations was the smallest in February.",
+      "options": [
+        "A) Only II",
+        "B) Only I",
+        "C) Both I and II",
+        "D) Neither I nor II"
+      ],
+      "answer": "B",
+      "answer_text": "Only I",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-DILR/dilr-question-8.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2023-s3-dilr-09",
+      "exam": "CAT",
+      "year": 2023,
+      "slot": 3,
+      "section": "dilr",
+      "number": 9,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2023-s3-dilr-set2",
+      "question": "What best can be concluded about the number of offline registrations in February?",
+      "options": [
+        "A) 30 or 50 or 80",
+        "B) 80",
+        "C) 50 or 80",
+        "D) 50"
+      ],
+      "answer": "D",
+      "answer_text": "50",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-DILR/dilr-question-9.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2023-s3-dilr-10",
+      "exam": "CAT",
+      "year": 2023,
+      "slot": 3,
+      "section": "dilr",
+      "number": 10,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2023-s3-dilr-set2",
+      "question": "Which pair of months definitely had the same total number of registrations?\nI. January and April\nII. February and May",
+      "options": [
+        "A) Only I",
+        "B) Neither I nor II",
+        "C) Only II",
+        "D) Both I and II"
+      ],
+      "answer": "D",
+      "answer_text": "Both I and II",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-DILR/dilr-question-10.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2023-s3-dilr-11",
+      "exam": "CAT",
+      "year": 2023,
+      "slot": 3,
+      "section": "dilr",
+      "number": 11,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2023-s3-dilr-set3",
+      "question": "How many Split Inverter ACs did D2 sell?",
+      "options": null,
+      "answer": "14",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-DILR/dilr-question-11.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2023-s3-dilr-12",
+      "exam": "CAT",
+      "year": 2023,
+      "slot": 3,
+      "section": "dilr",
+      "number": 12,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2023-s3-dilr-set3",
+      "question": "What percentage of ACs sold were of Non-inverter type?",
+      "options": [
+        "A) 33.33%",
+        "B) 20.00%",
+        "C) 25.00%",
+        "D) 75.00%"
+      ],
+      "answer": "C",
+      "answer_text": "25.00%",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-DILR/dilr-question-12.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2023-s3-dilr-13",
+      "exam": "CAT",
+      "year": 2023,
+      "slot": 3,
+      "section": "dilr",
+      "number": 13,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2023-s3-dilr-set3",
+      "question": "What was the total number of ACs sold by D2 and D4?",
+      "options": null,
+      "answer": "33",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-DILR/dilr-question-13.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2023-s3-dilr-14",
+      "exam": "CAT",
+      "year": 2023,
+      "slot": 3,
+      "section": "dilr",
+      "number": 14,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2023-s3-dilr-set3",
+      "question": "Which of the following statements is necessarily false?",
+      "options": [
+        "A) D2 sold the highest number of ACs.",
+        "B) D1 and D3 together sold more ACs as compared to D2 and D4 together.",
+        "C) D1 and D3 sold an equal number of Split ACs.",
+        "D) D4 sold more Split ACs as compared to D3."
+      ],
+      "answer": "B",
+      "answer_text": "D1 and D3 together sold more ACs as\ncompared to D2 and D4 together.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-DILR/dilr-question-14.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2023-s3-dilr-15",
+      "exam": "CAT",
+      "year": 2023,
+      "slot": 3,
+      "section": "dilr",
+      "number": 15,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2023-s3-dilr-set3",
+      "question": "If D3 and D4 sold an equal number of ACs, then what was the number of Non-inverter ACs sold by D2?",
+      "options": [
+        "A) 7",
+        "B) 5",
+        "C) 6",
+        "D) 4"
+      ],
+      "answer": "B",
+      "answer_text": "5",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-DILR/dilr-question-15.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2023-s3-dilr-16",
+      "exam": "CAT",
+      "year": 2023,
+      "slot": 3,
+      "section": "dilr",
+      "number": 16,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2023-s3-dilr-set4",
+      "question": "Which one among the following stations is visited the largest number of times?",
+      "options": [
+        "A) Station D",
+        "B) Station C",
+        "C) Station F",
+        "D) Station E"
+      ],
+      "answer": "D",
+      "answer_text": "Station E",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-DILR/dilr-question-16.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2023-s3-dilr-17",
+      "exam": "CAT",
+      "year": 2023,
+      "slot": 3,
+      "section": "dilr",
+      "number": 17,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2023-s3-dilr-set4",
+      "question": "How many times do the teams pass through Station B in a day?",
+      "options": null,
+      "answer": "2",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-DILR/dilr-question-17.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2023-s3-dilr-18",
+      "exam": "CAT",
+      "year": 2023,
+      "slot": 3,
+      "section": "dilr",
+      "number": 18,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2023-s3-dilr-set4",
+      "question": "Which team patrols the street connecting Stations D and E at 10:15 hrs?",
+      "options": [
+        "A) Team 2",
+        "B) Team 1",
+        "C) Team 4",
+        "D) Team 3"
+      ],
+      "answer": "D",
+      "answer_text": "Team 3",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-DILR/dilr-question-18.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2023-s3-dilr-19",
+      "exam": "CAT",
+      "year": 2023,
+      "slot": 3,
+      "section": "dilr",
+      "number": 19,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2023-s3-dilr-set4",
+      "question": "How many times does Team 4 pass through Station E in a day?",
+      "options": null,
+      "answer": "2",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-DILR/dilr-question-19.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2023-s3-dilr-20",
+      "exam": "CAT",
+      "year": 2023,
+      "slot": 3,
+      "section": "dilr",
+      "number": 20,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2023-s3-dilr-set4",
+      "question": "How many teams pass through Station C in a day?",
+      "options": [
+        "A) 2",
+        "B) 1",
+        "C) 3",
+        "D) 4"
+      ],
+      "answer": "A",
+      "answer_text": "2",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-DILR/dilr-question-20.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false
+    }
+  ]
+}

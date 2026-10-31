@@ -1,0 +1,1080 @@
+{
+  "exam": "CAT",
+  "year": 2017,
+  "slot": 2,
+  "section": "qa",
+  "source": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/",
+  "licence": "Real CAT questions (c) IIMs, as re-published free by 2IIM (c) 2IIM. Private study use in AHH only; do not republish.",
+  "scraped": "2026-10-31",
+  "count": 34,
+  "sets": [],
+  "questions": [
+    {
+      "id": "cat-2017-s2-qa-01",
+      "exam": "CAT",
+      "year": 2017,
+      "slot": 2,
+      "section": "qa",
+      "number": 1,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "The numbers 1, 2,..., 9 are arranged in a 3 X 3 square grid in such a way that each number occurs once and the entries along each column, each row, and each of the two diagonals add up to the same value. If the top left and the top right entries of the grid are 6 and 2, respectively, then the bottom middle entry is: [TITA]",
+      "options": null,
+      "answer": "3",
+      "answer_text": null,
+      "topic_2iim": "Number Theory",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/quant-question-1.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2017-s2-qa-02",
+      "exam": "CAT",
+      "year": 2017,
+      "slot": 2,
+      "section": "qa",
+      "number": 2,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "In a 10 km race. A, B, and C, each running at uniform speed, get the gold, silver, and bronze medals, respectively. If A beats B by 1 km and B beats C by 1 km, then by how many metres does A beat C? [TITA]",
+      "options": null,
+      "answer": "1900",
+      "answer_text": null,
+      "topic_2iim": "Races",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/quant-question-2.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2017-s2-qa-03",
+      "exam": "CAT",
+      "year": 2017,
+      "slot": 2,
+      "section": "qa",
+      "number": 3,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "Bottle 1 contains a mixture of milk and water in 7 : 2 ratio and Bottle 2 contains a mixture of milk and water in 9 : 4 ratio. In what ratio of volumes should the liquids in Bottle 1 and Bottle 2 be combined to obtain a mixture of milk and water in 3 : 1 ratio?",
+      "options": [
+        "A) 27 : 14",
+        "B) 27 : 13",
+        "C) 27 : 16",
+        "D) 27 : 18"
+      ],
+      "answer": "B",
+      "answer_text": "27 : 13",
+      "topic_2iim": "Mixtures",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/quant-question-3.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2017-s2-qa-04",
+      "exam": "CAT",
+      "year": 2017,
+      "slot": 2,
+      "section": "qa",
+      "number": 4,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "Arun drove from home to his hostel at 60 miles per hour. While returning home he drove half way along the same route at a speed of 25 miles per hour and then took a bypass road which increased his driving distance by 5 miles, but allowed him to drive at 50 miles per hour along this bypass road. If his return journey took 30 minutes more than his onward journey, then the total distance travelled by him is:",
+      "options": [
+        "A) 55 miles",
+        "B) 60 miles",
+        "C) 65 miles",
+        "D) 70 miles"
+      ],
+      "answer": "C",
+      "answer_text": "65 miles",
+      "topic_2iim": "Speed Time Distance",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/quant-question-4.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2017-s2-qa-05",
+      "exam": "CAT",
+      "year": 2017,
+      "slot": 2,
+      "section": "qa",
+      "number": 5,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "Out of the shirts produced in a factory, 15% are defective, while 20% of the rest are sold in the domestic market. If the remaining 8840 shirts are left for export, then the number of shirts produced in the factory is",
+      "options": [
+        "A) 13600",
+        "B) 13000",
+        "C) 13400",
+        "D) 14000"
+      ],
+      "answer": "B",
+      "answer_text": "13000",
+      "topic_2iim": "Percentages",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/quant-question-5.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2017-s2-qa-06",
+      "exam": "CAT",
+      "year": 2017,
+      "slot": 2,
+      "section": "qa",
+      "number": 6,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "The average height of 22 toddlers increases by 2 inches when two of them leave this group. If the average height of these two toddlers is one-third the average height of the original 22, then the average height, in inches, of the remaining 20 toddlers is",
+      "options": [
+        "A) 30",
+        "B) 28",
+        "C) 32",
+        "D) 26"
+      ],
+      "answer": "C",
+      "answer_text": "32",
+      "topic_2iim": "Averages",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/quant-question-6.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2017-s2-qa-07",
+      "exam": "CAT",
+      "year": 2017,
+      "slot": 2,
+      "section": "qa",
+      "number": 7,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "The manufacturer of a table sells it to a wholesale dealer at a profit of 10%. The wholesale dealer sells the table to a retailer at a profit of 30%. Finally, the retailer sells it to a customer at a profit of 50%. If the customer pays Rs 4290 for the table, then its manufacturing cost (in Rs) is",
+      "options": [
+        "A) 1500",
+        "B) 2000",
+        "C) 2500",
+        "D) 3000"
+      ],
+      "answer": "B",
+      "answer_text": "2000",
+      "topic_2iim": "Profit & Loss",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/quant-question-7.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2017-s2-qa-08",
+      "exam": "CAT",
+      "year": 2017,
+      "slot": 2,
+      "section": "qa",
+      "number": 8,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "A tank has an inlet pipe and an outlet pipe. If the outlet pipe is closed then the inlet pipe fills the empty tank in 8 hours. If the outlet pipe is open then the inlet pipe fills the empty tank in 10 hours. If only the outlet pipe is open then in how many hours the full tank becomes half-full?",
+      "options": [
+        "A) 20",
+        "B) 30",
+        "C) 40",
+        "D) 45"
+      ],
+      "answer": "A",
+      "answer_text": "20",
+      "topic_2iim": "Pipes & Cisterns",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/quant-question-8.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2017-s2-qa-09",
+      "exam": "CAT",
+      "year": 2017,
+      "slot": 2,
+      "section": "qa",
+      "number": 9,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "Mayank buys some candies for Rs 15 a dozen and an equal number of different candies for Rs 12 a dozen. He sells all for Rs 16.50 a dozen and makes a profit of Rs 150. How many dozens of candies did he buy altogether?",
+      "options": [
+        "A) 50",
+        "B) 30",
+        "C) 25",
+        "D) 45"
+      ],
+      "answer": "A",
+      "answer_text": "50",
+      "topic_2iim": "Profit & Loss",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/quant-question-9.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2017-s2-qa-10",
+      "exam": "CAT",
+      "year": 2017,
+      "slot": 2,
+      "section": "qa",
+      "number": 10,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "In a village, the production of food grains increased by 40% and the per capita production of food grains increased by 27% during a certain period. The percentage by which the population of the village increased during the same period is nearest to",
+      "options": [
+        "A) 16",
+        "B) 13",
+        "C) 10",
+        "D) 7"
+      ],
+      "answer": "C",
+      "answer_text": "10",
+      "topic_2iim": "Percentages",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/quant-question-10.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2017-s2-qa-11",
+      "exam": "CAT",
+      "year": 2017,
+      "slot": 2,
+      "section": "qa",
+      "number": 11,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "If a, b, c are three positive integers such that a and b are in the ratio 3 : 4 while b and c are in the ratio 2 : 1, then which one of the following is a possible value of (a + b + c)?",
+      "options": [
+        "A) 201",
+        "B) 205",
+        "C) 207",
+        "D) 210"
+      ],
+      "answer": "C",
+      "answer_text": "207",
+      "topic_2iim": "Ratios",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/quant-question-11.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2017-s2-qa-12",
+      "exam": "CAT",
+      "year": 2017,
+      "slot": 2,
+      "section": "qa",
+      "number": 12,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "A motorbike leaves point A at 1 pm and moves towards point B at a uniform speed. A car leaves point B at 2 pm and moves towards point A at a uniform speed which is double that of the motorbike. They meet at 3:40 pm at a point which is 168 km away from A. What is the distance, in km, between A and B?",
+      "options": [
+        "A) 364",
+        "B) 378",
+        "C) 380",
+        "D) 388"
+      ],
+      "answer": "B",
+      "answer_text": "378",
+      "topic_2iim": "Speed Time Distance",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/quant-question-12.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2017-s2-qa-13",
+      "exam": "CAT",
+      "year": 2017,
+      "slot": 2,
+      "section": "qa",
+      "number": 13,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "Amal can complete a job in 10 days and Bimal can complete it in 8 days. Amal, Bimal and Kamal together complete the job in 4 days and are paid a total amount of Rs 1000 as remuneration. If this amount is shared by them in proportion to their work, then Kamal's share, in rupees, is",
+      "options": [
+        "A) 100",
+        "B) 200",
+        "C) 300",
+        "D) 400"
+      ],
+      "answer": "A",
+      "answer_text": "100",
+      "topic_2iim": "Work and Time",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/quant-question-13.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2017-s2-qa-14",
+      "exam": "CAT",
+      "year": 2017,
+      "slot": 2,
+      "section": "qa",
+      "number": 14,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "Consider three mixtures - the first having water and liquid A in the ratio 1 : 2, the second having water and liquid B in the ratio 1 : 3, and the third having water and liquid C in the ratio 1 : 4. These three mixtures of A, B, and C, respectively, are further mixed in the proportion 4 : 3 : 2. Then the resulting mixture has",
+      "options": [
+        "A) The same amount of water and liquid B",
+        "B) The same amount of liquids B and C",
+        "C) More water than liquid B",
+        "D) More water than liquid A"
+      ],
+      "answer": "C",
+      "answer_text": "More water than liquid B",
+      "topic_2iim": "Mixtures",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/quant-question-14.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2017-s2-qa-15",
+      "exam": "CAT",
+      "year": 2017,
+      "slot": 2,
+      "section": "qa",
+      "number": 15,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "Let ABCDEF be a regular hexagon with each side of length 1 cm. The area (in sq cm) of a square with AC as one side is",
+      "options": [
+        "A) 3√2",
+        "B) 3",
+        "C) 4",
+        "D) √3"
+      ],
+      "answer": "B",
+      "answer_text": "3",
+      "topic_2iim": "Geometry",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/quant-question-15.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2017-s2-qa-16",
+      "exam": "CAT",
+      "year": 2017,
+      "slot": 2,
+      "section": "qa",
+      "number": 16,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "The base of a vertical pillar with uniform cross section is a trapezium whose parallel sides are of lengths 10 cm and 20 cm while the other two sides are of equal length. The perpendicular distance between the parallel sides of the trapezium is 12 cm. If the height of the pillar is 20 cm, then the total area, in sq cm, of all six surfaces of the pillar is",
+      "options": [
+        "A) 1300",
+        "B) 1340",
+        "C) 1480",
+        "D) 1520"
+      ],
+      "answer": "C",
+      "answer_text": "1480",
+      "topic_2iim": "Geometry",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/quant-question-16.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2017-s2-qa-17",
+      "exam": "CAT",
+      "year": 2017,
+      "slot": 2,
+      "section": "qa",
+      "number": 17,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "The points (2, 5) and (6, 3) are two end points of a diagonal of a rectangle. If the other diagonal has the equation y = 3x + c, then c is",
+      "options": [
+        "A) - 5",
+        "B) - 6",
+        "C) - 7",
+        "D) - 8"
+      ],
+      "answer": "D",
+      "answer_text": "- 8",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/quant-question-17.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2017-s2-qa-18",
+      "exam": "CAT",
+      "year": 2017,
+      "slot": 2,
+      "section": "qa",
+      "number": 18,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "ABCD is a quadrilateral inscribed in a circle with centre O. If ∠COD = 120 degrees and ∠BAC = 30 degrees, then the value of ∠BCD (in degrees) is [TITA]",
+      "options": null,
+      "answer": "90",
+      "answer_text": null,
+      "topic_2iim": "Geometry",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/quant-question-18.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2017-s2-qa-19",
+      "exam": "CAT",
+      "year": 2017,
+      "slot": 2,
+      "section": "qa",
+      "number": 19,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "If three sides of a rectangular park have a total length 400 ft., then the area of the park is maximum when the length (in ft.) of its longer side is [TITA]",
+      "options": null,
+      "answer": "200",
+      "answer_text": null,
+      "topic_2iim": "Geometry",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/quant-question-19.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2017-s2-qa-20",
+      "exam": "CAT",
+      "year": 2017,
+      "slot": 2,
+      "section": "qa",
+      "number": 20,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "Let P be an interior point of a right-angled isosceles triangle ABC with hypotenuse AB. If the perpendicular distance of P from each of AB, BC, and CA is 4(√2 - 1) cm, then the area, in sq. cm, of the triangle ABC is [TITA]",
+      "options": null,
+      "answer": "16",
+      "answer_text": null,
+      "topic_2iim": "Geometry",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/quant-question-20.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2017-s2-qa-21",
+      "exam": "CAT",
+      "year": 2017,
+      "slot": 2,
+      "section": "qa",
+      "number": 21,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "If the product of three consecutive positive integers is 15600 then the sum of the squares of these integers is",
+      "options": [
+        "A) 1777",
+        "B) 1785",
+        "C) 1875",
+        "D) 1877"
+      ],
+      "answer": "D",
+      "answer_text": "1877",
+      "topic_2iim": "Number Theory",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/quant-question-21.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2017-s2-qa-22",
+      "exam": "CAT",
+      "year": 2017,
+      "slot": 2,
+      "section": "qa",
+      "number": 22,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "If x is a real number such that log<sub>3</sub>5 = log<sub>5</sub>(2 + x), then which of the following is true?",
+      "options": [
+        "A) 0 < x < 3",
+        "B) 23 < x < 30",
+        "C) x > 30",
+        "D) 3 < x < 23"
+      ],
+      "answer": "D",
+      "answer_text": "3 < x < 23",
+      "topic_2iim": "Exponents & Logarithms",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/quant-question-22.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2017-s2-qa-23",
+      "exam": "CAT",
+      "year": 2017,
+      "slot": 2,
+      "section": "qa",
+      "number": 23,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "Let f(x) = x<sup>2</sup> and g(x) = 2<sup>x</sup>, for all real x. Then the value of f(f(g(x)) + g(f(x))) at x = 1 is",
+      "options": [
+        "A) 16",
+        "B) 18",
+        "C) 36",
+        "D) 40"
+      ],
+      "answer": "C",
+      "answer_text": "36",
+      "topic_2iim": "Functions",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/quant-question-23.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2017-s2-qa-24",
+      "exam": "CAT",
+      "year": 2017,
+      "slot": 2,
+      "section": "qa",
+      "number": 24,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "The minimum possible value of the sum of the squares of the roots of the equation x<sup>2</sup> + (a + 3)x - (a + 5) = 0 is",
+      "options": [
+        "A) 1",
+        "B) 2",
+        "C) 3",
+        "D) 4"
+      ],
+      "answer": "C",
+      "answer_text": "3",
+      "topic_2iim": "Quadratic Equations",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/quant-question-24.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2017-s2-qa-25",
+      "exam": "CAT",
+      "year": 2017,
+      "slot": 2,
+      "section": "qa",
+      "number": 25,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "If 9<sup>x - (\\\\frac{1}{2}))</sup> – 2<sup>2x – 2</sup> = 4<sup>x</sup> – 3<sup>2x – 3</sup>, then x is",
+      "options": [
+        "A) \\\\frac{3}{2}\\\\)",
+        "B) \\\\frac{2}{5}\\\\)",
+        "C) \\\\frac{3}{4}\\\\)",
+        "D) \\\\frac{4}{9}\\\\)"
+      ],
+      "answer": "A",
+      "answer_text": "\\\\frac{3}{2}\\\\)",
+      "topic_2iim": "Exponents & Logarithms",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/quant-question-25.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2017-s2-qa-26",
+      "exam": "CAT",
+      "year": 2017,
+      "slot": 2,
+      "section": "qa",
+      "number": 26,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "If log(2<sup>a</sup> × 3<sup>b</sup> × 5<sup>c</sup>) is the arithmetic mean of log(2<sup>2</sup> × 3<sup>3</sup> × 5), log(2<sup>6</sup> × 3 × 5<sup>7</sup>), and log(2 × 3<sup>2</sup> × 5<sup>4</sup>), then a equals [TITA]",
+      "options": null,
+      "answer": "3",
+      "answer_text": null,
+      "topic_2iim": "Exponents & Logarithms",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/quant-question-26.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2017-s2-qa-27",
+      "exam": "CAT",
+      "year": 2017,
+      "slot": 2,
+      "section": "qa",
+      "number": 27,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "Let a<sub>1</sub>, a<sub>2</sub>, a<sub>3</sub>, a<sub>4</sub>, a<sub>5</sub> be a sequence of five consecutive odd numbers. Consider a new sequence of five consecutive even numbers ending with 2a<sub>3</sub>. If the sum of the numbers in the new sequence is 450, then a<sub>5</sub> is [TITA]",
+      "options": null,
+      "answer": "51",
+      "answer_text": null,
+      "topic_2iim": "Progressions",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/quant-question-27.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2017-s2-qa-28",
+      "exam": "CAT",
+      "year": 2017,
+      "slot": 2,
+      "section": "qa",
+      "number": 28,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "How many different pairs (a, b) of positive integers are there such that a ≤ b and \\\\frac{1}{a}) + \\\\frac{1}{b}) = \\\\frac{1}{9}) ? [TITA]",
+      "options": null,
+      "answer": "3",
+      "answer_text": null,
+      "topic_2iim": "Number Theory",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/quant-question-28.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2017-s2-qa-29",
+      "exam": "CAT",
+      "year": 2017,
+      "slot": 2,
+      "section": "qa",
+      "number": 29,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "In how many ways can 8 identical pens be distributed among Amal, Bimal, and Kamal so that Amal gets at least 1 pen, Bimal gets at least 2 pens, and Kamal gets at least 3 pens? [TITA]",
+      "options": null,
+      "answer": "6",
+      "answer_text": null,
+      "topic_2iim": "Permutation & Combination",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/quant-question-29.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2017-s2-qa-30",
+      "exam": "CAT",
+      "year": 2017,
+      "slot": 2,
+      "section": "qa",
+      "number": 30,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "How many four digit numbers, which are divisible by 6, can be formed using the digits 0, 2, 3, 4, 6, such that no digit is used more than once and 0 does not occur in the left-most position? [TITA]",
+      "options": null,
+      "answer": "50",
+      "answer_text": null,
+      "topic_2iim": "Permutation & Combination",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/quant-question-30.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2017-s2-qa-31",
+      "exam": "CAT",
+      "year": 2017,
+      "slot": 2,
+      "section": "qa",
+      "number": 31,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "If f(ab) = f(a)f(b) for all positive integers a and b, then the largest possible value of f(1) is [TITA]",
+      "options": null,
+      "answer": "1",
+      "answer_text": null,
+      "topic_2iim": "Functions",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/quant-question-31.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2017-s2-qa-32",
+      "exam": "CAT",
+      "year": 2017,
+      "slot": 2,
+      "section": "qa",
+      "number": 32,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "Let f(x) = 2x – 5 and g(x) = 7 – 2x. Then |f(x) + g(x)| = |f(x)| + |g(x)| if and only if",
+      "options": [
+        "A) \\\\frac{5}{2}) < x < \\\\frac{7}{2})",
+        "B) x ≤ \\\\frac{5}{2}) or x ≥ \\\\frac{7}{2})",
+        "C) x < \\\\frac{5}{2}) or x ≥ \\\\frac{7}{2})",
+        "D) \\\\frac{5}{2}) ≤ x ≤ \\\\frac{7}{2})"
+      ],
+      "answer": "D",
+      "answer_text": "\\\\frac{5}{2}) ≤ x ≤ \\\\frac{7}{2})",
+      "topic_2iim": "Functions",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/quant-question-32.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2017-s2-qa-33",
+      "exam": "CAT",
+      "year": 2017,
+      "slot": 2,
+      "section": "qa",
+      "number": 33,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "An infinite geometric progression a<sub>1</sub>, a<sub>2</sub>, a<sub>3</sub>,... has the property that a<sub>n</sub> = 3(a<sub>n+1</sub> + a<sub>n+2</sub> +....) for every n ≥ 1. If the sum a<sub>1</sub> + a<sub>2</sub> + a<sub>3</sub> +...... = 32, then a<sub>5</sub> is",
+      "options": [
+        "A) \\\\frac{1}{32})",
+        "B) \\\\frac{2}{32})",
+        "C) \\\\frac{3}{32})",
+        "D) \\\\frac{4}{32})"
+      ],
+      "answer": "C",
+      "answer_text": "\\\\frac{3}{32})",
+      "topic_2iim": "Progressions",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/quant-question-33.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false
+    },
+    {
+      "id": "cat-2017-s2-qa-34",
+      "exam": "CAT",
+      "year": 2017,
+      "slot": 2,
+      "section": "qa",
+      "number": 34,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "If a<sub>1</sub> = \\\\frac{1}{2 × 5}) , a<sub>2</sub> = \\\\frac{1}{5 × 8}) , a<sub>3</sub> = \\\\frac{1}{8 × 11}),...., then a<sub>1</sub> + a<sub>2</sub> + a<sub>3</sub> + ...... + a<sub>100</sub> is",
+      "options": [
+        "A) \\\\frac{25}{151})",
+        "B) \\\\frac{1}{2})",
+        "C) \\\\frac{1}{4})",
+        "D) \\\\frac{111}{55})"
+      ],
+      "answer": "A",
+      "answer_text": "\\\\frac{25}{151})",
+      "topic_2iim": "Progressions",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/quant-question-34.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false
+    }
+  ]
+}
