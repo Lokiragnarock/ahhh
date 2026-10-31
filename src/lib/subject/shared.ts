@@ -1,5 +1,7 @@
 // Pieces of the subject layer shared by server and client code.
 
+import { TRACKS } from "../tracks";
+
 // The current subject lives in this cookie once a tab has been clicked. Same
 // pattern as the sync_key cookie: plain, not httpOnly, since it carries no
 // secret — just which subfolder of content/recall and content/tests to read.
@@ -21,14 +23,19 @@ export function isValidSubjectSlug(slug: string | null | undefined): slug is str
 // else is plain title-casing of the hyphen-separated words. Deliberately not
 // smarter than this — new subjects can add themselves here if the default
 // title-casing looks wrong.
+// Exam-track subjects (gmat-quant, gre-quant, ...) take their labels from
+// the track config, and every track prefix reads as an acronym.
 const LABEL_OVERRIDES: Record<string, string> = {
   taxation: "Taxation Law",
-  "gmat-di": "GMAT Data Insights",
-  "gmat-quant": "GMAT Quant",
-  "gmat-verbal": "GMAT Verbal",
-  "gmat-strategy": "GMAT Strategy",
+  ...Object.fromEntries(Object.values(TRACKS).flatMap((t) => t.sections.map((s) => [s.slug, s.label]))),
 };
-const ACRONYM_WORDS = new Set(["sapm", "sfm", "moc", "gmat", "crm"]);
+const ACRONYM_WORDS = new Set([
+  "sapm",
+  "sfm",
+  "moc",
+  "crm",
+  ...Object.values(TRACKS).flatMap((t) => (t.prefix ? [t.prefix.replace(/-$/, "")] : [])),
+]);
 
 export function subjectLabel(slug: string): string {
   const override = LABEL_OVERRIDES[slug];

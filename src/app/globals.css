@@ -647,3 +647,57 @@ body[data-track="gmat"],
 .sp-seg button + button { border-left: 1px solid var(--sp-line); }
 .sp-seg button[aria-pressed="true"] { background: var(--sp-accent); color: var(--sp-accent-ink); }
 [data-track="gmat"] .sp-seg { border-radius: 6px; overflow: hidden; }
+
+/* ---------------------------------------------------------------------- */
+/* Imported GRE questions (content/tests/gre-quant). Figures use the      */
+/* source's colour variables, so they are defined here, scoped to .gre-q. */
+/* ---------------------------------------------------------------------- */
+
+.gre-q,
+.gre-sol {
+  --bg: #ffffff;
+  --fig-ink: #18222d;
+  --fig-mute: #5a6674;
+  --fig-grid: #dde3e9;
+  --fig-soft: #dceaf1;
+  --fig-acc: #2f7396;
+  --fig-acc2: #d49a3a;
+  --fig-acc-line: #1d5c78;
+  --fig-c3: #8cb7cc;
+  --fig-c4: #6e8a5e;
+  --fig-c5: #a9b2bc;
+}
+.gre-q .gre-stim { border: 1px solid var(--sp-line); padding: 12px 14px; margin-bottom: 14px; }
+.gre-q .gre-fig { margin: 12px 0; overflow-x: auto; color: var(--fig-ink); }
+.gre-q .gre-fig svg { display: block; margin: 0 auto; height: auto; }
+.gre-q .nts { font-size: 12px; color: var(--sp-muted); text-align: center; margin: 4px 0 0; font-style: italic; }
+.gre-q .hint { font-size: 13.5px; color: var(--sp-muted); }
+.gre-q .given { margin-bottom: 12px; }
+.gre-q .gre-qc { display: grid; grid-template-columns: 1fr 1fr; border: 1px solid var(--sp-line); margin: 4px 0 6px; }
+.gre-q .gre-qc > div { padding: 10px 12px; text-align: center; }
+.gre-q .gre-qc > div:nth-child(odd) { border-right: 1px solid var(--sp-line); }
+.gre-q .gre-qc .h { font-weight: 700; font-size: 12px; letter-spacing: 0.04em; background: #f5f5f5; }
+.gre-q .tbl { overflow-x: auto; }
+.gre-q .tbl .cap { font-size: 12px; letter-spacing: 0.06em; font-weight: 700; text-align: center; margin: 0 0 8px; }
+.gre-q .tbl table { width: auto; margin: 0 auto; font-variant-numeric: tabular-nums; }
+.gre-q .tbl td, .gre-q .tbl th { text-align: right; }
+.gre-q .tbl td:first-child, .gre-q .tbl th:first-child { text-align: left; }
+.gre-q .tbl tr.tot td { font-weight: 700; }
+.gre-q .frac,
+.gre-sol .frac,
+.sp-option .frac {
+  display: inline-flex;
+  flex-direction: column;
+  vertical-align: middle;
+  text-align: center;
+  font-size: 0.92em;
+  line-height: 1.15;
+  margin: 0 2px;
+}
+.gre-q .frac > span:first-child,
+.gre-sol .frac > span:first-child,
+.sp-option .frac > span:first-child { border-bottom: 1px solid currentColor; padding: 0 3px; }
+.gre-q .frac > span:last-child,
+.gre-sol .frac > span:last-child,
+.sp-option .frac > span:last-child { padding: 0 3px; }
+.gre-sol p { margin-bottom: 8px; }

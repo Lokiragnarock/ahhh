@@ -8,6 +8,7 @@ import { fmtDay } from "@/lib/gmat/format";
 import { useSubject } from "@/lib/subject/context";
 import { subjectLabel } from "@/lib/subject/shared";
 import { useTrack } from "@/lib/tracks-context";
+import { TRACKS } from "@/lib/tracks";
 import { PageHead, RepsStrip } from "./bits";
 
 const NO_SESSIONS: Record<string, SessionState> = {};
@@ -24,7 +25,7 @@ export function PracticeHub({
   lastSitting: { total: number; takenOn: string } | null;
 }) {
   const subject = useSubject();
-  const gmat = useTrack() === "gmat";
+  const track = TRACKS[useTrack()];
   const [attempts] = useAttempts();
   const [errors] = useErrors();
   const [sessions] = useStored(KEYS(subject).session, NO_SESSIONS);
@@ -46,7 +47,7 @@ export function PracticeHub({
         <RepsStrip />
       </div>
 
-      {gmat ? (
+      {track.heavy ? (
         <div className="sp-panel mb-8 flex flex-wrap items-center gap-6">
           <div className="flex-1 min-w-[240px]">
             <div className="sp-label">Diagnostic</div>
@@ -62,7 +63,7 @@ export function PracticeHub({
             Diagnostic
           </Link>
         </div>
-      ) : (
+      ) : track.scoring === "ese" ? (
       <div className="sp-panel mb-8 flex flex-wrap items-center gap-6">
         <div className="flex-1 min-w-[240px]">
           <div className="sp-label">R3 · Full ESE mock</div>
@@ -87,7 +88,7 @@ export function PracticeHub({
           <span className="sp-btn opacity-40">Full mock</span>
         )}
       </div>
-      )}
+      ) : null}
 
       <div className="flex flex-col gap-6">
         {units.map((u) => {

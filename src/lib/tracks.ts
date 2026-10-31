@@ -1,8 +1,13 @@
 // Pieces of the track layer shared by server and client code. A track is a
-// group of subjects (ahh = every original subject, gmat = the gmat-* folders)
-// with its own nav and its own remembered subject.
+// group of subjects (ahh = every original subject, gmat = the gmat-* folders,
+// gre = the gre-* folders) with its own nav and its own remembered subject.
+//
+// Adding a track (e.g. cat- for the CAT MBA exam) means one more TrackSlug
+// member and one more TRACKS entry, plus its content folders. Nothing else in
+// the app names a track directly: it reads `heavy`, `scoring`, `sections` and
+// `prefix` from here.
 
-export type TrackSlug = "ahh" | "gmat";
+export type TrackSlug = "ahh" | "gmat" | "gre";
 
 // Same pattern as subject_key: plain cookie, no secret.
 export const TRACK_COOKIE = "track_key";
@@ -11,18 +16,35 @@ export const DEFAULT_TRACK: TrackSlug = "ahh";
 export interface TrackNavLink {
   href: string;
   label: string;
-  // Shown only to the GMAT owner (see TrackProvider's role).
+  // Shown only to the owner of a heavy track (see TrackProvider's role).
   ownerOnly?: boolean;
 }
+
+// One subject folder of a track, e.g. gmat-quant, with its display name.
+export interface TrackSection {
+  slug: string;
+  label: string;
+}
+
+// Which scoring the practice runner applies. "ese" is the university paper
+// (marks, self-marking); "gmat-focus" is src/lib/gmat/scoring; null means
+// plain right/wrong with no scaled score.
+export type ScoringId = "ese" | "gmat-focus" | null;
 
 export interface TrackConfig {
   label: string;
   // Subject folders belong to the track whose prefix they start with. The
-  // track with no prefix (ahh) owns everything else. A new track (cat-) is
-  // one more entry here plus the TrackSlug union.
+  // track with no prefix (ahh) owns everything else.
   prefix?: string;
   home: string;
   nav: TrackNavLink[];
+  // Known subject folders, in display order. Their labels feed subjectLabel.
+  sections: TrackSection[];
+  scoring: ScoringId;
+  // GMAT-style heavy layer: Neon question bank, player sign-up, adaptive
+  // runner, diagnostic, Versus. A light track reads content/tests and uses
+  // the plain runner.
+  heavy: boolean;
 }
 
 export const TRACKS: Record<TrackSlug, TrackConfig> = {
@@ -40,6 +62,10 @@ export const TRACKS: Record<TrackSlug, TrackConfig> = {
       { href: "/backup", label: "Backup" },
       { href: "/help", label: "Help" },
     ],
+    // AHH subjects are found on disk; their labels come from subjectLabel.
+    sections: [],
+    scoring: "ese",
+    heavy: false,
   },
   gmat: {
     label: "GMAT",
@@ -56,8 +82,35 @@ export const TRACKS: Record<TrackSlug, TrackConfig> = {
       { href: "/help", label: "Help" },
       { href: "/gmat/versus", label: "Versus", ownerOnly: true },
     ],
+    sections: [
+      { slug: "gmat-quant", label: "GMAT Quant" },
+      { slug: "gmat-verbal", label: "GMAT Verbal" },
+      { slug: "gmat-di", label: "GMAT Data Insights" },
+      { slug: "gmat-strategy", label: "GMAT Strategy" },
+    ],
+    scoring: "gmat-focus",
+    heavy: true,
+  },
+  gre: {
+    label: "GRE",
+    prefix: "gre-",
+    home: "/",
+    nav: [
+      { href: "/", label: "Territory" },
+      { href: "/practice", label: "Practice" },
+      { href: "/errors", label: "Error book" },
+      { href: "/timeline", label: "Timeline" },
+      { href: "/block", label: "Block" },
+      { href: "/backup", label: "Backup" },
+      { href: "/help", label: "Help" },
+    ],
+    sections: [{ slug: "gre-quant", label: "GRE Quant" }],
+    scoring: null,
+    heavy: false,
   },
 };
+
+export const TRACK_SLUGS = Object.keys(TRACKS) as TrackSlug[];
 
 export function isValidTrack(t: string | null | undefined): t is TrackSlug {
   return typeof t === "string" && Object.prototype.hasOwnProperty.call(TRACKS, t);
@@ -68,6 +121,12 @@ export function trackOfSubject(slug: string): TrackSlug {
     if (cfg.prefix && slug.startsWith(cfg.prefix)) return name as TrackSlug;
   }
   return DEFAULT_TRACK;
+}
+
+// Shorthand for the many places that only ask "does this subject use the
+// GMAT-style heavy layer?".
+export function isHeavySubject(slug: string): boolean {
+  return TRACKS[trackOfSubject(slug)].heavy;
 }
 
 // Per-track memory of the last subject picked, so toggling away and back

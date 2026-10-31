@@ -4,6 +4,7 @@ import { currentPlayer } from "@/lib/gmat/current";
 import { latestSitting } from "@/lib/gmat/stats";
 import { getPracticeIndex } from "@/lib/questions";
 import { currentTrack } from "@/lib/tracks-server";
+import { TRACKS } from "@/lib/tracks";
 
 export const dynamic = "force-dynamic";
 
@@ -14,10 +15,10 @@ export default async function PracticePage() {
     long: questions.filter((q) => q.type === "long").length,
     case: questions.filter((q) => q.type === "case").length,
   };
-  // GMAT swaps the AHH mock card for the full-length diagnostic, which shows
-  // the last sitting's score.
+  // A heavy track (GMAT) swaps the AHH mock card for the full-length
+  // diagnostic, which shows the last sitting's score.
   let lastSitting: { total: number; takenOn: string } | null = null;
-  if (currentTrack() === "gmat") {
+  if (TRACKS[currentTrack()].heavy) {
     const me = await currentPlayer();
     if (me.state === "ok") {
       const s = await latestSitting(me.player.id).catch(() => null);
