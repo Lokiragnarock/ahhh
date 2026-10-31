@@ -1,6 +1,6 @@
 # CAT track: plan and sources
 
-Status: **draft for Lokesh to agree**. Nothing is built yet. No notes, no tests and no app code. Once you say go (or send edits), the next stage writes the notes in `content/recall/cat-*` and the tests in `content/tests/cat-*`, and adds one `cat-` entry to `src/lib/tracks.ts` (after the GRE branch has made tracks generic).
+Status: **draft for Lokesh to agree**. Target: **CAT 2027**. No notes, tests or app code yet. The raw question bank (1,830 real questions, 2017 to 2025, scraped from 2IIM by `scripts/scrape-cat-2iim.py`) is described in `content/question-bank/cat/README.md`. Once you say go (or send edits), the next stage writes the notes in `content/recall/cat-*` and the tests in `content/tests/cat-*`, and adds one `cat-` entry to `src/lib/tracks.ts` (after the GRE branch has made tracks generic).
 
 Rules this plan follows: debate before build; real questions only, never AI-written; free and open-source tools only; British spelling, plain language.
 
@@ -159,5 +159,5 @@ Hugging Face and Kaggle: no CAT dataset found.
 
 1. Are the QA (16), DILR (10) and VARC (7) node lists right? Anything to merge or split?
 2. A strategy folder (`cat-strategy`, ST-1 to ST-3): yes or no?
-3. Which CAT are you aiming for: CAT 2026 (29 November, four weeks away) or CAT 2027? That decides whether we start with ★ nodes and timed tests or build the full map first.
+3. ~~Which CAT are you aiming for?~~ **Answered: CAT 2027** (expected late November 2027). So we build the full node map first, then timed tests.
 4. Is the source rule in 3d (two copies must agree) strict enough, or do you want official-key-only, which would mean far fewer questions?
