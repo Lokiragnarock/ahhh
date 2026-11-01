@@ -5,7 +5,7 @@
   "section": "qa",
   "source": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/",
   "licence": "Real CAT questions (c) IIMs, as re-published free by 2IIM (c) 2IIM. Private study use in AHH only; do not republish.",
-  "scraped": "2026-10-31",
+  "scraped": "2026-11-01",
   "count": 34,
   "sets": [],
   "questions": [
@@ -24,13 +24,13 @@
       "set": null,
       "question": "The real root of the equation 2<sup>6x</sup> + 2<sup>3x+2</sup> - 21 = 0 is",
       "options": [
-        "A) \\\\frac{log_{2}3}{3})",
+        "A) \\(\\frac{log_{2}3}{3}\\)",
         "B) log<sub>2</sub>9",
-        "C) \\\\frac{log_{2}7}{3})",
+        "C) \\(\\frac{log_{2}7}{3}\\)",
         "D) log<sub>2</sub>27"
       ],
       "answer": "A",
-      "answer_text": "\\\\frac{log_{2}3}{3})",
+      "answer_text": "\\(\\frac{log_{2}3}{3}\\)",
       "topic_2iim": "Logarithms",
       "node": null,
       "stats_2iim": null,
@@ -91,9 +91,9 @@
       "question": "Let a, b, x, y be real numbers such that a<sup>2</sup> + b<sup>2</sup> = 25 , x<sup>2</sup> + y<sup>2</sup> = 169 and ax + by = 65. If k = ay - bx, then",
       "options": [
         "A) k = 0",
-        "B) k > \\\\frac{5}{13})",
-        "C) k = \\\\frac{5}{13})",
-        "D) 0 < k ≤ \\\\frac{5}{13})"
+        "B) k > \\(\\frac{5}{13}\\)",
+        "C) k = \\(\\frac{5}{13}\\)",
+        "D) 0 < k ≤ \\(\\frac{5}{13}\\)"
       ],
       "answer": "A",
       "answer_text": "k = 0",
@@ -200,7 +200,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "44"
     },
     {
       "id": "cat-2019-s2-qa-07",
@@ -217,10 +218,10 @@
       "set": null,
       "question": "Two circles, each of radius 4 cm, touch externally. Each of these two circles is touched externally by a third circle. If these three circles have a common tangent, then the radius of the third circle, in cm, is",
       "options": [
-        "A) \\\\frac{π}{3})",
+        "A) \\(\\frac{π}{3}\\)",
         "B) 1",
-        "C) \\\\frac{1}{\\sqrt{2}})",
-        "D) \\\\sqrt{2})"
+        "C) \\(\\frac{1}{\\sqrt{2}}\\)",
+        "D) \\(\\sqrt{2}\\)"
       ],
       "answer": "B",
       "answer_text": "1",
@@ -248,7 +249,7 @@
         "wrong": -1
       },
       "set": null,
-      "question": "What is the largest positive integer such that \\\\frac{n^2+7n+12}{n^2-n-12}) is also positive integer?",
+      "question": "What is the largest positive integer such that \\(\\frac{n^2+7n+12}{n^2-n-12}\\) is also positive integer?",
       "options": [
         "A) 6",
         "B) 8",
@@ -327,7 +328,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "12"
     },
     {
       "id": "cat-2019-s2-qa-11",
@@ -355,7 +357,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "150"
     },
     {
       "id": "cat-2019-s2-qa-12",
@@ -405,13 +408,13 @@
       "set": null,
       "question": "Let A be a real number. Then the roots of the equation x<sup>2</sup> - 4x - log<sub>2</sub>A = 0 are real and distinct if and only if",
       "options": [
-        "A) A < \\\\frac{1}{16})",
-        "B) A > \\\\frac{1}{8})",
-        "C) A > \\\\frac{1}{16})",
-        "D) A < \\\\frac{1}{8})"
+        "A) A < \\(\\frac{1}{16}\\)",
+        "B) A > \\(\\frac{1}{8}\\)",
+        "C) A > \\(\\frac{1}{16}\\)",
+        "D) A < \\(\\frac{1}{8}\\)"
       ],
       "answer": "C",
-      "answer_text": "\\\\frac{1}{16})",
+      "answer_text": "\\(\\frac{1}{16}\\)",
       "topic_2iim": "Linear & quadratic equations",
       "node": null,
       "stats_2iim": null,
@@ -449,7 +452,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "48"
     },
     {
       "id": "cat-2019-s2-qa-15",
@@ -543,7 +547,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "80"
     },
     {
       "id": "cat-2019-s2-qa-18",
@@ -560,13 +565,13 @@
       "set": null,
       "question": "The base of a regular pyramid is a square and each of the other four sides is an equilateral triangle, length of each side being 20 cm. The vertical height of the pyramid, in cm, is",
       "options": [
-        "A) 10\\\\sqrt{2})",
-        "B) 8\\\\sqrt{3})",
+        "A) 10\\(\\sqrt{2}\\)",
+        "B) 8\\(\\sqrt{3}\\)",
         "C) 12",
-        "D) 5\\\\sqrt{5})"
+        "D) 5\\(\\sqrt{5}\\)"
       ],
       "answer": "A",
-      "answer_text": "10\\\\sqrt{2})",
+      "answer_text": "10\\(\\sqrt{2}\\)",
       "topic_2iim": "Mensuration",
       "node": null,
       "stats_2iim": null,
@@ -591,7 +596,7 @@
         "wrong": -1
       },
       "set": null,
-      "question": "If x is a real number ,then \\\\sqrt{log_{e}\\frac{4x - x^2}{3}}) is a real number if and only if",
+      "question": "If x is a real number ,then \\(\\sqrt{log_{e}\\frac{4x - x^2}{3}}\\) is a real number if and only if",
       "options": [
         "A) -3 ≤ x ≤ 3",
         "B) 1 ≤ x ≤ 2",
@@ -627,8 +632,8 @@
       "question": "Let ABC be a right-angled triangle with hypotenuse BC of length 20 cm. If AP is perpendicular on BC, then the maximum possible length of AP, in cm, is",
       "options": [
         "A) 10",
-        "B) 8\\\\sqrt{2})",
-        "C) 6\\\\sqrt{2})",
+        "B) 8\\(\\sqrt{2}\\)",
+        "C) 6\\(\\sqrt{2}\\)",
         "D) 5"
       ],
       "answer": "A",
@@ -703,7 +708,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "4"
     },
     {
       "id": "cat-2019-s2-qa-23",
@@ -830,7 +836,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "7"
     },
     {
       "id": "cat-2019-s2-qa-27",
@@ -924,7 +931,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "4851"
     },
     {
       "id": "cat-2019-s2-qa-30",
@@ -985,7 +993,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "13"
     },
     {
       "id": "cat-2019-s2-qa-32",
@@ -1013,7 +1022,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "20920"
     },
     {
       "id": "cat-2019-s2-qa-33",
@@ -1074,7 +1084,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "12"
     }
   ]
 }

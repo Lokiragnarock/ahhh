@@ -5,7 +5,7 @@
   "section": "dilr",
   "source": "https://online.2iim.com/CAT-question-paper/CAT-2022-Question-Paper-Slot-2-DILR/",
   "licence": "Real CAT questions (c) IIMs, as re-published free by 2IIM (c) 2IIM. Private study use in AHH only; do not republish.",
-  "scraped": "2026-10-31",
+  "scraped": "2026-11-01",
   "count": 20,
   "sets": [
     {
@@ -52,7 +52,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2022-Question-Paper-Slot-2-DILR/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "84"
     },
     {
       "id": "cat-2022-s2-dilr-02",
@@ -80,7 +81,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2022-Question-Paper-Slot-2-DILR/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "40"
     },
     {
       "id": "cat-2022-s2-dilr-03",
@@ -207,7 +209,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2022-Question-Paper-Slot-2-DILR/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "35"
     },
     {
       "id": "cat-2022-s2-dilr-07",
@@ -235,7 +238,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2022-Question-Paper-Slot-2-DILR/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "38"
     },
     {
       "id": "cat-2022-s2-dilr-08",
@@ -362,7 +366,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2022-Question-Paper-Slot-2-DILR/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "40"
     },
     {
       "id": "cat-2022-s2-dilr-12",
@@ -489,7 +494,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2022-Question-Paper-Slot-2-DILR/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "50"
     },
     {
       "id": "cat-2022-s2-dilr-16",

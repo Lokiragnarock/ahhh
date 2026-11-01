@@ -5,7 +5,7 @@
   "section": "qa",
   "source": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-Quant/",
   "licence": "Real CAT questions (c) IIMs, as re-published free by 2IIM (c) 2IIM. Private study use in AHH only; do not republish.",
-  "scraped": "2026-10-31",
+  "scraped": "2026-11-01",
   "count": 26,
   "sets": [],
   "questions": [
@@ -35,7 +35,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "21"
     },
     {
       "id": "cat-2020-s1-qa-02",
@@ -96,7 +97,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "12"
     },
     {
       "id": "cat-2020-s1-qa-04",
@@ -157,7 +159,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "36"
     },
     {
       "id": "cat-2020-s1-qa-06",
@@ -273,13 +276,13 @@
       "set": null,
       "question": "If x = (4096)<sup>7+4√3</sup>, then which of the following equals 64?",
       "options": [
-        "A) \\\\frac{x^{7/2}}{x^{4/√3}})",
-        "B) \\\\frac{x^{7}}{x^{4√3}})",
-        "C) \\\\frac{x^{7/2}}{x^{2√3}})",
-        "D) \\\\frac{x^{7}}{x^{2√3}})"
+        "A) \\(\\frac{x^{7/2}}{x^{4/√3}}\\)",
+        "B) \\(\\frac{x^{7}}{x^{4√3}}\\)",
+        "C) \\(\\frac{x^{7/2}}{x^{2√3}}\\)",
+        "D) \\(\\frac{x^{7}}{x^{2√3}}\\)"
       ],
       "answer": "C",
-      "answer_text": "\\\\frac{x^{7/2}}{x^{2√3}})",
+      "answer_text": "\\(\\frac{x^{7/2}}{x^{2√3}}\\)",
       "topic_2iim": "Logarithms_Exponents",
       "node": null,
       "stats_2iim": null,
@@ -337,7 +340,7 @@
         "wrong": 0
       },
       "set": null,
-      "question": "The number of distinct real roots of the equation\n(x + \\\\frac{1}{x}))<sup>2</sup> - 3(x + \\\\frac{1}{x})) + 2 = 0 equals",
+      "question": "The number of distinct real roots of the equation\n(x + \\(\\frac{1}{x}\\))<sup>2</sup> - 3(x + \\(\\frac{1}{x}\\)) + 2 = 0 equals",
       "options": null,
       "answer": "1",
       "answer_text": null,
@@ -350,7 +353,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "1"
     },
     {
       "id": "cat-2020-s1-qa-12",
@@ -378,7 +382,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "20000"
     },
     {
       "id": "cat-2020-s1-qa-13",
@@ -505,7 +510,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "3"
     },
     {
       "id": "cat-2020-s1-qa-17",
@@ -555,13 +561,13 @@
       "set": null,
       "question": "A circle is inscribed in a rhombus with diagonals 12 cm and 16 cm. The ratio of the area of the circle to the area of the rhombus is",
       "options": [
-        "A) \\\\frac{2π}{15})",
-        "B) \\\\frac{6π}{25})",
-        "C) \\\\frac{3π}{25})",
-        "D) \\\\frac{5π}{18})"
+        "A) \\(\\frac{2π}{15}\\)",
+        "B) \\(\\frac{6π}{25}\\)",
+        "C) \\(\\frac{3π}{25}\\)",
+        "D) \\(\\frac{5π}{18}\\)"
       ],
       "answer": "B",
-      "answer_text": "\\\\frac{6π}{25})",
+      "answer_text": "\\(\\frac{6π}{25}\\)",
       "topic_2iim": "Geometry",
       "node": null,
       "stats_2iim": null,
@@ -687,13 +693,13 @@
       "set": null,
       "question": "On a rectangular metal sheet of area 135 sq in, a circle is painted such that the circle touches opposite two sides. If the area of the sheet left unpainted is two-thirds of the painted area then the perimeter of the rectangle in inches is",
       "options": [
-        "A) 3√π(5 + \\\\frac{12}{π}))",
-        "B) 4√π(3 + \\\\frac{12}{π}))",
-        "C) 5√π(3 + \\\\frac{12}{π}))",
-        "D) 3√π(\\\\frac{5}{2}) + \\\\frac{6}{π}))"
+        "A) 3√π(5 + \\(\\frac{12}{π}\\))",
+        "B) 4√π(3 + \\(\\frac{12}{π}\\))",
+        "C) 5√π(3 + \\(\\frac{12}{π}\\))",
+        "D) 3√π(\\(\\frac{5}{2}\\) + \\(\\frac{6}{π}\\))"
       ],
       "answer": "A",
-      "answer_text": "3√π(5 + \\\\frac{12}{π}))",
+      "answer_text": "3√π(5 + \\(\\frac{12}{π}\\))",
       "topic_2iim": "Mensuration",
       "node": null,
       "stats_2iim": null,
@@ -797,7 +803,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "62"
     },
     {
       "id": "cat-2020-s1-qa-26",
@@ -825,7 +832,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "8"
     }
   ]
 }

@@ -5,7 +5,7 @@
   "section": "qa",
   "source": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-Quant/",
   "licence": "Real CAT questions (c) IIMs, as re-published free by 2IIM (c) 2IIM. Private study use in AHH only; do not republish.",
-  "scraped": "2026-10-31",
+  "scraped": "2026-11-01",
   "count": 22,
   "sets": [],
   "questions": [
@@ -39,7 +39,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "66"
     },
     {
       "id": "cat-2024-s1-qa-02",
@@ -182,7 +183,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "6"
     },
     {
       "id": "cat-2024-s1-qa-06",
@@ -325,7 +327,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "31"
     },
     {
       "id": "cat-2024-s1-qa-10",
@@ -394,7 +397,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "15"
     },
     {
       "id": "cat-2024-s1-qa-12",
@@ -648,7 +652,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "217"
     },
     {
       "id": "cat-2024-s1-qa-19",
@@ -680,7 +685,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "10"
     },
     {
       "id": "cat-2024-s1-qa-20",
@@ -712,7 +718,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "38"
     },
     {
       "id": "cat-2024-s1-qa-21",
@@ -781,7 +788,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "31"
     }
   ]
 }

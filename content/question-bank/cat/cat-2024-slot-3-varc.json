@@ -5,7 +5,7 @@
   "section": "varc",
   "source": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-VARC/",
   "licence": "Real CAT questions (c) IIMs, as re-published free by 2IIM (c) 2IIM. Private study use in AHH only; do not republish.",
-  "scraped": "2026-10-31",
+  "scraped": "2026-11-01",
   "count": 24,
   "sets": [
     {
@@ -685,7 +685,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-VARC/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "1"
     },
     {
       "id": "cat-2024-s3-varc-19",
@@ -717,7 +718,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-VARC/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "2"
     },
     {
       "id": "cat-2024-s3-varc-20",

@@ -5,7 +5,7 @@
   "section": "qa",
   "source": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/",
   "licence": "Real CAT questions (c) IIMs, as re-published free by 2IIM (c) 2IIM. Private study use in AHH only; do not republish.",
-  "scraped": "2026-10-31",
+  "scraped": "2026-11-01",
   "count": 34,
   "sets": [],
   "questions": [
@@ -35,7 +35,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "3"
     },
     {
       "id": "cat-2017-s2-qa-02",
@@ -63,7 +64,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "1900"
     },
     {
       "id": "cat-2017-s2-qa-03",
@@ -586,7 +588,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "90"
     },
     {
       "id": "cat-2017-s2-qa-19",
@@ -614,7 +617,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "200"
     },
     {
       "id": "cat-2017-s2-qa-20",
@@ -642,7 +646,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "16"
     },
     {
       "id": "cat-2017-s2-qa-21",
@@ -789,15 +794,15 @@
         "wrong": -1
       },
       "set": null,
-      "question": "If 9<sup>x - (\\\\frac{1}{2}))</sup> – 2<sup>2x – 2</sup> = 4<sup>x</sup> – 3<sup>2x – 3</sup>, then x is",
+      "question": "If 9<sup>x - (\\(\\frac{1}{2}\\))</sup> – 2<sup>2x – 2</sup> = 4<sup>x</sup> – 3<sup>2x – 3</sup>, then x is",
       "options": [
-        "A) \\\\frac{3}{2}\\\\)",
-        "B) \\\\frac{2}{5}\\\\)",
-        "C) \\\\frac{3}{4}\\\\)",
-        "D) \\\\frac{4}{9}\\\\)"
+        "A) \\(\\frac{3}{2}\\)",
+        "B) \\(\\frac{2}{5}\\)",
+        "C) \\(\\frac{3}{4}\\)",
+        "D) \\(\\frac{4}{9}\\)"
       ],
       "answer": "A",
-      "answer_text": "\\\\frac{3}{2}\\\\)",
+      "answer_text": "\\(\\frac{3}{2}\\)",
       "topic_2iim": "Exponents & Logarithms",
       "node": null,
       "stats_2iim": null,
@@ -835,7 +840,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "3"
     },
     {
       "id": "cat-2017-s2-qa-27",
@@ -863,7 +869,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "51"
     },
     {
       "id": "cat-2017-s2-qa-28",
@@ -878,7 +885,7 @@
         "wrong": 0
       },
       "set": null,
-      "question": "How many different pairs (a, b) of positive integers are there such that a ≤ b and \\\\frac{1}{a}) + \\\\frac{1}{b}) = \\\\frac{1}{9}) ? [TITA]",
+      "question": "How many different pairs (a, b) of positive integers are there such that a ≤ b and \\(\\frac{1}{a}\\) + \\(\\frac{1}{b}\\) = \\(\\frac{1}{9}\\) ? [TITA]",
       "options": null,
       "answer": "3",
       "answer_text": null,
@@ -891,7 +898,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "3"
     },
     {
       "id": "cat-2017-s2-qa-29",
@@ -919,7 +927,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "6"
     },
     {
       "id": "cat-2017-s2-qa-30",
@@ -947,7 +956,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "50"
     },
     {
       "id": "cat-2017-s2-qa-31",
@@ -975,7 +985,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "1"
     },
     {
       "id": "cat-2017-s2-qa-32",
@@ -992,13 +1003,13 @@
       "set": null,
       "question": "Let f(x) = 2x – 5 and g(x) = 7 – 2x. Then |f(x) + g(x)| = |f(x)| + |g(x)| if and only if",
       "options": [
-        "A) \\\\frac{5}{2}) < x < \\\\frac{7}{2})",
-        "B) x ≤ \\\\frac{5}{2}) or x ≥ \\\\frac{7}{2})",
-        "C) x < \\\\frac{5}{2}) or x ≥ \\\\frac{7}{2})",
-        "D) \\\\frac{5}{2}) ≤ x ≤ \\\\frac{7}{2})"
+        "A) \\(\\frac{5}{2}\\) < x < \\(\\frac{7}{2}\\)",
+        "B) x ≤ \\(\\frac{5}{2}\\) or x ≥ \\(\\frac{7}{2}\\)",
+        "C) x < \\(\\frac{5}{2}\\) or x ≥ \\(\\frac{7}{2}\\)",
+        "D) \\(\\frac{5}{2}\\) ≤ x ≤ \\(\\frac{7}{2}\\)"
       ],
       "answer": "D",
-      "answer_text": "\\\\frac{5}{2}) ≤ x ≤ \\\\frac{7}{2})",
+      "answer_text": "\\(\\frac{5}{2}\\) ≤ x ≤ \\(\\frac{7}{2}\\)",
       "topic_2iim": "Functions",
       "node": null,
       "stats_2iim": null,
@@ -1025,13 +1036,13 @@
       "set": null,
       "question": "An infinite geometric progression a<sub>1</sub>, a<sub>2</sub>, a<sub>3</sub>,... has the property that a<sub>n</sub> = 3(a<sub>n+1</sub> + a<sub>n+2</sub> +....) for every n ≥ 1. If the sum a<sub>1</sub> + a<sub>2</sub> + a<sub>3</sub> +...... = 32, then a<sub>5</sub> is",
       "options": [
-        "A) \\\\frac{1}{32})",
-        "B) \\\\frac{2}{32})",
-        "C) \\\\frac{3}{32})",
-        "D) \\\\frac{4}{32})"
+        "A) \\(\\frac{1}{32}\\)",
+        "B) \\(\\frac{2}{32}\\)",
+        "C) \\(\\frac{3}{32}\\)",
+        "D) \\(\\frac{4}{32}\\)"
       ],
       "answer": "C",
-      "answer_text": "\\\\frac{3}{32})",
+      "answer_text": "\\(\\frac{3}{32}\\)",
       "topic_2iim": "Progressions",
       "node": null,
       "stats_2iim": null,
@@ -1056,15 +1067,15 @@
         "wrong": -1
       },
       "set": null,
-      "question": "If a<sub>1</sub> = \\\\frac{1}{2 × 5}) , a<sub>2</sub> = \\\\frac{1}{5 × 8}) , a<sub>3</sub> = \\\\frac{1}{8 × 11}),...., then a<sub>1</sub> + a<sub>2</sub> + a<sub>3</sub> + ...... + a<sub>100</sub> is",
+      "question": "If a<sub>1</sub> = \\(\\frac{1}{2 × 5}\\) , a<sub>2</sub> = \\(\\frac{1}{5 × 8}\\) , a<sub>3</sub> = \\(\\frac{1}{8 × 11}\\),...., then a<sub>1</sub> + a<sub>2</sub> + a<sub>3</sub> + ...... + a<sub>100</sub> is",
       "options": [
-        "A) \\\\frac{25}{151})",
-        "B) \\\\frac{1}{2})",
-        "C) \\\\frac{1}{4})",
-        "D) \\\\frac{111}{55})"
+        "A) \\(\\frac{25}{151}\\)",
+        "B) \\(\\frac{1}{2}\\)",
+        "C) \\(\\frac{1}{4}\\)",
+        "D) \\(\\frac{111}{55}\\)"
       ],
       "answer": "A",
-      "answer_text": "\\\\frac{25}{151})",
+      "answer_text": "\\(\\frac{25}{151}\\)",
       "topic_2iim": "Progressions",
       "node": null,
       "stats_2iim": null,

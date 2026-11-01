@@ -5,7 +5,7 @@
   "section": "qa",
   "source": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-Quant/",
   "licence": "Real CAT questions (c) IIMs, as re-published free by 2IIM (c) 2IIM. Private study use in AHH only; do not republish.",
-  "scraped": "2026-10-31",
+  "scraped": "2026-11-01",
   "count": 22,
   "sets": [],
   "questions": [
@@ -76,7 +76,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "3000"
     },
     {
       "id": "cat-2021-s3-qa-03",
@@ -108,7 +109,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "8"
     },
     {
       "id": "cat-2021-s3-qa-04",
@@ -140,7 +142,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "50"
     },
     {
       "id": "cat-2021-s3-qa-05",
@@ -246,7 +249,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "92"
     },
     {
       "id": "cat-2021-s3-qa-08",
@@ -426,7 +430,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "3500"
     },
     {
       "id": "cat-2021-s3-qa-13",
@@ -606,7 +611,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "34"
     },
     {
       "id": "cat-2021-s3-qa-18",
@@ -638,7 +644,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "12"
     },
     {
       "id": "cat-2021-s3-qa-19",
@@ -707,7 +714,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-3-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "6"
     },
     {
       "id": "cat-2021-s3-qa-21",

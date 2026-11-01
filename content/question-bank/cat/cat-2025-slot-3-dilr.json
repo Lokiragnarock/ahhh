@@ -5,7 +5,7 @@
   "section": "dilr",
   "source": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-DILR/",
   "licence": "Real CAT questions (c) IIMs, as re-published free by 2IIM (c) 2IIM. Private study use in AHH only; do not republish.",
-  "scraped": "2026-10-31",
+  "scraped": "2026-11-01",
   "count": 22,
   "sets": [
     {
@@ -60,7 +60,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-DILR/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "50"
     },
     {
       "id": "cat-2025-s3-dilr-02",
@@ -92,7 +93,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-DILR/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "525"
     },
     {
       "id": "cat-2025-s3-dilr-03",
@@ -124,7 +126,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-DILR/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "350"
     },
     {
       "id": "cat-2025-s3-dilr-04",
@@ -193,7 +196,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-DILR/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "41000"
     },
     {
       "id": "cat-2025-s3-dilr-06",
@@ -225,7 +229,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-DILR/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "13000"
     },
     {
       "id": "cat-2025-s3-dilr-07",
@@ -257,7 +262,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-DILR/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "1500"
     },
     {
       "id": "cat-2025-s3-dilr-08",
@@ -400,7 +406,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-DILR/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "2"
     },
     {
       "id": "cat-2025-s3-dilr-12",
@@ -432,7 +439,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-DILR/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "6"
     },
     {
       "id": "cat-2025-s3-dilr-13",
@@ -649,7 +657,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-DILR/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "48"
     },
     {
       "id": "cat-2025-s3-dilr-19",
@@ -681,7 +690,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-DILR/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "200"
     },
     {
       "id": "cat-2025-s3-dilr-20",
@@ -713,7 +723,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-DILR/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "1008"
     },
     {
       "id": "cat-2025-s3-dilr-21",

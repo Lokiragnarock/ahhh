@@ -5,7 +5,7 @@
   "section": "qa",
   "source": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-Quant/",
   "licence": "Real CAT questions (c) IIMs, as re-published free by 2IIM (c) 2IIM. Private study use in AHH only; do not republish.",
-  "scraped": "2026-10-31",
+  "scraped": "2026-11-01",
   "count": 22,
   "sets": [],
   "questions": [
@@ -22,7 +22,7 @@
         "wrong": -1
       },
       "set": null,
-      "question": "f(x) = \\\\frac{x^{2}+2 x-15}{x^{2}-7 x-18}) is negative if and only if",
+      "question": "f(x) = \\(\\frac{x^{2}+2 x-15}{x^{2}-7 x-18}\\) is negative if and only if",
       "options": [
         "A) -5 < x < -2 or 3 < x < 9",
         "B) -2 < x < 3 or x > 9",
@@ -133,7 +133,7 @@
         "wrong": 0
       },
       "set": null,
-      "question": "If 5 - \\\\log _{10} \\sqrt{1+x}) + 4 \\\\log _{10} \\sqrt{1-x}) = \\\\log _{10} \\frac{1}{\\sqrt{1-x^{2}}}) , then 100 x equals",
+      "question": "If 5 - \\(\\log _{10} \\sqrt{1+x}\\) + 4 \\(\\log _{10} \\sqrt{1-x}\\) = \\(\\log _{10} \\frac{1}{\\sqrt{1-x^{2}}}\\) , then 100 x equals",
       "options": null,
       "answer": "99",
       "answer_text": null,
@@ -150,7 +150,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "99"
     },
     {
       "id": "cat-2021-s1-qa-05",
@@ -330,7 +331,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "1000"
     },
     {
       "id": "cat-2021-s1-qa-10",
@@ -399,7 +401,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "200"
     },
     {
       "id": "cat-2021-s1-qa-12",
@@ -431,7 +434,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "32"
     },
     {
       "id": "cat-2021-s1-qa-13",
@@ -463,7 +467,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "47"
     },
     {
       "id": "cat-2021-s1-qa-14",
@@ -495,7 +500,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "120"
     },
     {
       "id": "cat-2021-s1-qa-15",
@@ -564,7 +570,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "35"
     },
     {
       "id": "cat-2021-s1-qa-17",
@@ -707,7 +714,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "70"
     },
     {
       "id": "cat-2021-s1-qa-21",
@@ -759,7 +767,7 @@
         "wrong": -1
       },
       "set": null,
-      "question": "If x<sub>0</sub> = 1, x<sub>1</sub> = 2, and x<sub>n + 2</sub> = \\\\frac{1+x_{n+1}}{x_{n}}), n = 0, 1, 2, 3,..., then x<sub>2021</sub> is equal to?",
+      "question": "If x<sub>0</sub> = 1, x<sub>1</sub> = 2, and x<sub>n + 2</sub> = \\(\\frac{1+x_{n+1}}{x_{n}}\\), n = 0, 1, 2, 3,..., then x<sub>2021</sub> is equal to?",
       "options": [
         "A) 4",
         "B) 3",

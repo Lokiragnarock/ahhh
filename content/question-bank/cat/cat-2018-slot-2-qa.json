@@ -5,7 +5,7 @@
   "section": "qa",
   "source": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-Quant/",
   "licence": "Real CAT questions (c) IIMs, as re-published free by 2IIM (c) 2IIM. Private study use in AHH only; do not republish.",
-  "scraped": "2026-10-31",
+  "scraped": "2026-11-01",
   "count": 34,
   "sets": [],
   "questions": [
@@ -134,7 +134,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "24"
     },
     {
       "id": "cat-2018-s2-qa-05",
@@ -162,7 +163,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "24"
     },
     {
       "id": "cat-2018-s2-qa-06",
@@ -223,7 +225,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "10"
     },
     {
       "id": "cat-2018-s2-qa-08",
@@ -273,13 +276,13 @@
       "set": null,
       "question": "If p<sup>3</sup> = q<sup>4</sup> = r<sup>5</sup> = s<sup>6</sup>, then the value of log<sub>s</sub> (pqr) is equal to",
       "options": [
-        "A) \\\\frac{24}{5}\\\\)",
+        "A) \\(\\frac{24}{5}\\)",
         "B) 1",
-        "C) \\\\frac{47}{10}\\\\)",
-        "D) \\\\frac{16}{5}\\\\)"
+        "C) \\(\\frac{47}{10}\\)",
+        "D) \\(\\frac{16}{5}\\)"
       ],
       "answer": "C",
-      "answer_text": "\\\\frac{47}{10}\\\\)",
+      "answer_text": "\\(\\frac{47}{10}\\)",
       "topic_2iim": "Logarithm",
       "node": null,
       "stats_2iim": null,
@@ -317,7 +320,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "1098"
     },
     {
       "id": "cat-2018-s2-qa-11",
@@ -444,7 +448,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "8"
     },
     {
       "id": "cat-2018-s2-qa-15",
@@ -538,7 +543,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "50"
     },
     {
       "id": "cat-2018-s2-qa-18",
@@ -632,7 +638,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "5"
     },
     {
       "id": "cat-2018-s2-qa-21",
@@ -726,7 +733,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "36"
     },
     {
       "id": "cat-2018-s2-qa-24",
@@ -853,7 +861,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "48"
     },
     {
       "id": "cat-2018-s2-qa-28",
@@ -881,7 +890,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "4000"
     },
     {
       "id": "cat-2018-s2-qa-29",
@@ -896,7 +906,7 @@
         "wrong": 0
       },
       "set": null,
-      "question": "The arithmetic mean of x, y and z is 80, and that of x, y, z, u and v is 75, where u = \\\\frac{(x+y)}{2}\\\\) and v = \\\\frac{(y+z)}{2}\\\\). If x ≥ z, then the minimum possible value of x is (TITA)",
+      "question": "The arithmetic mean of x, y and z is 80, and that of x, y, z, u and v is 75, where u = \\(\\frac{(x+y)}{2}\\) and v = \\(\\frac{(y+z)}{2}\\). If x ≥ z, then the minimum possible value of x is (TITA)",
       "options": null,
       "answer": "105",
       "answer_text": null,
@@ -909,7 +919,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "105"
     },
     {
       "id": "cat-2018-s2-qa-30",
@@ -937,7 +948,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "20"
     },
     {
       "id": "cat-2018-s2-qa-31",
@@ -1051,15 +1063,15 @@
         "wrong": -1
       },
       "set": null,
-      "question": "\\\\frac{1}{log_{2}100}\\\\) - \\\\frac{1}{log_{4}100}\\\\) + \\\\frac{1}{log_{5}100}\\\\) - \\\\frac{1}{log_{10}100}\\\\) + \\\\frac{1}{log_{20}100}\\\\) - \\\\frac{1}{log_{25}100}\\\\) + \\\\frac{1}{log_{50}100}\\\\) = ?",
+      "question": "\\(\\frac{1}{log_{2}100}\\) - \\(\\frac{1}{log_{4}100}\\) + \\(\\frac{1}{log_{5}100}\\) - \\(\\frac{1}{log_{10}100}\\) + \\(\\frac{1}{log_{20}100}\\) - \\(\\frac{1}{log_{25}100}\\) + \\(\\frac{1}{log_{50}100}\\) = ?",
       "options": [
         "A) 0",
-        "B) \\\\frac{1}{2}\\\\)",
+        "B) \\(\\frac{1}{2}\\)",
         "C) -4",
         "D) 10"
       ],
       "answer": "B",
-      "answer_text": "\\\\frac{1}{2}\\\\)",
+      "answer_text": "\\(\\frac{1}{2}\\)",
       "topic_2iim": "Logarithm",
       "node": null,
       "stats_2iim": null,

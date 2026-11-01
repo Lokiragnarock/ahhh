@@ -5,7 +5,7 @@
   "section": "dilr",
   "source": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-3-DILR/",
   "licence": "Real CAT questions (c) IIMs, as re-published free by 2IIM (c) 2IIM. Private study use in AHH only; do not republish.",
-  "scraped": "2026-10-31",
+  "scraped": "2026-11-01",
   "count": 24,
   "sets": [
     {
@@ -287,7 +287,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-3-DILR/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "4"
     },
     {
       "id": "cat-2020-s3-dilr-09",
@@ -315,7 +316,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-3-DILR/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "4"
     },
     {
       "id": "cat-2020-s3-dilr-10",
@@ -343,7 +345,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-3-DILR/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "2"
     },
     {
       "id": "cat-2020-s3-dilr-11",
@@ -371,7 +374,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-3-DILR/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "1"
     },
     {
       "id": "cat-2020-s3-dilr-12",
@@ -630,7 +634,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-3-DILR/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "42"
     },
     {
       "id": "cat-2020-s3-dilr-20",
@@ -658,7 +663,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-3-DILR/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "20"
     },
     {
       "id": "cat-2020-s3-dilr-21",

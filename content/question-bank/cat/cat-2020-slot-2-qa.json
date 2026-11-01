@@ -5,7 +5,7 @@
   "section": "qa",
   "source": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-2-Quant/",
   "licence": "Real CAT questions (c) IIMs, as re-published free by 2IIM (c) 2IIM. Private study use in AHH only; do not republish.",
-  "scraped": "2026-10-31",
+  "scraped": "2026-11-01",
   "count": 26,
   "sets": [],
   "questions": [
@@ -57,13 +57,13 @@
       "set": null,
       "question": "From the interior point of an equilateral triangle, perpendiculars are drawn on all three sides. The sum of the lengths of the perpendiculars is 's'. Then the area of the triangle is",
       "options": [
-        "A) \\\\frac{s^{2}}{2√3})",
-        "B) \\\\frac{2s^{2}}{√3})",
-        "C) \\\\frac{s^{2}}{√3})",
-        "D) \\\\frac{√3s^{2}}{2})"
+        "A) \\(\\frac{s^{2}}{2√3}\\)",
+        "B) \\(\\frac{2s^{2}}{√3}\\)",
+        "C) \\(\\frac{s^{2}}{√3}\\)",
+        "D) \\(\\frac{√3s^{2}}{2}\\)"
       ],
       "answer": "C",
-      "answer_text": "\\\\frac{s^{2}}{√3})",
+      "answer_text": "\\(\\frac{s^{2}}{√3}\\)",
       "topic_2iim": "Geometry",
       "node": null,
       "stats_2iim": null,
@@ -134,7 +134,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "17"
     },
     {
       "id": "cat-2020-s2-qa-05",
@@ -149,7 +150,7 @@
         "wrong": -1
       },
       "set": null,
-      "question": "The value of log<sub>a</sub>\\\\frac{a}{b}) + log<sub>b</sub>\\\\frac{b}{a}), for 1 < a ≤ b cannot be equal to",
+      "question": "The value of log<sub>a</sub>\\(\\frac{a}{b}\\) + log<sub>b</sub>\\(\\frac{b}{a}\\), for 1 < a ≤ b cannot be equal to",
       "options": [
         "A) -0.5",
         "B) 1",
@@ -182,7 +183,7 @@
         "wrong": -1
       },
       "set": null,
-      "question": "Let the m-th and n-th terms of a Geometric progression be \\\\frac{3}{4}) and 12, respectively, when m < n. If the common ratio of the progression is an integer r, then the smallest possible value of r + n - m is",
+      "question": "Let the m-th and n-th terms of a Geometric progression be \\(\\frac{3}{4}\\) and 12, respectively, when m < n. If the common ratio of the progression is an integer r, then the smallest possible value of r + n - m is",
       "options": [
         "A) -4",
         "B) -2",
@@ -215,7 +216,7 @@
         "wrong": 0
       },
       "set": null,
-      "question": "If x and y are positive real numbers satisfying x + y = 102, then the minimum possible value of 2601(1 + \\\\frac{1}{x}))(1 + \\\\frac{1}{y})) is",
+      "question": "If x and y are positive real numbers satisfying x + y = 102, then the minimum possible value of 2601(1 + \\(\\frac{1}{x}\\))(1 + \\(\\frac{1}{y}\\)) is",
       "options": null,
       "answer": "2704",
       "answer_text": null,
@@ -228,7 +229,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "2704"
     },
     {
       "id": "cat-2020-s2-qa-08",
@@ -256,7 +258,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "90000"
     },
     {
       "id": "cat-2020-s2-qa-09",
@@ -304,15 +307,15 @@
         "wrong": -1
       },
       "set": null,
-      "question": "For real x, the maximum possible value of \\\\frac{x}{√(1 + x^{4})}) is",
+      "question": "For real x, the maximum possible value of \\(\\frac{x}{√(1 + x^{4})}\\) is",
       "options": [
         "A) 1",
-        "B) \\\\frac{1}{2})",
-        "C) \\\\frac{1}{√2})",
-        "D) \\\\frac{1}{√3})"
+        "B) \\(\\frac{1}{2}\\)",
+        "C) \\(\\frac{1}{√2}\\)",
+        "D) \\(\\frac{1}{√3}\\)"
       ],
       "answer": "C",
-      "answer_text": "\\\\frac{1}{√2})",
+      "answer_text": "\\(\\frac{1}{√2}\\)",
       "topic_2iim": "Polynomials",
       "node": null,
       "stats_2iim": null,
@@ -383,7 +386,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "23"
     },
     {
       "id": "cat-2020-s2-qa-13",
@@ -634,7 +638,7 @@
         "A) 2",
         "B) 2√2",
         "C) √2",
-        "D) \\\\frac{1}{2})"
+        "D) \\(\\frac{1}{2}\\)"
       ],
       "answer": "A",
       "answer_text": "2",
@@ -675,7 +679,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "10"
     },
     {
       "id": "cat-2020-s2-qa-22",
@@ -703,7 +708,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "4"
     },
     {
       "id": "cat-2020-s2-qa-23",
@@ -797,7 +803,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "800"
     },
     {
       "id": "cat-2020-s2-qa-26",
@@ -825,7 +832,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "315"
     }
   ]
 }

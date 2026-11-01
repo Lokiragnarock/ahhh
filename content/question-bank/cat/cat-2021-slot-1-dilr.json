@@ -5,7 +5,7 @@
   "section": "dilr",
   "source": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-DILR/",
   "licence": "Real CAT questions (c) IIMs, as re-published free by 2IIM (c) 2IIM. Private study use in AHH only; do not republish.",
-  "scraped": "2026-10-31",
+  "scraped": "2026-11-01",
   "count": 20,
   "sets": [
     {
@@ -130,7 +130,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "1"
     },
     {
       "id": "cat-2021-s1-dilr-04",
@@ -347,7 +348,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "3"
     },
     {
       "id": "cat-2021-s1-dilr-10",
@@ -379,7 +381,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "4"
     },
     {
       "id": "cat-2021-s1-dilr-11",
@@ -522,7 +525,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "6"
     },
     {
       "id": "cat-2021-s1-dilr-15",
@@ -591,7 +595,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "8"
     },
     {
       "id": "cat-2021-s1-dilr-17",

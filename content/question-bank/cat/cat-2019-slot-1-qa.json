@@ -5,7 +5,7 @@
   "section": "qa",
   "source": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-Quant/",
   "licence": "Real CAT questions (c) IIMs, as re-published free by 2IIM (c) 2IIM. Private study use in AHH only; do not republish.",
-  "scraped": "2026-10-31",
+  "scraped": "2026-11-01",
   "count": 34,
   "sets": [],
   "questions": [
@@ -35,7 +35,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "20"
     },
     {
       "id": "cat-2019-s1-qa-02",
@@ -50,15 +51,15 @@
         "wrong": -1
       },
       "set": null,
-      "question": "If (5.55)<sup>x</sup> = (0.555)<sup>y</sup> = 1000, then the value of \\\\frac{1}{x}) - \\\\frac{1}{y}) is",
+      "question": "If (5.55)<sup>x</sup> = (0.555)<sup>y</sup> = 1000, then the value of \\(\\frac{1}{x}\\) - \\(\\frac{1}{y}\\) is",
       "options": [
         "A) 1",
-        "B) \\\\frac{1}{3})",
-        "C) \\\\frac{2}{3})",
+        "B) \\(\\frac{1}{3}\\)",
+        "C) \\(\\frac{2}{3}\\)",
         "D) 3"
       ],
       "answer": "B",
-      "answer_text": "\\\\frac{1}{3})",
+      "answer_text": "\\(\\frac{1}{3}\\)",
       "topic_2iim": "Exponents",
       "node": null,
       "stats_2iim": null,
@@ -96,7 +97,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "3920"
     },
     {
       "id": "cat-2019-s1-qa-04",
@@ -256,7 +258,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "9"
     },
     {
       "id": "cat-2019-s1-qa-09",
@@ -284,7 +287,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "10"
     },
     {
       "id": "cat-2019-s1-qa-10",
@@ -345,7 +349,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "9"
     },
     {
       "id": "cat-2019-s1-qa-12",
@@ -505,7 +510,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "6144"
     },
     {
       "id": "cat-2019-s1-qa-17",
@@ -599,7 +605,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "880"
     },
     {
       "id": "cat-2019-s1-qa-20",
@@ -614,15 +621,15 @@
         "wrong": -1
       },
       "set": null,
-      "question": "If a<sub>1</sub>, a<sub>2</sub>, ......... are in A.P , \\\\frac{1}{\\sqrt{a_1} + \\sqrt{a_2}}) + \\\\frac{1}{\\sqrt{a_2} + \\sqrt{a_3}}) + ......... + \\\\frac{1}{\\sqrt{a_n} + \\sqrt{a_{n+1}}}) then , is equal to",
+      "question": "If a<sub>1</sub>, a<sub>2</sub>, ......... are in A.P , \\(\\frac{1}{\\sqrt{a_1} + \\sqrt{a_2}}\\) + \\(\\frac{1}{\\sqrt{a_2} + \\sqrt{a_3}}\\) + ......... + \\(\\frac{1}{\\sqrt{a_n} + \\sqrt{a_{n+1}}}\\) then , is equal to",
       "options": [
-        "A) \\\\frac{n}{\\sqrt{a_1} + \\sqrt{a_{n+1}}})",
-        "B) \\\\frac{n - 1}{\\sqrt{a_1} + \\sqrt{a_n}})",
-        "C) \\\\frac{n}{\\sqrt{a_1} - \\sqrt{a_{n+1}}})",
-        "D) \\\\frac{n - 1}{\\sqrt{a_1} + \\sqrt{a_{n-1}}})"
+        "A) \\(\\frac{n}{\\sqrt{a_1} + \\sqrt{a_{n+1}}}\\)",
+        "B) \\(\\frac{n - 1}{\\sqrt{a_1} + \\sqrt{a_n}}\\)",
+        "C) \\(\\frac{n}{\\sqrt{a_1} - \\sqrt{a_{n+1}}}\\)",
+        "D) \\(\\frac{n - 1}{\\sqrt{a_1} + \\sqrt{a_{n-1}}}\\)"
       ],
       "answer": "A",
-      "answer_text": "\\\\frac{n}{\\sqrt{a_1} + \\sqrt{a_{n+1}}})",
+      "answer_text": "\\(\\frac{n}{\\sqrt{a_1} + \\sqrt{a_{n+1}}}\\)",
       "topic_2iim": "Progressions",
       "node": null,
       "stats_2iim": null,
@@ -746,7 +753,7 @@
         "wrong": -1
       },
       "set": null,
-      "question": "If m and n are integers such that (\\\\sqrt{2}))<sup>19</sup> 3<sup>4</sup> 4<sup>2</sup> 9<sup>m</sup> 8<sup>n</sup> = 3<sup>n</sup> 16<sup>m</sup> (∜64) then m is",
+      "question": "If m and n are integers such that (\\(\\sqrt{2}\\))<sup>19</sup> 3<sup>4</sup> 4<sup>2</sup> 9<sup>m</sup> 8<sup>n</sup> = 3<sup>n</sup> 16<sup>m</sup> (∜64) then m is",
       "options": [
         "A) -16",
         "B) -24",
@@ -845,15 +852,15 @@
         "wrong": -1
       },
       "set": null,
-      "question": "If the rectangular faces of a brick have their diagonals in the ratio 3 : 2 \\\\sqrt{3}) : \\\\sqrt{15}), then the ratio of the length of the shortest edge of the brick to that of its longest edge is",
+      "question": "If the rectangular faces of a brick have their diagonals in the ratio 3 : 2 \\(\\sqrt{3}\\) : \\(\\sqrt{15}\\), then the ratio of the length of the shortest edge of the brick to that of its longest edge is",
       "options": [
-        "A) 1 : \\\\sqrt{3})",
-        "B) 2 : \\\\sqrt{5})",
-        "C) \\\\sqrt{2}) :\\\\sqrt{3})",
-        "D) \\\\sqrt{3}) : 2"
+        "A) 1 : \\(\\sqrt{3}\\)",
+        "B) 2 : \\(\\sqrt{5}\\)",
+        "C) \\(\\sqrt{2}\\) :\\(\\sqrt{3}\\)",
+        "D) \\(\\sqrt{3}\\) : 2"
       ],
       "answer": "A",
-      "answer_text": "1 : \\\\sqrt{3})",
+      "answer_text": "1 : \\(\\sqrt{3}\\)",
       "topic_2iim": "Mensuration",
       "node": null,
       "stats_2iim": null,
@@ -891,7 +898,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "2"
     },
     {
       "id": "cat-2019-s1-qa-29",
@@ -919,7 +927,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "5"
     },
     {
       "id": "cat-2019-s1-qa-30",
@@ -947,7 +956,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "13"
     },
     {
       "id": "cat-2019-s1-qa-31",
@@ -1041,7 +1051,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "3"
     },
     {
       "id": "cat-2019-s1-qa-34",

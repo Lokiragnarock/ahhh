@@ -5,7 +5,7 @@
   "section": "qa",
   "source": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-Quant/",
   "licence": "Real CAT questions (c) IIMs, as re-published free by 2IIM (c) 2IIM. Private study use in AHH only; do not republish.",
-  "scraped": "2026-10-31",
+  "scraped": "2026-11-01",
   "count": 22,
   "sets": [],
   "questions": [
@@ -167,7 +167,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "9"
     },
     {
       "id": "cat-2023-s3-qa-06",
@@ -195,7 +196,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "468"
     },
     {
       "id": "cat-2023-s3-qa-07",
@@ -223,7 +225,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "5"
     },
     {
       "id": "cat-2023-s3-qa-08",
@@ -449,7 +452,9 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "340",
+      "duplicate_of": "cat-2024-s2-qa-12"
     },
     {
       "id": "cat-2023-s3-qa-15",
@@ -477,7 +482,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "42"
     },
     {
       "id": "cat-2023-s3-qa-16",
@@ -505,7 +511,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "36"
     },
     {
       "id": "cat-2023-s3-qa-17",
@@ -599,7 +606,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "54"
     },
     {
       "id": "cat-2023-s3-qa-20",
@@ -693,7 +701,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "3"
     }
   ]
 }

@@ -5,7 +5,7 @@
   "section": "dilr",
   "source": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-DILR/",
   "licence": "Real CAT questions (c) IIMs, as re-published free by 2IIM (c) 2IIM. Private study use in AHH only; do not republish.",
-  "scraped": "2026-10-31",
+  "scraped": "2026-11-01",
   "count": 20,
   "sets": [
     {
@@ -52,7 +52,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-DILR/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "60"
     },
     {
       "id": "cat-2023-s3-dilr-02",
@@ -146,7 +147,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-DILR/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "40"
     },
     {
       "id": "cat-2023-s3-dilr-05",
@@ -207,7 +209,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-DILR/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "120"
     },
     {
       "id": "cat-2023-s3-dilr-07",
@@ -235,7 +238,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-DILR/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "40"
     },
     {
       "id": "cat-2023-s3-dilr-08",
@@ -362,7 +366,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-DILR/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "14"
     },
     {
       "id": "cat-2023-s3-dilr-12",
@@ -423,7 +428,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-DILR/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "33"
     },
     {
       "id": "cat-2023-s3-dilr-14",
@@ -550,7 +556,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-DILR/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "2"
     },
     {
       "id": "cat-2023-s3-dilr-18",
@@ -611,7 +618,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-3-DILR/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "2"
     },
     {
       "id": "cat-2023-s3-dilr-20",

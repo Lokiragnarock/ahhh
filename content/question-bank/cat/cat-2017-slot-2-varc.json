@@ -5,7 +5,7 @@
   "section": "varc",
   "source": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-VARC/",
   "licence": "Real CAT questions (c) IIMs, as re-published free by 2IIM (c) 2IIM. Private study use in AHH only; do not republish.",
-  "scraped": "2026-10-31",
+  "scraped": "2026-11-01",
   "count": 34,
   "sets": [
     {
@@ -860,7 +860,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-VARC/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "53421"
     },
     {
       "id": "cat-2017-s2-varc-26",
@@ -888,7 +889,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-VARC/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "25431"
     },
     {
       "id": "cat-2017-s2-varc-27",
@@ -916,7 +918,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-VARC/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "43512"
     },
     {
       "id": "cat-2017-s2-varc-28",
@@ -944,7 +947,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-VARC/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "25341"
     },
     {
       "id": "cat-2017-s2-varc-29",
@@ -1071,7 +1075,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-VARC/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "2"
     },
     {
       "id": "cat-2017-s2-varc-33",
@@ -1099,7 +1104,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-VARC/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "4"
     },
     {
       "id": "cat-2017-s2-varc-34",
@@ -1127,7 +1133,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-VARC/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "1"
     }
   ]
 }

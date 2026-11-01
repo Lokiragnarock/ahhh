@@ -5,7 +5,7 @@
   "section": "varc",
   "source": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-VARC/",
   "licence": "Real CAT questions (c) IIMs, as re-published free by 2IIM (c) 2IIM. Private study use in AHH only; do not republish.",
-  "scraped": "2026-10-31",
+  "scraped": "2026-11-01",
   "count": 24,
   "sets": [
     {
@@ -107,22 +107,16 @@
       "slot": 1,
       "section": "varc",
       "number": 3,
-      "type": "mcq",
+      "type": "tita",
       "marks": {
         "correct": 3,
-        "wrong": -1
+        "wrong": 0
       },
       "set": null,
-      "question": "Five jumbled up sentences (labelled 1, 2, 3, 4 and 5), related to a topic, are given below. Four of them can be put together to form a coherent paragraph. Identify the odd sentence and key in the number of that sentence as your answer.",
-      "options": [
-        "A) Animals have an interest in fulfilling their basic needs, but also in avoiding suffering, and thus we ought to extend moral consideration.",
-        "B) Singer viewed himself as a utilitarian, and presents a direct moral theory concerning animal rights, in contrast to indirect positions, such as welfarist views.",
-        "C) He argued for extending moral consideration to animals because, similar to humans, animals have certain significant interests.",
-        "D) The event that publicly announced animal rights as a legitimate issue within contemporary philosophy was Peter Singer's Animal Liberation text in 1975.",
-        "E) As such, we ought to view their interests alongside and equal to human interests, which results in humans having direct moral duties towards animals."
-      ],
-      "answer": "A",
-      "answer_text": "Animals have an interest in\nfulfilling their basic needs, but also in avoiding suffering, and thus\nwe ought to extend moral consideration.",
+      "question": "Five jumbled up sentences (labelled 1, 2, 3, 4 and 5), related to a topic, are given below. Four of them can be put together to form a coherent paragraph. Identify the odd sentence and key in the number of that sentence as your answer.\n\n1. Animals have an interest in fulfilling their basic needs, but also in avoiding suffering, and thus we ought to extend moral consideration.\n2. Singer viewed himself as a utilitarian, and presents a direct moral theory concerning animal rights, in contrast to indirect positions, such as welfarist views.\n3. He argued for extending moral consideration to animals because, similar to humans, animals have certain significant interests.\n4. The event that publicly announced animal rights as a legitimate issue within contemporary philosophy was Peter Singer's Animal Liberation text in 1975.\n5. As such, we ought to view their interests alongside and equal to human interests, which results in humans having direct moral duties towards animals.",
+      "options": null,
+      "answer": "1",
+      "answer_text": "Animals have an interest in fulfilling their basic needs, but also in avoiding suffering, and thus we ought to extend moral consideration.",
       "topic_2iim": "not",
       "node": null,
       "stats_2iim": {
@@ -136,7 +130,9 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-VARC/"
       },
-      "verified": false
+      "verified": false,
+      "note": "Odd sentence out: a TITA in the real paper; 2IIM lists it as five options.",
+      "answer_value": "1"
     },
     {
       "id": "cat-2024-s1-varc-04",
@@ -871,7 +867,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-VARC/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "2"
     },
     {
       "id": "cat-2024-s1-varc-24",

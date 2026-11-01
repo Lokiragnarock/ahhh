@@ -5,7 +5,7 @@
   "section": "qa",
   "source": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/",
   "licence": "Real CAT questions (c) IIMs, as re-published free by 2IIM (c) 2IIM. Private study use in AHH only; do not republish.",
-  "scraped": "2026-10-31",
+  "scraped": "2026-11-01",
   "count": 34,
   "sets": [],
   "questions": [
@@ -57,13 +57,13 @@
       "set": null,
       "question": "In a circle with centre O and radius 1 cm, an arc AB makes an angle 60 degrees at O. Let R be the region bounded by the radii OA, OB and the arc AB. If C and D are two points on OA and OB, respectively, such that OC = OD and the area of triangle OCD is half that of R, then the length of OC, in cm, is",
       "options": [
-        "A) \\\\frac{π}{4})<sup>\\\\frac{1}{2})</sup>",
-        "B) \\\\frac{π}{6})<sup>\\\\frac{1}{2})</sup>",
-        "C) \\\\frac{π}{4√3})<sup>\\\\frac{1}{2})</sup>",
-        "D) \\\\frac{π}{3√3})<sup>\\\\frac{1}{2})</sup>"
+        "A) \\(\\frac{π}{4}\\)<sup>\\(\\frac{1}{2}\\)</sup>",
+        "B) \\(\\frac{π}{6}\\)<sup>\\(\\frac{1}{2}\\)</sup>",
+        "C) \\(\\frac{π}{4√3}\\)<sup>\\(\\frac{1}{2}\\)</sup>",
+        "D) \\(\\frac{π}{3√3}\\)<sup>\\(\\frac{1}{2}\\)</sup>"
       ],
       "answer": "D",
-      "answer_text": "\\\\frac{π}{3√3})\n\\\\frac{1}{2})",
+      "answer_text": "\\(\\frac{π}{3√3}\\)\n\\(\\frac{1}{2}\\)",
       "topic_2iim": "Geometry",
       "node": null,
       "stats_2iim": null,
@@ -101,7 +101,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "54"
     },
     {
       "id": "cat-2018-s1-qa-04",
@@ -162,7 +163,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "60"
     },
     {
       "id": "cat-2018-s1-qa-06",
@@ -322,7 +324,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "40"
     },
     {
       "id": "cat-2018-s1-qa-11",
@@ -340,12 +343,12 @@
       "question": "If x is a positive quantity such that 2<sup>x</sup> = 3<sup>log<sub>5</sub>2</sup> , then x is equal to",
       "options": [
         "A) log<sub>5</sub>9",
-        "B) 1 + log<sub>5</sub>\\\\frac{3}{5})",
-        "C) 1 + log<sub>3</sub>\\\\frac{5}{3})",
+        "B) 1 + log<sub>5</sub>\\(\\frac{3}{5}\\)",
+        "C) 1 + log<sub>3</sub>\\(\\frac{5}{3}\\)",
         "D) log<sub>5</sub>8"
       ],
       "answer": "B",
-      "answer_text": "1 +\nlog\n5\n\\\\frac{3}{5})",
+      "answer_text": "1 +\nlog\n5\n\\(\\frac{3}{5}\\)",
       "topic_2iim": "Logarithm",
       "node": null,
       "stats_2iim": null,
@@ -370,7 +373,7 @@
         "wrong": -1
       },
       "set": null,
-      "question": "If log<sub>12</sub>81 = p, then 3(\\\\frac{4 - p}{4 + p})) is equal to:",
+      "question": "If log<sub>12</sub>81 = p, then 3(\\(\\frac{4 - p}{4 + p}\\)) is equal to:",
       "options": [
         "A) log<sub>2</sub>8",
         "B) log<sub>6</sub>8",
@@ -416,7 +419,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "198"
     },
     {
       "id": "cat-2018-s1-qa-14",
@@ -444,7 +448,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "502"
     },
     {
       "id": "cat-2018-s1-qa-15",
@@ -472,7 +477,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "1,21,000"
     },
     {
       "id": "cat-2018-s1-qa-16",
@@ -489,13 +495,13 @@
       "set": null,
       "question": "If u<sup>2</sup> + (u−2v−1)<sup>2</sup> = −4v(u + v), then what is the value of u + 3v?",
       "options": [
-        "A) \\\\frac{1}{4})",
-        "B) \\\\frac{1}{2})",
+        "A) \\(\\frac{1}{4}\\)",
+        "B) \\(\\frac{1}{2}\\)",
         "C) 0",
-        "D) -\\\\frac{1}{4})"
+        "D) -\\(\\frac{1}{4}\\)"
       ],
       "answer": "D",
-      "answer_text": "-\\\\frac{1}{4})",
+      "answer_text": "-\\(\\frac{1}{4}\\)",
       "topic_2iim": "Linear and Quadratic Equations",
       "node": null,
       "stats_2iim": null,
@@ -533,7 +539,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "12"
     },
     {
       "id": "cat-2018-s1-qa-18",
@@ -616,13 +623,13 @@
       "set": null,
       "question": "Let x, y, z be three positive real numbers in a geometric progression such that x < y < z. If 5x, 16y, and 12z are in an arithmetic progression then the common ratio of the geometric progression is",
       "options": [
-        "A) \\\\frac{1}{6})",
-        "B) \\\\frac{3}{6})",
-        "C) \\\\frac{3}{2})",
-        "D) \\\\frac{5}{2})"
+        "A) \\(\\frac{1}{6}\\)",
+        "B) \\(\\frac{3}{6}\\)",
+        "C) \\(\\frac{3}{2}\\)",
+        "D) \\(\\frac{5}{2}\\)"
       ],
       "answer": "D",
-      "answer_text": "\\\\frac{5}{2})",
+      "answer_text": "\\(\\frac{5}{2}\\)",
       "topic_2iim": "Sequence & Series",
       "node": null,
       "stats_2iim": null,
@@ -660,7 +667,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "5"
     },
     {
       "id": "cat-2018-s1-qa-22",
@@ -688,7 +696,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "52"
     },
     {
       "id": "cat-2018-s1-qa-23",
@@ -716,7 +725,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "15"
     },
     {
       "id": "cat-2018-s1-qa-24",
@@ -766,13 +776,13 @@
       "set": null,
       "question": "Given that x<sup>2018</sup> y<sup>2017</sup> = 1/2 and x<sup>2016</sup> y<sup>2019</sup> = 8, the value of x<sup>2</sup> + y<sup>3</sup> is",
       "options": [
-        "A) \\\\frac{37}{4})",
-        "B) \\\\frac{31}{4})",
-        "C) \\\\frac{35}{4})",
-        "D) \\\\frac{33}{4})"
+        "A) \\(\\frac{37}{4}\\)",
+        "B) \\(\\frac{31}{4}\\)",
+        "C) \\(\\frac{35}{4}\\)",
+        "D) \\(\\frac{33}{4}\\)"
       ],
       "answer": "D",
-      "answer_text": "\\\\frac{33}{4})",
+      "answer_text": "\\(\\frac{33}{4}\\)",
       "topic_2iim": "Exponents",
       "node": null,
       "stats_2iim": null,
@@ -799,13 +809,13 @@
       "set": null,
       "question": "Raju and Lalitha originally had marbles in the ratio 4 : 9. Then Lalitha gave some of her marbles to Raju. As a result, the ratio of the number of marbles with Raju to that with Lalitha became 5 : 6. What fraction of her original number of marbles was given by Lalitha to Raju?",
       "options": [
-        "A) \\\\frac{1}{4})",
-        "B) \\\\frac{1}{5})",
-        "C) \\\\frac{6}{19})",
-        "D) \\\\frac{7}{33})"
+        "A) \\(\\frac{1}{4}\\)",
+        "B) \\(\\frac{1}{5}\\)",
+        "C) \\(\\frac{6}{19}\\)",
+        "D) \\(\\frac{7}{33}\\)"
       ],
       "answer": "D",
-      "answer_text": "\\\\frac{7}{33})",
+      "answer_text": "\\(\\frac{7}{33}\\)",
       "topic_2iim": "Ratio and Proportion",
       "node": null,
       "stats_2iim": null,
@@ -975,7 +985,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "10"
     },
     {
       "id": "cat-2018-s1-qa-32",
@@ -1036,7 +1047,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "32"
     },
     {
       "id": "cat-2018-s1-qa-34",

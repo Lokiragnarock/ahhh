@@ -5,7 +5,7 @@
   "section": "varc",
   "source": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-VARC/",
   "licence": "Real CAT questions (c) IIMs, as re-published free by 2IIM (c) 2IIM. Private study use in AHH only; do not republish.",
-  "scraped": "2026-10-31",
+  "scraped": "2026-11-01",
   "count": 26,
   "sets": [
     {
@@ -646,7 +646,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-VARC/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "CABD"
     },
     {
       "id": "cat-2020-s1-varc-20",
@@ -707,7 +708,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-VARC/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "ADCB"
     },
     {
       "id": "cat-2020-s1-varc-22",
@@ -801,7 +803,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-VARC/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "ACBD"
     },
     {
       "id": "cat-2020-s1-varc-25",
@@ -829,7 +832,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-VARC/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "C"
     },
     {
       "id": "cat-2020-s1-varc-26",
@@ -857,7 +861,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-VARC/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "C"
     }
   ]
 }

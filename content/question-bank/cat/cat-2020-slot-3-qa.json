@@ -5,7 +5,7 @@
   "section": "qa",
   "source": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-3-Quant/",
   "licence": "Real CAT questions (c) IIMs, as re-published free by 2IIM (c) 2IIM. Private study use in AHH only; do not republish.",
-  "scraped": "2026-10-31",
+  "scraped": "2026-11-01",
   "count": 26,
   "sets": [],
   "questions": [
@@ -68,7 +68,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-3-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "6"
     },
     {
       "id": "cat-2020-s3-qa-03",
@@ -83,15 +84,15 @@
         "wrong": -1
       },
       "set": null,
-      "question": "Let log<sub>a</sub>30 = A, log<sub>a</sub>\\\\frac{5}{3}) = -B and log<sub>2</sub>a = \\\\frac{1}{3}), then log<sub>3</sub>a equals",
+      "question": "Let log<sub>a</sub>30 = A, log<sub>a</sub>\\(\\frac{5}{3}\\) = -B and log<sub>2</sub>a = \\(\\frac{1}{3}\\), then log<sub>3</sub>a equals",
       "options": [
-        "A) \\\\frac{2}{A+B-3})",
-        "B) \\\\frac{A+B-3}{2})",
-        "C) \\\\frac{A+B}{2}) - 3",
-        "D) \\\\frac{2}{A+B}) - 3"
+        "A) \\(\\frac{2}{A+B-3}\\)",
+        "B) \\(\\frac{A+B-3}{2}\\)",
+        "C) \\(\\frac{A+B}{2}\\) - 3",
+        "D) \\(\\frac{2}{A+B}\\) - 3"
       ],
       "answer": "A",
-      "answer_text": "\\\\frac{2}{A+B-3})",
+      "answer_text": "\\(\\frac{2}{A+B-3}\\)",
       "topic_2iim": "Logarithms_Exponents",
       "node": null,
       "stats_2iim": null,
@@ -129,7 +130,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-3-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "40"
     },
     {
       "id": "cat-2020-s3-qa-05",
@@ -190,7 +192,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-3-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "18"
     },
     {
       "id": "cat-2020-s3-qa-07",
@@ -304,7 +307,7 @@
         "wrong": 0
       },
       "set": null,
-      "question": "\\\\frac{2×4×8×16}{(log_{2}4)^{2}(log_{4}8)^{3}(log_{8}16)^{4}}) equals",
+      "question": "\\(\\frac{2×4×8×16}{(log_{2}4)^{2}(log_{4}8)^{3}(log_{8}16)^{4}}\\) equals",
       "options": null,
       "answer": "24",
       "answer_text": null,
@@ -317,7 +320,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-3-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "24"
     },
     {
       "id": "cat-2020-s3-qa-11",
@@ -332,7 +336,7 @@
         "wrong": 0
       },
       "set": null,
-      "question": "If a,b,c are non-zero and 14<sup>a</sup> = 36<sup>b</sup> = 84<sup>c</sup>, then 6b(\\\\frac{1}{c}) - \\\\frac{1}{a})) is equal to",
+      "question": "If a,b,c are non-zero and 14<sup>a</sup> = 36<sup>b</sup> = 84<sup>c</sup>, then 6b(\\(\\frac{1}{c}\\) - \\(\\frac{1}{a}\\)) is equal to",
       "options": null,
       "answer": "3",
       "answer_text": null,
@@ -345,7 +349,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-3-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "3"
     },
     {
       "id": "cat-2020-s3-qa-12",
@@ -360,7 +365,7 @@
         "wrong": -1
       },
       "set": null,
-      "question": "Let m and n be natural numbers such that n is even and 0.2 < \\\\frac{m}{20}), \\\\frac{n}{m}), \\\\frac{n}{11}) < 0.5. Then m - 2n equals",
+      "question": "Let m and n be natural numbers such that n is even and 0.2 < \\(\\frac{m}{20}\\), \\(\\frac{n}{m}\\), \\(\\frac{n}{11}\\) < 0.5. Then m - 2n equals",
       "options": [
         "A) 4",
         "B) 2",
@@ -505,7 +510,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-3-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "252"
     },
     {
       "id": "cat-2020-s3-qa-17",
@@ -588,13 +594,13 @@
       "set": null,
       "question": "The vertices of a triangle are (0,0), (4,0) and (3,9). The area of the circle passing through these three points is",
       "options": [
-        "A) \\\\frac{14π}{3})",
-        "B) \\\\frac{123π}{7})",
-        "C) \\\\frac{205π}{9})",
-        "D) \\\\frac{12π}{5})"
+        "A) \\(\\frac{14π}{3}\\)",
+        "B) \\(\\frac{123π}{7}\\)",
+        "C) \\(\\frac{205π}{9}\\)",
+        "D) \\(\\frac{12π}{5}\\)"
       ],
       "answer": "C",
-      "answer_text": "\\\\frac{205π}{9})",
+      "answer_text": "\\(\\frac{205π}{9}\\)",
       "topic_2iim": "Ratios_Mixtures_Averages",
       "node": null,
       "stats_2iim": null,
@@ -632,7 +638,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-3-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "16000"
     },
     {
       "id": "cat-2020-s3-qa-21",
@@ -759,7 +766,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-3-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "28"
     },
     {
       "id": "cat-2020-s3-qa-25",

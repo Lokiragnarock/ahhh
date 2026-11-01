@@ -5,7 +5,7 @@
   "section": "varc",
   "source": "https://online.2iim.com/CAT-question-paper/CAT-2022-Question-Paper-Slot-1-VARC/",
   "licence": "Real CAT questions (c) IIMs, as re-published free by 2IIM (c) 2IIM. Private study use in AHH only; do not republish.",
-  "scraped": "2026-10-31",
+  "scraped": "2026-11-01",
   "count": 24,
   "sets": [
     {
@@ -646,7 +646,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2022-Question-Paper-Slot-1-VARC/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "2143"
     },
     {
       "id": "cat-2022-s1-varc-20",
@@ -707,7 +708,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2022-Question-Paper-Slot-1-VARC/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "3214"
     },
     {
       "id": "cat-2022-s1-varc-22",
@@ -801,7 +803,8 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2022-Question-Paper-Slot-1-VARC/"
       },
-      "verified": false
+      "verified": false,
+      "answer_value": "2431"
     }
   ]
 }
