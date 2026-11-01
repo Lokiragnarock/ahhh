@@ -107,7 +107,7 @@ export function MixedTest({ pool }: { pool: PoolCard[] }) {
         )}
 
         <div className="mt-6">
-          <Link href="/" className="sp-quiet-link">
+          <Link href="/territory" className="sp-quiet-link">
             Territory
           </Link>
         </div>

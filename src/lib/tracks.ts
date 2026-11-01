@@ -28,9 +28,10 @@ export interface TrackConfig {
 export const TRACKS: Record<TrackSlug, TrackConfig> = {
   ahh: {
     label: "AHH",
-    home: "/",
+    home: "/territory",
     nav: [
-      { href: "/", label: "Territory" },
+      { href: "/", label: "Home" },
+      { href: "/territory", label: "Territory" },
       { href: "/practice", label: "Practice" },
       { href: "/errors", label: "Error book" },
       { href: "/standing", label: "Standing" },
@@ -46,8 +47,9 @@ export const TRACKS: Record<TrackSlug, TrackConfig> = {
     prefix: "gmat-",
     home: "/gmat/status",
     nav: [
+      { href: "/", label: "Home" },
       { href: "/gmat/status", label: "Status" },
-      { href: "/", label: "Territory" },
+      { href: "/territory", label: "Territory" },
       { href: "/practice", label: "Practice" },
       { href: "/errors", label: "Error book" },
       { href: "/timeline", label: "Timeline" },

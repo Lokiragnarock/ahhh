@@ -24,7 +24,7 @@ export default async function TestPage() {
       <main className="sp-page">
         <div className="sp-focus-column">
           <p className="sp-body-text">Nothing drilled yet. Drill a topic first.</p>
-          <Link href="/" className="sp-quiet-link">
+          <Link href="/territory" className="sp-quiet-link">
             Territory
           </Link>
         </div>

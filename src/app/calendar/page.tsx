@@ -1,7 +1,8 @@
 "use client";
 
 // The original month/week/day calendar + todo panel. Preserved here at
-// /calendar since the app's root route ("/") is now the Territory screen —
+// /calendar since the app's root route ("/") is now the Home screen and
+// Territory lives at /territory —
 // the study substrate replaced the planner, per the 02 - UI Spec and Build
 // Brief. Nothing was deleted, just moved.
 

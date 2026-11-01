@@ -1,65 +1,69 @@
 import { getUnitGroups, listSubjects } from "@/lib/vault";
-import { currentSubject } from "@/lib/subject/server";
 import { currentTrack } from "@/lib/tracks-server";
-import { TRACKS } from "@/lib/tracks";
-import { subjectLabel } from "@/lib/subject/shared";
-import { Treemap } from "@/components/study/Treemap";
+import { SUBJECT_GROUPS, subjectGroup, subjectLabel } from "@/lib/subject/shared";
 import { PageHead } from "@/components/PageHead";
 import { TopNav } from "@/components/TopNav";
-import { SubjectTabs } from "@/components/SubjectTabs";
-import { RoundsBoard, RoundsStrip, TerritoryStats, UpNext } from "@/components/practice/Rounds";
-import type { FlowTopic } from "@/lib/flow";
+import { TrackBoxes, type TrackRowData } from "@/components/home/TrackBoxes";
 
-// Screen 1: Territory. Reads the vault at request time — no caching, no
-// rebuild — so edits made in Obsidian show up on refresh.
+// Home: one row per track. Reads the vault at request time, like Territory.
 export const dynamic = "force-dynamic";
 
-export default async function TerritoryPage() {
-  const subject = currentSubject();
-  const track = currentTrack();
-  const [units, subjects] = await Promise.all([getUnitGroups(subject), listSubjects(track)]);
-  const topics = units.flatMap((u) => u.topics);
-  const lite = (t: (typeof topics)[number]): FlowTopic & { minutes: number } => ({
-    id: t.id,
-    slug: t.slug,
-    unit: t.unit,
-    title: t.title.replace(new RegExp(`^(${t.id}|${t.unit})\\s*[—–-]\\s*`), ""),
-    minutes: t.minutes,
+const GMAT_ORDER = ["gmat-quant", "gmat-verbal", "gmat-di", "gmat-strategy"];
+
+export default async function HomePage() {
+  const [ahh, gmat] = await Promise.all([listSubjects("ahh"), listSubjects("gmat")]);
+
+  // Uni: one section per semester group, each holding subject buttons.
+  const uniSections = SUBJECT_GROUPS.map((g) => {
+    const subs = ahh.filter((s) => subjectGroup(s.slug) === g.key);
+    return {
+      key: g.key as string,
+      label: g.label as string,
+      meta: `${subs.length} ${subs.length === 1 ? "subject" : "subjects"}`,
+      items: subs.map((s) => ({ track: "ahh", slug: s.slug, label: subjectLabel(s.slug) })),
+    };
+  }).filter((s) => s.items.length > 0);
+
+  // GMAT: each subject is its own whole-box section.
+  const gmatSorted = [...gmat].sort((a, b) => {
+    const ia = GMAT_ORDER.indexOf(a.slug);
+    const ib = GMAT_ORDER.indexOf(b.slug);
+    return (ia < 0 ? 99 : ia) - (ib < 0 ? 99 : ib);
   });
-  const ordered = topics.map(lite);
-  const board = units.map((u) => ({ unit: u.id, topics: u.topics.map(lite) }));
+  const gmatSections = await Promise.all(
+    gmatSorted.map(async (s) => {
+      const units = await getUnitGroups(s.slug).catch(() => []);
+      const n = units.reduce((sum, u) => sum + u.topics.length, 0);
+      return {
+        key: s.slug,
+        label: subjectLabel(s.slug).replace(/^GMAT\s+/, ""),
+        meta: n > 0 ? `${n} ${n === 1 ? "topic" : "topics"}` : undefined,
+        items: [],
+        boxLink: { track: "gmat", slug: s.slug, label: subjectLabel(s.slug) },
+      };
+    }),
+  );
+
+  const rows: TrackRowData[] = [
+    { key: "uni", title: "Uni", sub: "AHH", count: ahh.length, sections: uniSections },
+    {
+      key: "gmat",
+      title: "GMAT",
+      count: gmat.length,
+      sections: gmatSections,
+      footerLink: { label: "Status", track: "gmat", href: "/gmat/status" },
+    },
+    { key: "gre", title: "GRE", tag: "Building" },
+    { key: "cat", title: "CAT", tag: "Planned" },
+    { key: "ca", title: "CA", sub: "ICAI Intermediate", tag: "Planned" },
+  ];
 
   return (
     <main className="sp-page pt-12">
       <TopNav />
-      <div className="max-w-[1200px] mx-auto px-4 md:px-6 py-10">
-        <PageHead title="Territory" />
-
-        <SubjectTabs subjects={subjects} current={subject} />
-
-        {topics.length === 0 && subjects.length === 0 && track !== "ahh" ? (
-          <p className="text-[14.5px] text-[#555] max-w-[60ch]">No {TRACKS[track].label} notes yet.</p>
-        ) : topics.length === 0 ? (
-          <p className="text-[14.5px] text-[#555] max-w-[60ch]">
-            No topic notes found for <strong>{subjectLabel(subject)}</strong> under{" "}
-            <code>{`content/recall/${subject}`}</code>. A topic note needs a <code>node</code> field in its
-            frontmatter to appear here.
-          </p>
-        ) : (
-          <>
-            <RoundsStrip topics={ordered} />
-            <UpNext topics={ordered} />
-
-            <TerritoryStats topics={ordered} />
-
-            <div className="mb-12">
-              <Treemap units={units} />
-            </div>
-
-            <h2 className="sp-h2 mb-4">Rounds by unit</h2>
-            <RoundsBoard units={board} />
-          </>
-        )}
+      <div className="max-w-[720px] mx-auto px-4 md:px-6 py-10">
+        <PageHead title="Home" />
+        <TrackBoxes currentTrack={currentTrack()} rows={rows} />
       </div>
     </main>
   );

@@ -33,7 +33,7 @@ export default async function TopicPage({ params }: { params: { slug: string } }
       <TopNav />
       <div className="px-5 py-10">
         <div className="max-w-[1100px] mx-auto mb-4 flex flex-wrap items-center gap-x-6 gap-y-2">
-          <Link href="/" className="text-[12px] uppercase tracking-[0.08em] text-[color:var(--sp-muted)] hover:text-[color:var(--sp-ink)] mr-auto">
+          <Link href="/territory" className="text-[12px] uppercase tracking-[0.08em] text-[color:var(--sp-muted)] hover:text-[color:var(--sp-ink)] mr-auto">
             &larr; Territory
           </Link>
           {flow?.prev && (
