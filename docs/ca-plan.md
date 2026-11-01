@@ -10,7 +10,7 @@ Track slugs (proposed): `ca-inter-cma`, `ca-inter-audit`, `ca-inter-fmsm`, `ca-i
 
 1. **Registration date. This one is urgent.** You must be registered for 8 months by the first day of the exam month. To sit **September 2027**, the earliest attempt that fits your graduation, you must register by **1 January 2027**, which is two months away. See section 1.4.
 2. **First attempt: Group II alone, or both groups?** This plan builds Group II first, as you asked. The pass rule lets you take one group per sitting.
-3. **Copyright.** ICAI's site says its material "may be reproduced only after taking prior written permission from ICAI" (section 5.6). AHH is private, but loading ICAI questions into it is still copying. Choose one: (a) store private study copies with the source on every question and never publish; (b) store only links plus your own answer logs; (c) write to ICAI first. I recommend (a) as long as AHH stays private. The decision is yours.
+3. **Copyright: decided 1 November 2026.** AHH is for Lokesh alone, so ICAI questions and material are stored as private study copies, with the source on every item and nothing published (option (a) of section 5.9).
 4. **Node maps.** Approve, cut or merge the Group II nodes in section 4.
 5. **App gap to raise with the GRE session.** ICAI MCQs come in sets of five that share one case scenario. The test JSON has no shared-stem field (each question has only its own `question` text). Either the generic-track work adds a `case` or `stem_id` field, or every MCQ repeats the stem.
 
@@ -478,7 +478,7 @@ I found **no open-licence CA Intermediate question bank** on GitHub. A GitHub re
 
 ### 5.9 Copyright
 
-ICAI's policy (https://www.icai.org/post/16585): "Material displayed on this website may be reproduced only after taking prior written permission from ICAI ... Wherever the material is being published or issued to others, the source must be prominently acknowledged." See decision 3 in section 0. Whatever you choose, every imported question should carry a source line (attempt, paper, question number, or RTP/MTP series), and AHH must stay private.
+ICAI's policy (https://www.icai.org/post/16585): "Material displayed on this website may be reproduced only after taking prior written permission from ICAI ... Wherever the material is being published or issued to others, the source must be prominently acknowledged." Decision (section 0, item 3): private study copies only. Every imported question should carry a source line (attempt, paper, question number, or RTP/MTP series), and AHH must stay private.
 
 ### 5.10 How the sources map onto AHH test types
 
