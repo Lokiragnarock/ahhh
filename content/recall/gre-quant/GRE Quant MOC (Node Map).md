@@ -11,7 +11,7 @@ tags: [gre, quant, moc]
 
 The GRE Quant section has two timed sections (12 questions in 21 minutes, then 15 in 26), with an on-screen calculator. Questions come in four formats: Quantitative Comparison (QC), multiple choice with one answer, multiple choice with every right answer ("select all"), and numeric entry (a number, or a fraction in two boxes). Content is arithmetic, algebra, geometry and data analysis.
 
-The practice bank holds 740 questions from GRE Quant Lab (12 two-stage practice tests and 3 topic drills). Each question sits in one content node, chosen from its subtopic. Q-10 is a method node: it holds every QC question again, so its 245 questions also count in Q-1 to Q-9. Topic notes for each node are still to come.
+The practice bank holds 740 questions from GRE Quant Lab (12 two-stage practice tests and 3 topic drills). Each question sits in one content node, chosen from its subtopic. Q-10 is a method node: it holds every QC question again, so its 245 questions also count in Q-1 to Q-9. Each node has a topic note built from the official ETS GRE Math Review, with traps taken from the bank's own solutions and links to bank questions to practise on.
 
 ## Nodes
 
@@ -29,6 +29,26 @@ The practice bank holds 740 questions from GRE Quant Lab (12 two-stage practice 
 | Q-10 | Quantitative Comparison method | 245 | 245 | 0 | 0 | 0 | 0 |
 
 Q-1 to Q-9 add up to 740. Every question in a data set (a shared table or graph) is in Q-9, whatever it asks about.
+
+## Study order
+
+```mermaid
+graph TD
+    Q1["Q-1 Arithmetic, number properties"] --> Q2["Q-2 Percents, ratios"]
+    Q1 --> Q3["Q-3 Algebra ★"]
+    Q1 --> Q8["Q-8 Counting, probability"]
+    Q2 --> Q4["Q-4 Word problems, rates"]
+    Q3 --> Q4
+    Q3 --> Q5["Q-5 Lines, angles, triangles"]
+    Q5 --> Q6["Q-6 Circles, polygons, coordinates, solids"]
+    Q2 --> Q7["Q-7 Statistics"]
+    Q2 --> Q9["Q-9 Data interpretation ★"]
+    Q7 --> Q9
+    Q1 --> Q10["Q-10 QC method ★"]
+    Q3 --> Q10
+```
+
+★ marks the exam-focus nodes: Q-3 (the largest content node), Q-9 (data sets, with most of the numeric entry questions) and Q-10 (a third of the bank).
 
 ## How the nodes were assigned
 
