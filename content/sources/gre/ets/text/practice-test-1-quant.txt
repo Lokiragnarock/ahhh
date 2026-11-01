@@ -1,0 +1,541 @@
+[IMG:media/image1.jpeg]
+GRADUATE RECORD EXAMINATIONS^{®}
+Practice General Test #1
+Section 4—Quantitative Reasoning
+Section 5—Quantitative Reasoning
+[IMG:media/image2.png]
+Copyright 2023 by E T S. All rights reserved. E T S, the E T S logo, GRADUATE RECORD EXAMINATIONS, and G R E are registered trademarks of E T S in the United States and other countries.
+Instructions for the Verbal Reasoning and Quantitative Reasoning Sections
+Note: These instructions are the same for both the Verbal Reasoning (sections 2 and 3) and Quantitative Reasoning (sections 4 and 5) portions of this practice test. They are provided in both documents for your convenience.
+Information for screen reader users:
+This document has been created to be accessible to individuals who use screen readers. You may wish to consult the manual or help system for your screen reader to learn how best to take advantage of the features implemented in this document. Please consult the separate document, “G R E Screen Reader Instructions.docx,” for important details.
+This practice test includes content that some users may wish to skip. For example, some questions require you to complete sentences or longer texts from among several choices. For those questions where it might be helpful to hear the available choices in context, text of the choices in context is included. However, some users may wish to skip this material. Similarly, some questions include detailed figure descriptions that some users may wish to skip because they can get the required information from the accompanying tactile or large print figures. In each case, material that may be skipped is delineated by statements like “Begin skippable content” and “End skippable content” each in the Heading 6 style.
+As a reminder, standard timing for each section of the test is provided in the following table:
+| Section Order | Section Name | Standard Time |
+| 1 | Analytical Writing | 30 minutes |
+| 2 | Verbal Reasoning | 21 minutes |
+| 3 | Verbal Reasoning | 28 minutes |
+| 4 | Quantitative Reasoning | 24 minutes |
+| 5 | Quantitative Reasoning | 32 minutes |
+The Quantitative sections include figures and their descriptions. In addition, separate figure supplements, in large print (18 point) and raisedline formats, are available.
+Important Notes
+In the actual test, your scores for the multiplechoice sections will be determined by the number of questions you answer correctly. Nothing is subtracted from a score if you answer a question incorrectly. Therefore, to maximize your scores it is better for you to guess at an answer than not to respond at all. Work as rapidly as you can without losing accuracy. Do not spend too much time on questions that are too difficult for you. Go on to the other questions and come back to the difficult ones later.
+Some or all of the passages in this test have been adapted from published material to provide the examinee with significant problems for analysis and evaluation. To make the passages suitable for testing purposes, the style, content, or point of view of the original may have been altered. The ideas contained in the passages do not necessarily represent the opinions of the Graduate Record Examinations Board or Educational Testing Service.
+You may use a calculator in the Quantitative Reasoning sections only. You will be provided with a basic calculator and cannot use any other calculator, except as an approved accommodation.
+Marking Your Answers
+In the actual test, all answers must be entered in the test book (or in the supervisor’s copy of the test book if you are not using a print format test). If answers are being recorded in a large print test book, the directions for marking answers are slightly different because answers entered in large print test books are not machinescored.
+In a regular test book, answers are entered by filling in the circle or circles corresponding to your answer choice. In a large print test book, answers are entered by circling the entry or entries corresponding to your answer choice. If you or your scribe are marking answers on a regular print test book, be sure that each mark is dark and completely fills the circle.
+If marking answers on a large print test book, be sure that each answer is marked clearly and unambiguously. Any stray marks must be erased carefully. If you change an answer, be sure that all previous marks are erased completely. Stray marks and incomplete erasures may be read as intended answers.
+Question Formats
+This practice test may include questions that would not be used in an actual test administered in an alternate format because they have been determined to be less suitable for presentation in such formats.
+The questions in these sections have several different formats. A brief description of these formats and instructions for entering your answer choices are given below.
+MultipleChoice Questions—Select One Answer Choice
+These standard multiplechoice questions require you to select just one answer choice from a list of options. You will receive credit only if you mark the single correct answer choice and no other.
+Example 1:
+What city is the capital of France?
+Rome
+Paris
+London
+Cairo
+In this example, choice B, Paris, should be marked.
+MultipleChoice Questions—Select One or More Answer Choices
+Some of these questions specify how many answer choices you must select; others require you to select all that apply. In either case, to receive credit all of the correct answer choices must be marked. In printed versions of the test, these questions are distinguished by the use of a square box to select an answer choice.
+Example 2:
+Select all that apply.
+Which of the following countries are in Africa?
+Chad
+China
+France
+Kenya
+In this example, choices A and D (Chad and Kenya) should be marked.
+Column Format Questions
+This question type presents the answer choices in groups (presented as columns in the printed version of the test). You must pick one answer choice from each group. You will receive credit only if you mark the correct answer choice in each group. In the following example, there is a sentence with two blanks, each indicating that something has been omitted. For each question of this type, first you will hear the text with the word “{BLANK}” in place of the omitted material. Next, you will hear the text again, but in place of each blank, you will hear three lettered options for filling that blank. The set of lettered options is formatted as bold and enclosed in braces. Each option consists of a word or phrase.
+For questions containing one or two blanks, following the list of answer choices are up to nine readings of the text, one for each answer choice combination. The group of readings begins with a “Begin Skippable Content” level6 heading and ends with an “End Skippable Content” level6 heading. Each reading consists of the option letter or letters, the words or phrases being combined, and the text with the combination of the words or phrases inserted into the blanks.
+For questions containing three blanks, the choices will not be read in context because it has been determined that replaying the question for all possible combinations of answer choices is not a useful way to present these questions.
+Example 3:
+This question has two blanks.
+Complete the following sentence.
+{BLANK} is the capital of {BLANK}.
+Now listen to the text with the three options inserted in place of each blank.
+{A. Paris, B. Rome, C. Cairo} is the capital of {D. Canada, E. France, F. China}.
+Indicate your two answer choices and skip hearing the answer choices in context or go on to hear them in context before indicating your answer choices. Fill all blanks in the way that best completes the text.
+Begin skippable content.
+Answer Choices in Context:
+A, D. Paris, Canada. Paris is the capital of Canada.
+A, E. Paris, France. Paris is the capital of France.
+A, F. Paris, China. Paris is the capital of China.
+B, D. Rome, Canada. Rome is the capital of Canada.
+B, E. Rome, France. Rome is the capital of France.
+B, F. Rome, China. Rome is the capital of China.
+C, D. Cairo, Canada. Cairo is the capital of Canada.
+C, E. Cairo, France. Cairo is the capital of France.
+C, F. Cairo, China. Cairo is the capital of China.
+End skippable content.
+Indicate your two answer choices. Fill all blanks in the way that best completes the text.
+In this example, choice A, Paris (from the group A, B, C), and choice E, France (from the group D, E, F), should be indicated as the answer.
+Numeric Entry Questions
+These questions require a number to be entered by marking entries in a grid according to the following instructions.
+Your answer may be an integer, a decimal, or a fraction, and it may be negative.
+Equivalent forms of the correct answer, such as 2.5 and 2.50, are all correct. Fractions do not need to be reduced to lowest terms, though you may need to reduce your fraction to fit in the grid.
+Enter the exact answer unless the question asks you to round your answer.
+If a question asks for a fraction, the grid will have a builtin division slash. Otherwise, the grid will have a decimal point.
+The instructions for marking the entries will depend on whether a regular print or a large print test is being used to record your answers. If your answers are being entered into a regular print edition of the test, the following instructions apply:
+Start your answer in any column, space permitting. Fill in no more than one entry in any column of the grid. Columns not needed should be left blank.
+Write your answer in the boxes at the top of the grid and fill in the corresponding circles. You will receive credit only if your grid entries are clearly marked, regardless of the number written in the boxes at the top.
+If your answers are being entered into a large print edition of the test, instead of filling in circles on the grid in steps 5 and 6, you will be asked to circle those entries.
+Section 4 follows. In an actual test, testing time will resume when you begin Section 4.
+The Graduate Record Examinations^{®} Practice General Test #1
+Section 4—Quantitative Reasoning.
+15 Questions.
+Section Directions:
+For each question, indicate the best answer, using the directions given.
+Notes:
+All numbers used are real numbers.
+All figures are assumed to lie in a plane unless otherwise indicated.
+Geometric figures, such as lines, circles, triangles, and quadrilaterals, are not necessarily drawn to scale. That is, you should not assume that quantities such as lengths and angle measures are as they appear in a figure. You should assume, however, that lines shown as straight are actually straight, points on a line are in the order shown, and more generally, all geometric objects are in the relative positions shown. For questions with geometric figures, you should base your answers on geometric reasoning, not on estimating or comparing quantities from how they are drawn in the geometric figure.
+Coordinate systems, such as x yplanes and number lines, are drawn to scale; therefore, you can read, estimate, or compare quantities in such figures from how they are drawn in the coordinate system.
+Graphical data presentations, such as bar graphs, circle graphs, and line graphs, are drawn to scale; therefore, you can read, estimate, or compare data values from how they are drawn in the graphical data presentation.
+For each of Questions 1 through 5, compare Quantity A and Quantity B, using the additional information given, if any. Select one of the following four answer choices.
+Quantity A is greater.
+Quantity B is greater.
+The two quantities are equal.
+The relationship cannot be determined from the information given.
+A symbol that appears more than once in a question has the same meaning throughout the question.
+The following are two examples of how the questions are to be answered.
+Example 1.
+Quantity A: [IMG:media/image3.png] 2 times 6
+Quantity B: 2 + 6
+The correct answer for Example 1 is answer choice A. Quantity A is equal to 12 and Quantity B is equal to 8.
+Example 2.
+[IMG:media/image4.png]
+Begin skippable figure description.
+The figure shows triangle P Q R, where P is the leftmost vertex of the horizontal base P R and vertex Q is above P R. Point S lies on horizontal base P R and appears to be the midpoint of P R. Line segment Q S is drawn from vertex Q to point S. The lengths of P S and S R appear to be equal.
+End skippable figure description.
+Quantity A: The length of PS
+Quantity B: The length of SR
+The correct answer for Example 2 is answer choice D. The relationship between the lengths of PS and SR cannot be determined from the information given since equal measures cannot be assumed, even though the lengths of PS and SR appear to be equal in the figure.
+The test will now proceed to Questions 1 through 5. Remember that you are to choose
+Quantity A is greater.
+Quantity B is greater.
+The two quantities are equal.
+The relationship cannot be determined from the information given.
+Question 1 is based on the following figure.
+[IMG:media/image5.png]
+Begin skippable figure description.
+The figure shows two right triangles. One of the triangles has a leg of length 4 and a leg of length x, and a hypotenuse of length 8. The other triangle has two legs, each of which is of length 4, and a hypotenuse of length y.
+End skippable figure description.
+Question 1.
+Quantity A: x
+Quantity B: y
+Quantity A is greater.
+Quantity B is greater.
+The two quantities are equal.
+The relationship cannot be determined from the information given.
+From the answer choices given, select and indicate the one that describes the relationship between quantity A and quantity B.
+Question 2.
+A certain recipe requires [IMG:media/image6.png] three halves cups of sugar and makes 2 dozen cookies.
+(1 dozen = 12)
+Quantity A: The amount of sugar required for the same recipe to make 30 cookies
+Quantity B: 2 cups
+Quantity A is greater.
+Quantity B is greater.
+The two quantities are equal.
+The relationship cannot be determined from the information given.
+From the answer choices given, select and indicate the one that describes the relationship between quantity A and quantity B.
+Question 3.
+A power station is located on the boundary of a square region that measures 10 miles on each side. Three substations are located inside the square region.
+Quantity A: The sum of the distances from the power station to each of the substations
+Quantity B: 30 miles
+Quantity A is greater.
+Quantity B is greater.
+The two quantities are equal.
+The relationship cannot be determined from the information given.
+From the answer choices given, select and indicate the one that describes the relationship between quantity A and quantity B.
+Question 4 is based on the following figure.
+[IMG:media/image7.jpg]
+Begin skippable figure description.
+The figure accompanying this question consists of a circle and triangle R O S, where O is the center of the circle and R and S are points that lie on the circle. In the triangle, the measure of angle R O S is 60 degrees.
+End skippable figure description.
+Question 4.
+It is given that O is the center of the circle, and the perimeter of triangle R O S is 6.
+Quantity A: The circumference of the circle
+Quantity B: 12
+Quantity A is greater.
+Quantity B is greater.
+The two quantities are equal.
+The relationship cannot be determined from the information given.
+From the answer choices given, select and indicate the one that describes the relationship between quantity A and quantity B.
+Question 5.
+Quantity A: The standard deviation of a set of 5 different integers, each of which is between 0 and 10
+Quantity B: The standard deviation of a set of 5 different integers, each of which is between 10 and 20
+Quantity A is greater.
+Quantity B is greater.
+The two quantities are equal.
+The relationship cannot be determined from the information given.
+From the answer choices given, select and indicate the one that describes the relationship between quantity A and quantity B.
+Questions 6 through 15 have several different answer formats, including both selecting answers from a list of answer choices and numeric entry. With each question, answer format instructions will be given.
+Numeric Entry Questions
+These questions require a number to be entered by marking entries in a grid according to the following instructions.
+Your answer may be an integer, a decimal, or a fraction, and it may be negative.
+Equivalent forms of the correct answer, such as 2.5 and 2.50, are all correct. Fractions do not need to be reduced to lowest terms, though you may need to reduce your fraction to fit in the grid.
+Enter the exact answer unless the question asks you to round your answer.
+If a question asks for a fraction, the grid will have a builtin division slash. Otherwise, the grid will have a decimal point.
+The instructions for marking the entries will depend on whether a regular print or a large print test is being used to record your answers. If your answers are being entered into a regular print edition of the test, the following instructions apply:
+Start your answer in any column, space permitting. Fill in no more than one entry in any column of the grid. Columns not needed should be left blank.
+Write your answer in the boxes at the top of the grid and fill in the corresponding circles. You will receive credit only if your grid entries are clearly marked, regardless of the number written in the boxes at the top.
+If your answers are being entered into a large print edition of the test, instead of filling in circles on the grid in steps 5 and 6, you will be asked to circle those entries.
+Question 6.
+This question has five answer choices, labeled A through E. Select the best one of the answer choices given.
+The system of equations
+7x + 3y = 12, and
+3x + 7y = 6
+is given.
+If x and y satisfy the preceding system of equations, what is the value of [IMG:media/image8.png] x minus y?
+	[IMG:media/image9.png] two thirds
+[IMG:media/image6.png] three halves
+1
+4
+6
+Select and indicate the best one of the answer choices given.
+Question 7.
+This question has five answer choices, labeled A through E. Select all the answer choices that apply.
+In triangle D E F, the measure of angle D is 25° and the measure of angle E is greater than 90°. Which of the following could be the measure of angle F ?
+Indicate all such measures.
+12°
+15°
+45°
+50°
+70°
+Select and indicate all the answer choices that apply. The correct answer to a question of this type could consist of as few as one, or as many as all five of the answer choices.
+Question 8.
+This question has five answer choices, labeled A through E. Select the best one of the answer choices given.
+What is the least integer n such that [IMG:media/image10.png] the fraction with numerator 1, and denominator 2 raised to the power n is less than 0.001 ?
+10
+11
+500
+501
+There is no such least integer.
+Select and indicate the best one of the answer choices given.
+Question 9.
+This question has five answer choices, labeled A through E. Select the best one of the answer choices given.
+In the sunshine, an upright pole 12 feet tall is casting a shadow 8 feet long. At the same time, a nearby upright pole is casting a shadow 10 feet long. If the lengths of the shadows are proportional to the heights of the poles, what is the height, in feet, of the taller pole?
+10
+12
+14
+15
+18
+Select and indicate the best one of the answer choices given.
+Question 10.
+This question has five answer choices, labeled A through E. Select the best one of the answer choices given.
+If c is the smallest prime number greater than 21 and d is the largest prime number less than 16, then cd =
+299
+323
+330
+345
+351
+Select and indicate the best one of the answer choices given.
+Question 11.
+This question does not have any answer choices; it is a numeric entry question. To answer this question, enter a number in the answer space provided.
+The total amount of Judy’s water bill for the last quarter of the year was $40.50. The bill consisted of a fixed charge of $13.50 plus a charge of $0.0075 per gallon for the water used in the quarter. For how many gallons of water was Judy charged for the quarter?
+The answer space is followed by the word “gallons.”
+To answer this question, enter a number in the answer space provided. The number can include a decimal point, and can be positive, negative, or zero. The number entered cannot be a fraction.
+Question 12.
+This question has five answer choices, labeled A through E. Select the best one of the answer choices given.
+Data set S: 28, 23, 30, 25, 27
+Data set R: 22, 19, 15, 17, 20
+The median of data set S is how much greater than the median of data set R ?
+ 8
+ 10
+ 12
+ 13
+ 15
+Select and indicate the best one of the answer choices given.
+Question 13.
+This question has three answer choices, labeled A through C. Select all the answer choices that apply.
+The total number of recording titles distributed by music distributors L and M is 9,300. The number of recording titles distributed by L is 7,100, and the number of recording titles distributed by M is 5,200. Which of the following statements must be true?
+Indicate all such statements.
+More than half of the titles distributed by L are also distributed by M.
+More than half of the titles distributed by M are also distributed by L.
+No titles are distributed by both L and M.
+Select and indicate all the answer choices that apply. The correct answer to a question of this type could consist of as few as one, or as many as all three of the answer choices. 
+Question 14.
+This question has five answer choices, labeled A through E. Select the best one of the answer choices given.
+If c and d are positive integers and m is the greatest common factor of c and d, then m must be the greatest common factor of c and which of the following integers?
+c + d
+2 + d
+cd
+2d
+[IMG:media/image11.png] d squared
+Select and indicate the best one of the answer choices given.
+Question 15.
+This question has five answer choices, labeled A through E. Select the best one of the answer choices given.
+Of the 750 participants attending a meeting of a certain association, 450 are members of the association and the rest are guests. Of all the participants, [IMG:media/image12.png] one half of the members and [IMG:media/image13.png] one fourth of the guests are less than thirty years old. If one of the participants will be randomly selected to receive a prize, what is the probability that the person selected will be less than thirty years old?
+[IMG:media/image14.png] one eighth
+[IMG:media/image15.png] one third
+[IMG:media/image16.png] three eighths
+[IMG:media/image17.png] two fifths
+[IMG:media/image18.png] three fourths
+Select and indicate the best one of the answer choices given.
+This is the end of Section 4 of The Graduate Record Examinations^{®} Practice General Test #1. In an actual test, once you complete a section you may not return to it.
+Section 5—Quantitative Reasoning.
+20 Questions.
+Section Directions:
+For each question, indicate the best answer, using the directions given.
+Notes:
+All numbers used are real numbers.
+All figures are assumed to lie in a plane unless otherwise indicated.
+Geometric figures, such as lines, circles, triangles, and quadrilaterals, are not necessarily drawn to scale. That is, you should not assume that quantities such as lengths and angle measures are as they appear in a figure. You should assume, however, that lines shown as straight are actually straight, points on a line are in the order shown, and more generally, all geometric objects are in the relative positions shown. For questions with geometric figures, you should base your answers on geometric reasoning, not on estimating or comparing quantities from how they are drawn in the geometric figure.
+Coordinate systems, such as x yplanes and number lines, are drawn to scale; therefore, you can read, estimate, or compare quantities in such figures from how they are drawn in the coordinate system.
+Graphical data presentations, such as bar graphs, circle graphs, and line graphs, are drawn to scale; therefore, you can read, estimate, or compare data values from how they are drawn in the graphical data presentation.
+For each of Questions 1 through 7, compare Quantity A and Quantity B, using the additional information given, if any. Select one of the following four answer choices.
+Quantity A is greater.
+Quantity B is greater.
+The two quantities are equal.
+The relationship cannot be determined from the information given.
+A symbol that appears more than once in a question has the same meaning throughout the question.
+The following are two examples of how the questions are to be answered.
+Example 1.
+Quantity A: [IMG:media/image3.png] 2 times 6
+Quantity B: 2 + 6
+The correct answer for Example 1 is answer choice A. Quantity A is equal to 12 and Quantity B is equal to 8.
+Example 2.
+[IMG:media/image4.png]
+Begin skippable figure description.
+The figure shows triangle P Q R, where P is the leftmost vertex of the horizontal base P R and vertex Q is above P R. Point S lies on horizontal base P R and appears to be the midpoint of P R. Line segment Q S is drawn from vertex Q to point S. The lengths of P S and S R appear to be equal.
+End skippable figure description.
+Quantity A: The length of PS
+Quantity B: The length of SR
+The correct answer for Example 2 is answer choice D. The relationship between the lengths of PS and SR cannot be determined from the information given since equal measures cannot be assumed, even though the lengths of PS and SR appear to be equal in the figure.
+Question 1.
+It is given that x is a positive integer and y is a negative integer.
+Quantity A: [IMG:media/image19.png] x minus y
+Quantity B: [IMG:media/image20.png] y minus x
+Quantity A is greater.
+Quantity B is greater.
+The two quantities are equal.
+The relationship cannot be determined from the information given.
+From the answer choices given, select and indicate the one that describes the relationship between quantity A and quantity B.
+Question 2.
+In a probability experiment, the probability that both events E and F will occur is 0.42.
+Quantity A: The probability that event E will occur
+Quantity B: 0.58
+Quantity A is greater.
+Quantity B is greater.
+The two quantities are equal.
+The relationship cannot be determined from the information given.
+From the answer choices given, select and indicate the one that describes the relationship between quantity A and quantity B.
+Question 3 is based on the following figure.
+[IMG:media/image21.jpeg]
+Begin skippable figure description.
+The figure shows a large triangle PQR; side PR is horizontal, with point R to the right of point P, and vertex Q lies above side PR. Point S lies on side PR and line segment QS divides the large triangle PQR into two smaller triangles, PQS and QRS. The measure of angle PQS is x degrees, and the measure of angle QRS is y degrees.
+End skippable figure description.
+Question 3.
+It is given that the length of line segment PS is equal to the length of line segment SR.
+Quantity A: x
+Quantity B: y
+Quantity A is greater.
+Quantity B is greater.
+The two quantities are equal.
+The relationship cannot be determined from the information given.
+From the answer choices given, select and indicate the one that describes the relationship between quantity A and quantity B.
+Question 4.
+The average (arithmetic mean) of 100 measurements is 23, and the average of 50 additional measurements is 27.
+Quantity A: The average of the 150 measurements
+Quantity B: 25
+Quantity A is greater.
+Quantity B is greater.
+The two quantities are equal.
+The relationship cannot be determined from the information given.
+From the answer choices given, select and indicate the one that describes the relationship between quantity A and quantity B.
+Question 5 is based on the following figure.
+[IMG:media/image22.jpeg]
+Begin skippable figure description.
+The figure shows an x yplane in which there is a line k that extends upward from the lower left part of the plane, through the origin, to the upper right part of the plane. In addition, the point with coordinates 3 comma 4 is shown. This point lies in the upper right quadrant below line k and above the xaxis. The horizontal axis of the x yplane is labeled x, the vertical axis is labeled y, and the origin is labeled O.
+End skippable figure description.
+Question 5.
+Quantity A: The slope of line k
+Quantity B: 1
+Quantity A is greater.
+Quantity B is greater.
+The two quantities are equal.
+The relationship cannot be determined from the information given.
+From the answer choices given, select and indicate the one that describes the relationship between quantity A and quantity B.
+Question 6.
+One of the roots of the equation [IMG:media/image23.png] x squared + kx minus 6 = 0 is 3, and k is a constant.
+Quantity A: k
+Quantity B: [IMG:media/image24.png] negative 1
+Quantity A is greater.
+Quantity B is greater.
+The two quantities are equal.
+The relationship cannot be determined from the information given.
+From the answer choices given, select and indicate the one that describes the relationship between quantity A and quantity B.
+Question 7.
+The original price of a suit was 30 percent less than the suit’s $250 suggested retail price. The price at which the suit was sold was 20 percent less than the original price.
+Quantity A: The price at which the suit was sold
+Quantity B: 50% of the suit’s suggested retail price
+Quantity A is greater.
+Quantity B is greater.
+The two quantities are equal.
+The relationship cannot be determined from the information given.
+From the answer choices given, select and indicate the one that describes the relationship between quantity A and quantity B.
+Questions 8 through 20 have several different answer formats, including both selecting answers from a list of answer choices and numeric entry. With each question, answer format instructions will be given.
+Numeric Entry Questions
+These questions require a number to be entered by marking entries in a grid according to the following instructions.
+Your answer may be an integer, a decimal, or a fraction, and it may be negative.
+Equivalent forms of the correct answer, such as 2.5 and 2.50, are all correct. Fractions do not need to be reduced to lowest terms, though you may need to reduce your fraction to fit in the grid.
+Enter the exact answer unless the question asks you to round your answer.
+If a question asks for a fraction, the grid will have a builtin division slash. Otherwise, the grid will have a decimal point.
+The instructions for marking the entries will depend on whether a regular print or a large print test is being used to record your answers. If your answers are being entered into a regular print edition of the test, the following instructions apply:
+Start your answer in any column, space permitting. Fill in no more than one entry in any column of the grid. Columns not needed should be left blank.
+Write your answer in the boxes at the top of the grid and fill in the corresponding circles. You will receive credit only if your grid entries are clearly marked, regardless of the number written in the boxes at the top.
+If your answers are being entered into a large print edition of the test, instead of filling in circles on the grid in steps 5 and 6, you will be asked to circle those entries.
+Question 8.
+This question has five answer choices, labeled A through E. Select the best one of the answer choices given.
+If j and k are integers and [IMG:media/image25.png] j minus k is even, which of the following must be even?
+k
+jk
+j + 2k
+jk + j
+[IMG:media/image26.png] jk minus 2j
+Select and indicate the best one of the answer choices given.
+Question 9 is based on the following figure.
+[IMG:media/image27.jpeg]
+Begin skippable figure description.
+The figure accompanying this question consists of a small circle inscribed in a large circle. The two circles are tangent to each other at point B. Point A, which is the center of the larger circle, is on the smaller circle.
+End skippable figure description.
+Question 9.
+This question does not have any answer choices; it is a numeric entry question. To answer this question, enter a fraction in the answer space provided.
+The circles shown are tangent at point B. Point A is the center of the larger circle, and line segment AB (not shown) is a diameter of the smaller circle. The area of the smaller circle is what fraction of the area of the larger circle?
+To answer this question, enter a fraction in the answer space provided. The fraction can be positive or negative. Neither the numerator nor the denominator of the fraction can include a decimal point. The fraction does not have to be in lowest terms.
+Question 10.
+This question has five answer choices, labeled A through E. Select all the answer choices that apply.
+Last year Kate spent between [IMG:media/image13.png] one fourth and [IMG:media/image15.png] one third of her gross income on her mortgage payments. If Kate spent $13,470 on her mortgage payments last year, which of the following could have been her gross income last year?
+Indicate all such gross incomes.
+$40,200
+$43,350
+$47,256
+$51,996
+$53,808
+Select and indicate all the answer choices that apply. The correct answer to a question of this type could consist of as few as one, or as many as all five of the answer choices.
+Question 11.
+This question has five answer choices, labeled A through E. Select the best one of the answer choices given.
+If p is a negative number and [IMG:media/image28.png] 0 is less than s, which is less than the absolute value of p, which of the following must also be a negative number?
+[IMG:media/image29.png] open parenthesis, p + s, close parenthesis, squared
+	[IMG:media/image30.png] open parenthesis, p minus s, close parenthesis, squared
+[IMG:media/image31.png] open parenthesis, s minus p, close parenthesis, squared
+[IMG:media/image32.png] p squared minus s squared
+[IMG:media/image33.png] s squared minus p squared
+Select and indicate the best one of the answer choices given.
+Question 12.
+This question has five answer choices, labeled A through E. Select the best one of the answer choices given.
+If [IMG:media/image34.jpeg] the sum of the two fractions 1 over 2 raised to the power m, and 1 over 2 raised to the power m, equals the fraction 1 over 2 raised to the power x, then x expressed in terms of m is
+[IMG:media/image35.jpeg] the fraction m over 2
+ [IMG:media/image36.jpeg] m minus 1
+m + 1
+2m
+[IMG:media/image37.jpeg] m squared
+Select and indicate the best one of the answer choices given.
+Question 13 is based on the following figure.
+[IMG:media/image38.jpeg]
+Begin skippable figure description.
+The figure accompanying this question is the graph of a normal distribution as a bellshaped curve above a horizontal line. A vertical line segment connects the top of the curve to the horizontal line at a point labeled m. Four equally spaced points, two to the left of m and two to the right of m are such that the five points on the horizontal line from left to right are labeled: m minus 2d, m minus d, m, m plus d, and m plus 2d. Each of these points is connected to the curve by a vertical line segment, forming six regions between the curve and the horizontal line. The six regions are labeled from left to right: 2%, 14%, 34%, 34%, 14%, and 2%.
+End skippable figure description.
+The figure shows a normal distribution with mean m and standard deviation d, including approximate percents of the distribution in each of the six regions shown.
+Question 13.
+This question has five answer choices, labeled A through E. Select the best one of the answer choices given.
+For a population of 800,000 subway riders, the numbers of subway trips taken per rider last January are approximately normally distributed with a mean of 56 trips and a standard deviation of 13 trips. Approximately how many of the riders took between 30 and 43 trips last January?
+60,000
+110,000
+160,000
+210,000
+270,000
+Select and indicate the best one of the answer choices given.
+Questions 14 through 16 are based on the following data.
+[IMG:media/image39.jpg]
+Begin skippable data description.
+The data is given in two tables. The title of the data is “Student Enrollment at a Small College.”
+The title of the first table is “Distribution of Enrollment by Class and Residency; Total Enrollment: 1,400.” This table has three columns. Column 1 is labeled “Class,” column 2 is labeled “Residents,” and column 3 is labeled “Nonresidents.” Four classes are listed in the table: Freshmen, Sophomores, Juniors, and Seniors. The rows in the table are as follows:
+Freshmen: the number of residents is 303, and the number of nonresidents is 259.
+Sophomores: the number of residents is 215, and the number of nonresidents is 109.
+Juniors: the number of residents is 182, and the number of nonresidents is 88.
+Seniors: the number of residents is 160, and the number of nonresidents is 84.
+The total number of residents is 860, and the total number of nonresidents is 540.
+The title of the second table is “Percent of Total Enrollment Majoring in Selected Academic Areas,” and under the table is the note “No student is majoring in more than one area.” This table has two columns. The first column is labeled “Area” and the second column is labeled “Percent.” Three academic areas are listed in the table: Humanities, Social Sciences, and Physical Sciences. The rows in the table are as follows:
+Humanities: 33%.
+Social Sciences: 30%.
+Physical Sciences: 24%.
+End skippable data description.
+Question 14.
+This question has five answer choices, labeled A through E. Select the best one of the answer choices given.
+Students not majoring in humanities constitute what percent of the total enrollment?
+54%
+67%
+70%
+76%
+77%
+Select and indicate the best one of the answer choices given.
+Question 15.
+This question has five answer choices, labeled A through E. Select the best one of the answer choices given.
+Approximately what percent of the nonresidents are juniors?
+16%
+18%
+20%
+21%
+25%
+Select and indicate the best one of the answer choices given.
+Question 16.
+This question has five answer choices, labeled A through E. Select the best one of the answer choices given.
+If 40 percent of the social science majors are nonresidents, how many residents are social science majors?
+120
+168
+220
+252
+372
+Select and indicate the best one of the answer choices given.
+Question 17.
+This question has five answer choices, labeled A through E. Select the best one of the answer choices given.
+The quantities S and T are positive and are related by the equation [IMG:media/image40.png] S equals the fraction k over T, where k is a constant. If the value of S increases by 50 percent, then the value of T decreases by what percent?
+25%
+[IMG:media/image41.png] 33 and one third percent
+50%
+[IMG:media/image42.png] 66 and two thirds percent
+75%
+Select and indicate the best one of the answer choices given.
+Question 18.
+This question has five answer choices, labeled A through E. Select the best one of the answer choices given.
+If x and y are the tens digit and the units digit, respectively, of the product [IMG:media/image43.png] 725,278 times 67,066, what is the value of x + y ?
+ 12
+ 10
+ 8
+ 6
+ 4
+Select and indicate the best one of the answer choices given.
+Question 19.
+This question has five answer choices, labeled A through E. Select the best one of the answer choices given.
+A developer has land that has x feet of lake frontage. The land is to be subdivided into lots, each of which is to have either 80 feet or 100 feet of lake frontage. If [IMG:media/image44.png] one ninth of the lots are to have 80 feet of frontage each and the remaining 40 lots are to have 100 feet of frontage each, what is the value of x ?
+ 400
+ 3,200
+ 3,700
+ 4,400
+ 4,760
+Select and indicate the best one of the answer choices given.
+Question 20 is based on the following figure.
+[IMG:media/image45.jpeg]
+Begin skippable figure description.
+The figure accompanying this question shows vertical line segment PQ and a circle in the first quadrant of the x yplane. The circle lies to the right of vertical line segment PQ. It appears that if vertical line segment PQ were “slid” directly to the right it would become a diameter of the circle. On vertical line segment PQ, endpoint P has coordinates 1 comma 1, and endpoint Q has coordinates 1 comma 3.
+End skippable figure description.
+Question 20.
+This question has eight answer choices, labeled A through H. Select all the answer choices that apply.
+The figure shows line segment PQ and a circle with radius 1 and center [IMG:media/image46.png] 5 comma 2 in the x yplane. Which of the following values could be the distance between a point on line segment PQ and a point on the circle?
+Indicate all such values.
+2.5
+3.0
+3.5
+4.0
+4.5
+5.0
+5.5
+6.0
+Select and indicate all the answer choices that apply. The correct answer to a question of this type could consist of as few as one, or as many as all eight of the answer choices.
+This is the end of Section 5 of The Graduate Record Examinations^{®} Practice General Test #1. In an actual test, once you complete a section you may not return to it.
+This is the end of The Graduate Record Examinations^{®} Practice General Test #1.

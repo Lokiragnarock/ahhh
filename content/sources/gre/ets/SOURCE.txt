@@ -1,0 +1,20 @@
+Official ETS GRE material, free downloads, fetched 2026-11-01. Private use only.
+
+Files
+- gre-screen-reader-practice-test-1-quant.docx, gre-screen-reader-practice-test-1-answer-key.docx
+  https://www.ets.org/content/dam/ets-org/pdfs/gre/  (listed on
+  https://www.ets.org/gre/test-takers/general-test/prepare/test-prep-accessible-formats.html)
+  Practice Test 1: Quant section 4 (15 questions) and section 5 (20 questions).
+- gre-screen-reader-practice-test-3-quant.docx, gre-screen-reader-practice-test-3-answer-key.docx
+  Practice Test 3: same test as the paper-delivered Practice Book. Sections 4 (15) and 5 (20).
+- gre-sample-questions.pdf  https://www.ets.org/pdfs/gre/gre-sample-questions.pdf
+  About 20 Quant sample questions with explanations.
+- text/*.txt  plain-text dumps of the .docx files made with scripts/docx2txt.py.
+  [IMG:media/imageN] marks an image in the .docx. Large images are figures;
+  tiny ones are maths expressions, also given in words next to them.
+
+Also free, not stored here
+- GRE Math Review (exercises with answers): https://www.ets.org/pdfs/gre/gre-math-review.pdf
+- Practice Book for the Paper-delivered GRE (same test as Practice Test 3, with % correct):
+  https://www.ets.org/content/dam/ets-india/pdfs/gre/paper-delivered-test-practice-book.pdf
+- POWERPREP: 2 free full adaptive tests, only on ets.org.
