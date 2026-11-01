@@ -3,7 +3,7 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 import { dayKey, fmtDate, pct, useAllOf } from "@/lib/practice-store";
 import type { Attempt, BlockLog, ErrorEntry } from "@/lib/practice-types";
-import { trackOfSubject } from "@/lib/tracks";
+import { DEFAULT_TRACK, TRACK_SLUGS, TRACKS, trackOfSubject, type TrackSlug } from "@/lib/tracks";
 import { subjectLabel, type SubjectInfo } from "@/lib/subject/shared";
 import {
   buildFeed,
@@ -56,17 +56,22 @@ function useTopicEvents(): TopicEvent[] {
   return events;
 }
 
-type Filter = "all" | "gmat" | "notes";
+// One chip per exam track (GMAT, GRE, ...) between All and Notes. Notes = the
+// default AHH track's subjects (the university-subject notes prep).
+type Filter = "all" | "notes" | TrackSlug;
 const FILTERS: { id: Filter; label: string }[] = [
   { id: "all", label: "All" },
-  { id: "gmat", label: "GMAT" },
+  ...TRACK_SLUGS.filter((t) => t !== DEFAULT_TRACK).map((t) => ({
+    id: t,
+    label: TRACKS[t].label,
+  })),
   { id: "notes", label: "Notes" },
 ];
 const FILTER_KEY = "timeline.filter.v1";
 
-// Notes = the AHH track's subjects (the university-subject notes prep).
 function inFilter(subject: string, f: Filter): boolean {
-  return f === "all" || (f === "gmat" ? trackOfSubject(subject) === "gmat" : trackOfSubject(subject) === "ahh");
+  if (f === "all") return true;
+  return trackOfSubject(subject) === (f === "notes" ? DEFAULT_TRACK : f);
 }
 
 export function Timeline({ subjects }: { subjects: SubjectInfo[] }) {
@@ -79,7 +84,7 @@ export function Timeline({ subjects }: { subjects: SubjectInfo[] }) {
   useEffect(() => {
     try {
       const v = window.localStorage.getItem(FILTER_KEY);
-      if (v === "all" || v === "gmat" || v === "notes") setFilter(v);
+      if (FILTERS.some((x) => x.id === v)) setFilter(v as Filter);
     } catch {
       // storage unavailable: stay on All
     }
@@ -100,7 +105,7 @@ export function Timeline({ subjects }: { subjects: SubjectInfo[] }) {
   const attempts = useMemo(() => allAttempts.filter((a) => inFilter(a.subject, filter)), [allAttempts, filter]);
   const errors = useMemo(() => allErrors.filter((e) => inFilter(e.subject, filter)), [allErrors, filter]);
   // Topic events have no subject; they are notes activity.
-  const events = useMemo(() => (filter === "gmat" ? [] : topicEvents), [topicEvents, filter]);
+  const events = useMemo(() => (filter === "all" || filter === "notes" ? topicEvents : []), [topicEvents, filter]);
 
   const timeline = useMemo(() => buildTimeline(blocks, attempts), [blocks, attempts]);
   const feed = useMemo(

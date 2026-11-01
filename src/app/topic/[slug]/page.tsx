@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getAllTopics, getTopic } from "@/lib/vault";
+import { inNode } from "@/lib/question-types";
 import { getQuestions } from "@/lib/questions";
 import { TopNav } from "@/components/TopNav";
 import { LastMiniScore, TopicErrors } from "@/components/practice/TopicPractice";
@@ -22,7 +23,7 @@ export default async function TopicPage({ params }: { params: { slug: string } }
     getTopicFlow(slug),
   ]);
   if (!topic) notFound();
-  const questionCount = questions.filter((q) => q.node === topic.id).length;
+  const questionCount = questions.filter((q) => inNode(q, topic.id)).length;
 
   const depTopics = topic.deps
     .map((depId) => allTopics.find((t) => t.id === depId))

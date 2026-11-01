@@ -7,6 +7,7 @@ import { currentSubject } from "@/lib/subject/server";
 import { currentPlayer } from "@/lib/gmat/current";
 import { TrackProvider } from "@/lib/tracks-context";
 import { currentTrack } from "@/lib/tracks-server";
+import { TRACKS } from "@/lib/tracks";
 
 const inter = Inter({
   subsets: ["latin"],
@@ -31,8 +32,9 @@ export default async function RootLayout({
 }>) {
   const subject = currentSubject();
   const track = currentTrack();
-  // One query, GMAT only: the nav needs the role to show owner-only links.
-  const me = track === "gmat" ? await currentPlayer() : null;
+  // One query, heavy tracks (GMAT) only: the nav needs the role to show
+  // owner-only links.
+  const me = TRACKS[track].heavy ? await currentPlayer() : null;
   const role = me?.state === "ok" ? me.player.role : null;
   return (
     <html lang="en" className={`${inter.variable} ${hanken.variable} ${jbmono.variable}`}>

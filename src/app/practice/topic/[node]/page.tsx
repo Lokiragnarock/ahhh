@@ -1,6 +1,7 @@
 import { TopNav } from "@/components/TopNav";
 import { TestRunner } from "@/components/practice/TestRunner";
 import { getQuestions } from "@/lib/questions";
+import { inNode } from "@/lib/question-types";
 import { getNodeFlow } from "@/lib/flow";
 import { FlowBar } from "@/components/study/FlowBar";
 
@@ -16,7 +17,7 @@ export default async function MiniTestPage({
 }) {
   const node = decodeURIComponent(params.node);
   const [all, flow] = await Promise.all([getQuestions(), getNodeFlow(node)]);
-  const pool = all.filter((q) => q.node === node);
+  const pool = all.filter((q) => inNode(q, node));
   const n = Number(searchParams.n);
   const limit = Number.isInteger(n) && n >= 5 && n <= 10 ? n : undefined;
   return (

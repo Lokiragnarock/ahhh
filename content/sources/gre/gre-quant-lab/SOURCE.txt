@@ -1,0 +1,12 @@
+Source:   https://github.com/pekalkan/gre-quant-lab
+Commit:   9bdc26e93094869de8e794ead278558be312c022 (committed 2026-10-07)
+Fetched:  2026-10-31
+Files:    data/ (52 JSON files, 740 questions), index.html, README.md, copied unchanged.
+Licence:  no licence stated in the repository. Private use only (AHH is a private app).
+          Do not redistribute.
+Note:     the upstream README says the questions and solutions were written for that
+          project. They are not official ETS material.
+
+Converted into content/tests/gre-quant/ by scripts/gre-import.mjs. Explanations
+(expl, short) were translated from Turkish into English; question text, options
+and answers are copied as they are.

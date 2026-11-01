@@ -1,4 +1,5 @@
 import { getQuestions } from "./questions";
+import { inNode } from "./question-types";
 import { getOrderedTopics } from "./vault";
 
 export interface FlowTopic {
@@ -51,7 +52,7 @@ export async function getTopicFlow(slug: string): Promise<TopicFlow | null> {
   const prev = topics[i - 1];
   const after = topics[i + 1];
   const next = after && after.unit === topic.unit ? after : undefined;
-  const questionCount = questions.filter((q) => q.node === topic.id).length;
+  const questionCount = questions.filter((q) => inNode(q, topic.id)).length;
   const unitHasQuestions = questions.some((q) => q.unit === topic.unit);
 
   let afterMini: Step;

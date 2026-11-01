@@ -3,7 +3,7 @@ import path from "node:path";
 import { marked } from "marked";
 import { getAllTopics } from "./vault";
 import { currentSubject } from "./subject/server";
-import { trackOfSubject } from "./tracks";
+import { isHeavySubject } from "./tracks";
 import { getGmatQuestions } from "./gmat/questions";
 import { Question, QuestionType, RenderedQuestion, TYPE_ORDER } from "./question-types";
 
@@ -42,21 +42,25 @@ function render(q: Question): RenderedQuestion {
     typeof q.marks === "number"
       ? q.marks
       : q.marking_scheme?.reduce((s, p) => s + p.marks, 0) ?? 1;
+  // Imported banks (GRE) ship HTML; passing it through markdown would mangle
+  // stray * and _ in maths.
+  const block = q.html ? (src: string) => src : md;
+  const span = q.html ? (src: string) => src : inline;
   return {
     ...q,
     marks,
     difficulty: q.difficulty ?? "medium",
-    questionHtml: md(q.question),
-    optionsHtml: q.options?.map((o) => inline(o)),
-    explanationHtml: q.explanation ? md(q.explanation) : undefined,
+    questionHtml: block(q.question),
+    optionsHtml: q.options?.map((o) => span(o)),
+    explanationHtml: q.explanation ? block(q.explanation) : undefined,
     modelAnswerHtml: q.model_answer ? md(q.model_answer) : undefined,
     schemeHtml: q.marking_scheme?.map((p) => inline(p.point)),
   };
 }
 
 export async function getQuestions(subject: string = currentSubject()): Promise<RenderedQuestion[]> {
-  // GMAT subjects live in Neon, not content/tests.
-  if (trackOfSubject(subject) === "gmat") return (await getGmatQuestions(subject)).map(render);
+  // Heavy-track subjects (GMAT) live in Neon, not content/tests.
+  if (isHeavySubject(subject)) return (await getGmatQuestions(subject)).map(render);
   const dir = questionsDir(subject);
   let files: string[];
   try {
@@ -118,18 +122,30 @@ export async function getPracticeIndex(
     nodes.set(t.id, { id: t.id, unit: t.unit, title: t.title.replace(new RegExp(`^(${t.id}|${t.unit})\\s*[—–:-]\\s*`), ""), slug: t.slug, qCount: 0 });
   }
   for (const q of questions) {
-    const n = nodes.get(q.node) ?? { id: q.node, unit: q.unit, title: q.node, qCount: 0 };
+    const n = nodes.get(q.node) ?? { id: q.node, unit: q.unit, title: q.nodeTitle ?? q.node, qCount: 0 };
     n.unit = q.unit;
     n.qCount += 1;
     nodes.set(q.node, n);
+    // A question can also count towards a cross-cutting node (GRE Q-10, the
+    // QC method node, takes every QC question).
+    for (const extra of q.alsoNodes ?? []) {
+      const x = nodes.get(extra.id) ?? { id: extra.id, unit: q.unit, title: extra.title ?? extra.id, qCount: 0 };
+      x.qCount += 1;
+      nodes.set(extra.id, x);
+    }
   }
   const units = new Map<string, UnitIndex>();
   nodes.forEach((n) => {
     const u = units.get(n.unit) ?? { unit: n.unit, qCount: 0, nodes: [] };
     u.nodes.push(n);
-    u.qCount += n.qCount;
     units.set(n.unit, u);
   });
+  // Count each question once per unit, even when it also sits in a
+  // cross-cutting node.
+  for (const q of questions) {
+    const u = units.get(q.unit);
+    if (u) u.qCount += 1;
+  }
   const list = Array.from(units.values()).sort((a, b) => unitSort(a.unit, b.unit));
   for (const u of list) u.nodes.sort((a, b) => a.id.localeCompare(b.id, undefined, { numeric: true }));
   return { questions, units: list };

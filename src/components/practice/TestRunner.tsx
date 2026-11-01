@@ -3,7 +3,17 @@
 import Link from "next/link";
 import { useCallback, useEffect, useMemo, useState } from "react";
 import { buildMini, buildMock, buildSectional, buildSingle, Paper, PaperSection, TestKind } from "@/lib/paper";
-import { optionLetter, RenderedQuestion, snippet, TYPE_LABEL } from "@/lib/question-types";
+import {
+  FORMAT_LABEL,
+  hasAnswer,
+  isCorrect,
+  optionLetter,
+  plainText,
+  questionSource,
+  RenderedQuestion,
+  snippet,
+  TYPE_LABEL,
+} from "@/lib/question-types";
 import type { AnswerState, Attempt, ErrorEntry, QuestionResult, SessionState } from "@/lib/practice-types";
 import {
   applyReview,
@@ -20,7 +30,7 @@ import {
 import { EMPTY_FIELDS, ErrorFieldValues, ErrorFields } from "./ErrorFields";
 import { currentDevice } from "@/lib/sync/client";
 import { useSubject } from "@/lib/subject/context";
-import { trackOfSubject } from "@/lib/tracks";
+import { isHeavySubject } from "@/lib/tracks";
 import { recordGmatAttempt } from "@/lib/gmat/client";
 import { MarkRoundPrompt } from "./Rounds";
 import type { Step } from "@/lib/flow";
@@ -56,7 +66,7 @@ function writtenScore(q: RenderedQuestion, a: AnswerState | undefined): number {
 
 function questionScore(q: RenderedQuestion, a: AnswerState | undefined): number | null {
   if (a?.skipped) return null;
-  if (q.type === "mcq") return a?.choice && a.choice === (q.answer ?? "").toUpperCase() ? q.marks : 0;
+  if (q.type === "mcq") return isCorrect(q, a) ? q.marks : 0;
   return writtenScore(q, a);
 }
 
@@ -108,8 +118,8 @@ export function scorePaper(paper: Paper, answers: Record<string, AnswerState>, q
 }
 
 export function TestRunner(props: Props) {
-  const gmat = trackOfSubject(useSubject()) === "gmat";
-  if (gmat && props.kind !== "resolve") return <GmatRunner {...props} />;
+  const heavy = isHeavySubject(useSubject());
+  if (heavy && props.kind !== "resolve") return <GmatRunner {...props} />;
   return <ScrollRunner {...props} />;
 }
 
@@ -200,7 +210,7 @@ function ScrollRunner({ pool, kind, scope, resolveEntryId, next, limit }: Props)
         device: currentDevice(),
       };
       updateStored<Attempt[]>(keys.attempts, [], (prev) => [...prev, attempt!]);
-      if (trackOfSubject(subject) === "gmat") recordGmatAttempt(results, answers, attempt.durationSec);
+      if (isHeavySubject(subject)) recordGmatAttempt(results, answers, attempt.durationSec);
     }
     clearSession();
     setDone({ attempt });
@@ -374,14 +384,26 @@ export function QuestionBlock({
 }) {
   const reviewing = phase !== "answer";
   const correct = (q.answer ?? "").toUpperCase();
+  const format = q.format ?? "single";
+  // Letters that are right: one for single and QC, several for multi.
+  const rightLetters = new Set(correct.split(",").map((x) => x.trim()));
+  const picked = new Set((a?.choice ?? "").split(",").filter(Boolean));
   const score = questionScore(q, a);
   const locked = phase === "done";
+
+  function pick(letter: string) {
+    if (format !== "multi") return onChange({ choice: a?.choice === letter ? undefined : letter });
+    const next = new Set(picked);
+    if (next.has(letter)) next.delete(letter);
+    else next.add(letter);
+    onChange({ choice: next.size ? Array.from(next).sort().join(",") : undefined });
+  }
 
   return (
     <div className={`sp-q ${a?.skipped ? "opacity-50" : ""}`}>
       <div className="flex flex-wrap items-center gap-2 mb-3">
         <span className="text-[13px] font-bold text-[color:var(--sp-ink)] mr-1">Q{n}</span>
-        <span className="sp-chip">{TYPE_LABEL[q.type]}</span>
+        <span className="sp-chip">{q.format ? FORMAT_LABEL[q.format] : TYPE_LABEL[q.type]}</span>
         <span className="sp-chip">{q.marks} {q.marks === 1 ? "mark" : "marks"}</span>
         <span className="sp-chip">{q.difficulty}</span>
         <span className="sp-chip">{q.node}</span>
@@ -397,11 +419,14 @@ export function QuestionBlock({
 
       {q.type === "mcq" ? (
         <div>
+          {format === "multi" && !reviewing && (
+            <p className="text-[12.5px] text-[color:var(--sp-muted)] mb-2">Select every correct option.</p>
+          )}
           {(q.options ?? []).map((opt, i) => {
             const letter = optionLetter(opt);
-            const chosen = a?.choice === letter;
+            const chosen = picked.has(letter);
             let cls = "sp-option";
-            if (reviewing && letter === correct) cls += " sp-option-correct";
+            if (reviewing && rightLetters.has(letter)) cls += " sp-option-correct";
             else if (reviewing && chosen) cls += " sp-option-wrong";
             else if (chosen) cls += " sp-option-chosen";
             return (
@@ -411,13 +436,23 @@ export function QuestionBlock({
                 className={cls}
                 aria-pressed={chosen}
                 disabled={reviewing}
-                onClick={() => onChange({ choice: chosen ? undefined : letter })}
+                onClick={() => pick(letter)}
               >
                 <span dangerouslySetInnerHTML={{ __html: q.optionsHtml?.[i] ?? opt }} />
               </button>
             );
           })}
-          {reviewing && !a?.choice && <p className="text-[12.5px] text-[#e03e3e] mt-1">Not answered.</p>}
+          {(format === "numeric" || format === "fraction") && (
+            <EntryBox q={q} a={a} reviewing={reviewing} onChange={onChange} />
+          )}
+          {reviewing && !hasAnswer(q, a) && <p className="text-[12.5px] text-[#e03e3e] mt-1">Not answered.</p>}
+          {reviewing && format === "multi" && hasAnswer(q, a) && (
+            <p className="text-[13px] mt-1">
+              <span className="sp-label">Your answer </span>
+              <strong>{a?.choice}</strong>
+              <span className="text-[color:var(--sp-muted)]"> · correct {correct}</span>
+            </p>
+          )}
           {reviewing && q.explanationHtml && (
             <div className="sp-reveal-box">
               <div className="sp-label">Explanation</div>
@@ -460,6 +495,74 @@ export function QuestionBlock({
             </>
           )}
         </div>
+      )}
+    </div>
+  );
+}
+
+// Numeric entry (one box) or fraction entry (numerator over denominator).
+// The answer is kept as text: "36", or "7/9" for a fraction.
+function EntryBox({
+  q,
+  a,
+  reviewing,
+  onChange,
+}: {
+  q: RenderedQuestion;
+  a: AnswerState | undefined;
+  reviewing: boolean;
+  onChange: (patch: Partial<AnswerState>) => void;
+}) {
+  const text = a?.text ?? "";
+  const right = isCorrect(q, a);
+  const tone = reviewing ? (right ? "!border-[#2e7d32]" : "!border-[#e03e3e]") : "";
+  const [num, den] = text.includes("/") ? text.split("/", 2) : [text, ""];
+  return (
+    <div className="mt-2">
+      {q.format === "fraction" ? (
+        <div className="inline-flex flex-col items-center gap-1">
+          <input
+            className={`sp-input w-28 text-center tabular-nums ${tone}`}
+            inputMode="numeric"
+            aria-label="Numerator"
+            value={num}
+            readOnly={reviewing}
+            onChange={(e) => onChange({ text: e.target.value || den ? `${e.target.value}/${den}` : "" })}
+          />
+          <div className="w-32 border-t-2 border-[color:var(--sp-ink)]" />
+          <input
+            className={`sp-input w-28 text-center tabular-nums ${tone}`}
+            inputMode="numeric"
+            aria-label="Denominator"
+            value={den}
+            readOnly={reviewing}
+            onChange={(e) => onChange({ text: num || e.target.value ? `${num}/${e.target.value}` : "" })}
+          />
+        </div>
+      ) : (
+        <div className="flex items-center gap-2">
+          <input
+            className={`sp-input w-40 tabular-nums ${tone}`}
+            inputMode="decimal"
+            aria-label="Answer"
+            value={text}
+            readOnly={reviewing}
+            onChange={(e) => onChange({ text: e.target.value || undefined })}
+          />
+          {q.unitAfter && <span className="text-[15px]">{q.unitAfter}</span>}
+        </div>
+      )}
+      {reviewing && (
+        <p className="text-[13px] mt-2">
+          <span className="sp-label">Correct answer </span>
+          <strong className="tabular-nums">
+            {q.answer}
+            {q.unitAfter ?? ""}
+          </strong>
+          <span className="text-[color:var(--sp-muted)]">
+            {q.format === "fraction" ? " · any equal fraction counts" : " · equal forms count"}
+          </span>
+        </p>
       )}
     </div>
   );
@@ -626,11 +729,17 @@ function MissList({
   function entryFor(r: QuestionResult, f: ErrorFieldValues): ErrorEntry {
     const q = qmap.get(r.questionId);
     const a = answers[r.questionId];
+    const typed = q?.format === "numeric" || q?.format === "fraction";
+    const given = typed ? a?.text?.trim() : a?.choice;
     const defaultWhat =
-      q?.type === "mcq" ? (a?.choice ? `Chose ${a.choice}; correct was ${q.answer}.` : "Left unanswered.") : "";
+      q?.type === "mcq"
+        ? given
+          ? `${typed ? "Entered" : "Chose"} ${given}; correct was ${q.answer}${q.unitAfter ?? ""}.`
+          : "Left unanswered."
+        : "";
     return makeError({
       questionId: r.questionId,
-      questionText: q ? snippet(q.question) : undefined,
+      questionText: q ? snippet(questionSource(q)) : undefined,
       node: r.node,
       unit: r.unit,
       source,
@@ -638,7 +747,7 @@ function MissList({
       errorType: f.errorType,
       what: f.what || defaultWhat,
       why: f.why,
-      correct: f.correct || (q?.type === "mcq" && q.explanation ? q.explanation : ""),
+      correct: f.correct || (q?.type === "mcq" && q.explanation ? (q.html ? plainText(q.explanation) : q.explanation) : ""),
       avoid: f.avoid,
     });
   }
@@ -663,7 +772,7 @@ function MissList({
   // GMAT logs its misses on its own, so the block's error-log phase opens on
   // them without a click. Questions already open in the error book are left
   // alone. AHH keeps the manual buttons.
-  const autoLog = trackOfSubject(useSubject()) === "gmat";
+  const autoLog = isHeavySubject(useSubject());
   const [autoLogged, setAutoLogged] = useState(false);
   useEffect(() => {
     if (!autoLog || autoLogged) return;
@@ -700,7 +809,7 @@ function MissList({
                   <div className="text-[13px] font-semibold text-[color:var(--sp-ink)]">
                     {r.questionId} <span className="text-[color:var(--sp-muted)] font-normal">· {TYPE_LABEL[r.type]}</span>
                   </div>
-                  <div className="text-[13px] text-[#555] line-clamp-2">{q ? snippet(q.question, 160) : ""}</div>
+                  <div className="text-[13px] text-[#555] line-clamp-2">{q ? snippet(questionSource(q), 160) : ""}</div>
                 </div>
                 <span className="tabular-nums text-[13px] font-semibold shrink-0">
                   {r.score}/{r.marks}

@@ -2,23 +2,27 @@
 
 import { useState } from "react";
 import { useTrack } from "@/lib/tracks-context";
-import type { TrackSlug } from "@/lib/tracks";
+import { TRACK_SLUGS, TRACKS, type TrackSlug } from "@/lib/tracks";
 
-// Header button that flips between the AHH and GMAT tracks. Labelled with the
-// track you would switch to.
+// Header buttons that switch track: one per track you are not on, each
+// labelled with the track it switches to. With two tracks this is the old
+// single AHH/GMAT flip.
 export function TrackToggle() {
   const track = useTrack();
   const [busy, setBusy] = useState(false);
   const [asking, setAsking] = useState(false);
   const [name, setName] = useState("");
-  const target: TrackSlug = track === "ahh" ? "gmat" : "ahh";
+  const [target, setTarget] = useState<TrackSlug | null>(null);
+  const targets = TRACK_SLUGS.filter((t) => t !== track);
 
-  async function flip() {
+  async function flip(to: TrackSlug) {
     if (busy) return;
     setBusy(true);
+    setTarget(to);
     try {
-      // First time on GMAT from this device: ask for a name before switching.
-      if (target === "gmat") {
+      // First time on a heavy track (GMAT) from this device: ask for a name
+      // before switching.
+      if (TRACKS[to].heavy) {
         const me = await fetch("/api/gmat/me")
           .then((r) => r.json() as Promise<{ player: unknown }>)
           .catch(() => ({ player: {} }));
@@ -27,7 +31,7 @@ export function TrackToggle() {
           return;
         }
       }
-      await switchTrack();
+      await switchTrack(to);
     } finally {
       setBusy(false);
     }
@@ -35,7 +39,7 @@ export function TrackToggle() {
 
   async function onboard() {
     const n = name.trim();
-    if (busy || !n) return;
+    if (busy || !n || !target) return;
     setBusy(true);
     try {
       // A failure here (no storage configured) still lets the switch happen;
@@ -45,17 +49,17 @@ export function TrackToggle() {
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ name: n }),
       }).catch(() => {});
-      await switchTrack();
+      await switchTrack(target);
     } finally {
       setBusy(false);
     }
   }
 
-  async function switchTrack() {
+  async function switchTrack(to: TrackSlug) {
     const res = await fetch("/api/track", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ track: target }),
+      body: JSON.stringify({ track: to }),
     });
     if (!res.ok) return;
     const { home } = (await res.json()) as { home: string };
@@ -93,16 +97,23 @@ export function TrackToggle() {
   }
 
   return (
-    <button
-      type="button"
-      onClick={flip}
-      disabled={busy}
-      title={`Switch to ${target.toUpperCase()}`}
-      className={`gradient-button ${
-        track === "gmat" ? "gradient-button-variant" : ""
-      } rounded-[7px] shrink-0 px-3 py-1 text-white text-[11px] font-semibold uppercase tracking-[0.09em] ${busy ? "opacity-60" : ""}`}
-    >
-      {target.toUpperCase()}
-    </button>
+    <div className="shrink-0 flex items-center gap-1">
+      {targets.map((t) => (
+        <button
+          key={t}
+          type="button"
+          onClick={() => flip(t)}
+          disabled={busy}
+          title={`Switch to ${TRACKS[t].label}`}
+          className={`gradient-button ${
+            t === "ahh" ? "gradient-button-variant" : ""
+          } rounded-[7px] shrink-0 px-3 py-1 text-white text-[11px] font-semibold uppercase tracking-[0.09em] ${
+            busy && target === t ? "opacity-60" : ""
+          }`}
+        >
+          {TRACKS[t].label}
+        </button>
+      ))}
+    </div>
   );
 }

@@ -1,0 +1,3644 @@
+[
+ {
+  "id": "GRE-k002-main-h-6",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "hard",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"given\"><i>n</i> is a positive integer, and the units digit of <i>n</i><sup>3</sup> is 7.</div><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div>The units digit of <i>n</i></div><div>3</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "C",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> Units digits of the cubes of 0–9: 0, 1, 8, 7, 4, 5, 6, 3, 2, 9. All different; 7 comes only from 3 (27). Equal.<br><i>Source mistake: Practice test 7, a square ending in 6 has two candidates (4 and 6)</i></p><p><strong>Shortcut.</strong> For squares a units digit can come from two candidates; for cubes each digit comes from exactly one. In a 'reverse' question, list every candidate.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/k002/main.json h-6 (Birler basamağı (küp, ters))"
+ },
+ {
+  "id": "GRE-k002-main-h-12",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "hard",
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">What is the greatest integer <i>k</i> such that 6<sup><i>k</i></sup> is a factor of 40!?</div></div>",
+  "options": [
+   "A) 13",
+   "B) 17",
+   "C) 18",
+   "D) 19",
+   "E) 38"
+  ],
+  "answer": "C",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> 6 = 2 · 3; the scarcer factor decides. 3s: ⌊40/3⌋ + ⌊40/9⌋ + ⌊40/27⌋ = 13 + 4 + 1 = 18. 2s: 20 + 10 + 5 + 2 + 1 = 38. k = 18.<br><i>Source mistake: Practice test 3, forgetting the extra 3 from 27</i></p><p><strong>Shortcut.</strong> 13 is ⌊40/3⌋ alone; 17 forgets 27; 38 is the number of 2s.</p></div>",
+  "source": "gre-quant-lab@9bdc26e data/k002/main.json h-12 (Faktöriyelde bileşik sayının kuvveti)"
+ },
+ {
+  "id": "GRE-k002-main-h-13",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "hard",
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">What is the remainder when 5<sup>40</sup> is divided by 7?</div></div>",
+  "options": [
+   "A) 1",
+   "B) 2",
+   "C) 3",
+   "D) 4",
+   "E) 6"
+  ],
+  "answer": "B",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> Powers of 5 mod 7: 5, 4, 6, 2, 3, 1 (cycle of 6). 40 = 6 · 6 + 4 → the 4th term of the cycle: 2.<br><i>Source mistake: Practice test 4, remainder cycle</i></p><p><strong>Shortcut.</strong> Multiply the remainder by the base and divide again: 5 → 25 ≡ 4 → 20 ≡ 6 → 30 ≡ 2. Or 5³ ≡ 6 ≡ −1 → 5⁴⁰ = (5³)¹³ · 5 ≡ −5 ≡ 2.</p></div>",
+  "source": "gre-quant-lab@9bdc26e data/k002/main.json h-13 (Kalan döngüsü)"
+ },
+ {
+  "id": "GRE-k002-main-h-16",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "hard",
+  "html": true,
+  "format": "multi",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">If <i>p</i> and <i>q</i> are prime numbers and <i>p</i> + <i>q</i> = 36, which of the following could be the value of <i>pq</i>?<br><span class='hint'>Indicate <u>all</u> such values.</span></div></div>",
+  "options": [
+   "A) 155",
+   "B) 203",
+   "C) 260",
+   "D) 299",
+   "E) 323",
+   "F) 324"
+  ],
+  "answer": "A,B,D,E",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> The sum is even → both are odd primes. In order: 3 + 33 ✗, 5 + 31 ✓ (155), 7 + 29 ✓ (203), 11 + 25 ✗, 13 + 23 ✓ (299), 17 + 19 ✓ (323). 260 = 13 · 20 (20 is not prime), 324 = 18 · 18.<br><i>Source mistake: Practice test 5, missing a pair (7 + 23)</i></p><p><strong>Shortcut.</strong> Start from the smallest odd prime and go in order; stop after the middle (18).</p></div>",
+  "source": "gre-quant-lab@9bdc26e data/k002/main.json h-16 (Asal çiftler)"
+ },
+ {
+  "id": "GRE-k002-main-h-17",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "hard",
+  "html": true,
+  "format": "multi",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">Which of the following fractions are equal to terminating decimals?<br><span class='hint'>Indicate <u>all</u> such fractions.</span></div></div>",
+  "options": [
+   "A) <span class='frac'><span>7</span><span>28</span></span>",
+   "B) <span class='frac'><span>9</span><span>48</span></span>",
+   "C) <span class='frac'><span>11</span><span>60</span></span>",
+   "D) <span class='frac'><span>33</span><span>55</span></span>",
+   "E) <span class='frac'><span>5</span><span>24</span></span>",
+   "F) <span class='frac'><span>17</span><span>128</span></span>"
+  ],
+  "answer": "A,B,D,F",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> Simplify first, then look at the denominator (it must have only 2s and 5s). 7/28 = 1/4 ✓; 9/48 = 3/16 ✓; 11/60 → 60 = 2²·3·5 ✗; 33/55 = 3/5 ✓; 5/24 → has a 3 ✗; 17/128 = 17/2⁷ ✓ (0.1328125).<br><i>Source mistake: Practice test 6, thinking 13/64 recurs</i></p><p><strong>Shortcut.</strong> A 3 in the denominator is fine if it cancels (9/48); a large power of 2 (128) gives a long but terminating decimal.</p></div>",
+  "source": "gre-quant-lab@9bdc26e data/k002/main.json h-17 (Sonlu ondalık açılım)"
+ },
+ {
+  "id": "GRE-k003-main-h-2",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "hard",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"given\"><i>S</i> is the set of integers <i>n</i> such that 1 ≤ <i>n</i> ≤ 20 and the decimal equivalent of <span class='frac'><span>1</span><span><i>n</i></span></span> terminates.</div><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div>The number of integers in <i>S</i></div><div>8</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "C",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> The denominator may have only 2s and 5s: 1, 2, 4, 5, 8, 10, 16, 20 → 8 numbers. Equal.<br><i>Source: Hell Mode 1 · Q17 (blank), Practice test 6</i></p><p><strong>Shortcut.</strong> Don't forget 1 (1/1 = 1, terminating). List the powers of 2, the powers of 5 and their products in order: 1, 2, 4, 8, 16; 5, 10, 20.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/k003/main.json h-2 (Sonlu ondalık (sayma))"
+ },
+ {
+  "id": "GRE-k003-main-h-9",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "hard",
+  "html": true,
+  "format": "multi",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">If <i>p</i> and <i>q</i> are prime numbers and <i>p</i> + <i>q</i> = 40, which of the following could be the value of <i>pq</i>?<br><span class='hint'>Indicate <u>all</u> such values.</span></div></div>",
+  "options": [
+   "A) 111",
+   "B) 175",
+   "C) 319",
+   "D) 364",
+   "E) 391",
+   "F) 400"
+  ],
+  "answer": "A,C,E",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> 3 + 37 ✓ (111), 5 + 35 ✗, 7 + 33 ✗, 11 + 29 ✓ (319), 13 + 27 ✗, 17 + 23 ✓ (391), 19 + 21 ✗. 175 = 7 · 25, 364 = 13 · 28, 400 = 20 · 20.<br><i>Source: Hell Mode 1 · Q16 (blank), Practice test 5</i></p><p><strong>Shortcut.</strong> Start from 3 and try every odd prime up to 20; don't skip 3.</p></div>",
+  "source": "gre-quant-lab@9bdc26e data/k003/main.json h-9 (Asal çiftler)"
+ },
+ {
+  "id": "GRE-t001-s1-s1-1",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "medium",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"given\">When the positive integer <i>n</i> is divided by 6, the remainder is 4.</div><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div>The remainder when 2<i>n</i> is divided by 3</div><div>2</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "C",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> Write <i>n</i> = 6k + 4. 2<i>n</i> = 12k + 8 = 3(4k + 2) + 2. 12k is always divisible by 3, which leaves 8; 8 divided by 3 leaves remainder 2. The two quantities are equal.</p><p><strong>Shortcut.</strong> Try n = 4 and n = 10: 8 and 20 both leave remainder 2 on division by 3. Since 6 is a multiple of 3, the result is the same for every n.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t001/s1.json s1-1 (Kalan / bölünebilirlik)"
+ },
+ {
+  "id": "GRE-t001-s1-s1-8",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "medium",
+  "html": true,
+  "format": "multi",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">If <i>n</i> = 2<sup>3</sup> × 3<sup>2</sup> × 7, which of the following integers are divisors of <i>n</i>?<br><span class='hint'>Indicate <u>all</u> such integers.</span></div></div>",
+  "options": [
+   "A) 12",
+   "B) 16",
+   "C) 42",
+   "D) 63",
+   "E) 90",
+   "F) 168"
+  ],
+  "answer": "A,C,D,F",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> If a number divides n, it cannot have more of any prime factor than n has. 12 = 2²·3 ✓, 16 = 2⁴ ✗ (n has only 2³), 42 = 2·3·7 ✓, 63 = 3²·7 ✓, 90 = 2·3²·5 ✗ (no 5), 168 = 2³·3·7 ✓.</p><p><strong>Shortcut.</strong> Look for the 'forbidden' factor first: every option containing 5, or 2⁴, 3³ or 7², is out.</p></div>",
+  "source": "gre-quant-lab@9bdc26e data/t001/s1.json s1-8 (Asal çarpanlar / bölenler)"
+ },
+ {
+  "id": "GRE-t001-easy-e-4",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "easy",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"given\"><i>k</i> is an integer.</div><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div><i>k</i></div><div><i>k</i><sup>2</sup></div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "D",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> For k = 0 or k = 1 the two quantities are equal. For k = 2, k² = 4 is greater. Since both 'equal' and 'B greater' are possible, the relationship cannot be determined.</p><p><strong>Shortcut.</strong> In QC always try the values 0, 1, −1 and 2. Here 0 and 2 settle it.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t001/easy.json e-4 (Tam sayı özellikleri)"
+ },
+ {
+  "id": "GRE-t001-easy-e-6",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "easy",
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">What is the least common multiple of 12 and 18?</div></div>",
+  "options": [
+   "A) 6",
+   "B) 24",
+   "C) 36",
+   "D) 72",
+   "E) 216"
+  ],
+  "answer": "C",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> 12 = 2²·3, 18 = 2·3². The LCM takes the highest power of each prime: 2²·3² = 36.</p><p><strong>Shortcut.</strong> Count the multiples of 18: 18, 36 → 36 divides by 12. 216 = 12 × 18 is a common multiple but not the least; 6 is the GCD.</p></div>",
+  "source": "gre-quant-lab@9bdc26e data/t001/easy.json e-6 (EKOK)"
+ },
+ {
+  "id": "GRE-t001-easy-e-11",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "easy",
+  "html": true,
+  "format": "numeric",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">What is the value of <span class='frac'><span>2<sup>5</sup> × 3<sup>2</sup></span><span>2<sup>3</sup> × 3</span></span>?</div></div>",
+  "answer": "12",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> Subtract the exponents of equal bases: 2^(5−3) × 3^(2−1) = 4 × 3 = 12.</p><p><strong>Shortcut.</strong> Simplify the numerator and denominator without calculating them: don't bother dividing 288/24.</p></div>",
+  "source": "gre-quant-lab@9bdc26e data/t001/easy.json e-11 (Üslü ifadeler)"
+ },
+ {
+  "id": "GRE-t001-medium-m-1",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "medium",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div>(0.4)<sup>2</sup></div><div>√0.04</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "B",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> (0.4)² = 0.16. √0.04 = 0.2. 0.16 &lt; 0.2.</p><p><strong>Shortcut.</strong> Don't take √0.04 as 0.02: 0.2 × 0.2 = 0.04. Squaring doubles the number of decimal places.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t001/medium.json m-1 (Ondalık / kök)"
+ },
+ {
+  "id": "GRE-t001-medium-m-5",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "medium",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"given\"><i>p</i> is a prime number greater than 2.</div><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div>The remainder when <i>p</i><sup>2</sup> is divided by 4</div><div>1</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "C",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> Every prime greater than 2 is odd: p = 2k + 1. p² = 4k² + 4k + 1 → the remainder on division by 4 is always 1.</p><p><strong>Shortcut.</strong> Try 3, 5, 7: 9, 25, 49 → all leave remainder 1 on division by 4. The square of an odd number is always of the form 4m + 1.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t001/medium.json m-5 (Asal sayılar / kalan)"
+ },
+ {
+  "id": "GRE-t001-medium-m-12",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "medium",
+  "html": true,
+  "format": "numeric",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">What is the greatest prime factor of 2<sup>10</sup> − 1?</div></div>",
+  "answer": "31",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> 2¹⁰ − 1 = 1,023. 1,023 = 3 × 341 = 3 × 11 × 31. The largest prime factor is 31.</p><p><strong>Shortcut.</strong> Difference of squares: 2¹⁰ − 1 = (2⁵ − 1)(2⁵ + 1) = 31 × 33 = 31 × 3 × 11. No calculator needed.</p></div>",
+  "source": "gre-quant-lab@9bdc26e data/t001/medium.json m-12 (Asal çarpanlar)"
+ },
+ {
+  "id": "GRE-t001-hard-h-2",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "hard",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"given\"><i>a</i> and <i>b</i> are positive integers, and <span class='frac'><span><i>a</i></span><span><i>b</i></span></span> = 0.3125.</div><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div><i>b</i> − <i>a</i></div><div>10</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "A",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> 0.3125 = 3125/10000 = 5/16. If a/b = 5/16 then a = 5k, b = 16k (k a positive integer). b − a = 11k ≥ 11 &gt; 10.</p><p><strong>Shortcut.</strong> Trap: it does not say 'in lowest terms', so a and b are not unique. But even in the smallest case the difference is 11, so the answer is still A.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t001/hard.json h-2 (Kesir / ondalık)"
+ },
+ {
+  "id": "GRE-t001-hard-h-5",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "hard",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div>2<sup>30</sup> + 2<sup>30</sup></div><div>4<sup>15</sup> + 4<sup>14</sup></div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "A",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> A = 2 · 2³⁰ = 2³¹. B = 2³⁰ + 2²⁸ = 2²⁸(4 + 1) = 5 · 2²⁸. A = 8 · 2²⁸. 8 &gt; 5 → A.</p><p><strong>Shortcut.</strong> Write everything in terms of 2²⁸: A = 8 units, B = 5 units. Trap: seeing 4¹⁵ = 2³⁰ and saying 'B has two terms with 4s, so B is greater'.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t001/hard.json h-5 (Üslü ifadeler)"
+ },
+ {
+  "id": "GRE-t001-hard-h-9",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "hard",
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">When the positive integer <i>n</i> is divided by 5, the remainder is 3. When <i>n</i> is divided by 7, the remainder is 4. What is the remainder when <i>n</i> is divided by 35?</div></div>",
+  "options": [
+   "A) 4",
+   "B) 11",
+   "C) 18",
+   "D) 23",
+   "E) 32"
+  ],
+  "answer": "C",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> Numbers that leave remainder 4 on division by 7: 4, 11, 18, 25, 32. The first of these that leaves remainder 3 on division by 5 is 18. All solutions have the form 18 + 35k, so the remainder is 18.</p><p><strong>Shortcut.</strong> List the larger divisor's (7) numbers and check the smaller one's (5) condition. There is exactly one solution below 35.</p></div>",
+  "source": "gre-quant-lab@9bdc26e data/t001/hard.json h-9 (Kalan (iki koşul))"
+ },
+ {
+  "id": "GRE-t002-s1-s1-1",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "medium",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"given\"><i>n</i> is a positive integer, and <i>n</i><sup>2</sup> has exactly 3 positive divisors.</div><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div>The number of positive divisors of <i>n</i><sup>3</sup></div><div>4</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "C",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> The number of divisors of a number is the product of one more than each exponent in its prime factorisation. For n² = p₁^(2a)·…, a divisor count of (2a+1)·… = 3 is only possible if n = p (a single prime). n³ = p³ → number of divisors 3 + 1 = 4. Equal.</p><p><strong>Shortcut.</strong> Numbers with exactly 3 divisors are squares of primes (4, 9, 25…). Try n = 2: the divisors of 8 are 1, 2, 4, 8 → 4.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t002/s1.json s1-1 (Bölen sayısı)"
+ },
+ {
+  "id": "GRE-t002-s1-s1-5",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "medium",
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">What is the units digit of 7<sup>2026</sup>?</div></div>",
+  "options": [
+   "A) 1",
+   "B) 3",
+   "C) 5",
+   "D) 7",
+   "E) 9"
+  ],
+  "answer": "E",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> The units digits of powers of 7 repeat in a cycle of 4: 7, 9, 3, 1. 2026 = 4·506 + 2 → the 2nd term of the cycle: 9.</p><p><strong>Shortcut.</strong> Divide the exponent by 4 and look at the remainder. If the remainder is 0, take the last term of the cycle (1).</p></div>",
+  "source": "gre-quant-lab@9bdc26e data/t002/s1.json s1-5 (Birler basamağı)"
+ },
+ {
+  "id": "GRE-t002-s1-s1-8",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "medium",
+  "html": true,
+  "format": "multi",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">If <i>x</i> is an integer and 3 &lt; |2<i>x</i> − 1| ≤ 9, which of the following could be the value of <i>x</i>?<br><span class='hint'>Indicate <u>all</u> such values.</span></div></div>",
+  "options": [
+   "A) −5",
+   "B) −4",
+   "C) −1",
+   "D) 2",
+   "E) 3",
+   "F) 5"
+  ],
+  "answer": "B,E,F",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> Two parts: 3 &lt; 2x − 1 ≤ 9 → 2 &lt; x ≤ 5; or −9 ≤ 2x − 1 &lt; −3 → −4 ≤ x &lt; −1. Of the options, −4, 3, 5 fit. At −1, |−3| = 3 (strict inequality, not included); at 2, |3| = 3; at −5, |−11| = 11.</p><p><strong>Shortcut.</strong> Substituting the options directly is fastest: work out the values of |2x − 1| (11, 9, 3, 3, 5, 9) and pick those that fall in the interval (3, 9].</p></div>",
+  "source": "gre-quant-lab@9bdc26e data/t002/s1.json s1-8 (Mutlak değer)"
+ },
+ {
+  "id": "GRE-t002-easy-e-1",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "easy",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div><span class='frac'><span>3</span><span>7</span></span></div><div>0.43</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "B",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> 3/7 = 0.42857… &lt; 0.43.</p><p><strong>Shortcut.</strong> Cross-multiply: 3·100 = 300 against 7·43 = 301. 300 &lt; 301 → B.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t002/easy.json e-1 (Kesir / ondalık)"
+ },
+ {
+  "id": "GRE-t002-easy-e-5",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "easy",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"given\"><i>n</i> is an odd integer.</div><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div>(−1)<sup><i>n</i></sup></div><div>(−1)<sup><i>n</i>+1</sup></div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "B",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> n odd → (−1)ⁿ = −1. n + 1 even → (−1)ⁿ⁺¹ = 1. B is greater.</p><p><strong>Shortcut.</strong> The result is the same even if n is a negative odd number (e.g. −3).</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t002/easy.json e-5 (Tek / çift, üsler)"
+ },
+ {
+  "id": "GRE-t002-easy-e-10",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "easy",
+  "html": true,
+  "format": "multi",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">Which of the following are prime numbers?<br><span class='hint'>Indicate <u>all</u> such numbers.</span></div></div>",
+  "options": [
+   "A) 51",
+   "B) 53",
+   "C) 57",
+   "D) 59",
+   "E) 87",
+   "F) 91"
+  ],
+  "answer": "B,D",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> 51 = 3·17, 57 = 3·19, 87 = 3·29, 91 = 7·13. 53 and 59 are prime.</p><p><strong>Shortcut.</strong> If the digit sum is a multiple of 3, the number divides by 3 (51, 57, 87). 91 = 7·13 is the classic trap.</p></div>",
+  "source": "gre-quant-lab@9bdc26e data/t002/easy.json e-10 (Asal sayılar)"
+ },
+ {
+  "id": "GRE-t002-medium-m-1",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "medium",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div>2<sup>−3</sup></div><div>3<sup>−2</sup></div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "A",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> 2⁻³ = 1/8, 3⁻² = 1/9. 1/8 &gt; 1/9.</p><p><strong>Shortcut.</strong> Negative exponent → take the reciprocal. The fraction with the smaller denominator is larger.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t002/medium.json m-1 (Negatif üs)"
+ },
+ {
+  "id": "GRE-t002-medium-m-5",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "medium",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"given\"><i>p</i> and <i>q</i> are different prime numbers.</div><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div>The number of positive divisors of <i>p</i><sup>2</sup><i>q</i></div><div>6</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "C",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> Number of divisors (2 + 1)(1 + 1) = 6. Equal.</p><p><strong>Shortcut.</strong> p = 2, q = 3 → divisors of 12: 1, 2, 3, 4, 6, 12.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t002/medium.json m-5 (Bölen sayısı)"
+ },
+ {
+  "id": "GRE-t002-hard-h-2",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "hard",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div>The number of consecutive zeros at the end of the integer 30!</div><div>7</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "C",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> The number of trailing zeros equals the number of 10 = 2·5 pairs in the product; there are fewer 5s. 30/5 = 6 multiples of 5, and 25 gives one extra 5: 6 + 1 = 7. Equal.</p><p><strong>Shortcut.</strong> ⌊30/5⌋ + ⌊30/25⌋ = 6 + 1. Forgetting that 25 contains two 5s gives 6.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t002/hard.json h-2 (Faktöriyel / sondaki sıfırlar)"
+ },
+ {
+  "id": "GRE-t002-hard-h-5",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "hard",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div><span class='frac'><span>1</span><span>√5 − 2</span></span></div><div>4.2</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "A",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> Multiply top and bottom by (√5 + 2): (√5 + 2)/(5 − 4) = √5 + 2 ≈ 2.236 + 2 = 4.236 &gt; 4.2.</p><p><strong>Shortcut.</strong> It is enough to know √5 &gt; 2.2 (2.2² = 4.84 &lt; 5). The gap is small; a rough estimate (√5 ≈ 2) leads you the wrong way.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t002/hard.json h-5 (Kök / paydayı rasyonelleştirme)"
+ },
+ {
+  "id": "GRE-t003-s1-s1-8",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "medium",
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">What is <span class='frac'><span>3</span><span>8</span></span> of 64 minus <span class='frac'><span>1</span><span>4</span></span> of 64?</div></div>",
+  "options": [
+   "A) 4",
+   "B) 8",
+   "C) 12",
+   "D) 16",
+   "E) 24"
+  ],
+  "answer": "B",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> 24 − 16 = 8.</p><p><strong>Shortcut.</strong> (3/8 − 2/8) · 64 = 8.</p></div>",
+  "source": "gre-quant-lab@9bdc26e data/t003/s1.json s1-8 (Kesir hesaplama)"
+ },
+ {
+  "id": "GRE-t003-s1-s1-9",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "medium",
+  "html": true,
+  "format": "multi",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">Which of the following integers are factors of 3<sup>6</sup> − 1?<br><span class='hint'>Indicate <u>all</u> such integers.</span></div></div>",
+  "options": [
+   "A) 4",
+   "B) 6",
+   "C) 7",
+   "D) 13",
+   "E) 21",
+   "F) 52"
+  ],
+  "answer": "A,C,D,F",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> 3⁶ − 1 = (3³ − 1)(3³ + 1) = 26 · 28 = 728 = 2³ · 7 · 13. 4 ✓, 6 ✗ (no factor of 3), 7 ✓, 13 ✓, 21 ✗ (no 3), 52 = 4 · 13 ✓.</p><p><strong>Shortcut.</strong> 3ⁿ − 1 is never divisible by 3; every option containing 3 (6, 21) is out at once.</p></div>",
+  "source": "gre-quant-lab@9bdc26e data/t003/s1.json s1-9 (Çarpanlar / kare farkı)"
+ },
+ {
+  "id": "GRE-t003-easy-e-1",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "easy",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div><span class='frac'><span>2</span><span>3</span></span> of <span class='frac'><span>3</span><span>4</span></span></div><div>0.5</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "C",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> 2/3 · 3/4 = 6/12 = 1/2 = 0.5. Equal.</p><p><strong>Shortcut.</strong> Cancel across: the 3s go, leaving 2/4.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t003/easy.json e-1 (Kesir)"
+ },
+ {
+  "id": "GRE-t003-easy-e-5",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "easy",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"given\"><i>n</i> is a positive integer less than 10, and <i>n</i> is divisible by 4.</div><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div><i>n</i></div><div>5</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "D",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> n = 4 or 8. 4 &lt; 5 but 8 &gt; 5 → D.</p><p><strong>Shortcut.</strong> List every value that meets the condition; if there are two, try both.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t003/easy.json e-5 (Bölünebilirlik)"
+ },
+ {
+  "id": "GRE-t003-easy-e-10",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "easy",
+  "html": true,
+  "format": "multi",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">Which of the following integers are divisible by 6?<br><span class='hint'>Indicate <u>all</u> such integers.</span></div></div>",
+  "options": [
+   "A) 114",
+   "B) 222",
+   "C) 316",
+   "D) 402",
+   "E) 534",
+   "F) 610"
+  ],
+  "answer": "A,B,D,E",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> Divisible by 6 = even + digit sum a multiple of 3. 114 (6) ✓, 222 (6) ✓, 316 (10) ✗, 402 (6) ✓, 534 (12) ✓, 610 (7) ✗.</p><p><strong>Shortcut.</strong> They are all even; just look at the digit sum.</p></div>",
+  "source": "gre-quant-lab@9bdc26e data/t003/easy.json e-10 (Bölünebilirlik kuralları)"
+ },
+ {
+  "id": "GRE-t003-medium-m-1",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "medium",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div>0.363636…, where the digits 36 repeat without end</div><div><span class='frac'><span>4</span><span>11</span></span></div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "C",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> 0.3636… = 36/99 = 4/11. Equal.</p><p><strong>Shortcut.</strong> Two-digit repeat: the repeating part / 99.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t003/medium.json m-1 (Devirli ondalık)"
+ },
+ {
+  "id": "GRE-t003-medium-m-4",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "medium",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div>2<sup>20</sup></div><div>10<sup>6</sup></div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "A",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> 2¹⁰ = 1,024 &gt; 10³ → 2²⁰ = 1,048,576 &gt; 10⁶.</p><p><strong>Shortcut.</strong> 2¹⁰ ≈ 10³, but a bit more.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t003/medium.json m-4 (Kuvvet karşılaştırma)"
+ },
+ {
+  "id": "GRE-t003-medium-m-5",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "medium",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"given\"><i>n</i> is a positive integer.</div><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div>The remainder when <i>n</i>(<i>n</i> + 1)(<i>n</i> + 2) is divided by 6</div><div>0</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "C",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> Of three consecutive integers at least one is even and exactly one is a multiple of 3. The product divides by both 2 and 3, so by 6. Remainder 0.</p><p><strong>Shortcut.</strong> The product of k consecutive numbers is always divisible by k!.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t003/medium.json m-5 (Ardışık sayılar / bölünebilirlik)"
+ },
+ {
+  "id": "GRE-t003-medium-m-9",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "medium",
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">What is the sum of all the integers from 1 to 100, inclusive, that are <u>not</u> multiples of 4?</div></div>",
+  "options": [
+   "A) 3,700",
+   "B) 3,750",
+   "C) 3,775",
+   "D) 3,800",
+   "E) 3,825"
+  ],
+  "answer": "B",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> The sum 1–100 is 5,050. Multiples of 4: 4 + 8 + … + 100 = 4(1 + … + 25) = 4 · 325 = 1,300. 5,050 − 1,300 = 3,750.</p><p><strong>Shortcut.</strong> Complement: add up the unwanted ones and subtract.</p></div>",
+  "source": "gre-quant-lab@9bdc26e data/t003/medium.json m-9 (Toplam (dışlama))"
+ },
+ {
+  "id": "GRE-t003-hard-h-2",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "hard",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"given\">The positive integer <i>k</i> is divisible by 20 and has exactly 12 positive divisors.</div><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div>The least possible value of <i>k</i></div><div>60</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "C",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> Try the multiples of 20 in order: 20 = 2²·5 → 6 divisors; 40 = 2³·5 → 8 divisors; 60 = 2²·3·5 → 3·2·2 = 12 divisors ✓. The least is 60. Equal.</p><p><strong>Shortcut.</strong> Number of divisors formula: the product of one more than each exponent.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t003/hard.json h-2 (Bölen sayısı (en küçük değer))"
+ },
+ {
+  "id": "GRE-t003-hard-h-5",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "hard",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div>2<sup>100</sup> − 2<sup>99</sup></div><div>2<sup>98</sup> + 2<sup>98</sup></div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "C",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> A = 2⁹⁹(2 − 1) = 2⁹⁹. B = 2 · 2⁹⁸ = 2⁹⁹. Equal.</p><p><strong>Shortcut.</strong> Take the different powers out as a common factor.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t003/hard.json h-5 (Üslü ifadeler)"
+ },
+ {
+  "id": "GRE-t003-hard-h-6",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "hard",
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">How many positive divisors does 360 have?</div></div>",
+  "options": [
+   "A) 12",
+   "B) 18",
+   "C) 20",
+   "D) 24",
+   "E) 36"
+  ],
+  "answer": "D",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> 360 = 2³ · 3² · 5 → 4 · 3 · 2 = 24.</p><p><strong>Shortcut.</strong> Multiply one more than each exponent.</p></div>",
+  "source": "gre-quant-lab@9bdc26e data/t003/hard.json h-6 (Bölen sayısı)"
+ },
+ {
+  "id": "GRE-t003-hard-h-9",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "hard",
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">What is the greatest integer <i>k</i> such that 3<sup><i>k</i></sup> is a factor of 30!?</div></div>",
+  "options": [
+   "A) 10",
+   "B) 13",
+   "C) 14",
+   "D) 15",
+   "E) 27"
+  ],
+  "answer": "C",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> ⌊30/3⌋ + ⌊30/9⌋ + ⌊30/27⌋ = 10 + 3 + 1 = 14.</p><p><strong>Shortcut.</strong> 9 and 27 give extra 3s; just saying 30/3 = 10 undercounts.</p></div>",
+  "source": "gre-quant-lab@9bdc26e data/t003/hard.json h-9 (Faktöriyelde asal üs)"
+ },
+ {
+  "id": "GRE-t004-s1-s1-3",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "medium",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div>0.5 × 0.4</div><div>0.2</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "C",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> 0.2. Equal.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t004/s1.json s1-3 (Ondalık çarpma)"
+ },
+ {
+  "id": "GRE-t004-s1-s1-9",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "medium",
+  "html": true,
+  "format": "multi",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">If <i>n</i> is a positive integer and <i>n</i><sup>2</sup> is divisible by 72, which of the following integers must be divisors of <i>n</i>?<br><span class='hint'>Indicate <u>all</u> such integers.</span></div></div>",
+  "options": [
+   "A) 4",
+   "B) 6",
+   "C) 8",
+   "D) 9",
+   "E) 12",
+   "F) 24"
+  ],
+  "answer": "A,B,E",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> 72 = 2³ · 3². The exponents in n² are even: for 2 at least 4 (≥3), for 3 at least 2 → n contains at least 2² · 3 = 12. n = 12 is possible (144 = 2 · 72). So the numbers that always divide n are the divisors of 12: 4, 6, 12. 8, 9, 24 do not divide n = 12.</p><p><strong>Shortcut.</strong> In 'must' questions find the smallest example (n = 12); any option that doesn't divide it is out.</p></div>",
+  "source": "gre-quant-lab@9bdc26e data/t004/s1.json s1-9 (Must be true / asal çarpan)"
+ },
+ {
+  "id": "GRE-t004-easy-e-1",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "easy",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div>0.2 × 0.05</div><div>0.01</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "C",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> 2 · 5 = 10; number of decimal places 1 + 2 = 3 → 0.010. Equal.</p><p><strong>Shortcut.</strong> 0.2 = 1/5, 0.05 = 1/20 → 1/100.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t004/easy.json e-1 (Ondalık çarpma)"
+ },
+ {
+  "id": "GRE-t004-easy-e-5",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "easy",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"given\"><i>p</i> is a prime number and 10 &lt; <i>p</i> &lt; 20.</div><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div><i>p</i></div><div>15</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "D",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> p ∈ {11, 13, 17, 19}. 11 &lt; 15, 17 &gt; 15 → D.</p><p><strong>Shortcut.</strong> List the primes in the interval.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t004/easy.json e-5 (Asal sayılar)"
+ },
+ {
+  "id": "GRE-t004-easy-e-10",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "easy",
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">What is the least common multiple of 8, 12, and 15?</div></div>",
+  "options": [
+   "A) 60",
+   "B) 120",
+   "C) 240",
+   "D) 360",
+   "E) 1,440"
+  ],
+  "answer": "B",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> 8 = 2³, 12 = 2²·3, 15 = 3·5. LCM = 2³ · 3 · 5 = 120.</p><p><strong>Shortcut.</strong> Take the highest power of each prime.</p></div>",
+  "source": "gre-quant-lab@9bdc26e data/t004/easy.json e-10 (EKOK)"
+ },
+ {
+  "id": "GRE-t004-medium-m-1",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "medium",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div><span class='frac'><span>1</span><span>0.04</span></span></div><div>0.4 × 60</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "A",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> 1/0.04 = 25; 0.4 · 60 = 24. A.</p><p><strong>Shortcut.</strong> 0.04 = 1/25 → its reciprocal is 25.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t004/medium.json m-1 (Ondalık bölme)"
+ },
+ {
+  "id": "GRE-t004-medium-m-4",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "medium",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"given\"><i>n</i> is the least integer greater than 100 that is divisible by 7.</div><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div><i>n</i></div><div>105</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "C",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> 7 · 14 = 98, 7 · 15 = 105 → n = 105.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t004/medium.json m-4 (Bölünebilirlik)"
+ },
+ {
+  "id": "GRE-t004-medium-m-5",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "medium",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"given\"><i>k</i> is an integer, 1 &lt; <i>k</i> &lt; 100, and <i>k</i> is both the square of an integer and the cube of an integer.</div><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div><i>k</i></div><div>64</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "C",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> Numbers that are both squares and cubes are sixth powers: 1, 64, 729… 1 &lt; k &lt; 100 → k = 64. Equal.</p><p><strong>Shortcut.</strong> Square and cube → the exponent is a multiple of both 2 and 3 → 6.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t004/medium.json m-5 (Tam kare ve tam küp)"
+ },
+ {
+  "id": "GRE-t004-hard-h-2",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "hard",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div>The remainder when 7<sup>100</sup> is divided by 5</div><div>The remainder when 3<sup>100</sup> is divided by 5</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "C",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> 7 ≡ 2 (mod 5). Powers of 2 mod 5: 2, 4, 3, 1 (cycle of 4). Powers of 3: 3, 4, 2, 1. 100 = 4 · 25 → both land on the end of the cycle: 1. Equal.</p><p><strong>Shortcut.</strong> The units digit method works too: 7¹⁰⁰ and 3¹⁰⁰ both end in 1 → remainder 1 on division by 5.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t004/hard.json h-2 (Kalan döngüleri)"
+ },
+ {
+  "id": "GRE-t004-hard-h-5",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "hard",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div>(√5 + √3)<sup>2</sup></div><div>16</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "B",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> (√5 + √3)² = 5 + 3 + 2√15 = 8 + 2√15. 2√15 = √60 &lt; √64 = 8 → A &lt; 16.</p><p><strong>Shortcut.</strong> Trap: taking (a + b)² = a² + b² and saying 8; or taking √15 ≈ 4 and thinking they're equal.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t004/hard.json h-5 (Köklü ifadeler)"
+ },
+ {
+  "id": "GRE-t004-hard-h-9",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "hard",
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">What is the remainder when 2<sup>50</sup> is divided by 7?</div></div>",
+  "options": [
+   "A) 1",
+   "B) 2",
+   "C) 3",
+   "D) 4",
+   "E) 6"
+  ],
+  "answer": "D",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> 2¹ = 2, 2² = 4, 2³ = 8 ≡ 1 (mod 7). Cycle of 3. 50 = 3 · 16 + 2 → 2⁵⁰ ≡ 2² = 4.</p><p><strong>Shortcut.</strong> Once you find 2³ ≡ 1, divide the exponent by 3.</p></div>",
+  "source": "gre-quant-lab@9bdc26e data/t004/hard.json h-9 (Kalan döngüsü)"
+ },
+ {
+  "id": "GRE-t004-hard-h-11",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "hard",
+  "html": true,
+  "format": "multi",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">If <i>x</i> and <i>y</i> are integers and <i>xy</i> + <i>x</i> is odd, which of the following must be true?<br><span class='hint'>Indicate <u>all</u> such statements.</span></div></div>",
+  "options": [
+   "A) <i>x</i> is odd.",
+   "B) <i>y</i> is odd.",
+   "C) <i>y</i> is even.",
+   "D) <i>x</i> + <i>y</i> is odd.",
+   "E) <i>xy</i> is odd.",
+   "F) <i>x</i><sup>2</sup> + <i>y</i> is even."
+  ],
+  "answer": "A,C,D",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> xy + x = x(y + 1) is odd ⇔ x is odd and y + 1 is odd ⇔ x odd, y even. So: x odd ✓, y odd ✗, y even ✓, x + y = odd + even = odd ✓, xy = odd · even = even ✗, x² + y = odd + even = odd ✗.</p><p><strong>Shortcut.</strong> Factorise the expression first: x(y + 1). If a product is odd, every factor is odd.</p></div>",
+  "source": "gre-quant-lab@9bdc26e data/t004/hard.json h-11 (Tek/çift (must be true))"
+ },
+ {
+  "id": "GRE-t005-s1-s1-2",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "medium",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div>(−2)<sup>5</sup> + (−2)<sup>4</sup></div><div>−2<sup>4</sup></div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "C",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> (−2)⁵ = −32, (−2)⁴ = 16 → A = −16. −2⁴ = −(2⁴) = −16. Equal.</p><p><strong>Shortcut.</strong> −2⁴ and (−2)⁴ are different: without brackets, the exponent is applied first.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t005/s1.json s1-2 (İşlem önceliği / negatif üsler)"
+ },
+ {
+  "id": "GRE-t005-easy-e-1",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "easy",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div><span class='frac'><span>5</span><span>6</span></span> − <span class='frac'><span>1</span><span>3</span></span></div><div><span class='frac'><span>1</span><span>2</span></span></div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "C",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> 5/6 − 2/6 = 3/6 = 1/2. Equal.</p><p><strong>Shortcut.</strong> Use a common denominator.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t005/easy.json e-1 (Kesir çıkarma)"
+ },
+ {
+  "id": "GRE-t005-easy-e-5",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "easy",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"given\"><i>x</i> is an integer, and 7 &lt; 2<i>x</i> &lt; 13.</div><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div><i>x</i></div><div>5</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "D",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> 3.5 &lt; x &lt; 6.5 → x ∈ {4, 5, 6} → D.</p><p><strong>Shortcut.</strong> Write out the integers in the interval; if there are values on both sides of 5, it's D.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t005/easy.json e-5 (Tam sayı aralığı)"
+ },
+ {
+  "id": "GRE-t005-easy-e-11",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "easy",
+  "html": true,
+  "format": "multi",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">Which of the following numbers are greater than <span class='frac'><span>1</span><span>3</span></span> and less than <span class='frac'><span>1</span><span>2</span></span>?<br><span class='hint'>Indicate <u>all</u> such numbers.</span></div></div>",
+  "options": [
+   "A) 0.3",
+   "B) <span class='frac'><span>2</span><span>5</span></span>",
+   "C) 0.45",
+   "D) <span class='frac'><span>5</span><span>9</span></span>",
+   "E) <span class='frac'><span>3</span><span>7</span></span>",
+   "F) 0.5"
+  ],
+  "answer": "B,C,E",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> 1/3 ≈ 0.333, 1/2 = 0.5. 0.3 ✗; 0.4 ✓; 0.45 ✓; 5/9 ≈ 0.556 ✗; 3/7 ≈ 0.429 ✓; 0.5 ✗ (equal, not greater).</p><p><strong>Shortcut.</strong> The boundary value (0.5) is not included in a strict inequality.</p></div>",
+  "source": "gre-quant-lab@9bdc26e data/t005/easy.json e-11 (Kesir sıralama)"
+ },
+ {
+  "id": "GRE-t005-medium-m-1",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "medium",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div>5<sup>8</sup></div><div>2<sup>18</sup></div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "A",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> 5⁸ = 390,625; 2¹⁸ = 262,144. A. Without calculating: 5⁸ = 25⁴, 2¹⁸ = 2² · 2¹⁶ = 4 · 16⁴. (25/16)⁴ ≈ 5.96 &gt; 4 → A.</p><p><strong>Shortcut.</strong> Convert to a common exponent: 25⁴ against 4 · 16⁴.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t005/medium.json m-1 (Kuvvet karşılaştırma)"
+ },
+ {
+  "id": "GRE-t005-medium-m-4",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "medium",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div>0.333… + 0.666…, where the digits repeat without end</div><div>1</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "C",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> 1/3 + 2/3 = 1. Equal.</p><p><strong>Shortcut.</strong> 0.999… = 1.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t005/medium.json m-4 (Devirli ondalık)"
+ },
+ {
+  "id": "GRE-t005-medium-m-5",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "medium",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"given\"><i>n</i> is the least positive integer such that 18<i>n</i> is the cube of an integer.</div><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div><i>n</i></div><div>10</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "A",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> 18 = 2 · 3². For a cube every exponent must be a multiple of 3: from 2 and 3² to 2³ · 3³ you must add 2² · 3 = 12. n = 12 &gt; 10.</p><p><strong>Shortcut.</strong> Fill in the missing exponents: 2¹ → 2³ (×4), 3² → 3³ (×3).</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t005/medium.json m-5 (Tam küp koşulu)"
+ },
+ {
+  "id": "GRE-t005-hard-h-2",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "hard",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"given\"><i>n</i> is a positive integer, and the integer <i>n</i>! ends in exactly 6 zeros.</div><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div><i>n</i></div><div>25</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "D",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> 24!: 4 zeros; 25!: 25 brings two 5s → 6 zeros. 26!, 27!, 28!, 29! also have 6 zeros; 30! has 7. n ∈ {25, …, 29} → D.</p><p><strong>Shortcut.</strong> n! gains zeros at each multiple of 5; in between, the number of zeros stays the same.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t005/hard.json h-2 (Sondaki sıfırlar (ters problem))"
+ },
+ {
+  "id": "GRE-t005-hard-h-5",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "hard",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"given\">0 &lt; <i>x</i> &lt; 1</div><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div><i>x</i><sup>1/3</sup></div><div><i>x</i><sup>1/2</sup></div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "A",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> For 0 &lt; x &lt; 1, the smaller the exponent the larger the value: x^(1/3) &gt; x^(1/2). Example x = 1/64: 1/4 &gt; 1/8.</p><p><strong>Shortcut.</strong> The cube root is closer to 1 than the square root.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t005/hard.json h-5 (Kesirli üsler)"
+ },
+ {
+  "id": "GRE-t005-hard-h-11",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "hard",
+  "html": true,
+  "format": "multi",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">If <i>p</i> and <i>q</i> are prime numbers and <i>p</i> + <i>q</i> = 30, which of the following could be the value of <i>pq</i>?<br><span class='hint'>Indicate <u>all</u> such values.</span></div></div>",
+  "options": [
+   "A) 56",
+   "B) 161",
+   "C) 200",
+   "D) 209",
+   "E) 221",
+   "F) 225"
+  ],
+  "answer": "B,D,E",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> Prime pairs adding to 30: (7, 23), (11, 19), (13, 17). Products 161, 209, 221. 225 = 15 · 15 (15 is not prime). 56 and 200 are even; one prime would have to be 2, but 30 − 2 = 28 is not prime.</p><p><strong>Shortcut.</strong> The sum is even → both primes are odd (2 can't be included). List the odd prime pairs.</p></div>",
+  "source": "gre-quant-lab@9bdc26e data/t005/hard.json h-11 (Asal çiftler)"
+ },
+ {
+  "id": "GRE-t006-s1-s1-2",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "medium",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div><span class='frac'><span>3</span><span>8</span></span></div><div>0.37</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "A",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> 3/8 = 0.375 &gt; 0.37.</p><p><strong>Shortcut.</strong> Learn the eighths: 1/8 = 0.125.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t006/s1.json s1-2 (Kesir / ondalık)"
+ },
+ {
+  "id": "GRE-t006-s1-s1-9",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "medium",
+  "html": true,
+  "format": "multi",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">Which of the following fractions are equal to terminating decimals?<br><span class='hint'>Indicate <u>all</u> such fractions.</span></div></div>",
+  "options": [
+   "A) <span class='frac'><span>7</span><span>20</span></span>",
+   "B) <span class='frac'><span>5</span><span>12</span></span>",
+   "C) <span class='frac'><span>9</span><span>40</span></span>",
+   "D) <span class='frac'><span>11</span><span>30</span></span>",
+   "E) <span class='frac'><span>21</span><span>35</span></span>",
+   "F) <span class='frac'><span>13</span><span>64</span></span>"
+  ],
+  "answer": "A,C,E,F",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> The decimal terminates if the simplified denominator has only 2s and 5s. 20 ✓, 12 (3) ✗, 40 ✓, 30 (3) ✗, 21/35 = 3/5 ✓, 64 ✓.</p><p><strong>Shortcut.</strong> Simplify first: the 7 in 21/35 cancels out.</p></div>",
+  "source": "gre-quant-lab@9bdc26e data/t006/s1.json s1-9 (Sonlu ondalık açılım)"
+ },
+ {
+  "id": "GRE-t006-easy-e-1",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "easy",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div>2<sup>5</sup></div><div>5<sup>2</sup></div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "A",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> 32 &gt; 25.</p><p><strong>Shortcut.</strong> Swapping the base and the exponent changes the result.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t006/easy.json e-1 (Üsler)"
+ },
+ {
+  "id": "GRE-t006-easy-e-5",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "easy",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"given\"><i>y</i> is a negative integer.</div><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div><i>y</i><sup>3</sup></div><div><i>y</i><sup>2</sup></div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "B",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> The cube of a negative is negative, its square positive → B.</p><p><strong>Shortcut.</strong> Even at y = −1, −1 &lt; 1.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t006/easy.json e-5 (Negatif sayılar ve üsler)"
+ },
+ {
+  "id": "GRE-t006-easy-e-10",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "easy",
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">How many integers from 1 to 50, inclusive, are divisible by 7?</div></div>",
+  "options": [
+   "A) 5",
+   "B) 6",
+   "C) 7",
+   "D) 8",
+   "E) 49"
+  ],
+  "answer": "C",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> 7, 14, …, 49 → 49/7 = 7.</p><p><strong>Shortcut.</strong> ⌊50/7⌋ = 7.</p></div>",
+  "source": "gre-quant-lab@9bdc26e data/t006/easy.json e-10 (Katları sayma)"
+ },
+ {
+  "id": "GRE-t006-medium-m-1",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "medium",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div>√0.09 + √0.16</div><div>√0.25</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "A",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> 0.3 + 0.4 = 0.7 &gt; 0.5.</p><p><strong>Shortcut.</strong> √a + √b ≠ √(a + b).</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t006/medium.json m-1 (Kökler (toplama tuzağı))"
+ },
+ {
+  "id": "GRE-t006-medium-m-4",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "medium",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"given\"><i>x</i> = <span class='frac'><span>1</span><span>0.125</span></span></div><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div><i>x</i></div><div>7.5</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "A",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> 0.125 = 1/8 → x = 8 &gt; 7.5.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t006/medium.json m-4 (Ondalığın tersi)"
+ },
+ {
+  "id": "GRE-t006-medium-m-5",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "medium",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div>The number of digits in the integer 5<sup>20</sup> × 2<sup>22</sup></div><div>22</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "B",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> 5²⁰ · 2²⁰ · 2² = 10²⁰ · 4 = 4 followed by 20 zeros → 21 digits &lt; 22.</p><p><strong>Shortcut.</strong> Pair up the 2s and 5s and pull out the power of 10.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t006/medium.json m-5 (Basamak sayısı)"
+ },
+ {
+  "id": "GRE-t006-hard-h-2",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "hard",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"given\"><i>x</i> = 0.142857142857…, where the digits 142857 repeat without end</div><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div>7<i>x</i></div><div>0.999…, where the digit 9 repeats without end</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "C",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> x = 142857/999999 = 1/7 → 7x = 1. 0.999… = 9/9 = 1. Equal.</p><p><strong>Shortcut.</strong> 0.999… is exactly 1. 7 · 0.142857… = 0.999… leads to the same result.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t006/hard.json h-2 (Devirli ondalık)"
+ },
+ {
+  "id": "GRE-t006-hard-h-5",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "hard",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"given\"><i>k</i> is a positive integer such that 3<sup><i>k</i></sup> &lt; 1,000 &lt; 3<sup><i>k</i> + 1</sup>.</div><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div><i>k</i></div><div>7</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "B",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> 3⁶ = 729 &lt; 1,000 &lt; 3⁷ = 2,187 → k = 6 &lt; 7.</p><p><strong>Shortcut.</strong> Powers of 3: 3, 9, 27, 81, 243, 729, 2,187.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t006/hard.json h-5 (Kuvvet aralığı)"
+ },
+ {
+  "id": "GRE-t006-hard-h-11",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "hard",
+  "html": true,
+  "format": "multi",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">If <i>a</i> and <i>b</i> are positive integers and <i>a</i><sup>2</sup> = 12<i>b</i>, which of the following must be true?<br><span class='hint'>Indicate <u>all</u> such statements.</span></div></div>",
+  "options": [
+   "A) <i>a</i> is divisible by 6.",
+   "B) <i>b</i> is divisible by 3.",
+   "C) <i>b</i> is a perfect square.",
+   "D) <i>a</i> is divisible by 12.",
+   "E) <i>a</i><sup>2</sup> is divisible by 36.",
+   "F) <i>a</i> + <i>b</i> is even."
+  ],
+  "answer": "A,B,E",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> 12b = 2² · 3 · b must be a perfect square → b = 3k² and a = 6k. The smallest example is a = 6, b = 3. a is a multiple of 6 ✓; b is a multiple of 3 ✓; b = 3 is not a perfect square ✗; a = 6 is not divisible by 12 ✗; a² = 36k² ✓; 6 + 3 = 9 is odd ✗.</p><p><strong>Shortcut.</strong> In 'must' questions write the smallest example (6, 3) and test each statement on it.</p></div>",
+  "source": "gre-quant-lab@9bdc26e data/t006/hard.json h-11 (Must be true (tam kare))"
+ },
+ {
+  "id": "GRE-t007-s1-s1-2",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "medium",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div>The greatest common divisor of 84 and 126</div><div>The least common multiple of 6 and 8</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "A",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> 84 = 2²·3·7, 126 = 2·3²·7 → GCD 2·3·7 = 42. LCM(6, 8) = 24. A.</p><p><strong>Shortcut.</strong> GCD: the lowest powers of the shared primes; LCM: the highest powers of all the primes.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t007/s1.json s1-2 (EBOB / EKOK)"
+ },
+ {
+  "id": "GRE-t007-s1-s1-3",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "medium",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div><span class='frac'><span>7</span><span>9</span></span></div><div>0.78</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "B",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> 7/9 = 0.777… &lt; 0.78.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t007/s1.json s1-3 (Kesir / ondalık)"
+ },
+ {
+  "id": "GRE-t007-easy-e-1",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "easy",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div>7 × 0.3</div><div>0.7 × 3</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "C",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> Both are 2.1. Equal.</p><p><strong>Shortcut.</strong> The position of the decimal point does not change the product; the total number of decimal places is the same.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t007/easy.json e-1 (Ondalık çarpma)"
+ },
+ {
+  "id": "GRE-t007-easy-e-5",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "easy",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"given\"><i>n</i> is a positive multiple of 6.</div><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div><i>n</i></div><div>12</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "D",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> n = 6 (B) or 18 (A) → D.</p><p><strong>Shortcut.</strong> Try the smallest multiple and a large one.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t007/easy.json e-5 (Katlar)"
+ },
+ {
+  "id": "GRE-t007-easy-e-10",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "easy",
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">Which of the following is closest to 3.96 × 5.02?</div></div>",
+  "options": [
+   "A) 15",
+   "B) 18",
+   "C) 20",
+   "D) 22",
+   "E) 25"
+  ],
+  "answer": "C",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> ≈ 4 · 5 = 20 (exact value 19.8792).</p><p><strong>Shortcut.</strong> Round and multiply.</p></div>",
+  "source": "gre-quant-lab@9bdc26e data/t007/easy.json e-10 (Tahmin)"
+ },
+ {
+  "id": "GRE-t007-easy-e-11",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "easy",
+  "html": true,
+  "format": "multi",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">Which of the following are factors of both 36 and 48?<br><span class='hint'>Indicate <u>all</u> such integers.</span></div></div>",
+  "options": [
+   "A) 3",
+   "B) 4",
+   "C) 8",
+   "D) 9",
+   "E) 12",
+   "F) 18"
+  ],
+  "answer": "A,B,E",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> The common divisors are the divisors of GCD(36, 48) = 12: 3 ✓, 4 ✓, 12 ✓. 8 (doesn't divide 36), 9 and 18 (don't divide 48) ✗.</p><p><strong>Shortcut.</strong> Find the GCD and list its divisors.</p></div>",
+  "source": "gre-quant-lab@9bdc26e data/t007/easy.json e-11 (Ortak bölenler)"
+ },
+ {
+  "id": "GRE-t007-medium-m-1",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "medium",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div>(<span class='frac'><span>1</span><span>2</span></span>)<sup>−3</sup></div><div>4</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "A",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> (1/2)⁻³ = 2³ = 8 &gt; 4.</p><p><strong>Shortcut.</strong> A negative exponent flips the fraction.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t007/medium.json m-1 (Negatif üs)"
+ },
+ {
+  "id": "GRE-t007-medium-m-4",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "medium",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div>The number of prime numbers between 40 and 60</div><div>6</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "B",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> 41, 43, 47, 53, 59 → 5 &lt; 6.</p><p><strong>Shortcut.</strong> 49 = 7², 51 = 3 · 17, 57 = 3 · 19 are not prime.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t007/medium.json m-4 (Asal sayma)"
+ },
+ {
+  "id": "GRE-t007-medium-m-5",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "medium",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"given\"><i>x</i> = 2<sup>10</sup> · 3<sup>5</sup> and <i>y</i> = 6<sup>6</sup></div><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div><span class='frac'><span><i>x</i></span><span><i>y</i></span></span></div><div>1</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "A",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> 6⁶ = 2⁶ · 3⁶. x/y = 2⁴/3 = 16/3 &gt; 1.</p><p><strong>Shortcut.</strong> Break the bases into primes.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t007/medium.json m-5 (Üs sadeleştirme)"
+ },
+ {
+  "id": "GRE-t007-hard-h-1",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "hard",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"given\"><i>n</i> is a positive integer, and the units digit of <i>n</i><sup>2</sup> is 6.</div><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div>The units digit of <i>n</i></div><div>5</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "D",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> Units digits whose square ends in 6: 4 (16) and 6 (36). 4 &lt; 5 &lt; 6 → D.</p><p><strong>Shortcut.</strong> Squares of 0–9: 0,1,4,9,6,5,6,9,4,1 → 6 appears twice.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t007/hard.json h-1 (Birler basamağı (ters))"
+ },
+ {
+  "id": "GRE-t007-hard-h-5",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "hard",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"given\"><i>n</i> is the product of the integers from 1 to 10, inclusive.</div><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div>The number of consecutive zeros at the end of <i>n</i></div><div>2</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "C",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> 10! = 3,628,800 → 2 zeros (from 5 and 10). Equal.</p><p><strong>Shortcut.</strong> ⌊10/5⌋ = 2.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t007/hard.json h-5 (Sondaki sıfırlar)"
+ },
+ {
+  "id": "GRE-t007-hard-h-9",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "hard",
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">If 4<sup><i>x</i></sup> − 4<sup><i>x</i> − 1</sup> = 48, what is the value of <i>x</i>?</div></div>",
+  "options": [
+   "A) 1.5",
+   "B) 2",
+   "C) 2.5",
+   "D) 3",
+   "E) 4"
+  ],
+  "answer": "D",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> 4^(x − 1) · (4 − 1) = 48 → 4^(x − 1) = 16 → x − 1 = 2 → x = 3.</p><p><strong>Shortcut.</strong> Take the smaller power out as a common factor.</p></div>",
+  "source": "gre-quant-lab@9bdc26e data/t007/hard.json h-9 (Üslü ifadeler (ortak çarpan))"
+ },
+ {
+  "id": "GRE-t008-s1-s1-2",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "medium",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div><span class='frac'><span>17</span><span>99</span></span></div><div>0.17</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "A",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> 17/99 = 0.171717… &gt; 0.17.</p><p><strong>Shortcut.</strong> A fraction over 99 gives a two-digit repeat.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t008/s1.json s1-2 (Devirli ondalık)"
+ },
+ {
+  "id": "GRE-t008-s1-s1-3",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "medium",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div>2<sup>6</sup></div><div>6<sup>2</sup></div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "A",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> 64 &gt; 36.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t008/s1.json s1-3 (Üsler)"
+ },
+ {
+  "id": "GRE-t008-easy-e-1",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "easy",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div><span class='frac'><span>1</span><span>4</span></span> + <span class='frac'><span>1</span><span>5</span></span></div><div><span class='frac'><span>2</span><span>9</span></span></div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "A",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> 1/4 + 1/5 = 9/20 = 0.45 &gt; 2/9 ≈ 0.22.</p><p><strong>Shortcut.</strong> 2/9 comes from adding the numerators and the denominators separately (wrong).</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t008/easy.json e-1 (Kesir toplama)"
+ },
+ {
+  "id": "GRE-t008-easy-e-5",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "easy",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"given\">0 &lt; <i>x</i> &lt; 1</div><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div><i>x</i></div><div><span class='frac'><span><i>x</i></span><span>2</span></span></div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "A",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> Half of a positive number is smaller than the number.</p><p><strong>Shortcut.</strong> x &gt; 0 is enough.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t008/easy.json e-5 (Kesir ve pozitif sayı)"
+ },
+ {
+  "id": "GRE-t008-easy-e-6",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "easy",
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">What is <span class='frac'><span>3</span><span>5</span></span> of 40 minus <span class='frac'><span>1</span><span>4</span></span> of 40?</div></div>",
+  "options": [
+   "A) 10",
+   "B) 14",
+   "C) 16",
+   "D) 24",
+   "E) 34"
+  ],
+  "answer": "B",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> 24 − 10 = 14.</p><p><strong>Shortcut.</strong> (3/5 − 1/4) · 40 = 7/20 · 40 = 14.</p></div>",
+  "source": "gre-quant-lab@9bdc26e data/t008/easy.json e-6 (Kesir hesaplama)"
+ },
+ {
+  "id": "GRE-t008-easy-e-12",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "easy",
+  "html": true,
+  "format": "multi",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">Which of the following are multiples of both 4 and 6?<br><span class='hint'>Indicate <u>all</u> such integers.</span></div></div>",
+  "options": [
+   "A) 12",
+   "B) 18",
+   "C) 24",
+   "D) 30",
+   "E) 36",
+   "F) 48"
+  ],
+  "answer": "A,C,E,F",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> LCM(4, 6) = 12 → multiples of 12: 12, 24, 36, 48 ✓. 18 and 30 are not divisible by 4.</p><p><strong>Shortcut.</strong> The common multiples of 4 and 6 are the multiples of 12, not of 24.</p></div>",
+  "source": "gre-quant-lab@9bdc26e data/t008/easy.json e-12 (Ortak katlar)"
+ },
+ {
+  "id": "GRE-t008-medium-m-1",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "medium",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div>0.3 ÷ 0.06</div><div>4</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "A",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> 0.3/0.06 = 30/6 = 5 &gt; 4.</p><p><strong>Shortcut.</strong> Multiply both by 100.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t008/medium.json m-1 (Ondalık bölme)"
+ },
+ {
+  "id": "GRE-t008-medium-m-5",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "medium",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div>The remainder when 3<sup>25</sup> is divided by 8</div><div>1</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "A",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> 3² = 9 ≡ 1 (mod 8). 3²⁵ = (3²)¹² · 3 ≡ 3. 3 &gt; 1.</p><p><strong>Shortcut.</strong> Odd exponent → remainder 3; even exponent → 1.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t008/medium.json m-5 (Kalan döngüsü)"
+ },
+ {
+  "id": "GRE-t008-hard-h-2",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "hard",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"given\"><i>x</i> is the product of all the prime numbers less than 20.</div><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div>The remainder when <i>x</i> is divided by 4</div><div>2</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "C",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> x = 2 · (product of odd numbers). There is only one factor of 2 → x = 2 · odd → remainder 2 on division by 4. Equal.</p><p><strong>Shortcut.</strong> The only even prime is 2; 2 · an odd number is always of the form 4k + 2.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t008/hard.json h-2 (Asal çarpım ve kalan)"
+ },
+ {
+  "id": "GRE-t008-hard-h-11",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "hard",
+  "html": true,
+  "format": "multi",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">If <i>n</i> is a positive integer and both <span class='frac'><span><i>n</i></span><span>18</span></span> and <span class='frac'><span><i>n</i></span><span>30</span></span> are integers, which of the following must be divisors of <i>n</i>?<br><span class='hint'>Indicate <u>all</u> such integers.</span></div></div>",
+  "options": [
+   "A) 9",
+   "B) 10",
+   "C) 15",
+   "D) 20",
+   "E) 45",
+   "F) 60"
+  ],
+  "answer": "A,B,C,E",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> n is a multiple of LCM(18, 30) = 90. The smallest n is 90. Divisors of 90: 9, 10, 15, 45 ✓. 20 and 60 ✗.</p><p><strong>Shortcut.</strong> Test with the smallest example (90).</p></div>",
+  "source": "gre-quant-lab@9bdc26e data/t008/hard.json h-11 (Must divide (EKOK))"
+ },
+ {
+  "id": "GRE-t009-s1-s1-2",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "medium",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div><span class='frac'><span>11</span><span>12</span></span></div><div><span class='frac'><span>12</span><span>13</span></span></div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "B",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> 1 − 1/12 against 1 − 1/13: 1/12 &gt; 1/13 → 11/12 &lt; 12/13.</p><p><strong>Shortcut.</strong> Compare the distances to 1.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t009/s1.json s1-2 (Kesir karşılaştırma)"
+ },
+ {
+  "id": "GRE-t009-s1-s1-9",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "medium",
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">What is the sum of the first 20 positive odd integers?</div></div>",
+  "options": [
+   "A) 200",
+   "B) 210",
+   "C) 380",
+   "D) 400",
+   "E) 420"
+  ],
+  "answer": "D",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> The sum of the first n odd numbers is n² = 400.</p></div>",
+  "source": "gre-quant-lab@9bdc26e data/t009/s1.json s1-9 (Tek sayılar toplamı)"
+ },
+ {
+  "id": "GRE-t009-easy-e-5",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "easy",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"given\"><i>m</i> is an integer greater than 1.</div><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div><i>m</i><sup>2</sup></div><div>2<i>m</i></div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "D",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> m = 2: 4 = 4. m = 3: 9 &gt; 6 → D.</p><p><strong>Shortcut.</strong> Try the smallest value at the boundary.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t009/easy.json e-5 (Kare vs iki kat)"
+ },
+ {
+  "id": "GRE-t009-easy-e-6",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "easy",
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">What is <span class='frac'><span>2</span><span>3</span></span> of <span class='frac'><span>3</span><span>4</span></span> of 48?</div></div>",
+  "options": [
+   "A) 12",
+   "B) 18",
+   "C) 24",
+   "D) 32",
+   "E) 36"
+  ],
+  "answer": "C",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> 2/3 · 3/4 = 1/2 → 24.</p><p><strong>Shortcut.</strong> Multiply the fractions first.</p></div>",
+  "source": "gre-quant-lab@9bdc26e data/t009/easy.json e-6 (Kesir çarpımı)"
+ },
+ {
+  "id": "GRE-t009-easy-e-10",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "easy",
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">What is 3,456.789 rounded to the nearest ten?</div></div>",
+  "options": [
+   "A) 3,450",
+   "B) 3,456.8",
+   "C) 3,457",
+   "D) 3,460",
+   "E) 3,500"
+  ],
+  "answer": "D",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> Tens digit 5, units 6 ≥ 5 → round up: 3,460.</p><p><strong>Shortcut.</strong> 'Nearest ten' means rounding to the tens.</p></div>",
+  "source": "gre-quant-lab@9bdc26e data/t009/easy.json e-10 (Yuvarlama)"
+ },
+ {
+  "id": "GRE-t009-easy-e-11",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "easy",
+  "html": true,
+  "format": "multi",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">Which of the following numbers are greater than 0.3?<br><span class='hint'>Indicate <u>all</u> such numbers.</span></div></div>",
+  "options": [
+   "A) <span class='frac'><span>1</span><span>3</span></span>",
+   "B) 0.29",
+   "C) <span class='frac'><span>3</span><span>10</span></span>",
+   "D) 0.31",
+   "E) <span class='frac'><span>2</span><span>7</span></span>",
+   "F) <span class='frac'><span>5</span><span>16</span></span>"
+  ],
+  "answer": "A,D,F",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> 1/3 ≈ 0.333 ✓; 0.29 ✗; 3/10 = 0.3 (equal) ✗; 0.31 ✓; 2/7 ≈ 0.286 ✗; 5/16 = 0.3125 ✓.</p><p><strong>Shortcut.</strong> Equal is not 'greater'.</p></div>",
+  "source": "gre-quant-lab@9bdc26e data/t009/easy.json e-11 (Kesir / ondalık sıralama)"
+ },
+ {
+  "id": "GRE-t009-medium-m-1",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "medium",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div><span class='frac'><span>1</span><span>0.25</span></span> + <span class='frac'><span>1</span><span>0.5</span></span></div><div>6</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "C",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> 4 + 2 = 6. Equal.</p><p><strong>Shortcut.</strong> 0.25 = 1/4 → its reciprocal is 4.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t009/medium.json m-1 (Ondalıkların tersi)"
+ },
+ {
+  "id": "GRE-t009-medium-m-4",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "medium",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"given\"><i>k</i> is a positive integer.</div><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div>The remainder when 4<i>k</i> + 3 is divided by 4</div><div>The remainder when 6<i>k</i> + 2 is divided by 3</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "A",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> A = 3, B = 2 → A.</p><p><strong>Shortcut.</strong> The coefficient is a multiple of the divisor → the constant term is the remainder.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t009/medium.json m-4 (Kalan)"
+ },
+ {
+  "id": "GRE-t009-medium-m-5",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "medium",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"given\"><i>k</i> = 2<sup>5</sup> · 3<sup>2</sup></div><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div>The number of positive even divisors of <i>k</i></div><div>12</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "A",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> Total divisors (5 + 1)(2 + 1) = 18. Odd divisors (only powers of 3): 3. Even divisors 18 − 3 = 15 &gt; 12.</p><p><strong>Shortcut.</strong> Even divisor: the exponent of 2 is at least 1 → 5 · 3 = 15.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t009/medium.json m-5 (Çift bölen sayısı)"
+ },
+ {
+  "id": "GRE-t009-hard-h-5",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "hard",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div>The number of positive integers less than 20 that have exactly 4 positive divisors</div><div>4</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "A",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> Exactly 4 divisors: p·q (two different primes) or p³. 6, 10, 14, 15 and 8 → 5 &gt; 4.</p><p><strong>Shortcut.</strong> Forgetting the p³ form (8) gives 4.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t009/hard.json h-5 (Tam 4 bölenli sayılar)"
+ },
+ {
+  "id": "GRE-t009-hard-h-6",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "hard",
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">What is the units digit of 2<sup>75</sup>?</div></div>",
+  "options": [
+   "A) 0",
+   "B) 2",
+   "C) 4",
+   "D) 6",
+   "E) 8"
+  ],
+  "answer": "E",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> Cycle 2, 4, 8, 6; 75 = 4 · 18 + 3 → 8.</p></div>",
+  "source": "gre-quant-lab@9bdc26e data/t009/hard.json h-6 (Birler basamağı)"
+ },
+ {
+  "id": "GRE-t010-s1-s1-2",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "medium",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div>(0.5)<sup>−2</sup></div><div>3</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "A",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> 0.5⁻² = (1/2)⁻² = 4 &gt; 3.</p><p><strong>Shortcut.</strong> Turn the decimal into a fraction, then take the reciprocal.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t010/s1.json s1-2 (Negatif üs)"
+ },
+ {
+  "id": "GRE-t010-s1-s1-3",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "medium",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"given\"><i>n</i> is a positive odd integer less than 8.</div><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div><i>n</i></div><div>4</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "D",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> n ∈ {1, 3, 5, 7} → D.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t010/s1.json s1-3 (Tek sayılar)"
+ },
+ {
+  "id": "GRE-t010-easy-e-1",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "easy",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div>5<sup>0</sup> + 5<sup>1</sup></div><div>6</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "C",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> 1 + 5 = 6.</p><p><strong>Shortcut.</strong> Any non-zero number to the power 0 is 1.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t010/easy.json e-1 (Sıfırıncı kuvvet)"
+ },
+ {
+  "id": "GRE-t010-easy-e-5",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "easy",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"given\"><i>n</i> is a prime number less than 10.</div><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div><i>n</i></div><div>4</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "D",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> n ∈ {2, 3, 5, 7} → D.</p><p><strong>Shortcut.</strong> List the small primes.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t010/easy.json e-5 (Asal sayılar)"
+ },
+ {
+  "id": "GRE-t010-easy-e-10",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "easy",
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">Which of the following is greatest?</div></div>",
+  "options": [
+   "A) 0.7",
+   "B) <span class='frac'><span>2</span><span>3</span></span>",
+   "C) 0.66",
+   "D) <span class='frac'><span>5</span><span>8</span></span>",
+   "E) <span class='frac'><span>7</span><span>11</span></span>"
+  ],
+  "answer": "A",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> 0.7; 0.667; 0.66; 0.625; 0.636 → 0.7.</p><p><strong>Shortcut.</strong> Convert them all to decimals.</p></div>",
+  "source": "gre-quant-lab@9bdc26e data/t010/easy.json e-10 (Sıralama)"
+ },
+ {
+  "id": "GRE-t010-medium-m-1",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "medium",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div>3<sup>10</sup> − 3<sup>9</sup></div><div>3<sup>9</sup></div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "A",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> 3⁹(3 − 1) = 2 · 3⁹ &gt; 3⁹.</p><p><strong>Shortcut.</strong> 3¹⁰ − 3⁹ ≠ 3¹.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t010/medium.json m-1 (Üslü fark)"
+ },
+ {
+  "id": "GRE-t010-medium-m-4",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "medium",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div>99 × 101</div><div>100<sup>2</sup></div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "B",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> 99 · 101 = 100² − 1 = 9,999 &lt; 10,000.</p><p><strong>Shortcut.</strong> (a − 1)(a + 1) = a² − 1.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t010/medium.json m-4 (Kare farkı (sayısal))"
+ },
+ {
+  "id": "GRE-t010-hard-h-2",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "hard",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"given\"><i>p</i> is a prime number greater than 3.</div><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div>The remainder when <i>p</i><sup>2</sup> is divided by 12</div><div>1</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "C",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> Every prime greater than 3 has the form 6k ± 1. p² = 36k² ± 12k + 1 → remainder 1 on division by 12. Equal.</p><p><strong>Shortcut.</strong> Try 5, 7, 11: 25, 49, 121 → all leave remainder 1 on division by 12.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t010/hard.json h-2 (Asalların karesi (mod 12))"
+ },
+ {
+  "id": "GRE-t010-hard-h-5",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "hard",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div><span class='frac'><span>1</span><span>√2</span></span> + <span class='frac'><span>1</span><span>√8</span></span></div><div>1</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "A",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> 1/√8 = 1/(2√2). Sum 1/√2 + 1/(2√2) = 3/(2√2) = 3√2/4 ≈ 1.06 &gt; 1.</p><p><strong>Shortcut.</strong> 3√2/4 &gt; 1 ⇔ 3√2 &gt; 4 ⇔ 18 &gt; 16.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t010/hard.json h-5 (Kök sadeleştirme)"
+ },
+ {
+  "id": "GRE-t010-hard-h-11",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "hard",
+  "html": true,
+  "format": "multi",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">For which of the following values of <i>k</i> is <span class='frac'><span><i>k</i></span><span>15</span></span> equal to a terminating decimal?<br><span class='hint'>Indicate <u>all</u> such values.</span></div></div>",
+  "options": [
+   "A) 3",
+   "B) 5",
+   "C) 9",
+   "D) 10",
+   "E) 12",
+   "F) 20"
+  ],
+  "answer": "A,C,E",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> 15 = 3 · 5. For it to terminate, no 3 may remain in the simplified denominator → k must be a multiple of 3. 3 ✓ (1/5), 9 ✓ (3/5), 12 ✓ (4/5); 5, 10, 20 ✗ (1/3, 2/3, 4/3).</p><p><strong>Shortcut.</strong> Primes other than 2 and 5 in the denominator must cancel.</p></div>",
+  "source": "gre-quant-lab@9bdc26e data/t010/hard.json h-11 (Sonlu ondalık koşulu)"
+ },
+ {
+  "id": "GRE-t011-s1-s1-2",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "medium",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div>√(16 + 9)</div><div>√16 + √9</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "B",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> √25 = 5; 4 + 3 = 7 → B.</p><p><strong>Shortcut.</strong> √(a + b) ≠ √a + √b.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t011/s1.json s1-2 (Kök toplama tuzağı)"
+ },
+ {
+  "id": "GRE-t011-s1-s1-3",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "medium",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div><span class='frac'><span>1</span><span>3</span></span> + <span class='frac'><span>1</span><span>4</span></span></div><div><span class='frac'><span>2</span><span>7</span></span></div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "A",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> 7/12 ≈ 0.58 &gt; 2/7 ≈ 0.29.</p><p><strong>Shortcut.</strong> 2/7 comes from adding the numerators and the denominators (wrong).</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t011/s1.json s1-3 (Kesir toplama)"
+ },
+ {
+  "id": "GRE-t011-s1-s1-5",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "medium",
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">What is the sum of all the integers from 20 to 60, inclusive?</div></div>",
+  "options": [
+   "A) 1,600",
+   "B) 1,620",
+   "C) 1,640",
+   "D) 1,660",
+   "E) 2,400"
+  ],
+  "answer": "C",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> Number of terms 60 − 20 + 1 = 41. Mean (20 + 60)/2 = 40. Sum 1,640.</p><p><strong>Shortcut.</strong> 1,600 comes from taking the number of terms as 40 (not including both ends).</p></div>",
+  "source": "gre-quant-lab@9bdc26e data/t011/s1.json s1-5 (Ardışık sayıların toplamı)"
+ },
+ {
+  "id": "GRE-t011-s1-s1-9",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "medium",
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">What is the least positive integer that is divisible by each of 2, 3, 4, 5, and 6?</div></div>",
+  "options": [
+   "A) 30",
+   "B) 60",
+   "C) 120",
+   "D) 360",
+   "E) 720"
+  ],
+  "answer": "B",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> LCM = 2²·3·5 = 60.</p><p><strong>Shortcut.</strong> 720 is the product.</p></div>",
+  "source": "gre-quant-lab@9bdc26e data/t011/s1.json s1-9 (EKOK)"
+ },
+ {
+  "id": "GRE-t011-easy-e-1",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "easy",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div>0.25 × 0.4</div><div>0.1</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "C",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> 1/4 · 2/5 = 1/10.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t011/easy.json e-1 (Ondalık çarpma)"
+ },
+ {
+  "id": "GRE-t011-easy-e-5",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "easy",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"given\"><i>n</i> is an even integer, and 10 &lt; <i>n</i> &lt; 15.</div><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div><i>n</i></div><div>12</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "D",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> n = 12 or 14 → D.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t011/easy.json e-5 (Tam sayı aralığı)"
+ },
+ {
+  "id": "GRE-t011-easy-e-11",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "easy",
+  "html": true,
+  "format": "multi",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">Which of the following are prime factors of 210?<br><span class='hint'>Indicate <u>all</u> such numbers.</span></div></div>",
+  "options": [
+   "A) 2",
+   "B) 3",
+   "C) 5",
+   "D) 7",
+   "E) 9",
+   "F) 10"
+  ],
+  "answer": "A,B,C,D",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> 210 = 2 · 3 · 5 · 7. 9 and 10 are not prime (10 is a factor, but not prime).</p><p><strong>Shortcut.</strong> 'Prime factor' has two conditions: a divisor and prime.</p></div>",
+  "source": "gre-quant-lab@9bdc26e data/t011/easy.json e-11 (Asal çarpanlar)"
+ },
+ {
+  "id": "GRE-t011-medium-m-1",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "medium",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div>(−1)<sup>101</sup> + (−1)<sup>100</sup></div><div>0</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "C",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> −1 + 1 = 0.</p><p><strong>Shortcut.</strong> Odd exponent −1, even exponent 1.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t011/medium.json m-1 (−1'in kuvvetleri)"
+ },
+ {
+  "id": "GRE-t011-medium-m-4",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "medium",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div>√50 + √18</div><div>11.5</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "B",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> 5√2 + 3√2 = 8√2 ≈ 11.31 &lt; 11.5.</p><p><strong>Shortcut.</strong> 8√2 = √128; 11.5² = 132.25.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t011/medium.json m-4 (Kök sadeleştirme)"
+ },
+ {
+  "id": "GRE-t011-medium-m-5",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "medium",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"given\"><i>n</i> = 1.2 × 10<sup>5</sup> and <i>m</i> = 3 × 10<sup>4</sup></div><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div><span class='frac'><span><i>n</i></span><span><i>m</i></span></span></div><div>40</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "B",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> (1.2/3) · 10 = 0.4 · 10 = 4 &lt; 40.</p><p><strong>Shortcut.</strong> The exponents differ by 1 → multiply by 10.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t011/medium.json m-5 (Bilimsel gösterim)"
+ },
+ {
+  "id": "GRE-t011-hard-h-2",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "hard",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"given\"><i>k</i> is the least positive integer such that 2<sup><i>k</i></sup> &gt; 10<sup>6</sup>.</div><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div><i>k</i></div><div>19</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "A",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> 2¹⁰ = 1,024 ≈ 10³ → 2²⁰ ≈ 1,048,576 &gt; 10⁶; 2¹⁹ = 524,288 &lt; 10⁶ → k = 20 &gt; 19.</p><p><strong>Shortcut.</strong> The 2¹⁰ ≈ 10³ approximation.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t011/hard.json h-2 (Kuvvet tahmini)"
+ },
+ {
+  "id": "GRE-t011-hard-h-5",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "hard",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"given\"><i>a</i> and <i>b</i> are positive integers, and <span class='frac'><span><i>a</i></span><span><i>b</i></span></span> = 0.625.</div><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div><i>a</i> + <i>b</i></div><div>13</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "D",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> 0.625 = 5/8 → a = 5k, b = 8k → a + b = 13k. k = 1 → equal; k = 2 → 26 → D.</p><p><strong>Shortcut.</strong> It does not say 'lowest terms'; the smallest case gives equality.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t011/hard.json h-5 (Kesir (sadeleşmemiş))"
+ },
+ {
+  "id": "GRE-t011-hard-h-9",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "hard",
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">How many integers from 1 to 100, inclusive, are neither perfect squares nor perfect cubes?</div></div>",
+  "options": [
+   "A) 84",
+   "B) 86",
+   "C) 88",
+   "D) 90",
+   "E) 92"
+  ],
+  "answer": "C",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> Squares 10 (1…100), cubes 4 (1, 8, 27, 64), both 2 (1, 64). 10 + 4 − 2 = 12 → 100 − 12 = 88.</p><p><strong>Shortcut.</strong> 86 comes from forgetting to subtract the shared ones (1 and 64).</p></div>",
+  "source": "gre-quant-lab@9bdc26e data/t011/hard.json h-9 (Kareler ve küpler (dışlama))"
+ },
+ {
+  "id": "GRE-t011-hard-h-11",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "hard",
+  "html": true,
+  "format": "multi",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">The positive integer <i>x</i> has only 2 and 3 as prime factors, and <i>x</i> has exactly 12 positive divisors. Which of the following could be <i>x</i>?<br><span class='hint'>Indicate <u>all</u> such values.</span></div></div>",
+  "options": [
+   "A) 72",
+   "B) 96",
+   "C) 108",
+   "D) 144",
+   "E) 486",
+   "F) 48"
+  ],
+  "answer": "A,B,C,E",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> (a + 1)(b + 1) = 12. 72 = 2³·3² → 4·3 ✓; 96 = 2⁵·3 → 6·2 ✓; 108 = 2²·3³ → 3·4 ✓; 144 = 2⁴·3² → 15 ✗; 486 = 2·3⁵ → 2·6 ✓; 48 = 2⁴·3 → 10 ✗.</p><p><strong>Shortcut.</strong> Break each option into prime factors.</p></div>",
+  "source": "gre-quant-lab@9bdc26e data/t011/hard.json h-11 (Bölen sayısı (olası sayılar))"
+ },
+ {
+  "id": "GRE-t012-s1-s1-2",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "medium",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div><span class='frac'><span>1</span><span>3</span></span> + <span class='frac'><span>1</span><span>6</span></span> + <span class='frac'><span>1</span><span>9</span></span></div><div>0.6</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "A",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> 1/3 + 1/6 = 1/2; 1/2 + 1/9 = 11/18 ≈ 0.611 &gt; 0.6.</p><p><strong>Shortcut.</strong> Denominator 18.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t012/s1.json s1-2 (Kesir toplama)"
+ },
+ {
+  "id": "GRE-t012-s1-s1-3",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "medium",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div>(−3)<sup>3</sup></div><div>(−3)<sup>2</sup></div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "B",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> −27 &lt; 9.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t012/s1.json s1-3 (Negatif üsler)"
+ },
+ {
+  "id": "GRE-t012-s1-s1-5",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "medium",
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">Coins are available in values of 5 cents, 10 cents, and 25 cents. What is the least number of coins that have a total value of 85 cents?</div></div>",
+  "options": [
+   "A) 3",
+   "B) 4",
+   "C) 5",
+   "D) 6",
+   "E) 7"
+  ],
+  "answer": "B",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> 25 · 3 = 75, + 10 = 85 → 4 coins.</p><p><strong>Shortcut.</strong> Start from the largest.</p></div>",
+  "source": "gre-quant-lab@9bdc26e data/t012/s1.json s1-5 (En az sayıda madeni para)"
+ },
+ {
+  "id": "GRE-t012-s1-s1-9",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "medium",
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">Which of the following is closest to 49.8 × 0.201?</div></div>",
+  "options": [
+   "A) 1",
+   "B) 5",
+   "C) 10",
+   "D) 25",
+   "E) 100"
+  ],
+  "answer": "C",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> ≈ 50 · 0.2 = 10.</p></div>",
+  "source": "gre-quant-lab@9bdc26e data/t012/s1.json s1-9 (Tahmin)"
+ },
+ {
+  "id": "GRE-t012-easy-e-1",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "easy",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div><span class='frac'><span>3</span><span>4</span></span></div><div>0.75</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "C",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> Equal.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t012/easy.json e-1 (Kesir / ondalık)"
+ },
+ {
+  "id": "GRE-t012-easy-e-5",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "easy",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"given\"><i>x</i> is an integer and 3 &lt; <i>x</i> &lt; 6.</div><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div><i>x</i></div><div>4.5</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "D",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> x = 4 or 5 → D.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t012/easy.json e-5 (Tam sayı aralığı)"
+ },
+ {
+  "id": "GRE-t012-easy-e-10",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "easy",
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">What is the least common multiple of 9 and 12?</div></div>",
+  "options": [
+   "A) 3",
+   "B) 18",
+   "C) 36",
+   "D) 72",
+   "E) 108"
+  ],
+  "answer": "C",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> 9 = 3², 12 = 2²·3 → 2²·3² = 36.</p><p><strong>Shortcut.</strong> 108 is the product.</p></div>",
+  "source": "gre-quant-lab@9bdc26e data/t012/easy.json e-10 (EKOK)"
+ },
+ {
+  "id": "GRE-t012-easy-e-11",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "easy",
+  "html": true,
+  "format": "multi",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">Which of the following integers are divisible by 9?<br><span class='hint'>Indicate <u>all</u> such integers.</span></div></div>",
+  "options": [
+   "A) 108",
+   "B) 234",
+   "C) 351",
+   "D) 425",
+   "E) 612",
+   "F) 800"
+  ],
+  "answer": "A,B,C,E",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> Digit sum a multiple of 9: 9, 9, 9, 11 ✗, 9, 8 ✗.</p></div>",
+  "source": "gre-quant-lab@9bdc26e data/t012/easy.json e-11 (9'a bölünebilme)"
+ },
+ {
+  "id": "GRE-t012-medium-m-1",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "medium",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div>(0.2)<sup>2</sup> + (0.3)<sup>2</sup></div><div>(0.5)<sup>2</sup></div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "B",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> 0.04 + 0.09 = 0.13 &lt; 0.25.</p><p><strong>Shortcut.</strong> a² + b² ≠ (a + b)²; the difference is 2ab.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t012/medium.json m-1 (Kare toplamı tuzağı)"
+ },
+ {
+  "id": "GRE-t012-medium-m-4",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "medium",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div>The least common multiple of 18 and 24</div><div>70</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "A",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> LCM = 72 &gt; 70.</p><p><strong>Shortcut.</strong> LCM · GCD = 18 · 24 = 432; GCD 6 → 72.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t012/medium.json m-4 (EKOK)"
+ },
+ {
+  "id": "GRE-t012-medium-m-5",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "medium",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"given\"><i>n</i> = 3<sup>4</sup> · 5<sup>2</sup></div><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div>The number of positive divisors of <i>n</i></div><div>The number of positive divisors of 100</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "A",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> n: 5 · 3 = 15. 100 = 2²·5²: 3 · 3 = 9. A.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t012/medium.json m-5 (Bölen sayısı karşılaştırma)"
+ },
+ {
+  "id": "GRE-t012-hard-h-2",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "hard",
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"given\"><i>n</i> is a positive integer, and <span class='frac'><span><i>n</i></span><span>35</span></span> is equal to a terminating decimal.</div><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div><i>n</i></div><div>14</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "D",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> 35 = 5 · 7; the 7 must cancel → n is a multiple of 7: 7, 14, 21, … → D.</p><p><strong>Shortcut.</strong> The smallest value (7) is less than B, 14 is equal, 21 is greater.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "gre-quant-lab@9bdc26e data/t012/hard.json h-2 (Sonlu ondalık (koşul))"
+ },
+ {
+  "id": "GRE-t012-hard-h-11",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "difficulty": "hard",
+  "html": true,
+  "format": "multi",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">Which of the following are perfect squares?<br><span class='hint'>Indicate <u>all</u> such numbers.</span></div></div>",
+  "options": [
+   "A) 3<sup>4</sup> · 5<sup>2</sup>",
+   "B) 2<sup>3</sup> · 7<sup>2</sup>",
+   "C) 10<sup>6</sup>",
+   "D) 4<sup>5</sup>",
+   "E) 12<sup>3</sup>",
+   "F) 27<sup>2</sup>"
+  ],
+  "answer": "A,C,D,F",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Step by step.</strong> Every prime exponent must be even. 3⁴·5² ✓; 2³·7² ✗; 10⁶ = 2⁶·5⁶ ✓; 4⁵ = 2¹⁰ ✓; 12³ = 2⁶·3³ ✗; 27² ✓.</p><p><strong>Shortcut.</strong> 4⁵, which looks like an odd exponent, is really 2¹⁰.</p></div>",
+  "source": "gre-quant-lab@9bdc26e data/t012/hard.json h-11 (Tam kare (üs çiftliği))"
+ }
+]
