@@ -35,6 +35,10 @@ Your Management Accounting notes cover variances (SC-1 to SC-4) and budgets (BU-
 3. Unit 3 (20-25%): process costing (MC-3, MC-4), service costing (MC-6).
 4. Unit 1 (10-15%): cost sheet (OV-5) and MCQ vocabulary.
 
+## Status (1 November 2026)
+
+Units 1-3 complete. Unit 4: CC-1 and CC-2 written; CC-3 to CC-11 and the Unit 4 node map still to come. Handoff: `docs/ca-handoff.md`.
+
 ## Sources
 - Study material index: https://boslive.icai.org/sm_chapter_details.php?p_id=189&m_id=236 (Module 1) and m_id=237 (Module 2)
 
