@@ -73,7 +73,11 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-DILR/"
       },
-      "verified": false
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
     },
     {
       "id": "cat-2017-s2-dilr-02",
@@ -102,7 +106,11 @@
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-DILR/"
       },
       "verified": false,
-      "answer_value": "2"
+      "answer_value": "2",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
     },
     {
       "id": "cat-2017-s2-dilr-03",
@@ -135,7 +143,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-DILR/"
       },
-      "verified": false
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/46-the-value-of-the-assets-distributed-among-neeta-se-x-cat-2017-shift-2",
+        "result": "mismatch",
+        "cracku_answer": "20"
+      }
     },
     {
       "id": "cat-2017-s2-dilr-04",
@@ -164,7 +178,13 @@
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-DILR/"
       },
       "verified": false,
-      "answer_value": "20"
+      "answer_value": "20",
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/45-the-value-of-the-assets-distributed-among-neeta-se-x-cat-2017-shift-2",
+        "result": "mismatch",
+        "cracku_answer": "90"
+      }
     },
     {
       "id": "cat-2017-s2-dilr-05",
@@ -197,7 +217,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/55-if-the-queen-is-at-c5-and-the-other-pieces-at-posi-x-cat-2017-shift-2",
+        "result": "match",
+        "cracku_answer": "4"
+      }
     },
     {
       "id": "cat-2017-s2-dilr-06",
@@ -230,7 +256,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/56-if-the-other-pieces-are-only-at-positions-a1-a3-b4-x-cat-2017-shift-2",
+        "result": "match",
+        "cracku_answer": "d3"
+      }
     },
     {
       "id": "cat-2017-s2-dilr-07",
@@ -263,7 +295,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/57-if-the-other-pieces-are-only-at-positions-a1-a3-b4-x-cat-2017-shift-2",
+        "result": "match",
+        "cracku_answer": "4"
+      }
     },
     {
       "id": "cat-2017-s2-dilr-08",
@@ -296,7 +334,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/58-suppose-the-queen-is-the-only-piece-on-the-board-a-x-cat-2017-shift-2",
+        "result": "match",
+        "cracku_answer": "36"
+      }
     },
     {
       "id": "cat-2017-s2-dilr-09",
@@ -329,7 +373,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/47-which-of-the-following-is-not-necessarily-true-x-cat-2017-shift-2",
+        "result": "match",
+        "cracku_answer": "Dorm 10 repair will cost no more than Rs. 4 Crores"
+      }
     },
     {
       "id": "cat-2017-s2-dilr-10",
@@ -357,8 +407,14 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-DILR/"
       },
-      "verified": false,
-      "answer_value": "19"
+      "verified": true,
+      "answer_value": "19",
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/48-what-is-the-total-cost-of-repairing-the-odd-number-x-cat-2017-shift-2",
+        "result": "match",
+        "cracku_answer": "19"
+      }
     },
     {
       "id": "cat-2017-s2-dilr-11",
@@ -386,8 +442,14 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-DILR/"
       },
-      "verified": false,
-      "answer_value": "3"
+      "verified": true,
+      "answer_value": "3",
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/49-suppose-further-that-1-4-of-the-10-dorms-needing-r-x-cat-2017-shift-2",
+        "result": "match",
+        "cracku_answer": "3"
+      }
     },
     {
       "id": "cat-2017-s2-dilr-12",
@@ -420,7 +482,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/50-suppose-further-that-1-4-of-the-10-dorms-needing-r-x-cat-2017-shift-2",
+        "result": "match",
+        "cracku_answer": "Dorm 10"
+      }
     },
     {
       "id": "cat-2017-s2-dilr-13",
@@ -453,7 +521,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/59-in-which-row-was-manik-sitting-x-cat-2017-shift-2",
+        "result": "match",
+        "cracku_answer": "10"
+      }
     },
     {
       "id": "cat-2017-s2-dilr-14",
@@ -486,7 +560,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/60-how-much-extra-did-jayanta-pay-for-his-choice-of-s-x-cat-2017-shift-2",
+        "result": "match",
+        "cracku_answer": "Rs. 500"
+      }
     },
     {
       "id": "cat-2017-s2-dilr-15",
@@ -519,7 +599,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/61-how-much-extra-did-gargi-pay-for-her-choice-of-sea-x-cat-2017-shift-2",
+        "result": "match",
+        "cracku_answer": "Rs. 1000"
+      }
     },
     {
       "id": "cat-2017-s2-dilr-16",
@@ -552,7 +638,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/62-who-among-the-following-did-not-pay-any-extra-amou-x-cat-2017-shift-2",
+        "result": "match",
+        "cracku_answer": "Tapesh"
+      }
     },
     {
       "id": "cat-2017-s2-dilr-17",
@@ -585,7 +677,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/39-how-many-elective-courses-among-e1-to-e6-had-a-dec-x-cat-2017-shift-2",
+        "result": "match",
+        "cracku_answer": "2"
+      }
     },
     {
       "id": "cat-2017-s2-dilr-18",
@@ -618,7 +716,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/40-after-the-change-process-which-of-the-following-is-x-cat-2017-shift-2",
+        "result": "match",
+        "cracku_answer": "18, 76, 79, 21, 45, 61"
+      }
     },
     {
       "id": "cat-2017-s2-dilr-19",
@@ -651,7 +755,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/41-after-the-change-process-which-course-among-e1-to--x-cat-2017-shift-2",
+        "result": "match",
+        "cracku_answer": "E6"
+      }
     },
     {
       "id": "cat-2017-s2-dilr-20",
@@ -684,7 +794,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/42-later-the-college-imposed-a-condition-that-if-afte-x-cat-2017-shift-2",
+        "result": "match",
+        "cracku_answer": "E2, E3, E6, E5, E1, E4"
+      }
     },
     {
       "id": "cat-2017-s2-dilr-21",
@@ -717,7 +833,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/35-how-many-thin-crust-pizzas-were-to-be-delivered-to-x-cat-2017-shift-2",
+        "result": "match",
+        "cracku_answer": "162"
+      }
     },
     {
       "id": "cat-2017-s2-dilr-22",
@@ -750,7 +872,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/36-how-many-normal-cheese-pizzas-were-required-to-be--x-cat-2017-shift-2",
+        "result": "match",
+        "cracku_answer": "16"
+      }
     },
     {
       "id": "cat-2017-s2-dilr-23",
@@ -783,7 +911,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/37-for-party-2-if-50-of-the-normal-cheese-pizzas-were-x-cat-2017-shift-2",
+        "result": "match",
+        "cracku_answer": "12"
+      }
     },
     {
       "id": "cat-2017-s2-dilr-24",
@@ -816,7 +950,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/38-suppose-that-a-t-nc-pizza-cost-as-much-as-a-d-nc-p-x-cat-2017-shift-2",
+        "result": "match",
+        "cracku_answer": "Rs. 59480"
+      }
     },
     {
       "id": "cat-2017-s2-dilr-25",
@@ -844,8 +984,14 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-DILR/"
       },
-      "verified": false,
-      "answer_value": "11"
+      "verified": true,
+      "answer_value": "11",
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/63-the-lab-has-decided-to-allow-a-variation-in-the-se-x-cat-2017-shift-2",
+        "result": "match",
+        "cracku_answer": "11"
+      }
     },
     {
       "id": "cat-2017-s2-dilr-26",
@@ -878,7 +1024,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/64-the-lab-has-decided-to-allow-variations-of-the-ori-x-cat-2017-shift-2",
+        "result": "match",
+        "cracku_answer": "8"
+      }
     },
     {
       "id": "cat-2017-s2-dilr-27",
@@ -906,8 +1058,14 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-DILR/"
       },
-      "verified": false,
-      "answer_value": "15"
+      "verified": true,
+      "answer_value": "15",
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/65-the-lab-has-now-decided-to-require-six-scans-in-th-x-cat-2017-shift-2",
+        "result": "match",
+        "cracku_answer": "15"
+      }
     },
     {
       "id": "cat-2017-s2-dilr-28",
@@ -940,7 +1098,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/66-the-lab-has-now-decided-to-require-six-scans-in-th-x-cat-2017-shift-2",
+        "result": "match",
+        "cracku_answer": "13"
+      }
     },
     {
       "id": "cat-2017-s2-dilr-29",
@@ -968,8 +1132,14 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-DILR/"
       },
-      "verified": false,
-      "answer_value": "7"
+      "verified": true,
+      "answer_value": "7",
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/51-what-was-the-second-highest-rating-given-x-cat-2017-shift-2",
+        "result": "match",
+        "cracku_answer": "7"
+      }
     },
     {
       "id": "cat-2017-s2-dilr-30",
@@ -997,8 +1167,14 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-DILR/"
       },
-      "verified": false,
-      "answer_value": "4"
+      "verified": true,
+      "answer_value": "4",
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/52-what-was-the-number-of-the-cup-that-contained-tea--x-cat-2017-shift-2",
+        "result": "match",
+        "cracku_answer": "4"
+      }
     },
     {
       "id": "cat-2017-s2-dilr-31",
@@ -1031,7 +1207,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/53-if-the-tea-from-munnar-did-not-get-the-minimum-rat-x-cat-2017-shift-2",
+        "result": "match",
+        "cracku_answer": "5"
+      }
     },
     {
       "id": "cat-2017-s2-dilr-32",
@@ -1064,7 +1246,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-2-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/54-if-cups-containing-teas-from-wayanad-and-ooty-had--x-cat-2017-shift-2",
+        "result": "match",
+        "cracku_answer": "Cup 1 contains tea from Darjeeling"
+      }
     }
   ]
 }

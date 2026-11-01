@@ -73,7 +73,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/55-who-among-the-following-four-is-not-a-member-of-te-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "Quentin"
+      }
     },
     {
       "id": "cat-2019-s2-dilr-02",
@@ -106,7 +112,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/56-who-among-the-following-four-people-is-a-part-of-e-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "Sally"
+      }
     },
     {
       "id": "cat-2019-s2-dilr-03",
@@ -139,7 +151,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/57-who-among-the-five-people-is-a-member-of-all-teams-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "Paula"
+      }
     },
     {
       "id": "cat-2019-s2-dilr-04",
@@ -172,7 +190,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/58-apart-from-chinese-and-english-which-languages-are-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "Arabic and French"
+      }
     },
     {
       "id": "cat-2019-s2-dilr-05",
@@ -205,7 +229,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/39-if-a-heavy-monsoon-state-is-defined-as-a-state-wit-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "42.86"
+      }
     },
     {
       "id": "cat-2019-s2-dilr-06",
@@ -238,7 +268,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/40-if-a-low-monsoon-state-is-defined-as-a-state-with--x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "-10%"
+      }
     },
     {
       "id": "cat-2019-s2-dilr-07",
@@ -271,7 +307,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/41-what-is-the-average-rainfall-of-all-states-that-ha-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "460 mm"
+      }
     },
     {
       "id": "cat-2019-s2-dilr-08",
@@ -304,7 +346,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/42-the-lpa-of-a-state-for-a-year-is-defined-as-the-av-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "490 mm"
+      }
     },
     {
       "id": "cat-2019-s2-dilr-09",
@@ -332,8 +380,14 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-DILR/"
       },
-      "verified": false,
-      "answer_value": "64"
+      "verified": true,
+      "answer_value": "64",
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/63-among-the-students-surveyed-who-supported-proposal-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "64"
+      }
     },
     {
       "id": "cat-2019-s2-dilr-10",
@@ -361,8 +415,14 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-DILR/"
       },
-      "verified": false,
-      "answer_value": "84"
+      "verified": true,
+      "answer_value": "84",
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/64-what-percentage-of-the-students-surveyed-who-did-n-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "84"
+      }
     },
     {
       "id": "cat-2019-s2-dilr-11",
@@ -395,7 +455,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/65-what-percentage-of-the-students-surveyed-who-suppo-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "50"
+      }
     },
     {
       "id": "cat-2019-s2-dilr-12",
@@ -428,7 +494,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/66-how-many-of-the-students-surveyed-supported-propos-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "150"
+      }
     },
     {
       "id": "cat-2019-s2-dilr-13",
@@ -461,7 +533,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/51-what-is-the-maximum-number-of-patients-that-the-cl-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "31"
+      }
     },
     {
       "id": "cat-2019-s2-dilr-14",
@@ -494,7 +572,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/52-the-queue-is-never-empty-on-one-particular-saturda-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "Dr. Kane"
+      }
     },
     {
       "id": "cat-2019-s2-dilr-15",
@@ -527,7 +611,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/53-mr-singh-visited-the-clinic-on-monday-wednesday-an-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "Monday"
+      }
     },
     {
       "id": "cat-2019-s2-dilr-16",
@@ -560,7 +650,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/54-on-a-slow-thursday-only-two-patients-are-waiting-a-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "0"
+      }
     },
     {
       "id": "cat-2019-s2-dilr-17",
@@ -588,8 +684,14 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-DILR/"
       },
-      "verified": false,
-      "answer_value": "13"
+      "verified": true,
+      "answer_value": "13",
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/47-what-is-the-total-amount-of-money-in-rupees-in-the-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "13"
+      }
     },
     {
       "id": "cat-2019-s2-dilr-18",
@@ -617,8 +719,14 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-DILR/"
       },
-      "verified": false,
-      "answer_value": "8"
+      "verified": true,
+      "answer_value": "8",
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/48-how-many-pouches-contain-exactly-one-coin-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "8"
+      }
     },
     {
       "id": "cat-2019-s2-dilr-19",
@@ -646,8 +754,14 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-DILR/"
       },
-      "verified": false,
-      "answer_value": "2"
+      "verified": true,
+      "answer_value": "2",
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/49-what-is-the-number-of-slots-for-which-the-average--x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "2"
+      }
     },
     {
       "id": "cat-2019-s2-dilr-20",
@@ -675,8 +789,14 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-DILR/"
       },
-      "verified": false,
-      "answer_value": "3"
+      "verified": true,
+      "answer_value": "3",
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/50-the-number-of-slots-for-which-the-total-amount-in--x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "3"
+      }
     },
     {
       "id": "cat-2019-s2-dilr-21",
@@ -709,7 +829,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/43-the-second-question-in-et-was-prepared-by-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "Dave"
+      }
     },
     {
       "id": "cat-2019-s2-dilr-22",
@@ -742,7 +868,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/44-how-many-5mark-questions-were-there-in-mt-and-et-c-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "13"
+      }
     },
     {
       "id": "cat-2019-s2-dilr-23",
@@ -775,7 +907,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/45-who-prepared-15-mark-questions-for-mt-and-et-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "Only Dave, Esha and Fakir"
+      }
     },
     {
       "id": "cat-2019-s2-dilr-24",
@@ -808,7 +946,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/46-which-of-the-following-questions-did-beti-prepare--x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "Tenth question"
+      }
     },
     {
       "id": "cat-2019-s2-dilr-25",
@@ -841,7 +985,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/35-what-were-the-scores-of-chen-david-and-eric-respec-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "3, 3, 3"
+      }
     },
     {
       "id": "cat-2019-s2-dilr-26",
@@ -874,7 +1024,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/36-which-three-players-were-in-the-last-three-positio-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "Hansa, Ikea, Joshin"
+      }
     },
     {
       "id": "cat-2019-s2-dilr-27",
@@ -907,7 +1063,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/37-which-player-scored-points-in-maximum-number-of-ro-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "Ikea"
+      }
     },
     {
       "id": "cat-2019-s2-dilr-28",
@@ -940,7 +1102,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/38-which-players-scored-points-in-the-last-round-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "Amita, Chen, Eric"
+      }
     },
     {
       "id": "cat-2019-s2-dilr-29",
@@ -968,8 +1136,14 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-DILR/"
       },
-      "verified": false,
-      "answer_value": "25"
+      "verified": true,
+      "answer_value": "25",
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/59-what-was-the-percentage-profit-of-the-store-in-201-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "25"
+      }
     },
     {
       "id": "cat-2019-s2-dilr-30",
@@ -1002,7 +1176,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/60-what-was-the-ratio-of-revenue-generated-from-the-p-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "8 : 5"
+      }
     },
     {
       "id": "cat-2019-s2-dilr-31",
@@ -1030,8 +1210,14 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-DILR/"
       },
-      "verified": false,
-      "answer_value": "70"
+      "verified": true,
+      "answer_value": "70",
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/61-what-percentage-of-the-total-profits-for-the-store-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "70"
+      }
     },
     {
       "id": "cat-2019-s2-dilr-32",
@@ -1064,7 +1250,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/62-what-was-the-approximate-difference-in-profit-perc-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "8.3"
+      }
     }
   ]
 }

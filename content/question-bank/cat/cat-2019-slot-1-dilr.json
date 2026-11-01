@@ -68,8 +68,14 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false,
-      "answer_value": "2"
+      "verified": true,
+      "answer_value": "2",
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/63-what-is-the-minimum-possible-number-of-different-t-x-cat-2019-slot-1",
+        "result": "match",
+        "cracku_answer": "2"
+      }
     },
     {
       "id": "cat-2019-s1-dilr-02",
@@ -97,8 +103,14 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false,
-      "answer_value": "6"
+      "verified": true,
+      "answer_value": "6",
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/64-what-is-the-maximum-possible-number-of-different-t-x-cat-2019-slot-1",
+        "result": "match",
+        "cracku_answer": "6"
+      }
     },
     {
       "id": "cat-2019-s1-dilr-03",
@@ -131,7 +143,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/65-which-of-the-following-is-not-possible-x-cat-2019-slot-1",
+        "result": "match",
+        "cracku_answer": "There are exactly 45 items of type c."
+      }
     },
     {
       "id": "cat-2019-s1-dilr-04",
@@ -164,7 +182,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/66-you-ask-for-the-type-of-item-in-box-45-instead-of--x-cat-2019-slot-1",
+        "result": "match",
+        "cracku_answer": "5"
+      }
     },
     {
       "id": "cat-2019-s1-dilr-05",
@@ -197,7 +221,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/55-who-is-standing-at-intersection-a-x-cat-2019-slot-1",
+        "result": "match",
+        "cracku_answer": "No one"
+      }
     },
     {
       "id": "cat-2019-s1-dilr-06",
@@ -230,7 +260,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/56-who-can-v-see-x-cat-2019-slot-1",
+        "result": "match",
+        "cracku_answer": "U and Z only"
+      }
     },
     {
       "id": "cat-2019-s1-dilr-07",
@@ -263,7 +299,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/57-what-is-the-minimum-number-of-street-segments-that-x-cat-2019-slot-1",
+        "result": "match",
+        "cracku_answer": "2"
+      }
     },
     {
       "id": "cat-2019-s1-dilr-08",
@@ -296,7 +338,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/58-should-a-new-person-stand-at-intersection-d-who-am-x-cat-2019-slot-1",
+        "result": "match",
+        "cracku_answer": "W and X only"
+      }
     },
     {
       "id": "cat-2019-s1-dilr-09",
@@ -324,8 +372,14 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false,
-      "answer_value": "5"
+      "verified": true,
+      "answer_value": "5",
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/51-what-is-the-rank-of-kerala-in-the-ipc-crimes-categ-x-cat-2019-slot-1",
+        "result": "match",
+        "cracku_answer": "5"
+      }
     },
     {
       "id": "cat-2019-s1-dilr-10",
@@ -358,7 +412,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/52-in-the-two-states-where-the-highest-total-number-o-x-cat-2019-slot-1",
+        "result": "match",
+        "cracku_answer": "1 : 9"
+      }
     },
     {
       "id": "cat-2019-s1-dilr-11",
@@ -391,7 +451,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/53-which-of-the-following-is-definitely-true-about-th-x-cat-2019-slot-1",
+        "result": "match",
+        "cracku_answer": "both i) and ii)"
+      }
     },
     {
       "id": "cat-2019-s1-dilr-12",
@@ -419,8 +485,14 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false,
-      "answer_value": "5"
+      "verified": true,
+      "answer_value": "5",
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/54-what-is-the-sum-of-the-ranks-of-delhi-in-the-three-x-cat-2019-slot-1",
+        "result": "match",
+        "cracku_answer": "5"
+      }
     },
     {
       "id": "cat-2019-s1-dilr-13",
@@ -453,7 +525,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/47-on-which-aspect-is-the-median-score-of-the-five-ve-x-cat-2019-slot-1",
+        "result": "match",
+        "cracku_answer": "Customer Service"
+      }
     },
     {
       "id": "cat-2019-s1-dilr-14",
@@ -486,7 +564,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/48-a-vendors-final-score-is-the-average-of-their-scor-x-cat-2019-slot-1",
+        "result": "match",
+        "cracku_answer": "Vendor 3"
+      }
     },
     {
       "id": "cat-2019-s1-dilr-15",
@@ -519,7 +603,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/49-list-of-all-the-vendors-who-are-among-the-top-two--x-cat-2019-slot-1",
+        "result": "match",
+        "cracku_answer": "Vendor 1 and Vendor 5"
+      }
     },
     {
       "id": "cat-2019-s1-dilr-16",
@@ -552,7 +642,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/50-list-of-all-the-vendors-who-are-among-the-top-thre-x-cat-2019-slot-1",
+        "result": "match",
+        "cracku_answer": "Vendor 3"
+      }
     },
     {
       "id": "cat-2019-s1-dilr-17",
@@ -585,7 +681,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/35-in-how-many-different-ways-can-the-items-be-arrang-x-cat-2019-slot-1",
+        "result": "match",
+        "cracku_answer": "8"
+      }
     },
     {
       "id": "cat-2019-s1-dilr-18",
@@ -618,7 +720,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/36-which-of-the-following-items-is-not-a-type-of-bisc-x-cat-2019-slot-1",
+        "result": "match",
+        "cracku_answer": "G"
+      }
     },
     {
       "id": "cat-2019-s1-dilr-19",
@@ -651,7 +759,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/37-which-of-the-following-can-represent-the-numbers-o-x-cat-2019-slot-1",
+        "result": "match",
+        "cracku_answer": "1, 2, 6, 12"
+      }
     },
     {
       "id": "cat-2019-s1-dilr-20",
@@ -684,7 +798,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/38-which-of-the-following-statements-is-necessarily-t-x-cat-2019-slot-1",
+        "result": "match",
+        "cracku_answer": "There are at least four shelves between items B and C."
+      }
     },
     {
       "id": "cat-2019-s1-dilr-21",
@@ -717,7 +837,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/39-what-was-the-highest-total-score-x-cat-2019-slot-1",
+        "result": "match",
+        "cracku_answer": "25"
+      }
     },
     {
       "id": "cat-2019-s1-dilr-22",
@@ -750,7 +876,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/40-what-was-zenecas-total-score-x-cat-2019-slot-1",
+        "result": "match",
+        "cracku_answer": "24"
+      }
     },
     {
       "id": "cat-2019-s1-dilr-23",
@@ -783,7 +915,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/41-which-of-the-following-statements-is-true-x-cat-2019-slot-1",
+        "result": "match",
+        "cracku_answer": "Xyla was the highest scorer."
+      }
     },
     {
       "id": "cat-2019-s1-dilr-24",
@@ -816,7 +954,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/42-what-was-tanzis-score-in-round-3-x-cat-2019-slot-1",
+        "result": "match",
+        "cracku_answer": "1"
+      }
     },
     {
       "id": "cat-2019-s1-dilr-25",
@@ -844,8 +988,14 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false,
-      "answer_value": "1"
+      "verified": true,
+      "answer_value": "1",
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/43-which-digit-does-the-letter-a-represent-x-cat-2019-slot-1",
+        "result": "match",
+        "cracku_answer": "1"
+      }
     },
     {
       "id": "cat-2019-s1-dilr-26",
@@ -873,8 +1023,14 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false,
-      "answer_value": "9"
+      "verified": true,
+      "answer_value": "9",
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/44-which-digit-does-the-letter-b-represent-x-cat-2019-slot-1",
+        "result": "match",
+        "cracku_answer": "9"
+      }
     },
     {
       "id": "cat-2019-s1-dilr-27",
@@ -902,8 +1058,14 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false,
-      "answer_value": "7"
+      "verified": true,
+      "answer_value": "7",
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/45-which-among-the-digits-3-4-6-and-7-cannot-be-repre-x-cat-2019-slot-1",
+        "result": "match",
+        "cracku_answer": "7"
+      }
     },
     {
       "id": "cat-2019-s1-dilr-28",
@@ -931,8 +1093,14 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false,
-      "answer_value": "6"
+      "verified": true,
+      "answer_value": "6",
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/46-which-among-the-digits-4-6-7-and-8-cannot-be-repre-x-cat-2019-slot-1",
+        "result": "match",
+        "cracku_answer": "6"
+      }
     },
     {
       "id": "cat-2019-s1-dilr-29",
@@ -965,7 +1133,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/59-which-of-the-following-is-true-x-cat-2019-slot-1",
+        "result": "match",
+        "cracku_answer": "The second performance was composed by Dyu."
+      }
     },
     {
       "id": "cat-2019-s1-dilr-30",
@@ -998,7 +1172,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/60-which-of-the-following-is-false-x-cat-2019-slot-1",
+        "result": "match",
+        "cracku_answer": "Queen did not perform in any item composed by Gagan."
+      }
     },
     {
       "id": "cat-2019-s1-dilr-31",
@@ -1031,7 +1211,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/61-the-sixth-performance-was-composed-by-x-cat-2019-slot-1",
+        "result": "match",
+        "cracku_answer": "Badal"
+      }
     },
     {
       "id": "cat-2019-s1-dilr-32",
@@ -1064,7 +1250,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/62-which-pair-of-performances-were-composed-by-the-sa-x-cat-2019-slot-1",
+        "result": "match",
+        "cracku_answer": "The first and the sixth"
+      }
     }
   ]
 }

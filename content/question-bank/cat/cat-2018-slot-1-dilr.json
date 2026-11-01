@@ -73,7 +73,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/63-which-of-the-following-statements-must-be-true-1-j-x-cat-2018-slot-1",
+        "result": "match",
+        "cracku_answer": "Both 1 and 2"
+      }
     },
     {
       "id": "cat-2018-s1-dilr-02",
@@ -106,7 +112,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/64-which-of-the-following-statements-must-be-false-x-cat-2018-slot-1",
+        "result": "match",
+        "cracku_answer": "Bala scored same as Jatin in DI"
+      }
     },
     {
       "id": "cat-2018-s1-dilr-03",
@@ -134,8 +146,14 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false,
-      "answer_value": "13"
+      "verified": true,
+      "answer_value": "13",
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/65-if-all-the-candidates-except-ajay-and-danish-had-d-x-cat-2018-slot-1",
+        "result": "match",
+        "cracku_answer": "13"
+      }
     },
     {
       "id": "cat-2018-s1-dilr-04",
@@ -163,8 +181,14 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false,
-      "answer_value": "14"
+      "verified": true,
+      "answer_value": "14",
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/66-if-all-the-candidates-scored-different-marks-in-we-x-cat-2018-slot-1",
+        "result": "match",
+        "cracku_answer": "14"
+      }
     },
     {
       "id": "cat-2018-s1-dilr-05",
@@ -197,7 +221,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/59-what-best-can-be-said-about-the-number-of-satellit-x-cat-2018-slot-1",
+        "result": "match",
+        "cracku_answer": "Must be between 450 and 725"
+      }
     },
     {
       "id": "cat-2018-s1-dilr-06",
@@ -230,7 +260,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/60-what-is-the-minimum-possible-number-of-satellites--x-cat-2018-slot-1",
+        "result": "match",
+        "cracku_answer": "250"
+      }
     },
     {
       "id": "cat-2018-s1-dilr-07",
@@ -263,7 +299,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/61-if-at-least-100-of-the-1600-satellites-were-servin-x-cat-2018-slot-1",
+        "result": "match",
+        "cracku_answer": "At most 475"
+      }
     },
     {
       "id": "cat-2018-s1-dilr-08",
@@ -296,7 +338,11 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
     },
     {
       "id": "cat-2018-s1-dilr-09",
@@ -324,8 +370,14 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false,
-      "answer_value": "4"
+      "verified": true,
+      "answer_value": "4",
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/43-what-is-the-minimum-number-of-different-numerals-n-x-cat-2018-slot-1",
+        "result": "match",
+        "cracku_answer": "4"
+      }
     },
     {
       "id": "cat-2018-s1-dilr-10",
@@ -353,8 +405,14 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false,
-      "answer_value": "4"
+      "verified": true,
+      "answer_value": "4",
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/44-what-is-the-minimum-number-of-different-numerals-n-x-cat-2018-slot-1",
+        "result": "match",
+        "cracku_answer": "4"
+      }
     },
     {
       "id": "cat-2018-s1-dilr-11",
@@ -387,7 +445,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/45-suppose-you-are-allowed-to-make-one-mistake-that-i-x-cat-2018-slot-1",
+        "result": "match",
+        "cracku_answer": "4"
+      }
     },
     {
       "id": "cat-2018-s1-dilr-12",
@@ -420,7 +484,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/46-suppose-that-all-the-cells-adjacent-to-any-particu-x-cat-2018-slot-1",
+        "result": "match",
+        "cracku_answer": "9"
+      }
     },
     {
       "id": "cat-2018-s1-dilr-13",
@@ -453,7 +523,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/51-what-is-the-percentage-increase-in-sales-in-decemb-x-cat-2018-slot-1",
+        "result": "match",
+        "cracku_answer": "28.57"
+      }
     },
     {
       "id": "cat-2018-s1-dilr-14",
@@ -486,7 +562,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/52-in-which-quarter-of-2017-was-the-percentage-increa-x-cat-2018-slot-1",
+        "result": "match",
+        "cracku_answer": "Q1"
+      }
     },
     {
       "id": "cat-2018-s1-dilr-15",
@@ -519,7 +601,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/53-during-which-quarter-was-the-percentage-decrease-i-x-cat-2018-slot-1",
+        "result": "match",
+        "cracku_answer": "Q2 of 2017"
+      }
     },
     {
       "id": "cat-2018-s1-dilr-16",
@@ -552,7 +640,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/54-during-which-month-was-the-percentage-increase-in--x-cat-2018-slot-1",
+        "result": "match",
+        "cracku_answer": "October of 2017"
+      }
     },
     {
       "id": "cat-2018-s1-dilr-17",
@@ -580,8 +674,14 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false,
-      "answer_value": "7"
+      "verified": true,
+      "answer_value": "7",
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/39-in-how-many-different-ways-can-the-atm-serve-a-cus-x-cat-2018-slot-1",
+        "result": "match",
+        "cracku_answer": "7"
+      }
     },
     {
       "id": "cat-2018-s1-dilr-18",
@@ -609,8 +709,14 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false,
-      "answer_value": "6"
+      "verified": true,
+      "answer_value": "6",
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/40-if-the-atm-could-serve-only-10-customers-with-a-st-x-cat-2018-slot-1",
+        "result": "match",
+        "cracku_answer": "6"
+      }
     },
     {
       "id": "cat-2018-s1-dilr-19",
@@ -643,7 +749,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/41-what-is-the-maximum-number-of-customers-that-the-a-x-cat-2018-slot-1",
+        "result": "match",
+        "cracku_answer": "12"
+      }
     },
     {
       "id": "cat-2018-s1-dilr-20",
@@ -676,7 +788,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/42-what-is-the-number-of-500-rupee-notes-required-to--x-cat-2018-slot-1",
+        "result": "match",
+        "cracku_answer": "900"
+      }
     },
     {
       "id": "cat-2018-s1-dilr-21",
@@ -709,7 +827,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/47-which-of-the-following-must-be-true-x-cat-2018-slot-1",
+        "result": "match",
+        "cracku_answer": "The contamination level at P10 was recorded as high."
+      }
     },
     {
       "id": "cat-2018-s1-dilr-22",
@@ -742,7 +866,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/48-what-best-can-be-said-about-the-number-of-pumps-at-x-cat-2018-slot-1",
+        "result": "match",
+        "cracku_answer": "Exactly 8"
+      }
     },
     {
       "id": "cat-2018-s1-dilr-23",
@@ -775,7 +905,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/49-if-the-contamination-level-at-p11-was-recorded-as--x-cat-2018-slot-1",
+        "result": "match",
+        "cracku_answer": "The contamination level at P14 was recorded as medium."
+      }
     },
     {
       "id": "cat-2018-s1-dilr-24",
@@ -808,7 +944,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/50-if-contamination-level-at-p15-was-recorded-as-medi-x-cat-2018-slot-1",
+        "result": "match",
+        "cracku_answer": "Contamination levels at P11 and P16 were recorded as the same."
+      }
     },
     {
       "id": "cat-2018-s1-dilr-25",
@@ -841,7 +983,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/35-who-are-the-students-from-the-institute-z-x-cat-2018-slot-1",
+        "result": "match",
+        "cracku_answer": "Bandita and Chitra"
+      }
     },
     {
       "id": "cat-2018-s1-dilr-26",
@@ -874,7 +1022,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/36-which-subject-does-deb-minor-in-x-cat-2018-slot-1",
+        "result": "match",
+        "cracku_answer": "Finance"
+      }
     },
     {
       "id": "cat-2018-s1-dilr-27",
@@ -907,7 +1061,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/37-which-subject-does-amit-major-in-x-cat-2018-slot-1",
+        "result": "match",
+        "cracku_answer": "Finance"
+      }
     },
     {
       "id": "cat-2018-s1-dilr-28",
@@ -940,7 +1100,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/38-if-chitra-majors-in-finance-which-subject-does-ban-x-cat-2018-slot-1",
+        "result": "match",
+        "cracku_answer": "Operations"
+      }
     },
     {
       "id": "cat-2018-s1-dilr-29",
@@ -973,7 +1139,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/55-based-on-the-given-information-which-of-the-follow-x-cat-2018-slot-1",
+        "result": "match",
+        "cracku_answer": "The size of the research committee is less than the size of the teaching committee"
+      }
     },
     {
       "id": "cat-2018-s1-dilr-30",
@@ -1001,8 +1173,14 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false,
-      "answer_value": "4"
+      "verified": true,
+      "answer_value": "4",
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/56-what-is-the-number-of-bureaucrats-in-the-administr-x-cat-2018-slot-1",
+        "result": "match",
+        "cracku_answer": "4"
+      }
     },
     {
       "id": "cat-2018-s1-dilr-31",
@@ -1030,8 +1208,14 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false,
-      "answer_value": "3"
+      "verified": true,
+      "answer_value": "3",
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/57-what-is-the-number-of-educationalists-in-the-resea-x-cat-2018-slot-1",
+        "result": "match",
+        "cracku_answer": "3"
+      }
     },
     {
       "id": "cat-2018-s1-dilr-32",
@@ -1064,7 +1248,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/58-which-of-the-following-cannot-be-determined-unique-x-cat-2018-slot-1",
+        "result": "match",
+        "cracku_answer": "The size of the teaching committee"
+      }
     }
   ]
 }

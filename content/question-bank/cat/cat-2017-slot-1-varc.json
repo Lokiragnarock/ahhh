@@ -73,7 +73,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-1-VARC/"
       },
-      "verified": false
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/20-which-one-of-the-following-best-describes-what-the-x-cat-2017-shift-1",
+        "result": "mismatch",
+        "cracku_answer": "It corrects the misconception about the way maps are designed."
+      }
     },
     {
       "id": "cat-2017-s1-varc-02",
@@ -106,7 +112,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-1-VARC/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/21-early-maps-did-not-put-north-at-the-top-for-all-th-x-cat-2017-shift-1",
+        "result": "match",
+        "cracku_answer": "South was favoured by some emperors."
+      }
     },
     {
       "id": "cat-2017-s1-varc-03",
@@ -139,7 +151,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-1-VARC/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/22-according-to-the-passage-early-chinese-maps-placed-x-cat-2017-shift-1",
+        "result": "match",
+        "cracku_answer": "they wanted to show respect to the emperor."
+      }
     },
     {
       "id": "cat-2017-s1-varc-04",
@@ -172,7 +190,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-1-VARC/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/23-it-can-be-inferred-from-the-passage-that-european--x-cat-2017-shift-1",
+        "result": "match",
+        "cracku_answer": "used an eastward orientation for religious reasons"
+      }
     },
     {
       "id": "cat-2017-s1-varc-05",
@@ -205,7 +229,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-1-VARC/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/24-which-one-of-the-following-about-the-northern-orie-x-cat-2017-shift-1",
+        "result": "match",
+        "cracku_answer": "The biggest contributory factor is not stated in the passage."
+      }
     },
     {
       "id": "cat-2017-s1-varc-06",
@@ -238,7 +268,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-1-VARC/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/25-the-role-of-natural-phenomena-in-influencing-map-m-x-cat-2017-shift-1",
+        "result": "match",
+        "cracku_answer": "early Egyptian maps"
+      }
     },
     {
       "id": "cat-2017-s1-varc-07",
@@ -271,7 +307,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-1-VARC/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/9-the-printing-press-has-been-likened-to-the-interne-x-cat-2017-shift-1",
+        "result": "match",
+        "cracku_answer": "It enabled rapid access to new information and the sharing of new ideas."
+      }
     },
     {
       "id": "cat-2017-s1-varc-08",
@@ -304,7 +346,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-1-VARC/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/10-according-to-the-passage-the-invention-of-the-prin-x-cat-2017-shift-1",
+        "result": "match",
+        "cracku_answer": "enabled people to perform various tasks simultaneously."
+      }
     },
     {
       "id": "cat-2017-s1-varc-09",
@@ -337,7 +385,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-1-VARC/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/11-steve-jobs-predicted-which-one-of-the-following-wi-x-cat-2017-shift-1",
+        "result": "match",
+        "cracku_answer": "Reading printed books would become a thing of the past."
+      }
     },
     {
       "id": "cat-2017-s1-varc-10",
@@ -370,7 +424,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-1-VARC/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/12-im-still-waiting-to-see-if-the-iphone-can-do-what--x-cat-2017-shift-1",
+        "result": "match",
+        "cracku_answer": "The continued suppression of free speech in closed societies."
+      }
     },
     {
       "id": "cat-2017-s1-varc-11",
@@ -403,7 +463,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-1-VARC/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/13-the-author-attributes-the-french-and-american-revo-x-cat-2017-shift-1",
+        "result": "match",
+        "cracku_answer": "the rapid spread of information exposed people to new ideas on freedom and democracy."
+      }
     },
     {
       "id": "cat-2017-s1-varc-12",
@@ -436,7 +502,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-1-VARC/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/14-the-main-conclusion-of-the-passage-is-that-the-new-x-cat-2017-shift-1",
+        "result": "match",
+        "cracku_answer": "so far not proved as successful as the printing press in opening people's minds."
+      }
     },
     {
       "id": "cat-2017-s1-varc-13",
@@ -469,7 +541,11 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-1-VARC/"
       },
-      "verified": false
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
     },
     {
       "id": "cat-2017-s1-varc-14",
@@ -502,7 +578,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-1-VARC/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/2-why-does-the-author-say-in-paragraph-2-the-massive-x-cat-2017-shift-1",
+        "result": "match",
+        "cracku_answer": "To highlight the irony of the situation."
+      }
     },
     {
       "id": "cat-2017-s1-varc-15",
@@ -535,7 +617,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-1-VARC/"
       },
-      "verified": false
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/3-in-the-first-paragraph-the-phrase-real-estate-deve-x-cat-2017-shift-1",
+        "result": "mismatch",
+        "cracku_answer": "no longer pursue brand-name anchor outlets."
+      }
     },
     {
       "id": "cat-2017-s1-varc-16",
@@ -568,7 +656,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-1-VARC/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/4-the-author-calls-the-mall-an-ecosystem-unto-itself-x-cat-2017-shift-1",
+        "result": "match",
+        "cracku_answer": "it was a commercial space as well as a gathering place."
+      }
     },
     {
       "id": "cat-2017-s1-varc-17",
@@ -601,7 +695,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-1-VARC/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/5-why-does-the-author-say-that-the-mall-has-been-ame-x-cat-2017-shift-1",
+        "result": "match",
+        "cracku_answer": "Malls were a great place for everyone to gather and interact."
+      }
     },
     {
       "id": "cat-2017-s1-varc-18",
@@ -634,7 +734,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-1-VARC/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/6-the-author-describes-perfume-clouds-in-the-departm-x-cat-2017-shift-1",
+        "result": "match",
+        "cracku_answer": "evoke memories by painting a picture of malls."
+      }
     },
     {
       "id": "cat-2017-s1-varc-19",
@@ -667,7 +773,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-1-VARC/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/16-which-of-the-following-best-sums-up-ehrlich-and-ra-x-cat-2017-shift-1",
+        "result": "match",
+        "cracku_answer": "While a factor, isolation was not as important to speciation as natural selection."
+      }
     },
     {
       "id": "cat-2017-s1-varc-20",
@@ -700,7 +812,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-1-VARC/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/17-all-of-the-following-statements-are-true-according-x-cat-2017-shift-1",
+        "result": "match",
+        "cracku_answer": "The Population Bomb questioned dominant ideas about species diversity."
+      }
     },
     {
       "id": "cat-2017-s1-varc-21",
@@ -733,7 +851,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-1-VARC/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/18-the-author-discusses-mayr-ehrlich-and-raven-to-dem-x-cat-2017-shift-1",
+        "result": "match",
+        "cracku_answer": "the causes of speciation are debated by scientists."
+      }
     },
     {
       "id": "cat-2017-s1-varc-22",
@@ -766,7 +890,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-1-VARC/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/31-the-central-point-in-the-first-paragraph-is-that-t-x-cat-2017-shift-1",
+        "result": "match",
+        "cracku_answer": "accrue to host cities, if at all, only in the long term."
+      }
     },
     {
       "id": "cat-2017-s1-varc-23",
@@ -799,7 +929,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-1-VARC/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/32-sports-facilities-built-for-the-olympics-are-not-f-x-cat-2017-shift-1",
+        "result": "match",
+        "cracku_answer": "their scale and the costs of operating them are large."
+      }
     },
     {
       "id": "cat-2017-s1-varc-24",
@@ -832,7 +968,11 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-1-VARC/"
       },
-      "verified": false
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
     },
     {
       "id": "cat-2017-s1-varc-25",
@@ -861,7 +1001,11 @@
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-1-VARC/"
       },
       "verified": false,
-      "answer_value": "54132"
+      "answer_value": "54132",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
     },
     {
       "id": "cat-2017-s1-varc-26",
@@ -890,7 +1034,11 @@
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-1-VARC/"
       },
       "verified": false,
-      "answer_value": "15243"
+      "answer_value": "15243",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
     },
     {
       "id": "cat-2017-s1-varc-27",
@@ -919,7 +1067,11 @@
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-1-VARC/"
       },
       "verified": false,
-      "answer_value": "54123"
+      "answer_value": "54123",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
     },
     {
       "id": "cat-2017-s1-varc-28",
@@ -948,7 +1100,11 @@
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-1-VARC/"
       },
       "verified": false,
-      "answer_value": "32145"
+      "answer_value": "32145",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
     },
     {
       "id": "cat-2017-s1-varc-29",
@@ -981,7 +1137,11 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-1-VARC/"
       },
-      "verified": false
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
     },
     {
       "id": "cat-2017-s1-varc-30",
@@ -1014,7 +1174,11 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-1-VARC/"
       },
-      "verified": false
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
     },
     {
       "id": "cat-2017-s1-varc-31",
@@ -1047,7 +1211,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-1-VARC/"
       },
-      "verified": false
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/7-the-passage-given-below-is-followed-by-four-summar-x-cat-2017-shift-1",
+        "result": "mismatch",
+        "cracku_answer": "Global warming melts glaciers, resulting in seawater volume expansion; this enables more water vapour to fill the air above faster. Thus, modern storms contain more destructive energy."
+      }
     },
     {
       "id": "cat-2017-s1-varc-32",
@@ -1076,7 +1246,11 @@
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-1-VARC/"
       },
       "verified": false,
-      "answer_value": "3"
+      "answer_value": "3",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
     },
     {
       "id": "cat-2017-s1-varc-33",
@@ -1105,7 +1279,11 @@
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-1-VARC/"
       },
       "verified": false,
-      "answer_value": "4"
+      "answer_value": "4",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
     },
     {
       "id": "cat-2017-s1-varc-34",
@@ -1134,7 +1312,11 @@
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-1-VARC/"
       },
       "verified": false,
-      "answer_value": "1"
+      "answer_value": "1",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
     }
   ]
 }

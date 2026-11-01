@@ -40,7 +40,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/83-the-real-root-of-the-equation-26x-23x-2-21-0-is-x-cat-2019-slot-2",
+        "result": "mismatch",
+        "cracku_answer": "$$\\frac{\\log_{2}{3}}{3}$$"
+      }
     },
     {
       "id": "cat-2019-s2-qa-02",
@@ -73,7 +79,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/67-the-average-of-30-integers-is-5-among-these-30-int-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "4.5"
+      }
     },
     {
       "id": "cat-2019-s2-qa-03",
@@ -106,7 +118,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/93-let-a-b-x-y-be-real-numbers-such-that-a2-b2-25-x2--x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "k = 0"
+      }
     },
     {
       "id": "cat-2019-s2-qa-04",
@@ -139,7 +157,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/91-in-a-triangle-abc-medians-ad-and-be-are-perpendicu-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "72"
+      }
     },
     {
       "id": "cat-2019-s2-qa-05",
@@ -172,7 +196,11 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
     },
     {
       "id": "cat-2019-s2-qa-06",
@@ -200,8 +228,14 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false,
-      "answer_value": "44"
+      "verified": true,
+      "answer_value": "44",
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/84-how-many-factors-of-24-times-35-times-104-are-perf-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "44"
+      }
     },
     {
       "id": "cat-2019-s2-qa-07",
@@ -234,7 +268,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/73-two-circles-each-of-radius-4-cm-touch-externally-e-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "1"
+      }
     },
     {
       "id": "cat-2019-s2-qa-08",
@@ -267,7 +307,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/69-what-is-the-largest-positive-integer-n-such-that-f-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "12"
+      }
     },
     {
       "id": "cat-2019-s2-qa-09",
@@ -300,7 +346,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/87-in-2010-a-library-contained-a-total-of-11500-books-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "6600"
+      }
     },
     {
       "id": "cat-2019-s2-qa-10",
@@ -328,8 +380,14 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false,
-      "answer_value": "12"
+      "verified": true,
+      "answer_value": "12",
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/98-let-f-be-a-function-such-that-f-mn-f-m-f-n-for-eve-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "12"
+      }
     },
     {
       "id": "cat-2019-s2-qa-11",
@@ -357,8 +415,14 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false,
-      "answer_value": "150"
+      "verified": true,
+      "answer_value": "150",
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/97-let-a-and-b-be-two-regular-polygons-having-a-and-b-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "150"
+      }
     },
     {
       "id": "cat-2019-s2-qa-12",
@@ -391,7 +455,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/81-a-cyclist-leaves-a-at-10-am-and-reaches-b-at-11-am-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "15"
+      }
     },
     {
       "id": "cat-2019-s2-qa-13",
@@ -424,7 +494,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/74-let-a-be-a-real-number-then-the-roots-of-the-equat-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "$$A > \\frac{1}{16}$$"
+      }
     },
     {
       "id": "cat-2019-s2-qa-14",
@@ -452,8 +528,14 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false,
-      "answer_value": "48"
+      "verified": true,
+      "answer_value": "48",
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/86-john-jogs-on-track-a-at-6-kmph-and-mary-jogs-on-tr-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "48"
+      }
     },
     {
       "id": "cat-2019-s2-qa-15",
@@ -486,7 +568,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/99-anil-alone-can-do-a-job-in-20-days-while-sunil-alo-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "13"
+      }
     },
     {
       "id": "cat-2019-s2-qa-16",
@@ -519,7 +607,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/100-in-an-examination-ramas-score-was-one-twelfth-of-t-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "32"
+      }
     },
     {
       "id": "cat-2019-s2-qa-17",
@@ -547,8 +641,14 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false,
-      "answer_value": "80"
+      "verified": true,
+      "answer_value": "80",
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/95-in-an-examination-the-score-of-a-was-10-less-than--x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "80"
+      }
     },
     {
       "id": "cat-2019-s2-qa-18",
@@ -581,7 +681,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/76-the-base-of-a-regular-pyramid-is-a-square-and-each-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "$$10\\surd2$$"
+      }
     },
     {
       "id": "cat-2019-s2-qa-19",
@@ -614,7 +720,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/78-if-x-is-a-real-number-then-sqrtlogedfrac4x-x23-is--x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "$$1 \\leq x \\leq 3$$"
+      }
     },
     {
       "id": "cat-2019-s2-qa-20",
@@ -647,7 +759,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/77-let-abc-be-a-right-angled-triangle-with-hypotenuse-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "10"
+      }
     },
     {
       "id": "cat-2019-s2-qa-21",
@@ -680,7 +798,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/71-two-ants-a-and-b-start-from-a-point-p-on-a-circle--x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "10:27 am"
+      }
     },
     {
       "id": "cat-2019-s2-qa-22",
@@ -708,8 +832,14 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false,
-      "answer_value": "4"
+      "verified": true,
+      "answer_value": "4",
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/70-how-many-pairs-m-n-of-positive-integers-satisfy-th-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "4"
+      }
     },
     {
       "id": "cat-2019-s2-qa-23",
@@ -742,7 +872,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/96-the-salaries-of-ramesh-ganesh-and-rajesh-were-in-t-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "7"
+      }
     },
     {
       "id": "cat-2019-s2-qa-24",
@@ -775,7 +911,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/82-a-man-makes-complete-use-of-405-cc-of-iron-783-cc--x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "$$1026(1 + \\pi)$$"
+      }
     },
     {
       "id": "cat-2019-s2-qa-25",
@@ -808,7 +950,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/75-the-quadratic-equation-x2-bx-c-0-has-two-roots-4a--x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "549"
+      }
     },
     {
       "id": "cat-2019-s2-qa-26",
@@ -836,8 +984,14 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false,
-      "answer_value": "7"
+      "verified": true,
+      "answer_value": "7",
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/85-in-a-six-digit-number-the-sixth-that-is-the-rightm-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "7"
+      }
     },
     {
       "id": "cat-2019-s2-qa-27",
@@ -870,7 +1024,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/94-mukesh-purchased-10-bicycles-in-2017-all-at-the-sa-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "4000"
+      }
     },
     {
       "id": "cat-2019-s2-qa-28",
@@ -903,7 +1063,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/92-the-number-of-common-terms-in-the-two-sequences-15-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "20"
+      }
     },
     {
       "id": "cat-2019-s2-qa-29",
@@ -931,8 +1097,14 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false,
-      "answer_value": "4851"
+      "verified": true,
+      "answer_value": "4851",
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/89-if-2n-1-2n-3-2n-5-2n-47-5280-then-whatis-the-value-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "4851"
+      }
     },
     {
       "id": "cat-2019-s2-qa-30",
@@ -965,7 +1137,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/80-the-strength-of-a-salt-solution-is-p-if-100-ml-of--x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "14"
+      }
     },
     {
       "id": "cat-2019-s2-qa-31",
@@ -993,8 +1171,14 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false,
-      "answer_value": "13"
+      "verified": true,
+      "answer_value": "13",
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/79-if-5x-3y-13438-and-5x-1-3y-1-9686-then-x-y-equals-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "13"
+      }
     },
     {
       "id": "cat-2019-s2-qa-32",
@@ -1022,8 +1206,14 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false,
-      "answer_value": "20920"
+      "verified": true,
+      "answer_value": "20920",
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/68-amal-invests-rs-12000-at-8-interest-compounded-ann-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "20920"
+      }
     },
     {
       "id": "cat-2019-s2-qa-33",
@@ -1056,7 +1246,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/90-a-shopkeeper-sells-two-tables-each-procured-at-cos-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "1"
+      }
     },
     {
       "id": "cat-2019-s2-qa-34",
@@ -1084,8 +1280,14 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
       },
-      "verified": false,
-      "answer_value": "12"
+      "verified": true,
+      "answer_value": "12",
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/88-john-gets-rs-57-per-hour-of-regular-work-and-rs-11-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "12"
+      }
     }
   ]
 }

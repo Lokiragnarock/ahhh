@@ -73,7 +73,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/59-if-the-underlying-principle-is-to-be-satisfied-in--x-cat-2017-shift-1",
+        "result": "match",
+        "cracku_answer": "180"
+      }
     },
     {
       "id": "cat-2017-s1-dilr-02",
@@ -106,7 +112,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/60-suppose-three-of-the-ten-cities-are-to-be-develope-x-cat-2017-shift-1",
+        "result": "match",
+        "cracku_answer": "96"
+      }
     },
     {
       "id": "cat-2017-s1-dilr-03",
@@ -134,8 +146,14 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false,
-      "answer_value": "40"
+      "verified": true,
+      "answer_value": "40",
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/61-suppose-the-10-cities-are-divided-into-4-distinct--x-cat-2017-shift-1",
+        "result": "match",
+        "cracku_answer": "40"
+      }
     },
     {
       "id": "cat-2017-s1-dilr-04",
@@ -164,7 +182,11 @@
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-1-DILR/"
       },
       "verified": false,
-      "answer_value": "4"
+      "answer_value": "4",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
     },
     {
       "id": "cat-2017-s1-dilr-05",
@@ -192,8 +214,14 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false,
-      "answer_value": "2"
+      "verified": true,
+      "answer_value": "2",
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/63-how-many-cars-would-be-asked-to-take-the-route-a-n-x-cat-2017-shift-1",
+        "result": "match",
+        "cracku_answer": "2"
+      }
     },
     {
       "id": "cat-2017-s1-dilr-06",
@@ -226,7 +254,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/64-if-all-the-cars-follow-the-police-order-what-is-th-x-cat-2017-shift-1",
+        "result": "match",
+        "cracku_answer": "0.1"
+      }
     },
     {
       "id": "cat-2017-s1-dilr-07",
@@ -254,8 +288,14 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false,
-      "answer_value": "2"
+      "verified": true,
+      "answer_value": "2",
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/65-a-new-one-way-road-is-built-from-m-to-n-each-car-n-x-cat-2017-shift-1",
+        "result": "match",
+        "cracku_answer": "2"
+      }
     },
     {
       "id": "cat-2017-s1-dilr-08",
@@ -288,7 +328,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/66-a-new-one-way-road-is-built-from-m-to-n-each-car-n-x-cat-2017-shift-1",
+        "result": "match",
+        "cracku_answer": "32"
+      }
     },
     {
       "id": "cat-2017-s1-dilr-09",
@@ -321,7 +367,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/43-what-best-can-be-concluded-about-the-number-of-can-x-cat-2017-shift-1",
+        "result": "match",
+        "cracku_answer": "3 or 10"
+      }
     },
     {
       "id": "cat-2017-s1-dilr-10",
@@ -349,8 +401,14 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false,
-      "answer_value": "60"
+      "verified": true,
+      "answer_value": "60",
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/44-if-the-number-of-candidates-who-are-at-or-above-th-x-cat-2017-shift-1",
+        "result": "match",
+        "cracku_answer": "60"
+      }
     },
     {
       "id": "cat-2017-s1-dilr-11",
@@ -378,8 +436,14 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false,
-      "answer_value": "170"
+      "verified": true,
+      "answer_value": "170",
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/45-if-the-number-of-candidates-who-are-at-or-above-th-x-cat-2017-shift-1",
+        "result": "match",
+        "cracku_answer": "170"
+      }
     },
     {
       "id": "cat-2017-s1-dilr-12",
@@ -412,7 +476,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/46-if-the-number-of-candidates-who-are-at-or-above-th-x-cat-2017-shift-1",
+        "result": "match",
+        "cracku_answer": "299"
+      }
     },
     {
       "id": "cat-2017-s1-dilr-13",
@@ -445,7 +515,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/35-assume-that-only-one-clients-order-can-be-processe-x-cat-2017-shift-1",
+        "result": "match",
+        "cracku_answer": "10:10"
+      }
     },
     {
       "id": "cat-2017-s1-dilr-14",
@@ -478,7 +554,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/36-assume-that-only-one-clients-order-can-be-processe-x-cat-2017-shift-1",
+        "result": "match",
+        "cracku_answer": "10:25"
+      }
     },
     {
       "id": "cat-2017-s1-dilr-15",
@@ -511,7 +593,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/37-suppose-the-employees-are-allowed-to-process-multi-x-cat-2017-shift-1",
+        "result": "match",
+        "cracku_answer": "10:10"
+      }
     },
     {
       "id": "cat-2017-s1-dilr-16",
@@ -544,7 +632,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/38-suppose-the-employees-are-allowed-to-process-multi-x-cat-2017-shift-1",
+        "result": "match",
+        "cracku_answer": "10"
+      }
     },
     {
       "id": "cat-2017-s1-dilr-17",
@@ -577,7 +671,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/39-what-percentage-of-kids-from-s-were-studying-in-p-x-cat-2017-shift-1",
+        "result": "mismatch",
+        "cracku_answer": null
+      }
     },
     {
       "id": "cat-2017-s1-dilr-18",
@@ -610,7 +710,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/40-among-the-kids-in-w-whose-mothers-had-completed-pr-x-cat-2017-shift-1",
+        "result": "match",
+        "cracku_answer": "300"
+      }
     },
     {
       "id": "cat-2017-s1-dilr-19",
@@ -643,7 +749,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/41-in-a-follow-up-survey-of-the-same-kids-two-years-l-x-cat-2017-shift-1",
+        "result": "match",
+        "cracku_answer": "6000"
+      }
     },
     {
       "id": "cat-2017-s1-dilr-20",
@@ -676,7 +788,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/42-in-a-follow-up-survey-of-the-same-kids-two-years-l-x-cat-2017-shift-1",
+        "result": "match",
+        "cracku_answer": "94.7%"
+      }
     },
     {
       "id": "cat-2017-s1-dilr-21",
@@ -704,8 +822,14 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false,
-      "answer_value": "1"
+      "verified": true,
+      "answer_value": "1",
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/47-what-is-amdas-score-in-f-x-cat-2017-shift-1",
+        "result": "match",
+        "cracku_answer": "1"
+      }
     },
     {
       "id": "cat-2017-s1-dilr-22",
@@ -733,8 +857,14 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false,
-      "answer_value": "6"
+      "verified": true,
+      "answer_value": "6",
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/48-what-is-zoomas-score-in-s-x-cat-2017-shift-1",
+        "result": "match",
+        "cracku_answer": "6"
+      }
     },
     {
       "id": "cat-2017-s1-dilr-23",
@@ -767,7 +897,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/49-benga-and-delma-two-countries-categorized-as-happy-x-cat-2017-shift-1",
+        "result": "match",
+        "cracku_answer": "15"
+      }
     },
     {
       "id": "cat-2017-s1-dilr-24",
@@ -800,7 +936,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/50-if-benga-scores-16-and-delma-scores-15-then-what-i-x-cat-2017-shift-1",
+        "result": "match",
+        "cracku_answer": "1"
+      }
     },
     {
       "id": "cat-2017-s1-dilr-25",
@@ -833,7 +975,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/55-how-many-individuals-in-this-layout-can-be-reached-x-cat-2017-shift-1",
+        "result": "match",
+        "cracku_answer": "7"
+      }
     },
     {
       "id": "cat-2017-s1-dilr-26",
@@ -866,7 +1014,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/56-which-of-the-following-is-true-for-any-individual--x-cat-2017-shift-1",
+        "result": "match",
+        "cracku_answer": "They cannot be reached by anyone."
+      }
     },
     {
       "id": "cat-2017-s1-dilr-27",
@@ -899,7 +1053,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/57-we-can-find-two-individuals-who-cannot-be-reached--x-cat-2017-shift-1",
+        "result": "match",
+        "cracku_answer": "the fourth column."
+      }
     },
     {
       "id": "cat-2017-s1-dilr-28",
@@ -932,7 +1092,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/58-which-of-the-following-statements-is-true-about-th-x-cat-2017-shift-1",
+        "result": "match",
+        "cracku_answer": "Each row has at least two individuals who can be reached by an equal number of individuals."
+      }
     },
     {
       "id": "cat-2017-s1-dilr-29",
@@ -965,7 +1131,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/51-the-number-of-times-in-which-the-composition-of-te-x-cat-2017-shift-1",
+        "result": "match",
+        "cracku_answer": "(1,0)"
+      }
     },
     {
       "id": "cat-2017-s1-dilr-30",
@@ -998,7 +1170,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/52-the-number-of-se-in-t1-and-t5-for-the-projects-in--x-cat-2017-shift-1",
+        "result": "match",
+        "cracku_answer": "(0,2)"
+      }
     },
     {
       "id": "cat-2017-s1-dilr-31",
@@ -1031,7 +1209,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/53-which-of-the-following-cannot-be-the-total-credit--x-cat-2017-shift-1",
+        "result": "match",
+        "cracku_answer": "150"
+      }
     },
     {
       "id": "cat-2017-s1-dilr-32",
@@ -1064,7 +1248,13 @@
         "site": "2IIM",
         "url": "https://online.2iim.com/CAT-question-paper/CAT-2017-Question-Paper-Slot-1-DILR/"
       },
-      "verified": false
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/54-one-of-the-employees-named-aneek-scored-185-points-x-cat-2017-shift-1",
+        "result": "match",
+        "cracku_answer": "Aneek worked only in teams T1,T3, T4, and T5."
+      }
     }
   ]
 }
