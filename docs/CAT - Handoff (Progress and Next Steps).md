@@ -1,4 +1,14 @@
+---
+title: "CAT - Handoff (Progress and Next Steps)"
+type: handoff
+status: active
+created: 2026-11-01
+tags: [cat, handoff]
+---
+
 # CAT track: progress and handoff (1 November 2026)
+
+**For the next session:** read this note first, then `docs/cat-plan.md` and `content/recall`-style node maps once they exist. Repo `Lokiragnarock/ahhh`, branch `claude/keen-goodall-pfcpky` (not merged to `main`).
 
 Branch: `claude/keen-goodall-pfcpky`. Target exam: **CAT 2027**. Plan, format and node map: `docs/cat-plan.md` (node map still waiting for Lokesh's go or edits).
 
