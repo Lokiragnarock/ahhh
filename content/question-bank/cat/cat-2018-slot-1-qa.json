@@ -1,0 +1,1283 @@
+{
+  "exam": "CAT",
+  "year": 2018,
+  "slot": 1,
+  "section": "qa",
+  "source": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/",
+  "licence": "Real CAT questions (c) IIMs, as re-published free by 2IIM (c) 2IIM. Private study use in AHH only; do not republish.",
+  "scraped": "2026-11-01",
+  "count": 34,
+  "sets": [],
+  "questions": [
+    {
+      "id": "cat-2018-s1-qa-01",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 1,
+      "section": "qa",
+      "number": 1,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "A trader sells 10 litres of a mixture of paints A and B, where the amount of B in the mixture does not exceed that of A. The cost of paint A per litre is Rs. 8 more than that of paint B. If the trader sells the entire mixture for Rs. 264 and makes a profit of 10%, then the highest possible cost of paint B, in Rs. per litre, is",
+      "options": [
+        "A) 20",
+        "B) 16",
+        "C) 22",
+        "D) 26"
+      ],
+      "answer": "A",
+      "answer_text": "20",
+      "topic_2iim": "Mixtures and Alligations",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/quant-question-1.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/89-a-trader-sells-10-litres-of-a-mixture-of-paints-a--x-cat-2018-slot-1",
+        "result": "match",
+        "cracku_answer": "20"
+      }
+    },
+    {
+      "id": "cat-2018-s1-qa-02",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 1,
+      "section": "qa",
+      "number": 2,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "In a circle with centre O and radius 1 cm, an arc AB makes an angle 60 degrees at O. Let R be the region bounded by the radii OA, OB and the arc AB. If C and D are two points on OA and OB, respectively, such that OC = OD and the area of triangle OCD is half that of R, then the length of OC, in cm, is",
+      "options": [
+        "A) \\(\\frac{π}{4}\\)<sup>\\(\\frac{1}{2}\\)</sup>",
+        "B) \\(\\frac{π}{6}\\)<sup>\\(\\frac{1}{2}\\)</sup>",
+        "C) \\(\\frac{π}{4√3}\\)<sup>\\(\\frac{1}{2}\\)</sup>",
+        "D) \\(\\frac{π}{3√3}\\)<sup>\\(\\frac{1}{2}\\)</sup>"
+      ],
+      "answer": "D",
+      "answer_text": "\\(\\frac{π}{3√3}\\)\n\\(\\frac{1}{2}\\)",
+      "topic_2iim": "Geometry",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/quant-question-2.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/92-in-a-circle-with-center-o-and-radius-1-cm-an-arc-a-x-cat-2018-slot-1",
+        "result": "match",
+        "cracku_answer": "$$(\\frac{\\pi}{3\\sqrt{3}})^{\\frac{1}{2}}$$"
+      }
+    },
+    {
+      "id": "cat-2018-s1-qa-03",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 1,
+      "section": "qa",
+      "number": 3,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "If f(x + 2) = f(x) + f(x + 1) for all positive integers x, and f(11) = 91, f(15) = 617, then f(10) equals. [TITA]",
+      "options": null,
+      "answer": "54",
+      "answer_text": null,
+      "topic_2iim": "Functions",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/quant-question-3.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": true,
+      "answer_value": "54",
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/87-if-fx-2-fx-fx-1-for-all-positive-integers-x-and-f1-x-cat-2018-slot-1",
+        "result": "match",
+        "cracku_answer": "54"
+      }
+    },
+    {
+      "id": "cat-2018-s1-qa-04",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 1,
+      "section": "qa",
+      "number": 4,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "The distance from A to B is 60 km. Partha and Narayan start from A at the same time and move towards B. Partha takes four hours more than Narayan to reach B. Moreover, Partha reaches the mid-point of A and B two hours before Narayan reaches B. The speed of Partha, in km per hour, is",
+      "options": [
+        "A) 6",
+        "B) 3",
+        "C) 4",
+        "D) 5"
+      ],
+      "answer": "D",
+      "answer_text": "5",
+      "topic_2iim": "Speed Time Distance",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/quant-question-4.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/93-the-distance-from-a-to-b-is-60-km-partha-and-naray-x-cat-2018-slot-1",
+        "result": "match",
+        "cracku_answer": "5"
+      }
+    },
+    {
+      "id": "cat-2018-s1-qa-05",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 1,
+      "section": "qa",
+      "number": 5,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "A CAT aspirant appears for a certain number of tests. His average score increases by 1 if the first 10 tests are not considered, and decreases by 1 if the last 10 tests are not considered. If his average scores for the first 10 and the last 10 tests are 20 and 30, respectively, then the total number of tests taken by him is [TITA]",
+      "options": null,
+      "answer": "60",
+      "answer_text": null,
+      "topic_2iim": "Averages",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/quant-question-5.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": true,
+      "answer_value": "60",
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/98-a-cat-aspirant-appears-for-a-certain-number-of-tes-x-cat-2018-slot-1",
+        "result": "match",
+        "cracku_answer": "60"
+      }
+    },
+    {
+      "id": "cat-2018-s1-qa-06",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 1,
+      "section": "qa",
+      "number": 6,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "Two types of tea, A and B, are mixed and then sold at Rs. 40 per kg. The profit is 10% if A and B are mixed in the ratio 3 : 2, and 5% if this ratio is 2 : 3. The cost prices, per kg, of A and B are in the ratio",
+      "options": [
+        "A) 21 : 25",
+        "B) 19 : 24",
+        "C) 18 : 25",
+        "D) 17 : 25"
+      ],
+      "answer": "B",
+      "answer_text": "19 :\n24",
+      "topic_2iim": "Ratio & Proportions",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/quant-question-6.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/76-two-types-of-tea-a-and-b-are-mixed-and-then-sold-a-x-cat-2018-slot-1",
+        "result": "match",
+        "cracku_answer": "19 : 24"
+      }
+    },
+    {
+      "id": "cat-2018-s1-qa-07",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 1,
+      "section": "qa",
+      "number": 7,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "A wholesaler bought walnuts and peanuts, the price of walnut per kg being thrice that of peanut per kg. He then sold 8 kg of peanuts at a profit of 10% and 16 kg of walnuts at a profit of 20% to a shopkeeper. However, the shopkeeper lost 5 kg of walnuts and 3 kg of peanuts in transit. He then mixed the remaining nuts and sold the mixture at Rs. 166 per kg, thus making an overall profit of 25%. At what price, in Rs. per kg, did the wholesaler buy the walnuts?",
+      "options": [
+        "A) 84",
+        "B) 86",
+        "C) 96",
+        "D) 98"
+      ],
+      "answer": "C",
+      "answer_text": "96",
+      "topic_2iim": "Mixtures",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/quant-question-7.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/85-a-wholesaler-bought-walnuts-and-peanuts-the-price--x-cat-2018-slot-1",
+        "result": "match",
+        "cracku_answer": "96"
+      }
+    },
+    {
+      "id": "cat-2018-s1-qa-08",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 1,
+      "section": "qa",
+      "number": 8,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "When they work alone, B needs 25% more time to ﬁnish a job than A does. They two ﬁnish the job in 13 days in the following manner: A works alone till half the job is done, then A and B work together for four days, and ﬁnally B works alone to complete the remaining 5% of the job. In how many days can B alone ﬁnish the entire job?",
+      "options": [
+        "A) 16",
+        "B) 22",
+        "C) 20",
+        "D) 18"
+      ],
+      "answer": "C",
+      "answer_text": "20",
+      "topic_2iim": "Work and Time",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/quant-question-8.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/80-when-they-work-alone-b-needs-25-more-time-to-finis-x-cat-2018-slot-1",
+        "result": "match",
+        "cracku_answer": "20"
+      }
+    },
+    {
+      "id": "cat-2018-s1-qa-09",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 1,
+      "section": "qa",
+      "number": 9,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "Given an equilateral triangle T1 with side 24 cm, a second triangle T2 is formed by joining the midpoints of the sides of T1. Then a third triangle T3 is formed by joining the midpoints of the sides of T2. If this process of forming triangles is continued, the sum of the areas, in sq cm, of infinitely many such triangles T1, T2, T3,... will be",
+      "options": [
+        "A) 192√3",
+        "B) 164√3",
+        "C) 248√3",
+        "D) 188√3"
+      ],
+      "answer": "A",
+      "answer_text": "192√3",
+      "topic_2iim": "Geometry",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/quant-question-9.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/77-given-an-equilateral-triangle-t1-with-side-24-cm-a-x-cat-2018-slot-1",
+        "result": "match",
+        "cracku_answer": "$$192\\sqrt{3}$$"
+      }
+    },
+    {
+      "id": "cat-2018-s1-qa-10",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 1,
+      "section": "qa",
+      "number": 10,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "While multiplying three real numbers, Ashok took one of the numbers as 73 instead of 37. As a result, the product went up by 720. Then the minimum possible value of the sum of squares of the other two numbers is: [TITA]",
+      "options": null,
+      "answer": "40",
+      "answer_text": null,
+      "topic_2iim": "Number Theory",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/quant-question-10.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": true,
+      "answer_value": "40",
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/74-while-multiplying-three-real-numbers-ashok-took-on-x-cat-2018-slot-1",
+        "result": "match",
+        "cracku_answer": "40"
+      }
+    },
+    {
+      "id": "cat-2018-s1-qa-11",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 1,
+      "section": "qa",
+      "number": 11,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "If x is a positive quantity such that 2<sup>x</sup> = 3<sup>log<sub>5</sub>2</sup> , then x is equal to",
+      "options": [
+        "A) log<sub>5</sub>9",
+        "B) 1 + log<sub>5</sub>\\(\\frac{3}{5}\\)",
+        "C) 1 + log<sub>3</sub>\\(\\frac{5}{3}\\)",
+        "D) log<sub>5</sub>8"
+      ],
+      "answer": "B",
+      "answer_text": "1 +\nlog\n5\n\\(\\frac{3}{5}\\)",
+      "topic_2iim": "Logarithm",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/quant-question-11.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2018-s1-qa-12",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 1,
+      "section": "qa",
+      "number": 12,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "If log<sub>12</sub>81 = p, then 3(\\(\\frac{4 - p}{4 + p}\\)) is equal to:",
+      "options": [
+        "A) log<sub>2</sub>8",
+        "B) log<sub>6</sub>8",
+        "C) log<sub>4</sub>16",
+        "D) log<sub>6</sub>16"
+      ],
+      "answer": "B",
+      "answer_text": "log\n6\n8",
+      "topic_2iim": "Logarithm",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/quant-question-12.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2018-s1-qa-13",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 1,
+      "section": "qa",
+      "number": 13,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "A right circular cone, of height 12 ft, stands on its base which has diameter 8 ft. The tip of the cone is cut off with a plane which is parallel to the base and 9 ft from the base. With π = 22/7, the volume, in cubic ft, of the remaining part of the cone is:[TITA]",
+      "options": null,
+      "answer": "198",
+      "answer_text": null,
+      "topic_2iim": "Mensuration",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/quant-question-13.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": true,
+      "answer_value": "198",
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/82-a-right-circular-cone-of-height-12-ft-stands-on-it-x-cat-2018-slot-1",
+        "result": "match",
+        "cracku_answer": "198"
+      }
+    },
+    {
+      "id": "cat-2018-s1-qa-14",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 1,
+      "section": "qa",
+      "number": 14,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "How many numbers with two or more digits can be formed with the digits 1, 2, 3, 4, 5, 6, 7, 8, and 9 so that in every such number, each digit is used at most once and the digits appear in the ascending order?[TITA]",
+      "options": null,
+      "answer": "502",
+      "answer_text": null,
+      "topic_2iim": "Number theory",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/quant-question-14.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": true,
+      "answer_value": "502",
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/81-how-many-numbers-with-two-or-more-digits-can-be-fo-x-cat-2018-slot-1",
+        "result": "match",
+        "cracku_answer": "502"
+      }
+    },
+    {
+      "id": "cat-2018-s1-qa-15",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 1,
+      "section": "qa",
+      "number": 15,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "John borrowed Rs. 2,10,000 from a bank at an interest rate of 10% per annum, compounded annually. The loan was repaid in two equal instalments, the first after one year and the second after another year. The ﬁrst instalment was interest of one year plus part of the principal amount, while the second was the rest of the principal amount plus due interest thereon. Then each instalment, in Rs., is:[TITA]",
+      "options": null,
+      "answer": "1,21,000",
+      "answer_text": null,
+      "topic_2iim": "SI & CI",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/quant-question-15.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "answer_value": "1,21,000",
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/79-john-borrowed-rs-210000-from-a-bank-at-an-interest-x-cat-2018-slot-1",
+        "result": "mismatch",
+        "cracku_answer": "121000"
+      }
+    },
+    {
+      "id": "cat-2018-s1-qa-16",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 1,
+      "section": "qa",
+      "number": 16,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "If u<sup>2</sup> + (u−2v−1)<sup>2</sup> = −4v(u + v), then what is the value of u + 3v?",
+      "options": [
+        "A) \\(\\frac{1}{4}\\)",
+        "B) \\(\\frac{1}{2}\\)",
+        "C) 0",
+        "D) -\\(\\frac{1}{4}\\)"
+      ],
+      "answer": "D",
+      "answer_text": "-\\(\\frac{1}{4}\\)",
+      "topic_2iim": "Linear and Quadratic Equations",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/quant-question-16.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/91-if-u2u-2v-12-4vuv-then-what-is-the-value-of-u3v-x-cat-2018-slot-1",
+        "result": "match",
+        "cracku_answer": "$$\\dfrac{-1}{4}$$"
+      }
+    },
+    {
+      "id": "cat-2018-s1-qa-17",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 1,
+      "section": "qa",
+      "number": 17,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "Point P lies between points A and B such that the length of BP is thrice that of AP. Car 1 starts from A and moves towards B. Simultaneously, car 2 starts from B and moves towards A. Car 2 reaches P one hour after car 1 reaches P. If the speed of car 2 is half that of car 1, then the time, in minutes, taken by car 1 in reaching P from A is:[TITA]",
+      "options": null,
+      "answer": "12",
+      "answer_text": null,
+      "topic_2iim": "Speed, Time and Distance",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/quant-question-17.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": true,
+      "answer_value": "12",
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/72-point-p-lies-between-points-a-and-b-such-that-the--x-cat-2018-slot-1",
+        "result": "match",
+        "cracku_answer": "12"
+      }
+    },
+    {
+      "id": "cat-2018-s1-qa-18",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 1,
+      "section": "qa",
+      "number": 18,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "Let ABCD be a rectangle inscribed in a circle of radius 13 cm. Which one of the following pairs can represent, in cm, the possible length and breadth of ABCD?",
+      "options": [
+        "A) 25 , 10",
+        "B) 24 , 12",
+        "C) 25 , 9",
+        "D) 24 , 10"
+      ],
+      "answer": "D",
+      "answer_text": "24 ,\n10",
+      "topic_2iim": "Geometry",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/quant-question-18.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/70-let-abcd-be-a-rectangle-inscribed-in-a-circle-of-r-x-cat-2018-slot-1",
+        "result": "match",
+        "cracku_answer": "24, 10"
+      }
+    },
+    {
+      "id": "cat-2018-s1-qa-19",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 1,
+      "section": "qa",
+      "number": 19,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "In an examination, the maximum possible score is N while the pass mark is 45% of N. A candidate obtains 36 marks, but falls short of the pass mark by 68%. Which one of the following is then correct?",
+      "options": [
+        "A) N ≤ 200",
+        "B) 243 ≤ N ≤ 252",
+        "C) N ≥ 253",
+        "D) 201 ≤ N ≤ 242"
+      ],
+      "answer": "B",
+      "answer_text": "243 ≤ N ≤\n252",
+      "topic_2iim": "Percentages",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/quant-question-19.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/100-in-an-examination-the-maximum-possible-score-is-n--x-cat-2018-slot-1",
+        "result": "match",
+        "cracku_answer": "$$243 \\leq N \\leq 252$$."
+      }
+    },
+    {
+      "id": "cat-2018-s1-qa-20",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 1,
+      "section": "qa",
+      "number": 20,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "Let x, y, z be three positive real numbers in a geometric progression such that x < y < z. If 5x, 16y, and 12z are in an arithmetic progression then the common ratio of the geometric progression is",
+      "options": [
+        "A) \\(\\frac{1}{6}\\)",
+        "B) \\(\\frac{3}{6}\\)",
+        "C) \\(\\frac{3}{2}\\)",
+        "D) \\(\\frac{5}{2}\\)"
+      ],
+      "answer": "D",
+      "answer_text": "\\(\\frac{5}{2}\\)",
+      "topic_2iim": "Sequence & Series",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/quant-question-20.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/94-let-x-y-z-be-three-positive-real-numbers-in-a-geom-x-cat-2018-slot-1",
+        "result": "match",
+        "cracku_answer": "$$\\frac{5}{2}$$"
+      }
+    },
+    {
+      "id": "cat-2018-s1-qa-21",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 1,
+      "section": "qa",
+      "number": 21,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "The number of integers x such that 0.25 < 2<sup>x</sup> < 200, and 2<sup>x</sup> + 2 is perfectly divisible by either 3 or 4, is [TITA]",
+      "options": null,
+      "answer": "5",
+      "answer_text": null,
+      "topic_2iim": "Number Theory",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/quant-question-21.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": true,
+      "answer_value": "5",
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/99-the-number-of-integers-x-such-that-025-leq-2x-leq--x-cat-2018-slot-1",
+        "result": "match",
+        "cracku_answer": "5"
+      }
+    },
+    {
+      "id": "cat-2018-s1-qa-22",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 1,
+      "section": "qa",
+      "number": 22,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "Each of 74 students in a class studies at least one of the three subjects H, E and P. Ten students study all three subjects, while twenty study H and E, but not P. Every student who studies P also studies H or E or both. If the number of students studying H equals that studying E, then the number of students studying H is [TITA]",
+      "options": null,
+      "answer": "52",
+      "answer_text": null,
+      "topic_2iim": "Set Theory",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/quant-question-22.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": true,
+      "answer_value": "52",
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/84-each-of-74-students-in-a-class-studies-at-least-on-x-cat-2018-slot-1",
+        "result": "match",
+        "cracku_answer": "52"
+      }
+    },
+    {
+      "id": "cat-2018-s1-qa-23",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 1,
+      "section": "qa",
+      "number": 23,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "Train T leaves station X for station Y at 3 pm. Train S, traveling at three quarters of the speed of T, leaves Y for X at 4 pm. The two trains pass each other at a station Z, where the distance between X and Z is three-ﬁfths of that between X and Y. How many hours does train T take for its journey from X to Y? [TITA]",
+      "options": null,
+      "answer": "15",
+      "answer_text": null,
+      "topic_2iim": "Speed Time Distance",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/quant-question-23.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": true,
+      "answer_value": "15",
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/75-train-t-leaves-station-x-for-station-y-at-3-pm-tra-x-cat-2018-slot-1",
+        "result": "match",
+        "cracku_answer": "15"
+      }
+    },
+    {
+      "id": "cat-2018-s1-qa-24",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 1,
+      "section": "qa",
+      "number": 24,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "Points E, F, G, H lie on the sides AB, BC, CD, and DA, respectively, of a square ABCD. If EFGH is also a square whose area is 62.5% of that of ABCD and CG is longer than EB, then the ratio of length of EB to that of CG is:",
+      "options": [
+        "A) 1 : 3",
+        "B) 4 : 9",
+        "C) 2 : 5",
+        "D) 3 : 8"
+      ],
+      "answer": "A",
+      "answer_text": "1 :\n3",
+      "topic_2iim": "Geometry",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/quant-question-24.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/71-points-e-f-g-h-lie-on-the-sides-ab-bc-cd-and-da-re-x-cat-2018-slot-1",
+        "result": "match",
+        "cracku_answer": "1 : 3"
+      }
+    },
+    {
+      "id": "cat-2018-s1-qa-25",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 1,
+      "section": "qa",
+      "number": 25,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "Given that x<sup>2018</sup> y<sup>2017</sup> = 1/2 and x<sup>2016</sup> y<sup>2019</sup> = 8, the value of x<sup>2</sup> + y<sup>3</sup> is",
+      "options": [
+        "A) \\(\\frac{37}{4}\\)",
+        "B) \\(\\frac{31}{4}\\)",
+        "C) \\(\\frac{35}{4}\\)",
+        "D) \\(\\frac{33}{4}\\)"
+      ],
+      "answer": "D",
+      "answer_text": "\\(\\frac{33}{4}\\)",
+      "topic_2iim": "Exponents",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/quant-question-25.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/95-given-that-x2018y2017frac12-and-x2016y20198-then-v-x-cat-2018-slot-1",
+        "result": "match",
+        "cracku_answer": "$$\\dfrac{33}{4}$$"
+      }
+    },
+    {
+      "id": "cat-2018-s1-qa-26",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 1,
+      "section": "qa",
+      "number": 26,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "Raju and Lalitha originally had marbles in the ratio 4 : 9. Then Lalitha gave some of her marbles to Raju. As a result, the ratio of the number of marbles with Raju to that with Lalitha became 5 : 6. What fraction of her original number of marbles was given by Lalitha to Raju?",
+      "options": [
+        "A) \\(\\frac{1}{4}\\)",
+        "B) \\(\\frac{1}{5}\\)",
+        "C) \\(\\frac{6}{19}\\)",
+        "D) \\(\\frac{7}{33}\\)"
+      ],
+      "answer": "D",
+      "answer_text": "\\(\\frac{7}{33}\\)",
+      "topic_2iim": "Ratio and Proportion",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/quant-question-26.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/83-raju-and-lalitha-originally-had-marbles-in-the-rat-x-cat-2018-slot-1",
+        "result": "match",
+        "cracku_answer": "$$\\frac{7}{33}$$"
+      }
+    },
+    {
+      "id": "cat-2018-s1-qa-27",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 1,
+      "section": "qa",
+      "number": 27,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "If log<sub>2</sub>(5 + log<sub>3</sub>a) = 3 and log<sub>5</sub>(4a + 12 + log<sub>2</sub>b) = 3, then a + b is equal to",
+      "options": [
+        "A) 32",
+        "B) 59",
+        "C) 67",
+        "D) 40"
+      ],
+      "answer": "B",
+      "answer_text": "59",
+      "topic_2iim": "Logarithms",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/quant-question-27.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2018-s1-qa-28",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 1,
+      "section": "qa",
+      "number": 28,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "Humans and robots can both perform a job but at diﬀerent eﬃciencies. Fifteen humans and ﬁve robots working together take thirty days to ﬁnish the job, whereas ﬁve humans and ﬁfteen robots working together take sixty days to ﬁnish it. How many days will ﬁfteen humans working together (without any robot) take to ﬁnish it?",
+      "options": [
+        "A) 40",
+        "B) 32",
+        "C) 36",
+        "D) 45"
+      ],
+      "answer": "B",
+      "answer_text": "32",
+      "topic_2iim": "Work and Time",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/quant-question-28.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2018-s1-qa-29",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 1,
+      "section": "qa",
+      "number": 29,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "In a parallelogram ABCD of area 72 sq cm, the sides CD and AD have lengths 9 cm and 16 cm, respectively. Let P be a point on CD such that AP is perpendicular to CD. Then the area, in sq cm, of triangle APD is",
+      "options": [
+        "A) 18√3",
+        "B) 24√3",
+        "C) 32√3",
+        "D) 12√3"
+      ],
+      "answer": "C",
+      "answer_text": "32√3",
+      "topic_2iim": "Mensuration",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/quant-question-29.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/90-in-a-parallelogram-abcd-of-area-72-sq-cm-the-sides-x-cat-2018-slot-1",
+        "result": "match",
+        "cracku_answer": "$$32\\sqrt{3}$$"
+      }
+    },
+    {
+      "id": "cat-2018-s1-qa-30",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 1,
+      "section": "qa",
+      "number": 30,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "In a circle, two parallel chords on the same side of a diameter have lengths 4 cm and 6 cm. If the distance between these chords is 1 cm, then the radius of the circle, in cm, is",
+      "options": [
+        "A) √13",
+        "B) √14",
+        "C) √11",
+        "D) √12"
+      ],
+      "answer": "A",
+      "answer_text": "√13",
+      "topic_2iim": "Geometry",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/quant-question-30.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/68-in-a-circle-two-parallel-chords-on-the-same-side-o-x-cat-2018-slot-1",
+        "result": "match",
+        "cracku_answer": "$$\\sqrt{13}$$"
+      }
+    },
+    {
+      "id": "cat-2018-s1-qa-31",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 1,
+      "section": "qa",
+      "number": 31,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "A tank is fitted with pipes, some filling it and the rest draining it. All filling pipes fill at the same rate, and all draining pipes drain at the same rate. The empty tank gets completely filled in 6 hours when 6 filling and 5 draining pipes are on, but this time becomes 60 hours when 5 filling and 6 draining pipes are on. In how many hours will the empty tank get completely filled when one draining and two filling pipes are on? [TITA]",
+      "options": null,
+      "answer": "10",
+      "answer_text": null,
+      "topic_2iim": "Pipes & Cisterns",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/quant-question-31.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": true,
+      "answer_value": "10",
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/96-a-tank-is-fitted-with-pipes-some-filling-it-and-th-x-cat-2018-slot-1",
+        "result": "match",
+        "cracku_answer": "10"
+      }
+    },
+    {
+      "id": "cat-2018-s1-qa-32",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 1,
+      "section": "qa",
+      "number": 32,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "If among 200 students, 105 like pizza and 134 like burger, then the number of students who like only burger can possibly be",
+      "options": [
+        "A) 26",
+        "B) 23",
+        "C) 96",
+        "D) 93"
+      ],
+      "answer": "D",
+      "answer_text": "93",
+      "topic_2iim": "Set Theory",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/quant-question-32.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/86-if-among-200-students-105-like-pizza-and-134-like--x-cat-2018-slot-1",
+        "result": "match",
+        "cracku_answer": "93"
+      }
+    },
+    {
+      "id": "cat-2018-s1-qa-33",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 1,
+      "section": "qa",
+      "number": 33,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "Let f(x)=min{2x<sup>2</sup>, 52 - 5x}, where x is any positive real number.Then the maximum possible value of f(x) is [TITA]",
+      "options": null,
+      "answer": "32",
+      "answer_text": null,
+      "topic_2iim": "Functions",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/quant-question-33.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": true,
+      "answer_value": "32",
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/73-let-fx-min-2x252-5x-where-x-is-any-positive-real-n-x-cat-2018-slot-1",
+        "result": "match",
+        "cracku_answer": "32"
+      }
+    },
+    {
+      "id": "cat-2018-s1-qa-34",
+      "exam": "CAT",
+      "year": 2018,
+      "slot": 1,
+      "section": "qa",
+      "number": 34,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "In an apartment complex, the number of people aged 51 years and above is 30 and there are at most 39 people whose ages are below 51 years. The average age of all the people in the apartment complex is 38 years. What is the largest possible average age, in years, of the people whose ages are below 51 years?",
+      "options": [
+        "A) 25",
+        "B) 26",
+        "C) 27",
+        "D) 28"
+      ],
+      "answer": "D",
+      "answer_text": "28",
+      "topic_2iim": "Averages",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/quant-question-34.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2018-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/88-in-an-apartment-complex-the-number-of-people-aged--x-cat-2018-slot-1",
+        "result": "match",
+        "cracku_answer": "28"
+      }
+    }
+  ]
+}

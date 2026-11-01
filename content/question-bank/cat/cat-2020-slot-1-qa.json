@@ -1,0 +1,943 @@
+{
+  "exam": "CAT",
+  "year": 2020,
+  "slot": 1,
+  "section": "qa",
+  "source": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-Quant/",
+  "licence": "Real CAT questions (c) IIMs, as re-published free by 2IIM (c) 2IIM. Private study use in AHH only; do not republish.",
+  "scraped": "2026-11-01",
+  "count": 26,
+  "sets": [],
+  "questions": [
+    {
+      "id": "cat-2020-s1-qa-01",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 1,
+      "section": "qa",
+      "number": 1,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "How many 3-digit numbers are there, for which the product of their digits is more than 2 but less than 7?",
+      "options": null,
+      "answer": "21",
+      "answer_text": null,
+      "topic_2iim": "Digits",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-Quant/quants-question-1.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "answer_value": "21",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2020-s1-qa-02",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 1,
+      "section": "qa",
+      "number": 2,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "If *f(5 + x) = f(5 - x)* for every real *x* and *f(x) = 0* has four distinct real roots, then the sum of the roots is",
+      "options": [
+        "A) 0",
+        "B) 40",
+        "C) 10",
+        "D) 20"
+      ],
+      "answer": "D",
+      "answer_text": "20",
+      "topic_2iim": "Functions",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-Quant/quants-question-2.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2020-s1-qa-03",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 1,
+      "section": "qa",
+      "number": 3,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "Veeru invested Rs 10000 at 5% simple annual interest, and exactly after two years, Joy invested Rs 8000 at 10% simple annual interest. How many years after Veeru’s investment, will their balances, i.e., principal plus accumulated interest, be equal?",
+      "options": null,
+      "answer": "12",
+      "answer_text": null,
+      "topic_2iim": "Percents_Profits_SICI",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-Quant/quants-question-3.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "answer_value": "12",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2020-s1-qa-04",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 1,
+      "section": "qa",
+      "number": 4,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "A train travelled at one-thirds of its usual speed, and hence reached the destination 30 minutes after the scheduled time. On its return journey, the train initially travelled at its usual speed for 5 minutes but then stopped for 4 minutes for an emergency. The percentage by which the train must now increase its usual speed so as to reach the destination at the scheduled time, is nearest to",
+      "options": [
+        "A) 58",
+        "B) 67",
+        "C) 50",
+        "D) 61"
+      ],
+      "answer": "B",
+      "answer_text": "67",
+      "topic_2iim": "Speed_Time_Distance_Races",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-Quant/quants-question-4.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2020-s1-qa-05",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 1,
+      "section": "qa",
+      "number": 5,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "If log<sub>4</sub> 5 = (log<sub>4</sub> y) (log<sub>6</sub> √5), then y equals",
+      "options": null,
+      "answer": "36",
+      "answer_text": null,
+      "topic_2iim": "Logarithms_Exponents",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-Quant/quants-question-5.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "answer_value": "36",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2020-s1-qa-06",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 1,
+      "section": "qa",
+      "number": 6,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "The number of real-valued solutions of the equation 2<sup>x</sup> + 2<sup>-x</sup> = 2 - (x - 2)<sup>2</sup> is",
+      "options": [
+        "A) infinite",
+        "B) 0",
+        "C) 1",
+        "D) 2"
+      ],
+      "answer": "B",
+      "answer_text": "0",
+      "topic_2iim": "Logarithms_Exponents",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-Quant/quants-question-6.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2020-s1-qa-07",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 1,
+      "section": "qa",
+      "number": 7,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "A straight road connects points A and B. Car 1 travels from A to B and Car 2 travels from B to A, both leaving at the same time. After meeting each other, they take 45 minutes and 20 minutes, respectively, to complete their journeys. If Car 1 travels at the speed of 60 km/hr, then the speed of Car 2, in km/hr, is",
+      "options": [
+        "A) 90",
+        "B) 80",
+        "C) 70",
+        "D) 100"
+      ],
+      "answer": "A",
+      "answer_text": "90",
+      "topic_2iim": "Speed_Time_Distance_Races",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-Quant/quants-question-7.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2020-s1-qa-08",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 1,
+      "section": "qa",
+      "number": 8,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "Let A, B and C be three positive integers such that the sum of A and the mean of B and C is 5. In addition, the sum of B and the mean of A and C is 7. Then the sum of A and B is",
+      "options": [
+        "A) 6",
+        "B) 4",
+        "C) 7",
+        "D) 5"
+      ],
+      "answer": "A",
+      "answer_text": "6",
+      "topic_2iim": "Ratios_Mixtures_Averages",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-Quant/quants-question-8.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2020-s1-qa-09",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 1,
+      "section": "qa",
+      "number": 9,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "If x = (4096)<sup>7+4√3</sup>, then which of the following equals 64?",
+      "options": [
+        "A) \\(\\frac{x^{7/2}}{x^{4/√3}}\\)",
+        "B) \\(\\frac{x^{7}}{x^{4√3}}\\)",
+        "C) \\(\\frac{x^{7/2}}{x^{2√3}}\\)",
+        "D) \\(\\frac{x^{7}}{x^{2√3}}\\)"
+      ],
+      "answer": "C",
+      "answer_text": "\\(\\frac{x^{7/2}}{x^{2√3}}\\)",
+      "topic_2iim": "Logarithms_Exponents",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-Quant/quants-question-9.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2020-s1-qa-10",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 1,
+      "section": "qa",
+      "number": 10,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "The mean of all 4 digit even natural numbers of the form 'aabb', where a>0, is",
+      "options": [
+        "A) 5544",
+        "B) 4466",
+        "C) 4864",
+        "D) 5050"
+      ],
+      "answer": "A",
+      "answer_text": "5544",
+      "topic_2iim": "Digits",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-Quant/quants-question-10.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2020-s1-qa-11",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 1,
+      "section": "qa",
+      "number": 11,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "The number of distinct real roots of the equation\n(x + \\(\\frac{1}{x}\\))<sup>2</sup> - 3(x + \\(\\frac{1}{x}\\)) + 2 = 0 equals",
+      "options": null,
+      "answer": "1",
+      "answer_text": null,
+      "topic_2iim": "Linear_Quadratic",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-Quant/quants-question-11.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "answer_value": "1",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2020-s1-qa-12",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 1,
+      "section": "qa",
+      "number": 12,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "A person spent Rs 50000 to purchase a desktop computer and a laptop computer. He sold the desktop at 20% profit and the laptop at 10% loss. If overall he made a 2% profit then the purchase price, in rupees, of the desktop is",
+      "options": null,
+      "answer": "20000",
+      "answer_text": null,
+      "topic_2iim": "Percents_Profits_SICI",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-Quant/quants-question-12.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "answer_value": "20000",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2020-s1-qa-13",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 1,
+      "section": "qa",
+      "number": 13,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "Among 100 students, x<sub>1</sub> have birthdays in January, x<sub>2</sub> have birthdays in February, and so on. If x<sub>0</sub> = max(x<sub>1</sub>, x<sub>2</sub>, ..., x<sub>12</sub>), then the smallest possible value of x<sub>0</sub> is",
+      "options": [
+        "A) 8",
+        "B) 10",
+        "C) 12",
+        "D) 9"
+      ],
+      "answer": "D",
+      "answer_text": "9",
+      "topic_2iim": "Digits",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-Quant/quants-question-13.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2020-s1-qa-14",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 1,
+      "section": "qa",
+      "number": 14,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "Two persons are walking beside a railway track at respective speeds of 2 and 4 km per hour in the same direction. A train came from behind them and crossed them in 90 and 100 seconds, respectively. The time, in seconds, taken by the train to cross an electric post is nearest to",
+      "options": [
+        "A) 87",
+        "B) 82",
+        "C) 78",
+        "D) 75"
+      ],
+      "answer": "B",
+      "answer_text": "82",
+      "topic_2iim": "Speed_Time_Distance_Races",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-Quant/quants-question-14.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2020-s1-qa-15",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 1,
+      "section": "qa",
+      "number": 15,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "How many distinct positive integer-valued solutions exist to the equation (x<sup>2</sup> - 7x + 11)<sup>(x<sup>2</sup> - 13x + 42)</sup> = 1?",
+      "options": [
+        "A) 6",
+        "B) 2",
+        "C) 4",
+        "D) 8"
+      ],
+      "answer": "A",
+      "answer_text": "6",
+      "topic_2iim": "Linear_Quadratic",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-Quant/quants-question-15.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2020-s1-qa-16",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 1,
+      "section": "qa",
+      "number": 16,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "The area of the region satisfying the inequalities |x| - y ≤ 1, y ≥ 0, and y ≤ 1 is",
+      "options": null,
+      "answer": "3",
+      "answer_text": null,
+      "topic_2iim": "Cogeo",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-Quant/quants-question-16.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "answer_value": "3",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2020-s1-qa-17",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 1,
+      "section": "qa",
+      "number": 17,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "A solid right circular cone of height 27 cm is cut into 2 pieces along a plane parallel to it's base at a height of 18 cm from the base. If the difference in the volume of the two pieces is 225 cc, the volume, in cc, of the original cone is",
+      "options": [
+        "A) 264",
+        "B) 232",
+        "C) 243",
+        "D) 256"
+      ],
+      "answer": "C",
+      "answer_text": "243",
+      "topic_2iim": "Mensuration",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-Quant/quants-question-17.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2020-s1-qa-18",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 1,
+      "section": "qa",
+      "number": 18,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "A circle is inscribed in a rhombus with diagonals 12 cm and 16 cm. The ratio of the area of the circle to the area of the rhombus is",
+      "options": [
+        "A) \\(\\frac{2π}{15}\\)",
+        "B) \\(\\frac{6π}{25}\\)",
+        "C) \\(\\frac{3π}{25}\\)",
+        "D) \\(\\frac{5π}{18}\\)"
+      ],
+      "answer": "B",
+      "answer_text": "\\(\\frac{6π}{25}\\)",
+      "topic_2iim": "Geometry",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-Quant/quants-question-18.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2020-s1-qa-19",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 1,
+      "section": "qa",
+      "number": 19,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "Leaving home at the same time, Amal reaches office at 10:15 am if he travels at 8kmph, and at 9:40 am if he travels at 15kmph. Leaving home at 9:10 am, at what speed, in kmph, must he travel so as to reach office exactly at 10:00 am?",
+      "options": [
+        "A) 12",
+        "B) 11",
+        "C) 13",
+        "D) 14"
+      ],
+      "answer": "A",
+      "answer_text": "12",
+      "topic_2iim": "Speed_Time_Distance_Races",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-Quant/quants-question-19.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2020-s1-qa-20",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 1,
+      "section": "qa",
+      "number": 20,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "If a, b and c are positive integers such that ab = 432, bc = 96 and c < 9, then the smallest possible value of a + b + c is",
+      "options": [
+        "A) 56",
+        "B) 49",
+        "C) 46",
+        "D) 59"
+      ],
+      "answer": "C",
+      "answer_text": "46",
+      "topic_2iim": "Digits",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-Quant/quants-question-20.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2020-s1-qa-21",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 1,
+      "section": "qa",
+      "number": 21,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "If y is a negative number such that 2<sup>y<sup>2</sup>log<sub>3</sub>5</sup> = 5<sup>log<sub>2</sub>3</sup>, then y equals",
+      "options": [
+        "A) log<sub>2 </sub>(1/3)",
+        "B) log<sub>2 </sub>(1/5)",
+        "C) −log<sub>2 </sub>(1/3)",
+        "D) −log<sub>2 </sub>(1/5)"
+      ],
+      "answer": "A",
+      "answer_text": "log 2 (1/3)",
+      "topic_2iim": "Logarithms_Exponents",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-Quant/quants-question-21.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2020-s1-qa-22",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 1,
+      "section": "qa",
+      "number": 22,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "On a rectangular metal sheet of area 135 sq in, a circle is painted such that the circle touches opposite two sides. If the area of the sheet left unpainted is two-thirds of the painted area then the perimeter of the rectangle in inches is",
+      "options": [
+        "A) 3√π(5 + \\(\\frac{12}{π}\\))",
+        "B) 4√π(3 + \\(\\frac{12}{π}\\))",
+        "C) 5√π(3 + \\(\\frac{12}{π}\\))",
+        "D) 3√π(\\(\\frac{5}{2}\\) + \\(\\frac{6}{π}\\))"
+      ],
+      "answer": "A",
+      "answer_text": "3√π(5 + \\(\\frac{12}{π}\\))",
+      "topic_2iim": "Mensuration",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-Quant/quants-question-22.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2020-s1-qa-23",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 1,
+      "section": "qa",
+      "number": 23,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "In a group of people, 28% of the members are young while the rest are old. If 65% of the members are literates, and 25% of the literates are young, then the percentage of old people among the illiterates is nearest to",
+      "options": [
+        "A) 59",
+        "B) 62",
+        "C) 66",
+        "D) 55"
+      ],
+      "answer": "C",
+      "answer_text": "66",
+      "topic_2iim": "Percents_Profits_SICI",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-Quant/quants-question-23.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2020-s1-qa-24",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 1,
+      "section": "qa",
+      "number": 24,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "An alloy is prepared by mixing metals A, B, C in the proportion 3 : 4 : 7 by volume. Weights of the same volume of metals A, B, C are in the ratio 5 : 2 : 6. In 130 kg of the alloy, the weight, in kg, of the metal C is",
+      "options": [
+        "A) 84",
+        "B) 48",
+        "C) 96",
+        "D) 70"
+      ],
+      "answer": "A",
+      "answer_text": "84",
+      "topic_2iim": "Ratios_Mixtures_Averages",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-Quant/quants-question-24.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2020-s1-qa-25",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 1,
+      "section": "qa",
+      "number": 25,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "A gentleman decided to treat a few children in the following manner. He gives half of his total stock of toffees and one extra to the first child, and then the half of the remaining stock along with one extra to the second and continues giving away in this fashion. His total stock exhausts after he takes care of 5 children. How many toffees were there in his stock initially?",
+      "options": null,
+      "answer": "62",
+      "answer_text": null,
+      "topic_2iim": "Progressions",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-Quant/quants-question-25.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "answer_value": "62",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2020-s1-qa-26",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 1,
+      "section": "qa",
+      "number": 26,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "A solution, of volume 40 litres, has dye and water in the proportion 2 : 3. Water is added to the solution to change this proportion to 2 : 5. If one-fourths of this diluted solution is taken out, how many litres of dye must be added to the remaining solution to bring the proportion back to 2 : 3?",
+      "options": null,
+      "answer": "8",
+      "answer_text": null,
+      "topic_2iim": "Ratios_Mixtures_Averages",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-Quant/quants-question-26.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "answer_value": "8",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    }
+  ]
+}

@@ -1,0 +1,883 @@
+{
+  "exam": "CAT",
+  "year": 2021,
+  "slot": 1,
+  "section": "qa",
+  "source": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-Quant/",
+  "licence": "Real CAT questions (c) IIMs, as re-published free by 2IIM (c) 2IIM. Private study use in AHH only; do not republish.",
+  "scraped": "2026-11-01",
+  "count": 22,
+  "sets": [],
+  "questions": [
+    {
+      "id": "cat-2021-s1-qa-01",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 1,
+      "section": "qa",
+      "number": 1,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "f(x) = \\(\\frac{x^{2}+2 x-15}{x^{2}-7 x-18}\\) is negative if and only if",
+      "options": [
+        "A) -5 < x < -2 or 3 < x < 9",
+        "B) -2 < x < 3 or x > 9",
+        "C) x < -5 or 3 < x < 9",
+        "D) x < -5 or -2 < x < 3"
+      ],
+      "answer": "A",
+      "answer_text": "-5 < x < -2 or 3 < x < 9",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 48.72,
+        "incorrect": 15.45,
+        "unattempted": 35.83
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-Quant/quants-question-1.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2021-s1-qa-02",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 1,
+      "section": "qa",
+      "number": 2,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "The number of integers n that satisfy the inequalities |n - 60| < |n - 100| < |n - 20| is",
+      "options": [
+        "A) 21",
+        "B) 18",
+        "C) 20",
+        "D) 19"
+      ],
+      "answer": "D",
+      "answer_text": "19",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 12.02,
+        "incorrect": 10.03,
+        "unattempted": 77.95
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-Quant/quants-question-2.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2021-s1-qa-03",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 1,
+      "section": "qa",
+      "number": 3,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "Identical chocolate pieces are sold in boxes of two sizes, small and large. The large box is sold for twice the price of the small box. If the selling price per gram of chocolate in the large box is 12% less than that in the small box, then the percentage by which the weight of chocolate in the large box exceeds that in the small box is nearest to",
+      "options": [
+        "A) 127",
+        "B) 135",
+        "C) 124",
+        "D) 144"
+      ],
+      "answer": "A",
+      "answer_text": "127",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 21.21,
+        "incorrect": 12.86,
+        "unattempted": 65.93
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-Quant/quants-question-3.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2021-s1-qa-04",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 1,
+      "section": "qa",
+      "number": 4,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "If 5 - \\(\\log _{10} \\sqrt{1+x}\\) + 4 \\(\\log _{10} \\sqrt{1-x}\\) = \\(\\log _{10} \\frac{1}{\\sqrt{1-x^{2}}}\\) , then 100 x equals",
+      "options": null,
+      "answer": "99",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 11.33,
+        "incorrect": 29.38,
+        "unattempted": 59.29
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-Quant/quants-question-4.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "answer_value": "99",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2021-s1-qa-05",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 1,
+      "section": "qa",
+      "number": 5,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "A basket of 2 apples, 4 oranges and 6 mangoes costs the same as a basket of 1 apple, 4 oranges and 8 mangoes, or a basket of 8 oranges and 7 mangoes. Then the number of mangoes in a basket of mangoes that has the same cost as the other baskets is",
+      "options": [
+        "A) 12",
+        "B) 13",
+        "C) 11",
+        "D) 10"
+      ],
+      "answer": "B",
+      "answer_text": "13",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 34.87,
+        "incorrect": 15.76,
+        "unattempted": 49.37
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-Quant/quants-question-5.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2021-s1-qa-06",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 1,
+      "section": "qa",
+      "number": 6,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "If the area of a regular hexagon is equal to the area of an equilateral triangle of side 12 cm, then the length, in cm, of each side of the hexagon is",
+      "options": [
+        "A) 4 √6",
+        "B) 6 √6",
+        "C) 2 √6",
+        "D) √6"
+      ],
+      "answer": "C",
+      "answer_text": "2 √6",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 58.49,
+        "incorrect": 11.71,
+        "unattempted": 29.8
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-Quant/quants-question-6.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2021-s1-qa-07",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 1,
+      "section": "qa",
+      "number": 7,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "Onion is sold for 5 consecutive months at the rate of Rs 10, 20, 25, 25, and 50 per kg, respectively. A family spends a fixed amount of money on onion for each of the first three months, and then spends half that amount on onion for each of the next two months. The average expense for onion, in rupees per kg, for the family over these 5 months is closest to",
+      "options": [
+        "A) 18",
+        "B) 26",
+        "C) 16",
+        "D) 20"
+      ],
+      "answer": "A",
+      "answer_text": "18",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 33.92,
+        "incorrect": 22.7,
+        "unattempted": 43.38
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-Quant/quants-question-7.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2021-s1-qa-08",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 1,
+      "section": "qa",
+      "number": 8,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "If r is a constant such that |x<sup>2</sup> - 4 x - 13| = r has exactly three distinct real roots, then the value of r is",
+      "options": [
+        "A) 15",
+        "B) 18",
+        "C) 17",
+        "D) 21"
+      ],
+      "answer": "C",
+      "answer_text": "17",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 18.12,
+        "incorrect": 9.92,
+        "unattempted": 71.96
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-Quant/quants-question-8.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2021-s1-qa-09",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 1,
+      "section": "qa",
+      "number": 9,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "Amal purchases some pens at ₹ 8 each. To sell these, he hires an employee at a fixed wage. He sells 100 of these pens at ₹ 12 each. If the remaining pens are sold at ₹ 11 each, then he makes a net profit of ₹ 300, while he makes a net loss of ₹ 300 if the remaining pens are sold at ₹ 9 each. The wage of the employee, in INR, is",
+      "options": null,
+      "answer": "1000",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 22.47,
+        "incorrect": 34.61,
+        "unattempted": 42.92
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-Quant/quants-question-9.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "answer_value": "1000",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2021-s1-qa-10",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 1,
+      "section": "qa",
+      "number": 10,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "Anil invests some money at a fixed rate of interest, compounded annually. If the interests accrued during the second and third year are ₹ 806.25 and ₹ 866.72, respectively, the interest accrued, in INR, during the fourth year is nearest to",
+      "options": [
+        "A) 931.72",
+        "B) 926.84",
+        "C) 929.48",
+        "D) 934.65"
+      ],
+      "answer": "A",
+      "answer_text": "931.72",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 36.05,
+        "incorrect": 16.86,
+        "unattempted": 47.09
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-Quant/quants-question-10.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2021-s1-qa-11",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 1,
+      "section": "qa",
+      "number": 11,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "The strength of an indigo solution in percentage is equal to the amount of indigo in grams per 100 cc of water. Two 800 cc bottles are filled with indigo solutions of strengths 33% and 17%, respectively. A part of the solution from the first bottle is thrown away and replaced by an equal volume of the solution from the second bottle. If the strength of the indigo solution in the first bottle has now changed to 21% then the volume, in cc, of the solution left in the second bottle is",
+      "options": null,
+      "answer": "200",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 11.56,
+        "incorrect": 23.24,
+        "unattempted": 65.2
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-Quant/quants-question-11.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "answer_value": "200",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2021-s1-qa-12",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 1,
+      "section": "qa",
+      "number": 12,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "Amar, Akbar and Anthony are working on a project. Working together Amar and Akbar can complete the project in 1 year, Akbar and Anthony can complete in 16 months, Anthony and Amar can complete in 2 years. If the person who is neither the fastest nor the slowest works alone, the time in months he will take to complete the project is",
+      "options": null,
+      "answer": "32",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 36.7,
+        "incorrect": 36.28,
+        "unattempted": 27.02
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-Quant/quants-question-12.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "answer_value": "32",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2021-s1-qa-13",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 1,
+      "section": "qa",
+      "number": 13,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "The number of groups of three or more distinct numbers that can be chosen from 1, 2, 3, 4, 5, 6, 7 and 8 so that the groups always include 3 and 5, while 7 and 8 are never included together is",
+      "options": null,
+      "answer": "47",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 1.83,
+        "incorrect": 40.1,
+        "unattempted": 58.07
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-Quant/quants-question-13.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "answer_value": "47",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2021-s1-qa-14",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 1,
+      "section": "qa",
+      "number": 14,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "A circle of diameter 8 inches is inscribed in a triangle ABC where ∠ABC = 90°. If BC = 10 inches then the area of the triangle in square inches is",
+      "options": null,
+      "answer": "120",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 16.56,
+        "incorrect": 38.0,
+        "unattempted": 45.44
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-Quant/quants-question-14.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "answer_value": "120",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2021-s1-qa-15",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 1,
+      "section": "qa",
+      "number": 15,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "Suppose the length of each side of a regular hexagon ABCDEF is 2 cm. It T is the mid point of CD, then the length of AT, in cm, is",
+      "options": [
+        "A) √15",
+        "B) √13",
+        "C) √12",
+        "D) √14"
+      ],
+      "answer": "B",
+      "answer_text": "√13",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 14.57,
+        "incorrect": 17.93,
+        "unattempted": 67.5
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-Quant/quants-question-15.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2021-s1-qa-16",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 1,
+      "section": "qa",
+      "number": 16,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "Suppose hospital A admitted 21 less Covid infected patients than hospital B, and all eventually recovered. The sum of recovery days for patients in hospitals A and B were 200 and 152, respectively. If the average recovery days for patients admitted in hospital A was 3 more than the average in hospital B then the number admitted in hospital A was",
+      "options": null,
+      "answer": "35",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 10.49,
+        "incorrect": 30.9,
+        "unattempted": 58.61
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-Quant/quants-question-16.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "answer_value": "35",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2021-s1-qa-17",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 1,
+      "section": "qa",
+      "number": 17,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "The amount Neeta and Geeta together earn in a day equals what Sita alone earns in 6 days. The amount Sita and Neeta together earn in a day equals what Geeta alone earns in 2 days. The ratio of the daily earnings of the one who earns the most to that of the one who earns the least is",
+      "options": [
+        "A) 7 : 3",
+        "B) 11 : 3",
+        "C) 11 : 7",
+        "D) 3 : 2"
+      ],
+      "answer": "B",
+      "answer_text": "11 : 3",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 46.85,
+        "incorrect": 15.41,
+        "unattempted": 37.74
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-Quant/quants-question-17.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2021-s1-qa-18",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 1,
+      "section": "qa",
+      "number": 18,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "The natural numbers are divided into groups as (1), (2, 3, 4), (5, 6, 7, 8, 9), ….. and so on. Then, the sum of the numbers in the 15th group is equal to",
+      "options": [
+        "A) 6119",
+        "B) 7471",
+        "C) 4941",
+        "D) 6090"
+      ],
+      "answer": "A",
+      "answer_text": "6119",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 17.86,
+        "incorrect": 10.91,
+        "unattempted": 71.23
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-Quant/quants-question-18.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2021-s1-qa-19",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 1,
+      "section": "qa",
+      "number": 19,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "Anu, Vinu and Manu can complete a work alone in 15 days, 12 days and 20 days, respectively. Vinu works everyday. Anu works only on alternate days starting from the first day while Manu works only on alternate days starting from the second day. Then, the number of days needed to complete the work is",
+      "options": [
+        "A) 8",
+        "B) 6",
+        "C) 5",
+        "D) 7"
+      ],
+      "answer": "D",
+      "answer_text": "7",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 61.31,
+        "incorrect": 21.79,
+        "unattempted": 16.9
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-Quant/quants-question-19.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2021-s1-qa-20",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 1,
+      "section": "qa",
+      "number": 20,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "How many three-digit numbers are greater than 100 and increase by 198 when the three digits are arranged in the reverse order?",
+      "options": null,
+      "answer": "70",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 12.29,
+        "incorrect": 38.8,
+        "unattempted": 48.91
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-Quant/quants-question-20.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "answer_value": "70",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2021-s1-qa-21",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 1,
+      "section": "qa",
+      "number": 21,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "Two trains cross each other in 14 seconds when running in opposite directions along parallel tracks. The faster train is 160 m long and crosses a lamp post in 12 seconds. If the speed of the other train is 6 km/hr less than the faster one, its length, in m, is",
+      "options": [
+        "A) 184",
+        "B) 180",
+        "C) 190",
+        "D) 192"
+      ],
+      "answer": "C",
+      "answer_text": "190",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 52.08,
+        "incorrect": 13.62,
+        "unattempted": 34.3
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-Quant/quants-question-21.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2021-s1-qa-22",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 1,
+      "section": "qa",
+      "number": 22,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "If x<sub>0</sub> = 1, x<sub>1</sub> = 2, and x<sub>n + 2</sub> = \\(\\frac{1+x_{n+1}}{x_{n}}\\), n = 0, 1, 2, 3,..., then x<sub>2021</sub> is equal to?",
+      "options": [
+        "A) 4",
+        "B) 3",
+        "C) 1",
+        "D) 2"
+      ],
+      "answer": "D",
+      "answer_text": "2",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 19.61,
+        "incorrect": 26.55,
+        "unattempted": 53.84
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-Quant/quants-question-22.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    }
+  ]
+}

@@ -1,0 +1,896 @@
+{
+  "exam": "CAT",
+  "year": 2024,
+  "slot": 3,
+  "section": "dilr",
+  "source": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-DILR/",
+  "licence": "Real CAT questions (c) IIMs, as re-published free by 2IIM (c) 2IIM. Private study use in AHH only; do not republish.",
+  "scraped": "2026-11-01",
+  "count": 22,
+  "sets": [
+    {
+      "id": "cat-2024-s3-dilr-set1",
+      "text": "The table given below shows the amount, in grams, of carbohydrate, protein, fat and all other nutrients, per 100 grams of nutrients in seven foodgrains. The first column shows the foodgrain category and the second column its codename. The table has some missing values.\n\n![figure](img/2024-s3-dilr/32842_332818_0_25976760_q8361_m.jpg)\n\nThe following additional facts are known.\n1. Both the pseudo-cereals had higher amounts of carbohydrate as well as higher amounts of protein than any millet.\n2. Both the cereals had higher amounts of carbohydrate than any pseudo-cereal.\n3. All the missing values of carbohydrate amounts (in grams) for all the foodgrains are non-zero multiples of 5.\n4. All the missing values of protein, fat and other nutrients amounts (in grams) for all the foodgrains are non-zero multiples of 4.\n5. P1 contained double the amount of protein that M3 contains."
+    },
+    {
+      "id": "cat-2024-s3-dilr-set2",
+      "text": "Over the top (OTT) subscribers of a platform are segregated into three categories: i) Kid, ii) Elder, and iii) Others. Some of the subscribers used one app and the others used multiple apps to access the platform. The figure below shows the percentage of the total number of subscribers in 2023 and 2024 who belong to the 'Kid' and 'Elder' categories.\n\n![figure](img/2024-s3-dilr/32842_332818_0_25976760_sb_psg_1.jpg)\n\nThe following additional facts are known about the numbers of subscribers.1. The total number of subscribers increased by 10% from 2023 to 2024.\n2. In 2024, 1/2 of the subscribers from the 'Kid' category and 2/3 of the subscribers from the 'Elder' category subscribers use one app.\n3. In 2023, the number of subscribers from the 'Kid' category who used multiple apps was the same as the number of subscribers from the 'Elder' category who used one app.\n4. 10,000 subscribers from the 'Kid' category used one app and 15,000 subscribers from the 'Elder' category used multiple apps in 2023."
+    },
+    {
+      "id": "cat-2024-s3-dilr-set3",
+      "text": "The air-conditioner (AC) in a large room can be operated either in REGULAR mode or in POWER mode to reduce the temperature.\n\nIf the AC operates in REGULAR mode, then it brings down the temperature inside the room (called inside temperature) at a constant rate to the set temperature in 1 hour. If it operates in POWER mode, then this is achieved in 30 minutes.\n\nIf the AC is switched off, then the inside temperature rises at a constant rate so as to reach the temperature outside at the time of switching off in 1 hour.\n\nThe temperature outside has been falling at a constant rate from 7 pm onward until 3 am on a particular night. The following graph shows the inside temperature between 11 pm (23:00) and 2 am (2:00) that night.\n\n![figure](img/2024-s3-dilr/32842_332818_0_26395165_dilrq3.jpg)\n\nThe following facts are known about the AC operation that night.\n\n• The AC was turned on for the first time that night at 11 pm (23:00).\n• The AC setting was changed (including turning it on/off, and/or setting different temperatures) only at the beginning of the hour or at 30 minutes after the hour.\n• The AC was used in POWER mode for longer duration than in REGULAR mode during this 3-hour period."
+    },
+    {
+      "id": "cat-2024-s3-dilr-set4",
+      "text": "Out of 10 countries -- Country 1 through Country 10 -- Country 9 has the highest gross domestic product (GDP), and Country 10 has the highest GDP per capita. GDP per capita is the GDP of a country divided by its population. The table below provides the following data about Country 1 through Country 8 for the year 2024.\n\n• Column 1 gives the country's identity.\n• Column 2 gives the country's GDP as a fraction of the GDP of Country 9.\n• Column 3 gives the country's GDP per capita as a fraction of the GDP per capita of Country 10.\n• Column 4 gives the country's annual GDP growth rate.\n• Column 5 gives the country's annual population growth rate.\n\n![figure](img/2024-s3-dilr/32842_332818_0_25976758_kitkat_dilr_dgn.jpg)\n\nAssume that the GDP growth rates and population growth rates of the countries will remain constant for the next three years."
+    },
+    {
+      "id": "cat-2024-s3-dilr-set5",
+      "text": "The figure below shows a network with three parallel roads represented by horizontal lines R-A, R-B, and R-C and another three parallel roads represented by vertical lines V1, V2, and V3. The figure also shows the distance (in km) between two adjacent intersections. Six ATMs are placed at six of the nine road intersections. Each ATM has a distinct integer cash requirement (in Rs. Lakhs), and the numbers at the end of each line in the figure indicate the total cash requirements of all ATMs placed on the corresponding road. For example, the total cash requirement of the ATM(s) placed on road R-A is Rs. 22 Lakhs.\n\nThe following additional information is known.\n1. The ATMs with the minimum and maximum cash requirements of Rs. 7 Lakhs and Rs. 15 Lakhs are placed on the same road.\n2. The road distance between the ATM with the second highest cash requirement and the ATM located at the intersection of R-C and V3 is 12 km.\n\n![figure](img/2024-s3-dilr/32842_332818_0_25976760_q8302_p_m.jpg)"
+    }
+  ],
+  "questions": [
+    {
+      "id": "cat-2024-s3-dilr-01",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 3,
+      "section": "dilr",
+      "number": 1,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2024-s3-dilr-set1",
+      "question": "How many foodgrains had a higher amount of carbohydrate per 100 grams of nutrients than M1?",
+      "options": null,
+      "answer": "5",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 40.68,
+        "incorrect": 37.73,
+        "unattempted": 21.59
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-DILR/dilr-question-1.shtml",
+      "official_qid": "332818689",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false,
+      "answer_value": "5",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2024-s3-dilr-02",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 3,
+      "section": "dilr",
+      "number": 2,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2024-s3-dilr-set1",
+      "question": "How many grams of protein were there in 100 grams of nutrients in M2?",
+      "options": null,
+      "answer": "12",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 49.41,
+        "incorrect": 26.01,
+        "unattempted": 24.59
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-DILR/dilr-question-2.shtml",
+      "official_qid": "332818690",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false,
+      "answer_value": "12",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2024-s3-dilr-03",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 3,
+      "section": "dilr",
+      "number": 3,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2024-s3-dilr-set1",
+      "question": "How many grams of other nutrients were there in 100 grams of nutrients in M3?",
+      "options": null,
+      "answer": "24",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 39.21,
+        "incorrect": 34.39,
+        "unattempted": 26.4
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-DILR/dilr-question-3.shtml",
+      "official_qid": "332818691",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false,
+      "answer_value": "24",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2024-s3-dilr-04",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 3,
+      "section": "dilr",
+      "number": 4,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2024-s3-dilr-set1",
+      "question": "What is the median of the number of grams of protein in 100 grams of nutrients among these food grains?",
+      "options": null,
+      "answer": "12",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 39.77,
+        "incorrect": 26.97,
+        "unattempted": 33.26
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-DILR/dilr-question-4.shtml",
+      "official_qid": "332818692",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false,
+      "answer_value": "12",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2024-s3-dilr-05",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 3,
+      "section": "dilr",
+      "number": 5,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2024-s3-dilr-set2",
+      "question": "How many subscribers belonged to the 'Others' category in 2024?",
+      "options": [
+        "A) Cannot be determined",
+        "B) 65000",
+        "C) 45000",
+        "D) 55000"
+      ],
+      "answer": "D",
+      "answer_text": "55000",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 41.64,
+        "incorrect": 15.47,
+        "unattempted": 42.89
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-DILR/dilr-question-5.shtml",
+      "official_qid": "332818399",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2024-s3-dilr-06",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 3,
+      "section": "dilr",
+      "number": 6,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2024-s3-dilr-set2",
+      "question": "What percentage of subscribers in the 'Kid' category used multiple apps in 2023?",
+      "options": [
+        "A) 33.33%",
+        "B) 25.50%",
+        "C) 50.00%",
+        "D) 5.00%"
+      ],
+      "answer": "A",
+      "answer_text": "33.33%",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 38.36,
+        "incorrect": 18.64,
+        "unattempted": 43.0
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-DILR/dilr-question-6.shtml",
+      "official_qid": "332818400",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2024-s3-dilr-07",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 3,
+      "section": "dilr",
+      "number": 7,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2024-s3-dilr-set2",
+      "question": "What was the percentage increase in the number of subscribers in the 'Elder' category from 2023 to 2024?",
+      "options": [
+        "A) 60%",
+        "B) 65%",
+        "C) 40%",
+        "D) 50%"
+      ],
+      "answer": "B",
+      "answer_text": "65%",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 46.52,
+        "incorrect": 13.09,
+        "unattempted": 40.4
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-DILR/dilr-question-7.shtml",
+      "official_qid": "332818401",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2024-s3-dilr-08",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 3,
+      "section": "dilr",
+      "number": 8,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2024-s3-dilr-set2",
+      "question": "What could be the minimum percentage of subscribers who used multiple apps in 2024?",
+      "options": [
+        "A) 16.5%",
+        "B) 20.0%",
+        "C) 10.0%",
+        "D) 22.00%"
+      ],
+      "answer": "B",
+      "answer_text": "20.0%",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 40.85,
+        "incorrect": 10.59,
+        "unattempted": 48.56
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-DILR/dilr-question-8.shtml",
+      "official_qid": "332818402",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2024-s3-dilr-09",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 3,
+      "section": "dilr",
+      "number": 9,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2024-s3-dilr-set3",
+      "question": "How many times the AC must have been turned off between 11:01 pm and 1:59 am?",
+      "options": [
+        "A) 1",
+        "B) 2",
+        "C) cannot be determined",
+        "D) 0"
+      ],
+      "answer": "B",
+      "answer_text": "2",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 32.75,
+        "incorrect": 7.88,
+        "unattempted": 59.38
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-DILR/dilr-question-9.shtml",
+      "official_qid": "332818201",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2024-s3-dilr-10",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 3,
+      "section": "dilr",
+      "number": 10,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2024-s3-dilr-set3",
+      "question": "What was the temperature outside, in degree Celsius, at 1 am?",
+      "options": null,
+      "answer": "34",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 9.35,
+        "incorrect": 51.73,
+        "unattempted": 38.92
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-DILR/dilr-question-10.shtml",
+      "official_qid": "332818701",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false,
+      "answer_value": "34",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2024-s3-dilr-11",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 3,
+      "section": "dilr",
+      "number": 11,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2024-s3-dilr-set3",
+      "question": "What was the temperature outside, in degree Celsius, at 9 pm?",
+      "options": null,
+      "answer": "42",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 11.56,
+        "incorrect": 44.48,
+        "unattempted": 43.97
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-DILR/dilr-question-11.shtml",
+      "official_qid": "332818702",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false,
+      "answer_value": "42",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2024-s3-dilr-12",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 3,
+      "section": "dilr",
+      "number": 12,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2024-s3-dilr-set3",
+      "question": "What best can be concluded about the number of times the AC must have either been turned on or the AC temperature setting been altered between 11:01 pm and 1:59 am?",
+      "options": [
+        "A) More than 3",
+        "B) Exactly 2",
+        "C) Either 2 or 3",
+        "D) Exactly 3"
+      ],
+      "answer": "D",
+      "answer_text": "Exactly 3",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 7.88,
+        "incorrect": 21.42,
+        "unattempted": 70.71
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-DILR/dilr-question-12.shtml",
+      "official_qid": "332818204",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2024-s3-dilr-13",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 3,
+      "section": "dilr",
+      "number": 13,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2024-s3-dilr-set3",
+      "question": "What was the maximum difference between temperature outside and inside temperature, in degree Celsius, between 11:01 pm and 1:59 am?",
+      "options": null,
+      "answer": "10",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 14.96,
+        "incorrect": 35.41,
+        "unattempted": 49.63
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-DILR/dilr-question-13.shtml",
+      "official_qid": "332818703",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false,
+      "answer_value": "10",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2024-s3-dilr-14",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 3,
+      "section": "dilr",
+      "number": 14,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2024-s3-dilr-set4",
+      "question": "Which one among the countries 1 through 8, has the smallest population in 2024?",
+      "options": [
+        "A) Country 3",
+        "B) Country 5",
+        "C) Country 8",
+        "D) Country 7"
+      ],
+      "answer": "C",
+      "answer_text": "Country 8",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 30.99,
+        "incorrect": 18.02,
+        "unattempted": 50.99
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-DILR/dilr-question-14.shtml",
+      "official_qid": "332818640",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2024-s3-dilr-15",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 3,
+      "section": "dilr",
+      "number": 15,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2024-s3-dilr-set4",
+      "question": "The ratio of Country 4's GDP to Country 5's GDP in 2026 will be closest to",
+      "options": [
+        "A) 1.032",
+        "B) 1.314",
+        "C) 0.963",
+        "D) 1.195"
+      ],
+      "answer": "D",
+      "answer_text": "1.195",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 30.14,
+        "incorrect": 11.33,
+        "unattempted": 58.53
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-DILR/dilr-question-15.shtml",
+      "official_qid": "332818641",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2024-s3-dilr-16",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 3,
+      "section": "dilr",
+      "number": 16,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2024-s3-dilr-set4",
+      "question": "Which one among the countries 1, 4, 5, and 7 will have the largest population in 2027?",
+      "options": [
+        "A) Country 4",
+        "B) Country 7",
+        "C) Country 1",
+        "D) Country 5"
+      ],
+      "answer": "C",
+      "answer_text": "Country 1",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 11.56,
+        "incorrect": 27.48,
+        "unattempted": 60.96
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-DILR/dilr-question-16.shtml",
+      "official_qid": "332818642",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2024-s3-dilr-17",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 3,
+      "section": "dilr",
+      "number": 17,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2024-s3-dilr-set4",
+      "question": "For how many countries among Country 1 through Country 8 will the GDP per capita in 2027 be lower than that in 2024?",
+      "options": null,
+      "answer": "0",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 9.92,
+        "incorrect": 44.93,
+        "unattempted": 45.16
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-DILR/dilr-question-17.shtml",
+      "official_qid": "332818697",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false,
+      "answer_value": "0",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2024-s3-dilr-18",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 3,
+      "section": "dilr",
+      "number": 18,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2024-s3-dilr-set5",
+      "question": "Which of the following statements is correct?",
+      "options": [
+        "A) The ATM placed at the (R-C, V2) intersection has a cash requirement of Rs. 9 Lakhs.",
+        "B) There is no ATM placed at the (R-C, V2) intersection.",
+        "C) The ATM placed at the (R-C, V2) intersection has a cash requirement of Rs. 8 Lakhs.",
+        "D) The cash requirement of the ATM placed at the (R-C, V2) intersection cannot be uniquely determined."
+      ],
+      "answer": "A",
+      "answer_text": "The ATM placed at the (R-C, V2)\nintersection has a cash requirement of Rs. 9 Lakhs.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 24.02,
+        "incorrect": 12.24,
+        "unattempted": 63.74
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-DILR/dilr-question-18.shtml",
+      "official_qid": "332818303",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2024-s3-dilr-19",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 3,
+      "section": "dilr",
+      "number": 19,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2024-s3-dilr-set5",
+      "question": "How many ATMs have cash requirements of Rs. 10 Lakhs or more?",
+      "options": null,
+      "answer": "3",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 42.44,
+        "incorrect": 21.02,
+        "unattempted": 36.54
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-DILR/dilr-question-19.shtml",
+      "official_qid": "332818706",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false,
+      "answer_value": "3",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2024-s3-dilr-20",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 3,
+      "section": "dilr",
+      "number": 20,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2024-s3-dilr-set5",
+      "question": "Which of the following two statements is/are DEFINITELY true?\nA)Statement A: Each of R-A, R-B, and R-C has two ATMs.\nB)Statement B: Each of V1, V2, and V3 has two ATMs.",
+      "options": [
+        "A) Both Statement A and Statement B",
+        "B) Neither Statement A nor Statement B",
+        "C) Only Statement A",
+        "D) Only Statement B"
+      ],
+      "answer": "C",
+      "answer_text": "Only Statement A",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 19.09,
+        "incorrect": 19.38,
+        "unattempted": 61.53
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-DILR/dilr-question-20.shtml",
+      "official_qid": "332818307",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2024-s3-dilr-21",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 3,
+      "section": "dilr",
+      "number": 21,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2024-s3-dilr-set5",
+      "question": "What best can be said about the road distance (in km) between the ATMs having the second highest and the second lowest cash requirements?",
+      "options": [
+        "A) 7 km",
+        "B) 5 km",
+        "C) 4 km",
+        "D) Either 4 km or 7 km"
+      ],
+      "answer": "D",
+      "answer_text": "Either 4 km or 7 km",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 10.25,
+        "incorrect": 25.61,
+        "unattempted": 64.14
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-DILR/dilr-question-21.shtml",
+      "official_qid": "332818305",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2024-s3-dilr-22",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 3,
+      "section": "dilr",
+      "number": 22,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2024-s3-dilr-set5",
+      "question": "What is the number of ATMs whose locations and cash requirements can both be uniquely determined?",
+      "options": null,
+      "answer": "3",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 10.76,
+        "incorrect": 46.97,
+        "unattempted": 42.27
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-DILR/dilr-question-22.shtml",
+      "official_qid": "332818707",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false,
+      "answer_value": "3",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    }
+  ]
+}

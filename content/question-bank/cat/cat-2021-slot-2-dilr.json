@@ -1,0 +1,830 @@
+{
+  "exam": "CAT",
+  "year": 2021,
+  "slot": 2,
+  "section": "dilr",
+  "source": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-2-DILR/",
+  "licence": "Real CAT questions (c) IIMs, as re-published free by 2IIM (c) 2IIM. Private study use in AHH only; do not republish.",
+  "scraped": "2026-11-01",
+  "count": 20,
+  "sets": [
+    {
+      "id": "cat-2021-s2-dilr-set1",
+      "text": "Ten objects o1, o2, …, o10 were distributed among Amar, Barat, Charles, Disha, and Elise. Each item went to exactly one person. Each person got exactly two of the items, and this pair of objects is called her/his bundle.\n\nThe following table shows how each person values each object.\n\n![figure](img/2021-s2-dilr/756_489168_0_3064786_223333333333333.jpg)\n\nThe value of any bundle by a person is the sum of that person's values of the objects in that bundle. A person X envies another person Y if X values Y's bundle more than X's own bundle.\n\nFor example, hypothetically suppose Amar's bundle consists of o1 and o2, and Barat's bundle consists of o3 and o4. Then Amar values his own bundle at 4 + 9 = 13 and Barat's bundle at 9 + 3 = 12. Hence Amar does not envy Barat. On the other hand, Barat values his own bundle at 7 + 5 = 12 and Amar's bundle at 5 + 9 = 14. Hence Barat envies Amar.\n\nThe following facts are known about the actual distribution of the objects among the five people.\n1. If someone's value for an object is 10, then she/he received that object.\n2. Objects o1, o2, and o3 were given to three different people.\n3. Objects o1 and o8 were given to different people.\n4. Three people value their own bundles at 16. No one values her/his own bundle at a number higher than 16.\n5. Disha values her own bundle at an odd number. All others value their own bundles at an even number.\n6. Some people who value their own bundles less than 16 envy some other people who value their own bundle at 16. No one else envies others."
+    },
+    {
+      "id": "cat-2021-s2-dilr-set2",
+      "text": "![figure](img/2021-s2-dilr/756_489168_0_3064786_dirl_qp233.jpg)\n\nThe different bars in the diagram above provide information about different orders in various categories (Art, Binders, ….) that were booked in the first two weeks of September of a store for one client. The colour and pattern of a bar denotes the ship mode (First Class / Second Class / Standard Class). The left end point of a bar indicates the booking day of the order, while the right end point indicates the dispatch day of the order. The difference between the dispatch day and the booking day (measured in terms of the number of days) is called the processing time of the order. For the same category, an order is considered for booking only after the previous order of the same category is dispatched. No two consecutive orders of the same category had identical ship mode during this period.\n\nFor example, there were only two orders in the furnishing category during this period. The first one was shipped in the Second Class. It was booked on Sep 1 and dispatched on Sep 5. The second order was shipped in the Standard class. It was booked on Sep 5 (although the order might have been placed before that) and dispatched on Sep 12. So the processing times were 4 and 7 days respectively for these orders."
+    },
+    {
+      "id": "cat-2021-s2-dilr-set3",
+      "text": "The game of Chango is a game where two people play against each other; one of them wins and the other loses, i.e., there are no drawn Chango games. 12 players participated in a Chango championship. They were divided into four groups: Group A consisted of Aruna, Azul, and Arif; Group B consisted of Brinda, Brij, and Biju; Group C consisted of Chitra, Chetan, and Chhavi; and Group D consisted of Dipen, Donna, and Deb.\n\nPlayers within each group had a distinct rank going into the championship. The players have NOT been listed necessarily according to their ranks. In the group stage of the game, the second and third ranked players play against each other, and the winner of that game plays against the first ranked player of the group. The winner of this second game is considered as the winner of the group and enters a semi-final.\n\nThe winners from Groups A and B play against each other in one semi-final, while the winners from Groups C and D play against each other in the other semi-final. The winners of the two semi-finals play against each other in the final to decide the winner of the championship.\n\nIt is known that:\n1. Chitra did not win the championship.\n2. Aruna did not play against Arif. Brij did not play against Brinda.\n3. Aruna, Biju, Chitra, and Dipen played three games each, Azul and Chetan played two games each, and the remaining players played one game each."
+    },
+    {
+      "id": "cat-2021-s2-dilr-set4",
+      "text": "Ravi works in an online food-delivery company. After each delivery, customers rate Ravi on each of four parameters – Behaviour, Packaging, Hygiene, and Timeliness, on a scale from 1 to 9. If the total of the four rating points is 25 or more, then Ravi gets a bonus of ₹20 for that delivery. Additionally, a customer may or may not give Ravi a tip. If the customer gives a tip, it is either ₹30 or ₹50.\n\nOne day, Ravi made four deliveries - one to each of Atal, Bihari, Chirag and Deepak, and received a total of ₹120 in bonus and tips. He did not get both a bonus and a tip from the same customer.\n\nThe following additional facts are also known.\n1. In Timeliness, Ravi received a total of 21 points, and three of the customers gave him the same rating points in this parameter. Atal gave higher rating points than Bihari and Chirag in this parameter.\n2. Ravi received distinct rating points in Packaging from the four customers adding up to 29 points. Similarly, Ravi received distinct rating points in Hygiene from the four customers adding up to 26 points.\n3. Chirag gave the same rating points for Packaging and Hygiene.\n4. Among the four customers, Bihari gave the highest rating points in Packaging, and Chirag gave the highest rating points in Hygiene.\n5. Everyone rated Ravi between 5 and 7 in Behaviour. Unique maximum and minimum ratings in this parameter were given by Atal and Deepak respectively.\n6. If the customers are ranked based on ratings given by them in individual parameters, then Atal's rank based on Packaging is the same as that based on Hygiene. This is also true for Deepak."
+    }
+  ],
+  "questions": [
+    {
+      "id": "cat-2021-s2-dilr-01",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 2,
+      "section": "dilr",
+      "number": 1,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2021-s2-dilr-set1",
+      "question": "What BEST can be said about object o8?",
+      "options": [
+        "A) o8 was given to Disha",
+        "B) o8 was given to Amar, Charles, or Disha",
+        "C) o8 was given to Charles or Disha",
+        "D) o8 was given to Charles"
+      ],
+      "answer": "D",
+      "answer_text": "o8 was given to Charles",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 9.11,
+        "incorrect": 10.62,
+        "unattempted": 80.27
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-2-DILR/dilr-question-1.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2021-s2-dilr-02",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 2,
+      "section": "dilr",
+      "number": 2,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2021-s2-dilr-set1",
+      "question": "Who among the following envies someone else?",
+      "options": [
+        "A) Amar",
+        "B) Barat",
+        "C) Charles",
+        "D) Elise"
+      ],
+      "answer": "A",
+      "answer_text": "Amar",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 8.48,
+        "incorrect": 11.58,
+        "unattempted": 79.94
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-2-DILR/dilr-question-2.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2021-s2-dilr-03",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 2,
+      "section": "dilr",
+      "number": 3,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2021-s2-dilr-set1",
+      "question": "What is Amar's value for his own bundle?",
+      "options": null,
+      "answer": "12",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 7.93,
+        "incorrect": 36.81,
+        "unattempted": 55.26
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-2-DILR/dilr-question-3.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false,
+      "answer_value": "12",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2021-s2-dilr-04",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 2,
+      "section": "dilr",
+      "number": 4,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2021-s2-dilr-set1",
+      "question": "Object o4 was given to",
+      "options": [
+        "A) Disha",
+        "B) Barat",
+        "C) Charles",
+        "D) Elise"
+      ],
+      "answer": "A",
+      "answer_text": "Disha",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 14.61,
+        "incorrect": 4.87,
+        "unattempted": 80.52
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-2-DILR/dilr-question-4.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2021-s2-dilr-05",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 2,
+      "section": "dilr",
+      "number": 5,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2021-s2-dilr-set1",
+      "question": "Object o5 was given to",
+      "options": [
+        "A) Amar",
+        "B) Elise",
+        "C) Charles",
+        "D) Disha"
+      ],
+      "answer": "B",
+      "answer_text": "Elise",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 8.63,
+        "incorrect": 9.89,
+        "unattempted": 81.48
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-2-DILR/dilr-question-5.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2021-s2-dilr-06",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 2,
+      "section": "dilr",
+      "number": 6,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2021-s2-dilr-set1",
+      "question": "What BEST can be said about the distribution of object o1?",
+      "options": [
+        "A) o1 was given to Charles or Disha",
+        "B) o1 was given to Charles, Disha, or Elise",
+        "C) o1 was given to Charles",
+        "D) o1 was given to Disha"
+      ],
+      "answer": "D",
+      "answer_text": "o1 was given to Disha",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 3.5,
+        "incorrect": 12.73,
+        "unattempted": 83.77
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-2-DILR/dilr-question-6.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2021-s2-dilr-07",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 2,
+      "section": "dilr",
+      "number": 7,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2021-s2-dilr-set2",
+      "question": "How many days between Sep 1 and Sep 14 (both inclusive) had no booking from this client considering all the above categories?",
+      "options": null,
+      "answer": "6",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 38.92,
+        "incorrect": 37.96,
+        "unattempted": 23.12
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-2-DILR/dilr-question-7.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false,
+      "answer_value": "6",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2021-s2-dilr-08",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 2,
+      "section": "dilr",
+      "number": 8,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2021-s2-dilr-set2",
+      "question": "What was the average processing time of all orders in the categories which had only one type of ship mode?",
+      "options": null,
+      "answer": "11",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 54.67,
+        "incorrect": 21.76,
+        "unattempted": 23.57
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-2-DILR/dilr-question-8.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false,
+      "answer_value": "11",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2021-s2-dilr-09",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 2,
+      "section": "dilr",
+      "number": 9,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2021-s2-dilr-set2",
+      "question": "The sequence of categories -- Art, Binders, Paper and Phones -- in decreasing order of average processing time of their orders in this period is:",
+      "options": [
+        "A) Art, Binders, Paper, Phones",
+        "B) Paper, Binders, Art, Phones",
+        "C) Phones, Binders, Art, Paper",
+        "D) Phones, Art, Binders, Paper"
+      ],
+      "answer": "D",
+      "answer_text": "Phones, Art, Binders, Paper",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 50.06,
+        "incorrect": 14.39,
+        "unattempted": 35.55
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-2-DILR/dilr-question-9.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2021-s2-dilr-10",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 2,
+      "section": "dilr",
+      "number": 10,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2021-s2-dilr-set2",
+      "question": "Approximately what percentage of orders had a processing time of one day during the period Sep 1 to Sep 22 (both dates inclusive)?",
+      "options": [
+        "A) 16%",
+        "B) 20%",
+        "C) 25%",
+        "D) 22%"
+      ],
+      "answer": "B",
+      "answer_text": "20%",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 45.26,
+        "incorrect": 14.2,
+        "unattempted": 40.54
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-2-DILR/dilr-question-10.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2021-s2-dilr-11",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 2,
+      "section": "dilr",
+      "number": 11,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2021-s2-dilr-set3",
+      "question": "Who among the following was DEFINITELY NOT ranked first in his/her group?",
+      "options": [
+        "A) Chitra",
+        "B) Aruna",
+        "C) Dipen",
+        "D) Brij"
+      ],
+      "answer": "C",
+      "answer_text": "Dipen",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 32.39,
+        "incorrect": 40.39,
+        "unattempted": 27.22
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-2-DILR/dilr-question-11.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2021-s2-dilr-12",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 2,
+      "section": "dilr",
+      "number": 12,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2021-s2-dilr-set3",
+      "question": "Which of the following pairs must have played against each other in the championship?",
+      "options": [
+        "A) Azul, Biju",
+        "B) Donna, Chetan",
+        "C) Deb, Donna",
+        "D) Chitra, Dipen"
+      ],
+      "answer": "D",
+      "answer_text": "Chitra, Dipen",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 63.3,
+        "incorrect": 6.93,
+        "unattempted": 29.77
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-2-DILR/dilr-question-12.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2021-s2-dilr-13",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 2,
+      "section": "dilr",
+      "number": 13,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2021-s2-dilr-set3",
+      "question": "Who won the championship?",
+      "options": [
+        "A) Brij",
+        "B) Chitra",
+        "C) Cannot be determined",
+        "D) Aruna"
+      ],
+      "answer": "D",
+      "answer_text": "Aruna",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 46.59,
+        "incorrect": 21.76,
+        "unattempted": 31.65
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-2-DILR/dilr-question-13.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2021-s2-dilr-14",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 2,
+      "section": "dilr",
+      "number": 14,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2021-s2-dilr-set3",
+      "question": "Who among the following did NOT play against Chitra in the championship?",
+      "options": [
+        "A) Aruna",
+        "B) Dipen",
+        "C) Chetan",
+        "D) Biju"
+      ],
+      "answer": "D",
+      "answer_text": "Biju",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 52.97,
+        "incorrect": 12.8,
+        "unattempted": 34.23
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-2-DILR/dilr-question-14.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2021-s2-dilr-15",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 2,
+      "section": "dilr",
+      "number": 15,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2021-s2-dilr-set4",
+      "question": "What was the minimum rating that Ravi received from any customer in any parameter?",
+      "options": null,
+      "answer": "5",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 37.88,
+        "incorrect": 39.62,
+        "unattempted": 22.5
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-2-DILR/dilr-question-15.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false,
+      "answer_value": "5",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2021-s2-dilr-16",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 2,
+      "section": "dilr",
+      "number": 16,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2021-s2-dilr-set4",
+      "question": "The COMPLETE list of customers who gave the maximum total rating points to Ravi is",
+      "options": [
+        "A) Bihari",
+        "B) Bihari and Chirag",
+        "C) Atal",
+        "D) Atal and Bihari"
+      ],
+      "answer": "B",
+      "answer_text": "Bihari and Chirag",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 31.83,
+        "incorrect": 24.42,
+        "unattempted": 43.75
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-2-DILR/dilr-question-16.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2021-s2-dilr-17",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 2,
+      "section": "dilr",
+      "number": 17,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2021-s2-dilr-set4",
+      "question": "What rating did Atal give on Timeliness?",
+      "options": null,
+      "answer": "6",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 48.4,
+        "incorrect": 31.54,
+        "unattempted": 20.06
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-2-DILR/dilr-question-17.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false,
+      "answer_value": "6",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2021-s2-dilr-18",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 2,
+      "section": "dilr",
+      "number": 18,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2021-s2-dilr-set4",
+      "question": "What BEST can be concluded about the tip amount given by Deepak?",
+      "options": [
+        "A) Either ₹30 or ₹50",
+        "B) Either ₹0 or ₹30 or ₹50",
+        "C) ₹50",
+        "D) ₹30"
+      ],
+      "answer": "A",
+      "answer_text": "Either ₹30 or ₹50",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 33.9,
+        "incorrect": 17.23,
+        "unattempted": 48.87
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-2-DILR/dilr-question-18.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2021-s2-dilr-19",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 2,
+      "section": "dilr",
+      "number": 19,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2021-s2-dilr-set4",
+      "question": "In which parameter did Atal give the maximum rating points to Ravi?",
+      "options": [
+        "A) Behaviour",
+        "B) Hygiene",
+        "C) Packaging",
+        "D) Timeliness"
+      ],
+      "answer": "A",
+      "answer_text": "Behaviour",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 32.02,
+        "incorrect": 29.73,
+        "unattempted": 38.25
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-2-DILR/dilr-question-19.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2021-s2-dilr-20",
+      "exam": "CAT",
+      "year": 2021,
+      "slot": 2,
+      "section": "dilr",
+      "number": 20,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2021-s2-dilr-set4",
+      "question": "What rating did Deepak give on Packaging?",
+      "options": [
+        "A) 5",
+        "B) 7",
+        "C) 8",
+        "D) 6"
+      ],
+      "answer": "B",
+      "answer_text": "7",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 26.89,
+        "incorrect": 21.58,
+        "unattempted": 51.53
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-2-DILR/dilr-question-20.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2021-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    }
+  ]
+}

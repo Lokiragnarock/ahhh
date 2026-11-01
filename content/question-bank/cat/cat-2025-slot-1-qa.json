@@ -1,0 +1,883 @@
+{
+  "exam": "CAT",
+  "year": 2025,
+  "slot": 1,
+  "section": "qa",
+  "source": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-Quant/",
+  "licence": "Real CAT questions (c) IIMs, as re-published free by 2IIM (c) 2IIM. Private study use in AHH only; do not republish.",
+  "scraped": "2026-11-01",
+  "count": 22,
+  "sets": [],
+  "questions": [
+    {
+      "id": "cat-2025-s1-qa-01",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 1,
+      "section": "qa",
+      "number": 1,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "If \\(a-6 b+6 c=4\\) and \\(6 a+3 b-3 c=50\\), where \\(a, b\\) and \\(c\\) are real numbers, the value of \\(2 a+3 b-3 c\\) is",
+      "options": [
+        "A) 18",
+        "B) 20",
+        "C) 15",
+        "D) 14"
+      ],
+      "answer": "A",
+      "answer_text": "18",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 34.1,
+        "incorrect": 10.75,
+        "unattempted": 55.15
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-Quant/quants-question-1.shtml",
+      "official_qid": "3328181166",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s1-qa-02",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 1,
+      "section": "qa",
+      "number": 2,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "A cafeteria offers 5 types of sandwiches. Moreover, for each type of sandwich, a customer can choose one of 4 breads and opt for either small or large sized sandwich. Optionally, the customer may also add up to 2 out of 6 available sauces. The number of different ways in which an order can be placed for a sandwich, is",
+      "options": [
+        "A) 880",
+        "B) 600",
+        "C) 800",
+        "D) 840"
+      ],
+      "answer": "A",
+      "answer_text": "880",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 9.12,
+        "incorrect": 31.1,
+        "unattempted": 59.78
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-Quant/quants-question-2.shtml",
+      "official_qid": "3328181041",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s1-qa-03",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 1,
+      "section": "qa",
+      "number": 3,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "The number of distinct integers \\(n\\) for which \\(\\log _{\\left(\\frac{1}{4}\\right)}\\left(n^2-7 n+11\\right)>0\\), is",
+      "options": [
+        "A) infinite",
+        "B) 0",
+        "C) 2",
+        "D) 1"
+      ],
+      "answer": "B",
+      "answer_text": "0",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 15.45,
+        "incorrect": 28.8,
+        "unattempted": 55.75
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-Quant/quants-question-3.shtml",
+      "official_qid": "3328181295",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s1-qa-04",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 1,
+      "section": "qa",
+      "number": 4,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "In the set of consecutive odd numbers \\(\\{1,3,5, \\ldots, 57\\}\\), there is a number \\(k\\) such that the sum of all the elements less than \\(k\\) is equal to the sum of all the elements greater than \\(k\\). Then, \\(k\\) equals",
+      "options": [
+        "A) 41",
+        "B) 39",
+        "C) 37",
+        "D) 43"
+      ],
+      "answer": "A",
+      "answer_text": "41",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 18.85,
+        "incorrect": 15.45,
+        "unattempted": 65.7
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-Quant/quants-question-4.shtml",
+      "official_qid": "3328181065",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s1-qa-05",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 1,
+      "section": "qa",
+      "number": 5,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "In a 3-digit number N, the digits are non-zero and distinct such that none of the digits is a perfect square, and only one of the digits is a prime number. Then, the number of factors of the minimum possible value of N is",
+      "options": null,
+      "answer": "6",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 13.88,
+        "incorrect": 43.69,
+        "unattempted": 42.43
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-Quant/quants-question-5.shtml",
+      "official_qid": "3328181703",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "answer_value": "6",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s1-qa-06",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 1,
+      "section": "qa",
+      "number": 6,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "At a certain simple rate of interest, a given sum amounts to Rs 13920 in 3 years, and to Rs 18960 in 6 years and 6 months. If the same given sum had been invested for 2 years at the same rate as before but with interest compounded every 6 months, then the total interest earned, in rupees, would have been nearest to",
+      "options": [
+        "A) 3096",
+        "B) 3150",
+        "C) 3180",
+        "D) 3221"
+      ],
+      "answer": "D",
+      "answer_text": "3221",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 17.01,
+        "incorrect": 14.15,
+        "unattempted": 68.84
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-Quant/quants-question-6.shtml",
+      "official_qid": "3328181162",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s1-qa-07",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 1,
+      "section": "qa",
+      "number": 7,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "The number of non-negative integer values of \\(k\\) for which the quadratic equation \\(x^2-5 x+k=0\\) has only integer roots, is",
+      "options": null,
+      "answer": "3",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 13.5,
+        "incorrect": 55.66,
+        "unattempted": 30.84
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-Quant/quants-question-7.shtml",
+      "official_qid": "3328181716",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "answer_value": "3",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s1-qa-08",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 1,
+      "section": "qa",
+      "number": 8,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "A value of \\(c\\) for which the minimum value of \\(f(x)=x^2-4 c x+8 c\\) is greater than the maximum value of \\(g(x)=-x^2+3 c x-2 c\\), is",
+      "options": [
+        "A) 2",
+        "B) \\(-\\frac{1}{2}\\)",
+        "C) \\(-2\\)",
+        "D) \\(\\frac{1}{2}\\)"
+      ],
+      "answer": "D",
+      "answer_text": "\\(\\frac{1}{2}\\)",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 13.13,
+        "incorrect": 16.55,
+        "unattempted": 70.32
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-Quant/quants-question-8.shtml",
+      "official_qid": "3328181012",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s1-qa-09",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 1,
+      "section": "qa",
+      "number": 9,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "A container holds 200 litres of a solution of acid and water, having 30% acid by volume. Atul replaces 20% of this solution with water, then replaces 10% of the resulting solution with acid, and finally replaces 15% of the solution thus obtained, with water. The percentage of acid by volume in the final solution obtained after these three replacements, is nearest to",
+      "options": [
+        "A) 23",
+        "B) 25",
+        "C) 29",
+        "D) 27"
+      ],
+      "answer": "D",
+      "answer_text": "27",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 30.76,
+        "incorrect": 22.92,
+        "unattempted": 46.32
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-Quant/quants-question-9.shtml",
+      "official_qid": "3328181205",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s1-qa-10",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 1,
+      "section": "qa",
+      "number": 10,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "Shruti travels a distance of 224 km in four parts for a total travel time of 3 hours. Her speeds in these four parts follow an arithmetic progression, and the corresponding time taken to cover these four parts follow another arithmetic progression. If she travels at a speed of 960 meters per minute for 30 minutes to cover the first part, then the distance, in meters, she travels in the fourth part is",
+      "options": [
+        "A) 96000",
+        "B) 112000",
+        "C) 76800",
+        "D) 86400"
+      ],
+      "answer": "D",
+      "answer_text": "86400",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 8.65,
+        "incorrect": 11.12,
+        "unattempted": 80.23
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-Quant/quants-question-10.shtml",
+      "official_qid": "3328181210",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s1-qa-11",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 1,
+      "section": "qa",
+      "number": 11,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "The ratio of the number of students in the morning shift and afternoon shift of a school was 13 : 9. After 21 students moved from the morning shift to the afternoon shift, this ratio became 19 : 14. Next, some new students joined the morning and afternoon shifts in the ratio 3 : 8 and then the ratio of the number of students in the morning shift and the afternoon shift became 5 : 4. The number of new students who joined is",
+      "options": [
+        "A) 110",
+        "B) 88",
+        "C) 121",
+        "D) 99"
+      ],
+      "answer": "D",
+      "answer_text": "99",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 27.75,
+        "incorrect": 15.58,
+        "unattempted": 56.67
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-Quant/quants-question-11.shtml",
+      "official_qid": "332818982",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s1-qa-12",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 1,
+      "section": "qa",
+      "number": 12,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "In a circle with center \\(C\\) and radius \\(6 \\sqrt{2} \\mathrm{~cm}, P Q\\) and \\(S R\\) are two parallel chords separated by one of the diameters. If \\(\\angle P Q C=45^{\\circ}\\), and the ratio of the perpendicular distance of \\(P Q\\) and \\(S R\\) from \\(C\\) is \\(3: 2\\), then the area, in sq. cm , of the quadrilateral \\(P Q R S\\) is",
+      "options": [
+        "A) \\(4(3+\\sqrt{14})\\)",
+        "B) \\(20(3 \\sqrt{2}+\\sqrt{7})\\)",
+        "C) \\(20(3+\\sqrt{14})\\)",
+        "D) \\(4(3 \\sqrt{2}+\\sqrt{7})\\)"
+      ],
+      "answer": "C",
+      "answer_text": "\\(20(3+\\sqrt{14})\\)",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 3.33,
+        "incorrect": 6.39,
+        "unattempted": 90.28
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-Quant/quants-question-12.shtml",
+      "official_qid": "3328181019",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s1-qa-13",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 1,
+      "section": "qa",
+      "number": 13,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "The \\((x, y)\\) coordinates of vertices \\(\\mathrm{P}, \\mathrm{Q}\\) and R of a parallelogram PQRS are \\((-3,-2),(1,-5)\\) and \\((9,1)\\), respectively. If the diagonal SQ intersects the \\(x\\)-axis at \\((a, 0)\\), then the value of \\(a\\) is",
+      "options": [
+        "A) \\(\\frac{13}{4}\\)",
+        "B) \\(\\frac{29}{9}\\)",
+        "C) \\(\\frac{10}{3}\\)",
+        "D) \\(\\frac{27}{7}\\)"
+      ],
+      "answer": "B",
+      "answer_text": "\\(\\frac{29}{9}\\)",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 7.69,
+        "incorrect": 9.77,
+        "unattempted": 82.54
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-Quant/quants-question-13.shtml",
+      "official_qid": "3328181359",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s1-qa-14",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 1,
+      "section": "qa",
+      "number": 14,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "In a class, there were more than 10 boys and a certain number of girls. After 40% of the girls and 60% of the boys left the class, the remaining number of girls was 8 more than the remaining number of boys. Then, the minimum possible number of students initially in the class was",
+      "options": null,
+      "answer": "55",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 5.94,
+        "incorrect": 62.36,
+        "unattempted": 31.7
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-Quant/quants-question-14.shtml",
+      "official_qid": "3328181718",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "answer_value": "55",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s1-qa-15",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 1,
+      "section": "qa",
+      "number": 15,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "If the length of a side of a rhombus is 36 cm and the area of the rhombus is 396 sq. cm, then the absolute value of the difference between the lengths, in cm, of the diagonals of the rhombus is",
+      "options": null,
+      "answer": "60",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 8.59,
+        "incorrect": 40.97,
+        "unattempted": 50.44
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-Quant/quants-question-15.shtml",
+      "official_qid": "3328181713",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "answer_value": "60",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s1-qa-16",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 1,
+      "section": "qa",
+      "number": 16,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "A shopkeeper offers a discount of 22% on the marked price of each chair, and gives 13 chairs to a customer for the discounted price of 12 chairs to earn a profit of 26% on the transaction. If the cost price of each chair is Rs 100, then the marked price, in rupees, of each chair is",
+      "options": null,
+      "answer": "175",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 19.65,
+        "incorrect": 42.2,
+        "unattempted": 38.15
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-Quant/quants-question-16.shtml",
+      "official_qid": "3328181711",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "answer_value": "175",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s1-qa-17",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 1,
+      "section": "qa",
+      "number": 17,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "The number of distinct pairs of integers \\((x, y)\\) satisfying the inequalities \\(x>y \\geq 3\\) and \\(x+y<14\\) is",
+      "options": null,
+      "answer": "16",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 16.73,
+        "incorrect": 47.89,
+        "unattempted": 35.38
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-Quant/quants-question-17.shtml",
+      "official_qid": "3328181708",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "answer_value": "16",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s1-qa-18",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 1,
+      "section": "qa",
+      "number": 18,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "Arun, Varun and Tarun, if working alone, can complete a task in 24, 21, and 15 days, respectively. They charge Rs 2160, Rs 2400, and Rs 2160 per day, respectively, even if they are employed for a partial day. On any given day, any of the workers may or may not be employed to work. If the task needs to be completed in 10 days or less, then the minimum possible amount, in rupees, required to be paid for the entire task is",
+      "options": [
+        "A) 34400",
+        "B) 38880",
+        "C) 47040",
+        "D) 38400"
+      ],
+      "answer": "D",
+      "answer_text": "38400",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 13.83,
+        "incorrect": 22.91,
+        "unattempted": 63.26
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-Quant/quants-question-18.shtml",
+      "official_qid": "3328181017",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s1-qa-19",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 1,
+      "section": "qa",
+      "number": 19,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "For any natural number \\(k\\), let \\(a_k=3^k\\). The smallest natural number \\(m\\) for which \\(\\left\\{\\left(a_1\\right)^1 \\times\\left(a_2\\right)^2 \\times \\ldots \\times\\left(a_{20}\\right)^{20}\\right\\}<\\left\\{a_{21} \\times a_{22} \\times \\ldots \\times a_{(20+m)}\\right\\}\\), is",
+      "options": [
+        "A) 59",
+        "B) 56",
+        "C) 58",
+        "D) 57"
+      ],
+      "answer": "C",
+      "answer_text": "58",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 4.54,
+        "incorrect": 8.28,
+        "unattempted": 87.18
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-Quant/quants-question-19.shtml",
+      "official_qid": "3328181261",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s1-qa-20",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 1,
+      "section": "qa",
+      "number": 20,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "Stocks A, B and C are priced at rupees 120, 90 and 150 per share, respectively. A trader holds a portfolio consisting of 10 shares of stock A, and 20 shares of stocks B and C put together. If the total value of her portfolio is rupees 3300, then the number of shares of stock B that she holds, is",
+      "options": null,
+      "answer": "15",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 58.58,
+        "incorrect": 24.0,
+        "unattempted": 17.42
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-Quant/quants-question-20.shtml",
+      "official_qid": "3328181719",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "answer_value": "15",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s1-qa-21",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 1,
+      "section": "qa",
+      "number": 21,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "Kamala divided her investment of Rs 100000 between stocks, bonds, and gold. Her investment in bonds was 25% of her investment in gold. With annual returns of 10%, 6%, 8% on stocks, bonds, and gold, respectively, she gained a total amount of Rs 8200 in one year. The amount, in rupees, that she gained from the bonds, was",
+      "options": null,
+      "answer": "900",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 18.49,
+        "incorrect": 41.27,
+        "unattempted": 40.24
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-Quant/quants-question-21.shtml",
+      "official_qid": "3328181706",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "answer_value": "900",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s1-qa-22",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 1,
+      "section": "qa",
+      "number": 22,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "Let \\(3 \\leq x \\leq 6\\) and \\(\\left[x^2\\right]=[x]^2\\), where \\([x]\\) is the greatest integer not exceeding \\(x\\). If set S represents all feasible values of \\(x\\), then a possible subset of S is",
+      "options": [
+        "A) \\((4, \\sqrt{18}) \\cup[5, \\sqrt{27}) \\cup\\{6\\}\\)",
+        "B) \\([3, \\sqrt{10}] \\cup[4, \\sqrt{17}] \\cup\\{6\\}\\)",
+        "C) \\([3, \\sqrt{10}] \\cup[5, \\sqrt{26}]\\)",
+        "D) \\((3, \\sqrt{10}) \\cup[5, \\sqrt{26}) \\cup\\{6\\}\\)"
+      ],
+      "answer": "D",
+      "answer_text": "\\((3, \\sqrt{10}) \\cup[5, \\sqrt{26}) \\cup\\{6\\}\\)",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 8.23,
+        "incorrect": 7.45,
+        "unattempted": 84.32
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-Quant/quants-question-22.shtml",
+      "official_qid": "3328181064",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    }
+  ]
+}

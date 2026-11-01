@@ -1,0 +1,883 @@
+{
+  "exam": "CAT",
+  "year": 2025,
+  "slot": 3,
+  "section": "qa",
+  "source": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-Quant/",
+  "licence": "Real CAT questions (c) IIMs, as re-published free by 2IIM (c) 2IIM. Private study use in AHH only; do not republish.",
+  "scraped": "2026-11-01",
+  "count": 22,
+  "sets": [],
+  "questions": [
+    {
+      "id": "cat-2025-s3-qa-01",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 3,
+      "section": "qa",
+      "number": 1,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "A triangle ABC is formed with AB = AC = 50 cm and BC = 80 cm. Then, the sum of the lengths, in cm, of all three altitudes of the triangle ABC is",
+      "options": null,
+      "answer": "126",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 10.27,
+        "incorrect": 45.34,
+        "unattempted": 44.39
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-Quant/quants-question-1.shtml",
+      "official_qid": "3328181714",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false,
+      "answer_value": "126",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s3-qa-02",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 3,
+      "section": "qa",
+      "number": 2,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "In an arithmetic progression, if the sum of fourth, seventh and tenth terms is 99, and the sum of the first fourteen terms is 497, then the sum of first five terms is",
+      "options": null,
+      "answer": "65",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 35.17,
+        "incorrect": 30.29,
+        "unattempted": 34.54
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-Quant/quants-question-2.shtml",
+      "official_qid": "3328181704",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false,
+      "answer_value": "65",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s3-qa-03",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 3,
+      "section": "qa",
+      "number": 3,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "ABCD is a trapezium in which AB is parallel to \\( \\mathrm { DC } , \\mathrm { AD } \\) is perpendicular to AB , and \\( \\mathrm { AB } = 3 \\mathrm { DC } \\). If a circle inscribed in the trapezium touching all the sides has a radius of 3 cm , then the area, in sq. cm , of the trapezium is",
+      "options": [
+        "A) \\( 36 \\sqrt { 2 } \\)",
+        "B) \\( 54 \\)",
+        "C) \\( 48 \\)",
+        "D) \\( 30 \\sqrt { 3 } \\)"
+      ],
+      "answer": "C",
+      "answer_text": "\\( 48 \\)",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 7.54,
+        "incorrect": 13.54,
+        "unattempted": 78.92
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-Quant/quants-question-3.shtml",
+      "official_qid": "3328181000",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s3-qa-04",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 3,
+      "section": "qa",
+      "number": 4,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "If \\( \\left( x ^ { 2 } + \\frac { 1 } { x ^ { 2 } } \\right) = 25 \\) and \\( x > 0 \\), then the value of \\( \\left( x ^ { 7 } + \\frac { 1 } { x ^ { 7 } } \\right) \\) is",
+      "options": [
+        "A) \\( 44859 \\sqrt { 3 } \\)",
+        "B) \\( 44856 \\sqrt { 3 } \\)",
+        "C) \\( 44853 \\sqrt { 3 } \\)",
+        "D) \\( 44850 \\sqrt { 3 } \\)"
+      ],
+      "answer": "C",
+      "answer_text": "\\( 44853 \\sqrt { 3 } \\)",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 8.87,
+        "incorrect": 14.67,
+        "unattempted": 76.46
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-Quant/quants-question-4.shtml",
+      "official_qid": "3328181288",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s3-qa-05",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 3,
+      "section": "qa",
+      "number": 5,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "The monthly sales of a product from January to April were 120, 135, 150 and 165 units, respectively. The cost price of the product was Rs. 240 per unit, and a fixed marked price was used for the product in all the four months. Discounts of 20%, 10% and 5% were given on the marked price per unit in January, February and March, respectively, while no discounts were given in April. If the total profit from January to April was Rs. 138825, then the marked price per unit, in rupees, was",
+      "options": [
+        "A) 525",
+        "B) 520",
+        "C) 510",
+        "D) 515"
+      ],
+      "answer": "A",
+      "answer_text": "525",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 22.98,
+        "incorrect": 13.82,
+        "unattempted": 63.2
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-Quant/quants-question-5.shtml",
+      "official_qid": "3328181034",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s3-qa-06",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 3,
+      "section": "qa",
+      "number": 6,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "Rahul starts on his journey at 5 pm at a constant speed so that he reaches his destination at 11 pm the same day. However, on his way, he stops for 20 minutes, and after that, increases his speed by 3 km per hour to reach on time. If he had stopped for 10 minutes more, he would have had to increase his speed by 5 km per hour to reach on time. His initial speed, in km per hour, was",
+      "options": [
+        "A) 18",
+        "B) 12",
+        "C) 20",
+        "D) 15"
+      ],
+      "answer": "D",
+      "answer_text": "15",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 8.86,
+        "incorrect": 15.04,
+        "unattempted": 76.1
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-Quant/quants-question-6.shtml",
+      "official_qid": "3328181247",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s3-qa-07",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 3,
+      "section": "qa",
+      "number": 7,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "The sum of all possible real values of \\( x \\) for which \\( \\log _ { x - 3 } \\left( x ^ { 2 } - 9 \\right) = \\log _ { x - 3 } ( x + 1 ) + 2 \\), is",
+      "options": [
+        "A) \\( - 3 \\)",
+        "B) \\( \\sqrt { 33 } \\)",
+        "C) \\( \\frac { 3 + \\sqrt { 33 } } { 2 } \\)",
+        "D) \\( 3 \\)"
+      ],
+      "answer": "C",
+      "answer_text": "\\( \\frac { 3 + \\sqrt { 33 } } { 2 } \\)",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 13.56,
+        "incorrect": 24.41,
+        "unattempted": 62.03
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-Quant/quants-question-7.shtml",
+      "official_qid": "3328181039",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s3-qa-08",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 3,
+      "section": "qa",
+      "number": 8,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "The ratio of the number of coins in boxes A and B was 17:7. After 108 coins were shifted from box A to box B, this ratio became 37:20. The number of coins that needs to be shifted further from A to B, to make this ratio 1:1, is",
+      "options": null,
+      "answer": "272",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 24.18,
+        "incorrect": 43.11,
+        "unattempted": 32.71
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-Quant/quants-question-8.shtml",
+      "official_qid": "3328181712",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false,
+      "answer_value": "272",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s3-qa-09",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 3,
+      "section": "qa",
+      "number": 9,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "If \\( 12 ^ { 12 x } \\times 4 ^ { 24 x + 12 } \\times 5 ^ { 2 y } = 8 ^ { 4 z } \\times 20 ^ { 12 x } \\times 243 ^ { 3 x - 6 } \\), where \\( x , y \\) and \\( z \\) are natural numbers, then \\( x + y + z \\) equals",
+      "options": null,
+      "answer": "112",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 12.68,
+        "incorrect": 34.12,
+        "unattempted": 53.2
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-Quant/quants-question-9.shtml",
+      "official_qid": "3328181707",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false,
+      "answer_value": "112",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s3-qa-10",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 3,
+      "section": "qa",
+      "number": 10,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "Teams A, B, and C consist of five, eight, and ten members, respectively, such that every member within a team is equally productive. Working separately, teams A, B, and C can complete a certain job in 40 hours, 50 hours, and 4 hours, respectively. Two members from team A, three members from team B, and one member from team C together start the job, and the member from team C leaves after 23 hours. The number of additional member(s) from team B, that would be required to replace the member from team C, to finish the job in the next one hour, is",
+      "options": [
+        "A) 2",
+        "B) 4",
+        "C) 1",
+        "D) 3"
+      ],
+      "answer": "A",
+      "answer_text": "2",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 20.43,
+        "incorrect": 16.36,
+        "unattempted": 63.21
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-Quant/quants-question-10.shtml",
+      "official_qid": "3328181251",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s3-qa-11",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 3,
+      "section": "qa",
+      "number": 11,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "If \\( f ( x ) = \\left( x ^ { 2 } + 3 x \\right) \\left( x ^ { 2 } + 3 x + 2 \\right) \\), then the sum of all real roots of the equation \\( \\sqrt { f ( x ) + 1 } = 9701 \\), is",
+      "options": [
+        "A) \\( 6 \\)",
+        "B) \\( - 3 \\)",
+        "C) \\( - 6 \\)",
+        "D) \\( 3 \\)"
+      ],
+      "answer": "B",
+      "answer_text": "\\( - 3 \\)",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 7.69,
+        "incorrect": 13.53,
+        "unattempted": 78.78
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-Quant/quants-question-11.shtml",
+      "official_qid": "3328181061",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s3-qa-12",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 3,
+      "section": "qa",
+      "number": 12,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "The average salary of 5 managers and 25 engineers in a company is 60000 rupees. If each of the managers received 20% salary increase while the salary of the engineers remained unchanged, the average salary of all 30 employees would have increased by 5%. The average salary, in rupees, of the engineers is",
+      "options": [
+        "A) 54000",
+        "B) 40000",
+        "C) 45000",
+        "D) 50000"
+      ],
+      "answer": "A",
+      "answer_text": "54000",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 45.9,
+        "incorrect": 22.15,
+        "unattempted": 31.95
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-Quant/quants-question-12.shtml",
+      "official_qid": "3328181203",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s3-qa-13",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 3,
+      "section": "qa",
+      "number": 13,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "In a school with 1500 students, each student chooses any one of the streams out of science, arts, and commerce, by paying a fee of Rs 1100, Rs 1000, and Rs 800, respectively. The total fee paid by all the students is Rs 15,50,000. If the number of science students is not more than the number of arts students, then the maximum possible number of science students in the school is",
+      "options": null,
+      "answer": "700",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 6.49,
+        "incorrect": 39.38,
+        "unattempted": 54.13
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-Quant/quants-question-13.shtml",
+      "official_qid": "3328181709",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false,
+      "answer_value": "700",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s3-qa-14",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 3,
+      "section": "qa",
+      "number": 14,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "In a class of 150 students, 75 students chose physics, 111 students chose mathematics and 40 students chose chemistry. All students chose at least one of the three subjects and at least one student chose all three subjects. The number of students who chose both physics and chemistry is equal to the number of students who chose both chemistry and mathematics, and this is half the number of students who chose both physics and mathematics. The maximum possible number of students who chose physics but not mathematics, is",
+      "options": [
+        "A) 30",
+        "B) 35",
+        "C) 40",
+        "D) 55"
+      ],
+      "answer": "B",
+      "answer_text": "35",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 9.54,
+        "incorrect": 12.75,
+        "unattempted": 77.71
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-Quant/quants-question-14.shtml",
+      "official_qid": "3328181352",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s3-qa-15",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 3,
+      "section": "qa",
+      "number": 15,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "For real values of \\( x \\), the range of the function \\( f ( x ) = \\frac { 2 x - 3 } { 2 x ^ { 2 } + 4 x - 6 } \\) is",
+      "options": [
+        "A) \\( \\left( - \\infty , \\frac { 1 } { 8 } \\right] \\cup [ 1 , \\infty ) \\)",
+        "B) \\( \\left( - \\infty , \\frac { 1 } { 8 } \\right] \\cup \\left[ \\frac { 1 } { 2 } , \\infty \\right) \\)",
+        "C) \\( \\left( - \\infty , \\frac { 1 } { 4 } \\right] \\cup \\left[ \\frac { 1 } { 2 } , \\infty \\right) \\)",
+        "D) \\( \\left( - \\infty , \\frac { 1 } { 4 } \\right] \\cup [ 1 , \\infty ) \\)"
+      ],
+      "answer": "B",
+      "answer_text": "\\( \\left( - \\infty , \\frac { 1 } { 8 } \\right] \\cup \\left[ \\frac { 1 } { 2 } , \\infty \\right) \\)",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 11.52,
+        "incorrect": 16.58,
+        "unattempted": 71.9
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-Quant/quants-question-15.shtml",
+      "official_qid": "3328181292",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s3-qa-16",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 3,
+      "section": "qa",
+      "number": 16,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "Ankita walks from A to C through B, and runs back through the same route at a speed that is 40% more than her walking speed. She takes exactly 3 hours 30 minutes to walk from B to C as well as to run from B to A. The total time, in minutes, she would take to walk from A to B and run from B to C, is",
+      "options": null,
+      "answer": "444",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 10.62,
+        "incorrect": 38.63,
+        "unattempted": 50.75
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-Quant/quants-question-16.shtml",
+      "official_qid": "3328181710",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false,
+      "answer_value": "444",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s3-qa-17",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 3,
+      "section": "qa",
+      "number": 17,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "The sum of all the digits of the number \\( \\left( 10 ^ { 50 } + 10 ^ { 25 } - 123 \\right) \\), is",
+      "options": [
+        "A) \\( 324 \\)",
+        "B) \\( 221 \\)",
+        "C) \\( 212 \\)",
+        "D) \\( 255 \\)"
+      ],
+      "answer": "B",
+      "answer_text": "\\( 221 \\)",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 17.87,
+        "incorrect": 16.63,
+        "unattempted": 65.5
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-Quant/quants-question-17.shtml",
+      "official_qid": "3328181466",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s3-qa-18",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 3,
+      "section": "qa",
+      "number": 18,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "In \\( \\triangle A B C , A B = A C = 12 \\mathrm {~cm} \\) and \\( D \\) is a point on side \\( B C \\) such that \\( A D = 8 \\mathrm {~cm} \\). If \\( A D \\) is extended to a point \\( E \\) such that \\( \\angle A C B = \\angle A E B \\), then the length, in cm , of \\( A E \\) is",
+      "options": [
+        "A) \\( 14 \\)",
+        "B) \\( 20 \\)",
+        "C) \\( 18 \\)",
+        "D) \\( 16 \\)"
+      ],
+      "answer": "C",
+      "answer_text": "\\( 18 \\)",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 4.85,
+        "incorrect": 23.1,
+        "unattempted": 72.05
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-Quant/quants-question-18.shtml",
+      "official_qid": "3328181004",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s3-qa-19",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 3,
+      "section": "qa",
+      "number": 19,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "The rate of water flow through three pipes A, B and C are in the ratio 4 : 9 : 36. An empty tank can be filled up completely by pipe A in 15 hours. If all the three pipes are used simultaneously to fill up this empty tank, the time, in minutes, required to fill up the entire tank completely is nearest to",
+      "options": [
+        "A) 73",
+        "B) 76",
+        "C) 78",
+        "D) 71"
+      ],
+      "answer": "A",
+      "answer_text": "73",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 41.17,
+        "incorrect": 14.62,
+        "unattempted": 44.21
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-Quant/quants-question-19.shtml",
+      "official_qid": "332818980",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s3-qa-20",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 3,
+      "section": "qa",
+      "number": 20,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "For a 4-digit number (greater than 1000), sum of the digits in the thousands, hundreds, and tens places is 15. Sum of the digits in the hundreds, tens, and units places is 16. Also, the digit in the tens place is 6 more than the digit in the units place. The difference between the largest and smallest possible value of the number is",
+      "options": [
+        "A) 4078",
+        "B) 3289",
+        "C) 811",
+        "D) 735"
+      ],
+      "answer": "C",
+      "answer_text": "811",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 16.83,
+        "incorrect": 8.68,
+        "unattempted": 74.49
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-Quant/quants-question-20.shtml",
+      "official_qid": "3328181028",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s3-qa-21",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 3,
+      "section": "qa",
+      "number": 21,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "Let p, q and r be three natural numbers such that their sum is 900, and r is a perfect square whose value lies between 150 and 500. If p is not less than 0.3q and not more than 0.7q, then the sum of the maximum and minimum possible values of p is",
+      "options": null,
+      "answer": "397",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 2.29,
+        "incorrect": 30.16,
+        "unattempted": 67.55
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-Quant/quants-question-21.shtml",
+      "official_qid": "3328181715",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false,
+      "answer_value": "397",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s3-qa-22",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 3,
+      "section": "qa",
+      "number": 22,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "Vessels A and B contain 60 litres of alcohol and 60 litres of water, respectively. A certain volume is taken out from A and poured into B. After stirring, the same volume is taken out from B and poured into A. If the resultant ratio of alcohol and water in A is 15 : 4, then the volume, in litres, initially taken out from A is",
+      "options": null,
+      "answer": "16",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 7.71,
+        "incorrect": 43.37,
+        "unattempted": 48.92
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-Quant/quants-question-22.shtml",
+      "official_qid": "3328181735",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false,
+      "answer_value": "16",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    }
+  ]
+}

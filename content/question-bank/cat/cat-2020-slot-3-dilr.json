@@ -1,0 +1,898 @@
+{
+  "exam": "CAT",
+  "year": 2020,
+  "slot": 3,
+  "section": "dilr",
+  "source": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-3-DILR/",
+  "licence": "Real CAT questions (c) IIMs, as re-published free by 2IIM (c) 2IIM. Private study use in AHH only; do not republish.",
+  "scraped": "2026-11-01",
+  "count": 24,
+  "sets": [
+    {
+      "id": "cat-2020-s3-dilr-set1",
+      "text": "A farmer had a rectangular land containing 205 trees. He distributed that land among his four daughters – Abha, Bina, Chitra and Dipti by dividing the land into twelve plots along three rows (X,Y,Z) and four Columns (1,2,3,4) as shown in the figure below:\n\n![figure](img/2020-s3-dilr/756_489168_0_1011657_nd_psg.jpg)\n\nThe plots in rows X, Y, Z contained mango, teak and pine trees respectively. Each plot had trees in non-zero multiples of 3 or 4 and none of the plots had the same number of trees. Each daughter got an even number of plots. In the figure, the number mentioned in top left corner of a plot is the number of trees in that plot, while the letter in the bottom right corner is the first letter of the name of the daughter who got that plot (For example, Abha got the plot in row Y and column 1 containing 21 trees). Some information in the figure got erased, but the following is known:\n\n1. Abha got 20 trees more than Chitra but 6 trees less than Dipti.\n2. The largest number of trees in a plot was 32, but it was not with Abha.\n3. The number of teak trees in Column 3 was double of that in Column 2 but was half of that in Column 4.\n4. Both Abha and Bina got a higher number of plots than Dipti.\n5. Only Bina, Chitra and Dipti got corner plots.\n6. Dipti got two adjoining plots in the same row.\n7. Bina was the only one who got a plot in each row and each column.\n8. Chitra and Dipti did not get plots which were adjacent to each other (either in row / column / diagonal).\n9. The number of mango trees was double the number of teak trees."
+    },
+    {
+      "id": "cat-2020-s3-dilr-set2",
+      "text": "The Hi-Lo game is a four-player game played in six rounds. In every round, each player chooses to bid Hi or Lo. The bids are made simultaneously. If all four bid Hi, then all four lose 1 point each. If three players bid Hi and one bids Lo, then the players bidding Hi gain 1 point each and the player bidding Lo loses 3 points. If two players bid Hi and two bid Lo, then the players bidding Hi gain 2 points each and the players bidding Lo lose 2 points each. If one player bids Hi and three bid Lo, then the player bidding Hi gains 3 points and the players bidding Lo lose 1 point each. If all four bid Lo, then all four gain 1 point each.\n\nFour players Arun, Bankim, Charu, and Dipak played the Hi-Lo game. The following facts are known about their game:\n\n1. At the end of three rounds, Arun had scored 6 points, Dipak had scored 2 points, Bankim and Charu had scored -2 points each.\n2. At the end of six rounds, Arun had scored 7 points, Bankim and Dipak had scored -1 point each, and Charu had scored -5 points.\n3. Dipak’s score in the third round was less than his score in the first round but was more than his score in the second round.\n4. In exactly two out of the six rounds, Arun was the only player who bid Hi."
+    },
+    {
+      "id": "cat-2020-s3-dilr-set3",
+      "text": "XYZ organization got into the business of delivering groceries to home at the beginning of the last month. They have a two-day delivery promise. However, their deliveries are unreliable. An order booked on a particular day may be delivered the next day or the day after. If the order is not delivered at the end of two days, then the order is declared as lost at the end of the second day. XYZ then does not deliver the order, but informs the customer, marks the order as lost, returns the payment and pays a penalty for non-delivery.\n\nThe following table provides details about the operations of XYZ for a week of the last month. The first column gives the date, the second gives the cumulative number of orders that were booked up to and including that day. The third column represents the number of orders delivered on that day. The last column gives the cumulative number of orders that were lost up to and including that day.\nIt is known that the numbers of orders that were booked on the 11th, 12th, and 13th of the last month that took two days to deliver were 4, 6, and 8 respectively.\n\n| Day | Cumulative orders booked | Orders delivered on day | Cumulative orders lost |\n|---|---|---|---|\n| 13th | 219 | 11 | 91 |\n| 14th | 249 | 27 | 92 |\n| 15th | 277 | 23 | 94 |\n| 16th | 302 | 11 | 106 |\n| 17th | 327 | 21 | 118 |\n| 18th | 332 | 13 | 120 |\n| 19th | 337 | 14 | 129 |"
+    },
+    {
+      "id": "cat-2020-s3-dilr-set4",
+      "text": "A survey of 600 schools in India was conducted to gather information about their online teaching learning processes (OTLP).\n\nThe following four facilities were studied.\nF1: Own software for OTLP\nF2: Trained teachers for OTLP\nF3: Training materials for OTLP\nF4: All students having Laptops\n\nThe following observations were summarized from the survey.\n1. 80 schools did not have any of the four facilities – F1, F2, F3, F4.\n2. 40 schools had all four facilities.\n3. The number of schools with only F1, only F2, only F3, and only F4 was 25, 30, 26 and 20 respectively.\n4. The number of schools with exactly three of the facilities was the same irrespective of which three were considered.\n5. 313 schools had F2.\n6. 26 schools had only F2 and F3 (but neither F1 nor F4).\n7. Among the schools having F4, 24 had only F3, and 45 had only F2.\n8. 162 schools had both F1 and F2.\n9. The number of schools having F1 was the same as the number of schools having F4."
+    },
+    {
+      "id": "cat-2020-s3-dilr-set5",
+      "text": "Sixteen patients in a hospital must undergo a blood test for a disease. It is known that exactly one of them has the disease. The hospital has only eight testing kits and has decided to pool blood samples of patients into eight vials for the tests. The patients are numbered 1 through 16, and the vials are labelled A, B, C, D, E, F, G, and H. The following table shows the vials into which each patient’s blood sample is distributed.\n\n![figure](img/2020-s3-dilr/756_489168_0_1011658_mm_psg_table.jpg)\n\nIf a patient has the disease, then each vial containing his/her blood sample will test positive. If a vial tests positive, one of the patients whose blood samples were mixed in the vial has the disease. If a vial tests negative, then none of the patients whose blood samples were mixed in the vial has the disease."
+    }
+  ],
+  "questions": [
+    {
+      "id": "cat-2020-s3-dilr-01",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 3,
+      "section": "dilr",
+      "number": 1,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2020-s3-dilr-set1",
+      "question": "How many mango trees were there in total?",
+      "options": [
+        "A) 126",
+        "B) 84",
+        "C) 98",
+        "D) 49"
+      ],
+      "answer": "C",
+      "answer_text": "98",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-3-DILR/dilr-question-1.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2020-s3-dilr-02",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 3,
+      "section": "dilr",
+      "number": 2,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2020-s3-dilr-set1",
+      "question": "Which of the following is the correct sequence of trees received by Abha, Bina, Chitra and Dipti in that order?",
+      "options": [
+        "A) 50, 69, 30, 56",
+        "B) 60, 39, 40, 66",
+        "C) 44, 87, 24, 50",
+        "D) 54, 57, 34, 60"
+      ],
+      "answer": "A",
+      "answer_text": "50, 69, 30, 56",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-3-DILR/dilr-question-2.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2020-s3-dilr-03",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 3,
+      "section": "dilr",
+      "number": 3,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2020-s3-dilr-set1",
+      "question": "How many pine trees did Chitra receive?",
+      "options": [
+        "A) 15",
+        "B) 18",
+        "C) 30",
+        "D) 21"
+      ],
+      "answer": "B",
+      "answer_text": "18",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-3-DILR/dilr-question-3.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2020-s3-dilr-04",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 3,
+      "section": "dilr",
+      "number": 4,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2020-s3-dilr-set1",
+      "question": "Who got the plot with the smallest number of trees and how many trees did that plot have?",
+      "options": [
+        "A) Abha, 4 trees",
+        "B) Dipti, 6 trees",
+        "C) Bina, 3 trees",
+        "D) Bina, 4 trees"
+      ],
+      "answer": "C",
+      "answer_text": "Bina, 3 trees",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-3-DILR/dilr-question-4.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2020-s3-dilr-05",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 3,
+      "section": "dilr",
+      "number": 5,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2020-s3-dilr-set1",
+      "question": "Which of the following statements is NOT true?",
+      "options": [
+        "A) Bina got 32 pine trees.",
+        "B) Chitra got 12 mango trees.",
+        "C) Abha got 41 teak trees.",
+        "D) Dipti got 56 mango trees."
+      ],
+      "answer": "A",
+      "answer_text": "Bina got 32 pine trees.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-3-DILR/dilr-question-5.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2020-s3-dilr-06",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 3,
+      "section": "dilr",
+      "number": 6,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2020-s3-dilr-set1",
+      "question": "Which column had the highest number of trees?",
+      "options": [
+        "A) 3",
+        "B) Cannot be determined",
+        "C) 2",
+        "D) 4"
+      ],
+      "answer": "D",
+      "answer_text": "4",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-3-DILR/dilr-question-6.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2020-s3-dilr-07",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 3,
+      "section": "dilr",
+      "number": 7,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2020-s3-dilr-set2",
+      "question": "What were the bids by Arun, Bankim, Charu and Dipak, respectively in the first round?",
+      "options": [
+        "A) Hi, Lo, Lo, Lo",
+        "B) Lo, Lo, Lo, Hi",
+        "C) Hi, Lo, Lo, Hi",
+        "D) Hi, Hi, Lo, Lo"
+      ],
+      "answer": "C",
+      "answer_text": "Hi, Lo, Lo, Hi",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-3-DILR/dilr-question-7.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2020-s3-dilr-08",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 3,
+      "section": "dilr",
+      "number": 8,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2020-s3-dilr-set2",
+      "question": "In how many rounds did Arun bid Hi?",
+      "options": null,
+      "answer": "4",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-3-DILR/dilr-question-8.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false,
+      "answer_value": "4",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2020-s3-dilr-09",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 3,
+      "section": "dilr",
+      "number": 9,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2020-s3-dilr-set2",
+      "question": "In how many rounds did Bankim bid Lo?",
+      "options": null,
+      "answer": "4",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-3-DILR/dilr-question-9.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false,
+      "answer_value": "4",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2020-s3-dilr-10",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 3,
+      "section": "dilr",
+      "number": 10,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2020-s3-dilr-set2",
+      "question": "In how many rounds did all four players make identical bids?",
+      "options": null,
+      "answer": "2",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-3-DILR/dilr-question-10.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false,
+      "answer_value": "2",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2020-s3-dilr-11",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 3,
+      "section": "dilr",
+      "number": 11,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2020-s3-dilr-set2",
+      "question": "In how many rounds did Dipak gain exactly 1 point?",
+      "options": null,
+      "answer": "1",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-3-DILR/dilr-question-11.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false,
+      "answer_value": "1",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2020-s3-dilr-12",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 3,
+      "section": "dilr",
+      "number": 12,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2020-s3-dilr-set2",
+      "question": "In which of the following rounds, was Arun DEFINITELY the only player to bid Hi?",
+      "options": [
+        "A) Second",
+        "B) Third",
+        "C) Fourth",
+        "D) First"
+      ],
+      "answer": "A",
+      "answer_text": "Second",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-3-DILR/dilr-question-12.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2020-s3-dilr-13",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 3,
+      "section": "dilr",
+      "number": 13,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2020-s3-dilr-set3",
+      "question": "Among the following days, the largest fraction of orders booked on which day was lost?",
+      "options": [
+        "A) 15th",
+        "B) 16th",
+        "C) 13th",
+        "D) 14th"
+      ],
+      "answer": "A",
+      "answer_text": "15th",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-3-DILR/dilr-question-13.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2020-s3-dilr-14",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 3,
+      "section": "dilr",
+      "number": 14,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2020-s3-dilr-set3",
+      "question": "On which of the following days was the number of orders booked the highest?",
+      "options": [
+        "A) 14th",
+        "B) 15th",
+        "C) 12th",
+        "D) 13th"
+      ],
+      "answer": "D",
+      "answer_text": "13th",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-3-DILR/dilr-question-14.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2020-s3-dilr-15",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 3,
+      "section": "dilr",
+      "number": 15,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2020-s3-dilr-set3",
+      "question": "The *delivery ratio* for a given day is defined as the ratio of the number of orders booked on that day which are delivered on the next day to the number of orders booked on that day which are delivered on the second day after booking. On which of the following days, was the *delivery ratio* the highest?",
+      "options": [
+        "A) 13th",
+        "B) 16th",
+        "C) 15th",
+        "D) 14th"
+      ],
+      "answer": "D",
+      "answer_text": "14th",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-3-DILR/dilr-question-15.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2020-s3-dilr-16",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 3,
+      "section": "dilr",
+      "number": 16,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2020-s3-dilr-set3",
+      "question": "The average time taken to deliver orders booked on a particular day is computed as follows. Let the number of orders delivered the next day be x and the number of orders delivered the day after be y. Then the average time to deliver order is (x+2y)/(x+y). On which of the following days was the average time taken to deliver orders booked the least?",
+      "options": [
+        "A) 15th",
+        "B) 13th",
+        "C) 16th",
+        "D) 14th"
+      ],
+      "answer": "D",
+      "answer_text": "14th",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-3-DILR/dilr-question-16.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2020-s3-dilr-17",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 3,
+      "section": "dilr",
+      "number": 17,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2020-s3-dilr-set4",
+      "question": "What was the total number of schools having exactly three of the four facilities?",
+      "options": [
+        "A) 80",
+        "B) 64",
+        "C) 200",
+        "D) 50"
+      ],
+      "answer": "C",
+      "answer_text": "200",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-3-DILR/dilr-question-17.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2020-s3-dilr-18",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 3,
+      "section": "dilr",
+      "number": 18,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2020-s3-dilr-set4",
+      "question": "What was the number of schools having facilities F2 and F4?",
+      "options": [
+        "A) 185",
+        "B) 95",
+        "C) 45",
+        "D) 85"
+      ],
+      "answer": "A",
+      "answer_text": "185",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-3-DILR/dilr-question-18.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2020-s3-dilr-19",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 3,
+      "section": "dilr",
+      "number": 19,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2020-s3-dilr-set4",
+      "question": "What was the number of schools having only facilities F1 and F3?",
+      "options": null,
+      "answer": "42",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-3-DILR/dilr-question-19.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false,
+      "answer_value": "42",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2020-s3-dilr-20",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 3,
+      "section": "dilr",
+      "number": 20,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2020-s3-dilr-set4",
+      "question": "What was the number of schools having only facilities F1 and F4?",
+      "options": null,
+      "answer": "20",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-3-DILR/dilr-question-20.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false,
+      "answer_value": "20",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2020-s3-dilr-21",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 3,
+      "section": "dilr",
+      "number": 21,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2020-s3-dilr-set5",
+      "question": "Suppose vial C tests positive and vials A, E and H test negative. Which patient has the disease?",
+      "options": [
+        "A) Patient 8",
+        "B) Patient 14",
+        "C) Patient 6",
+        "D) Patient 2"
+      ],
+      "answer": "C",
+      "answer_text": "Patient 6",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-3-DILR/dilr-question-21.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2020-s3-dilr-22",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 3,
+      "section": "dilr",
+      "number": 22,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2020-s3-dilr-set5",
+      "question": "Suppose vial A tests positive and vials D and G test negative. Which of the following vials should we test next to identify the patient with the disease?",
+      "options": [
+        "A) Vial H",
+        "B) Vial E",
+        "C) Vial B",
+        "D) Vial C"
+      ],
+      "answer": "B",
+      "answer_text": "Vial E",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-3-DILR/dilr-question-22.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2020-s3-dilr-23",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 3,
+      "section": "dilr",
+      "number": 23,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2020-s3-dilr-set5",
+      "question": "Which of the following combinations of test results is NOT possible?",
+      "options": [
+        "A) Vial B positive, vials C, F and H negative",
+        "B) Vials A and G positive, vials D and E negative",
+        "C) Vials B and D positive, vials F and H negative",
+        "D) Vials A and E positive, vials C and D negative"
+      ],
+      "answer": "D",
+      "answer_text": "Vials A and E positive, vials C and D negative",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-3-DILR/dilr-question-23.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2020-s3-dilr-24",
+      "exam": "CAT",
+      "year": 2020,
+      "slot": 3,
+      "section": "dilr",
+      "number": 24,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2020-s3-dilr-set5",
+      "question": "Suppose one of the lab assistants accidentally mixed two patients' blood samples before they were distributed to the vials. Which of the following correctly represents the set of all possible numbers of positive test results out of the eight vials?",
+      "options": [
+        "A) {4,5,6,7}",
+        "B) {4,5,6,7,8}",
+        "C) {4,5}",
+        "D) {5,6,7,8}"
+      ],
+      "answer": "B",
+      "answer_text": "{4,5,6,7,8}",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-3-DILR/dilr-question-24.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2020-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    }
+  ]
+}

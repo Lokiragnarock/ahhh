@@ -1,0 +1,1324 @@
+{
+  "exam": "CAT",
+  "year": 2019,
+  "slot": 1,
+  "section": "varc",
+  "source": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-VARC/",
+  "licence": "Real CAT questions (c) IIMs, as re-published free by 2IIM (c) 2IIM. Private study use in AHH only; do not republish.",
+  "scraped": "2026-11-01",
+  "count": 34,
+  "sets": [
+    {
+      "id": "cat-2019-s1-varc-set1",
+      "text": "In the past, credit for telling the tale of Aladdin has often gone to Antoine Galland . . . the first European translator of . . . Arabian Nights [which] started as a series of translations of an incomplete manuscript of a medieval Arabic story collection. . . But, though those tales were of medieval origin, Aladdin may be a more recent invention. Scholars have not found a manuscript of the story that predates the version published in 1712 by Galland, who wrote in his diary that he first heard the tale from a Syrian storyteller from Aleppo named Hanna Diyab . . .\n\nDespite the fantastical elements of the story, scholars now think the main character may actually be based on a real person’s real experiences. . . . Though Galland never credited Diyab in his published translations of the Arabian Nights stories, Diyab wrote something of his own: a travelogue penned in the mid-18th century. In it, he recalls telling Galland the story of Aladdin [and] describes his own hard-knocks upbringing and the way he marveled at the extravagance of Versailles. The descriptions he uses were very similar to the descriptions of the lavish palace that ended up in Galland’s version of the Aladdin story. [Therefore, author Paulo Lemos] Horta believes that “Aladdin might be the young Arab Maronite from Aleppo, marveling at the jewels and riches of Versailles.” . . .\n\nFor 300 years, scholars thought that the rags-to-riches story of Aladdin might have been inspired by the plots of French fairy tales that came out around the same time, or that the story was invented in that 18th century period as a byproduct of French Orientalism, a fascination with stereotypical exotic Middle Eastern luxuries that was prevalent then. The idea that Diyab might have based it on his own life — the experiences of a Middle Eastern man encountering the French, not vice-versa — flips the script. [According to Horta,] “Diyab was ideally placed to embody the overlapping world of East and West, blending the storytelling traditions of his homeland with his youthful observations of the wonder of 18th-century France.” . . .\n\nTo the scholars who study the tale, its narrative drama isn’t the only reason storytellers keep finding reason to return to Aladdin. It reflects not only “a history of the French and the Middle East, but also [a story about] Middle Easterners coming to Paris and that speaks to our world today,” as Horta puts it. “The day Diyab told the story of Aladdin to Galland, there were riots due to food shortages during the winter and spring of 1708 to 1709, and Diyab was sensitive to those people in a way that Galland is not. When you read this diary, you see this solidarity among the Arabs who were in Paris at the time. . . . There is little in the writings of Galland that would suggest that he was capable of developing a character like Aladdin with sympathy, but Diyab’s memoir reveals a narrator adept at capturing the distinctive psychology of a young protagonist, as well as recognizing the kinds of injustices and opportunities that can transform the path of any youthful adventurer.”"
+    },
+    {
+      "id": "cat-2019-s1-varc-set2",
+      "text": "Contemporary internet shopping conjures a perfect storm of choice anxiety. Research has consistently held that people who are presented with a few options make better, easier decisions than those presented with many. . . . Helping consumers figure out what to buy amid an endless sea of choice online has become a cottage industry unto itself. Many brands and retailers now wield marketing buzzwords such as curation, differentiation, and discovery as they attempt to sell an assortment of stuff targeted to their ideal customer. Companies find such shoppers through the data gold mine of digital advertising, which can catalog people by gender, income level, personal interests, and more. Since Americans have lost the ability to sort through the sheer volume of the consumer choices available to them, a ghost now has to be in the retail machine, whether it’s an algorithm, an influencer, or some snazzy ad tech to help a product follow you around the internet. Indeed, choice fatigue is one reason so many people gravitate toward lifestyle influencers on Instagram—the relentlessly chic young moms and perpetually vacationing 20-somethings—who present an aspirational worldview, and then recommend the products and services that help achieve it. . . .\n\nFor a relatively new class of consumer-products start-ups, there’s another method entirely. Instead of making sense of a sea of existing stuff, these companies claim to disrupt stuff as Americans know it. Casper (mattresses), Glossier (makeup), Away (suitcases), and many others have sprouted up to offer consumers freedom from choice: The companies have a few aesthetically pleasing and supposedly highly functional options, usually at mid-range prices. They’re selling nice things, but maybe more importantly, they’re selling a confidence in those things, and an ability to opt out of the stuff rat race. . . .\n\nOne-thousand-dollar mattresses and $300 suitcases might solve choice anxiety for a certain tier of consumer, but the companies that sell them, along with those that attempt to massage the larger stuff economy into something navigable, are still just working within a consumer market that’s broken in systemic ways. The presence of so much stuff in America might be more valuable if it were more evenly distributed, but stuff’s creators tend to focus their energy on those who already have plenty. As options have expanded for people with disposable income, the opportunity to buy even basic things such as fresh food or quality diapers has contracted for much of America’s lower classes.\n\nFor start-ups that promise accessible simplicity, their very structure still might eventually push them toward overwhelming variety. Most of these companies are based on hundreds of millions of dollars of venture capital, the investors of which tend to expect a steep growth rate that can’t be achieved by selling one great mattress or one great sneaker. Casper has expanded into bedroom furniture and bed linens. Glossier, after years of marketing itself as no-makeup makeup that requires little skill to apply, recently launched a full line of glittering color cosmetics. There may be no way to opt out of stuff by buying into the right thing."
+    },
+    {
+      "id": "cat-2019-s1-varc-set3",
+      "text": "Scientists recently discovered that Emperor Penguins—one of Antarctica’s most celebrated species—employ a particularly unusual technique for surviving the daily chill. As detailed in an article published today in the journal Biology Letters, the birds minimize heat loss by keeping the outer surface of their plumage below the temperature of the surrounding air. At the same time, the penguins’ thick plumage insulates their body and keeps it toasty. . . .\n\nThe researchers analyzed thermographic images . . . taken over roughly a month during June 2008. During that period, the average air temperature was 0.32 degrees Fahrenheit. At the same time, the majority of the plumage covering the penguins’ bodies was even colder: the surface of their warmest body part, their feet, was an average 1.76 degrees Fahrenheit, but the plumage on their heads, chests and backs were -1.84, -7.24 and -9.76 degrees Fahrenheit respectively. Overall, nearly the entire outer surface of the penguins’ bodies was below freezing at all times, except for their eyes and beaks. The scientists also used a computer simulation to determine how much heat was lost or gained from each part of the body—and discovered that by keeping their outer surface below air temperature, the birds might paradoxically be able to draw very slight amounts of heat from the air around them. The key to their trick is the difference between two different types of heat transfer: radiation and convection.\n\nThe penguins do lose internal body heat to the surrounding air through thermal radiation, just as our bodies do on a cold day. Because their bodies (but not surface plumage) are warmer than the surrounding air, heat gradually radiates outward over time, moving from a warmer material to a colder one. To maintain body temperature while losing heat, penguins, like all warm-blooded animals, rely on the metabolism of food. The penguins, though, have an additional strategy. Since their outer plumage is even colder than the air, the simulation showed that they might gain back a little of this heat through thermal convection—the transfer of heat via the movement of a fluid (in this case, the air). As the cold Antarctic air cycles around their bodies, slightly warmer air comes into contact with the plumage and donates minute amounts of heat back to the penguins, then cycles away at a slightly colder temperature.\n\nMost of this heat, the researchers note, probably doesn’t make it all the way through the plumage and back to the penguins’ bodies, but it could make a slight difference. At the very least, the method by which a penguin’s plumage wicks heat from the bitterly cold air that surrounds it helps to cancel out some of the heat that’s radiating from its interior. And given the Emperors’ unusually demanding breeding cycle, every bit of warmth counts. . . . Since [penguins trek as far as 75 miles to the coast to breed and male penguins] don’t eat anything during [the incubation period of 64 days], conserving calories by giving up as little heat as possible is absolutely crucial."
+    },
+    {
+      "id": "cat-2019-s1-varc-set4",
+      "text": "\"Free of the taint of manufacture\" – that phrase, in particular, is heavily loaded with the ideology of what the Victorian socialist William Morris called the \"anti-scrape\", or an anti- capitalist conservationism (not conservatism) that solaced itself with the vision of a pre- industrial golden age. In Britain, folk may often appear a cosy, fossilised form, but when you look more closely, the idea of folk – who has the right to sing it, dance it, invoke it, collect it, belong to it or appropriate it for political or cultural ends – has always been contested territory. . . .\n\nIn our own time, though, the word \"folk\" . . . has achieved the rare distinction of occupying fashionable and unfashionable status simultaneously. Just as the effusive floral prints of the radical William Morris now cover genteel sofas, so the revolutionary intentions of many folk historians and revivalists have led to music that is commonly regarded as parochial and conservative. And yet – as newspaper columns periodically rejoice – folk is hip again, influencing artists, clothing and furniture designers, celebrated at music festivals, awards ceremonies and on TV, reissued on countless record labels. Folk is a sonic \"shabby chic\", containing elements of the uncanny and eerie, as well as an antique veneer, a whiff of Britain's heathen dark ages. The very obscurity and anonymity of folk music's origins open up space for rampant imaginative fancies. . . .\n\n[Cecil Sharp, who wrote about this subject, believed that] folk songs existed in constant transformation, a living example of an art form in a perpetual state of renewal. \"One man sings a song, and then others sing it after him, changing what they do not like\" is the most concise summary of his conclusions on its origins. He compared each rendition of a ballad to an acorn falling from an oak tree; every subsequent iteration sows the song anew. But there is tension in newness. In the late 1960s, purists were suspicious of folk songs recast in rock idioms. Electrification, however, comes in many forms. For the early-20th-century composers such as Vaughan Williams and Holst, there were thunderbolts of inspiration from oriental mysticism, angular modernism and the body blow of the first world war, as well as input from the rediscovered folk tradition itself.\n\nFor the second wave of folk revivalists, such as Ewan MacColl and AL Lloyd, starting in the 40s, the vital spark was communism's dream of a post-revolutionary New Jerusalem. For their younger successors in the 60s, who thronged the folk clubs set up by the old guard, the lyrical freedom of Dylan and the unchained melodies of psychedelia created the conditions for folk- rock's own golden age, a brief Indian summer that lasted from about 1969 to 1971. . . . Four decades on, even that progressive period has become just one more era ripe for fashionable emulation and pastiche. The idea of a folk tradition being exclusively confined to oral transmission has become a much looser, less severely guarded concept. Recorded music and television, for today's metropolitan generation, are where the equivalent of folk memories are seeded. . . ."
+    },
+    {
+      "id": "cat-2019-s1-varc-set5",
+      "text": "As defined by the geographer Yi-Fu Tuan, topophilia is the affective bond between people and place. His 1974 book set forth a wide-ranging exploration of how the emotive ties with the material environment vary greatly from person to person and in intensity, subtlety, and mode of expression. Factors influencing one’s depth of response to the environment include cultural background, gender, race, and historical circumstance, and Tuan also argued that there is a biological and sensory element. Topophilia might not be the strongest of human emotions— indeed, many people feel utterly indifferent toward the environments that shape their lives— but when activated it has the power to elevate a place to become the carrier of emotionally charged events or to be perceived as a symbol.\n\nAesthetic appreciation is one way in which people respond to the environment. A brilliantly colored rainbow after gloomy afternoon showers, a busy city street alive with human interaction—one might experience the beauty of such landscapes that had seemed quite ordinary only moments before or that are being newly discovered. This is quite the opposite of a second topophilic bond, namely that of the acquired taste for certain landscapes and places that one knows well. When a place is home, or when a space has become the locus of memories or the means of gaining a livelihood, it frequently evokes a deeper set of attachments than those predicated purely on the visual. A third response to the environment also depends on the human senses but may be tactile and olfactory, namely a delight in the feel and smell of air, water, and the earth.\n\nTopophilia—and its very close conceptual twin, sense of place—is an experience that, however elusive, has inspired recent architects and planners. Most notably, new urbanism seeks to counter the perceived placelessness of modern suburbs and the decline of central cities through neo-traditional design motifs. Although motivated by good intentions, such attempts to create places rich in meaning are perhaps bound to disappoint. As Tuan noted, purely aesthetic responses often are suddenly revealed, but their intensity rarely is long- lasting. Topophilia is difficult to design for and impossible to quantify, and its most articulate interpreters have been self-reflective philosophers such as Henry David Thoreau, evoking a marvelously intricate sense of place at Walden Pond, and Tuan, describing his deep affinity for the desert.\n\nTopophilia connotes a positive relationship, but it often is useful to explore the darker affiliations between people and place. Patriotism, literally meaning the love of one’s terra patria or homeland, has long been cultivated by governing elites for a range of nationalist projects, including war preparation and ethnic cleansing. Residents of upscale residential developments have disclosed how important it is to maintain their community’s distinct identity, often by casting themselves in a superior social position and by reinforcing class and racial differences. And just as a beloved landscape is suddenly revealed, so too may landscapes of fear cast a dark shadow over a place that makes one feel a sense of dread or anxiety—or topophobia."
+    },
+    {
+      "id": "cat-2019-s1-varc-set6",
+      "text": "The four sentences (labelled 1, 2, 3, 4) given below, when properly sequenced would yield a coherent paragraph. Decide on the proper sequence of the order of the sentences and key in the sequence of the four numbers as your answer."
+    },
+    {
+      "id": "cat-2019-s1-varc-set7",
+      "text": "The passage given below is followed by four alternate summaries. Choose the option that best captures the essence of the passage."
+    },
+    {
+      "id": "cat-2019-s1-varc-set8",
+      "text": "Five sentences related to a topic are given below. Four of them can be put together to form a meaningful and coherent short paragraph. Identify the odd one out. Choose its number as your answer and key it in."
+    }
+  ],
+  "questions": [
+    {
+      "id": "cat-2019-s1-varc-01",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 1,
+      "section": "varc",
+      "number": 1,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2019-s1-varc-set1",
+      "question": "All of the following serve as evidence for the character of Aladdin being based on Hanna Diyab EXCEPT:",
+      "options": [
+        "A) Diyab’s cosmopolitanism and cross-cultural experience.",
+        "B) Diyab’s humble origins and class struggles, as recounted in his travelogue.",
+        "C) Diyab’s description of the wealth of Versailles in his travelogue.",
+        "D) Diyab’s narration of the original story to Galland."
+      ],
+      "answer": "D",
+      "answer_text": "Diyab’s narration of the original story to Galland.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-VARC/verbal-question-1.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/22-all-of-the-following-serve-as-evidence-for-the-cha-x-cat-2019-slot-1",
+        "result": "match",
+        "cracku_answer": "Diyab’s narration of the original story to Galland."
+      }
+    },
+    {
+      "id": "cat-2019-s1-varc-02",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 1,
+      "section": "varc",
+      "number": 2,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2019-s1-varc-set1",
+      "question": "The author of the passage is most likely to agree with which of the following explanations for the origins of the story of Aladdin?",
+      "options": [
+        "A) Galland derived the story of Aladdin from Diyab’s travelogue in which he recounts his fascination with the wealth of Versailles.",
+        "B) The story of Aladdin has its origins in an undiscovered, incomplete manuscript of a medieval Arabic collection of stories.",
+        "C) Basing it on his own life experiences, Diyab transmitted the story of Aladdin to Galland who included it in Arabian Nights.",
+        "D) Galland received the story of Aladdin from Diyab who, in turn, found it in an incomplete medieval manuscript."
+      ],
+      "answer": "C",
+      "answer_text": "Basing it on his own life experiences, Diyab transmitted the story of Aladdin to Galland who included it in Arabian Nights.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-VARC/verbal-question-2.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/25-the-author-of-the-passage-is-most-likely-to-agree--x-cat-2019-slot-1",
+        "result": "match",
+        "cracku_answer": "Basing it on his own life experiences, Diyab transmitted the story of Aladdin to Galland who included it in Arabian Nights."
+      }
+    },
+    {
+      "id": "cat-2019-s1-varc-03",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 1,
+      "section": "varc",
+      "number": 3,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2019-s1-varc-set1",
+      "question": "Which of the following, if true, would invalidate the inversion that the phrase “flips the script” refers to?",
+      "options": [
+        "A) Diyab’s travelogue described the affluence of the French city of Bordeaux, instead of Versailles.",
+        "B) The French fairy tales of the eighteenth century did not have rags-to-riches plot lines like that of the tale of Aladdin.",
+        "C) The description of opulence in Hanna Diyab’s and Antoine Galland’s narratives bore no resemblance to each other.",
+        "D) Galland acknowledged in the published translations of Arabian Nights that he heard the story of Aladdin from Diyab."
+      ],
+      "answer": "C",
+      "answer_text": "The description of opulence in Hanna Diyab’s and Antoine Galland’s narratives bore no resemblance to each other.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-VARC/verbal-question-3.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/26-which-of-the-following-if-true-would-invalidate-th-x-cat-2019-slot-1",
+        "result": "match",
+        "cracku_answer": "The description of opulence in Hanna Diyab’s and Antoine Galland’s narratives bore no resemblance to each other."
+      }
+    },
+    {
+      "id": "cat-2019-s1-varc-04",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 1,
+      "section": "varc",
+      "number": 4,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2019-s1-varc-set1",
+      "question": "Which of the following is the primary reason for why storytellers are still fascinated by the story of Aladdin?",
+      "options": [
+        "A) The traveller's experience that inspired the tale of Aladdin resonates even today.",
+        "B) The tale of Aladdin documents the history of Europe and Middle East.",
+        "C) The archetype of the rags-to-riches story of Aladdin makes it popular even today.",
+        "D) The story of Aladdin is evidence of the eighteenth century French Orientalist."
+      ],
+      "answer": "A",
+      "answer_text": "The traveller's experience that inspired the tale of Aladdin resonates even today.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-VARC/verbal-question-4.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/23-which-of-the-following-is-the-primary-reason-for-w-x-cat-2019-slot-1",
+        "result": "match",
+        "cracku_answer": "The traveller's experience that inspired the tale of Aladdin resonates even today."
+      }
+    },
+    {
+      "id": "cat-2019-s1-varc-05",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 1,
+      "section": "varc",
+      "number": 5,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2019-s1-varc-set1",
+      "question": "Which of the following does not contribute to the passage’s claim about the authorship of Aladdin?",
+      "options": [
+        "A) The narrative sensibility of Diyab’s travelogue.",
+        "B) The depiction of the affluence of Versailles in Diyab’s travelogue.",
+        "C) Galland’s acknowledgment of Diyab in his diary.",
+        "D) The story-line of many French fairy tales of the 18th century."
+      ],
+      "answer": "D",
+      "answer_text": "The story-line of many French fairy tales of the 18th century.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-VARC/verbal-question-5.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/24-which-of-the-following-does-not-contribute-to-the--x-cat-2019-slot-1",
+        "result": "match",
+        "cracku_answer": "The story-line of many French fairy tales of the 18th century."
+      }
+    },
+    {
+      "id": "cat-2019-s1-varc-06",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 1,
+      "section": "varc",
+      "number": 6,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2019-s1-varc-set2",
+      "question": "Which of the following hypothetical statements would add the least depth to the author’s prediction of the fate of start-ups offering few product options?",
+      "options": [
+        "A) An exponential surge in their sales enables start-ups to meet their desired profit goals without expanding their product catalogue",
+        "B) With the motive of promoting certain rival companies, the government decides to double the tax-rates for these start-ups.",
+        "C) With Casper and Glossier venturing into new product ranges, their regular customers start losing trust in the companies and their products.",
+        "D) Start-ups with few product options are no exception to the American consumer market that is deeply divided along class lines."
+      ],
+      "answer": "A",
+      "answer_text": "An exponential surge in their sales enables start-ups to meet their desired profit goals without expanding their product catalogue",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-VARC/verbal-question-6.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/8-which-of-the-following-hypothetical-statements-wou-x-cat-2019-slot-1",
+        "result": "match",
+        "cracku_answer": "An exponential surge in their sales enables start-ups to meet their desired profit goals without expanding their product catalogue."
+      }
+    },
+    {
+      "id": "cat-2019-s1-varc-07",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 1,
+      "section": "varc",
+      "number": 7,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2019-s1-varc-set2",
+      "question": "Which one of the following best sums up the overall purpose of the examples of Casper and Glossier in the passage?",
+      "options": [
+        "A) They are increasing the purchasing power of poor Americans.",
+        "B) They are exceptions to a dominant trend in consumer markets.",
+        "C) They are facilitating a uniform distribution of commodities in the market.",
+        "D) They might transform into what they were exceptions to."
+      ],
+      "answer": "D",
+      "answer_text": "They might transform into what they were exceptions to.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-VARC/verbal-question-7.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/4-which-one-of-the-following-best-sums-up-the-overal-x-cat-2019-slot-1",
+        "result": "match",
+        "cracku_answer": "They might transform into what they were exceptions to."
+      }
+    },
+    {
+      "id": "cat-2019-s1-varc-08",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 1,
+      "section": "varc",
+      "number": 8,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2019-s1-varc-set2",
+      "question": "A new food brand plans to launch a series of products in the American market. Which of the following product plans is most likely to be supported by the author of the passage?",
+      "options": [
+        "A) A range of 10 products priced between $5 and $10.",
+        "B) A range of 25 products priced between $10 and $25.",
+        "C) A range of 25 products priced between $5 and $10.",
+        "D) A range of 10 products priced between $10 and $25."
+      ],
+      "answer": "A",
+      "answer_text": "A range of 10 products priced between $5 and $10.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-VARC/verbal-question-8.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/7-a-new-food-brand-plans-to-launch-a-series-of-produ-x-cat-2019-slot-1",
+        "result": "match",
+        "cracku_answer": "A range of 10 products priced between $5 and $10."
+      }
+    },
+    {
+      "id": "cat-2019-s1-varc-09",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 1,
+      "section": "varc",
+      "number": 9,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2019-s1-varc-set2",
+      "question": "All of the following, IF TRUE, would weaken the author’s claims EXCEPT:",
+      "options": [
+        "A) product options increased market competition, bringing down the prices of commodities, which, in turn, increased purchasing power of the poor.",
+        "B) the annual sales growth of companies with fewer product options were higher than that of companies which curated their products for target consumers.",
+        "C) the annual sale of companies that hired lifestyle influencers on Instagram for marketing their products were 40% less than those that did not.",
+        "D) the empowerment felt by purchasers in buying a commodity were directly proportional to the number of options they could choose from."
+      ],
+      "answer": "B",
+      "answer_text": "the annual sales growth of companies with fewer product options were higher than that of companies which curated their products for target consumers.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-VARC/verbal-question-9.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/5-all-of-the-following-if-true-would-weaken-the-auth-x-cat-2019-slot-1",
+        "result": "match",
+        "cracku_answer": "the annual sales growth of companies with fewer product options were higher than that of companies which curated their products for target consumers."
+      }
+    },
+    {
+      "id": "cat-2019-s1-varc-10",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 1,
+      "section": "varc",
+      "number": 10,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2019-s1-varc-set2",
+      "question": "Based on the passage, all of the following can be inferred about consumer behaviour EXCEPT that:",
+      "options": [
+        "A) too many options have made it difficult for consumers to trust products.",
+        "B) consumers are susceptible to marketing images that they see on social media.",
+        "C) having too many product options can be overwhelming for consumers.",
+        "D) consumers tend to prefer products by start-ups over those by established companies."
+      ],
+      "answer": "D",
+      "answer_text": "consumers tend to prefer products by start-ups over those by established companies.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-VARC/verbal-question-10.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/6-based-on-the-passage-all-of-the-following-can-be-i-x-cat-2019-slot-1",
+        "result": "match",
+        "cracku_answer": "consumers tend to prefer products by start-ups over those by established companies."
+      }
+    },
+    {
+      "id": "cat-2019-s1-varc-11",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 1,
+      "section": "varc",
+      "number": 11,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2019-s1-varc-set3",
+      "question": "In the last sentence of paragraph 3, “slightly warmer air” and “at a slightly colder temperature” refer to ______ AND ______ respectively:",
+      "options": [
+        "A) the air inside penguins’ bodies kept warm because of metabolism of food AND the fall in temperature of the body air after it transfers some heat to the plumage.",
+        "B) the cold Antarctic air which becomes warmer because of the heat radiated out from penguins’ bodies AND the fall in temperature of the surrounding air after thermal convection.",
+        "C) the air trapped in the plumage which is warmer than the Antarctic air AND the fall in temperature of the trapped plumage air after it radiates out some heat.",
+        "D) the cold Antarctic air whose temperature is higher than that of the plumage AND the fall in temperature of the Antarctic air after it has transmitted some heat to the plumage."
+      ],
+      "answer": "D",
+      "answer_text": "the cold Antarctic air whose temperature is higher than that of the plumage AND the fall in temperature of the Antarctic air after it has transmitted some heat to the plumage.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-VARC/verbal-question-11.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/13-in-the-last-sentence-of-paragraph-3-slightly-warme-x-cat-2019-slot-1",
+        "result": "match",
+        "cracku_answer": "the cold Antarctic air whose temperature is higher than that of the plumage AND the fall in temperature of the Antarctic air after it has transmitted some heat to the plumage."
+      }
+    },
+    {
+      "id": "cat-2019-s1-varc-12",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 1,
+      "section": "varc",
+      "number": 12,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2019-s1-varc-set3",
+      "question": "Which of the following best explains the purpose of the word “paradoxically” as used by the author?",
+      "options": [
+        "A) Keeping their body colder helps penguins keep their plumage warmer.",
+        "B) Keeping a part of their body colder helps penguins keep their bodies warmer.",
+        "C) Heat gain through radiation happens despite the heat loss through convection.",
+        "D) Heat loss through radiation happens despite the heat gain through convection."
+      ],
+      "answer": "B",
+      "answer_text": "Keeping a part of their body colder helps penguins keep their bodies warmer.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-VARC/verbal-question-12.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/12-which-of-the-following-best-explains-the-purpose-o-x-cat-2019-slot-1",
+        "result": "match",
+        "cracku_answer": "Keeping a part of their body colder helps penguins keep their bodies warmer."
+      }
+    },
+    {
+      "id": "cat-2019-s1-varc-13",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 1,
+      "section": "varc",
+      "number": 13,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2019-s1-varc-set3",
+      "question": "All of the following, if true, would negate the findings of the study reported in the passage EXCEPT:",
+      "options": [
+        "A) the penguins’ plumage were made of a material that did not allow any heat transfer through convection or radiation.",
+        "B) the average air temperature recorded during the month of June 2008 in the area of study were –10 degrees Fahrenheit.",
+        "C) the temperature of the plumage on the penguins’ heads, chests and backs were found to be 1.84, 7.24 and 9.76 degrees Fahrenheit respectively.",
+        "D) the average temperature of the feet of penguins in the month of June 2008 were found to be 2.76 degrees Fahrenheit."
+      ],
+      "answer": "D",
+      "answer_text": "the average temperature of the feet of penguins in the month of June 2008 were found to be 2.76 degrees Fahrenheit.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-VARC/verbal-question-13.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/11-all-of-the-following-if-true-would-negate-the-find-x-cat-2019-slot-1",
+        "result": "match",
+        "cracku_answer": "the average temperature of the feet of penguins in the month of June 2008 were found to be 2.76 degrees Fahrenheit."
+      }
+    },
+    {
+      "id": "cat-2019-s1-varc-14",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 1,
+      "section": "varc",
+      "number": 14,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2019-s1-varc-set3",
+      "question": "Which of the following can be responsible for Emperor Penguins losing body heat?",
+      "options": [
+        "A) Food metabolism.",
+        "B) Reproduction process.",
+        "C) Plumage.",
+        "D) Thermal convection."
+      ],
+      "answer": "B",
+      "answer_text": "Reproduction process.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-VARC/verbal-question-14.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/10-which-of-the-following-can-be-responsible-for-empe-x-cat-2019-slot-1",
+        "result": "match",
+        "cracku_answer": "Reproduction process."
+      }
+    },
+    {
+      "id": "cat-2019-s1-varc-15",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 1,
+      "section": "varc",
+      "number": 15,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2019-s1-varc-set4",
+      "question": "The author says that folk “may often appear a cosy, fossilised form” because:",
+      "options": [
+        "A) of its nostalgic association with a pre-industrial past.",
+        "B) it has been arrogated for various political and cultural purposes.",
+        "C) folk is a sonic “shabby chic” with an antique veneer.",
+        "D) the notion of folk has led to several debates and disagreements."
+      ],
+      "answer": "A",
+      "answer_text": "of its nostalgic association with a pre-industrial past.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-VARC/verbal-question-15.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/17-the-author-says-that-folk-may-often-appear-a-cosy--x-cat-2019-slot-1",
+        "result": "match",
+        "cracku_answer": "of its nostalgic association with a pre-industrial past."
+      }
+    },
+    {
+      "id": "cat-2019-s1-varc-16",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 1,
+      "section": "varc",
+      "number": 16,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2019-s1-varc-set4",
+      "question": "All of the following are causes for plurality and diversity within the British folk tradition EXCEPT:",
+      "options": [
+        "A) the fluidity of folk forms owing to their history of oral mode of transmission.",
+        "B) paradoxically, folk forms are both popular and unpopular.",
+        "C) that British folk forms can be traced to the remote past of the country.",
+        "D) that British folk continues to have traces of pagan influence from the dark ages."
+      ],
+      "answer": "B",
+      "answer_text": "paradoxically, folk forms are both popular and unpopular.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-VARC/verbal-question-16.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/19-all-of-the-following-are-causes-for-plurality-and--x-cat-2019-slot-1",
+        "result": "match",
+        "cracku_answer": "paradoxically, folk forms are both popular and unpopular."
+      }
+    },
+    {
+      "id": "cat-2019-s1-varc-17",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 1,
+      "section": "varc",
+      "number": 17,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2019-s1-varc-set4",
+      "question": "At a conference on folk forms, the author of the passage is least likely to agree with which one of the following views?",
+      "options": [
+        "A) The power of folk resides in its contradictory ability to influence and be influenced by the present while remaining rooted in the past.",
+        "B) Folk forms, despite their archaic origins, remain intellectually relevant in contemporary times.",
+        "C) Folk forms, in their ability to constantly adapt to the changing world, exhibit an unusual poise and homogeneity with each change.",
+        "D) The plurality and democratising impulse of folk forms emanate from the improvisation that its practitioners bring to it."
+      ],
+      "answer": "C",
+      "answer_text": "Folk forms, in their ability to constantly adapt to the changing world, exhibit an unusual poise and homogeneity with each change.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-VARC/verbal-question-17.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/15-at-a-conference-on-folk-forms-the-author-of-the-pa-x-cat-2019-slot-1",
+        "result": "match",
+        "cracku_answer": "Folk forms, in their ability to constantly adapt to the changing world, exhibit an unusual poise and homogeneity with each change."
+      }
+    },
+    {
+      "id": "cat-2019-s1-varc-18",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 1,
+      "section": "varc",
+      "number": 18,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2019-s1-varc-set4",
+      "question": "The primary purpose of the reference to William Morris and his floral prints is to show:",
+      "options": [
+        "A) the pervasive influence of folk on contemporary art, culture, and fashion.",
+        "B) that what is once regarded as radical in folk, can later be seen as conformist.",
+        "C) that what was once derided as genteel is now considered revolutionary.",
+        "D) that despite its archaic origins, folk continues to remain a popular tradition."
+      ],
+      "answer": "B",
+      "answer_text": "that what is once regarded as radical in folk, can later be seen as conformist.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-VARC/verbal-question-18.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/16-the-primary-purpose-of-the-reference-to-william-mo-x-cat-2019-slot-1",
+        "result": "match",
+        "cracku_answer": "that what is once regarded as radical in folk, can later be seen as conformist."
+      }
+    },
+    {
+      "id": "cat-2019-s1-varc-19",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 1,
+      "section": "varc",
+      "number": 19,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2019-s1-varc-set4",
+      "question": "Which of the following statements about folk revivalism of the 1940s and 1960s cannot be inferred from the passage?",
+      "options": [
+        "A) Freedom and rebellion were popular themes during the second wave of folk revivalism.",
+        "B) Electrification of music would not have happened without the influence of rock music.",
+        "C) Even though it led to folk-rock’s golden age, it wasn’t entirely free from critique.",
+        "D) It reinforced Cecil Sharp’s observation about folk’s constant transformation."
+      ],
+      "answer": "B",
+      "answer_text": "Electrification of music would not have happened without the influence of rock music.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-VARC/verbal-question-19.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/18-which-of-the-following-statements-about-folk-reviv-x-cat-2019-slot-1",
+        "result": "match",
+        "cracku_answer": "Electrification of music would not have happened without the influence of rock music."
+      }
+    },
+    {
+      "id": "cat-2019-s1-varc-20",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 1,
+      "section": "varc",
+      "number": 20,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2019-s1-varc-set5",
+      "question": "The word “topophobia” in the passage is used:",
+      "options": [
+        "A) to represent a feeling of dread towards particular spaces and places.",
+        "B) as a metaphor expressing the failure of the homeland to accommodate non-citizens.",
+        "C) to signify the fear of studying the complex discipline of topography.",
+        "D) to signify feelings of fear or anxiety towards topophilic people."
+      ],
+      "answer": "A",
+      "answer_text": "to represent a feeling of dread towards particular spaces and places.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-VARC/verbal-question-20.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/32-the-word-topophobia-in-the-passage-is-used-x-cat-2019-slot-1",
+        "result": "match",
+        "cracku_answer": "to represent a feeling of dread towards particular spaces and places."
+      }
+    },
+    {
+      "id": "cat-2019-s1-varc-21",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 1,
+      "section": "varc",
+      "number": 21,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2019-s1-varc-set5",
+      "question": "In the last paragraph, the author uses the example of “Residents of upscale residential developments” to illustrate the:",
+      "options": [
+        "A) introduction of nationalist projects by such elites to produce a sense of dread or topophobia.",
+        "B) manner in which environments are designed to minimise the social exclusion of their clientele.",
+        "C) sensitive response to race and class problems in upscale residential developments.",
+        "D) social exclusivism practised by such residents in order to enforce a sense of racial or class superiority."
+      ],
+      "answer": "D",
+      "answer_text": "social exclusivism practised by such residents in order to enforce a sense of racial or class superiority.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-VARC/verbal-question-21.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/29-in-the-last-paragraph-the-author-uses-the-example--x-cat-2019-slot-1",
+        "result": "match",
+        "cracku_answer": "social exclusivism practised by such residents in order to enforce a sense of racial or class superiority."
+      }
+    },
+    {
+      "id": "cat-2019-s1-varc-22",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 1,
+      "section": "varc",
+      "number": 22,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2019-s1-varc-set5",
+      "question": "Which one of the following best captures the meaning of the statement, “Topophilia is difficult to design for and impossible to quantify . . .”?",
+      "options": [
+        "A) Philosopher-architects are uniquely suited to develop topophilic design.",
+        "B) People’s responses to their environment are usually subjective and so cannot be rendered in design.",
+        "C) Architects have to objectively quantify spaces and hence cannot be topophilic.",
+        "D) The deep anomie of modern urbanisation led to new urbanism’s intricate sense of place."
+      ],
+      "answer": "B",
+      "answer_text": "People’s responses to their environment are usually subjective and so cannot be rendered in design.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-VARC/verbal-question-22.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/31-which-one-of-the-following-best-captures-the-meani-x-cat-2019-slot-1",
+        "result": "match",
+        "cracku_answer": "People’s responses to their environment are usually subjective and so cannot be rendered in design."
+      }
+    },
+    {
+      "id": "cat-2019-s1-varc-23",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 1,
+      "section": "varc",
+      "number": 23,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2019-s1-varc-set5",
+      "question": "Which one of the following comes closest in meaning to the author’s understanding of topophilia?",
+      "options": [
+        "A) The French are not overly patriotic, but they will refuse to use English as far as possible, even when they know it well.",
+        "B) The tendency of many cultures to represent their land as “motherland” or “fatherland” may be seen as an expression of their topophilia.",
+        "C) Scientists have found that most creatures, including humans, are either born with or cultivate a strong sense of topography.",
+        "D) Nomadic societies are known to have the least affinity for the lands through which they traverse because they tend to be topophobic."
+      ],
+      "answer": "B",
+      "answer_text": "The tendency of many cultures to represent their land as “motherland” or “fatherland” may be seen as an expression of their topophilia.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-VARC/verbal-question-23.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2019-s1-varc-24",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 1,
+      "section": "varc",
+      "number": 24,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2019-s1-varc-set5",
+      "question": "Which of the following statements, if true, could be seen as not contradicting the arguments in the passage?",
+      "options": [
+        "A) Generally speaking, in a given culture, the ties of the people to their environment vary little in significance or intensity.",
+        "B) Patriotism, usually seen as a positive feeling, is presented by the author as a darker form of topophilia.",
+        "C) New Urbanism succeeded in those designs where architects collaborated with their clients.",
+        "D) The most important, even fundamental, response to our environment is our tactile and olfactory response."
+      ],
+      "answer": "B",
+      "answer_text": "Patriotism, usually seen as a positive feeling, is presented by the author as a darker form of topophilia.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-VARC/verbal-question-24.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/33-which-of-the-following-statements-if-true-could-be-x-cat-2019-slot-1",
+        "result": "match",
+        "cracku_answer": "Patriotism, usually seen as a positive feeling, is presented by the author as a darker form of topophilia."
+      }
+    },
+    {
+      "id": "cat-2019-s1-varc-25",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 1,
+      "section": "varc",
+      "number": 25,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2019-s1-varc-set6",
+      "question": "1. People with dyslexia have difficulty with print-reading, and people with autism spectrum disorder have difficulty with mind-reading.\n2. An example of a lost cognitive instinct is mind-reading: our capacity to think of ourselves and others as having beliefs, desires, thoughts and feelings.\n3. Mind-reading looks increasingly like literacy, a skill we know for sure is not in our genes, since scripts have been around for only 5,000-6,000 years.\n4. Print-reading, like mind-reading varies across cultures, depends heavily on certain parts of the brain, and is subject to developmental disorders.",
+      "options": null,
+      "answer": "2341",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-VARC/verbal-question-25.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": false,
+      "answer_value": "2341",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2019-s1-varc-26",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 1,
+      "section": "varc",
+      "number": 26,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2019-s1-varc-set6",
+      "question": "1. If you’ve seen a little line of text on websites that says something like \"customers who bought this also enjoyed that” you have experienced this collaborative filtering firsthand.\n2. The problem with these algorithms is that they don’t take into account a host of nuances and circumstances that might interfere with their accuracy.\n3. If you just bought a gardening book for your cousin, you might get a flurry of links to books about gardening, recommended just for you! – the algorithm has no way of knowing you hate gardening and only bought the book as a gift.\n4. Collaborative filtering is a mathematical algorithm by which correlations and cooccurrences of behaviors are tracked and then used to make recommendations.",
+      "options": null,
+      "answer": "4123",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-VARC/verbal-question-26.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": false,
+      "answer_value": "4123",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2019-s1-varc-27",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 1,
+      "section": "varc",
+      "number": 27,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2019-s1-varc-set6",
+      "question": "1. We’ll all live under mob rule until then, which doesn’t help anyone.\n2. Perhaps we need to learn to condense the feedback we receive online so that 100 replies carry the same weight as just one.\n3. As we grow more comfortable with social media conversations being part of the way we interact every day, we are going to have to learn how to deal with legitimate criticism.\n4. A new norm will arise where it is considered unacceptable to reply with the same point that dozens of others have already.",
+      "options": null,
+      "answer": "3241",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-VARC/verbal-question-27.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": false,
+      "answer_value": "3241",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2019-s1-varc-28",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 1,
+      "section": "varc",
+      "number": 28,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2019-s1-varc-set6",
+      "question": "1. Metaphors may map to similar meanings across languages, but their subtle differences can have a profound effect on our understanding of the world.\n2. Latin scholars point out carpe diem is a horticultural metaphor that, particularly seen in the context of its source, is more accurately translated as “plucking the day,” evoking the plucking and gathering of ripening fruits or flowers, enjoying a moment that is rooted in the sensory experience of nature, unrelated to the force implied in seizing.\n3. The phrase carpe diem, which is often translated as “seize the day and its accompanying philosophy, has gone on to inspire countless people in how they live their lives and motivates us to see the world a little differently from the norm.\n4. It’s an example of one of the more telling ways that we mistranslate metaphors from one language to another, revealing in the process our hidden assumptions about what we really value.",
+      "options": null,
+      "answer": "3241",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-VARC/verbal-question-28.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": false,
+      "answer_value": "3241",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2019-s1-varc-29",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 1,
+      "section": "varc",
+      "number": 29,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2019-s1-varc-set7",
+      "question": "Vance Packard’s The Hidden Persuaders alerted the public to the psychoanalytical techniques used by the advertising industry. Its premise was that advertising agencies were using depth interviews to identify hidden consumer motivations, which were then used to entice consumers to buy goods. Critics and reporters often wrongly assumed that Packard was writing mainly about subliminal advertising. Packard never mentioned the word subliminal, however, and devoted very little space to discussions of “subthreshold” effects. Instead, his views largely aligned with the notion that individuals do not always have access to their conscious thoughts and can be persuaded by supraliminal messages without their knowledge.",
+      "options": [
+        "A) Packard argued that advertising as a ‘hidden persuasion’ understands the hidden motivations of consumers and works at the subliminal level, on the subconscious level of the awareness of the people targeted.",
+        "B) Packard held that advertising as a ‘hidden persuasion’ understands the hidden motivations of consumers and works at the supraliminal level, though the people targeted have no awareness of being persuaded.",
+        "C) Packard held that advertising as a ‘hidden persuasion’ builds on peoples’ conscious thoughts and awareness, by understanding the hidden motivations of consumers and works at the subliminal level.",
+        "D) Packard argued that advertising as a ‘hidden persuasion’ works at the supraliminal level, wherein the people targeted are aware of being persuaded, after understanding the hidden motivations of consumers and works."
+      ],
+      "answer": "B",
+      "answer_text": "Packard held that advertising as a ‘hidden persuasion’ understands the hidden motivations of consumers and works at the supraliminal level, though the people targeted have no awareness of being persuaded.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-VARC/verbal-question-29.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/2-the-passage-given-below-is-followed-by-four-altern-x-cat-2019-slot-1",
+        "result": "match",
+        "cracku_answer": "Packard held that advertising as a ‘hidden persuasion’ understands the hidden motivations of consumers and works at the supraliminal level, though the people targeted have no awareness of being persuaded."
+      }
+    },
+    {
+      "id": "cat-2019-s1-varc-30",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 1,
+      "section": "varc",
+      "number": 30,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2019-s1-varc-set7",
+      "question": "A distinguishing feature of language is our ability to refer to absent things, known as displaced reference. A speaker can bring distant referents to mind in the absence of any obvious stimuli. Thoughts, not limited to the here and now, can pop into our heads for unfathomable reasons. This ability to think about distant things necessarily precedes the ability to talk about them. Thought precedes meaningful referential communication. A prerequisite for the emergence of human-like meaningful symbols is that the mental categories they relate to can be invoked even in the absence of immediate stimuli.",
+      "options": [
+        "A) Thoughts precede all speech acts and these thoughts pop up in our heads even in the absence of any stimulus.",
+        "B) The ability to think about objects not present in our environment precedes the development of human communication.",
+        "C) Thoughts are essential to communication and only humans have the ability to think about objects not present in their surroundings.",
+        "D) Displaced reference is particular to humans and thoughts pop into our heads for no real reason."
+      ],
+      "answer": "B",
+      "answer_text": "The ability to think about objects not present in our environment precedes the development of human communication.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-VARC/verbal-question-30.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2019-s1-varc-31",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 1,
+      "section": "varc",
+      "number": 31,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2019-s1-varc-set7",
+      "question": "Physics is a pure science that seeks to understand the behavior of matter without regard to whether it will afford any practical benefit. Engineering is the correlative applied science in which physical theories are put to some specific use, such as building a bridge or a nuclear reactor. Engineers obviously rely heavily on the discoveries of physicists, but an engineer's knowledge of the world is not the same as the physicist's knowledge. In fact, an engineer's know-how will often depend on physical theories that, from the point of view of pure physics, are false. There are some reasons for this. First, theories that are false in the purest and strictest sense are still sometimes very good approximations to the true ones, and often have the added virtue of being much easier to work with. Second, sometimes the true theories apply only under highly idealized conditions which can only be created under controlled experimental situations. The engineer finds that in the real world, theories rejected by physicists yield more accurate predictions than the ones that they accept.",
+      "options": [
+        "A) The unique task of the engineer is to identify, understand, and interpret the design constraints to produce a successful result.",
+        "B) The relationship between pure and applied science is strictly linear, with the pure science directing applied science, and never the other way round.",
+        "C) Though engineering draws heavily from pure science, it contributes to knowledge, by incorporating the constraints and conditions in the real world.",
+        "D) Engineering and physics fundamentally differ on matters like building a bridge or a nuclear reactor."
+      ],
+      "answer": "C",
+      "answer_text": "Though engineering draws heavily from pure science, it contributes to knowledge, by incorporating the constraints and conditions in the real world.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-VARC/verbal-question-31.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2019-s1-varc-32",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 1,
+      "section": "varc",
+      "number": 32,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2019-s1-varc-set8",
+      "question": "1. His idea to use sign language was not a completely new idea as Native Americans used hand gestures to communicate with other tribes.\n2. Ancient Greek philosopher Aristotle, for example, observed that men who are deaf are incapable of speech.\n3. People who were born deaf were denied the right to sign a will as they were “presumed to understand nothing; because it is not possible that they have been able to learn to read or write.”\n4. Pushback against this prejudice began in the 16th century when Pedro Ponce de León created a formal sign language for the hearing impaired.\n5. For millennia, people with hearing impairments encountered marginalization because it was believed that language could only be learned by hearing the spoken word.",
+      "options": null,
+      "answer": "2",
+      "answer_text": "2\nAncient Greek philosopher Aristotle, for example, observed that men who are deaf are incapable of speech.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-VARC/verbal-question-32.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": false,
+      "answer_value": "2",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2019-s1-varc-33",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 1,
+      "section": "varc",
+      "number": 33,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2019-s1-varc-set8",
+      "question": "1. One argument is that actors that do not fit within a single, well-defined category may suffer an “illegitimacy discount”.\n2. Others believe that complex identities confuse audiences about an organization’s role or purpose.\n3. Some organizations have complex and multidimensional identities that span or combine categories, while other organizations possess narrow identities.\n4. Identity is one of the most important features of organizations, but there exist opposing views among sociologists about how identity affects organizational performance.\n5. Those who think that complex identities are beneficial point to the strategic advantages of ambiguity, and organizations’ potential to differentiate themselves from competitors.",
+      "options": null,
+      "answer": "1",
+      "answer_text": "1\nOne argument is that actors that do not fit within a single, well-defined category may suffer an “illegitimacy discount”.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-VARC/verbal-question-33.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": false,
+      "answer_value": "1",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2019-s1-varc-34",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 1,
+      "section": "varc",
+      "number": 34,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2019-s1-varc-set8",
+      "question": "1. ‘Stat’ signaled something measurable, while ‘matic’ advertised free labour; but ‘tron’, above all, indicated control.\n2. It was a totem of high modernism, the intellectual and cultural mode that decreed no process or phenomenon was too complex to be grasped, managed and optimized.\n3. Like the heraldic shields of ancient knights, these morphemes were painted onto the names of scientific technologies to proclaim one’s history and achievements to friends and enemies alike.\n4. The historian Robert Proctor at Stanford University calls the suffix ‘-tron’, along with ‘-matic’ and ‘-stat’, embodied symbols.\n5. To gain the suffix was to acquire a proud and optimistic emblem of the electronic and atomic age.",
+      "options": null,
+      "answer": "2",
+      "answer_text": "2\nIt was a totem of high modernism, the intellectual and cultural mode that decreed no process or phenomenon was too complex to be grasped, managed and optimized.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-VARC/verbal-question-34.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-1-VARC/"
+      },
+      "verified": false,
+      "answer_value": "2",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    }
+  ]
+}

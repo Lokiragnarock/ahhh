@@ -1,0 +1,892 @@
+{
+  "exam": "CAT",
+  "year": 2025,
+  "slot": 3,
+  "section": "dilr",
+  "source": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-DILR/",
+  "licence": "Real CAT questions (c) IIMs, as re-published free by 2IIM (c) 2IIM. Private study use in AHH only; do not republish.",
+  "scraped": "2026-11-01",
+  "count": 22,
+  "sets": [
+    {
+      "id": "cat-2025-s3-dilr-set1",
+      "text": "Anu, Bijay, Chetan, Deepak, Eshan, and Faruq are six friends. Each of them uses a mobile number from exactly one of the two mobile operators - Xitel and Yocel. During the last month, the six friends made several calls to each other. Each call was made by one of these six friends to another. The table below summarizes the number of minutes of calls that each of the six made to (outgoing minutes) and received from (incoming minutes) these friends, grouped by the operators. Some of the entries are missing.\n\n![figure](img/2025-s3-dilr/32842_332818_0_27970723_dilr_phone_op.jpg)\n\nIt is known that the duration of calls from Faruq to Eshan was 200 minutes.\nAlso, there were no calls from:\ni. Bijay to Eshan,\nii. Chetan to Anu and Chetan to Deepak,\niii. Deepak to Bijay and Deepak to Faruq,\niv. Eshan to Chetan and Eshan to Deepak."
+    },
+    {
+      "id": "cat-2025-s3-dilr-set2",
+      "text": "Aurevia, Brelosia, Cyrenia and Zerathania are four countries with their currencies being Aurels, Brins, Crowns, and Zentars, respectively. The currencies have different exchange values. Crown's currency exchange rate with Zentars = 0.5, i.e., 1 Crown is worth 0.5 Zentars.\n\nThree travelers, Jano, Kira, and Lian set out from Zerathania visiting exactly two of the countries. Each country is visited by exactly two travelers. Each traveler has a unique Flight Cost, which represents the total cost of airfare in traveling to both the countries and back to Zerathania. The Flight Cost of Jano was 4000 Zentars, while that of the other two travelers were 5000 and 6000 Zentars, not necessarily in that order.\nWhen visiting a country, a traveler spent either 1000, 2000 or 3000 in the country's local currency. Each traveler had different spends (in the country's local currency) in the two countries he/she visited. Across all the visits, there were exactly two spends of 1000 and exactly one spend of 3000 (in the country's local currency).\n\nThe total \"Travel Cost\" for a traveler is the sum of his/her Flight Cost and the money spent in the countries visited.\n\nThe citizens of the four countries with knowledge of these travels made a few observations, with spends measured in their respective local currencies:\ni. Aurevia citizen: Jano and Kira visited our country, and their Travel Costs were 3500 and 8000, respectively.\nii. Brelosia citizen: Kira and Lian visited our country, spending 2000 and 3000, respectively. Kira's Travel Cost was 4000.\niii. Cyrenia citizen: Lian visited our country and her Travel Cost was 36000."
+    },
+    {
+      "id": "cat-2025-s3-dilr-set3",
+      "text": "Anirbid, Chandranath, Koushik, and Suranjan participated in a puzzle solving competition. The competition comprised 10 puzzles that had to be solved in the same sequence, i.e., a competitor got access to a puzzle as soon as they solved the previous puzzle. Some of the puzzles were visual puzzles and the others were number-based puzzles. The winner of the competition was the one who solved all puzzles in the least time.\nThe following charts describe their progress in the competition. The chart on the left shows the number of puzzles solved by each competitor at a given time (in minutes) after the start of the competition. The chart on the right shows the number of visual puzzles solved by each competitor at a given time (in minutes) after the start of the competition.\n\n![figure](img/2025-s3-dilr/32842_332818_0_27970684_image_puzz.jpg)"
+    },
+    {
+      "id": "cat-2025-s3-dilr-set4",
+      "text": "Seven children, Aarav, Bina, Chirag, Diya, Eshan, Farhan, and Gaurav, are sitting in a circle facing inside (not necessarily in the same order) and playing a game of 'Passing the Buck'.\n\nThe game is played over 10 rounds. In each round, the child holding the Buck must pass it directly to a child sitting in one of the following positions:\n\n• Immediately to the left;\n• Immediate to the right;\n• Second to the left; or\n• Second to the right.\n\nThe game starts with Bina passing the Buck and ends with Chirag receiving the Buck. The table below provides some information about the pass types and the child receiving the Buck. Some information is missing and labelled as '?'.\n\n| Round | Position | Name |\n|---|---|---|\n| 1 | Immediately to the left | Aarav |\n| 2 | Second to the right | ? |\n| 3 | Immediately to the right | Diya |\n| 4 | ? | ? |\n| 5 | ? | Aarav |\n| 6 | Second to the left | ? |\n| 7 | Immediately to the left | Gaurav |\n| 8 | Immediately to the left | ? |\n| 9 | ? | Farhan |\n| 10 | ? | Chirag |"
+    },
+    {
+      "id": "cat-2025-s3-dilr-set5",
+      "text": "Three countries — Pumpland (P), Xiland (X) and Cheeseland (C) — trade among themselves and with the (other countries in) Rest of World (ROW). All trade volumes are given in IC (international currency). The following terminology is used:\n• Trade balance = Exports – Imports\n• Total trade = Exports + Imports\n• Normalized trade balance = Trade balance / Total trade, expressed in percentage terms\n\nThe following information is known.\n1. The normalized trade balances of P, X and C are 0%, 10%, and –20%, respectively.\n2. 40% of exports of X are to P. 22% of imports of P are from X.\n3. 90% of exports of C are to P; 4% are to ROW.\n4. 12% of exports of ROW are to X, 40% are to P.\n5. The export volumes of P, in IC, to X and C are 600 and 1200, respectively. P is the only country that exports to C."
+    }
+  ],
+  "questions": [
+    {
+      "id": "cat-2025-s3-dilr-01",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 3,
+      "section": "dilr",
+      "number": 1,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2025-s3-dilr-set1",
+      "question": "What was the duration of calls (in minutes) from Bijay to Anu?",
+      "options": null,
+      "answer": "50",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 38.44,
+        "incorrect": 27.35,
+        "unattempted": 34.21
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-DILR/dilr-question-1.shtml",
+      "official_qid": "3328181668",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false,
+      "answer_value": "50",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s3-dilr-02",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 3,
+      "section": "dilr",
+      "number": 2,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2025-s3-dilr-set1",
+      "question": "What was the total duration of calls (in minutes) made by Anu to friends having mobile numbers from Operator Yocel?",
+      "options": null,
+      "answer": "525",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 12.79,
+        "incorrect": 47.11,
+        "unattempted": 40.1
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-DILR/dilr-question-2.shtml",
+      "official_qid": "3328181669",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false,
+      "answer_value": "525",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s3-dilr-03",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 3,
+      "section": "dilr",
+      "number": 3,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2025-s3-dilr-set1",
+      "question": "What was the total duration of calls (in minutes) made by Faruq to friends having mobile numbers from Operator Yocel?",
+      "options": null,
+      "answer": "350",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 9.12,
+        "incorrect": 48.25,
+        "unattempted": 42.63
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-DILR/dilr-question-3.shtml",
+      "official_qid": "3328181670",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false,
+      "answer_value": "350",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s3-dilr-04",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 3,
+      "section": "dilr",
+      "number": 4,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2025-s3-dilr-set1",
+      "question": "What was the duration of calls (in minutes) from Deepak to Chetan?",
+      "options": [
+        "A) 0",
+        "B) 125",
+        "C) 100",
+        "D) 50"
+      ],
+      "answer": "C",
+      "answer_text": "100",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 10.65,
+        "incorrect": 16.34,
+        "unattempted": 73.01
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-DILR/dilr-question-4.shtml",
+      "official_qid": "3328181097",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s3-dilr-05",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 3,
+      "section": "dilr",
+      "number": 5,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2025-s3-dilr-set2",
+      "question": "What is the sum of Travel Costs for all travelers in Zentars?",
+      "options": null,
+      "answer": "41000",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 0.26,
+        "incorrect": 36.59,
+        "unattempted": 63.15
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-DILR/dilr-question-5.shtml",
+      "official_qid": "3328181676",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false,
+      "answer_value": "41000",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s3-dilr-06",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 3,
+      "section": "dilr",
+      "number": 6,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2025-s3-dilr-set2",
+      "question": "How many Zentars did Lian spend in the two countries he visited?",
+      "options": null,
+      "answer": "13000",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 0.42,
+        "incorrect": 38.93,
+        "unattempted": 60.65
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-DILR/dilr-question-6.shtml",
+      "official_qid": "3328181677",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false,
+      "answer_value": "13000",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s3-dilr-07",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 3,
+      "section": "dilr",
+      "number": 7,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2025-s3-dilr-set2",
+      "question": "What was Jano's total spend in the two countries he visited, in Aurels?",
+      "options": null,
+      "answer": "1500",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 0.5,
+        "incorrect": 34.35,
+        "unattempted": 65.15
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-DILR/dilr-question-7.shtml",
+      "official_qid": "3328181678",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false,
+      "answer_value": "1500",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s3-dilr-08",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 3,
+      "section": "dilr",
+      "number": 8,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2025-s3-dilr-set2",
+      "question": "One Brin is equivalent to how many Crowns?",
+      "options": [
+        "A) 4",
+        "B) 0.5",
+        "C) 8",
+        "D) 0.125"
+      ],
+      "answer": "C",
+      "answer_text": "8",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 1.75,
+        "incorrect": 10.27,
+        "unattempted": 87.98
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-DILR/dilr-question-8.shtml",
+      "official_qid": "3328181504",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s3-dilr-09",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 3,
+      "section": "dilr",
+      "number": 9,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2025-s3-dilr-set2",
+      "question": "Which of the following statements is NOT true about money spent in the local currency?",
+      "options": [
+        "A) Kira spent 1000 in Aurevia",
+        "B) Jano spent 2000 in Aurevia",
+        "C) Jano spent 2000 in Cyrenia",
+        "D) Lian spent 2000 in Cyrenia"
+      ],
+      "answer": "B",
+      "answer_text": "Jano spent 2000 in Aurevia",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 2.52,
+        "incorrect": 8.5,
+        "unattempted": 88.98
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-DILR/dilr-question-9.shtml",
+      "official_qid": "3328181505",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s3-dilr-10",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 3,
+      "section": "dilr",
+      "number": 10,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2025-s3-dilr-set3",
+      "question": "Who had solved the largest number of puzzles by the 20-th minute from the start of the competition?",
+      "options": [
+        "A) Chandranath",
+        "B) Koushik",
+        "C) Anirbid",
+        "D) Suranjan"
+      ],
+      "answer": "B",
+      "answer_text": "Koushik",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 71.25,
+        "incorrect": 5.16,
+        "unattempted": 23.59
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-DILR/dilr-question-10.shtml",
+      "official_qid": "3328181544",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s3-dilr-11",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 3,
+      "section": "dilr",
+      "number": 11,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2025-s3-dilr-set3",
+      "question": "How many minutes did Suranjan take to solve the third visual puzzle in the competition?",
+      "options": null,
+      "answer": "2",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 29.91,
+        "incorrect": 53.55,
+        "unattempted": 16.54
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-DILR/dilr-question-11.shtml",
+      "official_qid": "3328181694",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false,
+      "answer_value": "2",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s3-dilr-12",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 3,
+      "section": "dilr",
+      "number": 12,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2025-s3-dilr-set3",
+      "question": "At what number in the sequence was the fourth number-based puzzle?",
+      "options": null,
+      "answer": "6",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 33.62,
+        "incorrect": 36.58,
+        "unattempted": 29.8
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-DILR/dilr-question-12.shtml",
+      "official_qid": "3328181693",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false,
+      "answer_value": "6",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s3-dilr-13",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 3,
+      "section": "dilr",
+      "number": 13,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2025-s3-dilr-set3",
+      "question": "Which of the following is the closest to the average time taken by Anirbid to solve the number-based puzzles in the competition?",
+      "options": [
+        "A) 3.3 minutes",
+        "B) 2.5 minutes",
+        "C) 4.0 minutes",
+        "D) 3.8 minutes"
+      ],
+      "answer": "C",
+      "answer_text": "4.0 minutes",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 23.91,
+        "incorrect": 31.37,
+        "unattempted": 44.72
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-DILR/dilr-question-13.shtml",
+      "official_qid": "3328181547",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s3-dilr-14",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 3,
+      "section": "dilr",
+      "number": 14,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2025-s3-dilr-set4",
+      "question": "Who is sitting immediately to the right of Bina?",
+      "options": [
+        "A) Chirag",
+        "B) Aarav",
+        "C) Farhan",
+        "D) Eshan"
+      ],
+      "answer": "D",
+      "answer_text": "Eshan",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 56.56,
+        "incorrect": 14.65,
+        "unattempted": 28.79
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-DILR/dilr-question-14.shtml",
+      "official_qid": "3328181088",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s3-dilr-15",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 3,
+      "section": "dilr",
+      "number": 15,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2025-s3-dilr-set4",
+      "question": "Who is sitting third to the left of Eshan?",
+      "options": [
+        "A) Aarav",
+        "B) Chirag",
+        "C) Gaurav",
+        "D) Divya"
+      ],
+      "answer": "B",
+      "answer_text": "Chirag",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 56.07,
+        "incorrect": 11.81,
+        "unattempted": 32.12
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-DILR/dilr-question-15.shtml",
+      "official_qid": "3328181090",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s3-dilr-16",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 3,
+      "section": "dilr",
+      "number": 16,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2025-s3-dilr-set4",
+      "question": "For which of the following pass types can the total number of occurrences be uniquely determined?",
+      "options": [
+        "A) Second to the right",
+        "B) Second to the left",
+        "C) Immediately to the left",
+        "D) Immediately to the right"
+      ],
+      "answer": "D",
+      "answer_text": "Immediately to the right",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 27.86,
+        "incorrect": 22.39,
+        "unattempted": 49.75
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-DILR/dilr-question-16.shtml",
+      "official_qid": "3328181087",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s3-dilr-17",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 3,
+      "section": "dilr",
+      "number": 17,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2025-s3-dilr-set4",
+      "question": "For which of the following children is it possible to determine how many times they received the Buck?",
+      "options": [
+        "A) Bina",
+        "B) Gaurav",
+        "C) Farhan",
+        "D) Eshan"
+      ],
+      "answer": "B",
+      "answer_text": "Gaurav",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 34.95,
+        "incorrect": 22.7,
+        "unattempted": 42.35
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-DILR/dilr-question-17.shtml",
+      "official_qid": "3328181089",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s3-dilr-18",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 3,
+      "section": "dilr",
+      "number": 18,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2025-s3-dilr-set5",
+      "question": "How much is exported from C to X, in IC?",
+      "options": null,
+      "answer": "48",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 6.81,
+        "incorrect": 40.79,
+        "unattempted": 52.4
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-DILR/dilr-question-18.shtml",
+      "official_qid": "3328181661",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false,
+      "answer_value": "48",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s3-dilr-19",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 3,
+      "section": "dilr",
+      "number": 19,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2025-s3-dilr-set5",
+      "question": "How much is exported from P to ROW, in IC?",
+      "options": null,
+      "answer": "200",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 5.64,
+        "incorrect": 35.77,
+        "unattempted": 58.59
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-DILR/dilr-question-19.shtml",
+      "official_qid": "3328181663",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false,
+      "answer_value": "200",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s3-dilr-20",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 3,
+      "section": "dilr",
+      "number": 20,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2025-s3-dilr-set5",
+      "question": "How much is exported from ROW to ROW, in IC?",
+      "options": null,
+      "answer": "1008",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 0.43,
+        "incorrect": 39.48,
+        "unattempted": 60.09
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-DILR/dilr-question-20.shtml",
+      "official_qid": "3328181664",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false,
+      "answer_value": "1008",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s3-dilr-21",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 3,
+      "section": "dilr",
+      "number": 21,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2025-s3-dilr-set5",
+      "question": "What is the trade balance of ROW?",
+      "options": [
+        "A) 200",
+        "B) 100",
+        "C) 0",
+        "D) -200"
+      ],
+      "answer": "A",
+      "answer_text": "200",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 4.66,
+        "incorrect": 8.18,
+        "unattempted": 87.16
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-DILR/dilr-question-21.shtml",
+      "official_qid": "3328181660",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s3-dilr-22",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 3,
+      "section": "dilr",
+      "number": 22,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2025-s3-dilr-set5",
+      "question": "Which among the countries P, X, and C has/have the least total trade?",
+      "options": [
+        "A) Both X and C",
+        "B) Only X",
+        "C) Only C",
+        "D) Only P"
+      ],
+      "answer": "A",
+      "answer_text": "Both X and C",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 3.95,
+        "incorrect": 12.46,
+        "unattempted": 83.59
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-DILR/dilr-question-22.shtml",
+      "official_qid": "3328181561",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-3-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    }
+  ]
+}

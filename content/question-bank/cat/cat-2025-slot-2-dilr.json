@@ -1,0 +1,892 @@
+{
+  "exam": "CAT",
+  "year": 2025,
+  "slot": 2,
+  "section": "dilr",
+  "source": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-DILR/",
+  "licence": "Real CAT questions (c) IIMs, as re-published free by 2IIM (c) 2IIM. Private study use in AHH only; do not republish.",
+  "scraped": "2026-11-01",
+  "count": 22,
+  "sets": [
+    {
+      "id": "cat-2025-s2-dilr-set1",
+      "text": "The two most populous cities and the non-urban region (NUR) of each of three states, Whimshire, Fogglia, and Humbleset, are assigned Pollution Measures (PMs). These nine PMs are all distinct multiples of 10, ranging from 10 to 90. The six cities in increasing order of their PMs are: Blusterburg, Noodleton, Splutterville, Quackford, Mumpypore, Zingaloo.\n\nThe Pollution Index (PI) of a state is a weighted average of the PMs of its NUR and cities, with a weight of 50% for the NUR, and 25% each for its two cities.\n\nThere is only one pair of an NUR and a city (considering all cities and all NURs) where the PM of the NUR is greater than that of the city. That NUR and the city both belong to Humbleset.\n\nThe PIs of all three states are *distinct integers*, with Humbleset and Fogglia having the highest and the lowest PI respectively."
+    },
+    {
+      "id": "cat-2025-s2-dilr-set2",
+      "text": "There are six spherical balls, B1, B2, B3, B4, B5, and B6, and four circular hoops H1, H2, H3, and H4.\n\nEach ball was tested on each hoop once, by attempting to pass the ball through the hoop. If the diameter of a ball is not larger than the diameter of the hoop, the ball passes through the hoop and makes a \"ping\". Any ball having a diameter larger than that of the hoop gets stuck on that hoop and does not make a ping.\n\nThe following additional information is known:\n1. B1 and B6 each made a ping on H4, but B5 did not.\n2. B4 made a ping on H3, but B1 did not.\n3. All balls, except B3, made pings on H1.\n4. None of the balls, except B2, made a ping on H2."
+    },
+    {
+      "id": "cat-2025-s2-dilr-set3",
+      "text": "Ananya Raga, Bhaskar Tala, Charu Veena, and Devendra Sur are four musicians. Each of them started and completed their training as students under each of three Gurus — Pandit Meghnath, Ustad Samiran, and Acharya Raghunath between 2013 and 2024, including both the years. Each Guru trains any student for consecutive years only, for a span of 2, 3, or 4 years, with each Guru having a different span. During some of these years, a student may not have trained under these Gurus; however, they never trained under multiple Gurus in the same year.\nIn none of these years, any of these Gurus trained more than two of these students at the same time. When two students train under the same Guru at the same time, they are referred to as Gurubhai, irrespective of their gender.\nThe following additional facts are known.\n1. Ustad Samiran never trained more than one of these students in the same year.\n2. Acharya Raghunath did not train any of these students during 2015-2018, as well as during 2021-24.\n3. Ananya and Devendra were never Gurubhai; neither were Bhaskar and Charu. All other pairs of musicians were Gurubhai for exactly 2 years.\n4. In 2013, Ananya and Bhaskar started their trainings under Pandit Meghnath and under Ustad Samiran, respectively."
+    },
+    {
+      "id": "cat-2025-s2-dilr-set4",
+      "text": "The Sustainability Index (SI) of a country at a point in time is an *integer*between 1 and 100. This question is related to SI of six countries – A, B, C, D, E, and F – at three different points in time – 2016, 2020, and 2024. The plot represents the exact changes in their SI, with X-coordinate representing % increase in 2020 from 2016, i.e., (SI in 2020 minus SI in 2016) / (SI in 2016), and Y-coordinate representing % increase in 2024 from 2020. At any point in time, the country with highest SI is ranked 1, while the country with the lowest SI is ranked 6. The following additional facts are known.\n1. In 2016, B, C, E, and A had ranks 1, 2, 3, and 4 respectively.\n2. F had lower SI than any other country in 2016, 2020, and 2024.\n3. In 2024, E was the only country with SI of 90.\n4. The range of SI of the six countries was 60 in 2016 as well as in 2024.\n\n![figure](img/2025-s2-dilr/32842_332818_0_29329863_dilr_si_n.jpg)"
+    },
+    {
+      "id": "cat-2025-s2-dilr-set5",
+      "text": "The following charts depict details of research papers written by four authors, Arman, Brajen, Chintan, and Devon. The papers were of four types, single-author, two-author, three-author, and four-author, that is, written by one, two, three, or all four of these authors, respectively. No other authors were involved in writing these papers.\n\n![figure](img/2025-s2-dilr/32842_332818_0_27970684_author.jpg)\n\nThe following additional facts are known.\n1. Each of the authors wrote at least one of each of the four types of papers.\n2. The four authors wrote different numbers of single-author papers.\n3. Both Chintan and Devon wrote more three-author papers than Brajen.\n4. The number of single-author and two-author papers written by Brajen were the same."
+    }
+  ],
+  "questions": [
+    {
+      "id": "cat-2025-s2-dilr-01",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 2,
+      "section": "dilr",
+      "number": 1,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2025-s2-dilr-set1",
+      "question": "What is the PI of Whimshire?",
+      "options": null,
+      "answer": "45",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 4.32,
+        "incorrect": 41.87,
+        "unattempted": 53.81
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-DILR/dilr-question-1.shtml",
+      "official_qid": "3328181679",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false,
+      "answer_value": "45",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s2-dilr-02",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 2,
+      "section": "dilr",
+      "number": 2,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2025-s2-dilr-set1",
+      "question": "What is the PI of Fogglia?",
+      "options": null,
+      "answer": "35",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 3.13,
+        "incorrect": 44.24,
+        "unattempted": 52.63
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-DILR/dilr-question-2.shtml",
+      "official_qid": "3328181680",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false,
+      "answer_value": "35",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s2-dilr-03",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 2,
+      "section": "dilr",
+      "number": 3,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2025-s2-dilr-set1",
+      "question": "What is the PI of Humbleset?",
+      "options": null,
+      "answer": "50",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 8.09,
+        "incorrect": 38.16,
+        "unattempted": 53.75
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-DILR/dilr-question-3.shtml",
+      "official_qid": "3328181681",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false,
+      "answer_value": "50",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s2-dilr-04",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 2,
+      "section": "dilr",
+      "number": 4,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2025-s2-dilr-set1",
+      "question": "Which pair of cities definitely belong to the same state?",
+      "options": [
+        "A) Blusterburg, Mumpypore",
+        "B) Splutterville, Quackford",
+        "C) Mumpypore, Zingaloo",
+        "D) Noodleton, Quackford"
+      ],
+      "answer": "D",
+      "answer_text": "Noodleton, Quackford",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 5.54,
+        "incorrect": 9.07,
+        "unattempted": 85.39
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-DILR/dilr-question-4.shtml",
+      "official_qid": "3328181456",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s2-dilr-05",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 2,
+      "section": "dilr",
+      "number": 5,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2025-s2-dilr-set1",
+      "question": "For how many of the cities and NURs is it possible to identify their PM and the state they belong to?",
+      "options": null,
+      "answer": "9",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 6.41,
+        "incorrect": 33.08,
+        "unattempted": 60.51
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-DILR/dilr-question-5.shtml",
+      "official_qid": "3328181682",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false,
+      "answer_value": "9",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s2-dilr-06",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 2,
+      "section": "dilr",
+      "number": 6,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2025-s2-dilr-set2",
+      "question": "What was the total number of pings made by B1, B2, and B3?",
+      "options": null,
+      "answer": "6",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 51.06,
+        "incorrect": 35.52,
+        "unattempted": 13.42
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-DILR/dilr-question-6.shtml",
+      "official_qid": "3328181638",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false,
+      "answer_value": "6",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s2-dilr-07",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 2,
+      "section": "dilr",
+      "number": 7,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2025-s2-dilr-set2",
+      "question": "Which of the following statements about the relative sizes of the balls is NOT NECESSARILY true?",
+      "options": [
+        "A) B4 < B5 < B3",
+        "B) B1 < B6 < B3",
+        "C) B1 < B5 < B3",
+        "D) B2 < B1 < B5"
+      ],
+      "answer": "B",
+      "answer_text": "B1 < B6 < B3",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 48.59,
+        "incorrect": 24.76,
+        "unattempted": 26.65
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-DILR/dilr-question-7.shtml",
+      "official_qid": "3328181082",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s2-dilr-08",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 2,
+      "section": "dilr",
+      "number": 8,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2025-s2-dilr-set2",
+      "question": "Which of the following statements about the relative sizes of the hoops is true?",
+      "options": [
+        "A) H2 < H4 < H3 < H1",
+        "B) H1 < H3 < H4 < H2",
+        "C) H2 < H3 < H4 < H1",
+        "D) H1 < H4 < H3 < H2"
+      ],
+      "answer": "C",
+      "answer_text": "H2 < H3 < H4 < H1",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 48.04,
+        "incorrect": 28.73,
+        "unattempted": 23.23
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-DILR/dilr-question-8.shtml",
+      "official_qid": "3328181083",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s2-dilr-09",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 2,
+      "section": "dilr",
+      "number": 9,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2025-s2-dilr-set2",
+      "question": "What BEST can be said about the total number of pings from all the tests undertaken?",
+      "options": [
+        "A) 13 or 14",
+        "B) 12 or 13",
+        "C) At least 9",
+        "D) 12 or 13 or 14"
+      ],
+      "answer": "B",
+      "answer_text": "12 or 13",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 34.62,
+        "incorrect": 35.99,
+        "unattempted": 29.39
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-DILR/dilr-question-9.shtml",
+      "official_qid": "3328181081",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s2-dilr-10",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 2,
+      "section": "dilr",
+      "number": 10,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2025-s2-dilr-set3",
+      "question": "In which of the following years were Ananya and Bhaskar Gurubhai?",
+      "options": [
+        "A) 2018",
+        "B) 2014",
+        "C) 2021",
+        "D) 2020"
+      ],
+      "answer": "D",
+      "answer_text": "2020",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 18.34,
+        "incorrect": 14.3,
+        "unattempted": 67.36
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-DILR/dilr-question-10.shtml",
+      "official_qid": "3328181433",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s2-dilr-11",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 2,
+      "section": "dilr",
+      "number": 11,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2025-s2-dilr-set3",
+      "question": "In which year did Charu begin her training under Pandit Meghnath?",
+      "options": [
+        "A) 2021",
+        "B) 2015",
+        "C) 2017",
+        "D) 2016"
+      ],
+      "answer": "B",
+      "answer_text": "2015",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 12.64,
+        "incorrect": 12.33,
+        "unattempted": 75.03
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-DILR/dilr-question-11.shtml",
+      "official_qid": "3328181657",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s2-dilr-12",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 2,
+      "section": "dilr",
+      "number": 12,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2025-s2-dilr-set3",
+      "question": "In which of the following years were Bhaskar and Devendra Gurubhai?",
+      "options": [
+        "A) 2022",
+        "B) 2015",
+        "C) 2018",
+        "D) 2020"
+      ],
+      "answer": "A",
+      "answer_text": "2022",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 10.01,
+        "incorrect": 13.88,
+        "unattempted": 76.11
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-DILR/dilr-question-12.shtml",
+      "official_qid": "3328181435",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s2-dilr-13",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 2,
+      "section": "dilr",
+      "number": 13,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2025-s2-dilr-set3",
+      "question": "Which of the following statements is TRUE?",
+      "options": [
+        "A) Ananya was training under Ustad Samiran in 2015.",
+        "B) Ananya was training under Ustad Samiran in 2018.",
+        "C) Charu was training under Ustad Samiran in 2019.",
+        "D) Charu was training under Ustad Samiran in 2018."
+      ],
+      "answer": "C",
+      "answer_text": "Charu was training under Ustad Samiran in 2019.",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 8.87,
+        "incorrect": 13.02,
+        "unattempted": 78.11
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-DILR/dilr-question-13.shtml",
+      "official_qid": "3328181436",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s2-dilr-14",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 2,
+      "section": "dilr",
+      "number": 14,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2025-s2-dilr-set3",
+      "question": "In how many of the years between 2013-24, were only two of these four musicians training under these three Gurus?",
+      "options": null,
+      "answer": "4",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 15.56,
+        "incorrect": 33.07,
+        "unattempted": 51.37
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-DILR/dilr-question-14.shtml",
+      "official_qid": "3328181700",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false,
+      "answer_value": "4",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s2-dilr-15",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 2,
+      "section": "dilr",
+      "number": 15,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2025-s2-dilr-set4",
+      "question": "What was the SI of E in 2016?",
+      "options": null,
+      "answer": "60",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 38.65,
+        "incorrect": 27.9,
+        "unattempted": 33.45
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-DILR/dilr-question-15.shtml",
+      "official_qid": "3328181639",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false,
+      "answer_value": "60",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s2-dilr-16",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 2,
+      "section": "dilr",
+      "number": 16,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2025-s2-dilr-set4",
+      "question": "What was the SI of F in 2020?",
+      "options": null,
+      "answer": "40",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 14.72,
+        "incorrect": 42.59,
+        "unattempted": 42.69
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-DILR/dilr-question-16.shtml",
+      "official_qid": "3328181640",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false,
+      "answer_value": "40",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s2-dilr-17",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 2,
+      "section": "dilr",
+      "number": 17,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2025-s2-dilr-set4",
+      "question": "What was the SI of C in 2024?",
+      "options": null,
+      "answer": "84",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 9.36,
+        "incorrect": 42.16,
+        "unattempted": 48.48
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-DILR/dilr-question-17.shtml",
+      "official_qid": "3328181641",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false,
+      "answer_value": "84",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s2-dilr-18",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 2,
+      "section": "dilr",
+      "number": 18,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2025-s2-dilr-set4",
+      "question": "What was the SI of B in 2024?",
+      "options": [
+        "A) 54",
+        "B) 60",
+        "C) 80",
+        "D) 45"
+      ],
+      "answer": "D",
+      "answer_text": "45",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 17.29,
+        "incorrect": 14.56,
+        "unattempted": 68.15
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-DILR/dilr-question-18.shtml",
+      "official_qid": "3328181411",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s2-dilr-19",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 2,
+      "section": "dilr",
+      "number": 19,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2025-s2-dilr-set5",
+      "question": "What was the total number of two-author and three-author papers written by Brajen?",
+      "options": null,
+      "answer": "4",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 40.59,
+        "incorrect": 37.06,
+        "unattempted": 22.35
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-DILR/dilr-question-19.shtml",
+      "official_qid": "3328181653",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false,
+      "answer_value": "4",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s2-dilr-20",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 2,
+      "section": "dilr",
+      "number": 20,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2025-s2-dilr-set5",
+      "question": "Which of the following statements is/are NECESSARILY true?\ni. Chintan wrote exactly three two-author papers.\nii. Chintan wrote more single-author papers than Devon.",
+      "options": [
+        "A) Neither i nor ii",
+        "B) Only ii",
+        "C) Both i and ii",
+        "D) Only i"
+      ],
+      "answer": "A",
+      "answer_text": "Neither i nor ii",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 13.96,
+        "incorrect": 33.26,
+        "unattempted": 52.78
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-DILR/dilr-question-20.shtml",
+      "official_qid": "3328181531",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s2-dilr-21",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 2,
+      "section": "dilr",
+      "number": 21,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2025-s2-dilr-set5",
+      "question": "Which of the following statements is/are NECESSARILY true?\ni. Arman wrote three-author papers only with Chintan and Devon.\nii. Brajen wrote three-author papers only with Chintan and Devon.",
+      "options": [
+        "A) Neither i or ii",
+        "B) Only ii",
+        "C) Only i",
+        "D) Both i and ii"
+      ],
+      "answer": "D",
+      "answer_text": "Both i and ii",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 22.06,
+        "incorrect": 19.41,
+        "unattempted": 58.53
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-DILR/dilr-question-21.shtml",
+      "official_qid": "3328181532",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s2-dilr-22",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 2,
+      "section": "dilr",
+      "number": 22,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2025-s2-dilr-set5",
+      "question": "If Devon wrote more than one two-author papers, then how many two-author papers did Chintan write?",
+      "options": null,
+      "answer": "3",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 29.08,
+        "incorrect": 39.28,
+        "unattempted": 31.64
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-DILR/dilr-question-22.shtml",
+      "official_qid": "3328181654",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-2-DILR/"
+      },
+      "verified": false,
+      "answer_value": "3",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    }
+  ]
+}

@@ -1,0 +1,795 @@
+{
+  "exam": "CAT",
+  "year": 2023,
+  "slot": 2,
+  "section": "qa",
+  "source": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-2-Quant/",
+  "licence": "Real CAT questions (c) IIMs, as re-published free by 2IIM (c) 2IIM. Private study use in AHH only; do not republish.",
+  "scraped": "2026-11-01",
+  "count": 22,
+  "sets": [],
+  "questions": [
+    {
+      "id": "cat-2023-s2-qa-01",
+      "exam": "CAT",
+      "year": 2023,
+      "slot": 2,
+      "section": "qa",
+      "number": 1,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "Let \\(a, b, m\\) and \\(n\\) be natural numbers such that \\(a>1\\) and \\(b>1\\). If \\(a^m b^n=144^{145}\\), then the largest possible value of \\(n-m\\) is",
+      "options": [
+        "A) 580",
+        "B) 290",
+        "C) 579",
+        "D) 289"
+      ],
+      "answer": "C",
+      "answer_text": "579",
+      "topic_2iim": "Logarithms_Exponents",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-2-Quant/quants-question-1.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2023-s2-qa-02",
+      "exam": "CAT",
+      "year": 2023,
+      "slot": 2,
+      "section": "qa",
+      "number": 2,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "The sum of all possible values of \\(x\\) satisfying the equation \\(2^{4 x^2}-2^{2 x^2+x+16}+2^{2 x+30}=0\\), is",
+      "options": [
+        "A) \\(\\frac{3}{2}\\)",
+        "B) \\(\\frac{5}{2}\\)",
+        "C) \\(\\frac{1}{2}\\)",
+        "D) 3"
+      ],
+      "answer": "C",
+      "answer_text": "\\(\\frac{1}{2}\\)",
+      "topic_2iim": "Linear_Quadratic",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-2-Quant/quants-question-2.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2023-s2-qa-03",
+      "exam": "CAT",
+      "year": 2023,
+      "slot": 2,
+      "section": "qa",
+      "number": 3,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "For any natural numbers \\(m, n\\), and \\(k\\), such that \\(k\\) divides both \\(m+2 n\\) and \\(3 m+4 n, k\\) must be a common divisor of",
+      "options": [
+        "A) \\(2 m\\) and \\(3 n\\)",
+        "B) \\(m\\) and \\(2 n\\)",
+        "C) \\(2 m\\) and \\(n\\)",
+        "D) \\(m\\) and \\(n\\)"
+      ],
+      "answer": "B",
+      "answer_text": "\\(m\\) and \\(2 n\\)",
+      "topic_2iim": "Factors",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-2-Quant/quants-question-3.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2023-s2-qa-04",
+      "exam": "CAT",
+      "year": 2023,
+      "slot": 2,
+      "section": "qa",
+      "number": 4,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "Any non-zero real numbers \\(x, y\\) such that \\(y \\neq 3\\) and \\(\\frac{x}{y} \\lt \\frac{x+3}{y-3}\\), will satisfy the condition",
+      "options": [
+        "A) If \\(y>10\\), then \\(-x>y\\)",
+        "B) If \\(x \\lt 0\\), then \\(-x \\lt y\\)",
+        "C) If \\(y \\lt 0\\), then \\(-x \\lt y\\)",
+        "D) \\(\\frac{x}{y} \\lt \\frac{y}{x}\\)"
+      ],
+      "answer": "C",
+      "answer_text": "If \\(y \\lt 0\\), then \\(-x \\lt y\\)",
+      "topic_2iim": "Inequalities",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-2-Quant/quants-question-4.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2023-s2-qa-05",
+      "exam": "CAT",
+      "year": 2023,
+      "slot": 2,
+      "section": "qa",
+      "number": 5,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "For some positive real number \\(x\\), if \\(\\log _{\\sqrt{3}}(x)+\\frac{\\log _x(25)}{\\log _x(0.008)}=\\frac{16}{3}\\), then the value of \\(\\log _3\\left(3 x^2\\right)\\) is",
+      "options": null,
+      "answer": "7",
+      "answer_text": null,
+      "topic_2iim": "Logarithms_Exponents",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-2-Quant/quants-question-5.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false,
+      "answer_value": "7",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2023-s2-qa-06",
+      "exam": "CAT",
+      "year": 2023,
+      "slot": 2,
+      "section": "qa",
+      "number": 6,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "The number of positive integers less than 50, having exactly two distinct factors other than 1 and itself, is",
+      "options": null,
+      "answer": "15",
+      "answer_text": null,
+      "topic_2iim": "Factors",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-2-Quant/quants-question-6.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false,
+      "answer_value": "15",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2023-s2-qa-07",
+      "exam": "CAT",
+      "year": 2023,
+      "slot": 2,
+      "section": "qa",
+      "number": 7,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "Let \\(k\\) be the largest integer such that the equation \\((x-1)^2+2 k x+11=0\\) has no real roots. If \\(y\\) is a positive real number, then the least possible value of \\(\\frac{k}{4 y}+9 y\\) is",
+      "options": null,
+      "answer": "6",
+      "answer_text": null,
+      "topic_2iim": "Linear_Quadratic",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-2-Quant/quants-question-7.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false,
+      "answer_value": "6",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2023-s2-qa-08",
+      "exam": "CAT",
+      "year": 2023,
+      "slot": 2,
+      "section": "qa",
+      "number": 8,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "In a company, 20% of the employees work in the manufacturing department. If the total salary obtained by all the manufacturing employees is one-sixth of the total salary obtained by all the employees in the company, then the ratio of the average salary obtained by the manufacturing employees to the average salary obtained by the non-manufacturing employees is",
+      "options": [
+        "A) 4 : 5",
+        "B) 5 : 6",
+        "C) 5 : 4",
+        "D) 6 : 5"
+      ],
+      "answer": "A",
+      "answer_text": "4 : 5",
+      "topic_2iim": "Ratios_Mixtures_Averages",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-2-Quant/quants-question-8.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2023-s2-qa-09",
+      "exam": "CAT",
+      "year": 2023,
+      "slot": 2,
+      "section": "qa",
+      "number": 9,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "Minu purchases a pair of sunglasses at Rs.1000 and sells to Kanu at 20% profit. Then, Kanu sells it back to Minu at 20% loss. Finally, Minu sells the same pair of sunglasses to Tanu. If the total profit made by Minu from all her transactions is Rs.500, then the percentage of profit made by Minu when she sold the pair of sunglasses to Tanu is",
+      "options": [
+        "A) 35.42%",
+        "B) 31.25%",
+        "C) 52%",
+        "D) 26%"
+      ],
+      "answer": "B",
+      "answer_text": "31.25%",
+      "topic_2iim": "Percents_Profits_SICI",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-2-Quant/quants-question-9.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2023-s2-qa-10",
+      "exam": "CAT",
+      "year": 2023,
+      "slot": 2,
+      "section": "qa",
+      "number": 10,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "Pipes A and C are fill pipes while Pipe B is a drain pipe of a tank. Pipe B empties the full tank in one hour less than the time taken by Pipe A to fill the empty tank. When pipes A, B and C are turned on together, the empty tank is filled in two hours. If pipes B and C are turned on together when the tank is empty and Pipe B is turned off after one hour, then Pipe C takes another one hour and 15 minutes to fill the remaining tank. If Pipe A can fill the empty tank in less than five hours, then the time taken, in minutes, by Pipe C to fill the empty tank is",
+      "options": [
+        "A) 90",
+        "B) 60",
+        "C) 120",
+        "D) 75"
+      ],
+      "answer": "A",
+      "answer_text": "90",
+      "topic_2iim": "Pipes_Cisterns_Work_Time",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-2-Quant/quants-question-10.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2023-s2-qa-11",
+      "exam": "CAT",
+      "year": 2023,
+      "slot": 2,
+      "section": "qa",
+      "number": 11,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "Ravi is driving at a speed of 40 km/h on a road. Vijay is 54 meters behind Ravi and driving in the same direction as Ravi. Ashok is driving along the same road from the opposite direction at a speed of 50 km/h and is 225 meters away from Ravi. The speed, in km/h, at which Vijay should drive so that all the three cross each other at the same time, is",
+      "options": [
+        "A) 58.8",
+        "B) 64.4",
+        "C) 67.2",
+        "D) 61.6"
+      ],
+      "answer": "D",
+      "answer_text": "61.6",
+      "topic_2iim": "Speed_Time_Distance_Races",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-2-Quant/quants-question-11.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2023-s2-qa-12",
+      "exam": "CAT",
+      "year": 2023,
+      "slot": 2,
+      "section": "qa",
+      "number": 12,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "Anil borrows Rs 2 lakhs at an interest rate of 8% per annum, compounded half-yearly. He repays Rs 10320 at the end of the first year and closes the loan by paying the outstanding amount at the end of the third year. Then, the total interest, in rupees, paid over the three years is nearest to",
+      "options": [
+        "A) 45311",
+        "B) 51311",
+        "C) 33130",
+        "D) 40991"
+      ],
+      "answer": "B",
+      "answer_text": "51311",
+      "topic_2iim": "Percents_Profits_SICI",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-2-Quant/quants-question-12.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2023-s2-qa-13",
+      "exam": "CAT",
+      "year": 2023,
+      "slot": 2,
+      "section": "qa",
+      "number": 13,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "The price of a precious stone is directly proportional to the square of its weight. Sita has a precious stone weighing 18 units. If she breaks it into four pieces with each piece having distinct integer weight, then the difference between the highest and lowest possible values of the total price of the four pieces will be 288000. Then, the price of the original precious stone is",
+      "options": [
+        "A) 1296000",
+        "B) 1944000",
+        "C) 972000",
+        "D) 1620000"
+      ],
+      "answer": "A",
+      "answer_text": "1296000",
+      "topic_2iim": "Ratios_Mixtures_Averages",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-2-Quant/quants-question-13.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2023-s2-qa-14",
+      "exam": "CAT",
+      "year": 2023,
+      "slot": 2,
+      "section": "qa",
+      "number": 14,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "A container has 40 liters of milk. Then, 4 liters are removed from the container and replaced with 4 liters of water. This process of replacing 4 liters of the liquid in the container with an equal volume of water is continued repeatedly. The smallest number of times of doing this process, after which the volume of milk in the container becomes less than that of water, is",
+      "options": null,
+      "answer": "7",
+      "answer_text": null,
+      "topic_2iim": "Ratios_Mixtures_Averages",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-2-Quant/quants-question-14.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false,
+      "answer_value": "7",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2023-s2-qa-15",
+      "exam": "CAT",
+      "year": 2023,
+      "slot": 2,
+      "section": "qa",
+      "number": 15,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "Jayant bought a certain number of white shirts at the rate of Rs 1000 per piece and a certain number of blue shirts at the rate of Rs 1125 per piece. For each shirt, he then set a fixed market price which was 25% higher than the average cost of all the shirts. He sold all the shirts at a discount of 10% and made a total profit of Rs 51000. If he bought both colors of shirts, then the maximum possible total number of shirts that he could have bought is",
+      "options": null,
+      "answer": "407",
+      "answer_text": null,
+      "topic_2iim": "Percents_Profits_SICI",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-2-Quant/quants-question-15.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false,
+      "answer_value": "407",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2023-s2-qa-16",
+      "exam": "CAT",
+      "year": 2023,
+      "slot": 2,
+      "section": "qa",
+      "number": 16,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "If a certain amount of money is divided equally among \\(n\\) persons, each one receives Rs 352 . However, if two persons receive Rs 506 each and the remaining amount is divided equally among the other persons, each of them receive less than or equal to Rs 330 . Then, the maximum possible value of \\(n\\) is",
+      "options": null,
+      "answer": "16",
+      "answer_text": null,
+      "topic_2iim": "Inequalities",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-2-Quant/quants-question-16.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false,
+      "answer_value": "16",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2023-s2-qa-17",
+      "exam": "CAT",
+      "year": 2023,
+      "slot": 2,
+      "section": "qa",
+      "number": 17,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "In a rectangle ABCD, AB = 9 cm and BC = 6 cm. P and Q are two points on BC such that the areas of the figures ABP, APQ, and AQCD are in geometric progression. If the area of the figure AQCD is four times the area of triangle ABP, then BP : PQ : QC is",
+      "options": [
+        "A) 1 : 1 : 2",
+        "B) 1 : 2 : 4",
+        "C) 2 : 4 : 1",
+        "D) 1 : 2 : 1"
+      ],
+      "answer": "C",
+      "answer_text": "2 : 4 : 1",
+      "topic_2iim": "Geometry",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-2-Quant/quants-question-17.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2023-s2-qa-18",
+      "exam": "CAT",
+      "year": 2023,
+      "slot": 2,
+      "section": "qa",
+      "number": 18,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "A triangle is drawn with its vertices on the circle \\(C\\) such that one of its sides is a diameter of \\(C\\) and the other two sides have their lengths in the ratio \\(a: b\\). If the radius of the circle is \\(r\\), then the area of the triangle is",
+      "options": [
+        "A) \\(\\frac{a b r^2}{2\\left(a^2+b^2\\right)}\\)",
+        "B) \\(\\frac{a b r^2}{a^2+b^2}\\)",
+        "C) \\(\\frac{4 a b r^2}{a^2+b^2}\\)",
+        "D) \\(\\frac{2 a b r^2}{a^2+b^2}\\)"
+      ],
+      "answer": "D",
+      "answer_text": "\\(\\frac{2 a b r^2}{a^2+b^2}\\)",
+      "topic_2iim": "Geometry",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-2-Quant/quants-question-18.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2023-s2-qa-19",
+      "exam": "CAT",
+      "year": 2023,
+      "slot": 2,
+      "section": "qa",
+      "number": 19,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "The area of the quadrilateral bounded by the \\(Y\\)-axis, the line \\(x=5\\), and the lines \\(|x-y|-|x-5|=2\\), is",
+      "options": null,
+      "answer": "45",
+      "answer_text": null,
+      "topic_2iim": "Cogeo",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-2-Quant/quants-question-19.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false,
+      "answer_value": "45",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2023-s2-qa-20",
+      "exam": "CAT",
+      "year": 2023,
+      "slot": 2,
+      "section": "qa",
+      "number": 20,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "Let both the series \\(a_1, a_2, a_3, \\ldots\\) and \\(b_1, b_2, b_3 \\ldots\\) be in arithmetic progression such that the common differences of both the series are prime numbers. If \\(a_5=b_9, a_{19}=b_{19}\\) and \\(b_2=0\\), then \\(a_{11}\\) equals",
+      "options": [
+        "A) 79",
+        "B) 83",
+        "C) 86",
+        "D) 84"
+      ],
+      "answer": "A",
+      "answer_text": "79",
+      "topic_2iim": "Progressions",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-2-Quant/quants-question-20.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2023-s2-qa-21",
+      "exam": "CAT",
+      "year": 2023,
+      "slot": 2,
+      "section": "qa",
+      "number": 21,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "If \\(p^2+q^2-29=2 p q-20=52-2 p q\\), then the difference between the maximum and minimum possible value of \\(\\left(p^3-q^3\\right)\\) is",
+      "options": [
+        "A) 486",
+        "B) 189",
+        "C) 378",
+        "D) 243"
+      ],
+      "answer": "C",
+      "answer_text": "378",
+      "topic_2iim": "Polynomials",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-2-Quant/quants-question-21.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2023-s2-qa-22",
+      "exam": "CAT",
+      "year": 2023,
+      "slot": 2,
+      "section": "qa",
+      "number": 22,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "Let \\(a_n\\) and \\(b_n\\) be two sequences such that \\(a_n=13+6(n-1)\\) and \\(b_n=15+7(n-1)\\) for all natural numbers \\(n\\). Then, the largest three digit integer that is common to both these sequences, is",
+      "options": null,
+      "answer": "967",
+      "answer_text": null,
+      "topic_2iim": "Polynomials",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-2-Quant/quants-question-22.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2023-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false,
+      "answer_value": "967",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    }
+  ]
+}

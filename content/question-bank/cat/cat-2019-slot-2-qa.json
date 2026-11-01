@@ -1,0 +1,1293 @@
+{
+  "exam": "CAT",
+  "year": 2019,
+  "slot": 2,
+  "section": "qa",
+  "source": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/",
+  "licence": "Real CAT questions (c) IIMs, as re-published free by 2IIM (c) 2IIM. Private study use in AHH only; do not republish.",
+  "scraped": "2026-11-01",
+  "count": 34,
+  "sets": [],
+  "questions": [
+    {
+      "id": "cat-2019-s2-qa-01",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 2,
+      "section": "qa",
+      "number": 1,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "The real root of the equation 2<sup>6x</sup> + 2<sup>3x+2</sup> - 21 = 0 is",
+      "options": [
+        "A) \\(\\frac{log_{2}3}{3}\\)",
+        "B) log<sub>2</sub>9",
+        "C) \\(\\frac{log_{2}7}{3}\\)",
+        "D) log<sub>2</sub>27"
+      ],
+      "answer": "A",
+      "answer_text": "\\(\\frac{log_{2}3}{3}\\)",
+      "topic_2iim": "Logarithms",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/quants-question-1.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/83-the-real-root-of-the-equation-26x-23x-2-21-0-is-x-cat-2019-slot-2",
+        "result": "mismatch",
+        "cracku_answer": "$$\\frac{\\log_{2}{3}}{3}$$"
+      }
+    },
+    {
+      "id": "cat-2019-s2-qa-02",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 2,
+      "section": "qa",
+      "number": 2,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "The average of 30 integers is 5. Among these 30 integers, there are exactly 20 which do not exceed 5. What is the highest possible value of the average of these 20 integers?",
+      "options": [
+        "A) 4",
+        "B) 5",
+        "C) 4.5",
+        "D) 3.5"
+      ],
+      "answer": "C",
+      "answer_text": "4.5",
+      "topic_2iim": "Averages",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/quants-question-2.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/67-the-average-of-30-integers-is-5-among-these-30-int-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "4.5"
+      }
+    },
+    {
+      "id": "cat-2019-s2-qa-03",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 2,
+      "section": "qa",
+      "number": 3,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "Let a, b, x, y be real numbers such that a<sup>2</sup> + b<sup>2</sup> = 25 , x<sup>2</sup> + y<sup>2</sup> = 169 and ax + by = 65. If k = ay - bx, then",
+      "options": [
+        "A) k = 0",
+        "B) k > \\(\\frac{5}{13}\\)",
+        "C) k = \\(\\frac{5}{13}\\)",
+        "D) 0 < k ≤ \\(\\frac{5}{13}\\)"
+      ],
+      "answer": "A",
+      "answer_text": "k = 0",
+      "topic_2iim": "Number theory",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/quants-question-3.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/93-let-a-b-x-y-be-real-numbers-such-that-a2-b2-25-x2--x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "k = 0"
+      }
+    },
+    {
+      "id": "cat-2019-s2-qa-04",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 2,
+      "section": "qa",
+      "number": 4,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "In a triangle ABC, medians AD and BE are perpendicular to each other, and have lengths 12 cm and 9 cm, respectively. Then, the area of triangle ABC, in sq cm, is",
+      "options": [
+        "A) 80",
+        "B) 68",
+        "C) 72",
+        "D) 78"
+      ],
+      "answer": "C",
+      "answer_text": "72",
+      "topic_2iim": "Geometry",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/quants-question-4.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/91-in-a-triangle-abc-medians-ad-and-be-are-perpendicu-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "72"
+      }
+    },
+    {
+      "id": "cat-2019-s2-qa-05",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 2,
+      "section": "qa",
+      "number": 5,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "Let a<sub>1</sub> , a<sub>2</sub> be integers such that a<sub>1</sub> - a<sub>2</sub> + a<sub>3</sub> - a<sub>4</sub> + ........ +(-1)<sup>n-1</sup> a<sub>n</sub> = n , for n ≥ 1. Then a<sub>51</sub> + a<sub>52</sub> + ........ + a<sub>1023</sub> equals",
+      "options": [
+        "A) -1",
+        "B) 1",
+        "C) 0",
+        "D) 10"
+      ],
+      "answer": "B",
+      "answer_text": "1",
+      "topic_2iim": "Sequence & series",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/quants-question-5.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2019-s2-qa-06",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 2,
+      "section": "qa",
+      "number": 6,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "How many factors of 2<sup>4</sup> × 3<sup>5</sup> × 10<sup>4</sup> are perfect squares which are greater than 1? [TITA]",
+      "options": null,
+      "answer": "44",
+      "answer_text": null,
+      "topic_2iim": "Number theory",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/quants-question-6.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": true,
+      "answer_value": "44",
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/84-how-many-factors-of-24-times-35-times-104-are-perf-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "44"
+      }
+    },
+    {
+      "id": "cat-2019-s2-qa-07",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 2,
+      "section": "qa",
+      "number": 7,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "Two circles, each of radius 4 cm, touch externally. Each of these two circles is touched externally by a third circle. If these three circles have a common tangent, then the radius of the third circle, in cm, is",
+      "options": [
+        "A) \\(\\frac{π}{3}\\)",
+        "B) 1",
+        "C) \\(\\frac{1}{\\sqrt{2}}\\)",
+        "D) \\(\\sqrt{2}\\)"
+      ],
+      "answer": "B",
+      "answer_text": "1",
+      "topic_2iim": "Geometry",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/quants-question-7.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/73-two-circles-each-of-radius-4-cm-touch-externally-e-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "1"
+      }
+    },
+    {
+      "id": "cat-2019-s2-qa-08",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 2,
+      "section": "qa",
+      "number": 8,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "What is the largest positive integer such that \\(\\frac{n^2+7n+12}{n^2-n-12}\\) is also positive integer?",
+      "options": [
+        "A) 6",
+        "B) 8",
+        "C) 16",
+        "D) 12"
+      ],
+      "answer": "D",
+      "answer_text": "12",
+      "topic_2iim": "Linear & quadratic equations",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/quants-question-8.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/69-what-is-the-largest-positive-integer-n-such-that-f-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "12"
+      }
+    },
+    {
+      "id": "cat-2019-s2-qa-09",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 2,
+      "section": "qa",
+      "number": 9,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "In 2010, a library contained a total of 11500 books in two categories - fiction and non-fiction. In 2015, the library contained a total of 12760 books in these two categories. During this period, there was 10% increase in the fiction category while there was 12% increase in the non-fiction category. How many fiction books were in the library in 2015?",
+      "options": [
+        "A) 6600",
+        "B) 6160",
+        "C) 6000",
+        "D) 5500"
+      ],
+      "answer": "A",
+      "answer_text": "6600",
+      "topic_2iim": "Percentages",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/quants-question-9.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/87-in-2010-a-library-contained-a-total-of-11500-books-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "6600"
+      }
+    },
+    {
+      "id": "cat-2019-s2-qa-10",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 2,
+      "section": "qa",
+      "number": 10,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "Let f be a function such that f (mn) = f (m) f (n) for every positive integers m and n. If f (1), f (2) and f (3) are positive integers, f (1) < f (2), and f (24) = 54, then f (18) equals [TITA]",
+      "options": null,
+      "answer": "12",
+      "answer_text": null,
+      "topic_2iim": "Functions",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/quants-question-10.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": true,
+      "answer_value": "12",
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/98-let-f-be-a-function-such-that-f-mn-f-m-f-n-for-eve-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "12"
+      }
+    },
+    {
+      "id": "cat-2019-s2-qa-11",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 2,
+      "section": "qa",
+      "number": 11,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "Let A and B be two regular polygons having a and b sides, respectively. If b = 2a and each interior angle of B is 3/2 times each interior angle of A, then each interior angle, in degrees, of a regular polygon with a + b sides is [TITA]",
+      "options": null,
+      "answer": "150",
+      "answer_text": null,
+      "topic_2iim": "Geometry",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/quants-question-11.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": true,
+      "answer_value": "150",
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/97-let-a-and-b-be-two-regular-polygons-having-a-and-b-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "150"
+      }
+    },
+    {
+      "id": "cat-2019-s2-qa-12",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 2,
+      "section": "qa",
+      "number": 12,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "A cyclist leaves A at 10 am and reaches B at 11 am. Starting from 10:01 am, every minute a motorcycle leaves A and moves towards B. Forty-five such motorcycles reach B by 11 am. All motorcycles have the same speed. If the cyclist had doubled his speed, how many motorcycles would have reached B by the time the cyclist reached B?",
+      "options": [
+        "A) 22",
+        "B) 20",
+        "C) 15",
+        "D) 23"
+      ],
+      "answer": "C",
+      "answer_text": "15",
+      "topic_2iim": "Speed, Time & distance",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/quants-question-12.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/81-a-cyclist-leaves-a-at-10-am-and-reaches-b-at-11-am-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "15"
+      }
+    },
+    {
+      "id": "cat-2019-s2-qa-13",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 2,
+      "section": "qa",
+      "number": 13,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "Let A be a real number. Then the roots of the equation x<sup>2</sup> - 4x - log<sub>2</sub>A = 0 are real and distinct if and only if",
+      "options": [
+        "A) A < \\(\\frac{1}{16}\\)",
+        "B) A > \\(\\frac{1}{8}\\)",
+        "C) A > \\(\\frac{1}{16}\\)",
+        "D) A < \\(\\frac{1}{8}\\)"
+      ],
+      "answer": "C",
+      "answer_text": "\\(\\frac{1}{16}\\)",
+      "topic_2iim": "Linear & quadratic equations",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/quants-question-13.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/74-let-a-be-a-real-number-then-the-roots-of-the-equat-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "$$A > \\frac{1}{16}$$"
+      }
+    },
+    {
+      "id": "cat-2019-s2-qa-14",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 2,
+      "section": "qa",
+      "number": 14,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "John jogs on track A at 6 kmph and Mary jogs on track B at 7.5 kmph. The total length of tracks A and B is 325 metres. While John makes 9 rounds of track A, Mary makes 5 rounds of track B. In how many seconds will Mary make one round of track A? [TITA]",
+      "options": null,
+      "answer": "48",
+      "answer_text": null,
+      "topic_2iim": "Races",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/quants-question-14.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": true,
+      "answer_value": "48",
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/86-john-jogs-on-track-a-at-6-kmph-and-mary-jogs-on-tr-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "48"
+      }
+    },
+    {
+      "id": "cat-2019-s2-qa-15",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 2,
+      "section": "qa",
+      "number": 15,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "Anil alone can do a job in 20 days while Sunil alone can do it in 40 days. Anil starts the job, and after 3 days, Sunil joins him. Again, after a few more days, Bimal joins them and they together finish the job. If Bimal has done 10% of the job, then in how many days was the job done?",
+      "options": [
+        "A) 13",
+        "B) 12",
+        "C) 15",
+        "D) 14"
+      ],
+      "answer": "A",
+      "answer_text": "13",
+      "topic_2iim": "Work & time",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/quants-question-15.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/99-anil-alone-can-do-a-job-in-20-days-while-sunil-alo-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "13"
+      }
+    },
+    {
+      "id": "cat-2019-s2-qa-16",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 2,
+      "section": "qa",
+      "number": 16,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "In an examination, Rama's score was one-twelfth of the sum of the scores of Mohan and Anjali. After a review, the score of each of them increased by 6. The revised scores of Anjali, Mohan, and Rama were in the ratio 11:10:3. Then Anjali's score exceeded Rama's score by",
+      "options": [
+        "A) 26",
+        "B) 32",
+        "C) 24",
+        "D) 35"
+      ],
+      "answer": "B",
+      "answer_text": "32",
+      "topic_2iim": "Ratio & proportion",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/quants-question-16.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/100-in-an-examination-ramas-score-was-one-twelfth-of-t-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "32"
+      }
+    },
+    {
+      "id": "cat-2019-s2-qa-17",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 2,
+      "section": "qa",
+      "number": 17,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "In an examination, the score of A was 10% less than that of B, the score of B was 25% more than that of C, and the score of C was 20% less than that of D. If A scored 72, then the score of D was [TITA]",
+      "options": null,
+      "answer": "80",
+      "answer_text": null,
+      "topic_2iim": "Percentages",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/quants-question-17.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": true,
+      "answer_value": "80",
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/95-in-an-examination-the-score-of-a-was-10-less-than--x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "80"
+      }
+    },
+    {
+      "id": "cat-2019-s2-qa-18",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 2,
+      "section": "qa",
+      "number": 18,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "The base of a regular pyramid is a square and each of the other four sides is an equilateral triangle, length of each side being 20 cm. The vertical height of the pyramid, in cm, is",
+      "options": [
+        "A) 10\\(\\sqrt{2}\\)",
+        "B) 8\\(\\sqrt{3}\\)",
+        "C) 12",
+        "D) 5\\(\\sqrt{5}\\)"
+      ],
+      "answer": "A",
+      "answer_text": "10\\(\\sqrt{2}\\)",
+      "topic_2iim": "Mensuration",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/quants-question-18.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/76-the-base-of-a-regular-pyramid-is-a-square-and-each-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "$$10\\surd2$$"
+      }
+    },
+    {
+      "id": "cat-2019-s2-qa-19",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 2,
+      "section": "qa",
+      "number": 19,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "If x is a real number ,then \\(\\sqrt{log_{e}\\frac{4x - x^2}{3}}\\) is a real number if and only if",
+      "options": [
+        "A) -3 ≤ x ≤ 3",
+        "B) 1 ≤ x ≤ 2",
+        "C) 1 ≤ x ≤ 3",
+        "D) -1 ≤ x ≤ 3"
+      ],
+      "answer": "C",
+      "answer_text": "1 ≤ x ≤ 3",
+      "topic_2iim": "Logarithms",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/quants-question-19.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/78-if-x-is-a-real-number-then-sqrtlogedfrac4x-x23-is--x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "$$1 \\leq x \\leq 3$$"
+      }
+    },
+    {
+      "id": "cat-2019-s2-qa-20",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 2,
+      "section": "qa",
+      "number": 20,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "Let ABC be a right-angled triangle with hypotenuse BC of length 20 cm. If AP is perpendicular on BC, then the maximum possible length of AP, in cm, is",
+      "options": [
+        "A) 10",
+        "B) 8\\(\\sqrt{2}\\)",
+        "C) 6\\(\\sqrt{2}\\)",
+        "D) 5"
+      ],
+      "answer": "A",
+      "answer_text": "10",
+      "topic_2iim": "Geometry",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/quants-question-20.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/77-let-abc-be-a-right-angled-triangle-with-hypotenuse-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "10"
+      }
+    },
+    {
+      "id": "cat-2019-s2-qa-21",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 2,
+      "section": "qa",
+      "number": 21,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "Two ants A and B start from a point P on a circle at the same time, with A moving clock-wise and B moving anti-clockwise. They meet for the first time at 10:00 am when A has covered 60% of the track. If A returns to P at 10:12 am, then B returns to P at",
+      "options": [
+        "A) 10:27 am",
+        "B) 10:25 am",
+        "C) 10:45 am",
+        "D) 10:18 am"
+      ],
+      "answer": "A",
+      "answer_text": "10:27 am",
+      "topic_2iim": "Speed, time & distance",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/quants-question-21.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/71-two-ants-a-and-b-start-from-a-point-p-on-a-circle--x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "10:27 am"
+      }
+    },
+    {
+      "id": "cat-2019-s2-qa-22",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 2,
+      "section": "qa",
+      "number": 22,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "How many pairs (m,n) of positive integers satisfy the equation the equation m<sup>2</sup> + 105 = n<sup>2</sup>? [TITA]",
+      "options": null,
+      "answer": "4",
+      "answer_text": null,
+      "topic_2iim": "Number theory",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/quants-question-22.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": true,
+      "answer_value": "4",
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/70-how-many-pairs-m-n-of-positive-integers-satisfy-th-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "4"
+      }
+    },
+    {
+      "id": "cat-2019-s2-qa-23",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 2,
+      "section": "qa",
+      "number": 23,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "The salaries of Ramesh, Ganesh and Rajesh were in the ratio 6:5:7 in 2010, and in the ratio 3:4:3 in 2015. If Ramesh's salary increased by 25% during 2010-2015, then the percentage increase in Rajesh's salary during this period is closest to",
+      "options": [
+        "A) 7",
+        "B) 8",
+        "C) 9",
+        "D) 10"
+      ],
+      "answer": "A",
+      "answer_text": "7",
+      "topic_2iim": "Ratios and proportions",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/quants-question-23.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/96-the-salaries-of-ramesh-ganesh-and-rajesh-were-in-t-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "7"
+      }
+    },
+    {
+      "id": "cat-2019-s2-qa-24",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 2,
+      "section": "qa",
+      "number": 24,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "A man makes complete use of 405 cc of iron, 783 cc of aluminium, and 351 cc of copper to make a number of solid right circular cylinders of each type of metal. These cylinders have the same volume and each of these has radius 3 cm. If the total number of cylinders is to be kept at a minimum, then the total surface area of all these cylinders, in sq cm, is",
+      "options": [
+        "A) 1044(4 + π)",
+        "B) 8464π",
+        "C) 928π",
+        "D) 1026(1 + π)"
+      ],
+      "answer": "D",
+      "answer_text": "1026(1 + π)",
+      "topic_2iim": "Mensuration",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/quants-question-24.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/82-a-man-makes-complete-use-of-405-cc-of-iron-783-cc--x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "$$1026(1 + \\pi)$$"
+      }
+    },
+    {
+      "id": "cat-2019-s2-qa-25",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 2,
+      "section": "qa",
+      "number": 25,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "The quadratic equation x<sup>2</sup> + bx + c = 0 has two roots 4a and 3a, where a is an integer. Which of the following is a possible value of b<sup>2</sup> + c?",
+      "options": [
+        "A) 3721",
+        "B) 549",
+        "C) 361",
+        "D) 427"
+      ],
+      "answer": "B",
+      "answer_text": "549",
+      "topic_2iim": "Linear & quadratic equations",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/quants-question-25.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/75-the-quadratic-equation-x2-bx-c-0-has-two-roots-4a--x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "549"
+      }
+    },
+    {
+      "id": "cat-2019-s2-qa-26",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 2,
+      "section": "qa",
+      "number": 26,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "In a six-digit number, the sixth, that is, the rightmost, digit is the sum of the first three digits, the fifth digit is the sum of first two digits, the third digit is equal to the first digit, the second digit is twice the first digit and the fourth digit is the sum of fifth and sixth digits. Then, the largest possible value of the fourth digit is [TITA]",
+      "options": null,
+      "answer": "7",
+      "answer_text": null,
+      "topic_2iim": "Number theory",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/quants-question-26.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": true,
+      "answer_value": "7",
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/85-in-a-six-digit-number-the-sixth-that-is-the-rightm-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "7"
+      }
+    },
+    {
+      "id": "cat-2019-s2-qa-27",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 2,
+      "section": "qa",
+      "number": 27,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "Mukesh purchased 10 bicycles in 2017, all at the same price. He sold six of these at a profit of 25% and the remaining four at a loss of 25%. If he made a total profit of Rs. 2000, then his purchase price of a bicycle, in Rupees, was",
+      "options": [
+        "A) 2000",
+        "B) 6000",
+        "C) 8000",
+        "D) 4000"
+      ],
+      "answer": "D",
+      "answer_text": "4000",
+      "topic_2iim": "Profit & loss",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/quants-question-27.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/94-mukesh-purchased-10-bicycles-in-2017-all-at-the-sa-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "4000"
+      }
+    },
+    {
+      "id": "cat-2019-s2-qa-28",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 2,
+      "section": "qa",
+      "number": 28,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "The number of common terms in the two sequences: 15, 19, 23, 27, ...... , 415 and 14, 19, 24, 29, ...... , 464 is",
+      "options": [
+        "A) 20",
+        "B) 18",
+        "C) 21",
+        "D) 19"
+      ],
+      "answer": "A",
+      "answer_text": "20",
+      "topic_2iim": "Sequence & series",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/quants-question-28.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/92-the-number-of-common-terms-in-the-two-sequences-15-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "20"
+      }
+    },
+    {
+      "id": "cat-2019-s2-qa-29",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 2,
+      "section": "qa",
+      "number": 29,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "If (2n+1) + (2n+3) + (2n+5) + ... + (2n+47) = 5280 , then what is the value of 1+2+3+ ... +n ? [TITA]",
+      "options": null,
+      "answer": "4851",
+      "answer_text": null,
+      "topic_2iim": "Sequence & series",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/quants-question-29.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": true,
+      "answer_value": "4851",
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/89-if-2n-1-2n-3-2n-5-2n-47-5280-then-whatis-the-value-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "4851"
+      }
+    },
+    {
+      "id": "cat-2019-s2-qa-30",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 2,
+      "section": "qa",
+      "number": 30,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "The strength of a salt solution is p% if 100 ml of the solution contains p grams of salt. Each of three vessels A, B, C contains 500 ml of salt solution of strengths 10%, 22%, and 32%, respectively. Now, 100 ml of the solution in vessel A is transferred to vessel B. Then, 100 ml of the solution in vessel B is transferred to vessel C. Finally, 100 ml of the solution in vessel C is transferred to vessel A. The strength, in percentage, of the resulting solution in vessel A is",
+      "options": [
+        "A) 15",
+        "B) 12",
+        "C) 13",
+        "D) 14"
+      ],
+      "answer": "D",
+      "answer_text": "14",
+      "topic_2iim": "Mixtures",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/quants-question-30.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/80-the-strength-of-a-salt-solution-is-p-if-100-ml-of--x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "14"
+      }
+    },
+    {
+      "id": "cat-2019-s2-qa-31",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 2,
+      "section": "qa",
+      "number": 31,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "If 5<sup>x</sup> - 3<sup>y</sup> = 13438 and 5<sup>x-1</sup> + 3<sup>y+1</sup> = 9686 , then x+y equals [TITA]",
+      "options": null,
+      "answer": "13",
+      "answer_text": null,
+      "topic_2iim": "Exponents & Powers",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/quants-question-31.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": true,
+      "answer_value": "13",
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/79-if-5x-3y-13438-and-5x-1-3y-1-9686-then-x-y-equals-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "13"
+      }
+    },
+    {
+      "id": "cat-2019-s2-qa-32",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 2,
+      "section": "qa",
+      "number": 32,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "Amal invests Rs 12000 at 8% interest, compounded annually, and Rs 10000 at 6% interest, compounded semi-annually, both investments being for one year. Bimal invests his money at 7.5% simple interest for one year. If Amal and Bimal get the same amount of interest, then the amount, in Rupees, invested by Bimal is [TITA]",
+      "options": null,
+      "answer": "20920",
+      "answer_text": null,
+      "topic_2iim": "Simple interest & Compound interest",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/quants-question-32.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": true,
+      "answer_value": "20920",
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/68-amal-invests-rs-12000-at-8-interest-compounded-ann-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "20920"
+      }
+    },
+    {
+      "id": "cat-2019-s2-qa-33",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 2,
+      "section": "qa",
+      "number": 33,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "A shopkeeper sells two tables, each procured at cost price p, to Amal and Asim at a profit of 20% and at a loss of 20%, respectively. Amal sells his table to Bimal at a profit of 30%, while Asim sells his table to Barun at a loss of 30%. If the amounts paid by Bimal and Barun are x and y, respectively, then (x - y) / p equals",
+      "options": [
+        "A) 1",
+        "B) 1.2",
+        "C) 0.7",
+        "D) 0.50"
+      ],
+      "answer": "A",
+      "answer_text": "1",
+      "topic_2iim": "Profit & loss",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/quants-question-33.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": true,
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/90-a-shopkeeper-sells-two-tables-each-procured-at-cos-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "1"
+      }
+    },
+    {
+      "id": "cat-2019-s2-qa-34",
+      "exam": "CAT",
+      "year": 2019,
+      "slot": 2,
+      "section": "qa",
+      "number": 34,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "John gets Rs 57 per hour of regular work and Rs 114 per hour of overtime work. He works altogether 172 hours and his income from overtime hours is 15% of his income from regular hours. Then, for how many hours did he work overtime? [TITA]",
+      "options": null,
+      "answer": "12",
+      "answer_text": null,
+      "topic_2iim": "Work & time",
+      "node": null,
+      "stats_2iim": null,
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/quants-question-34.shtml",
+      "official_qid": null,
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2019-Question-Paper-Slot-2-Quant/"
+      },
+      "verified": true,
+      "answer_value": "12",
+      "verification": {
+        "source": "Cracku",
+        "url": "https://cracku.in/88-john-gets-rs-57-per-hour-of-regular-work-and-rs-11-x-cat-2019-slot-2",
+        "result": "match",
+        "cracku_answer": "12"
+      }
+    }
+  ]
+}

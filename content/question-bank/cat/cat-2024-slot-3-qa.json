@@ -1,0 +1,883 @@
+{
+  "exam": "CAT",
+  "year": 2024,
+  "slot": 3,
+  "section": "qa",
+  "source": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-Quant/",
+  "licence": "Real CAT questions (c) IIMs, as re-published free by 2IIM (c) 2IIM. Private study use in AHH only; do not republish.",
+  "scraped": "2026-11-01",
+  "count": 22,
+  "sets": [],
+  "questions": [
+    {
+      "id": "cat-2024-s3-qa-01",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 3,
+      "section": "qa",
+      "number": 1,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "The number of distinct integer solutions \\((x, y)\\) of the equation \\(|x+y|+|x-y|=2\\), is",
+      "options": null,
+      "answer": "8",
+      "answer_text": null,
+      "topic_2iim": "Inequalities",
+      "node": null,
+      "stats_2iim": {
+        "correct": 5.78,
+        "incorrect": 59.21,
+        "unattempted": 35.01
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-Quant/quants-question-1.shtml",
+      "official_qid": "332818624",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false,
+      "answer_value": "8",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2024-s3-qa-02",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 3,
+      "section": "qa",
+      "number": 2,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "For some constant real numbers \\(p, k\\) and \\(a\\), consider the following system of linear equations in \\(x\\) and \\(y\\) : $$ \\begin{aligned} & p x-4 y=2 \\\\ & 3 x+k y=a \\end{aligned} $$ A necessary condition for the system to have no solution for \\((x, y)\\), is",
+      "options": [
+        "A) \\(2 a+k \\neq 0\\)",
+        "B) \\(a p-6=0\\)",
+        "C) \\(a p+6=0\\)",
+        "D) \\(k p+12 \\neq 0\\)"
+      ],
+      "answer": "A",
+      "answer_text": "\\(2 a+k \\neq 0\\)",
+      "topic_2iim": "Linear Quadratic",
+      "node": null,
+      "stats_2iim": {
+        "correct": 25.16,
+        "incorrect": 23.12,
+        "unattempted": 51.73
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-Quant/quants-question-2.shtml",
+      "official_qid": "33281843",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2024-s3-qa-03",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 3,
+      "section": "qa",
+      "number": 3,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "If \\((a+b \\sqrt{3})^2=52+30 \\sqrt{3}\\), where \\(a\\) and \\(b\\) are natural numbers, then \\(a+b\\) equals",
+      "options": [
+        "A) 7",
+        "B) 10",
+        "C) 8",
+        "D) 9"
+      ],
+      "answer": "C",
+      "answer_text": "8",
+      "topic_2iim": "Linear Quadratic",
+      "node": null,
+      "stats_2iim": {
+        "correct": 47.48,
+        "incorrect": 6.57,
+        "unattempted": 45.95
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-Quant/quants-question-3.shtml",
+      "official_qid": "332818533",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2024-s3-qa-04",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 3,
+      "section": "qa",
+      "number": 4,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "A circular plot of land is divided into two regions by a chord of length \\(10 \\sqrt{3}\\) meters such that the chord subtends an angle of \\(120^{\\circ}\\) at the center. Then, the area, in square meters, of the smaller region is",
+      "options": [
+        "A) \\(25\\left(\\frac{4 \\pi}{3}+\\sqrt{3}\\right)\\)",
+        "B) \\(20\\left(\\frac{4 \\pi}{3}-\\sqrt{3}\\right)\\)",
+        "C) \\(25\\left(\\frac{4 \\pi}{3}-\\sqrt{3}\\right)\\)",
+        "D) \\(20\\left(\\frac{4 \\pi}{3}+\\sqrt{3}\\right)\\)"
+      ],
+      "answer": "C",
+      "answer_text": "\\(25\\left(\\frac{4 \\pi}{3}-\\sqrt{3}\\right)\\)",
+      "topic_2iim": "Geometry",
+      "node": null,
+      "stats_2iim": {
+        "correct": 23.51,
+        "incorrect": 6.06,
+        "unattempted": 70.42
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-Quant/quants-question-4.shtml",
+      "official_qid": "332818353",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2024-s3-qa-05",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 3,
+      "section": "qa",
+      "number": 5,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "In a group of 250 students, the percentage of girls was at least 44% and at most 60%. The rest of the students were boys. Each student opted for either swimming or running or both. If 50% of the boys and 80% of the girls opted for swimming while 70% of the boys and 60% of the girls opted for running, then the minimum and maximum possible number of students who opted for both swimming and running, are",
+      "options": [
+        "A) 72 and 80, respectively",
+        "B) 75 and 90, respectively",
+        "C) 72 and 88, respectively",
+        "D) 75 and 96, respectively"
+      ],
+      "answer": "A",
+      "answer_text": "72 and 80, respectively",
+      "topic_2iim": "Percents Profits SICI",
+      "node": null,
+      "stats_2iim": {
+        "correct": 10.71,
+        "incorrect": 8.44,
+        "unattempted": 80.85
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-Quant/quants-question-5.shtml",
+      "official_qid": "332818359",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2024-s3-qa-06",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 3,
+      "section": "qa",
+      "number": 6,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "If \\(10^{68}\\) is divided by 13 , the remainder is",
+      "options": [
+        "A) 8",
+        "B) 9",
+        "C) 4",
+        "D) 5"
+      ],
+      "answer": "B",
+      "answer_text": "9",
+      "topic_2iim": "Remainders",
+      "node": null,
+      "stats_2iim": {
+        "correct": 41.87,
+        "incorrect": 13.37,
+        "unattempted": 44.76
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-Quant/quants-question-6.shtml",
+      "official_qid": "332818562",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2024-s3-qa-07",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 3,
+      "section": "qa",
+      "number": 7,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "The midpoints of sides AB, BC, and AC in △ ABC are M, N, and P, respectively. The medians drawn from A, B, and C intersect the line segments MP, MN and NP at X, Y, and Z, respectively. If the area of △ ABC is 1440 sq cm, then the area, in sq cm, of △ XYZ is",
+      "options": null,
+      "answer": "90",
+      "answer_text": null,
+      "topic_2iim": "Geometry",
+      "node": null,
+      "stats_2iim": {
+        "correct": 18.24,
+        "incorrect": 34.79,
+        "unattempted": 46.97
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-Quant/quants-question-7.shtml",
+      "official_qid": "332818602",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false,
+      "answer_value": "90",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2024-s3-qa-08",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 3,
+      "section": "qa",
+      "number": 8,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "After two successive increments, Gopal's salary became 187.5% of his initial salary. If the percentage of salary increase in the second increment was twice of that in the first increment, then the percentage of salary increase in the first increment was",
+      "options": [
+        "A) 27.5",
+        "B) 30",
+        "C) 25",
+        "D) 20"
+      ],
+      "answer": "C",
+      "answer_text": "25",
+      "topic_2iim": "Percents Profits SICI",
+      "node": null,
+      "stats_2iim": {
+        "correct": 58.75,
+        "incorrect": 14.33,
+        "unattempted": 26.91
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-Quant/quants-question-8.shtml",
+      "official_qid": "332818546",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2024-s3-qa-09",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 3,
+      "section": "qa",
+      "number": 9,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "Sam can complete a job in 20 days when working alone. Mohit is twice as fast as Sam and thrice as fast as Ayna in the same job. They undertake a job with an arrangement where Sam and Mohit work together on the first day, Sam and Ayna on the second day, Mohit and Ayna on the third day, and this three-day pattern is repeated till the work gets completed. Then, the fraction of total work done by Sam is",
+      "options": [
+        "A) 3/20",
+        "B) 3/10",
+        "C) 1/20",
+        "D) 1/5"
+      ],
+      "answer": "B",
+      "answer_text": "3/10",
+      "topic_2iim": "Pipes Cisterns Work Time",
+      "node": null,
+      "stats_2iim": {
+        "correct": 55.18,
+        "incorrect": 16.83,
+        "unattempted": 27.99
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-Quant/quants-question-9.shtml",
+      "official_qid": "332818264",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2024-s3-qa-10",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 3,
+      "section": "qa",
+      "number": 10,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "A certain amount of water was poured into a 300 litre container and the remaining portion of the container was filled with milk. Then an amount of this solution was taken out from the container which was twice the volume of water that was earlier poured into it, and water was poured to refill the container again. If the resulting solution contains 72% milk, then the amount of water, in litres, that was initially poured into the container was",
+      "options": null,
+      "answer": "30",
+      "answer_text": null,
+      "topic_2iim": "Ratios Mixtures Averages",
+      "node": null,
+      "stats_2iim": {
+        "correct": 9.01,
+        "incorrect": 37.28,
+        "unattempted": 53.71
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-Quant/quants-question-10.shtml",
+      "official_qid": "332818612",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false,
+      "answer_value": "30",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2024-s3-qa-11",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 3,
+      "section": "qa",
+      "number": 11,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "Aman invests Rs 4000 in a bank at a certain rate of interest, compounded annually. If the ratio of the value of the investment after 3 years to the value of the investment after 5 years is 25 : 36, then the minimum number of years required for the value of the investment to exceed Rs 20000 is",
+      "options": null,
+      "answer": "9",
+      "answer_text": null,
+      "topic_2iim": "Percents Profits SICI",
+      "node": null,
+      "stats_2iim": {
+        "correct": 33.71,
+        "incorrect": 36.6,
+        "unattempted": 29.69
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-Quant/quants-question-11.shtml",
+      "official_qid": "332818613",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false,
+      "answer_value": "9",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2024-s3-qa-12",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 3,
+      "section": "qa",
+      "number": 12,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "Gopi marks a price on a product in order to make 20% profit. Ravi gets 10% discount on this marked price, and thus saves Rs 15. Then, the profit, in rupees, made by Gopi by selling the product to Ravi, is",
+      "options": [
+        "A) 25",
+        "B) 10",
+        "C) 15",
+        "D) 20"
+      ],
+      "answer": "B",
+      "answer_text": "10",
+      "topic_2iim": "Percents Profits SICI",
+      "node": null,
+      "stats_2iim": {
+        "correct": 58.87,
+        "incorrect": 23.68,
+        "unattempted": 17.45
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-Quant/quants-question-12.shtml",
+      "official_qid": "33281877",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2024-s3-qa-13",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 3,
+      "section": "qa",
+      "number": 13,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "The average of three distinct real numbers is 28. If the smallest number is increased by 7 and the largest number is reduced by 10, the order of the numbers remains unchanged, and the new arithmetic mean becomes 2 more than the middle number, while the difference between the largest and the smallest numbers becomes 64. Then, the largest number in the original set of three numbers is",
+      "options": null,
+      "answer": "70",
+      "answer_text": null,
+      "topic_2iim": "Ratios Mixtures Averages",
+      "node": null,
+      "stats_2iim": {
+        "correct": 17.22,
+        "incorrect": 36.6,
+        "unattempted": 46.18
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-Quant/quants-question-13.shtml",
+      "official_qid": "332818619",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false,
+      "answer_value": "70",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2024-s3-qa-14",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 3,
+      "section": "qa",
+      "number": 14,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "The number of all positive integers up to 500 with non-repeating digits is",
+      "options": null,
+      "answer": "378",
+      "answer_text": null,
+      "topic_2iim": "Combinatorics",
+      "node": null,
+      "stats_2iim": {
+        "correct": 11.39,
+        "incorrect": 46.74,
+        "unattempted": 41.87
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-Quant/quants-question-14.shtml",
+      "official_qid": "332818622",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false,
+      "answer_value": "378",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2024-s3-qa-15",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 3,
+      "section": "qa",
+      "number": 15,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "A train travelled a certain distance at a uniform speed. Had the speed been 6 km per hour more, it would have needed 4 hours less. Had the speed been 6 km per hour less, it would have needed 6 hours more. The distance, in km, travelled by the train is",
+      "options": [
+        "A) 780",
+        "B) 720",
+        "C) 640",
+        "D) 800"
+      ],
+      "answer": "B",
+      "answer_text": "720",
+      "topic_2iim": "Speed Time Distance Races",
+      "node": null,
+      "stats_2iim": {
+        "correct": 43.74,
+        "incorrect": 6.35,
+        "unattempted": 49.92
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-Quant/quants-question-15.shtml",
+      "official_qid": "332818567",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2024-s3-qa-16",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 3,
+      "section": "qa",
+      "number": 16,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "If \\(3^a=4,4^b=5,5^c=6,6^d=7,7^e=8\\) and \\(8^f=9\\), then the value of the product abcdef is",
+      "options": null,
+      "answer": "2",
+      "answer_text": null,
+      "topic_2iim": "Logarithms Exponents",
+      "node": null,
+      "stats_2iim": {
+        "correct": 36.03,
+        "incorrect": 25.89,
+        "unattempted": 38.07
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-Quant/quants-question-16.shtml",
+      "official_qid": "332818630",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false,
+      "answer_value": "2",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2024-s3-qa-17",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 3,
+      "section": "qa",
+      "number": 17,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "Consider the sequence \\(t_1=1, t_2=-1\\) and \\(t_n=\\left(\\frac{n-3}{n-1}\\right) t_{n-2}\\) for \\(n \\geq 3\\). Then, the value of the sum \\(\\frac{1}{t_2}+\\frac{1}{t_4}+\\frac{1}{t_6}+\\cdots+\\frac{1}{t_{2022}}+\\frac{1}{t_{2024}}\\), is",
+      "options": [
+        "A) -1023132",
+        "B) -1022121",
+        "C) -1024144",
+        "D) -1026169"
+      ],
+      "answer": "C",
+      "answer_text": "-1024144",
+      "topic_2iim": "Progressions",
+      "node": null,
+      "stats_2iim": {
+        "correct": 8.39,
+        "incorrect": 5.38,
+        "unattempted": 86.23
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-Quant/quants-question-17.shtml",
+      "official_qid": "332818362",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2024-s3-qa-18",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 3,
+      "section": "qa",
+      "number": 18,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": null,
+      "question": "The number of distinct real values of \\(x\\), satisfying the equation \\(\\max \\{x, 2\\}-\\min \\{x, 2\\}=|x+2|-|x-2|\\), is",
+      "options": null,
+      "answer": "2",
+      "answer_text": null,
+      "topic_2iim": "Inequalities",
+      "node": null,
+      "stats_2iim": {
+        "correct": 14.28,
+        "incorrect": 29.35,
+        "unattempted": 56.37
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-Quant/quants-question-18.shtml",
+      "official_qid": "332818617",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false,
+      "answer_value": "2",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2024-s3-qa-19",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 3,
+      "section": "qa",
+      "number": 19,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "Rajesh and Vimal own 20 hectares and 30 hectares of agricultural land, respectively, which are entirely covered by wheat and mustard crops. The cultivation area of wheat and mustard in the land owned by Vimal are in the ratio of 5 : 3. If the total cultivation area of wheat and mustard are in the ratio 11 : 9, then the ratio of cultivation area of wheat and mustard in the land owned by Rajesh is",
+      "options": [
+        "A) 1 : 1",
+        "B) 7 : 9",
+        "C) 4 : 3",
+        "D) 3 : 7"
+      ],
+      "answer": "B",
+      "answer_text": "7 : 9",
+      "topic_2iim": "Ratios Mixtures Averages",
+      "node": null,
+      "stats_2iim": {
+        "correct": 50.76,
+        "incorrect": 18.41,
+        "unattempted": 30.82
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-Quant/quants-question-19.shtml",
+      "official_qid": "332818141",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2024-s3-qa-20",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 3,
+      "section": "qa",
+      "number": 20,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "For any non-zero real number \\(x\\), let \\(f(x)+2 f\\left(\\frac{1}{x}\\right)=3 x\\). Then, the sum of all possible values of \\(x\\) for which \\(f(x)=3\\), is",
+      "options": [
+        "A) 2",
+        "B) -3",
+        "C) -2",
+        "D) 3"
+      ],
+      "answer": "B",
+      "answer_text": "-3",
+      "topic_2iim": "Functions",
+      "node": null,
+      "stats_2iim": {
+        "correct": 9.01,
+        "incorrect": 9.24,
+        "unattempted": 81.76
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-Quant/quants-question-20.shtml",
+      "official_qid": "332818139",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2024-s3-qa-21",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 3,
+      "section": "qa",
+      "number": 21,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "A regular octagon ABCDEFGH has sides of length 6 cm each. Then the area, in sq. cm , of the square \\(A C E G\\) is",
+      "options": [
+        "A) \\(36(1+\\sqrt{2})\\)",
+        "B) \\(72(1+\\sqrt{2})\\)",
+        "C) \\(36(2+\\sqrt{2})\\)",
+        "D) \\(72(2+\\sqrt{2})\\)"
+      ],
+      "answer": "C",
+      "answer_text": "\\(36(2+\\sqrt{2})\\)",
+      "topic_2iim": "Geometry",
+      "node": null,
+      "stats_2iim": {
+        "correct": 12.07,
+        "incorrect": 15.07,
+        "unattempted": 72.86
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-Quant/quants-question-21.shtml",
+      "official_qid": "332818143",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2024-s3-qa-22",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 3,
+      "section": "qa",
+      "number": 22,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": null,
+      "question": "The sum of all distinct real values of \\(x\\) that satisfy the equation \\(10^x+\\frac{4}{10^x}=\\frac{17}{2}\\), is",
+      "options": [
+        "A) \\(2 \\log _{10} 2\\)",
+        "B) \\(3 \\log _{10} 2\\)",
+        "C) \\(4 \\log _{10} 2\\)",
+        "D) \\(\\log _{10} 2\\)"
+      ],
+      "answer": "A",
+      "answer_text": "\\(2 \\log _{10} 2\\)",
+      "topic_2iim": "Logarithms Exponents",
+      "node": null,
+      "stats_2iim": {
+        "correct": 7.03,
+        "incorrect": 8.95,
+        "unattempted": 84.02
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-Quant/quants-question-22.shtml",
+      "official_qid": "332818166",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-3-Quant/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    }
+  ]
+}

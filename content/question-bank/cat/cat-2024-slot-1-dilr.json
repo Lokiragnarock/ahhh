@@ -1,0 +1,896 @@
+{
+  "exam": "CAT",
+  "year": 2024,
+  "slot": 1,
+  "section": "dilr",
+  "source": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-DILR/",
+  "licence": "Real CAT questions (c) IIMs, as re-published free by 2IIM (c) 2IIM. Private study use in AHH only; do not republish.",
+  "scraped": "2026-11-01",
+  "count": 22,
+  "sets": [
+    {
+      "id": "cat-2024-s1-dilr-set1",
+      "text": "Six web surfers M, N, O, P, X, and Y each had 30 stars which they distributed among four bloggers A, B, C, and D. The number of stars received by A and B from the six web surfers is shown in the figure below.\n\n![figure](img/2024-s1-dilr/32842_332818_0_25976760_q8583.jpg)\n\nThe following additional facts are known regarding the number of stars received by the bloggers from the surfers.\n\n1. The numbers of stars received by the bloggers from the surfers were all multiples of 5 (including 0).\n2. The total numbers of stars received by the bloggers were the same.\n3. Each blogger received a different number of stars from M.\n4. Two surfers gave all their stars to a single blogger.\n5. D received more stars than C from Y."
+    },
+    {
+      "id": "cat-2024-s1-dilr-set2",
+      "text": "The chart below provides complete information about the number of countries visited by Dheeraj, Samantha and Nitesh, in Asia, Europe and the rest of the world (ROW).\n\n![figure](img/2024-s1-dilr/32842_332818_0_26395165_sa11111.jpg)\n\nThe following additional facts are known about the countries visited by them.\n\n1. 32 countries were visited by at least one of them.\n2. USA (in ROW) is the only country that was visited by all three of them.\n3. China (in Asia) is the only country that was visited by both Dheeraj and Nitesh, but not by Samantha.\n4. France (in Europe) is the only country outside Asia, which was visited by both Dheeraj and Samantha, but not by Nitesh.\n5. Half of the countries visited by both Samantha and Nitesh are in Europe."
+    },
+    {
+      "id": "cat-2024-s1-dilr-set3",
+      "text": "The game of QUIET is played between two teams. Six teams, numbered 1, 2, 3, 4, 5, and 6, play in a QUIET tournament. These teams are divided equally into two groups. In the tournament, each team plays every other team in the same group only once, and each team in the other group exactly twice. The tournament has several rounds, each of which consists of a few games. Every team plays exactly one game in each round.\n\nThe following additional facts are known about the schedule of games in the tournament.\n1. Each team played against a team from the other group in Round 8.\n2. In Round 4 and Round 7, the match-ups, that is the pair of teams playing against each other, were identical. In Round 5 and Round 8, the match-ups were identical.\n3. Team 4 played Team 6 in both Round 1 and Round 2.\n4. Team 1 played Team 5 ONLY once and that was in Round 2.\n5. Team 3 played Team 4 in Round 3. Team 1 played Team 6 in Round 6.\n6. In Round 8, Team 3 played Team 6, while Team 2 played Team 5."
+    },
+    {
+      "id": "cat-2024-s1-dilr-set4",
+      "text": "The chart below shows the price data for seven shares – A, B, C, D, E, F, and G as a candlestick plot for a particular day. The vertical axis shows the price of the share in rupees. A share whose closing price (price at the end of the day) is more than its opening price (price at the start of the day) is called a bullish share; otherwise, it is called a bearish share. All bullish and bearish shares are shown in green and red colour respectively.\n\n![figure](img/2024-s1-dilr/32842_332818_0_25976758_kitkat_dilr_nd.jpg)"
+    },
+    {
+      "id": "cat-2024-s1-dilr-set5",
+      "text": "Two students, Amiya and Ramya are the only candidates in an election for the position of class representative. Students will vote based on the intensity level of Amiya's and Ramya's campaigns and the type of campaigns they run. Each campaign is said to have a level of 1 if it is a staid campaign and a level of 2 if it is a vigorous campaign. Campaigns can be of two types, they can either focus on issues, or on attacking the other candidate.\n\nIf Amiya and Ramya both run campaigns focusing on issues, then\n• The percentage of students voting in the election will be 20 times the sum of the levels of campaigning of the two students. For example, if Amiya and Ramya both run vigorous campaigns, then 20 *×*(2+2)%, that is, 80% of the students will vote in the election.\n• Among voting students, the percentage of votes for each candidate will be proportional to the levels of their campaigns. For example, if Amiya runs a staid (i.e., level 1) campaign while Ramya runs a vigorous (i.e., level 2) campaign, then Amiya will receive 1/3 of the votes cast, and Ramya will receive the other 2/3.\n\nThe above-mentioned percentages change as follows if at least one of them runs a campaign attacking their opponent.\n• If Amiya runs a campaign attacking Ramya and Ramya runs a campaign focusing on issues, then 10% of the students who would have otherwise voted for Amiya will vote for Ramya, and another 10% who would have otherwise voted for Amiya, will not vote at all.\n• If Ramya runs a campaign attacking Amiya and Amiya runs a campaign focusing on issues, then 20% of the students who would have otherwise voted for Ramya will vote for Amiya, and another 5% who would have otherwise voted for Ramya, will not vote at all.\n• If both run campaigns attacking each other, then 10% of the students who would have otherwise voted for them had they run campaigns focusing on issues, will not vote at all."
+    }
+  ],
+  "questions": [
+    {
+      "id": "cat-2024-s1-dilr-01",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 1,
+      "section": "dilr",
+      "number": 1,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2024-s1-dilr-set1",
+      "question": "What was the total number of stars received by D?",
+      "options": null,
+      "answer": "45",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 76.25,
+        "incorrect": 12.13,
+        "unattempted": 11.62
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-DILR/dilr-question-1.shtml",
+      "official_qid": "332818728",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false,
+      "answer_value": "45",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2024-s1-dilr-02",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 1,
+      "section": "dilr",
+      "number": 2,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2024-s1-dilr-set1",
+      "question": "What was the number of stars received by D from Y?",
+      "options": [
+        "A) 5",
+        "B) cannot be determined",
+        "C) 0",
+        "D) 10"
+      ],
+      "answer": "A",
+      "answer_text": "5",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 75.13,
+        "incorrect": 7.19,
+        "unattempted": 17.69
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-DILR/dilr-question-2.shtml",
+      "official_qid": "332818585",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2024-s1-dilr-03",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 1,
+      "section": "dilr",
+      "number": 3,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2024-s1-dilr-set1",
+      "question": "How many surfers distributed their stars among exactly 2 bloggers?",
+      "options": null,
+      "answer": "2",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 71.96,
+        "incorrect": 16.71,
+        "unattempted": 11.34
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-DILR/dilr-question-3.shtml",
+      "official_qid": "332818729",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false,
+      "answer_value": "2",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2024-s1-dilr-04",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 1,
+      "section": "dilr",
+      "number": 4,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2024-s1-dilr-set1",
+      "question": "Which of the following can be determined with certainty?\n\n1)The number of stars received by C from M\n2) The number of stars received by D from O",
+      "options": [
+        "A) Neither I nor II",
+        "B) Only I",
+        "C) Only II",
+        "D) Both I and II"
+      ],
+      "answer": "B",
+      "answer_text": "Only I",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 47.41,
+        "incorrect": 27.06,
+        "unattempted": 25.52
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-DILR/dilr-question-4.shtml",
+      "official_qid": "332818588",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2024-s1-dilr-05",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 1,
+      "section": "dilr",
+      "number": 5,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2024-s1-dilr-set2",
+      "question": "How many countries in Asia were visited by at least one of Dheeraj, Samantha and Nitesh?",
+      "options": null,
+      "answer": "3",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 35.51,
+        "incorrect": 36.68,
+        "unattempted": 27.81
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-DILR/dilr-question-5.shtml",
+      "official_qid": "332818723",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false,
+      "answer_value": "3",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2024-s1-dilr-06",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 1,
+      "section": "dilr",
+      "number": 6,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2024-s1-dilr-set2",
+      "question": "How many countries in Europe were visited only by Nitesh?",
+      "options": null,
+      "answer": "2",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 12.97,
+        "incorrect": 56.0,
+        "unattempted": 31.03
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-DILR/dilr-question-6.shtml",
+      "official_qid": "332818724",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false,
+      "answer_value": "2",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2024-s1-dilr-07",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 1,
+      "section": "dilr",
+      "number": 7,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2024-s1-dilr-set2",
+      "question": "How many countries in the ROW were visited by both Nitesh and Samantha?",
+      "options": null,
+      "answer": "4",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 21.93,
+        "incorrect": 45.87,
+        "unattempted": 32.2
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-DILR/dilr-question-7.shtml",
+      "official_qid": "332818725",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false,
+      "answer_value": "4",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2024-s1-dilr-08",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 1,
+      "section": "dilr",
+      "number": 8,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2024-s1-dilr-set2",
+      "question": "How many countries in Europe were visited by exactly one of Dheeraj, Samantha and Nitesh?",
+      "options": [
+        "A) 12",
+        "B) 14",
+        "C) 10",
+        "D) 5"
+      ],
+      "answer": "A",
+      "answer_text": "12",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 7.05,
+        "incorrect": 12.65,
+        "unattempted": 80.31
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-DILR/dilr-question-8.shtml",
+      "official_qid": "332818581",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2024-s1-dilr-09",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 1,
+      "section": "dilr",
+      "number": 9,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2024-s1-dilr-set3",
+      "question": "How many rounds were there in the tournament?",
+      "options": null,
+      "answer": "8",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 30.84,
+        "incorrect": 28.32,
+        "unattempted": 40.83
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-DILR/dilr-question-9.shtml",
+      "official_qid": "332818694",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false,
+      "answer_value": "8",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2024-s1-dilr-10",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 1,
+      "section": "dilr",
+      "number": 10,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2024-s1-dilr-set3",
+      "question": "What is the number of the team that played Team 1 in Round 5?",
+      "options": null,
+      "answer": "4",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 27.34,
+        "incorrect": 29.12,
+        "unattempted": 43.54
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-DILR/dilr-question-10.shtml",
+      "official_qid": "332818693",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false,
+      "answer_value": "4",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2024-s1-dilr-11",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 1,
+      "section": "dilr",
+      "number": 11,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2024-s1-dilr-set3",
+      "question": "Which team among the teams numbered 2, 3, 4, and 5 was not part of the same group?",
+      "options": [
+        "A) 5",
+        "B) 2",
+        "C) 4",
+        "D) 3"
+      ],
+      "answer": "A",
+      "answer_text": "5",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 23.33,
+        "incorrect": 5.37,
+        "unattempted": 71.3
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-DILR/dilr-question-11.shtml",
+      "official_qid": "332818208",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2024-s1-dilr-12",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 1,
+      "section": "dilr",
+      "number": 12,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2024-s1-dilr-set3",
+      "question": "What is the number of the team that played Team 1 in Round 7?",
+      "options": null,
+      "answer": "3",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 20.58,
+        "incorrect": 30.19,
+        "unattempted": 49.23
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-DILR/dilr-question-12.shtml",
+      "official_qid": "332818695",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false,
+      "answer_value": "3",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2024-s1-dilr-13",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 1,
+      "section": "dilr",
+      "number": 13,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2024-s1-dilr-set3",
+      "question": "What is the number of the team that played Team 6 in Round 3?",
+      "options": null,
+      "answer": "5",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 19.88,
+        "incorrect": 29.72,
+        "unattempted": 50.4
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-DILR/dilr-question-13.shtml",
+      "official_qid": "332818696",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false,
+      "answer_value": "5",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2024-s1-dilr-14",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 1,
+      "section": "dilr",
+      "number": 14,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2024-s1-dilr-set4",
+      "question": "Daily Share Price Variability (SPV) is defined as (Day's high price - Day's low price) / (Average of the opening and closing prices during the day). Which among the shares A, C, D and F had the highest SPV on that day?",
+      "options": [
+        "A) A",
+        "B) F",
+        "C) D",
+        "D) C"
+      ],
+      "answer": "C",
+      "answer_text": "D",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 70.04,
+        "incorrect": 13.72,
+        "unattempted": 16.24
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-DILR/dilr-question-14.shtml",
+      "official_qid": "332818415",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2024-s1-dilr-15",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 1,
+      "section": "dilr",
+      "number": 15,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2024-s1-dilr-set4",
+      "question": "Daily Share Price Variability (SPV) is defined as (Day's high price - Day's low price) / (Average of the opening and closing prices during the day). How many shares had an SPV greater than 0.5 on that day?",
+      "options": null,
+      "answer": "4",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 52.68,
+        "incorrect": 34.16,
+        "unattempted": 13.16
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-DILR/dilr-question-15.shtml",
+      "official_qid": "332818730",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false,
+      "answer_value": "4",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2024-s1-dilr-16",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 1,
+      "section": "dilr",
+      "number": 16,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2024-s1-dilr-set4",
+      "question": "Daily loss for a share is defined as (Opening price – Closing price) / (Opening price). Which among the shares A, B, F and G had the highest daily loss on that day?",
+      "options": [
+        "A) B",
+        "B) G",
+        "C) F",
+        "D) A"
+      ],
+      "answer": "D",
+      "answer_text": "A",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 56.18,
+        "incorrect": 24.45,
+        "unattempted": 19.37
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-DILR/dilr-question-16.shtml",
+      "official_qid": "332818417",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2024-s1-dilr-17",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 1,
+      "section": "dilr",
+      "number": 17,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2024-s1-dilr-set4",
+      "question": "What would have been the percentage wealth gain for a trader, who bought equal numbers of all bullish shares at opening price and sold them at their day's high?",
+      "options": [
+        "A) 100%",
+        "B) 80%",
+        "C) 72%",
+        "D) 50%"
+      ],
+      "answer": "B",
+      "answer_text": "80%",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 55.11,
+        "incorrect": 10.5,
+        "unattempted": 34.39
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-DILR/dilr-question-17.shtml",
+      "official_qid": "332818418",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2024-s1-dilr-18",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 1,
+      "section": "dilr",
+      "number": 18,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2024-s1-dilr-set5",
+      "question": "If both of them run staid campaigns attacking the other, then what percentage of students will vote in the election?",
+      "options": [
+        "A) 60%",
+        "B) 64%",
+        "C) 40%",
+        "D) 36%"
+      ],
+      "answer": "D",
+      "answer_text": "36%",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 14.42,
+        "incorrect": 5.27,
+        "unattempted": 80.31
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-DILR/dilr-question-18.shtml",
+      "official_qid": "332818382",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2024-s1-dilr-19",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 1,
+      "section": "dilr",
+      "number": 19,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2024-s1-dilr-set5",
+      "question": "What is the minimum percentage of students who will vote in the election?",
+      "options": [
+        "A) 38%",
+        "B) 36%",
+        "C) 32%",
+        "D) 40%"
+      ],
+      "answer": "B",
+      "answer_text": "36%",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 12.88,
+        "incorrect": 4.01,
+        "unattempted": 83.11
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-DILR/dilr-question-19.shtml",
+      "official_qid": "332818378",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2024-s1-dilr-20",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 1,
+      "section": "dilr",
+      "number": 20,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2024-s1-dilr-set5",
+      "question": "If Amiya runs a campaign focusing on issues, then what is the maximum percentage of votes that she can get?",
+      "options": [
+        "A) 48%",
+        "B) 36%",
+        "C) 44%",
+        "D) 40%"
+      ],
+      "answer": "A",
+      "answer_text": "48%",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 9.61,
+        "incorrect": 6.21,
+        "unattempted": 84.18
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-DILR/dilr-question-20.shtml",
+      "official_qid": "332818379",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2024-s1-dilr-21",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 1,
+      "section": "dilr",
+      "number": 21,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2024-s1-dilr-set5",
+      "question": "If Ramya runs a campaign attacking Amiya, then what is the minimum percentage of votes that she is guaranteed to get?",
+      "options": [
+        "A) 15%",
+        "B) 18%",
+        "C) 12%",
+        "D) 30%"
+      ],
+      "answer": "A",
+      "answer_text": "15%",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 10.69,
+        "incorrect": 3.73,
+        "unattempted": 85.58
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-DILR/dilr-question-21.shtml",
+      "official_qid": "332818380",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2024-s1-dilr-22",
+      "exam": "CAT",
+      "year": 2024,
+      "slot": 1,
+      "section": "dilr",
+      "number": 22,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2024-s1-dilr-set5",
+      "question": "What is the maximum possible voting margin with which one of the candidates can win?",
+      "options": [
+        "A) 20%",
+        "B) 28%",
+        "C) 26%",
+        "D) 29%"
+      ],
+      "answer": "D",
+      "answer_text": "29%",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 6.53,
+        "incorrect": 4.01,
+        "unattempted": 89.45
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-DILR/dilr-question-22.shtml",
+      "official_qid": "332818381",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2024-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    }
+  ]
+}

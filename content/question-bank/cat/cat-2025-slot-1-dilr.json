@@ -1,0 +1,892 @@
+{
+  "exam": "CAT",
+  "year": 2025,
+  "slot": 1,
+  "section": "dilr",
+  "source": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-DILR/",
+  "licence": "Real CAT questions (c) IIMs, as re-published free by 2IIM (c) 2IIM. Private study use in AHH only; do not republish.",
+  "scraped": "2026-11-01",
+  "count": 22,
+  "sets": [
+    {
+      "id": "cat-2025-s1-dilr-set1",
+      "text": "A train travels from Station A to Station E, passing through stations B, C, and D, in that order. The train has a seating capacity of 200. A ticket may be booked from any station to any other station ahead on the route, but not to any earlier station.\n\nA ticket from one station to another reserves one seat on every intermediate segment of the route. For example, a ticket from B to E reserves a seat in the intermediate segments B – C, C – D, and D – E.\n\nThe occupancy factor for a segment is the total number of seats reserved in the segment as a percentage of the seating capacity. The total number of seats reserved for any segment cannot exceed 200.\n\nThe following information is known.\n1. Segment C – D had an occupancy factor of 95%. Only segment B – C had a higher occupancy factor.\n2. Exactly 40 tickets were booked from B to C and 30 tickets were booked from B to E.\n3. Among the seats reserved on segment D – E, exactly four-sevenths were from stations before C.\n4. The number of tickets booked from A to C was equal to that booked from A to E, and it was higher than that from B to E.\n5. No tickets were booked from A to B, from B to D and from D to E.\n6. The number of tickets booked for any segment was a multiple of 10."
+    },
+    {
+      "id": "cat-2025-s1-dilr-set2",
+      "text": "At InnovateX, six employees, Asha, Bunty, Chintu, Dolly, Eklavya, and Falguni, were split into two groups of three each: Elite led by Manager Kuku, and Novice led by Manager Lalu.\n\nAt the end of each quarter, Kuku and Lalu handed out ratings to all members in their respective groups. In each group, each employee received a distinct integer rating from 1 to 3.\n\nThe score for an employee at the end of a quarter is defined as their cumulative rating from the beginning of the year. At the end of each quarter the employee in Novice with the highest score was promoted to Elite, and the employee in Elite with the minimum score was demoted to Novice. If there was a tie in scores, the employee with a higher rating in the latest quarter was ranked higher.\n\n1. Asha, Bunty, and Chintu were in Elite at the beginning of Quarter 1. All of them were in Novice at the beginning of Quarter 4.\n2. Dolly and Falguni were the only employees who got the same rating across all the quarters.\n3. The following is known about ratings given by Lalu:\n• Bunty received a rating of 1 in Quarter 2.\n• Asha and Dolly received ratings of 1 and 2, respectively, in Quarter 3."
+    },
+    {
+      "id": "cat-2025-s1-dilr-set3",
+      "text": "A round table has seven chairs around it. The chairs are numbered 1 through 7 in a clockwise direction. Four friends, Aslam, Bashir, Chhavi, and Davies, sit on four of the chairs. In the starting position, Aslam and Chhavi are sitting next to each other, while for Bashir as well as Davies, there are empty chairs on either side of the chairs that are sitting on.\n\nThe friends take turns moving either clockwise or counterclockwise from their chair. The friend who has to move in a turn occupies the first empty chair in whichever direction (s)he chooses to move. Aslam moves first (Turn 1), followed by Bashir, Chhavi, and Davies (Turns 2, 3, and 4, respectively). Then Aslam moves again followed by Bashir, and Chhavi (Turns 5, 6, and 7, respectively).\n\nThe following information is known.\n\n1. The four friends occupy adjacent chairs only at the end of Turn 2 and Turn 6.\n2. Davies occupies Chair 2 after Turn 1 and Chair 4 after Turn 5, and Chhavi occupies Chair 7 after Turn 2."
+    },
+    {
+      "id": "cat-2025-s1-dilr-set4",
+      "text": "Five countries engage in trade with each other. Each country levies import tariffs on the other countries. The import tariff levied by Country X on Country Y is calculated by multiplying the corresponding tariff percentage with the total imports of Country X from Country Y.\n\nThe radar chart below depicts different import tariff percentages charged by each of the five countries on the others. For example, US (the blue line in the chart) charges 20%, 40%, 30%, and 30% import tariff percentages on imports from France, India, Japan, and UK, respectively. The bar chart depicts the import tariffs levied by each county on other countries. For example, US charged import tariff of 3 billion USD on UK.\n\n![figure](img/2025-s1-dilr/32842_332818_0_25976755_dilr_tarif.jpg)\n\nAssume that imports from one country to another equals the exports from the latter to the former.\n\nThe trade surplus of Country X with Country Y is defined as follows.\nTrade surplus = Exports from Country X to Country Y – Imports to Country X from Country Y.\n\nA negative trade surplus is called trade deficit."
+    },
+    {
+      "id": "cat-2025-s1-dilr-set5",
+      "text": "Alia, Badal, Clive, Dilshan, and Ehsaan played a game in which each asks a unique question to all the others and they respond by tapping their feet, either once or twice or thrice. One tap means \"Yes\", two taps mean \"No\", and three taps mean \"Maybe\".\n\nA total of 40 taps were heard across the five questions. Each question received at least one \"Yes\", one \"No\", and one \"Maybe.\"\n\nThe following information is known.\n1. Alia tapped a total of 6 times and received 9 taps to her question. She responded \"Yes\" to the questions asked by both Clive and Dilshan.\n2. Dilshan and Ehsaan tapped a total of 11 and 9 times respectively. Dilshan responded \"No\" to Badal.\n3. Badal, Dilshan, and Ehsaan received equal number of taps to their respective questions.\n4. No one responded \"Yes\" more than twice.\n5. No one's answer to Alia's question matched the answer that Alia gave to that person's question. This was also true for Ehsaan.\n6. Clive tapped more times in total than Badal."
+    }
+  ],
+  "questions": [
+    {
+      "id": "cat-2025-s1-dilr-01",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 1,
+      "section": "dilr",
+      "number": 1,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2025-s1-dilr-set1",
+      "question": "What was the occupancy factor for segment D – E?",
+      "options": [
+        "A) 35%",
+        "B) 84%",
+        "C) 77%",
+        "D) 70%"
+      ],
+      "answer": "D",
+      "answer_text": "70%",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 9.29,
+        "incorrect": 12.0,
+        "unattempted": 78.71
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-DILR/dilr-question-1.shtml",
+      "official_qid": "3328181513",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s1-dilr-02",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 1,
+      "section": "dilr",
+      "number": 2,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2025-s1-dilr-set1",
+      "question": "How many tickets were booked from Station A to Station E?",
+      "options": null,
+      "answer": "50",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 9.76,
+        "incorrect": 41.92,
+        "unattempted": 48.32
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-DILR/dilr-question-2.shtml",
+      "official_qid": "3328181646",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false,
+      "answer_value": "50",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s1-dilr-03",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 1,
+      "section": "dilr",
+      "number": 3,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2025-s1-dilr-set1",
+      "question": "How many tickets were booked from Station C?",
+      "options": null,
+      "answer": "80",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 2.54,
+        "incorrect": 47.87,
+        "unattempted": 49.59
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-DILR/dilr-question-3.shtml",
+      "official_qid": "3328181647",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false,
+      "answer_value": "80",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s1-dilr-04",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 1,
+      "section": "dilr",
+      "number": 4,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2025-s1-dilr-set1",
+      "question": "What is the difference between the number of tickets booked to Station C and the number of tickets booked to Station D?",
+      "options": null,
+      "answer": "40",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 4.09,
+        "incorrect": 42.16,
+        "unattempted": 53.75
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-DILR/dilr-question-4.shtml",
+      "official_qid": "3328181648",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false,
+      "answer_value": "40",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s1-dilr-05",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 1,
+      "section": "dilr",
+      "number": 5,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2025-s1-dilr-set1",
+      "question": "How many tickets were booked to travel in exactly one segment?",
+      "options": null,
+      "answer": "60",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 2.77,
+        "incorrect": 41.98,
+        "unattempted": 55.25
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-DILR/dilr-question-5.shtml",
+      "official_qid": "3328181649",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false,
+      "answer_value": "60",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s1-dilr-06",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 1,
+      "section": "dilr",
+      "number": 6,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2025-s1-dilr-set2",
+      "question": "What was Eklavya's score at the end of Quarter 2?",
+      "options": null,
+      "answer": "4",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 14.44,
+        "incorrect": 50.5,
+        "unattempted": 35.06
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-DILR/dilr-question-6.shtml",
+      "official_qid": "3328181642",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false,
+      "answer_value": "4",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s1-dilr-07",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 1,
+      "section": "dilr",
+      "number": 7,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2025-s1-dilr-set2",
+      "question": "How many employees changed groups more than once up to the beginning of Quarter 4?",
+      "options": null,
+      "answer": "0",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 11.77,
+        "incorrect": 55.36,
+        "unattempted": 32.87
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-DILR/dilr-question-7.shtml",
+      "official_qid": "3328181645",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false,
+      "answer_value": "0",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s1-dilr-08",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 1,
+      "section": "dilr",
+      "number": 8,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2025-s1-dilr-set2",
+      "question": "What was Bunty's score at the end of Quarter 3?",
+      "options": null,
+      "answer": "5",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 16.84,
+        "incorrect": 49.72,
+        "unattempted": 33.44
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-DILR/dilr-question-8.shtml",
+      "official_qid": "3328181643",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false,
+      "answer_value": "5",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s1-dilr-09",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 1,
+      "section": "dilr",
+      "number": 9,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2025-s1-dilr-set2",
+      "question": "For how many employees can the scores at the end of Quarter 3 be determined with certainty?",
+      "options": null,
+      "answer": "4",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 25.98,
+        "incorrect": 37.36,
+        "unattempted": 36.66
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-DILR/dilr-question-9.shtml",
+      "official_qid": "3328181644",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false,
+      "answer_value": "4",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s1-dilr-10",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 1,
+      "section": "dilr",
+      "number": 10,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2025-s1-dilr-set2",
+      "question": "Which of the following statements is/are NECESSARILY true?\nI. Asha received a rating of 2 in Quarter 1.\nII. Asha received a rating of 1 in Quarter 2.",
+      "options": [
+        "A) Only I",
+        "B) Both I and II",
+        "C) Neither I nor II",
+        "D) Only II"
+      ],
+      "answer": "D",
+      "answer_text": "Only II",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 9.85,
+        "incorrect": 22.28,
+        "unattempted": 67.87
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-DILR/dilr-question-10.shtml",
+      "official_qid": "3328181560",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s1-dilr-11",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 1,
+      "section": "dilr",
+      "number": 11,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2025-s1-dilr-set3",
+      "question": "What is the number of the chair initially occupied by Bashir?",
+      "options": null,
+      "answer": "4",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 25.17,
+        "incorrect": 42.19,
+        "unattempted": 32.64
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-DILR/dilr-question-11.shtml",
+      "official_qid": "3328181637",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false,
+      "answer_value": "4",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s1-dilr-12",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 1,
+      "section": "dilr",
+      "number": 12,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2025-s1-dilr-set3",
+      "question": "Who sits on the chair numbered 4 at the end of Turn 3?",
+      "options": [
+        "A) Bashir",
+        "B) Chhavi",
+        "C) Davies",
+        "D) No one"
+      ],
+      "answer": "D",
+      "answer_text": "No one",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 17.32,
+        "incorrect": 15.95,
+        "unattempted": 66.73
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-DILR/dilr-question-12.shtml",
+      "official_qid": "3328181537",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s1-dilr-13",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 1,
+      "section": "dilr",
+      "number": 13,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2025-s1-dilr-set3",
+      "question": "Which of the chairs are occupied at the end of Turn 6?",
+      "options": [
+        "A) Chairs numbered 1, 2, 3, and 4",
+        "B) Chairs numbered 2, 3, 4, and 5",
+        "C) Chairs numbered 1, 2, 6, and 7",
+        "D) Chairs numbered 4, 5, 6, and 7"
+      ],
+      "answer": "D",
+      "answer_text": "Chairs numbered 4, 5, 6, and 7",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 12.01,
+        "incorrect": 14.68,
+        "unattempted": 73.31
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-DILR/dilr-question-13.shtml",
+      "official_qid": "3328181540",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s1-dilr-14",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 1,
+      "section": "dilr",
+      "number": 14,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2025-s1-dilr-set3",
+      "question": "Which of the following BEST describes the friends sitting on chairs adjacent to the one occupied by Bashir at the end of Turn 7?",
+      "options": [
+        "A) Aslam and Chhavi",
+        "B) Chhavi only",
+        "C) Davies only",
+        "D) Chhavi and Davies"
+      ],
+      "answer": "C",
+      "answer_text": "Davies only",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 8.99,
+        "incorrect": 12.95,
+        "unattempted": 78.06
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-DILR/dilr-question-14.shtml",
+      "official_qid": "3328181541",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s1-dilr-15",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 1,
+      "section": "dilr",
+      "number": 15,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2025-s1-dilr-set4",
+      "question": "How much is Japan's export to India worth?",
+      "options": [
+        "A) 7.0 Billion USD",
+        "B) 1.75 Billion USD",
+        "C) 16.0 Billion USD",
+        "D) 8.5 Billion USD"
+      ],
+      "answer": "A",
+      "answer_text": "7.0 Billion USD",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 36.83,
+        "incorrect": 26.05,
+        "unattempted": 37.12
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-DILR/dilr-question-15.shtml",
+      "official_qid": "3328181525",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s1-dilr-16",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 1,
+      "section": "dilr",
+      "number": 16,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2025-s1-dilr-set4",
+      "question": "Which among the following is the highest?",
+      "options": [
+        "A) Imports by US from France",
+        "B) Exports by France to Japan",
+        "C) Exports by Japan to UK",
+        "D) Imports by France from India"
+      ],
+      "answer": "A",
+      "answer_text": "Imports by US from France",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 36.56,
+        "incorrect": 23.11,
+        "unattempted": 40.33
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-DILR/dilr-question-16.shtml",
+      "official_qid": "3328181526",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s1-dilr-17",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 1,
+      "section": "dilr",
+      "number": 17,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2025-s1-dilr-set4",
+      "question": "What is the trade surplus/trade deficit of India with UK?",
+      "options": [
+        "A) Deficit of 15.0 Billion USD",
+        "B) Deficit of 10.0 Billion USD",
+        "C) Surplus of 10.0 Billion USD",
+        "D) Surplus of 15.0 Billion USD"
+      ],
+      "answer": "A",
+      "answer_text": "Deficit of 15.0 Billion USD",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 26.16,
+        "incorrect": 24.79,
+        "unattempted": 49.05
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-DILR/dilr-question-17.shtml",
+      "official_qid": "3328181527",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s1-dilr-18",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 1,
+      "section": "dilr",
+      "number": 18,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2025-s1-dilr-set4",
+      "question": "Among France and UK, who has/have trade surplus(es) with US?",
+      "options": [
+        "A) Neither France nor UK",
+        "B) Only UK",
+        "C) Both France and UK",
+        "D) Only France"
+      ],
+      "answer": "D",
+      "answer_text": "Only France",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 21.39,
+        "incorrect": 28.14,
+        "unattempted": 50.47
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-DILR/dilr-question-18.shtml",
+      "official_qid": "3328181528",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s1-dilr-19",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 1,
+      "section": "dilr",
+      "number": 19,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2025-s1-dilr-set5",
+      "question": "How many taps did Clive receive for his question?",
+      "options": null,
+      "answer": "7",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 18.18,
+        "incorrect": 45.27,
+        "unattempted": 36.55
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-DILR/dilr-question-19.shtml",
+      "official_qid": "3328181658",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false,
+      "answer_value": "7",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s1-dilr-20",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 1,
+      "section": "dilr",
+      "number": 20,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2025-s1-dilr-set5",
+      "question": "Which two people tapped an equal number of times in total?",
+      "options": [
+        "A) Alia and Badal",
+        "B) Clive and Ehsaan",
+        "C) Badal and Dilshan",
+        "D) Dilshan and Clive"
+      ],
+      "answer": "A",
+      "answer_text": "Alia and Badal",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 23.08,
+        "incorrect": 17.01,
+        "unattempted": 59.91
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-DILR/dilr-question-20.shtml",
+      "official_qid": "3328181508",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s1-dilr-21",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 1,
+      "section": "dilr",
+      "number": 21,
+      "type": "mcq",
+      "marks": {
+        "correct": 3,
+        "wrong": -1
+      },
+      "set": "cat-2025-s1-dilr-set5",
+      "question": "What was Clive's response to Ehsaan's question?",
+      "options": [
+        "A) Yes",
+        "B) Maybe",
+        "C) Cannot be determined",
+        "D) No"
+      ],
+      "answer": "D",
+      "answer_text": "No",
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 8.51,
+        "incorrect": 23.16,
+        "unattempted": 68.33
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-DILR/dilr-question-21.shtml",
+      "official_qid": "3328181507",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false,
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    },
+    {
+      "id": "cat-2025-s1-dilr-22",
+      "exam": "CAT",
+      "year": 2025,
+      "slot": 1,
+      "section": "dilr",
+      "number": 22,
+      "type": "tita",
+      "marks": {
+        "correct": 3,
+        "wrong": 0
+      },
+      "set": "cat-2025-s1-dilr-set5",
+      "question": "How many \"Yes\" responses were received across all the questions?",
+      "options": null,
+      "answer": "6",
+      "answer_text": null,
+      "topic_2iim": null,
+      "node": null,
+      "stats_2iim": {
+        "correct": 13.26,
+        "incorrect": 45.96,
+        "unattempted": 40.78
+      },
+      "explanation_url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-DILR/dilr-question-22.shtml",
+      "official_qid": "3328181659",
+      "source": {
+        "site": "2IIM",
+        "url": "https://online.2iim.com/CAT-question-paper/CAT-2025-Question-Paper-Slot-1-DILR/"
+      },
+      "verified": false,
+      "answer_value": "6",
+      "verification": {
+        "source": "Cracku",
+        "result": "not found"
+      }
+    }
+  ]
+}
