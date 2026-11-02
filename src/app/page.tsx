@@ -10,10 +10,11 @@ export const dynamic = "force-dynamic";
 
 const GMAT_ORDER = ["gmat-quant", "gmat-verbal", "gmat-di", "gmat-strategy"];
 const GRE_ORDER = ["gre-quant", "gre-verbal", "gre-awa", "gre-strategy"];
+const CA_ORDER = ["ca-inter-cma"];
 
 // Exam tracks: each subject is its own whole-box section.
 async function examSections(
-  track: "gmat" | "gre",
+  track: "gmat" | "gre" | "ca",
   subjects: { slug: string }[],
   order: string[],
 ) {
@@ -39,10 +40,11 @@ async function examSections(
 }
 
 export default async function HomePage() {
-  const [ahh, gmat, gre] = await Promise.all([
+  const [ahh, gmat, gre, ca] = await Promise.all([
     listSubjects("ahh"),
     listSubjects("gmat"),
     listSubjects("gre"),
+    listSubjects("ca"),
   ]);
 
   // Uni: one section per semester group, each holding subject buttons.
@@ -56,9 +58,10 @@ export default async function HomePage() {
     };
   }).filter((s) => s.items.length > 0);
 
-  const [gmatSections, greSections] = await Promise.all([
+  const [gmatSections, greSections, caSections] = await Promise.all([
     examSections("gmat", gmat, GMAT_ORDER),
     examSections("gre", gre, GRE_ORDER),
+    examSections("ca", ca, CA_ORDER),
   ]);
 
   const rows: TrackRowData[] = [
@@ -72,7 +75,7 @@ export default async function HomePage() {
     },
     { key: "gre", title: "GRE", count: gre.length, sections: greSections },
     { key: "cat", title: "CAT", tag: "Planned" },
-    { key: "ca", title: "CA", sub: "ICAI Intermediate", tag: "Planned" },
+    { key: "ca", title: "CA", sub: "ICAI Intermediate", count: ca.length, sections: caSections },
   ];
 
   return (

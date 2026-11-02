@@ -1,13 +1,14 @@
 // Pieces of the track layer shared by server and client code. A track is a
 // group of subjects (ahh = every original subject, gmat = the gmat-* folders,
-// gre = the gre-* folders) with its own nav and its own remembered subject.
+// gre = the gre-* folders, ca = the ca-* ICAI papers) with its own nav and
+// its own remembered subject.
 //
 // Adding a track (e.g. cat- for the CAT MBA exam) means one more TrackSlug
 // member and one more TRACKS entry, plus its content folders. Nothing else in
 // the app names a track directly: it reads `heavy`, `scoring`, `sections` and
 // `prefix` from here.
 
-export type TrackSlug = "ahh" | "gmat" | "gre";
+export type TrackSlug = "ahh" | "gmat" | "gre" | "ca";
 
 // Same pattern as subject_key: plain cookie, no secret.
 export const TRACK_COOKIE = "track_key";
@@ -113,6 +114,26 @@ export const TRACKS: Record<TrackSlug, TrackConfig> = {
       { slug: "gre-awa", label: "GRE Writing" },
       { slug: "gre-strategy", label: "GRE Strategy" },
     ],
+    scoring: null,
+    heavy: false,
+  },
+  ca: {
+    label: "CA",
+    // "ca-" not "ca": a future cat- track must not fall in here.
+    prefix: "ca-",
+    home: "/territory",
+    nav: [
+      { href: "/", label: "Home" },
+      { href: "/territory", label: "Territory" },
+      { href: "/practice", label: "Practice" },
+      { href: "/errors", label: "Error book" },
+      { href: "/timeline", label: "Timeline" },
+      { href: "/block", label: "Block" },
+      { href: "/backup", label: "Backup" },
+      { href: "/help", label: "Help" },
+    ],
+    sections: [{ slug: "ca-inter-cma", label: "CA Inter CMA" }],
+    // ICAI pass rules (40% per paper, 50% per group) come later as their own module.
     scoring: null,
     heavy: false,
   },
