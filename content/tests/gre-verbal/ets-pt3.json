@@ -1,0 +1,748 @@
+[
+ {
+  "id": "GRE-ETS-PT3-S2-Q01",
+  "node": "V-1",
+  "nodeTitle": "Text Completion",
+  "unit": "GRE Verbal",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">This filmmaker is not outspoken on political matters: her films are known for their aesthetic qualities rather than for their ______ ones.<br><span class='hint'>For the blank, select one entry from the choices.</span></div></div>",
+  "options": [
+   "A) polemical",
+   "B) cinematic",
+   "C) narrative",
+   "D) commercial",
+   "E) dramatic"
+  ],
+  "answer": "A",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Answer in context:</strong> This filmmaker is not outspoken on political matters: her films are known for their aesthetic qualities rather than for their polemical ones.</p></div>",
+  "source": "ETS GRE Practice General Test #3, Section 2, Question 1"
+ },
+ {
+  "id": "GRE-ETS-PT3-S2-Q02",
+  "node": "V-1",
+  "nodeTitle": "Text Completion",
+  "unit": "GRE Verbal",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">James Boswell’s <em>Life of Samuel Johnson</em> is generally thought to have established Boswell as the first great modern biographer; yet the claim of ______ could be made for Johnson himself as author of a life of Richard Savage.<br><span class='hint'>For the blank, select one entry from the choices.</span></div></div>",
+  "options": [
+   "A) partisanship",
+   "B) omniscience",
+   "C) precedence",
+   "D) opportunism",
+   "E) perseverance"
+  ],
+  "answer": "C",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Answer in context:</strong> James Boswell’s <em>Life of Samuel Johnson</em> is generally thought to have established Boswell as the first great modern biographer; yet the claim of precedence could be made for Johnson himself as author of a life of Richard Savage.</p></div>",
+  "source": "ETS GRE Practice General Test #3, Section 2, Question 2"
+ },
+ {
+  "id": "GRE-ETS-PT3-S2-Q03",
+  "node": "V-1",
+  "nodeTitle": "Text Completion",
+  "unit": "GRE Verbal",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "multi",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">Critics charge that the regulatory agency, having never defined what constitutes an untenable risk, has grown (i) ______ outside influences on that issue: several experts have (ii) ______ it recently for allowing one power plant to delay an inspection for more than six weeks despite compelling safety concerns.<br><span class='hint'>Choose one option for each blank. Fill all blanks in the way that best completes the text.</span></div></div>",
+  "options": [
+   "A) Blank (i): susceptible to",
+   "B) Blank (i): unaware of",
+   "C) Blank (i): irritated at",
+   "D) Blank (ii): complimented",
+   "E) Blank (ii): panned",
+   "F) Blank (ii): overlooked"
+  ],
+  "answer": "A,E",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Answer in context:</strong> Critics charge that the regulatory agency, having never defined what constitutes an untenable risk, has grown susceptible to outside influences on that issue: several experts have panned it recently for allowing one power plant to delay an inspection for more than six weeks despite compelling safety concerns.</p></div>",
+  "source": "ETS GRE Practice General Test #3, Section 2, Question 3"
+ },
+ {
+  "id": "GRE-ETS-PT3-S2-Q04",
+  "node": "V-1",
+  "nodeTitle": "Text Completion",
+  "unit": "GRE Verbal",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "multi",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">Because we assume the (i) ______ of natural design, nature can often (ii) ______ us: as the Wright brothers noted, the birds initially misled them in almost every particular, but their Flyer eventually succeeded by being the least avian of the early flying machines.<br><span class='hint'>Choose one option for each blank. Fill all blanks in the way that best completes the text.</span></div></div>",
+  "options": [
+   "A) Blank (i): quirkiness",
+   "B) Blank (i): preeminence",
+   "C) Blank (i): maladroitness",
+   "D) Blank (ii): galvanize",
+   "E) Blank (ii): befriend",
+   "F) Blank (ii): beguile"
+  ],
+  "answer": "B,F",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Answer in context:</strong> Because we assume the preeminence of natural design, nature can often beguile us: as the Wright brothers noted, the birds initially misled them in almost every particular, but their Flyer eventually succeeded by being the least avian of the early flying machines.</p></div>",
+  "source": "ETS GRE Practice General Test #3, Section 2, Question 4"
+ },
+ {
+  "id": "GRE-ETS-PT3-S2-Q05",
+  "node": "V-1",
+  "nodeTitle": "Text Completion",
+  "unit": "GRE Verbal",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "multi",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">Historical research makes two somewhat antithetical truths that sounded (i) ______ come to seem profound: knowledge of the past comes entirely from written documents, giving written words great (ii) ______, and the more material you uncover, the more (iii) ______ your subject becomes.<br><span class='hint'>Choose one option for each blank. Fill all blanks in the way that best completes the text.</span></div></div>",
+  "options": [
+   "A) Blank (i): deep",
+   "B) Blank (i): portentous",
+   "C) Blank (i): banal",
+   "D) Blank (ii): consequence",
+   "E) Blank (ii): antiquity",
+   "F) Blank (ii): simultaneity",
+   "G) Blank (iii): elusive",
+   "H) Blank (iii): contemporary",
+   "I) Blank (iii): circumstantial"
+  ],
+  "answer": "C,D,G",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Answer in context:</strong> Historical research makes two somewhat antithetical truths that sounded banal come to seem profound: knowledge of the past comes entirely from written documents, giving written words great consequence, and the more material you uncover, the more elusive your subject becomes.</p></div>",
+  "source": "ETS GRE Practice General Test #3, Section 2, Question 5"
+ },
+ {
+  "id": "GRE-ETS-PT3-S2-Q06",
+  "node": "V-5",
+  "nodeTitle": "Argument passages",
+  "unit": "GRE Verbal",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"gre-stim\">Extensive housing construction is underway in Pataska Forest, the habitat of a large population of deer. Because deer feed at the edges of forests, these deer will be attracted to the spaces alongside the new roads being cut through Pataska Forest to serve the new residential areas. Consequently, once the housing is occupied, the annual number of the forest’s deer hit by cars will be much higher than before construction started.</div><div class=\"stem\">Which of the following is an assumption on which the argument depends?<br><span class='hint'>Select only one answer choice.</span></div></div>",
+  "options": [
+   "A) The number of deer hit by commercial vehicles will not increase significantly when the housing is occupied.",
+   "B) Deer will be as attracted to the forest edge around new houses as to the forest edge alongside roads.",
+   "C) In years past, the annual number of deer that have been hit by cars on existing roads through Pataska Forest has been very low.",
+   "D) The development will leave sufficient forest to sustain a significant population of deer.",
+   "E) No deer hunting will be allowed in Pataska Forest when the housing is occupied."
+  ],
+  "answer": "D",
+  "alsoNodes": [
+   {
+    "id": "V-4",
+    "title": "Reading Comprehension"
+   }
+  ],
+  "source": "ETS GRE Practice General Test #3, Section 2, Question 6"
+ },
+ {
+  "id": "GRE-ETS-PT3-S2-Q07",
+  "node": "V-2",
+  "nodeTitle": "Sentence Equivalence",
+  "unit": "GRE Verbal",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "multi",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">Female video artists’ rise to prominence over the past 30 years has ______ the ascent of video as an art form: it is only within the past three decades that video art has attained its current, respected status.<br><span class='hint'>Select exactly two answer choices that, when used to complete the sentence, fit the meaning of the sentence as a whole and produce completed sentences that are alike in meaning.</span></div></div>",
+  "options": [
+   "A) matched",
+   "B) politicized",
+   "C) paralleled",
+   "D) obviated",
+   "E) accelerated",
+   "F) forestalled"
+  ],
+  "answer": "A,C",
+  "source": "ETS GRE Practice General Test #3, Section 2, Question 7"
+ },
+ {
+  "id": "GRE-ETS-PT3-S2-Q08",
+  "node": "V-2",
+  "nodeTitle": "Sentence Equivalence",
+  "unit": "GRE Verbal",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "multi",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">The spy’s repeated bungling was, above all else, ______ those who wished to thwart her efforts, since it was so unpredictable as to obscure any pattern that might otherwise lead to her capture.<br><span class='hint'>Select exactly two answer choices that, when used to complete the sentence, fit the meaning of the sentence as a whole and produce completed sentences that are alike in meaning.</span></div></div>",
+  "options": [
+   "A) an obstacle to",
+   "B) a signal to",
+   "C) a hindrance to",
+   "D) an indication for",
+   "E) a snare for",
+   "F) a boon to"
+  ],
+  "answer": "A,C",
+  "source": "ETS GRE Practice General Test #3, Section 2, Question 8"
+ },
+ {
+  "id": "GRE-ETS-PT3-S2-Q09",
+  "node": "V-2",
+  "nodeTitle": "Sentence Equivalence",
+  "unit": "GRE Verbal",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "multi",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">Each member of the journalistic pair served as ______ the other: each refrained from publishing a given piece if the other doubted that it was ready to be printed.<br><span class='hint'>Select exactly two answer choices that, when used to complete the sentence, fit the meaning of the sentence as a whole and produce completed sentences that are alike in meaning.</span></div></div>",
+  "options": [
+   "A) a check on",
+   "B) an advocate for",
+   "C) an impediment to",
+   "D) a brake on",
+   "E) an apologist for",
+   "F) an intermediary for"
+  ],
+  "answer": "A,D",
+  "source": "ETS GRE Practice General Test #3, Section 2, Question 9"
+ },
+ {
+  "id": "GRE-ETS-PT3-S2-Q10",
+  "node": "V-4",
+  "nodeTitle": "Reading Comprehension",
+  "unit": "GRE Verbal",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"gre-stim\">While chocolate was highly esteemed in Mesoamerica, where it originated, its adoption in Europe was initially slow. There is a common belief that Europeans needed to “transform” chocolate to make it appetizing. However, while Spaniards did put sugar, which was unknown to indigenous Americans, into chocolate beverages, this additive was not completely innovative. Mesoamericans were already sweetening chocolate with honey, and the step from honey to sugar, increasingly more available than honey because of expanding sugar plantations in the Americas, is a small one. Likewise, although Spaniards adjusted Mesoamerican recipes by using European spices, the spices chosen suggest an attempt to replicate harder-to-find native flowers. There is no indication the Spaniards deliberately tried to change the original flavor of chocolate.</div><div class=\"stem\">The author of the passage refers to the use of honey primarily to<br><span class='hint'>Select only one answer choice.</span></div></div>",
+  "options": [
+   "A) identify the origins of an additive previously untried by Europeans",
+   "B) present an example of a product that was unknown to Europeans",
+   "C) correct the misapprehension that Mesoamericans used a sweetener that was not available in Europe",
+   "D) provide an example of an ingredient that was in the process of being displaced by a substitute",
+   "E) explain why the Spanish use of sugar in chocolate was not a sign of a need to transform chocolate"
+  ],
+  "answer": "E",
+  "source": "ETS GRE Practice General Test #3, Section 2, Question 10"
+ },
+ {
+  "id": "GRE-ETS-PT3-S2-Q11",
+  "node": "V-4",
+  "nodeTitle": "Reading Comprehension",
+  "unit": "GRE Verbal",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"gre-stim\">While chocolate was highly esteemed in Mesoamerica, where it originated, its adoption in Europe was initially slow. There is a common belief that Europeans needed to “transform” chocolate to make it appetizing. However, while Spaniards did put sugar, which was unknown to indigenous Americans, into chocolate beverages, this additive was not completely innovative. Mesoamericans were already sweetening chocolate with honey, and the step from honey to sugar, increasingly more available than honey because of expanding sugar plantations in the Americas, is a small one. Likewise, although Spaniards adjusted Mesoamerican recipes by using European spices, the spices chosen suggest an attempt to replicate harder-to-find native flowers. There is no indication the Spaniards deliberately tried to change the original flavor of chocolate.</div><div class=\"stem\">Which sentence presents a misconception that the passage challenges?<br><span class='hint'>Select only one answer choice.</span></div></div>",
+  "options": [
+   "A) The second (“There is a common belief that Europeans needed to ‘transform’ chocolate to make it appetizing.”).",
+   "B) The third (“However, while Spaniards did put sugar, which was unknown to indigenous Americans, into chocolate beverages, this additive was not completely innovative.”).",
+   "C) The fourth (“Mesoamericans were already sweetening chocolate with honey, and the step from honey to sugar, increasingly more available than honey because of expanding sugar plantations in the Americas, is a small one.”).",
+   "D) The fifth (“Likewise, although Spaniards adjusted Mesoamerican recipes by using European spices, the spices chosen suggest an attempt to replicate harder-to-find native flowers.”).",
+   "E) The sixth (“There is no indication the Spaniards deliberately tried to change the original flavor of chocolate.”)."
+  ],
+  "answer": "A",
+  "source": "ETS GRE Practice General Test #3, Section 2, Question 11"
+ },
+ {
+  "id": "GRE-ETS-PT3-S2-Q12",
+  "node": "V-4",
+  "nodeTitle": "Reading Comprehension",
+  "unit": "GRE Verbal",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "multi",
+  "question": "<div class=\"gre-q\"><div class=\"gre-stim\">Biologists generally agree that birds and dinosaurs are somehow related to one another. The agreement ends there. Hypotheses regarding dinosaurian and avian evolution are unusually diverse, and often at odds with one another. Confusion consequently reigns over a broad spectrum of unanswered questions dealing with avian origins and the biology of dinosaurs and early birds. This confusion has been exacerbated by a paucity of serious attempts to synthesize and evaluate available data on the details of avian and dinosaurian evolution. Too often, the job of summarizing current knowledge of these subjects has fallen to well-meaning but naïve lay authors or reporters. <strong>Consequently, both the public and the scientific community have often been misled by widespread dissemination of sensational but weakly founded hypotheses.</strong></div><div class=\"stem\">The final sentence of the passage reads, “Consequently, both the public and the scientific community have often been misled by widespread dissemination of sensational but weakly founded hypotheses.” The passage suggests that which of the following could help remedy the problem described in the final sentence?<br><span class='hint'>Consider each of the three choices separately and select all that apply.</span></div></div>",
+  "options": [
+   "A) An article written by a biologist for the general public summarizing current theories about avian and dinosaurian evolution",
+   "B) A close examination of available data on avian and dinosaurian evolution",
+   "C) A new hypothesis regarding the connection between avian and dinosaurian evolution"
+  ],
+  "answer": "A,B",
+  "source": "ETS GRE Practice General Test #3, Section 2, Question 12"
+ },
+ {
+  "id": "GRE-ETS-PT3-S2-Q13",
+  "node": "V-4",
+  "nodeTitle": "Reading Comprehension",
+  "unit": "GRE Verbal",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"gre-stim\">Biologists generally agree that birds and dinosaurs are somehow related to one another. The agreement ends there. Hypotheses regarding dinosaurian and avian evolution are unusually diverse, and often at odds with one another. Confusion consequently reigns over a broad spectrum of unanswered questions dealing with avian origins and the biology of dinosaurs and early birds. This confusion has been exacerbated by a paucity of serious attempts to synthesize and evaluate available data on the details of avian and dinosaurian evolution. Too often, the job of summarizing current knowledge of these subjects has fallen to well-meaning but naïve lay authors or reporters. <strong>Consequently, both the public and the scientific community have often been misled by widespread dissemination of sensational but weakly founded hypotheses.</strong></div><div class=\"stem\">The word “sensational” appears in the final sentence of the passage, which reads, “Consequently, both the public and the scientific community have often been misled by widespread dissemination of sensational but weakly founded hypotheses.” In the context in which it appears, “sensational” most nearly means<br><span class='hint'>Select only one answer choice.</span></div></div>",
+  "options": [
+   "A) dramatic",
+   "B) false",
+   "C) excellent",
+   "D) eminent",
+   "E) horrifying"
+  ],
+  "answer": "A",
+  "source": "ETS GRE Practice General Test #3, Section 2, Question 13"
+ },
+ {
+  "id": "GRE-ETS-PT3-S2-Q14",
+  "node": "V-4",
+  "nodeTitle": "Reading Comprehension",
+  "unit": "GRE Verbal",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"gre-stim\">A portrait type that appeared with relentless frequency in eighteenth-century England is the familiar image of a gentleman poised with one hand inside his partially unbuttoned waistcoat. Standard interpretations of this portrait posture offer observations of correspondence: demonstrating either that it mirrors actual social behavior or that it borrows from classical statuary. Such explanations, however, illuminate neither the source of this curious convention nor the reason for its popularity. <strong>It is true that in real life the “hand-in” was a common stance for elite men.</strong> Still, there were other ways of comporting the body that did not become winning portrait formulas. And even if the “hand-in” portrait does resemble certain classical statues, what accounts for the adoption of this particular pose?</div><div class=\"stem\">The sentence “It is true that in real life the ‘hand-in’ was a common stance for elite men” is indicated near the end of the passage. In the context of the passage as a whole, the primary function of the indicated sentence is to<br><span class='hint'>Select only one answer choice.</span></div></div>",
+  "options": [
+   "A) emphasize the influence of a particular social class on the conventions of eighteenth-century English portraiture",
+   "B) account for the origin of a particular type of behavior frequently represented in eighteenth-century English portraiture",
+   "C) acknowledge a historical basis for two competing hypotheses about a particular portrait type",
+   "D) question the relevance of certain evidence frequently cited in support of an explanation for a particular portrait type",
+   "E) concede that one explanation for the prevalence of a particular portrait type has a basis in fact"
+  ],
+  "answer": "E",
+  "source": "ETS GRE Practice General Test #3, Section 2, Question 14"
+ },
+ {
+  "id": "GRE-ETS-PT3-S2-Q15",
+  "node": "V-4",
+  "nodeTitle": "Reading Comprehension",
+  "unit": "GRE Verbal",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "multi",
+  "question": "<div class=\"gre-q\"><div class=\"gre-stim\">A portrait type that appeared with relentless frequency in eighteenth-century England is the familiar image of a gentleman poised with one hand inside his partially unbuttoned waistcoat. Standard interpretations of this portrait posture offer observations of correspondence: demonstrating either that it mirrors actual social behavior or that it borrows from classical statuary. Such explanations, however, illuminate neither the source of this curious convention nor the reason for its popularity. <strong>It is true that in real life the “hand-in” was a common stance for elite men.</strong> Still, there were other ways of comporting the body that did not become winning portrait formulas. And even if the “hand-in” portrait does resemble certain classical statues, what accounts for the adoption of this particular pose?</div><div class=\"stem\">Which of the following might provide an explanation for the popularity of hand-in portraits that would satisfy the author of the passage?<br><span class='hint'>Consider each of the three choices separately and select all that apply.</span></div></div>",
+  "options": [
+   "A) An eighteenth-century English etiquette manual discussing the social implications of the “hand-in” stance",
+   "B) A comprehensive catalogue of eighteenth-century English portraits that showed what proportion of portraits depicted gentlemen in the “hand-in” stance",
+   "C) A passage from an eighteenth-century English novel in which a gentleman considers what stance to adopt when his portrait is painted"
+  ],
+  "answer": "A,C",
+  "source": "ETS GRE Practice General Test #3, Section 2, Question 15"
+ },
+ {
+  "id": "GRE-ETS-PT3-S3-Q01",
+  "node": "V-1",
+  "nodeTitle": "Text Completion",
+  "unit": "GRE Verbal",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">Many find it strange that her writing is thought to be tortuous; her recent essays, although longer than most of her earlier essays, are extremely ______.<br><span class='hint'>For the blank, select one entry from the choices.</span></div></div>",
+  "options": [
+   "A) painstaking",
+   "B) tedious",
+   "C) insightful",
+   "D) sophisticated",
+   "E) clear"
+  ],
+  "answer": "E",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Answer in context:</strong> Many find it strange that her writing is thought to be tortuous; her recent essays, although longer than most of her earlier essays, are extremely clear.</p></div>",
+  "source": "ETS GRE Practice General Test #3, Section 3, Question 1"
+ },
+ {
+  "id": "GRE-ETS-PT3-S3-Q02",
+  "node": "V-1",
+  "nodeTitle": "Text Completion",
+  "unit": "GRE Verbal",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">Most spacecraft are still at little risk of collision with space debris during their operational lifetimes, but given the numbers of new satellites launched each year, the orbital environment in the future is likely to be less ______.<br><span class='hint'>For the blank, select one entry from the choices.</span></div></div>",
+  "options": [
+   "A) crowded",
+   "B) invulnerable",
+   "C) protected",
+   "D) polluted",
+   "E) benign"
+  ],
+  "answer": "E",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Answer in context:</strong> Most spacecraft are still at little risk of collision with space debris during their operational lifetimes, but given the numbers of new satellites launched each year, the orbital environment in the future is likely to be less benign.</p></div>",
+  "source": "ETS GRE Practice General Test #3, Section 3, Question 2"
+ },
+ {
+  "id": "GRE-ETS-PT3-S3-Q03",
+  "node": "V-1",
+  "nodeTitle": "Text Completion",
+  "unit": "GRE Verbal",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "multi",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">The unironic representation of objects from everyday life is (i) ______ serious American art of the twentieth century: “high” artists ceded the straightforward depiction of the (ii) ______ to illustrators, advertisers, and packaging designers.<br><span class='hint'>Choose one option for each blank. Fill all blanks in the way that best completes the text.</span></div></div>",
+  "options": [
+   "A) Blank (i): missing from",
+   "B) Blank (i): valued in",
+   "C) Blank (i): crucial to",
+   "D) Blank (ii): beautiful",
+   "E) Blank (ii): commonplace",
+   "F) Blank (ii): complex"
+  ],
+  "answer": "A,E",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Answer in context:</strong> The unironic representation of objects from everyday life is missing from serious American art of the twentieth century: “high” artists ceded the straightforward depiction of the commonplace to illustrators, advertisers, and packaging designers.</p></div>",
+  "source": "ETS GRE Practice General Test #3, Section 3, Question 3"
+ },
+ {
+  "id": "GRE-ETS-PT3-S3-Q04",
+  "node": "V-1",
+  "nodeTitle": "Text Completion",
+  "unit": "GRE Verbal",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "multi",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">A newly published, laudatory biography of George Bernard Shaw fails, like others before it, to capture the essence of his personality: the more he is (i) ______, the more his true self seems to (ii) ______.<br><span class='hint'>Choose one option for each blank. Fill all blanks in the way that best completes the text.</span></div></div>",
+  "options": [
+   "A) Blank (i): discussed",
+   "B) Blank (i): disparaged",
+   "C) Blank (i): disregarded",
+   "D) Blank (ii): disappear",
+   "E) Blank (ii): emerge",
+   "F) Blank (ii): coalesce"
+  ],
+  "answer": "A,D",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Answer in context:</strong> A newly published, laudatory biography of George Bernard Shaw fails, like others before it, to capture the essence of his personality: the more he is discussed, the more his true self seems to disappear.</p></div>",
+  "source": "ETS GRE Practice General Test #3, Section 3, Question 4"
+ },
+ {
+  "id": "GRE-ETS-PT3-S3-Q05",
+  "node": "V-1",
+  "nodeTitle": "Text Completion",
+  "unit": "GRE Verbal",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "multi",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">There is nothing that (i) ______ scientists more than having an old problem in their field solved by someone from outside. If you doubt this (ii) ______, just think about the (iii) ______ reaction of paleontologists to the hypothesis of Luis Alvarez, a physicist, and Walter Alvarez, a geologist, that the extinction of the dinosaurs was caused by the impact of a large meteor on the surface of the planet.<br><span class='hint'>Choose one option for each blank. Fill all blanks in the way that best completes the text.</span></div></div>",
+  "options": [
+   "A) Blank (i): amazes",
+   "B) Blank (i): pleases",
+   "C) Blank (i): nettles",
+   "D) Blank (ii): exposition",
+   "E) Blank (ii): objurgation",
+   "F) Blank (ii): observation",
+   "G) Blank (iii): contemptuous",
+   "H) Blank (iii): indifferent",
+   "I) Blank (iii): insincere"
+  ],
+  "answer": "C,F,G",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Answer in context:</strong> There is nothing that nettles scientists more than having an old problem in their field solved by someone from outside. If you doubt this observation, just think about the contemptuous reaction of paleontologists to the hypothesis of Luis Alvarez, a physicist, and Walter Alvarez, a geologist, that the extinction of the dinosaurs was caused by the impact of a large meteor on the surface of the planet.</p></div>",
+  "source": "ETS GRE Practice General Test #3, Section 3, Question 5"
+ },
+ {
+  "id": "GRE-ETS-PT3-S3-Q06",
+  "node": "V-1",
+  "nodeTitle": "Text Completion",
+  "unit": "GRE Verbal",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "multi",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">If one could don magic spectacles, with lenses that make the murky depths of the ocean become transparent, and look back several centuries to an age before widespread abuse of the oceans began, even the most (i) ______ observer would quickly discover that fish were formerly much more abundant. Likewise, many now-depleted species of marine mammals would appear (ii) ______. But without such special glasses, the differences between past and present oceans are indeed hard to (iii) ______.<br><span class='hint'>Choose one option for each blank. Fill all blanks in the way that best completes the text.</span></div></div>",
+  "options": [
+   "A) Blank (i): casual",
+   "B) Blank (i): prescient",
+   "C) Blank (i): clearheaded",
+   "D) Blank (ii): threatened",
+   "E) Blank (ii): plentiful",
+   "F) Blank (ii): unfamiliar",
+   "G) Blank (iii): ignore",
+   "H) Blank (iii): discern",
+   "I) Blank (iii): dismiss"
+  ],
+  "answer": "A,E,H",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Answer in context:</strong> If one could don magic spectacles, with lenses that make the murky depths of the ocean become transparent, and look back several centuries to an age before widespread abuse of the oceans began, even the most casual observer would quickly discover that fish were formerly much more abundant. Likewise, many now depleted species of marine mammals would appear plentiful. But without such special glasses, the differences between past and present oceans are indeed hard to discern.</p></div>",
+  "source": "ETS GRE Practice General Test #3, Section 3, Question 6"
+ },
+ {
+  "id": "GRE-ETS-PT3-S3-Q07",
+  "node": "V-4",
+  "nodeTitle": "Reading Comprehension",
+  "unit": "GRE Verbal",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"gre-stim\">Historian F. W. Maitland observed that legal documents are the best, indeed, often the only, available evidence about the economic and social history of a given period. Why, then, has it taken so long for historians to focus systematically on the civil that is, noncriminal law of early modern that is, sixteenth- to eighteenth-century England? Maitland offered one reason: the subject requires researchers to “master an extremely formal system of pleading and procedure.” Yet the complexities that confront those who would study such materials are not wholly different from those recently surmounted by historians of criminal law in England during the same period. Another possible explanation for historians’ neglect of the subject is their <strong>widespread assumption</strong> that most people in early modern England had little contact with civil law. If that were so, the history of legal matters would be of little relevance to general historical scholarship. But recent research suggests that civil litigation during the period involved artisans, merchants, professionals, shopkeepers, and farmers, and not merely a narrow, propertied, male elite. Moreover, the later sixteenth and early seventeenth centuries saw an extraordinary explosion in civil litigation by both women and men, making this the most litigious era in English history on a per capita basis.</div><div class=\"stem\">The passage suggests that the history of criminal law in early modern England differs from the history of civil law during that same period in that the history of criminal law<br><span class='hint'>Select only one answer choice.</span></div></div>",
+  "options": [
+   "A) is of more intellectual interest to historians and their readers",
+   "B) has been studied more thoroughly by historians",
+   "C) is more relevant to general social history",
+   "D) involves the study of a larger proportion of the population",
+   "E) does not require the mastery of an extremely formal system of procedures"
+  ],
+  "answer": "B",
+  "source": "ETS GRE Practice General Test #3, Section 3, Question 7"
+ },
+ {
+  "id": "GRE-ETS-PT3-S3-Q08",
+  "node": "V-4",
+  "nodeTitle": "Reading Comprehension",
+  "unit": "GRE Verbal",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"gre-stim\">Historian F. W. Maitland observed that legal documents are the best, indeed, often the only, available evidence about the economic and social history of a given period. Why, then, has it taken so long for historians to focus systematically on the civil that is, noncriminal law of early modern that is, sixteenth- to eighteenth-century England? Maitland offered one reason: the subject requires researchers to “master an extremely formal system of pleading and procedure.” Yet the complexities that confront those who would study such materials are not wholly different from those recently surmounted by historians of criminal law in England during the same period. Another possible explanation for historians’ neglect of the subject is their <strong>widespread assumption</strong> that most people in early modern England had little contact with civil law. If that were so, the history of legal matters would be of little relevance to general historical scholarship. But recent research suggests that civil litigation during the period involved artisans, merchants, professionals, shopkeepers, and farmers, and not merely a narrow, propertied, male elite. Moreover, the later sixteenth and early seventeenth centuries saw an extraordinary explosion in civil litigation by both women and men, making this the most litigious era in English history on a per capita basis.</div><div class=\"stem\">The author of the passage mentions the occupations of those involved in civil litigation in early modern England most likely in order to<br><span class='hint'>Select only one answer choice.</span></div></div>",
+  "options": [
+   "A) suggest that most historians’ assumptions about the participants in the civil legal system during that period are probably correct",
+   "B) support the theory that more people participated in the civil legal system than the criminal legal system in England during that period",
+   "C) counter the claim that legal issues reveal more about a country’s ordinary citizens than about its elite",
+   "D) illustrate the wide range of people who used the civil legal system in England during that period",
+   "E) suggest that recent data on people who participated in early modern England’s legal system may not be correct"
+  ],
+  "answer": "D",
+  "source": "ETS GRE Practice General Test #3, Section 3, Question 8"
+ },
+ {
+  "id": "GRE-ETS-PT3-S3-Q09",
+  "node": "V-4",
+  "nodeTitle": "Reading Comprehension",
+  "unit": "GRE Verbal",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"gre-stim\">Historian F. W. Maitland observed that legal documents are the best, indeed, often the only, available evidence about the economic and social history of a given period. Why, then, has it taken so long for historians to focus systematically on the civil that is, noncriminal law of early modern that is, sixteenth- to eighteenth-century England? Maitland offered one reason: the subject requires researchers to “master an extremely formal system of pleading and procedure.” Yet the complexities that confront those who would study such materials are not wholly different from those recently surmounted by historians of criminal law in England during the same period. Another possible explanation for historians’ neglect of the subject is their <strong>widespread assumption</strong> that most people in early modern England had little contact with civil law. If that were so, the history of legal matters would be of little relevance to general historical scholarship. But recent research suggests that civil litigation during the period involved artisans, merchants, professionals, shopkeepers, and farmers, and not merely a narrow, propertied, male elite. Moreover, the later sixteenth and early seventeenth centuries saw an extraordinary explosion in civil litigation by both women and men, making this the most litigious era in English history on a per capita basis.</div><div class=\"stem\">The fifth sentence of the passage reads: “Another possible explanation for historians’ neglect of the subject is their widespread assumption that most people in early modern England had little contact with civil law.” The author of the passage suggests which of the following about the “widespread assumption” mentioned in the sentence?<br><span class='hint'>Select only one answer choice.</span></div></div>",
+  "options": [
+   "A) Because it is true, the history of civil law is of as much interest to historians focusing on general social history as to those specializing in legal history.",
+   "B) Because it is inaccurate, the history of civil law in early modern England should enrich the general historical scholarship of that period.",
+   "C) It is based on inaccurate data about the propertied male elite of early modern England.",
+   "D) It does not provide a plausible explanation for historians’ failure to study the civil law of early modern England.",
+   "E) It is based on an analogy with criminal law in early modern England."
+  ],
+  "answer": "B",
+  "source": "ETS GRE Practice General Test #3, Section 3, Question 9"
+ },
+ {
+  "id": "GRE-ETS-PT3-S3-Q10",
+  "node": "V-5",
+  "nodeTitle": "Argument passages",
+  "unit": "GRE Verbal",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"gre-stim\"><p>Newspaper Editorial:</p><p>Last year, Mayor Stephens established a special law-enforcement task force with the avowed mission of eradicating corruption in city government. The mayor’s handpicked task force has now begun prosecuting a dozen city officials. Since all of these officials were appointed by Mayor Bixby, Mayor Stephens’ predecessor and longtime political foe, it is clear that those being prosecuted have been targeted because of their political affiliations.</p></div><div class=\"stem\">Which of the following, if true, most weakens the editorial’s argument?<br><span class='hint'>Select only one answer choice.</span></div></div>",
+  "options": [
+   "A) Complaints of official corruption in city government have decreased since the anticorruption task force began operating.",
+   "B) Former mayor Bixby did not publicly oppose Mayor Stephens’ establishment of the anticorruption task force.",
+   "C) Almost all of the officials who have served in city government for any length of time are appointees of Mayor Bixby.",
+   "D) All of the members of the anticorruption task force had other jobs in city government before the task force was formed.",
+   "E) During the last mayoral election campaign, then-Mayor Bixby hotly disputed the current mayor’s claim that there was widespread corruption in city government."
+  ],
+  "answer": "C",
+  "alsoNodes": [
+   {
+    "id": "V-4",
+    "title": "Reading Comprehension"
+   }
+  ],
+  "source": "ETS GRE Practice General Test #3, Section 3, Question 10"
+ },
+ {
+  "id": "GRE-ETS-PT3-S3-Q11",
+  "node": "V-2",
+  "nodeTitle": "Sentence Equivalence",
+  "unit": "GRE Verbal",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "multi",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">The slower-learning monkeys searched ______ but unintelligently: although they worked closely together, they checked only the most obvious hiding places.<br><span class='hint'>Select exactly two answer choices that, when used to complete the sentence, fit the meaning of the sentence as a whole and produce completed sentences that are alike in meaning.</span></div></div>",
+  "options": [
+   "A) competitively",
+   "B) impulsively",
+   "C) cooperatively",
+   "D) deviously",
+   "E) craftily",
+   "F) harmoniously"
+  ],
+  "answer": "C,F",
+  "source": "ETS GRE Practice General Test #3, Section 3, Question 11"
+ },
+ {
+  "id": "GRE-ETS-PT3-S3-Q12",
+  "node": "V-2",
+  "nodeTitle": "Sentence Equivalence",
+  "unit": "GRE Verbal",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "multi",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">By about age eight, children’s phonetic capacities are fully developed but still ______; thus children at that age can learn to speak a new language with a native speaker’s accent.<br><span class='hint'>Select exactly two answer choices that, when used to complete the sentence, fit the meaning of the sentence as a whole and produce completed sentences that are alike in meaning.</span></div></div>",
+  "options": [
+   "A) plastic",
+   "B) vestigial",
+   "C) inarticulate",
+   "D) unformed",
+   "E) nascent",
+   "F) malleable"
+  ],
+  "answer": "A,F",
+  "source": "ETS GRE Practice General Test #3, Section 3, Question 12"
+ },
+ {
+  "id": "GRE-ETS-PT3-S3-Q13",
+  "node": "V-2",
+  "nodeTitle": "Sentence Equivalence",
+  "unit": "GRE Verbal",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "multi",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">Although the film is rightly judged imperfect by most of today’s critics, the films being created today are ______ it, since its release in 1940 provoked sufficient critical discussion to enhance the intellectual respectability of cinema considerably.<br><span class='hint'>Select exactly two answer choices that, when used to complete the sentence, fit the meaning of the sentence as a whole and produce completed sentences that are alike in meaning.</span></div></div>",
+  "options": [
+   "A) beholden to",
+   "B) indebted to",
+   "C) derivative of",
+   "D) based on",
+   "E) distinguishable from",
+   "F) biased against"
+  ],
+  "answer": "A,B",
+  "source": "ETS GRE Practice General Test #3, Section 3, Question 13"
+ },
+ {
+  "id": "GRE-ETS-PT3-S3-Q14",
+  "node": "V-2",
+  "nodeTitle": "Sentence Equivalence",
+  "unit": "GRE Verbal",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "multi",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">The detective’s conviction that there were few inept crimes in her district led her to impute some degree of ______ to every suspect she studied.<br><span class='hint'>Select exactly two answer choices that, when used to complete the sentence, fit the meaning of the sentence as a whole and produce completed sentences that are alike in meaning.</span></div></div>",
+  "options": [
+   "A) deceit",
+   "B) acumen",
+   "C) duplicity",
+   "D) shrewdness",
+   "E) evasiveness",
+   "F) equivocation"
+  ],
+  "answer": "B,D",
+  "source": "ETS GRE Practice General Test #3, Section 3, Question 14"
+ },
+ {
+  "id": "GRE-ETS-PT3-S3-Q15",
+  "node": "V-4",
+  "nodeTitle": "Reading Comprehension",
+  "unit": "GRE Verbal",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"gre-stim\"><p>The decrease in responsiveness that follows continuous stimulation (adaptation) is common to all sensory systems, including olfaction. With continued exposure to chronically present ambient odors, individuals’ perception of odor intensity is greatly reduced. Moreover, these perceptual changes can be profound and durable. It is commonly reported that following extended absences from the odorous environment, reexposure may still fail to elicit perception at the original intensity.</p><p>Most <strong>research on olfactory adaptation</strong> examines relatively transient changes in stimulus detection or perceived intensity, rarely exceeding several hours and often less, but because olfactory adaptation can be produced with relatively short exposures, these durations are sufficient for investigating many parameters of the phenomenon. However, exposures to odors in natural environments often occur over far longer periods, and the resulting adaptations may differ qualitatively from short-term olfactory adaptation. For example, studies show that even brief periods of odorant stimulation produce transient reductions in receptors in the olfactory epithelium, a process termed <strong>“receptor fatigue.”</strong> Prolonged odor stimulation, however, could produce more long-lasting reductions in response, possibly involving structures higher in the central nervous system pathway.</p></div><div class=\"stem\">According to the passage, the phenomenon of olfactory adaptation may cause individuals who are reexposed to an odorous environment after an extended absence to<br><span class='hint'>Select only one answer choice.</span></div></div>",
+  "options": [
+   "A) experience a heightened perception of the odor",
+   "B) perceive the odor as being less intense than it was upon first exposure",
+   "C) return to their original level of perception of the odor",
+   "D) exhibit a decreased tolerance for the odorous environment",
+   "E) experience the phenomenon of adaptation in other sensory systems"
+  ],
+  "answer": "B",
+  "source": "ETS GRE Practice General Test #3, Section 3, Question 15"
+ },
+ {
+  "id": "GRE-ETS-PT3-S3-Q16",
+  "node": "V-4",
+  "nodeTitle": "Reading Comprehension",
+  "unit": "GRE Verbal",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"gre-stim\"><p>The decrease in responsiveness that follows continuous stimulation (adaptation) is common to all sensory systems, including olfaction. With continued exposure to chronically present ambient odors, individuals’ perception of odor intensity is greatly reduced. Moreover, these perceptual changes can be profound and durable. It is commonly reported that following extended absences from the odorous environment, reexposure may still fail to elicit perception at the original intensity.</p><p>Most <strong>research on olfactory adaptation</strong> examines relatively transient changes in stimulus detection or perceived intensity, rarely exceeding several hours and often less, but because olfactory adaptation can be produced with relatively short exposures, these durations are sufficient for investigating many parameters of the phenomenon. However, exposures to odors in natural environments often occur over far longer periods, and the resulting adaptations may differ qualitatively from short-term olfactory adaptation. For example, studies show that even brief periods of odorant stimulation produce transient reductions in receptors in the olfactory epithelium, a process termed <strong>“receptor fatigue.”</strong> Prolonged odor stimulation, however, could produce more long-lasting reductions in response, possibly involving structures higher in the central nervous system pathway.</p></div><div class=\"stem\">The first sentence of the second paragraph refers to “research on olfactory adaptation” that “examines relatively transient changes in stimulus detection or perceived intensity.” The passage asserts which of the following about the exposures involved in that research?<br><span class='hint'>Select only one answer choice.</span></div></div>",
+  "options": [
+   "A) The exposures are of long enough duration for researchers to investigate many aspects of olfactory adaptation.",
+   "B) The exposures have rarely consisted of reexposures following extended absences from the odorous environment.",
+   "C) The exposures are intended to reproduce the relatively transient olfactory changes typical of exposures to odors in natural environments.",
+   "D) Those exposures of relatively short duration are often insufficient to produce the phenomenon of receptor fatigue in study subjects.",
+   "E) Those exposures lasting several hours produce reductions in receptors in the olfactory epithelium that are similar to the reductions caused by prolonged odor stimulation."
+  ],
+  "answer": "A",
+  "source": "ETS GRE Practice General Test #3, Section 3, Question 16"
+ },
+ {
+  "id": "GRE-ETS-PT3-S3-Q17",
+  "node": "V-4",
+  "nodeTitle": "Reading Comprehension",
+  "unit": "GRE Verbal",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"gre-stim\"><p>The decrease in responsiveness that follows continuous stimulation (adaptation) is common to all sensory systems, including olfaction. With continued exposure to chronically present ambient odors, individuals’ perception of odor intensity is greatly reduced. Moreover, these perceptual changes can be profound and durable. It is commonly reported that following extended absences from the odorous environment, reexposure may still fail to elicit perception at the original intensity.</p><p>Most <strong>research on olfactory adaptation</strong> examines relatively transient changes in stimulus detection or perceived intensity, rarely exceeding several hours and often less, but because olfactory adaptation can be produced with relatively short exposures, these durations are sufficient for investigating many parameters of the phenomenon. However, exposures to odors in natural environments often occur over far longer periods, and the resulting adaptations may differ qualitatively from short-term olfactory adaptation. For example, studies show that even brief periods of odorant stimulation produce transient reductions in receptors in the olfactory epithelium, a process termed <strong>“receptor fatigue.”</strong> Prolonged odor stimulation, however, could produce more long-lasting reductions in response, possibly involving structures higher in the central nervous system pathway.</p></div><div class=\"stem\">The second to last sentence of the passage reads, “For example, studies show that even brief periods of odorant stimulation produce transient reductions in receptors in the olfactory epithelium, a process termed ‘receptor fatigue.’” The author of the passage discusses “receptor fatigue” primarily in order to<br><span class='hint'>Select only one answer choice.</span></div></div>",
+  "options": [
+   "A) explain the physiological process through which long-lasting reductions in response are thought to be produced",
+   "B) provide an example of a process that subjects would probably not experience during a prolonged period of odorant stimulation",
+   "C) help illustrate how the information gathered from most olfactory research may not be sufficient to describe the effects of extended exposures to odors",
+   "D) show how studies of short-term olfactory adaptation have only accounted for the reductions in response that follow relatively brief absences from an odorous environment",
+   "E) qualify a statement about the severity and duration of the perceptual changes caused by exposure to chronically present ambient odors"
+  ],
+  "answer": "C",
+  "source": "ETS GRE Practice General Test #3, Section 3, Question 17"
+ },
+ {
+  "id": "GRE-ETS-PT3-S3-Q18",
+  "node": "V-4",
+  "nodeTitle": "Reading Comprehension",
+  "unit": "GRE Verbal",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "multi",
+  "question": "<div class=\"gre-q\"><div class=\"gre-stim\">Among academics involved in the study of Northern Renaissance prints (reproducible graphic artworks), an <strong>orthodox position</strong> can be said to have emerged. This position regards Renaissance prints as <strong>passive</strong> representations of their time, documents that reliably record contemporary events, opinions, and beliefs, and therefore as an important means of accessing the popular contemporary consciousness. In contrast, pioneering studies such as those by Scribner and Moxey take a strikingly different approach, according to which Northern Renaissance prints were purposeful, active, and important shaping forces in the communities that produced them. Scribner, for example, contends that religious and political prints of the German Reformation (approximately 1517 to 1555) functioned as popular propaganda: tools in a vigorous campaign aimed at altering people’s behavior, attitudes, and beliefs.</div><div class=\"stem\">The first sentence of the passage refers to an “orthodox position” that “can be said to have emerged” among academics studying Northern Renaissance prints. The passage suggests that an adherent to the “orthodox position” would agree with which of the following statements?<br><span class='hint'>Consider each of the three choices separately and select all that apply.</span></div></div>",
+  "options": [
+   "A) Northern Renaissance prints should be regarded as passive representations of their time.",
+   "B) Northern Renaissance prints were part of a campaign aimed at altering contemporary thinking.",
+   "C) Northern Renaissance prints provide reliable records of contemporary events, opinions, and beliefs."
+  ],
+  "answer": "A,C",
+  "source": "ETS GRE Practice General Test #3, Section 3, Question 18"
+ },
+ {
+  "id": "GRE-ETS-PT3-S3-Q19",
+  "node": "V-4",
+  "nodeTitle": "Reading Comprehension",
+  "unit": "GRE Verbal",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"gre-stim\">Among academics involved in the study of Northern Renaissance prints (reproducible graphic artworks), an <strong>orthodox position</strong> can be said to have emerged. This position regards Renaissance prints as <strong>passive</strong> representations of their time, documents that reliably record contemporary events, opinions, and beliefs, and therefore as an important means of accessing the popular contemporary consciousness. In contrast, pioneering studies such as those by Scribner and Moxey take a strikingly different approach, according to which Northern Renaissance prints were purposeful, active, and important shaping forces in the communities that produced them. Scribner, for example, contends that religious and political prints of the German Reformation (approximately 1517 to 1555) functioned as popular propaganda: tools in a vigorous campaign aimed at altering people’s behavior, attitudes, and beliefs.</div><div class=\"stem\">The word “passive” appears in the second sentence of the passage, which begins, “This position regards Renaissance prints as passive representations of their time, documents that reliably record contemporary events, opinions, and beliefs. . . .” Replacement of the word “passive” with which of the following words results in the least change in meaning for the passage?<br><span class='hint'>Select only one answer choice.</span></div></div>",
+  "options": [
+   "A) disinterested",
+   "B) submissive",
+   "C) flaccid",
+   "D) supine",
+   "E) unreceptive"
+  ],
+  "answer": "A",
+  "source": "ETS GRE Practice General Test #3, Section 3, Question 19"
+ },
+ {
+  "id": "GRE-ETS-PT3-S3-Q20",
+  "node": "V-5",
+  "nodeTitle": "Argument passages",
+  "unit": "GRE Verbal",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"gre-stim\">Recently an unusually high number of dolphins have been found dead of infectious diseases, and most of these had abnormally high tissue concentrations of certain compounds that, even in low concentrations, reduce dolphins’ resistance to infection. The only source of these compounds in the dolphins’ environment is boat paint. Therefore, since dolphins rid their bodies of the compounds rapidly once exposure ceases, their mortality rate should decline rapidly if such boat paints are banned.</div><div class=\"stem\">Which of the following, if true, most strengthens the argument?<br><span class='hint'>Select only one answer choice.</span></div></div>",
+  "options": [
+   "A) The levels of the compounds typically used in boat paints today are lower than they were in boat paints manufactured a decade ago.",
+   "B) In high concentrations, the compounds are toxic to many types of marine animals.",
+   "C) The compounds break down into harmless substances after a few months of exposure to water or air.",
+   "D) High tissue levels of the compounds have recently been found in some marine animals, but there is no record of any of those animals dying in unusually large numbers recently.",
+   "E) The compounds do not leach out of the boat paint if the paint is applied exactly in accordance with the manufacturer’s directions."
+  ],
+  "answer": "C",
+  "alsoNodes": [
+   {
+    "id": "V-4",
+    "title": "Reading Comprehension"
+   }
+  ],
+  "source": "ETS GRE Practice General Test #3, Section 3, Question 20"
+ }
+]

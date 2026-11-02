@@ -3,7 +3,9 @@ title: "GRE Verbal - V-5 Argument Passages"
 type: recall
 status: active
 created: 2026-11-02
-source: "ETS GRE Reading Comprehension page; links to the GMAT Critical Reasoning notes in this repo. See ## Sources"
+source: "ETS GRE Reading Comprehension page; links to the GMAT Critical Reasoning notes in this repo. See **Practise on:** GRE Verbal, official ETS questions in `content/tests/gre-verbal/` (5 questions on short argument passages (assumption, weaken, strengthen, what must be true): 2 in `ets-pt1.json` (Section 3, questions 15 and 18) and 3 in `ets-pt3.json` (Section 2 question 6; Section 3 questions 10 and 20); each also counts in V-4).
+
+## Sources"
 tags: [gre, verbal, reading-comprehension, argument, critical-reasoning]
 node: V-5
 section: "Verbal Reasoning"

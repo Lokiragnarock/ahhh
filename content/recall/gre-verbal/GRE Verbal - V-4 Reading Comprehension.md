@@ -108,7 +108,7 @@ A: Extreme words such as always, never, only, all.
 Q: Average time per Verbal question?
 A: About 1.5 minutes (18 min for 12, or 23 min for 15).
 
-**Practise on:** GRE Verbal, official ETS sample questions (3 questions on one passage (single answer, select all, select-in-passage)), `content/tests/gre-verbal/ets-sample.json`.
+**Practise on:** GRE Verbal, official ETS questions in `content/tests/gre-verbal/` (32 questions, plus the 5 argument questions in V-5 that also count here: 3 sample items in `ets-sample.json` (single answer, select all, select-in-passage), 15 (+2) in `ets-pt1.json`, 14 (+3) in `ets-pt3.json`; includes single answer, select all, select-in-passage and indicated-portion function questions).
 
 ## Sources
 - ETS, Verbal Reasoning measure overview: https://www.ets.org/gre/test-takers/general-test/prepare/content/verbal-reasoning.html
