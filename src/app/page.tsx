@@ -9,9 +9,41 @@ import { TrackBoxes, type TrackRowData } from "@/components/home/TrackBoxes";
 export const dynamic = "force-dynamic";
 
 const GMAT_ORDER = ["gmat-quant", "gmat-verbal", "gmat-di", "gmat-strategy"];
+const GRE_ORDER = ["gre-quant", "gre-verbal", "gre-awa", "gre-strategy"];
+
+// Exam tracks: each subject is its own whole-box section.
+async function examSections(
+  track: "gmat" | "gre",
+  subjects: { slug: string }[],
+  order: string[],
+) {
+  const sorted = [...subjects].sort((a, b) => {
+    const ia = order.indexOf(a.slug);
+    const ib = order.indexOf(b.slug);
+    return (ia < 0 ? 99 : ia) - (ib < 0 ? 99 : ib);
+  });
+  const prefix = new RegExp(`^${track.toUpperCase()}\\s+`);
+  return Promise.all(
+    sorted.map(async (s) => {
+      const units = await getUnitGroups(s.slug).catch(() => []);
+      const n = units.reduce((sum, u) => sum + u.topics.length, 0);
+      return {
+        key: s.slug,
+        label: subjectLabel(s.slug).replace(prefix, ""),
+        meta: n > 0 ? `${n} ${n === 1 ? "topic" : "topics"}` : undefined,
+        items: [],
+        boxLink: { track, slug: s.slug, label: subjectLabel(s.slug) },
+      };
+    }),
+  );
+}
 
 export default async function HomePage() {
-  const [ahh, gmat] = await Promise.all([listSubjects("ahh"), listSubjects("gmat")]);
+  const [ahh, gmat, gre] = await Promise.all([
+    listSubjects("ahh"),
+    listSubjects("gmat"),
+    listSubjects("gre"),
+  ]);
 
   // Uni: one section per semester group, each holding subject buttons.
   const uniSections = SUBJECT_GROUPS.map((g) => {
@@ -24,25 +56,10 @@ export default async function HomePage() {
     };
   }).filter((s) => s.items.length > 0);
 
-  // GMAT: each subject is its own whole-box section.
-  const gmatSorted = [...gmat].sort((a, b) => {
-    const ia = GMAT_ORDER.indexOf(a.slug);
-    const ib = GMAT_ORDER.indexOf(b.slug);
-    return (ia < 0 ? 99 : ia) - (ib < 0 ? 99 : ib);
-  });
-  const gmatSections = await Promise.all(
-    gmatSorted.map(async (s) => {
-      const units = await getUnitGroups(s.slug).catch(() => []);
-      const n = units.reduce((sum, u) => sum + u.topics.length, 0);
-      return {
-        key: s.slug,
-        label: subjectLabel(s.slug).replace(/^GMAT\s+/, ""),
-        meta: n > 0 ? `${n} ${n === 1 ? "topic" : "topics"}` : undefined,
-        items: [],
-        boxLink: { track: "gmat", slug: s.slug, label: subjectLabel(s.slug) },
-      };
-    }),
-  );
+  const [gmatSections, greSections] = await Promise.all([
+    examSections("gmat", gmat, GMAT_ORDER),
+    examSections("gre", gre, GRE_ORDER),
+  ]);
 
   const rows: TrackRowData[] = [
     { key: "uni", title: "Uni", sub: "AHH", count: ahh.length, sections: uniSections },
@@ -53,7 +70,7 @@ export default async function HomePage() {
       sections: gmatSections,
       footerLink: { label: "Status", track: "gmat", href: "/gmat/status" },
     },
-    { key: "gre", title: "GRE", tag: "Building" },
+    { key: "gre", title: "GRE", count: gre.length, sections: greSections },
     { key: "cat", title: "CAT", tag: "Planned" },
     { key: "ca", title: "CA", sub: "ICAI Intermediate", tag: "Planned" },
   ];
