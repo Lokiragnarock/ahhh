@@ -115,6 +115,6 @@ A: Lets you choose which test scores each school receives.
 - ETS, ID requirements (IDVaaS 72-hour rule): https://www.ets.org/gre/test-takers/general-test/register/id-requirements.html
 - ETS, test at home: https://www.ets.org/gre/test-takers/general-test/test-day/at-home-test-day.html
 - ETS, send scores (ScoreSelect): https://www.ets.org/gre/test-takers/general-test/scores/send-scores.html
-- ETS, Interpreting GRE Scores (130 to 170 scale): https://www.ets.org/pdfs/gre/interpreting-gre-scores.pdf
+- ETS, Interpreting GRE Scores (130 to 170 scale): https://www.ets.org/content/dam/ets-org/pdfs/gre/interpreting-gre-scores.pdf
 - ISB PGP FAQ (no online or home-based GMAT/GRE scores): https://www.isb.edu/programmes/post-graduate-programmes/pgp-in-management/faqs
 - Second camera date (5 January 2026) and the 31 March 2026 IDVaaS booking date: test-prep sources (e.g. Magoosh, Collegedunia), not yet on an ETS page.
