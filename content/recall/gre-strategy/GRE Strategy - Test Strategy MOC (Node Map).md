@@ -32,6 +32,6 @@ graph TD
 ## Headline numbers to know
 
 - About 1 h 58 min: AWA 30 min, Verbal 12q/18 min and 15q/23 min, Quant 12q/21 min and 15q/26 min.
-- Section-level adaptive for Verbal and Quant. Verbal and Quant 130 to 170 (confirm on ETS), AWA 0 to 6 in half points.
+- Section-level adaptive for Verbal and Quant. Verbal and Quant 130 to 170, AWA 0 to 6 in half points.
 - Retake every 21 days, up to five times in a rolling 12 months. ScoreSelect picks which scores schools see.
-- At home: IDVaaS check at least 72 hours before. Second camera rule and 31 March 2026 booking date still to confirm on ETS (see S-1).
+- At home: IDVaaS check at least 72 hours before. Second camera from 5 January 2026 and the 31 March 2026 booking date come from test-prep sources (see S-1). ISB takes test-centre scores only.

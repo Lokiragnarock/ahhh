@@ -3,7 +3,7 @@ title: "GRE Strategy - S-1 Format and Scoring"
 type: recall
 status: active
 created: 2026-11-02
-source: "ETS GRE test structure, scheduling and at-home pages; items marked (unverified) were not confirmed on an ETS page. See ## Sources"
+source: "ETS GRE test structure, scheduling and at-home pages; two at-home dates come from test-prep sources. See ## Sources"
 tags: [gre, strategy, format, scoring]
 node: S-1
 section: "Strategy"
@@ -40,7 +40,7 @@ There is no question-by-question adaptivity, so you can skip around and change a
 
 ## Score scales
 
-- **Verbal and Quant:** 130 to 170 per section, in one-point steps. *(Unverified on the ETS pages fetched while writing this; confirm on ETS's "Understanding your scores" page.)*
+- **Verbal and Quant:** 130 to 170 per section, in one-point steps (ETS, Interpreting GRE Scores).
 - **Analytical Writing:** 0 to 6, in half-point steps (ETS). Reported as a single score.
 - Scores arrive 8 to 10 days after the test in your ETS account.
 
@@ -61,10 +61,10 @@ Once every **21 days**, up to **five times** in any rolling 12-month period (ETS
 ## At-home testing rules to know
 
 - **ID verification (ETS):** complete IDVaaS identity verification at least **72 hours** before your test. If you register inside 72 hours, verify immediately after scheduling. Late verification can delay check-in or stop you testing. ETS' ID page gives the rule as relative, with no calendar date.
-- **Applies to tests booked from 31 March 2026** *(unverified: this date comes from third-party test-prep sources, not from the ETS pages fetched; the ETS page just states the 72-hour rule)*.
-- **Second camera required since 5 January 2026** *(unverified: reported by several test-prep sources, and the ETS at-home page fetched for this note did not mention a second camera; confirm on ETS's current at-home page before booking)*. The usual setup described is a phone or tablet linked by QR code to give a side view of the workspace.
+- **Applies to tests booked from 31 March 2026** *(the date is from several test-prep sources; ETS's own pages state the 72-hour rule without a date)*.
+- **Second camera required since 5 January 2026** *(reported consistently by several test-prep sources, not yet seen on an ETS page; check ETS's at-home page when booking)*. The usual setup described is a phone or tablet linked by QR code to give a side view of the workspace.
 - Room rules (ETS): quiet, well lit, clear table, alone, door visible to the proctor, face and both ears visible, no headset, close other apps, check in up to 15 minutes early, and start within 12 minutes of the appointment or the test is cancelled without refund.
-- Some business schools do not accept at-home scores. For GMAT, ISB requires a test-centre score (see [[GMAT Strategy - S-5 ISB Context Test Centre Attempts Timeline Target]]). Check ISB's rule for GRE before choosing at-home.
+- Some business schools do not accept at-home scores. For GMAT, ISB requires a test-centre score (see [[GMAT Strategy - S-5 ISB Context Test Centre Attempts Timeline Target]]). The same goes for GRE: **ISB does not accept online or at-home GMAT or GRE scores** (ISB PGP FAQ, from the April 2025 intake; guides say this covers PGP YL too). For ISB, book a **test centre** GRE.
 
 ## Concept map
 
@@ -97,7 +97,7 @@ Q: What does section-level adaptive mean?
 A: Section 1 is average difficulty; its result sets the difficulty of section 2.
 
 Q: Score ranges?
-A: Verbal and Quant 130 to 170 (confirm on ETS); AWA 0 to 6 in half-point steps.
+A: Verbal and Quant 130 to 170; AWA 0 to 6 in half-point steps.
 
 Q: Retake limit?
 A: Once every 21 days, up to five times in a rolling 12 months.
@@ -115,4 +115,6 @@ A: Lets you choose which test scores each school receives.
 - ETS, ID requirements (IDVaaS 72-hour rule): https://www.ets.org/gre/test-takers/general-test/register/id-requirements.html
 - ETS, test at home: https://www.ets.org/gre/test-takers/general-test/test-day/at-home-test-day.html
 - ETS, send scores (ScoreSelect): https://www.ets.org/gre/test-takers/general-test/scores/send-scores.html
-- Second camera date (5 January 2026) and the 31 March 2026 IDVaaS booking date: third-party summaries only, to be confirmed on ETS.
+- ETS, Interpreting GRE Scores (130 to 170 scale): https://www.ets.org/pdfs/gre/interpreting-gre-scores.pdf
+- ISB PGP FAQ (no online or home-based GMAT/GRE scores): https://www.isb.edu/programmes/post-graduate-programmes/pgp-in-management/faqs
+- Second camera date (5 January 2026) and the 31 March 2026 IDVaaS booking date: test-prep sources (e.g. Magoosh, Collegedunia), not yet on an ETS page.

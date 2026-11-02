@@ -29,7 +29,7 @@ state: unstudied
 | Backup test month | **TBD (student to fill in)** |
 | School list | **TBD (student to fill in)** |
 | Score-report deadline per school | **TBD (student to fill in)** |
-| Does each school accept at-home scores? | **TBD (check each school)** |
+| Does each school accept at-home scores? | ISB: **no**, test centre only (ISB PGP FAQ). Others: **TBD** |
 
 Do not guess these. Set them after a diagnostic and a look at each programme's published score range.
 
