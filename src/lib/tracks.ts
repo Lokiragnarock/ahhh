@@ -107,7 +107,12 @@ export const TRACKS: Record<TrackSlug, TrackConfig> = {
       { href: "/backup", label: "Backup" },
       { href: "/help", label: "Help" },
     ],
-    sections: [{ slug: "gre-quant", label: "GRE Quant" }],
+    sections: [
+      { slug: "gre-quant", label: "GRE Quant" },
+      { slug: "gre-verbal", label: "GRE Verbal" },
+      { slug: "gre-awa", label: "GRE Writing" },
+      { slug: "gre-strategy", label: "GRE Strategy" },
+    ],
     scoring: null,
     heavy: false,
   },
