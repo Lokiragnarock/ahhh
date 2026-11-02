@@ -8,7 +8,9 @@ Files
 - gre-screen-reader-practice-test-3-quant.docx, gre-screen-reader-practice-test-3-answer-key.docx
   Practice Test 3: same test as the paper-delivered Practice Book. Sections 4 (15) and 5 (20).
 - gre-sample-questions.pdf  https://www.ets.org/pdfs/gre/gre-sample-questions.pdf
-  About 20 Quant sample questions with explanations.
+  About 20 Quant sample questions with explanations. The same PDF also has the Verbal
+  samples (3 Reading Comprehension, 2 Text Completion, 2 Sentence Equivalence), used in
+  content/tests/gre-verbal/ets-sample.json.
 - text/*.txt  plain-text dumps of the .docx files made with scripts/docx2txt.py.
   [IMG:media/imageN] marks an image in the .docx. Large images are figures;
   tiny ones are maths expressions, also given in words next to them.

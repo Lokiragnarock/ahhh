@@ -75,6 +75,8 @@ A: Predict the meaning, then scan the six choices for synonym pairs.
 Q: Partial credit for one right word?
 A: No.
 
+**Practise on:** GRE Verbal, official ETS sample questions (2 questions), `content/tests/gre-verbal/ets-sample.json`.
+
 ## Sources
 - ETS, Verbal Reasoning measure overview (Sentence Equivalence: one blank, choose two answers with the same meaning): https://www.ets.org/gre/test-takers/general-test/prepare/content/verbal-reasoning.html
 - ETS, Sentence Equivalence question type page: https://www.ets.org/gre/test-takers/general-test/prepare/content/verbal-reasoning/sentence-equivalence.html

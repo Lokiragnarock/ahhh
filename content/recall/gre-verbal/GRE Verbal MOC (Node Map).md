@@ -40,3 +40,7 @@ graph TD
 ## Reuse from GMAT
 
 V-5 links to the GMAT Critical Reasoning notes ([[GMAT Verbal - V-1 Argument Anatomy]] to [[GMAT Verbal - V-4 Inference and Explain the Discrepancy]]). The reasoning is the same; the GRE adds select-all and select-in-passage formats.
+
+## Practice questions
+
+7 official ETS sample questions in `content/tests/gre-verbal/ets-sample.json`: V-1 Text Completion (2), V-2 Sentence Equivalence (2), V-4 Reading Comprehension (3). Source: ETS GRE Verbal Reasoning and Quantitative Reasoning Sample Questions with Explanations.
