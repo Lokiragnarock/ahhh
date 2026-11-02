@@ -3,7 +3,7 @@ title: "GRE Quant - Q-5 Lines, Angles and Triangles"
 type: recall
 status: active
 created: 2026-11-01
-source: "ETS GRE Math Review 3.1 and 3.3; traps from the GRE Quant Lab bank solutions. See ## Sources"
+source: "ETS GRE Math Review 3.1 and 3.3. See ## Sources"
 tags: [gre, quant, geometry, triangles, angles]
 node: Q-5
 section: "Quantitative Reasoning"
@@ -16,7 +16,7 @@ state: unstudied
 
 # Q-5: Lines, Angles and Triangles
 
-**Why this matters:** 40 questions, more than half of them QCs. GRE figures are not necessarily drawn to scale, so the bank tests whether you reason from the given facts rather than from the picture.
+**Why this matters:** 7 of the 96 ETS questions, 4 of them QCs. GRE figures are not necessarily drawn to scale, so ETS tests whether you reason from the given facts rather than from the picture.
 
 ## Lines and angles
 
@@ -48,22 +48,6 @@ state: unstudied
 
 - Equal angles mean proportional sides (ETS 3.3).
 - With a length ratio k, areas scale by k² and volumes by k³.
-
-## Traps the bank keeps setting
-
-- Trusting the picture: "not drawn to scale" means work from the stated angles and sides.
-- Seeing 6 and 8 and assuming a right triangle when no angle is given.
-- Counting only one case when it is not said which side is the longest (or which angle is the apex).
-- Treating "the greatest possible area" as fixed: if equality is possible, a QC answer can be D.
-
-## Practise on
-
-- [GRE-t003-easy-e-11](/practice/question/GRE-t003-easy-e-11) triangle inequality (select all)
-- [GRE-t004-medium-m-3](/practice/question/GRE-t004-medium-m-3) angle and opposite side (QC)
-- [GRE-k002-main-h-1](/practice/question/GRE-k002-main-h-1) acute angle, opposite side (QC)
-- [GRE-t005-s1-s1-8](/practice/question/GRE-t005-s1-s1-8) possible triangle areas (select all)
-- [GRE-t006-hard-h-3](/practice/question/GRE-t006-hard-h-3) greatest right-triangle area (QC)
-- [GRE-t011-medium-m-3](/practice/question/GRE-t011-medium-m-3) 30-60-90 (QC)
 
 ## Concept map
 
@@ -110,4 +94,3 @@ A: Hypotenuse 13, so √(169 − 25) = 12.
 ## Sources
 - ETS, *GRE Math Review*, 3.1 Lines and Angles, 3.3 Triangles: https://www.ets.org/pdfs/gre/gre-math-review.pdf
 - ETS, GRE Quantitative Reasoning overview (figures not necessarily drawn to scale): https://www.ets.org/gre/test-takers/general-test/prepare/content/quantitative-reasoning.html
-- GRE Quant Lab question bank solutions (traps), pekalkan/gre-quant-lab @ 9bdc26e, translated in this repo
