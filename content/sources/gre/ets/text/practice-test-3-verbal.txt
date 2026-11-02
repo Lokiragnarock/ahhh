@@ -1,0 +1,595 @@
+[IMG:media/image1.jpeg]
+GRADUATE RECORD EXAMINATIONS^{®}
+Practice General Test #3
+Section 2—Verbal Reasoning
+Section 3—Verbal Reasoning
+[IMG:media/image2.png]Copyright 2023 by E T S. All rights reserved. E T S, the E T S logo, GRADUATE RECORD EXAMINATIONS, and G R E are registered trademarks of E T S in the United States and other countries.
+Instructions for the Verbal Reasoning and Quantitative Reasoning Sections
+Note: These instructions are the same for both the Verbal Reasoning (sections 2 and 3) and Quantitative Reasoning (sections 4 and 5) portions of this practice test. They are provided in both documents for your convenience.
+Information for screen reader users:
+This document has been created to be accessible to individuals who use screen readers. You may wish to consult the manual or help system for your screen reader to learn how best to take advantage of the features implemented in this document. Please consult the separate document, “G R E Screen Reader Instructions.docx,” for important details.
+This practice test includes content that some users may wish to skip. For example, some questions require you to complete sentences or longer texts from among several choices. For those questions where it might be helpful to hear the available choices in context, text of the choices in context is included. However, some users may wish to skip this material. Similarly, some questions include detailed figure descriptions that some users may wish to skip because they can get the required information from the accompanying tactile or large print figures. In each case, material that may be skipped is delineated by statements like “Begin skippable content” and “End skippable content” each in the Heading 6 style.
+As a reminder, standard timing for each section of the test is provided in the following table:
+| Section Order | Section Name | Standard Time |
+| 1 | Analytical Writing | 30 minutes |
+| 2 | Verbal Reasoning | 21 minutes |
+| 3 | Verbal Reasoning | 28 minutes |
+| 4 | Quantitative Reasoning | 24 minutes |
+| 5 | Quantitative Reasoning | 32 minutes |
+The Quantitative sections include figures and their descriptions. In addition, separate figure supplements, in large print (18 point) and raisedline formats, are available.
+Important Notes
+In the actual test, your scores for the multiplechoice sections will be determined by the number of questions you answer correctly. Nothing is subtracted from a score if you answer a question incorrectly. Therefore, to maximize your scores it is better for you to guess at an answer than not to respond at all. Work as rapidly as you can without losing accuracy. Do not spend too much time on questions that are too difficult for you. Go on to the other questions and come back to the difficult ones later.
+Some or all of the passages in this test have been adapted from published material to provide the examinee with significant problems for analysis and evaluation. To make the passages suitable for testing purposes, the style, content, or point of view of the original may have been altered. The ideas contained in the passages do not necessarily represent the opinions of the Graduate Record Examinations Board or Educational Testing Service.
+You may use a calculator in the Quantitative Reasoning sections only. You will be provided with a basic calculator and cannot use any other calculator, except as an approved accommodation.
+Marking Your Answers
+In the actual test, all answers must be entered in the test book (or in the supervisor’s copy of the test book if you are not using a print format test). If answers are being recorded in a large print test book, the directions for marking answers are slightly different because answers entered in large print test books are not machinescored.
+In a regular test book, answers are entered by filling in the circle or circles corresponding to your answer choice. In a large print test book, answers are entered by circling the entry or entries corresponding to your answer choice. If you or your scribe are marking answers on a regular print test book, be sure that each mark is dark and completely fills the circle.
+If marking answers on a large print test book, be sure that each answer is marked clearly and unambiguously. Any stray marks must be erased carefully. If you change an answer, be sure that all previous marks are erased completely. Stray marks and incomplete erasures may be read as intended answers.
+Question Formats
+This practice test may include questions that would not be used in an actual test administered in an alternate format because they have been determined to be less suitable for presentation in such formats.
+The questions in these sections have several different formats. A brief description of these formats and instructions for entering your answer choices follows.
+MultipleChoice Questions—Select One Answer Choice
+These standard multiplechoice questions require you to select just one answer choice from a list of options. You will receive credit only if you mark the single correct answer choice and no other.
+Example 1.
+What city is the capital of France?
+Rome
+Paris
+London
+Cairo
+In this example, choice B (Paris) should be marked.
+MultipleChoice Questions—Select One or More Answer Choices
+Some of these questions specify how many answer choices you must select; others require you to select all that apply. In either case, to receive credit all of the correct answer choices must be marked. In printed versions of the test, these questions are distinguished by the use of a square box to select an answer choice.
+Example 2.
+Select all that apply.
+Which of the following countries are in Africa?
+Chad
+China
+France
+Kenya
+In this example, choices A and D (Chad and Kenya) should be marked.
+Column Format Questions
+This question type presents the answer choices in groups (presented as columns in the printed version of the test). You must pick one answer choice from each group. You will receive credit only if you mark the correct answer choice in each group. In the following example, there is a sentence with two blanks, each indicating that something has been omitted. For each question of this type, first you will hear the text with the word “{BLANK}” in place of the omitted material. Next, you will hear the text again, but in place of each blank, you will hear three lettered options for filling that blank. The set of lettered options is formatted as bold and enclosed in braces. Each option consists of a word or phrase.
+For questions containing one or two blanks, following the list of answer choices are up to nine readings of the text, one for each answer choice combination. The group of readings begins with a “Begin Skippable Content” level6 heading and ends with an “End Skippable Content” level6 heading. Each reading consists of the option letter or letters, the words or phrases being combined, and the text with the combination of the words or phrases inserted into the blanks.
+For questions containing three blanks, the choices will not be read in context because it has been determined that replaying the question for all possible combinations of answer choices is not a useful way to present these questions.
+Example 3.
+This question has two blanks.
+Complete the following sentence.
+{BLANK} is the capital of {BLANK}.
+Now listen to the text with the three options inserted in place of each blank.
+{A. Paris, B. Rome, C. Cairo} is the capital of {D. Canada, E. France, F. China}.
+Indicate your two answer choices and skip hearing the Answer Choices in Context or go on to hear them in context before indicating your answer choices. Fill all blanks in the way that best completes the text.
+Begin skippable content.
+Answer Choices in Context:
+A, D. Paris, Canada. Paris is the capital of Canada.
+A, E. Paris, France. Paris is the capital of France.
+A, F. Paris, China. Paris is the capital of China.
+B, D. Rome, Canada. Rome is the capital of Canada.
+B, E. Rome, France. Rome is the capital of France.
+B, F. Rome, China. Rome is the capital of China.
+C, D. Cairo, Canada. Cairo is the capital of Canada.
+C, E. Cairo, France. Cairo is the capital of France.
+C, F. Cairo, China. Cairo is the capital of China.
+End skippable content.
+Indicate your two answer choices. Fill all blanks in the way that best completes the text.
+In this example, choice A, Paris (from the group A, B, C), and E, France (from the group D, E, F), should be indicated as the answer.
+Numeric Entry Questions
+These questions require a number to be entered by marking entries in a grid according to the following instructions.
+Your answer may be an integer, a decimal, or a fraction, and it may be negative.
+Equivalent forms of the correct answer, such as 2.5 and 2.50, are all correct. Fractions do not need to be reduced to lowest terms, though you may need to reduce your fraction to fit in the grid.
+Enter the exact answer unless the question asks you to round your answer.
+If a question asks for a fraction, the grid will have a builtin division slash. Otherwise, the grid will have a decimal point.
+The instructions for marking the entries will depend on whether a regular print or a large print test is being used to record your answers. If your answers are being entered into a regular print edition of the test, the following instructions apply:
+Start your answer in any column, space permitting. Fill in no more than one entry in any column of the grid. Columns not needed should be left blank.
+Write your answer in the boxes at the top of the grid and fill in the corresponding circles. You will receive credit only if your grid entries are clearly marked, regardless of the number written in the boxes at the top.
+If your answers are being entered into a large print edition of the test, instead of filling in circles on the grid in steps 5 and 6, you will be asked to circle those entries.
+The first multiplechoice section follows. In an actual test, testing time will resume when you begin the first multiplechoice section.
+The Graduate Record Examinations^{®} Practice General Test #3.
+Section 2—Verbal Reasoning.
+15 Questions.
+Directions for Questions 1 and 2:
+Each of the following questions includes a short text with a blank, indicating that something has been omitted. Select the one entry that best completes the text.
+For each question, first you will hear the text with the word “{BLANK}” (set in boldface, underlined, and enclosed in braces) indicating that a word or phrase is omitted. There are five answer choices, each consisting of a word or phrase, for filling in the blank. Next, you will hear the five lettered options for filling in the blank. You may then indicate your answer, or go on to listen to the answer choices in context.
+Following the list of answer choices are five lettered readings of the text, one for each answer choice. The group of readings is separated from the main text using the “Begin skippable content” and “End skippable content” level6 headings.
+Question 1.
+This filmmaker is not outspoken on political matters: her films are known for their aesthetic qualities rather than for their {BLANK} ones.
+polemical
+cinematic
+narrative
+commercial
+dramatic
+Indicate one answer choice or go on to hear the choices in context.
+Begin skippable content.
+Answer Choices in Context:
+polemical. This filmmaker is not outspoken on political matters: her films are known for their aesthetic qualities rather than for their polemical ones.
+cinematic. This filmmaker is not outspoken on political matters: her films are known for their aesthetic qualities rather than for their cinematic ones.
+narrative. This filmmaker is not outspoken on political matters: her films are known for their aesthetic qualities rather than for their narrative ones.
+commercial. This filmmaker is not outspoken on political matters: her films are known for their aesthetic qualities rather than for their commercial ones.
+dramatic. This filmmaker is not outspoken on political matters: her films are known for their aesthetic qualities rather than for their dramatic ones.
+Indicate one answer choice.
+End skippable content.
+Question 2.
+James Boswell’s Life of Samuel Johnson is generally thought to have established Boswell as the first great modern biographer; yet the claim of {BLANK} could be made for Johnson himself as author of a life of Richard Savage.
+partisanship
+omniscience
+precedence
+opportunism
+perseverance
+Indicate one answer choice or go on to hear the choices in context.
+Begin skippable content.
+Answer Choices in Context:
+partisanship. James Boswell’s Life of Samuel Johnson is generally thought to have established Boswell as the first great modern biographer; yet the claim of partisanship could be made for Johnson himself as author of a life of Richard Savage.
+omniscience. James Boswell’s Life of Samuel Johnson is generally thought to have established Boswell as the first great modern biographer; yet the claim of omniscience could be made for Johnson himself as author of a life of Richard Savage.
+precedence. James Boswell’s Life of Samuel Johnson is generally thought to have established Boswell as the first great modern biographer; yet the claim of precedence could be made for Johnson himself as author of a life of Richard Savage.
+opportunism. James Boswell’s Life of Samuel Johnson is generally thought to have established Boswell as the first great modern biographer; yet the claim of opportunism could be made for Johnson himself as author of a life of Richard Savage.
+perseverance. James Boswell’s Life of Samuel Johnson is generally thought to have established Boswell as the first great modern biographer; yet the claim of perseverance could be made for Johnson himself as author of a life of Richard Savage.
+Indicate one answer choice.
+End skippable content.
+Directions for Questions 3 through 5:
+Each of the following questions includes a short text with two or three blanks, each blank indicating that something has been omitted. You will be asked to select one entry for each blank from the corresponding choices. Fill all blanks in the way that best completes the text.
+For each question, first you will hear the text with the word “{BLANK}” in place of the omitted material. Next, you will hear the text again, but in place of each blank, you will hear three lettered options for completing that blank. The set of lettered options is formatted as bold and enclosed by braces. Each option consists of a word or phrase.
+For questions containing two blanks, following the list of answer choices are nine readings of the text, one for each answer choice combination. The group of readings begins with a “Begin Skippable Content” level6 heading and ends with an “End Skippable Content” level6 heading. Each reading consists of two option letters, the two words or phrases being combined, and the text with the combination of the words or phrases inserted into the blanks.
+For questions containing three blanks, the choices will not be read in context because it has been determined that replaying the question for all possible combinations of answer choices is not a useful way to present these questions.
+Question 3.
+This question has two blanks.
+Critics charge that the regulatory agency, having never defined what constitutes an untenable risk, has grown {BLANK} outside influences on that issue: several experts have {BLANK} it recently for allowing one power plant to delay an inspection for more than six weeks despite compelling safety concerns.
+Now listen to the text with the three options inserted in place of each blank.
+Critics charge that the regulatory agency, having never defined what constitutes an untenable risk, has grown {A. susceptible to, B. unaware of, C. irritated at} outside influences on that issue: several experts have {D. complimented, E. panned, F. overlooked} it recently for allowing one power plant to delay an inspection for more than six weeks despite compelling safety concerns.
+Indicate your two answer choices or go on to hear them in context. Fill all blanks in the way that best completes the text.
+Begin skippable content.
+Answer Choices in Context:
+A, D. susceptible to, complimented. Critics charge that the regulatory agency, having never defined what constitutes an untenable risk, has grown susceptible to outside influences on that issue: several experts have complimented it recently for allowing one power plant to delay an inspection for more than six weeks despite compelling safety concerns.
+A, E. susceptible to, panned. Critics charge that the regulatory agency, having never defined what constitutes an untenable risk, has grown susceptible to outside influences on that issue: several experts have panned it recently for allowing one power plant to delay an inspection for more than six weeks despite compelling safety concerns.
+A, F. susceptible to, overlooked. Critics charge that the regulatory agency, having never defined what constitutes an untenable risk, has grown susceptible to outside influences on that issue: several experts have overlooked it recently for allowing one power plant to delay an inspection for more than six weeks despite compelling safety concerns.
+B, D. unaware of, complimented. Critics charge that the regulatory agency, having never defined what constitutes an untenable risk, has grown unaware of outside influences on that issue: several experts have complimented it recently for allowing one power plant to delay an inspection for more than six weeks despite compelling safety concerns.
+B, E. unaware of, panned. Critics charge that the regulatory agency, having never defined what constitutes an untenable risk, has grown unaware of outside influences on that issue: several experts have panned it recently for allowing one power plant to delay an inspection for more than six weeks despite compelling safety concerns.
+B, F. unaware of, overlooked. Critics charge that the regulatory agency, having never defined what constitutes an untenable risk, has grown unaware of outside influences on that issue: several experts have overlooked it recently for allowing one power plant to delay an inspection for more than six weeks despite compelling safety concerns.
+C, D. irritated at, complimented. Critics charge that the regulatory agency, having never defined what constitutes an untenable risk, has grown irritated at outside influences on that issue: several experts have complimented it recently for allowing one power plant to delay an inspection for more than six weeks despite compelling safety concerns.
+C, E. irritated at, panned. Critics charge that the regulatory agency, having never defined what constitutes an untenable risk, has grown irritated at outside influences on that issue: several experts have panned it recently for allowing one power plant to delay an inspection for more than six weeks despite compelling safety concerns.
+C, F. irritated at, overlooked. Critics charge that the regulatory agency, having never defined what constitutes an untenable risk, has grown irritated at outside influences on that issue: several experts have overlooked it recently for allowing one power plant to delay an inspection for more than six weeks despite compelling safety concerns.
+Indicate your two answer choices. Fill all blanks in the way that best completes the text.
+End skippable content.
+Question 4.
+This question has two blanks.
+Because we assume the {BLANK} of natural design, nature can often {BLANK} us: as the Wright brothers noted, the birds initially misled them in almost every particular, but their Flyer eventually succeeded by being the least avian of the early flying machines.
+Now listen to the text with the three options inserted in place of each blank.
+Because we assume the {A. quirkiness, B. preeminence, C. maladroitness} of natural design, nature can often {D. galvanize, E. befriend, F. beguile} us: as the Wright brothers noted, the birds initially misled them in almost every particular, but their Flyer eventually succeeded by being the least avian of the early flying machines.
+Indicate your two answer choices or go on to hear them in context. Fill all blanks in the way that best completes the text.
+Begin skippable content.
+Answer Choices in Context:
+A, D. quirkiness, galvanize. Because we assume the quirkiness of natural design, nature can often galvanize us: as the Wright brothers noted, the birds initially misled them in almost every particular, but their Flyer eventually succeeded by being the least avian of the early flying machines.
+A, E. quirkiness, befriend. Because we assume the quirkiness of natural design, nature can often befriend us: as the Wright brothers noted, the birds initially misled them in almost every particular, but their Flyer eventually succeeded by being the least avian of the early flying machines.
+A, F. quirkiness, beguile. Because we assume the quirkiness of natural design, nature can often beguile us: as the Wright brothers noted, the birds initially misled them in almost every particular, but their Flyer eventually succeeded by being the least avian of the early flying machines.
+B, D. preeminence, galvanize. Because we assume the preeminence of natural design, nature can often galvanize us: as the Wright brothers noted, the birds initially misled them in almost every particular, but their Flyer eventually succeeded by being the least avian of the early flying machines.
+B, E. preeminence, befriend. Because we assume the preeminence of natural design, nature can often befriend us: as the Wright brothers noted, the birds initially misled them in almost every particular, but their Flyer eventually succeeded by being the least avian of the early flying machines.
+B, F. preeminence, beguile. Because we assume the preeminence of natural design, nature can often beguile us: as the Wright brothers noted, the birds initially misled them in almost every particular, but their Flyer eventually succeeded by being the least avian of the early flying machines.
+C, D. maladroitness, galvanize. Because we assume the maladroitness of natural design, nature can often galvanize us: as the Wright brothers noted, the birds initially misled them in almost every particular, but their Flyer eventually succeeded by being the least avian of the early flying machines.
+C, E. maladroitness, befriend. Because we assume the maladroitness of natural design, nature can often befriend us: as the Wright brothers noted, the birds initially misled them in almost every particular, but their Flyer eventually succeeded by being the least avian of the early flying machines.
+C, F. maladroitness, beguile. Because we assume the maladroitness of natural design, nature can often beguile us: as the Wright brothers noted, the birds initially misled them in almost every particular, but their Flyer eventually succeeded by being the least avian of the early flying machines.
+Indicate your two answer choices. Fill all blanks in the way that best completes the text.
+End skippable content.
+Question 5.
+This question has three blanks.
+Historical research makes two somewhat antithetical truths that sounded {BLANK} come to seem profound: knowledge of the past comes entirely from written documents, giving written words great {BLANK}, and the more material you uncover, the more {BLANK} your subject becomes.
+Now listen to the text with the three options inserted in place of each blank.
+Historical research makes two somewhat antithetical truths that sounded {A. deep, B. portentous, C. banal} come to seem profound: knowledge of the past comes entirely from written documents, giving written words great {D. consequence, E. antiquity, F. simultaneity}, and the more material you uncover, the more {G. elusive, H. contemporary, I. circumstantial} your subject becomes.
+Indicate your three answer choices. Fill all blanks in the way that best completes the text.
+Question 6 is based on the following passage.
+Extensive housing construction is underway in Pataska Forest, the habitat of a large population of deer. Because deer feed at the edges of forests, these deer will be attracted to the spaces alongside the new roads being cut through Pataska Forest to serve the new residential areas. Consequently, once the housing is occupied, the annual number of the forest’s deer hit by cars will be much higher than before construction started.
+Question 6.
+This question has five answer choices, labeled A through E. Select and indicate the best answer from among these choices.
+Which of the following is an assumption on which the argument depends?
+The number of deer hit by commercial vehicles will not increase significantly when the housing is occupied.
+Deer will be as attracted to the forest edge around new houses as to the forest edge alongside roads.
+In years past, the annual number of deer that have been hit by cars on existing roads through Pataska Forest has been very low.
+The development will leave sufficient forest to sustain a significant population of deer.
+No deer hunting will be allowed in Pataska Forest when the housing is occupied.
+Select and indicate one answer choice from among the choices provided.
+Directions for Questions 7 through 9:
+Each of the following questions includes a sentence with a blank indicating that something has been omitted. Following the sentence you will hear a list of six words or phrases, each of which could be used to complete the sentence. Select the two answer choices that, when used to complete the sentence, fit the meaning of the sentence as a whole and produce completed sentences that are alike in meaning.
+Following the list of answer choices are six readings of the sentence, one for each answer choice. The group of readings is surrounded by “Begin skippable content” and “End skippable content” labels formatted as level6 headings. Each reading will begin with the word or phrase that can be inserted into the blank, followed by a reading of the sentence with the word or phrase inserted into the blank.
+Question 7.
+Female video artists’ rise to prominence over the past 30 years has {BLANK} the ascent of video as an art form: it is only within the past three decades that video art has attained its current, respected status.
+Now listen to the six answer choices, labeled A through F.
+matched
+politicized
+paralleled
+obviated
+accelerated
+forestalled
+Indicate your two answer choices or go on to hear them in context.
+Begin skippable content.
+Answer Choices in Context:
+matched. Female video artists’ rise to prominence over the past 30 years has matched the ascent of video as an art form: it is only within the past three decades that video art has attained its current, respected status.
+politicized. Female video artists’ rise to prominence over the past 30 years has politicized the ascent of video as an art form: it is only within the past three decades that video art has attained its current, respected status.
+paralleled. Female video artists’ rise to prominence over the past 30 years has paralleled the ascent of video as an art form: it is only within the past three decades that video art has attained its current, respected status.
+obviated. Female video artists’ rise to prominence over the past 30 years has obviated the ascent of video as an art form: it is only within the past three decades that video art has attained its current, respected status.
+accelerated. Female video artists’ rise to prominence over the past 30 years has accelerated the ascent of video as an art form: it is only within the past three decades that video art has attained its current, respected status.
+forestalled. Female video artists’ rise to prominence over the past 30 years has forestalled the ascent of video as an art form: it is only within the past three decades that video art has attained its current, respected status.
+Indicate your two answer choices.
+End skippable content.
+Question 8.
+The spy’s repeated bungling was, above all else, {BLANK} those who wished to thwart her efforts, since it was so unpredictable as to obscure any pattern that might otherwise lead to her capture.
+Now listen to the six answer choices, labeled A through F.
+an obstacle to
+a signal to
+a hindrance to
+an indication for
+a snare for
+a boon to
+Indicate your two answer choices or go on to hear them in context.
+Begin skippable content.
+Answer Choices in Context:
+an obstacle to. The spy’s repeated bungling was, above all else, an obstacle to those who wished to thwart her efforts, since it was so unpredictable as to obscure any pattern that might otherwise lead to her capture.
+a signal to. The spy’s repeated bungling was, above all else, a signal to those who wished to thwart her efforts, since it was so unpredictable as to obscure any pattern that might otherwise lead to her capture.
+a hindrance to. The spy’s repeated bungling was, above all else, a hindrance to those who wished to thwart her efforts, since it was so unpredictable as to obscure any pattern that might otherwise lead to her capture.
+an indication for. The spy’s repeated bungling was, above all else, an indication for those who wished to thwart her efforts, since it was so unpredictable as to obscure any pattern that might otherwise lead to her capture.
+a snare for. The spy’s repeated bungling was, above all else, a snare for those who wished to thwart her efforts, since it was so unpredictable as to obscure any pattern that might otherwise lead to her capture.
+a boon to. The spy’s repeated bungling was, above all else, a boon to those who wished to thwart her efforts, since it was so unpredictable as to obscure any pattern that might otherwise lead to her capture.
+Indicate your two answer choices.
+End skippable content.
+Question 9.
+Each member of the journalistic pair served as {BLANK} the other: each refrained from publishing a given piece if the other doubted that it was ready to be printed.
+Now listen to the six answer choices, labeled A through F.
+a check on
+an advocate for
+an impediment to
+a brake on
+an apologist for
+an intermediary for
+Indicate your two answer choices or go on to hear them in context.
+Begin skippable content.
+Answer Choices in Context:
+a check on. Each member of the journalistic pair served as a check on the other: each refrained from publishing a given piece if the other doubted that it was ready to be printed.
+an advocate for. Each member of the journalistic pair served as an advocate for the other: each refrained from publishing a given piece if the other doubted that it was ready to be printed.
+an impediment to. Each member of the journalistic pair served as an impediment to the other: each refrained from publishing a given piece if the other doubted that it was ready to be printed.
+a brake on. Each member of the journalistic pair served as a brake on the other: each refrained from publishing a given piece if the other doubted that it was ready to be printed.
+an apologist for. Each member of the journalistic pair served as an apologist for the other: each refrained from publishing a given piece if the other doubted that it was ready to be printed.
+an intermediary for. Each member of the journalistic pair served as an intermediary for the other: each refrained from publishing a given piece if the other doubted that it was ready to be printed.
+Indicate your two answer choices.
+End skippable content.
+Questions 10 and 11 are based on the following passage.
+While chocolate was highly esteemed in Mesoamerica, where it originated, its adoption in Europe was initially slow. There is a common belief that Europeans needed to “transform” chocolate to make it appetizing. However, while Spaniards did put sugar, which was unknown to indigenous Americans, into chocolate beverages, this additive was not completely innovative. Mesoamericans were already sweetening chocolate with honey, and the step from honey to sugar—increasingly more available than honey because of expanding sugar plantations in the Americas—is a small one. Likewise, although Spaniards adjusted Mesoamerican recipes by using European spices, the spices chosen suggest an attempt to replicate hardertofind native flowers. There is no indication the Spaniards deliberately tried to change the original flavor of chocolate.
+Question 10.
+This question has five answer choices, labeled A through E. Select and indicate the best answer from among these choices.
+The author of the passage refers to the use of honey primarily to
+identify the origins of an additive previously untried by Europeans
+present an example of a product that was unknown to Europeans
+correct the misapprehension that Mesoamericans used a sweetener that was not available in Europe
+provide an example of an ingredient that was in the process of being displaced by a substitute
+explain why the Spanish use of sugar in chocolate was not a sign of a need to transform chocolate
+Select and indicate one answer choice from among the choices provided.
+Question 11.
+This question has five answer choices, labeled A through E. Select and indicate the best answer from among these choices.
+Which sentence presents a misconception that the passage challenges?
+The second (“There is a common belief that Europeans needed to ‘transform’ chocolate to make it appetizing.”).
+The third (“However, while Spaniards did put sugar, which was unknown to indigenous Americans, into chocolate beverages, this additive was not completely innovative.”).
+The fourth (“Mesoamericans were already sweetening chocolate with honey, and the step from honey to sugar—increasingly more available than honey because of expanding sugar plantations in the Americas—is a small one.”).
+The fifth (“Likewise, although Spaniards adjusted Mesoamerican recipes by using European spices, the spices chosen suggest an attempt to replicate hardertofind native flowers.”).
+The sixth (“There is no indication the Spaniards deliberately tried to change the original flavor of chocolate.”).
+Select and indicate one answer choice from among the choices provided.
+Directions for Questions 12 and 13
+Questions 12 and 13 are based on the following passage. Both questions will ask you to characterize the function played by an indicated portion of the passage. Each indicated portion will be set in boldface and enclosed in braces. For example, in this sentence the phrase {indicated portion} is formatted as just described.
+Passage for Questions 12 and 13.
+Biologists generally agree that birds and dinosaurs are somehow related to one another. The agreement ends there. Hypotheses regarding dinosaurian and avian evolution are unusually diverse—and often at odds with one another. Confusion consequently reigns over a broad spectrum of unanswered questions dealing with avian origins and the biology of dinosaurs and early birds. This confusion has been exacerbated by a paucity of serious attempts to synthesize and evaluate available data on the details of avian and dinosaurian evolution. Too often, the job of summarizing current knowledge of these subjects has fallen to wellmeaning but naïve lay authors or reporters. {Consequently, both the public and the scientific community have often been misled by widespread dissemination of sensational but weakly founded hypotheses.}
+Question 12.
+This question has three answer choices, labeled A through C. Consider each of the three choices separately and select all that apply.
+The final sentence of the passage reads, “Consequently, both the public and the scientific community have often been misled by widespread dissemination of sensational but weakly founded hypotheses.” The passage suggests that which of the following could help remedy the problem described in the final sentence?
+An article written by a biologist for the general public summarizing current theories about avian and dinosaurian evolution
+A close examination of available data on avian and dinosaurian evolution
+A new hypothesis regarding the connection between avian and dinosaurian evolution
+Indicate your answer choice or choices.
+Question 13.
+This question has five answer choices, labeled A through E. Select and indicate the best answer from among these choices.
+The word “sensational” appears in the final sentence of the passage, which reads, “Consequently, both the public and the scientific community have often been misled by widespread dissemination of sensational but weakly founded hypotheses.” In the context in which it appears, “sensational” most nearly means
+dramatic
+false
+excellent
+eminent
+horrifying
+Select and indicate one answer choice from among the choices provided.
+Directions for Questions 14 and 15.
+Questions 14 and 15 are based on the following passage. Question 14 will ask you to characterize the function played by an indicated portion of the passage. The indicated portion will be set in boldface and enclosed in braces. For example, in this sentence the phrase {indicated portion} is formatted as just described.
+Passage for Questions 14 and 15.
+A portrait type that appeared with relentless frequency in eighteenthcentury England is the familiar image of a gentleman poised with one hand inside his partially unbuttoned waistcoat. Standard interpretations of this portrait posture offer observations of correspondence—demonstrating either that it mirrors actual social behavior or that it borrows from classical statuary. Such explanations, however, illuminate neither the source of this curious convention nor the reason for its popularity. {It is true that in real life the “handin” was a common stance for elite men.} Still, there were other ways of comporting the body that did not become winning portrait formulas. And even if the “handin” portrait does resemble certain classical statues, what accounts for the adoption of this particular pose?
+Question 14.
+This question has five answer choices, labeled A through E. Select and indicate the best answer from among these choices.
+The sentence “It is true that in real life the ‘handin’ was a common stance for elite men” is indicated near the end of the passage. In the context of the passage as a whole, the primary function of the indicated sentence is to
+emphasize the influence of a particular social class on the conventions of eighteenthcentury English portraiture
+account for the origin of a particular type of behavior frequently represented in eighteenthcentury English portraiture
+acknowledge a historical basis for two competing hypotheses about a particular portrait type
+question the relevance of certain evidence frequently cited in support of an explanation for a particular portrait type
+concede that one explanation for the prevalence of a particular portrait type has a basis in fact
+Select and indicate one answer choice from among the choices provided.
+Question 15.
+This question has three answer choices, labeled A through C. Consider each of the three choices separately and select all that apply.
+Which of the following might provide an explanation for the popularity of handin portraits that would satisfy the author of the passage?
+An eighteenthcentury English etiquette manual discussing the social implications of the “handin” stance
+A comprehensive catalogue of eighteenthcentury English portraits that showed what proportion of portraits depicted gentlemen in the “handin” stance
+A passage from an eighteenthcentury English novel in which a gentleman considers what stance to adopt when his portrait is painted
+Indicate your answer choice or choices.
+This is the end of Section 2 of The Graduate Record Examinations^{®} Practice General Test #3. In an actual test, once you complete a section you may not return to it.
+Section 3—Verbal Reasoning.
+20 Questions.
+Directions for Questions 1 and 2:
+Each of the following questions includes a short text with a blank, indicating that something has been omitted. Select the one entry that best completes the text.
+For each question, first you will hear the text with the word “{BLANK}” (set in boldface, underlined, and enclosed in braces) indicating that a word or phrase is omitted. There are five answer choices, each consisting of a word or phrase, for filling in the blank. Next, you will hear the five lettered options for filling in the blank. You may then indicate your answer, or go on to listen to the answer choices in context.
+Following the list of answer choices are five lettered readings of the text, one for each answer choice. The group of readings is separated from the main text using the “Begin skippable content” and “End skippable content” level6 headings.
+Question 1.
+Many find it strange that her writing is thought to be tortuous; her recent essays, although longer than most of her earlier essays, are extremely {BLANK}.
+painstaking
+tedious
+insightful
+sophisticated
+clear
+Indicate one answer choice or go on to hear the choices in context.
+Begin skippable content.
+Answer Choices in Context:
+painstaking. Many find it strange that her writing is thought to be tortuous; her recent essays, although longer than most of her earlier essays, are extremely painstaking.
+tedious. Many find it strange that her writing is thought to be tortuous; her recent essays, although longer than most of her earlier essays, are extremely tedious.
+insightful. Many find it strange that her writing is thought to be tortuous; her recent essays, although longer than most of her earlier essays, are extremely insightful.
+sophisticated. Many find it strange that her writing is thought to be tortuous; her recent essays, although longer than most of her earlier essays, are extremely sophisticated.
+clear. Many find it strange that her writing is thought to be tortuous; her recent essays, although longer than most of her earlier essays, are extremely clear.
+Indicate one answer choice.
+End skippable content.
+Question 2.
+Most spacecraft are still at little risk of collision with space debris during their operational lifetimes, but given the numbers of new satellites launched each year, the orbital environment in the future is likely to be less {BLANK}.
+crowded
+invulnerable
+protected
+polluted
+benign
+Indicate one answer choice or go on to hear the choices in context.
+Begin skippable content.
+Answer Choices in Context:
+crowded. Most spacecraft are still at little risk of collision with space debris during their operational lifetimes, but given the numbers of new satellites launched each year, the orbital environment in the future is likely to be less crowded.
+invulnerable. Most spacecraft are still at little risk of collision with space debris during their operational lifetimes, but given the numbers of new satellites launched each year, the orbital environment in the future is likely to be less invulnerable.
+protected. Most spacecraft are still at little risk of collision with space debris during their operational lifetimes, but given the numbers of new satellites launched each year, the orbital environment in the future is likely to be less protected.
+polluted. Most spacecraft are still at little risk of collision with space debris during their operational lifetimes, but given the numbers of new satellites launched each year, the orbital environment in the future is likely to be less polluted.
+benign. Most spacecraft are still at little risk of collision with space debris during their operational lifetimes, but given the numbers of new satellites launched each year, the orbital environment in the future is likely to be less benign.
+Indicate one answer choice.
+End skippable content.
+Directions for Questions 3 through 6:
+Each of the following questions includes a short text with two or three blanks, each blank indicating that something has been omitted. You will be asked to select one entry for each blank from the corresponding choices. Fill all blanks in the way that best completes the text.
+For each question, first you will hear the text with the word “{BLANK}” in place of the omitted material. Next, you will hear the text again, but in place of each blank, you will hear three lettered options for completing that blank. The set of lettered options is formatted as bold and enclosed by braces. Each option consists of a word or phrase.
+For questions containing two blanks, following the list of answer choices are nine readings of the text, one for each answer choice combination. The group of readings begins with a “Begin Skippable Content” level6 heading and ends with an “End Skippable Content” level6 heading. Each reading consists of two option letters, the two words or phrases being combined, and the text with the combination of the words or phrases inserted into the blanks.
+For questions containing three blanks, the choices will not be read in context because it has been determined that replaying the question for all possible combinations of answer choices is not a useful way to present these questions.
+Question 3.
+This question has two blanks.
+The unironic representation of objects from everyday life is {BLANK} serious American art of the twentieth century: “high” artists ceded the straightforward depiction of the {BLANK} to illustrators, advertisers, and packaging designers.
+Now listen to the text with the three options inserted in place of each blank.
+The unironic representation of objects from everyday life is {A. missing from, B. valued in, C. crucial to} serious American art of the twentieth century: “high” artists ceded the straightforward depiction of the {D. beautiful, E. commonplace, F. complex} to illustrators, advertisers, and packaging designers.
+Indicate your two answer choices or go on to hear them in context. Fill all blanks in the way that best completes the text.
+Begin skippable content.
+Answer Choices in Context:
+A, D. missing from, beautiful. The unironic representation of objects from everyday life is missing from serious American art of the twentieth century: “high” artists ceded the straightforward depiction of the beautiful to illustrators, advertisers, and packaging designers.
+A, E. missing from, commonplace. The unironic representation of objects from everyday life is missing from serious American art of the twentieth century: “high” artists ceded the straightforward depiction of the commonplace to illustrators, advertisers, and packaging designers.
+A, F. missing from, complex. The unironic representation of objects from everyday life is missing from serious American art of the twentieth century: “high” artists ceded the straightforward depiction of the complex to illustrators, advertisers, and packaging designers.
+B, D. valued in, beautiful. The unironic representation of objects from everyday life is valued in serious American art of the twentieth century: “high” artists ceded the straightforward depiction of the beautiful to illustrators, advertisers, and packaging designers.
+B, E. valued in, commonplace. The unironic representation of objects from everyday life is valued in serious American art of the twentieth century: “high” artists ceded the straightforward depiction of the commonplace to illustrators, advertisers, and packaging designers.
+B, F. valued in, complex. The unironic representation of objects from everyday life is valued in serious American art of the twentieth century: “high” artists ceded the straightforward depiction of the complex to illustrators, advertisers, and packaging designers.
+C, D. crucial to, beautiful. The unironic representation of objects from everyday life is crucial to serious American art of the twentieth century: “high” artists ceded the straightforward depiction of the beautiful to illustrators, advertisers, and packaging designers.
+C, E. crucial to, commonplace. The unironic representation of objects from everyday life is crucial to serious American art of the twentieth century: “high” artists ceded the straightforward depiction of the commonplace to illustrators, advertisers, and packaging designers.
+C, F. crucial to, complex. The unironic representation of objects from everyday life is crucial to serious American art of the twentieth century: “high” artists ceded the straightforward depiction of the complex to illustrators, advertisers, and packaging designers.
+Indicate your two answer choices. Fill all blanks in the way that best completes the text.
+End skippable content.
+Question 4.
+This question has two blanks.
+A newly published, laudatory biography of George Bernard Shaw fails, like others before it, to capture the essence of his personality: the more he is {BLANK}, the more his true self seems to {BLANK}.
+Now listen to the text with the three options inserted in place of each blank.
+A newly published, laudatory biography of George Bernard Shaw fails, like others before it, to capture the essence of his personality: the more he is {A. discussed, B. disparaged, C. disregarded}, the more his true self seems to {D. disappear, E. emerge, F. coalesce}.
+Indicate your two answer choices or go on to hear them in context. Fill all blanks in the way that best completes the text.
+Begin skippable content.
+Answer Choices in Context:
+A, D. discussed, disappear. A newly published, laudatory biography of George Bernard Shaw fails, like others before it, to capture the essence of his personality: the more he is discussed, the more his true self seems to disappear.
+A, E. discussed, emerge. A newly published, laudatory biography of George Bernard Shaw fails, like others before it, to capture the essence of his personality: the more he is discussed, the more his true self seems to emerge.
+A, F. discussed, coalesce. A newly published, laudatory biography of George Bernard Shaw fails, like others before it, to capture the essence of his personality: the more he is discussed, the more his true self seems to coalesce.
+B, D. disparaged, disappear. A newly published, laudatory biography of George Bernard Shaw fails, like others before it, to capture the essence of his personality: the more he is disparaged, the more his true self seems to disappear.
+B, E. disparaged, emerge. A newly published, laudatory biography of George Bernard Shaw fails, like others before it, to capture the essence of his personality: the more he is disparaged, the more his true self seems to emerge.
+B, F. disparaged, coalesce. A newly published, laudatory biography of George Bernard Shaw fails, like others before it, to capture the essence of his personality: the more he is disparaged, the more his true self seems to coalesce.
+C, D. disregarded, disappear. A newly published, laudatory biography of George Bernard Shaw fails, like others before it, to capture the essence of his personality: the more he is disregarded, the more his true self seems to disappear.
+C, E. disregarded, emerge. A newly published, laudatory biography of George Bernard Shaw fails, like others before it, to capture the essence of his personality: the more he is disregarded, the more his true self seems to emerge.
+C, F. disregarded, coalesce. A newly published, laudatory biography of George Bernard Shaw fails, like others before it, to capture the essence of his personality: the more he is disregarded, the more his true self seems to coalesce.
+Indicate your two answer choices. Fill all blanks in the way that best completes the text.
+End skippable content.
+Question 5.
+This question has three blanks.
+There is nothing that {BLANK} scientists more than having an old problem in their field solved by someone from outside. If you doubt this {BLANK}, just think about the {BLANK} reaction of paleontologists to the hypothesis of Luis Alvarez—a physicist—and Walter Alvarez—a geologist—that the extinction of the dinosaurs was caused by the impact of a large meteor on the surface of the planet.
+Now listen to the text with the three options inserted in place of each blank.
+There is nothing that {A. amazes, B. pleases, C. nettles} scientists more than having an old problem in their field solved by someone from outside. If you doubt this {D. exposition, E. objurgation, F. observation}, just think about the {G. contemptuous, H. indifferent, I. insincere} reaction of paleontologists to the hypothesis of Luis Alvarez—a physicist—and Walter Alvarez—a geologist—that the extinction of the dinosaurs was caused by the impact of a large meteor on the surface of the planet.
+Indicate your three answer choices. Fill all blanks in the way that best completes the text.
+Question 6.
+This question has three blanks.
+If one could don magic spectacles—with lenses that make the murky depths of the ocean become transparent—and look back several centuries to an age before widespread abuse of the oceans began, even the most {BLANK} observer would quickly discover that fish were formerly much more abundant. Likewise, many nowdepleted species of marine mammals would appear {BLANK}. But without such special glasses, the differences between past and present oceans are indeed hard to {BLANK}.
+Now listen to the text with the three options inserted in place of each blank.
+If one could don magic spectacles—with lenses that make the murky depths of the ocean become transparent—and look back several centuries to an age before widespread abuse of the oceans began, even the most {A. casual, B. prescient, C. clearheaded} observer would quickly discover that fish were formerly much more abundant. Likewise, many nowdepleted species of marine mammals would appear {D. threatened, E. plentiful, F. unfamiliar}. But without such special glasses, the differences between past and present oceans are indeed hard to {G. ignore, H. discern, I. dismiss}.
+Indicate your three answer choices. Fill all blanks in the way that best completes the text.
+Directions for Questions 7 through 9.
+Questions 7 through 9 are based on the following passage. Question 9 will ask you to characterize the function played by an indicated portion of the passage. The indicated portion will be set in boldface and enclosed in braces. For example, in this sentence the phrase {indicated portion} is formatted as just described.
+Passage for Questions 7 through 9.
+Historian F. W. Maitland observed that legal documents are the best—indeed, often the only—available evidence about the economic and social history of a given period. Why, then, has it taken so long for historians to focus systematically on the civil that is, noncriminal law of early modern that is, sixteenth to eighteenthcentury England? Maitland offered one reason: the subject requires researchers to “master an extremely formal system of pleading and procedure.” Yet the complexities that confront those who would study such materials are not wholly different from those recently surmounted by historians of criminal law in England during the same period. Another possible explanation for historians’ neglect of the subject is their {widespread assumption} that most people in early modern England had little contact with civil law. If that were so, the history of legal matters would be of little relevance to general historical scholarship. But recent research suggests that civil litigation during the period involved artisans, merchants, professionals, shopkeepers, and farmers, and not merely a narrow, propertied, male elite. Moreover, the later sixteenth and early seventeenth centuries saw an extraordinary explosion in civil litigation by both women and men, making this the most litigious era in English history on a per capita basis.
+Question 7.
+This question has five answer choices, labeled A through E. Select and indicate the best answer from among these choices.
+The passage suggests that the history of criminal law in early modern England differs from the history of civil law during that same period in that the history of criminal law
+is of more intellectual interest to historians and their readers
+has been studied more thoroughly by historians
+is more relevant to general social history
+involves the study of a larger proportion of the population
+does not require the mastery of an extremely formal system of procedures
+Select and indicate one answer choice from among the choices provided.
+Question 8.
+This question has five answer choices, labeled A through E. Select and indicate the best answer from among these choices.
+The author of the passage mentions the occupations of those involved in civil litigation in early modern England most likely in order to
+suggest that most historians’ assumptions about the participants in the civil legal system during that period are probably correct
+support the theory that more people participated in the civil legal system than the criminal legal system in England during that period
+counter the claim that legal issues reveal more about a country’s ordinary citizens than about its elite
+illustrate the wide range of people who used the civil legal system in England during that period
+suggest that recent data on people who participated in early modern England’s legal system may not be correct
+Select and indicate one answer choice from among the choices provided.
+Question 9.
+This question has five answer choices, labeled A through E. Select and indicate the best answer from among these choices.
+The fifth sentence of the passage reads: “Another possible explanation for historians’ neglect of the subject is their widespread assumption that most people in early modern England had little contact with civil law.” The author of the passage suggests which of the following about the “widespread assumption” mentioned in the sentence?
+Because it is true, the history of civil law is of as much interest to historians focusing on general social history as to those specializing in legal history.
+Because it is inaccurate, the history of civil law in early modern England should enrich the general historical scholarship of that period.
+It is based on inaccurate data about the propertied male elite of early modern England.
+It does not provide a plausible explanation for historians’ failure to study the civil law of early modern England.
+It is based on an analogy with criminal law in early modern England.
+Select and indicate one answer choice from among the choices provided.
+Question 10 is based on the following passage.
+Newspaper Editorial:
+Last year, Mayor Stephens established a special lawenforcement task force with the avowed mission of eradicating corruption in city government. The mayor’s handpicked task force has now begun prosecuting a dozen city officials. Since all of these officials were appointed by Mayor Bixby, Mayor Stephens’ predecessor and longtime political foe, it is clear that those being prosecuted have been targeted because of their political affiliations.
+Question 10.
+This question has five answer choices, labeled A through E. Select and indicate the best answer from among these choices.
+Which of the following, if true, most weakens the editorial’s argument?
+Complaints of official corruption in city government have decreased since the anticorruption task force began operating.
+Former mayor Bixby did not publicly oppose Mayor Stephens’ establishment of the anticorruption task force.
+Almost all of the officials who have served in city government for any length of time are appointees of Mayor Bixby.
+All of the members of the anticorruption task force had other jobs in city government before the task force was formed.
+During the last mayoral election campaign, thenMayor Bixby hotly disputed the current mayor’s claim that there was widespread corruption in city government.
+Select and indicate one answer choice from among the choices provided.
+Directions for Questions 11 through 14:
+Each of the following questions includes a sentence with a blank indicating that something has been omitted. Following the sentence you will hear a list of six words or phrases, each of which could be used to complete the sentence. Select the two answer choices that, when used to complete the sentence, fit the meaning of the sentence as a whole and produce completed sentences that are alike in meaning.
+Following the list of answer choices are six readings of the sentence, one for each answer choice. The group of readings is surrounded by “Begin skippable content” and “End skippable content” labels formatted as level6 headings. Each reading will begin with the word or phrase that can be inserted into the blank, followed by a reading of the sentence with the word or phrase inserted into the blank.
+Question 11.
+The slowerlearning monkeys searched {BLANK} but unintelligently: although they worked closely together, they checked only the most obvious hiding places.
+Now listen to the six answer choices, labeled A through F.
+competitively
+impulsively
+cooperatively
+deviously
+craftily
+harmoniously
+Indicate your two answer choices or go on to hear them in context.
+Begin skippable content.
+Answer Choices in Context:
+competitively. The slowerlearning monkeys searched competitively but unintelligently: although they worked closely together, they checked only the most obvious hiding places.
+impulsively. The slowerlearning monkeys searched impulsively but unintelligently: although they worked closely together, they checked only the most obvious hiding places.
+cooperatively. The slowerlearning monkeys searched cooperatively but unintelligently: although they worked closely together, they checked only the most obvious hiding places.
+deviously. The slowerlearning monkeys searched deviously but unintelligently: although they worked closely together, they checked only the most obvious hiding places.
+craftily. The slowerlearning monkeys searched craftily but unintelligently: although they worked closely together, they checked only the most obvious hiding places.
+harmoniously. The slowerlearning monkeys searched harmoniously but unintelligently: although they worked closely together, they checked only the most obvious hiding places.
+Indicate your two answer choices.
+End skippable content.
+Question 12.
+By about age eight, children’s phonetic capacities are fully developed but still {BLANK}; thus children at that age can learn to speak a new language with a native speaker’s accent.
+Now listen to the six answer choices, labeled A through F.
+plastic
+vestigial
+inarticulate
+unformed
+nascent
+malleable
+Indicate your two answer choices or go on to hear them in context.
+Begin skippable content.
+Answer Choices in Context:
+plastic. By about age eight, children’s phonetic capacities are fully developed but still plastic; thus children at that age can learn to speak a new language with a native speaker’s accent.
+vestigial. By about age eight, children’s phonetic capacities are fully developed but still vestigial; thus children at that age can learn to speak a new language with a native speaker’s accent.
+inarticulate. By about age eight, children’s phonetic capacities are fully developed but still inarticulate; thus children at that age can learn to speak a new language with a native speaker’s accent.
+unformed. By about age eight, children’s phonetic capacities are fully developed but still unformed; thus children at that age can learn to speak a new language with a native speaker’s accent.
+nascent. By about age eight, children’s phonetic capacities are fully developed but still nascent; thus children at that age can learn to speak a new language with a native speaker’s accent.
+malleable. By about age eight, children’s phonetic capacities are fully developed but still malleable; thus children at that age can learn to speak a new language with a native speaker’s accent.
+Indicate your two answer choices.
+End skippable content.
+Question 13.
+Although the film is rightly judged imperfect by most of today’s critics, the films being created today are {BLANK} it, since its release in 1940 provoked sufficient critical discussion to enhance the intellectual respectability of cinema considerably.
+Now listen to the six answer choices, labeled A through F.
+beholden to
+indebted to
+derivative of
+based on
+distinguishable from
+biased against
+Indicate your two answer choices or go on to hear them in context.
+Begin skippable content.
+Answer Choices in Context:
+beholden to. Although the film is rightly judged imperfect by most of today’s critics, the films being created today are beholden to it, since its release in 1940 provoked sufficient critical discussion to enhance the intellectual respectability of cinema considerably.
+indebted to. Although the film is rightly judged imperfect by most of today’s critics, the films being created today are indebted to it, since its release in 1940 provoked sufficient critical discussion to enhance the intellectual respectability of cinema considerably.
+derivative of. Although the film is rightly judged imperfect by most of today’s critics, the films being created today are derivative of it, since its release in 1940 provoked sufficient critical discussion to enhance the intellectual respectability of cinema considerably.
+based on. Although the film is rightly judged imperfect by most of today’s critics, the films being created today are based on it, since its release in 1940 provoked sufficient critical discussion to enhance the intellectual respectability of cinema considerably.
+distinguishable from. Although the film is rightly judged imperfect by most of today’s critics, the films being created today are distinguishable from it, since its release in 1940 provoked sufficient critical discussion to enhance the intellectual respectability of cinema considerably.
+biased against. Although the film is rightly judged imperfect by most of today’s critics, the films being created today are biased against it, since its release in 1940 provoked sufficient critical discussion to enhance the intellectual respectability of cinema considerably.
+Indicate your two answer choices.
+End skippable content.
+Question 14.
+The detective’s conviction that there were few inept crimes in her district led her to impute some degree of {BLANK} to every suspect she studied.
+Now listen to the six answer choices, labeled A through F.
+deceit
+acumen
+duplicity
+shrewdness
+evasiveness
+equivocation
+Indicate your two answer choices or go on to hear them in context.
+Begin skippable content.
+Answer Choices in Context:
+deceit. The detective’s conviction that there were few inept crimes in her district led her to impute some degree of deceit to every suspect she studied.
+acumen. The detective’s conviction that there were few inept crimes in her district led her to impute some degree of acumen to every suspect she studied.
+duplicity. The detective’s conviction that there were few inept crimes in her district led her to impute some degree of duplicity to every suspect she studied.
+shrewdness. The detective’s conviction that there were few inept crimes in her district led her to impute some degree of shrewdness to every suspect she studied.
+evasiveness. The detective’s conviction that there were few inept crimes in her district led her to impute some degree of evasiveness to every suspect she studied.
+equivocation. The detective’s conviction that there were few inept crimes in her district led her to impute some degree of equivocation to every suspect she studied.
+Indicate your two answer choices.
+End skippable content.
+Directions for Questions 15 through 17.
+Questions 15 through 17 are based on the following passage, which consists of two paragraphs. One or more questions will ask you to characterize the function played by an indicated portion of the passage. Each indicated portion will be set in boldface and enclosed in braces. For example, in this sentence the phrase {indicated portion} is formatted as just described.
+Passage for Questions 15 through 17.
+The decrease in responsiveness that follows continuous stimulation (adaptation) is common to all sensory systems, including olfaction. With continued exposure to chronically present ambient odors, individuals’ perception of odor intensity is greatly reduced. Moreover, these perceptual changes can be profound and durable. It is commonly reported that following extended absences from the odorous environment, reexposure may still fail to elicit perception at the original intensity.
+Most {research on olfactory adaptation} examines relatively transient changes in stimulus detection or perceived intensity—rarely exceeding several hours and often less—but because olfactory adaptation can be produced with relatively short exposures, these durations are sufficient for investigating many parameters of the phenomenon. However, exposures to odors in natural environments often occur over far longer periods, and the resulting adaptations may differ qualitatively from shortterm olfactory adaptation. For example, studies show that even brief periods of odorant stimulation produce transient reductions in receptors in the olfactory epithelium, a process termed {“receptor fatigue.”} Prolonged odor stimulation, however, could produce more longlasting reductions in response, possibly involving structures higher in the central nervous system pathway.
+Question 15.
+This question has five answer choices, labeled A through E. Select and indicate the best answer from among these choices.
+According to the passage, the phenomenon of olfactory adaptation may cause individuals who are reexposed to an odorous environment after an extended absence to
+experience a heightened perception of the odor
+perceive the odor as being less intense than it was upon first exposure
+return to their original level of perception of the odor
+exhibit a decreased tolerance for the odorous environment
+experience the phenomenon of adaptation in other sensory systems
+Select and indicate one answer choice from among the choices provided.
+Question 16.
+This question has five answer choices, labeled A through E. Select and indicate the best answer from among these choices.
+The first sentence of the second paragraph refers to “research on olfactory adaptation” that “examines relatively transient changes in stimulus detection or perceived intensity.” The passage asserts which of the following about the exposures involved in that research?
+The exposures are of long enough duration for researchers to investigate many aspects of olfactory adaptation.
+The exposures have rarely consisted of reexposures following extended absences from the odorous environment.
+The exposures are intended to reproduce the relatively transient olfactory changes typical of exposures to odors in natural environments.
+Those exposures of relatively short duration are often insufficient to produce the phenomenon of receptor fatigue in study subjects.
+Those exposures lasting several hours produce reductions in receptors in the olfactory epithelium that are similar to the reductions caused by prolonged odor stimulation.
+Select and indicate one answer choice from among the choices provided.
+Question 17.
+This question has five answer choices, labeled A through E. Select and indicate the best answer from among these choices.
+The second to last sentence of the passage reads, “For example, studies show that even brief periods of odorant stimulation produce transient reductions in receptors in the olfactory epithelium, a process termed ‘receptor fatigue.’” The author of the passage discusses “receptor fatigue” primarily in order to
+explain the physiological process through which longlasting reductions in response are thought to be produced
+provide an example of a process that subjects would probably not experience during a prolonged period of odorant stimulation
+help illustrate how the information gathered from most olfactory research may not be sufficient to describe the effects of extended exposures to odors
+show how studies of shortterm olfactory adaptation have only accounted for the reductions in response that follow relatively brief absences from an odorous environment
+qualify a statement about the severity and duration of the perceptual changes caused by exposure to chronically present ambient odors
+Select and indicate one answer choice from among the choices provided.
+Directions for Questions 18 and 19.
+Questions 18 and 19 are based on the following passage. Both questions will ask you to characterize the function played by an indicated portion of the passage. Each indicated portion will be set in boldface and enclosed in braces. For example, in this sentence the phrase {indicated portion} is formatted as just described.
+Passage for Questions 18 and 19.
+Among academics involved in the study of Northern Renaissance prints (reproducible graphic artworks), an {orthodox position} can be said to have emerged. This position regards Renaissance prints as {passive} representations of their time—documents that reliably record contemporary events, opinions, and beliefs—and therefore as an important means of accessing the popular contemporary consciousness. In contrast, pioneering studies such as those by Scribner and Moxey take a strikingly different approach, according to which Northern Renaissance prints were purposeful, active, and important shaping forces in the communities that produced them. Scribner, for example, contends that religious and political prints of the German Reformation (approximately 1517 to 1555) functioned as popular propaganda: tools in a vigorous campaign aimed at altering people’s behavior, attitudes, and beliefs.
+Question 18.
+This question has three answer choices, labeled A through C. Consider each of the three choices separately and select all that apply.
+The first sentence of the passage refers to an “orthodox position” that “can be said to have emerged” among academics studying Northern Renaissance prints. The passage suggests that an adherent to the “orthodox position” would agree with which of the following statements?
+Northern Renaissance prints should be regarded as passive representations of their time.
+Northern Renaissance prints were part of a campaign aimed at altering contemporary thinking.
+Northern Renaissance prints provide reliable records of contemporary events, opinions, and beliefs.
+Indicate your answer choice or choices.
+Question 19.
+This question has five answer choices, labeled A through E. Select and indicate the best answer from among these choices.
+The word “passive” appears in the second sentence of the passage, which begins, “This position regards Renaissance prints as passive representations of their time—documents that reliably record contemporary events, opinions, and beliefs. . . .” Replacement of the word “passive” with which of the following words results in the least change in meaning for the passage?
+disinterested
+submissive
+flaccid
+supine
+unreceptive
+Select and indicate one answer choice from among the choices provided.
+Question 20 is based on the following passage.
+Recently an unusually high number of dolphins have been found dead of infectious diseases, and most of these had abnormally high tissue concentrations of certain compounds that, even in low concentrations, reduce dolphins’ resistance to infection. The only source of these compounds in the dolphins’ environment is boat paint. Therefore, since dolphins rid their bodies of the compounds rapidly once exposure ceases, their mortality rate should decline rapidly if such boat paints are banned.
+Question 20.
+This question has five answer choices, labeled A through E. Select and indicate the best answer from among these choices.
+Which of the following, if true, most strengthens the argument?
+The levels of the compounds typically used in boat paints today are lower than they were in boat paints manufactured a decade ago.
+In high concentrations, the compounds are toxic to many types of marine animals.
+The compounds break down into harmless substances after a few months of exposure to water or air.
+High tissue levels of the compounds have recently been found in some marine animals, but there is no record of any of those animals dying in unusually large numbers recently.
+The compounds do not leach out of the boat paint if the paint is applied exactly in accordance with the manufacturer’s directions.
+Select and indicate one answer choice from among the choices provided.
+This is the end of Section 3 of The Graduate Record Examinations^{®} Practice General Test #3. In an actual test, once you complete a section you may not return to it.

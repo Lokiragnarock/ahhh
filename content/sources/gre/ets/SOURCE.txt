@@ -20,3 +20,7 @@ Also free, not stored here
 - Practice Book for the Paper-delivered GRE (same test as Practice Test 3, with % correct):
   https://www.ets.org/content/dam/ets-india/pdfs/gre/paper-delivered-test-practice-book.pdf
 - POWERPREP: 2 free full adaptive tests, only on ets.org.
+- gre-screen-reader-practice-test-1-verbal.docx, gre-screen-reader-practice-test-3-verbal.docx
+  https://www.ets.org/content/dam/ets-org/pdfs/gre/  fetched 2026-11-02.
+  Verbal sections 2 (15) and 3 (20) of each test. Answers are in the existing
+  practice-test-N-answer-key files (Sections 2 and 3). Text dumps in text/.

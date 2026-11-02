@@ -1,0 +1,603 @@
+[IMG:media/image1.jpeg]
+GRADUATE RECORD EXAMINATIONS^{®}
+Practice General Test #1
+Section 2—Verbal Reasoning
+Section 3—Verbal Reasoning
+[IMG:media/image2.emf]Copyright 2023 by E T S. All rights reserved. E T S, the E T S logo, GRADUATE RECORD EXAMINATIONS, and G R E are registered trademarks of E T S in the United States and other countries.
+Instructions for the Verbal Reasoning and Quantitative Reasoning Sections
+Note: These instructions are the same for both the Verbal Reasoning (sections 2 and 3) and Quantitative Reasoning (sections 4 and 5) portions of this practice test. They are provided in both documents for your convenience.
+Information for screen reader users:
+This document has been created to be accessible to individuals who use screen readers. You may wish to consult the manual or help system for your screen reader to learn how best to take advantage of the features implemented in this document. Please consult the separate document, “G R E Screen Reader Instructions.docx,” for important details.
+This practice test includes content that some users may wish to skip. For example, some questions require you to complete sentences or longer texts from among several choices. For those questions where it might be helpful to hear the available choices in context, text of the choices in context is included. However, some users may wish to skip this material. Similarly, some questions include detailed figure descriptions that some users may wish to skip because they can get the required information from the accompanying tactile or large print figures. In each case, material that may be skipped is delineated by statements like “Begin skippable content” and “End skippable content” each in the Heading 6 style.
+As a reminder, standard timing for each section of the test is provided in the following table:
+| Section Order | Section Name | Standard Time |
+| 1 | Analytical Writing | 30 minutes |
+| 2 | Verbal Reasoning | 21 minutes |
+| 3 | Verbal Reasoning | 28 minutes |
+| 4 | Quantitative Reasoning | 24 minutes |
+| 5 | Quantitative Reasoning | 32 minutes |
+The Quantitative sections include figures and their descriptions. In addition, separate figure supplements, in large print (18 point) and raisedline formats, are available.
+Important Notes
+In the actual test, your scores for the multiplechoice sections will be determined by the number of questions you answer correctly. Nothing is subtracted from a score if you answer a question incorrectly. Therefore, to maximize your scores it is better for you to guess at an answer than not to respond at all. Work as rapidly as you can without losing accuracy. Do not spend too much time on questions that are too difficult for you. Go on to the other questions and come back to the difficult ones later.
+Some or all of the passages in this test have been adapted from published material to provide the examinee with significant problems for analysis and evaluation. To make the passages suitable for testing purposes, the style, content, or point of view of the original may have been altered. The ideas contained in the passages do not necessarily represent the opinions of the Graduate Record Examinations Board or Educational Testing Service.
+You may use a calculator in the Quantitative Reasoning sections only. You will be provided with a basic calculator and cannot use any other calculator, except as an approved accommodation.
+Marking Your Answers
+In the actual test, all answers must be entered in the test book (or in the supervisor’s copy of the test book if you are not using a print format test). If answers are being recorded in a large print test book, the directions for marking answers are slightly different because answers entered in large print test books are not machinescored.
+In a regular test book, answers are entered by filling in the circle or circles corresponding to your answer choice. In a large print test book, answers are entered by circling the entry or entries corresponding to your answer choice. If you or your scribe are marking answers on a regular print test book, be sure that each mark is dark and completely fills the circle.
+If marking answers on a large print test book, be sure that each answer is marked clearly and unambiguously. Any stray marks must be erased carefully. If you change an answer, be sure that all previous marks are erased completely. Stray marks and incomplete erasures may be read as intended answers.
+Question Formats
+This practice test may include questions that would not be used in an actual test administered in an alternate format because they have been determined to be less suitable for presentation in such formats.
+The questions in these sections have several different formats. A brief description of these formats and instructions for entering your answer choices follows.
+MultipleChoice Questions—Select One Answer Choice
+These standard multiplechoice questions require you to select just one answer choice from a list of options. You will receive credit only if you mark the single correct answer choice and no other.
+Example 1.
+What city is the capital of France?
+Rome
+Paris
+London
+Cairo
+In this example, choice B (Paris) should be marked.
+MultipleChoice Questions—Select One or More Answer Choices
+Some of these questions specify how many answer choices you must select; others require you to select all that apply. In either case, to receive credit all of the correct answer choices must be marked. In printed versions of the test, these questions are distinguished by the use of a square box to select an answer choice.
+Example 2.
+Select all that apply.
+Which of the following countries are in Africa?
+Chad
+China
+France
+Kenya
+In this example, choices A and D (Chad and Kenya) should be marked.
+Column Format Questions
+This question type presents the answer choices in groups (presented as columns in the printed version of the test). You must pick one answer choice from each group. You will receive credit only if you mark the correct answer choice in each group. In the following example, there is a sentence with two blanks, each indicating that something has been omitted. For each question of this type, first you will hear the text with the word “{BLANK}” in place of the omitted material. Next, you will hear the text again, but in place of each blank, you will hear three lettered options for filling that blank. The set of lettered options is formatted as bold and enclosed in braces. Each option consists of a word or phrase.
+For questions containing one or two blanks, following the list of answer choices are up to nine readings of the text, one for each answer choice combination. The group of readings begins with a “Begin Skippable Content” level6 heading and ends with an “End Skippable Content” level6 heading. Each reading consists of the option letter or letters, the words or phrases being combined, and the text with the combination of the words or phrases inserted into the blanks.
+For questions containing three blanks, the choices will not be read in context because it has been determined that replaying the question for all possible combinations of answer choices is not a useful way to present these questions.
+Example 3.
+This question has two blanks.
+Complete the following sentence.
+{BLANK} is the capital of {BLANK}.
+Now listen to the text with the three options inserted in place of each blank.
+{A. Paris, B. Rome, C. Cairo} is the capital of {D. Canada, E. France, F. China}.
+Indicate your two answer choices and skip hearing the Answer Choices in Context or go on to hear them in context before indicating your answer choices. Fill all blanks in the way that best completes the text.
+Begin skippable content.
+Answer Choices in Context:
+A, D. Paris, Canada. Paris is the capital of Canada.
+A, E. Paris, France. Paris is the capital of France.
+A, F. Paris, China. Paris is the capital of China.
+B, D. Rome, Canada. Rome is the capital of Canada.
+B, E. Rome, France. Rome is the capital of France.
+B, F. Rome, China. Rome is the capital of China.
+C, D. Cairo, Canada. Cairo is the capital of Canada.
+C, E. Cairo, France. Cairo is the capital of France.
+C, F. Cairo, China. Cairo is the capital of China.
+End skippable content.
+Indicate your two answer choices. Fill all blanks in the way that best completes the text.
+In this example, choice A, Paris (from the group A, B, C), and choice E, France (from the group D, E, F), should be indicated as the answer.
+Numeric Entry Questions
+These questions require a number to be entered by marking entries in a grid according to the following instructions.
+Your answer may be an integer, a decimal, or a fraction, and it may be negative.
+Equivalent forms of the correct answer, such as 2.5 and 2.50, are all correct. Fractions do not need to be reduced to lowest terms, though you may need to reduce your fraction to fit in the grid.
+Enter the exact answer unless the question asks you to round your answer.
+If a question asks for a fraction, the grid will have a builtin division slash. Otherwise, the grid will have a decimal point.
+The instructions for marking the entries will depend on whether a regular print or a large print test is being used to record your answers. If your answers are being entered into a regular print edition of the test, the following instructions apply:
+Start your answer in any column, space permitting. Fill in no more than one entry in any column of the grid. Columns not needed should be left blank.
+Write your answer in the boxes at the top of the grid and fill in the corresponding circles. You will receive credit only if your grid entries are clearly marked, regardless of the number written in the boxes at the top.
+If your answers are being entered into a large print edition of the test, instead of filling in circles on the grid in steps 5 and 6, you will be asked to circle those entries.
+The first multiplechoice section follows. In an actual test, testing time will resume when you begin the first multiplechoice section.
+The Graduate Record Examinations^{®} Practice General Test #1.
+Section 2—Verbal Reasoning.
+15 Questions.
+Questions 1 through 3 are based on the following passage, which consists of two paragraphs.
+Music critics have consistently defined James P. Johnson as a great early jazz pianist, originator of the nineteen twenties Harlem “stride” style, and an important blues and jazz composer. In addition, however, Johnson was an innovator in classical music, composing symphonic music that incorporated American, and especially African American, traditions.
+Such a blend of musical elements was not entirely new: by 1924 both Milhaud and Gershwin had composed classical works that incorporated elements of jazz. Johnson, a serious musician more experienced than most classical composers with jazz, blues, spirituals, and popular music, was particularly suited to expand Milhaud’s and Gershwin’s experiments. In 1927 he completed his first largescale work, the blues and jazzinspired Yamekraw, which included borrowings from spirituals and Johnson’s own popular songs. Yamekraw, premiered successfully in Carnegie Hall, was a major achievement for Johnson, becoming his most frequently performed extended work. It demonstrated vividly the possibility of assimilating contemporary popular music into the symphonic tradition.
+Question 1.
+This question has five answer choices, labeled A through E. Select and indicate the best answer from among these choices.
+The passage states that Johnson composed all of the following EXCEPT
+jazz works
+popular songs
+symphonic music
+spirituals
+blues pieces
+Select and indicate one answer choice from among the choices provided.
+Question 2.
+This question has three answer choices, labeled A through C. Consider each of the three choices separately and select all that apply.
+The author suggests which of the following about most classical composers of the early nineteen twenties?
+They were strongly influenced by the musical experiments of Milhaud and Gershwin.
+They had little working familiarity with such forms of American music as jazz, blues, and popular songs.
+They made few attempts to introduce innovations into the classical symphonic tradition.
+Indicate your answer choice or choices.
+Question 3.
+This question has five answer choices, labeled A through E. Select and indicate the best answer from among these choices.
+Which of the following best describes the organization of the passage?
+A historical overview is presented, and a particular phenomenon is noted and analyzed.
+A popular belief is challenged, and a rival interpretation is presented and supported.
+A common viewpoint is presented and modified, and the modification is supported.
+An observation is made and rejected, and evidence for that rejection is presented.
+A common claim is investigated, and an alternative outlook is analyzed and criticized.
+Select and indicate one answer choice from among the choices provided.
+Directions for Questions 4 and 5:
+Each of the following questions includes a short text with a blank, indicating that something has been omitted. Select the one entry that best completes the text.
+For each question, first you will hear the text with the word “{BLANK}” (set in boldface, underlined, and enclosed in braces) indicating that a word or phrase is omitted. There are five answer choices, each consisting of a word or phrase, for filling in the blank. Next, you will hear the five lettered options for filling in the blank. You may then indicate your answer, or go on to listen to the answer choices in context.
+Following the list of answer choices are five lettered readings of the text, one for each answer choice. The group of readings is separated from the main text using the “Begin skippable content” and “End skippable content” level6 headings.
+Question 4.
+In the nineteen fifties, the country’s inhabitants were {BLANK}: most of them knew very little about foreign countries.
+partisan
+erudite
+insular
+cosmopolitan
+imperturbable
+Indicate one answer choice or go on to hear the choices in context.
+Begin skippable content.
+Answer Choices in Context:
+partisan. In the nineteen fifties, the country’s inhabitants were partisan: most of them knew very little about foreign countries.
+erudite. In the nineteen fifties, the country’s inhabitants were erudite: most of them knew very little about foreign countries.
+insular. In the nineteen fifties, the country’s inhabitants were insular: most of them knew very little about foreign countries.
+cosmopolitan. In the nineteen fifties, the country’s inhabitants were cosmopolitan: most of them knew very little about foreign countries.
+imperturbable. In the nineteen fifties, the country’s inhabitants were imperturbable: most of them knew very little about foreign countries.
+Indicate one answer choice.
+End skippable content.
+Question 5.
+It is his dubious distinction to have proved what nobody would think of denying, that Romero at the age of sixtyfour writes with all the characteristics of {BLANK}.
+maturity
+fiction
+inventiveness
+art
+brilliance
+Indicate one answer choice or go on to hear the choices in context.
+Begin skippable content.
+Answer Choices in Context:
+maturity. It is his dubious distinction to have proved what nobody would think of denying, that Romero at the age of sixtyfour writes with all the characteristics of maturity.
+fiction. It is his dubious distinction to have proved what nobody would think of denying, that Romero at the age of sixtyfour writes with all the characteristics of fiction.
+inventiveness. It is his dubious distinction to have proved what nobody would think of denying, that Romero at the age of sixtyfour writes with all the characteristics of inventiveness.
+art. It is his dubious distinction to have proved what nobody would think of denying, that Romero at the age of sixtyfour writes with all the characteristics of art.
+brilliance. It is his dubious distinction to have proved what nobody would think of denying, that Romero at the age of sixtyfour writes with all the characteristics of brilliance.
+Indicate one answer choice.
+End skippable content.
+Directions for Questions 6 through 8:
+Each of the following questions includes a short text with two or three blanks, each blank indicating that something has been omitted. You will be asked to select one entry for each blank from the corresponding choices. Fill all blanks in the way that best completes the text.
+For each question, first you will hear the text with the word “{BLANK}” in place of the omitted material. Next, you will hear the text again, but in place of each blank, you will hear three lettered options for completing that blank. The set of lettered options is formatted as bold and enclosed by braces. Each option consists of a word or phrase.
+For questions containing two blanks, following the list of answer choices are nine readings of the text, one for each answer choice combination. The group of readings begins with a “Begin Skippable Content” level6 heading and ends with an “End Skippable Content” level6 heading. Each reading consists of two option letters, the two words or phrases being combined, and the text with the combination of the words or phrases inserted into the blanks.
+For questions containing three blanks, the choices will not be read in context because it has been determined that replaying the question for all possible combinations of answer choices is not a useful way to present these questions.
+Question 6.
+This question has two blanks.
+The narratives that vanquished peoples have created of their defeat have, according to Schivelbusch, fallen into several identifiable types. In one of these, the vanquished manage to {BLANK} the victor’s triumph as the result of some spurious advantage, the victors being truly inferior where it counts. Often the winners {BLANK} this interpretation, worrying about the cultural or moral costs of their triumph and so giving some credence to the losers’ story.
+Now listen to the text with the three options inserted in place of each blank.
+The narratives that vanquished peoples have created of their defeat have, according to Schivelbusch, fallen into several identifiable types. In one of these, the vanquished manage to {A. construe, B. anoint, C. acknowledge} the victor’s triumph as the result of some spurious advantage, the victors being truly inferior where it counts. Often the winners {D. take issue with, E. disregard, F. collude in} this interpretation, worrying about the cultural or moral costs of their triumph and so giving some credence to the losers’ story.
+Indicate your two answer choices or go on to hear them in context. Fill all blanks in the way that best completes the text.
+Begin skippable content.
+Answer Choices in Context:
+A, D. construe, take issue with. The narratives that vanquished peoples have created of their defeat have, according to Schivelbusch, fallen into several identifiable types. In one of these, the vanquished manage to construe the victor’s triumph as the result of some spurious advantage, the victors being truly inferior where it counts. Often the winners take issue with this interpretation, worrying about the cultural or moral costs of their triumph and so giving some credence to the losers’ story.
+A, E. construe, disregard. The narratives that vanquished peoples have created of their defeat have, according to Schivelbusch, fallen into several identifiable types. In one of these, the vanquished manage to construe the victor’s triumph as the result of some spurious advantage, the victors being truly inferior where it counts. Often the winners disregard this interpretation, worrying about the cultural or moral costs of their triumph and so giving some credence to the losers’ story.
+A, F. construe, collude in. The narratives that vanquished peoples have created of their defeat have, according to Schivelbusch, fallen into several identifiable types. In one of these, the vanquished manage to construe the victor’s triumph as the result of some spurious advantage, the victors being truly inferior where it counts. Often the winners collude in this interpretation, worrying about the cultural or moral costs of their triumph and so giving some credence to the losers’ story.
+B, D. anoint, take issue with. The narratives that vanquished peoples have created of their defeat have, according to Schivelbusch, fallen into several identifiable types. In one of these, the vanquished manage to anoint the victor’s triumph as the result of some spurious advantage, the victors being truly inferior where it counts. Often the winners take issue with this interpretation, worrying about the cultural or moral costs of their triumph and so giving some credence to the losers’ story.
+B, E. anoint, disregard. The narratives that vanquished peoples have created of their defeat have, according to Schivelbusch, fallen into several identifiable types. In one of these, the vanquished manage to anoint the victor’s triumph as the result of some spurious advantage, the victors being truly inferior where it counts. Often the winners disregard this interpretation, worrying about the cultural or moral costs of their triumph and so giving some credence to the losers’ story.
+B, F. anoint, collude in. The narratives that vanquished peoples have created of their defeat have, according to Schivelbusch, fallen into several identifiable types. In one of these, the vanquished manage to anoint the victor’s triumph as the result of some spurious advantage, the victors being truly inferior where it counts. Often the winners collude in this interpretation, worrying about the cultural or moral costs of their triumph and so giving some credence to the losers’ story.
+C, D. acknowledge, take issue with. The narratives that vanquished peoples have created of their defeat have, according to Schivelbusch, fallen into several identifiable types. In one of these, the vanquished manage to acknowledge the victor’s triumph as the result of some spurious advantage, the victors being truly inferior where it counts. Often the winners take issue with this interpretation, worrying about the cultural or moral costs of their triumph and so giving some credence to the losers’ story.
+C, E. acknowledge, disregard. The narratives that vanquished peoples have created of their defeat have, according to Schivelbusch, fallen into several identifiable types. In one of these, the vanquished manage to acknowledge the victor’s triumph as the result of some spurious advantage, the victors being truly inferior where it counts. Often the winners disregard this interpretation, worrying about the cultural or moral costs of their triumph and so giving some credence to the losers’ story.
+C, F. acknowledge, collude in. The narratives that vanquished peoples have created of their defeat have, according to Schivelbusch, fallen into several identifiable types. In one of these, the vanquished manage to acknowledge the victor’s triumph as the result of some spurious advantage, the victors being truly inferior where it counts. Often the winners collude in this interpretation, worrying about the cultural or moral costs of their triumph and so giving some credence to the losers’ story.
+Indicate your two answer choices. Fill all blanks in the way that best completes the text.
+End skippable content.
+Question 7.
+This question has three blanks.
+I’ve long anticipated this retrospective of the artist’s work, hoping that it would make {BLANK} judgments about him possible, but greater familiarity with his paintings highlights their inherent {BLANK} and actually makes one’s assessment {BLANK}.
+Now listen to the text with the three options inserted in place of each blank.
+I’ve long anticipated this retrospective of the artist’s work, hoping that it would make {A. modish, B. settled, C. detached} judgments about him possible, but greater familiarity with his paintings highlights their inherent {D. gloom, E. ambiguity, F. delicacy} and actually makes one’s assessment {G. similarly equivocal, H. less sanguine, I. more cynical}.
+Indicate your three answer choices. Fill all blanks in the way that best completes the text.
+Question 8.
+This question has two blanks.
+Scientists are not the only persons who examine the world about them by the use of rational processes, although they sometimes {BLANK} this impression by extending the definition of “scientist” to include anyone who is {BLANK} in his or her investigational practices.
+Now listen to the text with the three options inserted in place of each blank.
+Scientists are not the only persons who examine the world about them by the use of rational processes, although they sometimes {A. conceal, B. create, C. undermine} this impression by extending the definition of “scientist” to include anyone who is {D. intuitive, E. haphazard, F. logical} in his or her investigational practices.
+Indicate your two answer choices or go on to hear them in context. Fill all blanks in the way that best completes the text.
+Begin skippable content.
+Answer Choices in Context:
+A, D. conceal, intuitive. Scientists are not the only persons who examine the world about them by the use of rational processes, although they sometimes conceal this impression by extending the definition of “scientist” to include anyone who is intuitive in his or her investigational practices.
+A, E. conceal, haphazard. Scientists are not the only persons who examine the world about them by the use of rational processes, although they sometimes conceal this impression by extending the definition of “scientist” to include anyone who is haphazard in his or her investigational practices.
+A, F. conceal, logical. Scientists are not the only persons who examine the world about them by the use of rational processes, although they sometimes conceal this impression by extending the definition of “scientist” to include anyone who is logical in his or her investigational practices.
+B, D. create, intuitive. Scientists are not the only persons who examine the world about them by the use of rational processes, although they sometimes create this impression by extending the definition of “scientist” to include anyone who is intuitive in his or her investigational practices.
+B, E. create, haphazard. Scientists are not the only persons who examine the world about them by the use of rational processes, although they sometimes create this impression by extending the definition of “scientist” to include anyone who is haphazard in his or her investigational practices.
+B, F. create, logical. Scientists are not the only persons who examine the world about them by the use of rational processes, although they sometimes create this impression by extending the definition of “scientist” to include anyone who is logical in his or her investigational practices.
+C, D. undermine, intuitive. Scientists are not the only persons who examine the world about them by the use of rational processes, although they sometimes undermine this impression by extending the definition of “scientist” to include anyone who is intuitive in his or her investigational practices.
+C, E. undermine, haphazard. Scientists are not the only persons who examine the world about them by the use of rational processes, although they sometimes undermine this impression by extending the definition of “scientist” to include anyone who is haphazard in his or her investigational practices.
+C, F. undermine, logical. Scientists are not the only persons who examine the world about them by the use of rational processes, although they sometimes undermine this impression by extending the definition of “scientist” to include anyone who is logical in his or her investigational practices.
+Indicate your two answer choices. Fill all blanks in the way that best completes the text.
+End skippable content.
+Directions for Questions 9 and 10.
+Questions 9 and 10 are based on the following passage. Both questions will ask you to characterize the function played by an indicated portion of the passage. Each indicated portion will be set in boldface and enclosed in braces. For example, in this sentence the phrase {indicated portion} is formatted as just described.
+Passage for Questions 9 and 10.
+The most plausible justification for higher taxes on automobile fuel is that fuel consumption harms the environment and thus adds to the costs of traffic congestion. But the fact that burning fuel creates these “negative externalities” does not imply that no tax on fuel could ever be too high. Economics is precise about the tax that should, in principle, be levied to deal with negative externalities: {the tax on a liter of fuel should be equal to the harm caused by using a liter of fuel}. If the tax is more than that, its costs (including the inconvenience to those who would rather have used their cars) will {exceed} its benefits (including any reduction in congestion and pollution).
+Question 9.
+This question has five answer choices, labeled A through E. Select and indicate the best answer from among these choices.
+The phrase “the tax on a liter of fuel should be equal to the harm caused by using a liter of fuel” appears in the third sentence of the passage, which reads, “Economics is precise about the tax that should, in principle, be levied to deal with negative externalities: the tax on a liter of fuel should be equal to the harm caused by using a liter of fuel.” Which of the following best characterizes the function of the indicated portion of the passage?
+It restates a point made earlier in the passage.
+It provides the evidence on which a theory is based.
+It presents a specific application of a general principle.
+It summarizes a justification with which the author disagrees.
+It suggests that the benefits of a particular strategy have been overestimated.
+Select and indicate one answer choice from among the choices provided.
+Question 10.
+This question has five answer choices, labeled A through E. Select and indicate the best answer from among these choices.
+The word “exceed” appears in the last sentence of the passage, which reads, “If the tax is more than that, its costs (including the inconvenience to those who would rather have used their cars) will exceed its benefits (including any reduction in congestion and pollution).” In the context in which it appears, “exceed” most nearly means
+outstrip
+magnify
+delimit
+offset
+supplant
+Select and indicate one answer choice from among the choices provided.
+Directions for Questions 11 and 12.
+Questions 11 and 12 are based on the following passage. Question 12 will ask you to characterize the function played by an indicated portion of the passage. The indicated portion will be set in boldface and enclosed in braces. For example, in this sentence the phrase {indicated portion} is formatted as just described.
+Passage for Questions 11 and 12.
+Objectively, of course, the various ecosystems that sustain life on the planet proceed independently of human agency, just as they operated before the hectic ascendancy of Homo sapiens. But it is also true that it is difficult to think of a single such system that has not, for better or worse, been substantially modified by human culture. Nor is this simply the work of the industrial centuries. It has been happening since the days of {ancient Mesopotamia}. It is coeval with the origins of writing, and has occurred throughout our social existence. And it is this irreversibly modified world, from the polar caps to the equatorial forests, that is all the nature we have.
+Question 11.
+This question has three answer choices, labeled A through C. Consider each of the three choices separately and select all that apply.
+It can be inferred from the passage that the author would agree with which of the following statements?
+Over time, the impact of human culture on the natural world has been largely benign.
+It is a mistake to think that the natural world contains many areas of pristine wilderness.
+The only substantial effects that human agency has had on ecosystems have been inadvertent.
+Indicate your answer choice or choices.
+Question 12.
+This question has five answer choices, labeled A through E. Select and indicate the best answer from among these choices.
+The phrase “ancient Mesopotamia” appears in the fourth sentence of the passage, which reads, “It has been happening since the days of ancient Mesopotamia.” The author mentions “ancient Mesopotamia” primarily in order to
+provide some geographical and historical context for an earlier claim about the ascendancy of Homo sapiens
+support the idea that the impact of human culture on nature was roughly the same in the ancient world as in later times
+identify a place where the relationship between culture and nature was largely positive
+emphasize the extent to which the modification of nature by human culture preceded the industrial period
+make a connection between the origins of writing and other aspects of human cultural development
+Select and indicate one answer choice from among the choices provided.
+Directions for Questions 13 through 15:
+Each of the following questions includes a sentence with a blank indicating that something has been omitted. Following the sentence you will hear a list of six words or phrases, each of which could be used to complete the sentence. Select the two answer choices that, when used to complete the sentence, fit the meaning of the sentence as a whole and produce completed sentences that are alike in meaning.
+Following the list of answer choices are six readings of the sentence, one for each answer choice. The group of readings is surrounded by “Begin skippable content” and “End skippable content” labels formatted as level6 headings. Each reading will begin with the word or phrase that can be inserted into the blank, followed by a reading of the sentence with the word or phrase inserted into the blank.
+Question 13.
+Dreams are {BLANK} in and of themselves, but, when combined with other data, they can tell us much about the dreamer.
+Now listen to the six answer choices, labeled A through F.
+astonishing
+disordered
+harmless
+inscrutable
+revealing
+uninformative
+Indicate your two answer choices or go on to hear them in context.
+Begin skippable content.
+Answer Choices in Context:
+astonishing. Dreams are astonishing in and of themselves, but, when combined with other data, they can tell us much about the dreamer.
+disordered. Dreams are disordered in and of themselves, but, when combined with other data, they can tell us much about the dreamer.
+harmless. Dreams are harmless in and of themselves, but, when combined with other data, they can tell us much about the dreamer.
+inscrutable. Dreams are inscrutable in and of themselves, but, when combined with other data, they can tell us much about the dreamer.
+revealing. Dreams are revealing in and of themselves, but, when combined with other data, they can tell us much about the dreamer.
+uninformative. Dreams are uninformative in and of themselves, but, when combined with other data, they can tell us much about the dreamer.
+Indicate your two answer choices.
+End skippable content.
+Question 14.
+The macromolecule RNA is common to all living beings, and DNA, which is found in all organisms except some bacteria, is almost as {BLANK}.
+Now listen to the six answer choices, labeled A through F.
+comprehensive
+fundamental
+inclusive
+universal
+significant
+ubiquitous
+Indicate your two answer choices or go on to hear them in context.
+Begin skippable content.
+Answer Choices in Context:
+comprehensive. The macromolecule RNA is common to all living beings, and DNA, which is found in all organisms except some bacteria, is almost as comprehensive.
+fundamental. The macromolecule RNA is common to all living beings, and DNA, which is found in all organisms except some bacteria, is almost as fundamental.
+inclusive. The macromolecule RNA is common to all living beings, and DNA, which is found in all organisms except some bacteria, is almost as inclusive.
+universal. The macromolecule RNA is common to all living beings, and DNA, which is found in all organisms except some bacteria, is almost as universal.
+significant. The macromolecule RNA is common to all living beings, and DNA, which is found in all organisms except some bacteria, is almost as significant.
+ubiquitous. The macromolecule RNA is common to all living beings, and DNA, which is found in all organisms except some bacteria, is almost as ubiquitous.
+Indicate your two answer choices.
+End skippable content.
+Question 15.
+Early critics of Emily Dickinson’s poetry mistook for simplemindedness the surface of artlessness that in fact she constructed with such {BLANK}.
+Now listen to the six answer choices, labeled A through F.
+astonishment
+craft
+cunning
+innocence
+naïveté
+vexation
+Indicate your two answer choices or go on to hear them in context.
+Begin skippable content.
+Answer Choices in Context:
+astonishment. Early critics of Emily Dickinson’s poetry mistook for simplemindedness the surface of artlessness that in fact she constructed with such astonishment.
+craft. Early critics of Emily Dickinson’s poetry mistook for simplemindedness the surface of artlessness that in fact she constructed with such craft.
+cunning. Early critics of Emily Dickinson’s poetry mistook for simplemindedness the surface of artlessness that in fact she constructed with such cunning.
+innocence. Early critics of Emily Dickinson’s poetry mistook for simplemindedness the surface of artlessness that in fact she constructed with such innocence.
+naïveté. Early critics of Emily Dickinson’s poetry mistook for simplemindedness the surface of artlessness that in fact she constructed with such naïveté.
+vexation. Early critics of Emily Dickinson’s poetry mistook for simplemindedness the surface of artlessness that in fact she constructed with such vexation.
+Indicate your two answer choices.
+End skippable content.
+This is the end of Section 2 of The Graduate Record Examinations^{®} Practice General Test #1. In an actual test, once you complete a section you may not return to it.
+Section 3—Verbal Reasoning.
+20 Questions.
+Directions for Questions 1 through 4:
+Each of the following questions includes a sentence with a blank indicating that something has been omitted. Following the sentence you will hear a list of six words or phrases, each of which could be used to complete the sentence. Select the two answer choices that, when used to complete the sentence, fit the meaning of the sentence as a whole and produce completed sentences that are alike in meaning.
+Following the list of answer choices are six readings of the sentence, one for each answer choice. The group of readings is surrounded by “Begin skippable content” and “End skippable content” labels formatted as level6 headings. Each reading will begin with the word or phrase that can be inserted into the blank, followed by a reading of the sentence with the word or phrase inserted into the blank.
+Question 1.
+In the long run, hightechnology communications cannot {BLANK} more traditional facetoface family togetherness, in Ms. Aspinall’s view.
+Now listen to the six answer choices, labeled A through F.
+ameliorate
+compromise
+supersede
+approximate
+enervate
+supplant
+Indicate your two answer choices or go on to hear them in context.
+Begin skippable content.
+Answer Choices in Context:
+ameliorate. In the long run, hightechnology communications cannot ameliorate more traditional facetoface family togetherness, in Ms. Aspinall’s view.
+compromise. In the long run, hightechnology communications cannot compromise more traditional facetoface family togetherness, in Ms. Aspinall’s view.
+supersede. In the long run, hightechnology communications cannot supersede more traditional facetoface family togetherness, in Ms. Aspinall’s view.
+approximate. In the long run, hightechnology communications cannot approximate more traditional facetoface family togetherness, in Ms. Aspinall’s view.
+enervate. In the long run, hightechnology communications cannot enervate more traditional facetoface family togetherness, in Ms. Aspinall’s view.
+supplant. In the long run, hightechnology communications cannot supplant more traditional facetoface family togetherness, in Ms. Aspinall’s view.
+Indicate your two answer choices.
+End skippable content.
+Question 2.
+Even in this business, where {BLANK} is part of everyday life, a talent for lying is not something usually found on one’s resume.
+Now listen to the six answer choices, labeled A through F.
+aspiration
+mendacity
+prevarication
+insensitivity
+baseness
+avarice
+Indicate your two answer choices or go on to hear them in context.
+Begin skippable content.
+Answer Choices in Context:
+aspiration. Even in this business, where aspiration is part of everyday life, a talent for lying is not something usually found on one’s resume.
+mendacity. Even in this business, where mendacity is part of everyday life, a talent for lying is not something usually found on one’s resume.
+prevarication. Even in this business, where prevarication is part of everyday life, a talent for lying is not something usually found on one’s resume.
+insensitivity. Even in this business, where insensitivity is part of everyday life, a talent for lying is not something usually found on one’s resume.
+baseness. Even in this business, where baseness is part of everyday life, a talent for lying is not something usually found on one’s resume.
+avarice. Even in this business, where avarice is part of everyday life, a talent for lying is not something usually found on one’s resume.
+Indicate your two answer choices.
+End skippable content.
+Question 3.
+A restaurant’s menu is generally reflected in its decor; however, despite this restaurant’s {BLANK} appearance it is pedestrian in the menu it offers.
+Now listen to the six answer choices, labeled A through F.
+elegant
+tawdry
+modern
+traditional
+conventional
+chic
+Indicate your two answer choices or go on to hear them in context.
+Begin skippable content.
+Answer Choices in Context:
+elegant. A restaurant’s menu is generally reflected in its decor; however, despite this restaurant’s elegant appearance it is pedestrian in the menu it offers.
+tawdry. A restaurant’s menu is generally reflected in its decor; however, despite this restaurant’s tawdry appearance it is pedestrian in the menu it offers.
+modern. A restaurant’s menu is generally reflected in its decor; however, despite this restaurant’s modern appearance it is pedestrian in the menu it offers.
+traditional. A restaurant’s menu is generally reflected in its decor; however, despite this restaurant’s traditional appearance it is pedestrian in the menu it offers.
+conventional. A restaurant’s menu is generally reflected in its decor; however, despite this restaurant’s conventional appearance it is pedestrian in the menu it offers.
+chic. A restaurant’s menu is generally reflected in its decor; however, despite this restaurant’s chic appearance it is pedestrian in the menu it offers.
+Indicate your two answer choices.
+End skippable content.
+Question 4.
+International financial issues are typically {BLANK} by the United States media because they are too technical to make snappy headlines and too inaccessible to people who lack a background in economics.
+Now listen to the six answer choices, labeled A through F.
+neglected
+slighted
+overrated
+hidden
+criticized
+repudiated
+Indicate your two answer choices or go on to hear them in context.
+Begin skippable content.
+Answer Choices in Context:
+neglected. International financial issues are typically neglected by the United States media because they are too technical to make snappy headlines and too inaccessible to people who lack a background in economics.
+slighted. International financial issues are typically slighted by the United States media because they are too technical to make snappy headlines and too inaccessible to people who lack a background in economics.
+overrated. International financial issues are typically overrated by the United States media because they are too technical to make snappy headlines and too inaccessible to people who lack a background in economics.
+hidden. International financial issues are typically hidden by the United States media because they are too technical to make snappy headlines and too inaccessible to people who lack a background in economics.
+criticized. International financial issues are typically criticized by the United States media because they are too technical to make snappy headlines and too inaccessible to people who lack a background in economics.
+repudiated. International financial issues are typically repudiated by the United States media because they are too technical to make snappy headlines and too inaccessible to people who lack a background in economics.
+Indicate your two answer choices.
+End skippable content. 
+Directions for Questions 5 and 6.
+Questions 5 and 6 are based on the following passage. Question 6 will ask you to characterize the function played by an indicated portion of the passage. The indicated portion will be set in boldface and enclosed in braces. For example, in this sentence the phrase {indicated portion} is formatted as just described.
+Passage for Questions 5 and 6.
+Scholarship on political newspapers and their editors is dominated by the view that as the United States grew, the increasing influence of the press led, ultimately, to the neutral reporting from which we benefit today. Pasley considers this view oversimplified, because neutrality was not a goal of early national newspaper editing, even when editors {disingenuously} stated that they aimed to tell all sides of a story. Rather, the intensely partisan ideologies represented in newspapers of the early republic led to a clear demarcation between traditional and republican values. The editors responsible for the papers’ content—especially those with republican agendas—began to see themselves as central figures in the development of political consciousness in the United States.
+Question 5.
+This question has three answer choices, labeled A through C. Consider each of the three choices separately and select all that apply.
+The passage suggests that Pasley would agree with which of the following statements about the political role of newspapers?
+Newspapers today are in many cases much less neutral in their political reporting than is commonly held by scholars.
+Newspapers in the early United States normally declared quite openly their refusal to tell all sides of most political stories.
+The editorial policies of some early United States newspapers became a counterweight to proponents of traditional values.
+Indicate your answer choice or choices.
+Question 6.
+This question has five answer choices, labeled A through E. Select and indicate the best answer from among these choices.
+The word “disingenuously” appears in the second sentence of the passage, which reads, “Pasley considers this view oversimplified, because neutrality was not a goal of early national newspaper editing, even when editors disingenuously stated that they aimed to tell all sides of a story.” In the context in which it appears, “disingenuously” most nearly means
+insincerely
+guilelessly
+obliquely
+resolutely
+pertinaciously
+Select and indicate one answer choice from among the choices provided.
+Directions for Questions 7 and 8:
+Each of the following questions includes a short text with two or three blanks, each blank indicating that something has been omitted. You will be asked to select one entry for each blank from the corresponding choices. Fill all blanks in the way that best completes the text.
+For each question, first you will hear the text with the word “{BLANK}” in place of the omitted material. Next, you will hear the text again, but in place of each blank, you will hear three lettered options for completing that blank. The set of lettered options is formatted as bold and enclosed by braces. Each option consists of a word or phrase.
+For questions containing two blanks, following the list of answer choices are nine readings of the text, one for each answer choice combination. The group of readings begins with a “Begin Skippable Content” level6 heading and ends with an “End Skippable Content” level6 heading. Each reading consists of two option letters, the two words or phrases being combined, and the text with the combination of the words or phrases inserted into the blanks.
+For questions containing three blanks, the choices will not be read in context because it has been determined that replaying the question for all possible combinations of answer choices is not a useful way to present these questions.
+Question 7.
+This question has two blanks.
+The {BLANK} nature of classical tragedy in Athens belies the modern image of tragedy: in the modern view tragedy is austere and stripped down, its representations of ideological and emotional conflicts so superbly compressed that there’s nothing {BLANK} for time to erode.
+Now listen to the text with the three options inserted in place of each blank.
+The {A. unadorned, B. harmonious, C. multifaceted} nature of classical tragedy in Athens belies the modern image of tragedy: in the modern view tragedy is austere and stripped down, its representations of ideological and emotional conflicts so superbly compressed that there’s nothing {D. inalienable, E. exigent, F. extraneous} for time to erode.
+Indicate your two answer choices or go on to hear them in context. Fill all blanks in the way that best completes the text.
+Begin skippable content.
+Answer Choices in Context:
+A, D. unadorned, inalienable. The unadorned nature of classical tragedy in Athens belies the modern image of tragedy: in the modern view tragedy is austere and stripped down, its representations of ideological and emotional conflicts so superbly compressed that there’s nothing inalienable for time to erode.
+A, E. unadorned, exigent. The unadorned nature of classical tragedy in Athens belies the modern image of tragedy: in the modern view tragedy is austere and stripped down, its representations of ideological and emotional conflicts so superbly compressed that there’s nothing exigent for time to erode.
+A, F. unadorned, extraneous. The unadorned nature of classical tragedy in Athens belies the modern image of tragedy: in the modern view tragedy is austere and stripped down, its representations of ideological and emotional conflicts so superbly compressed that there’s nothing extraneous for time to erode.
+B, D. harmonious, inalienable. The harmonious nature of classical tragedy in Athens belies the modern image of tragedy: in the modern view tragedy is austere and stripped down, its representations of ideological and emotional conflicts so superbly compressed that there’s nothing inalienable for time to erode.
+B, E. harmonious, exigent. The harmonious nature of classical tragedy in Athens belies the modern image of tragedy: in the modern view tragedy is austere and stripped down, its representations of ideological and emotional conflicts so superbly compressed that there’s nothing exigent for time to erode.
+B, F. harmonious, extraneous. The harmonious nature of classical tragedy in Athens belies the modern image of tragedy: in the modern view tragedy is austere and stripped down, its representations of ideological and emotional conflicts so superbly compressed that there’s nothing extraneous for time to erode.
+C, D. multifaceted, inalienable. The multifaceted nature of classical tragedy in Athens belies the modern image of tragedy: in the modern view tragedy is austere and stripped down, its representations of ideological and emotional conflicts so superbly compressed that there’s nothing inalienable for time to erode.
+C, E. multifaceted, exigent. The multifaceted nature of classical tragedy in Athens belies the modern image of tragedy: in the modern view tragedy is austere and stripped down, its representations of ideological and emotional conflicts so superbly compressed that there’s nothing exigent for time to erode.
+C, F. multifaceted, extraneous. The multifaceted nature of classical tragedy in Athens belies the modern image of tragedy: in the modern view tragedy is austere and stripped down, its representations of ideological and emotional conflicts so superbly compressed that there’s nothing extraneous for time to erode.
+Indicate your two answer choices. Fill all blanks in the way that best completes the text.
+End skippable content.
+Question 8.
+This question has three blanks.
+Murray, whose show of recent paintings and drawings is her best in many years, has been eminent hereabouts for a quarter century, although often regarded with {BLANK}, but the most {BLANK} of these paintings {BLANK} all doubts.
+Now listen to the text with the three options inserted in place of each blank.
+Murray, whose show of recent paintings and drawings is her best in many years, has been eminent hereabouts for a quarter century, although often regarded with {A. partiality, B. credulity, C. ambivalence}, but the most {D. problematic, E. successful, F. disparaged} of these paintings {G. exculpate, H. assuage, I. whet} all doubts.
+Indicate your three answer choices. Fill all blanks in the way that best completes the text.
+Directions for Questions 9 and 10:
+Each of the following questions includes a short text with a blank, indicating that something has been omitted. Select the one entry that best completes the text.
+For each question, first you will hear the text with the word “{BLANK}” (set in boldface, underlined, and enclosed in braces) indicating that a word or phrase is omitted. There are five answer choices, each consisting of a word or phrase, for filling in the blank. Next, you will hear the five lettered options for filling in the blank. You may then indicate your answer, or go on to listen to the answer choices in context.
+Following the list of answer choices are five lettered readings of the text, one for each answer choice. The group of readings is separated from the main text using the “Begin skippable content” and “End skippable content” level6 headings.
+Question 9.
+Far from viewing Jefferson as a skeptical but enlightened intellectual, historians of the nineteen sixties have portrayed him as {BLANK} thinker, eager to fill the young with his political orthodoxy while censoring ideas he did not like.
+an adventurous
+a doctrinaire
+an eclectic
+a judicious
+a cynical
+Indicate one answer choice or go on to hear the choices in context.
+Begin skippable content.
+Answer Choices in Context:
+an adventurous. Far from viewing Jefferson as a skeptical but enlightened intellectual, historians of the nineteen sixties have portrayed him as an adventurous thinker, eager to fill the young with his political orthodoxy while censoring ideas he did not like.
+a doctrinaire. Far from viewing Jefferson as a skeptical but enlightened intellectual, historians of the nineteen sixties have portrayed him as a doctrinaire thinker, eager to fill the young with his political orthodoxy while censoring ideas he did not like.
+an eclectic. Far from viewing Jefferson as a skeptical but enlightened intellectual, historians of the nineteen sixties have portrayed him as an eclectic thinker, eager to fill the young with his political orthodoxy while censoring ideas he did not like.
+a judicious. Far from viewing Jefferson as a skeptical but enlightened intellectual, historians of the nineteen sixties have portrayed him as a judicious thinker, eager to fill the young with his political orthodoxy while censoring ideas he did not like.
+a cynical. Far from viewing Jefferson as a skeptical but enlightened intellectual, historians of the nineteen sixties have portrayed him as a cynical thinker, eager to fill the young with his political orthodoxy while censoring ideas he did not like.
+Indicate one answer choice.
+End skippable content.
+Question 10.
+Dramatic literature often {BLANK} the history of a culture in that it takes as its subject matter the important events that have shaped and guided the culture.
+confounds
+repudiates
+recapitulates
+anticipates
+polarizes
+Indicate one answer choice or go on to hear the choices in context.
+Begin skippable content.
+Answer Choices in Context:
+confounds. Dramatic literature often confounds the history of a culture in that it takes as its subject matter the important events that have shaped and guided the culture.
+repudiates. Dramatic literature often repudiates the history of a culture in that it takes as its subject matter the important events that have shaped and guided the culture.
+recapitulates. Dramatic literature often recapitulates the history of a culture in that it takes as its subject matter the important events that have shaped and guided the culture.
+anticipates. Dramatic literature often anticipates the history of a culture in that it takes as its subject matter the important events that have shaped and guided the culture.
+polarizes. Dramatic literature often polarizes the history of a culture in that it takes as its subject matter the important events that have shaped and guided the culture.
+Indicate one answer choice.
+End skippable content.
+Directions for Questions 11 through 14.
+Questions 11 through 14 are based on the following passage. Question 12 will ask you to characterize the function played by an indicated portion of the passage. The indicated portion will be set in boldface and enclosed in braces. For example, in this sentence the phrase {indicated portion} is formatted as just described.
+Passage for Questions 11 through 14.
+In A Raisin in the Sun, Lorraine Hansberry does not reject integration or the economic and moral promise of the American dream; rather, she remains loyal to this dream while looking, realistically, at its incomplete realization. Once we recognize this dual vision, we can accept the play’s ironic nuances as deliberate social commentaries by Hansberry rather than as the “unintentional” irony that Bigsby attributes to the work. Indeed, a curiously persistent refusal to credit Hansberry with a capacity for intentional irony has led {some critics} to interpret the play’s thematic conflicts as mere confusion, contradiction, or eclecticism. Isaacs, for example, cannot easily reconcile Hansberry’s intense concern for her race with her ideal of human reconciliation. But the play’s complex view of Black selfesteem and human solidarity as compatible is no more “contradictory” than Du Bois’ famous, wellconsidered ideal of ethnic selfawareness coexisting with human unity, or Fanon’s emphasis on an ideal internationalism that also accommodates national identities and roles.
+Question 11.
+This question has five answer choices, labeled A through E. Select and indicate the best answer from among these choices.
+The author’s primary purpose in the passage is to
+explain some critics’ refusal to consider Raisin in the Sun a deliberately ironic play
+suggest that ironic nuances ally Raisin in the Sun with Du Bois’ and Fanon’s writings
+analyze the fundamental dramatic conflicts in Raisin in the Sun
+emphasize the inclusion of contradictory elements in Raisin in the Sun
+affirm the thematic coherence underlying Raisin in the Sun
+Select and indicate one answer choice from among the choices provided.
+Question 12.
+This question has five answer choices, labeled A through E. Select and indicate the best answer from among these choices.
+The phrase “some critics” appears in the third sentence of the passage, which reads, “Indeed, a curiously persistent refusal to credit Hansberry with a capacity for intentional irony has led some critics to interpret the play’s thematic conflicts as mere confusion, contradiction, or eclecticism.” The author of the passage would probably consider which of the following judgments to be most similar to the reasoning of the critics described in the third sentence of the passage?
+The world is certainly flat; therefore, the person proposing to sail around it is unquestionably foolhardy. 
+Radioactivity cannot be directly perceived; therefore, a scientist could not possibly control it in a laboratory. 
+The painter of this picture could not intend it to be funny; therefore, its humor must result from a lack of skill. 
+Traditional social mores are beneficial to culture; therefore, anyone who deviates from them acts destructively. 
+Filmmakers who produce documentaries deal exclusively with facts; therefore, a filmmaker who reinterprets particular events is misleading us. 
+Select and indicate one answer choice from among the choices provided.
+Question 13.
+The five sentences in the passage are repeated, in their original order, as the answer choices for this question. Select the sentence in the passage in which the author provides examples that reinforce an argument against a critical response cited earlier in the passage.
+In A Raisin in the Sun, Lorraine Hansberry does not reject integration or the economic and moral promise of the American dream; rather, she remains loyal to this dream while looking, realistically, at its incomplete realization. 
+Once we recognize this dual vision, we can accept the play’s ironic nuances as deliberate social commentaries by Hansberry rather than as the “unintentional” irony that Bigsby attributes to the work. 
+Indeed, a curiously persistent refusal to credit Hansberry with a capacity for intentional irony has led some critics to interpret the play’s thematic conflicts as mere confusion, contradiction, or eclecticism. 
+Isaacs, for example, cannot easily reconcile Hansberry’s intense concern for her race with her ideal of human reconciliation. 
+But the play’s complex view of Black selfesteem and human solidarity as compatible is no more “contradictory” than Du Bois’ famous, wellconsidered ideal of ethnic selfawareness coexisting with human unity, or Fanon’s emphasis on an ideal internationalism that also accommodates national identities and roles.
+Indicate which sentence you have selected.
+Question 14.
+This question has three answer choices, labeled A through C. Consider each of the three choices separately and select all that apply.
+It can be inferred from the passage that the author believes which of the following about Hansberry’s use of irony in Raisin in the Sun ?
+It reflects Hansberry’s reservations about the extent to which the American dream has been realized.
+It is justified by Hansberry’s loyalty to a favorable depiction of American life.
+It shows in the play’s thematic conflicts.
+Indicate your answer choice or choices.
+Question 15 is based on the following passage.
+As an example of the devastation wrought on music publishers by the photocopier, one executive noted that for a recent choral festival with 1,200 singers, the festival’s organizing committee purchased only 12 copies of the music published by her company that was performed as part of the festival.
+Question 15.
+This question has five answer choices, labeled A through E. Select and indicate the best answer from among these choices.
+Which of the following, if true, most seriously weakens the support the example lends to the executive’s contention that music publishers have been devastated by the photocopier?
+Only a third of the 1,200 singers were involved in performing the music published by the executive’s company.
+Half of the singers at the festival had already heard the music they were to perform before they began to practice for the festival.
+Because of shortages in funding, the organizing committee of the choral festival required singers to purchase their own copies of the music performed at the festival.
+Each copy of music that was performed at the festival was shared by two singers.
+As a result of publicity generated by its performance at the festival, the type of music performed at the festival became more widely known.
+Select and indicate one answer choice from among the choices provided.
+Directions for Questions 16 and 17:
+Each of the following questions includes a short text with two or three blanks, each blank indicating that something has been omitted. You will be asked to select one entry for each blank from the corresponding choices. Fill all blanks in the way that best completes the text.
+For each question, first you will hear the text with the word “{BLANK}” in place of the omitted material. Next, you will hear the text again, but in place of each blank, you will hear three lettered options for completing that blank. The set of lettered options is formatted as bold and enclosed by braces. Each option consists of a word or phrase.
+For questions containing two blanks, following the list of answer choices are nine readings of the text, one for each answer choice combination. The group of readings begins with a “Begin Skippable Content” level6 heading and ends with an “End Skippable Content” level6 heading. Each reading consists of two option letters, the two words or phrases being combined, and the text with the combination of the words or phrases inserted into the blanks.
+For questions containing three blanks, the choices will not be read in context because it has been determined that replaying the question for all possible combinations of answer choices is not a useful way to present these questions.
+Question 16.
+This question has two blanks.
+New technologies often begin by {BLANK} what has gone before, and they change the world later. Think how long it took powerusing companies to recognize that with electricity they did not need to cluster their machinery around the power source, as in the days of steam. Instead, power could be {BLANK} their processes. In that sense, many of today’s computer networks are still in the steam age. Their full potential remains unrealized.
+Now listen to the text with the three options inserted in place of each blank.
+New technologies often begin by {A. uprooting, B. dismissing, C. mimicking} what has gone before, and they change the world later. Think how long it took powerusing companies to recognize that with electricity they did not need to cluster their machinery around the power source, as in the days of steam. Instead, power could be {D. transmitted to, E. consolidated around, F. incorporated into} their processes. In that sense, many of today’s computer networks are still in the steam age. Their full potential remains unrealized.
+Indicate your two answer choices or go on to hear them in context. Fill all blanks in the way that best completes the text.
+Begin skippable content.
+Answer Choices in Context:
+A, D. uprooting, transmitted to. New technologies often begin by uprooting what has gone before, and they change the world later. Think how long it took powerusing companies to recognize that with electricity they did not need to cluster their machinery around the power source, as in the days of steam. Instead, power could be transmitted to their processes. In that sense, many of today’s computer networks are still in the steam age. Their full potential remains unrealized.
+A, E. uprooting, consolidated around. New technologies often begin by uprooting what has gone before, and they change the world later. Think how long it took powerusing companies to recognize that with electricity they did not need to cluster their machinery around the power source, as in the days of steam. Instead, power could be consolidated around their processes. In that sense, many of today’s computer networks are still in the steam age. Their full potential remains unrealized.
+A, F. uprooting, incorporated into. New technologies often begin by uprooting what has gone before, and they change the world later. Think how long it took powerusing companies to recognize that with electricity they did not need to cluster their machinery around the power source, as in the days of steam. Instead, power could be incorporated into their processes. In that sense, many of today’s computer networks are still in the steam age. Their full potential remains unrealized.
+B, D. dismissing, transmitted to. New technologies often begin by dismissing what has gone before, and they change the world later. Think how long it took powerusing companies to recognize that with electricity they did not need to cluster their machinery around the power source, as in the days of steam. Instead, power could be transmitted to their processes. In that sense, many of today’s computer networks are still in the steam age. Their full potential remains unrealized.
+B, E. dismissing, consolidated around. New technologies often begin by dismissing what has gone before, and they change the world later. Think how long it took powerusing companies to recognize that with electricity they did not need to cluster their machinery around the power source, as in the days of steam. Instead, power could be consolidated around their processes. In that sense, many of today’s computer networks are still in the steam age. Their full potential remains unrealized.
+B, F. dismissing, incorporated into. New technologies often begin by dismissing what has gone before, and they change the world later. Think how long it took powerusing companies to recognize that with electricity they did not need to cluster their machinery around the power source, as in the days of steam. Instead, power could be incorporated into their processes. In that sense, many of today’s computer networks are still in the steam age. Their full potential remains unrealized.
+C, D. mimicking, transmitted to. New technologies often begin by mimicking what has gone before, and they change the world later. Think how long it took powerusing companies to recognize that with electricity they did not need to cluster their machinery around the power source, as in the days of steam. Instead, power could be transmitted to their processes. In that sense, many of today’s computer networks are still in the steam age. Their full potential remains unrealized.
+C, E. mimicking, consolidated around. New technologies often begin by mimicking what has gone before, and they change the world later. Think how long it took powerusing companies to recognize that with electricity they did not need to cluster their machinery around the power source, as in the days of steam. Instead, power could be consolidated around their processes. In that sense, many of today’s computer networks are still in the steam age. Their full potential remains unrealized.
+C, F. mimicking, incorporated into. New technologies often begin by mimicking what has gone before, and they change the world later. Think how long it took powerusing companies to recognize that with electricity they did not need to cluster their machinery around the power source, as in the days of steam. Instead, power could be incorporated into their processes. In that sense, many of today’s computer networks are still in the steam age. Their full potential remains unrealized.
+Indicate your two answer choices. Fill all blanks in the way that best completes the text.
+End skippable content.
+Question 17.
+This question has two blanks.
+Of course anyone who has ever perused an unmodernized text of Captain Clark’s journals knows that the Captain was one of the most {BLANK} spellers ever to write in English, but despite this {BLANK} orthographical rules, Clark is never unclear.
+Now listen to the text with the three options inserted in place of each blank.
+Of course anyone who has ever perused an unmodernized text of Captain Clark’s journals knows that the Captain was one of the most {A. indefatigable, B. fastidious, C. defiant} spellers ever to write in English, but despite this {D. disregard for, E. partiality toward, F. unpretentiousness about} orthographical rules, Clark is never unclear.
+Indicate your two answer choices or go on to hear them in context. Fill all blanks in the way that best completes the text.
+Begin skippable content.
+Answer Choices in Context:
+A, D. indefatigable, disregard for. Of course anyone who has ever perused an unmodernized text of Captain Clark’s journals knows that the Captain was one of the most indefatigable spellers ever to write in English, but despite this disregard for orthographical rules, Clark is never unclear.
+A, E. indefatigable, partiality toward. Of course anyone who has ever perused an unmodernized text of Captain Clark’s journals knows that the Captain was one of the most indefatigable spellers ever to write in English, but despite this partiality toward orthographical rules, Clark is never unclear.
+A, F. indefatigable, unpretentiousness about. Of course anyone who has ever perused an unmodernized text of Captain Clark’s journals knows that the Captain was one of the most indefatigable spellers ever to write in English, but despite this unpretentiousness about orthographical rules, Clark is never unclear.
+B, D. fastidious, disregard for. Of course anyone who has ever perused an unmodernized text of Captain Clark’s journals knows that the Captain was one of the most fastidious spellers ever to write in English, but despite this disregard for orthographical rules, Clark is never unclear.
+B. E. fastidious, partiality toward. Of course anyone who has ever perused an unmodernized text of Captain Clark’s journals knows that the Captain was one of the most fastidious spellers ever to write in English, but despite this partiality toward orthographical rules, Clark is never unclear.
+B, F. fastidious, unpretentiousness about. Of course anyone who has ever perused an unmodernized text of Captain Clark’s journals knows that the Captain was one of the most fastidious spellers ever to write in English, but despite this unpretentiousness about orthographical rules, Clark is never unclear.
+C, D. defiant, disregard for. Of course anyone who has ever perused an unmodernized text of Captain Clark’s journals knows that the Captain was one of the most defiant spellers ever to write in English, but despite this disregard for orthographical rules, Clark is never unclear.
+C, E. defiant, partiality toward. Of course anyone who has ever perused an unmodernized text of Captain Clark’s journals knows that the Captain was one of the most defiant spellers ever to write in English, but despite this partiality toward orthographical rules, Clark is never unclear.
+C, F. defiant, unpretentiousness about. Of course anyone who has ever perused an unmodernized text of Captain Clark’s journals knows that the Captain was one of the most defiant spellers ever to write in English, but despite this unpretentiousness about orthographical rules, Clark is never unclear.
+Indicate your two answer choices. Fill all blanks in the way that best completes the text.
+End skippable content.
+Question 18 is based on the following passage.
+For the past two years at FasCorp, there has been a policy to advertise any job opening to current employees and to give no job to an applicant from outside the company if a FasCorp employee applies who is qualified for the job. This policy has been strictly followed, yet even though numerous employees of FasCorp have been qualified for any given entrylevel position, some entrylevel jobs have been filled with people from outside the company.
+Question 18.
+This question has five answer choices, labeled A through E. Select and indicate the best answer from among these choices.
+If the information provided is true, which of the following must on the basis of it also be true about FasCorp during the past two years?
+There have been some open jobs for which no qualified FasCorp employee applied.
+Some entrylevel job openings have not been advertised to FasCorp employees.
+The total number of employees has increased.
+FasCorp has hired some people for jobs for which they were not qualified.
+All the job openings have been for entrylevel jobs.
+Select and indicate one answer choice from among the choices provided.
+Questions 19 and 20 are based on the following passage.
+A tall tree can transport a hundred gallons of water a day from its roots deep underground to the treetop. Is this movement propelled by pulling the water from above or pushing it from below? The pull mechanism has long been favored by most scientists. First proposed in the late eighteen hundreds, the theory relies on a property of water not commonly associated with fluids: its tensile strength. Instead of making a clean break, water evaporating from treetops tugs on the remaining water molecules, with that tug extending from molecule to molecule all the way down to the roots. The tree itself does not actually push or pull; all the energy for lifting water comes from the sun’s evaporative power.
+Question 19.
+This question has three answer choices, labeled A through C. Consider each of the three choices separately and select all that apply.
+Which of the following statements is supported by the passage?
+The pull theory is not universally accepted by scientists.
+The pull theory depends on one of water’s physical properties.
+The pull theory originated earlier than did the push theory.
+Indicate your answer choice or choices.
+Question 20.
+This question has five answer choices, labeled A through E. Select and indicate the best answer from among these choices.
+The passage provides information on each of the following EXCEPT
+when the pull theory originated
+the amount of water a tall tree can transport
+the significance of water’s tensile strength in the pull theory
+the role of the sun in the pull theory
+the mechanism underlying water’s tensile strength
+Select and indicate one answer choice from among the choices provided.
+This is the end of Section 3 of The Graduate Record Examinations^{®} Practice General Test #1. In an actual test, once you complete a section you may not return to it.
