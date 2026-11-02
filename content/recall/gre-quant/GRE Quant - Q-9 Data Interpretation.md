@@ -3,7 +3,7 @@ title: "GRE Quant - Q-9 Data Interpretation"
 type: recall
 status: active
 created: 2026-11-01
-source: "ETS GRE Math Review 4.1 and 4.6; ETS Quant overview (numeric entry advice); traps from the GRE Quant Lab bank solutions. See ## Sources"
+source: "ETS GRE Math Review 4.1 and 4.6; ETS Quant overview (numeric entry advice). See ## Sources"
 tags: [gre, quant, data-interpretation, graphs, tables]
 node: Q-9
 section: "Quantitative Reasoning"
@@ -16,7 +16,7 @@ state: unstudied
 
 # Q-9: Data Interpretation
 
-**Why this matters:** 140 questions, the third-largest content node, with 50 of the bank's 102 numeric entry questions. On the test, Data Interpretation sets share one table or graph across several questions. The maths is Q-2 and Q-7; the skill is reading the right number and the right base.
+**Why this matters:** 10 of the 96 ETS questions. On the test, Data Interpretation sets share one table or graph across several questions. The maths is Q-2 and Q-7; the skill is reading the right number and the right base.
 
 ## Reading the display
 
@@ -48,23 +48,6 @@ state: unstudied
 - Read the question again and give the kind of answer asked: units, millions, percent or decimal.
 - Round only the final answer, and only if the question says to; otherwise enter the exact value.
 - Any equivalent fraction counts in a fraction box; it need not be reduced.
-
-## Traps the bank keeps setting
-
-- Using the wrong base (percent of the group against percent of the total).
-- Averaging percentages across groups of different sizes.
-- Treating "more than 15%" as including exactly 15%.
-- Adding a fixed amount for a projection when the question implies the same rate.
-- Missing that the total also grows when one part is changed to hit a target share.
-
-## Practise on
-
-- [GRE-k001-main-k-3](/practice/question/GRE-k001-main-k-3) median from a frequency table
-- [GRE-t001-medium-m-15](/practice/question/GRE-t001-medium-m-15) circle graph, central angle (numeric)
-- [GRE-t008-medium-m-13](/practice/question/GRE-t008-medium-m-13) share falls while amount rises
-- [GRE-t009-hard-h-14](/practice/question/GRE-t009-hard-h-14) per-person rates (select all)
-- [GRE-t005-hard-h-13](/practice/question/GRE-t005-hard-h-13) percent to amount
-- [GRE-t011-easy-e-13](/practice/question/GRE-t011-easy-e-13) table and percent
 
 ## Concept map
 
@@ -107,4 +90,3 @@ A: (35 + 150)/1,200 ≈ 15.4%, not the average 17.5%.
 ## Sources
 - ETS, *GRE Math Review*, 4.1 Methods for Presenting Data, 4.6 Data Interpretation Examples, 1.7 Percent: https://www.ets.org/pdfs/gre/gre-math-review.pdf
 - ETS, GRE Quantitative Reasoning overview (numeric entry: read carefully, watch units, round only the final answer): https://www.ets.org/gre/test-takers/general-test/prepare/content/quantitative-reasoning.html
-- GRE Quant Lab question bank solutions (traps), pekalkan/gre-quant-lab @ 9bdc26e, translated in this repo

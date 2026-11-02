@@ -3,7 +3,7 @@ title: "GRE Quant - Q-6 Circles, Polygons, Coordinates and Solids"
 type: recall
 status: active
 created: 2026-11-01
-source: "ETS GRE Math Review 2.8, 3.2, 3.4 to 3.6; traps from the GRE Quant Lab bank solutions. See ## Sources"
+source: "ETS GRE Math Review 2.8, 3.2, 3.4 to 3.6. See ## Sources"
 tags: [gre, quant, geometry, circles, coordinates, solids]
 node: Q-6
 section: "Quantitative Reasoning"
@@ -16,7 +16,7 @@ state: unstudied
 
 # Q-6: Circles, Polygons, Coordinates and Solids
 
-**Why this matters:** 106 questions, the second-largest content node. Most are a formula plus one insight: a right angle on a diameter, a radius meeting a tangent, a 3D diagonal.
+**Why this matters:** 11 of the 96 ETS questions. Most are a formula plus one insight: a right angle on a diameter, a radius meeting a tangent, a 3D diagonal.
 
 ## Polygons and quadrilaterals
 
@@ -52,22 +52,6 @@ state: unstudied
 - Cube of side s: volume s³, surface 6s², diagonal s√3.
 - Right circular cylinder: volume πr²h, total surface 2πr² + 2πrh (two bases plus the curved side) (ETS 3.6).
 - Sphere volume (4/3)πr³ (given on the test when needed).
-
-## Traps the bank keeps setting
-
-- Using the radius where the diameter is meant, or the reverse.
-- Leaving out a base (or both) in "total surface area".
-- Missing the second circle when "tangent to both axes" through a point has two solutions.
-- Taking a parallelogram's area as the product of its sides.
-
-## Practise on
-
-- [GRE-t001-hard-h-12](/practice/question/GRE-t001-hard-h-12) ring area from a tangent chord (numeric)
-- [GRE-k002-main-h-11](/practice/question/GRE-k002-main-h-11) cylinder, volume to total surface
-- [GRE-t007-s1-s1-1](/practice/question/GRE-t007-s1-s1-1) angle on a diameter (QC)
-- [GRE-t008-s1-s1-8](/practice/question/GRE-t008-s1-s1-8) regular polygon interior angles (select all)
-- [GRE-t005-medium-m-12](/practice/question/GRE-t005-medium-m-12) trapezium on axes (numeric)
-- [GRE-t009-medium-m-8](/practice/question/GRE-t009-medium-m-8) incircle of an equilateral triangle
 
 ## Concept map
 
@@ -116,4 +100,3 @@ A: It is tangent to both axes.
 
 ## Sources
 - ETS, *GRE Math Review*, 2.8 Coordinate Geometry, 3.2 Polygons, 3.4 Quadrilaterals, 3.5 Circles, 3.6 Three-Dimensional Figures: https://www.ets.org/pdfs/gre/gre-math-review.pdf
-- GRE Quant Lab question bank solutions (traps), pekalkan/gre-quant-lab @ 9bdc26e, translated in this repo

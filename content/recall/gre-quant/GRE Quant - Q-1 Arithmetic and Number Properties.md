@@ -3,7 +3,7 @@ title: "GRE Quant - Q-1 Arithmetic and Number Properties"
 type: recall
 status: active
 created: 2026-11-01
-source: "ETS GRE Math Review, Part 1 (1.1 to 1.5); traps from the GRE Quant Lab bank solutions. See ## Sources"
+source: "ETS GRE Math Review, Part 1 (1.1 to 1.5). See ## Sources"
 tags: [gre, quant, arithmetic, number-properties]
 node: Q-1
 section: "Quantitative Reasoning"
@@ -16,7 +16,7 @@ state: unstudied
 
 # Q-1: Arithmetic and Number Properties
 
-**Why this matters:** 144 of the 740 bank questions sit here, and 93 of them are Quantitative Comparisons. Most are not about calculating. They test whether you know what integers, primes, remainders, exponents and decimals *must* do.
+**Why this matters:** 16 of the 96 ETS questions sit here, and 5 of them are Quantitative Comparisons. They are less about calculating than about whether you know what integers, primes, remainders, exponents and decimals *must* do.
 
 ## Integers, factors and multiples
 
@@ -54,22 +54,6 @@ state: unstudied
 
 - |x| is the distance from x to 0. |r + s| ≤ |r| + |s| (the triangle inequality, ETS 1.5).
 - If rs = 0, then r = 0 or s = 0 or both (ETS 1.5).
-
-## Traps the bank keeps setting
-
-- Not simplifying before checking a terminating decimal (9/48 = 3/16 terminates).
-- Forgetting that 25 gives two 5s when counting trailing zeros.
-- Assuming a ratio a/b is in lowest terms when the question does not say so.
-- Trying only positive whole numbers in a QC: test 0, 1, −1, a fraction and a large number.
-- Forgetting that some squares share a units digit (4² and 6² both end in 6).
-
-## Practise on
-
-- [GRE-t003-easy-e-10](/practice/question/GRE-t003-easy-e-10) divisibility rules (select all)
-- [GRE-t006-s1-s1-9](/practice/question/GRE-t006-s1-s1-9) terminating decimals (select all)
-- [GRE-t004-medium-m-5](/practice/question/GRE-t004-medium-m-5) squares and cubes (QC)
-- [GRE-t011-hard-h-5](/practice/question/GRE-t011-hard-h-5) a fraction not in lowest terms (QC)
-- [GRE-k002-main-h-6](/practice/question/GRE-k002-main-h-6) units digit of a cube (QC)
 
 ## Concept map
 
@@ -120,4 +104,3 @@ A: No. −2⁴ = −16, (−2)⁴ = 16.
 ## Sources
 - ETS, *GRE Math Review*, Part 1 Arithmetic (1.1 Integers, 1.2 Fractions, 1.3 Exponents and Roots, 1.4 Decimals, 1.5 Real Numbers): https://www.ets.org/pdfs/gre/gre-math-review.pdf
 - ETS, GRE Quantitative Reasoning overview (plug in 0, negatives, fractions, small and large numbers in QC): https://www.ets.org/gre/test-takers/general-test/prepare/content/quantitative-reasoning.html
-- GRE Quant Lab question bank solutions (traps), pekalkan/gre-quant-lab @ 9bdc26e, translated in this repo

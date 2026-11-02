@@ -3,7 +3,7 @@ title: "GRE Quant - Q-3 Algebra"
 type: recall
 status: active
 created: 2026-11-01
-source: "ETS GRE Math Review, Part 2 (2.1 to 2.6, 2.9); traps from the GRE Quant Lab bank solutions. See ## Sources"
+source: "ETS GRE Math Review, Part 2 (2.1 to 2.6, 2.9). See ## Sources"
 tags: [gre, quant, algebra]
 node: Q-3
 section: "Quantitative Reasoning"
@@ -16,7 +16,7 @@ state: unstudied
 
 # Q-3: Algebra
 
-**Why this matters:** the biggest content node, 160 questions, 66 of them QCs. The bank tests signs, lost roots and identities far more than long equation solving.
+**Why this matters:** the biggest content node, 19 of the 96 ETS questions, 9 of them QCs. ETS tests signs, lost roots and identities more than long equation solving.
 
 ## Expressions and identities
 
@@ -57,22 +57,6 @@ state: unstudied
 - f(a + b) is generally not f(a) + f(b).
 - Arithmetic sequence: aₙ = a₁ + (n − 1)d; sum = number of terms × (first + last)/2. From term 5 to term 12 is 7 steps.
 - The sum of the first n odd numbers is n².
-
-## Traps the bank keeps setting
-
-- Dividing by a variable and losing the root x = 0.
-- Missing the negative solution of x² = k or of an absolute value.
-- Ignoring "different" (it rules out a double root, so the discriminant must be strictly positive).
-- Assuming x > y from x/y > 1 (both could be negative).
-- Writing (a + b)² as a² + b².
-
-## Practise on
-
-- [GRE-t001-hard-h-7](/practice/question/GRE-t001-hard-h-7) quadratic equation
-- [GRE-t004-medium-m-6](/practice/question/GRE-t004-medium-m-6) identities
-- [GRE-t006-s1-s1-4](/practice/question/GRE-t006-s1-s1-4) equal squares (QC)
-- [GRE-t008-medium-m-11](/practice/question/GRE-t008-medium-m-11) product inequality (select all)
-- [GRE-k002-main-h-3](/practice/question/GRE-k002-main-h-3) powers and sign (QC)
 
 ## Concept map
 
@@ -121,4 +105,3 @@ A: No. If both are negative, x < y (e.g. −4/−2 = 2).
 
 ## Sources
 - ETS, *GRE Math Review*, 2.1 Algebraic Expressions, 2.2 Rules of Exponents, 2.3 Linear Equations, 2.4 Quadratic Equations, 2.5 Linear Inequalities, 2.6 Functions, 2.9 Graphs of Functions: https://www.ets.org/pdfs/gre/gre-math-review.pdf
-- GRE Quant Lab question bank solutions (traps), pekalkan/gre-quant-lab @ 9bdc26e, translated in this repo

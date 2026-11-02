@@ -3,7 +3,7 @@ title: "GRE Quant - Q-8 Counting and Probability"
 type: recall
 status: active
 created: 2026-11-01
-source: "ETS GRE Math Review 4.3 and 4.4; traps from the GRE Quant Lab bank solutions. See ## Sources"
+source: "ETS GRE Math Review 4.3 and 4.4. See ## Sources"
 tags: [gre, quant, counting, probability]
 node: Q-8
 section: "Quantitative Reasoning"
@@ -16,7 +16,7 @@ state: unstudied
 
 # Q-8: Counting and Probability
 
-**Why this matters:** 47 questions, mostly hard in this bank. The skill is choosing the right count: ordered or not, repeated or not, labelled groups or not.
+**Why this matters:** 5 of the 96 ETS questions. The skill is choosing the right count: ordered or not, repeated or not, labelled groups or not.
 
 ## Sets
 
@@ -44,23 +44,6 @@ state: unstudied
 - Conditional ("given that"): shrink the sample space to the cases where the condition holds.
 - Binomial: exactly k successes in n tries with chance p: C(n, k)·p^k·(1 − p)^(n−k).
 - Symmetry often replaces counting: A is left of B in exactly half of all orders.
-
-## Traps the bank keeps setting
-
-- Counting with repetition when the question says "different" (that means C(n, k)).
-- Forgetting to divide by the number of orders for unlabelled teams.
-- Assuming independence and multiplying, when the answer is really a range (QC answer often A or B anyway, sometimes D).
-- Adding probabilities for "at least one" instead of using the complement.
-- Treating 1/2 as the default for "exactly half the coins".
-
-## Practise on
-
-- [GRE-t003-easy-e-9](/practice/question/GRE-t003-easy-e-9) probability of A or B
-- [GRE-k002-main-h-4](/practice/question/GRE-k002-main-h-4) bounds on a union (QC)
-- [GRE-k003-main-h-1](/practice/question/GRE-k003-main-h-1) bounds on an intersection (QC)
-- [GRE-t002-medium-m-9](/practice/question/GRE-t002-medium-m-9) restricted arrangement
-- [GRE-t006-hard-h-12](/practice/question/GRE-t006-hard-h-12) repeated letters (numeric)
-- [GRE-t001-s1-s1-10](/practice/question/GRE-t001-s1-s1-10) probability (fraction entry)
 
 ## Concept map
 
@@ -107,4 +90,3 @@ A: 166 + 66 − 33 = 199.
 
 ## Sources
 - ETS, *GRE Math Review*, 4.3 Counting Methods, 4.4 Probability: https://www.ets.org/pdfs/gre/gre-math-review.pdf
-- GRE Quant Lab question bank solutions (traps), pekalkan/gre-quant-lab @ 9bdc26e, translated in this repo

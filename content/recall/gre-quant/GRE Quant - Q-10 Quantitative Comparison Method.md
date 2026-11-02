@@ -3,7 +3,7 @@ title: "GRE Quant - Q-10 Quantitative Comparison Method"
 type: recall
 status: active
 created: 2026-11-01
-source: "ETS GRE Quantitative Reasoning overview and problem-solving strategies; traps from the GRE Quant Lab bank solutions. See ## Sources"
+source: "ETS GRE Quantitative Reasoning overview and problem-solving strategies. See ## Sources"
 tags: [gre, quant, quantitative-comparison, method]
 node: Q-10
 section: "Quantitative Reasoning"
@@ -16,7 +16,7 @@ state: unstudied
 
 # Q-10: Quantitative Comparison Method
 
-**Why this matters:** 245 of the 740 bank questions are Quantitative Comparisons, a third of the bank, and they come from every content node. One method covers all of them.
+**Why this matters:** 33 of the 96 ETS questions are Quantitative Comparisons, a third of the bank, and they come from every content node. One method covers all of them.
 
 ## The format
 
@@ -50,22 +50,6 @@ A, B and C each claim something is *always* true. D means at least two of them a
 - If a quantity can only vary within a range, and that whole range is above or below the other quantity, the answer is A or B even though the value is not fixed (P(R or S) ≥ 0.7 > 0.65).
 - A figure that is not to scale can still be fixed by the given angles (two sides equal with a 60° angle between them: equilateral).
 - If C is possible only when the variables meet a condition the question rules out, the answer is not D.
-
-## Traps the bank keeps setting
-
-- Trying only positive integers.
-- Forgetting the case where equality happens (x + 1/x ≥ 2, equal at x = 1).
-- Trusting the figure.
-- Calculating precisely when a quick bound settles it, or estimating when the gap is tiny (100 − 25π against 20 needs π < 3.2, so don't use π ≈ 3).
-
-## Practise on
-
-- [GRE-k002-main-h-4](/practice/question/GRE-k002-main-h-4) a range that still settles it
-- [GRE-t006-s1-s1-4](/practice/question/GRE-t006-s1-s1-4) equal squares, two cases
-- [GRE-t004-medium-m-3](/practice/question/GRE-t004-medium-m-3) figure not to scale
-- [GRE-t006-hard-h-3](/practice/question/GRE-t006-hard-h-3) greatest value equals B
-- [GRE-t011-hard-h-5](/practice/question/GRE-t011-hard-h-5) lowest terms not given
-- Run the whole node from Practice: every QC in the bank is in Q-10.
 
 ## Concept map
 
@@ -111,4 +95,3 @@ A: Only the stated facts: given lengths, angles, parallel and right-angle marks.
 ## Sources
 - ETS, GRE Quantitative Reasoning overview (QC answer choices, plug-in advice, simplifying both quantities): https://www.ets.org/gre/test-takers/general-test/prepare/content/quantitative-reasoning.html
 - ETS, General Problem-solving Steps for the GRE Quantitative Reasoning Measure: https://www.ets.org/content/dam/ets-india/pdfs/gre/quantitative-reasoning-strategies.pdf
-- GRE Quant Lab question bank solutions (traps), pekalkan/gre-quant-lab @ 9bdc26e, translated in this repo

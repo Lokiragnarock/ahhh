@@ -1,0 +1,741 @@
+[
+ {
+  "id": "GRE-ETS-PT3-S4-Q01",
+  "node": "Q-5",
+  "nodeTitle": "Lines, angles and triangles",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"gre-fig\"><img src=\"/gre/ets/pt3-s4-q01.png\" alt=\"Parallel lines k and m with a triangle between them. The triangle's lower left angle is z degrees and lower right angle is w degrees. The angles below line k on either side of the top vertex are x degrees and y degrees.\"></div><div class=\"given\">It is given that in the figure for question 1, line <i>k</i> is parallel to line <i>m</i>.</div><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div><i>x</i> + <i>y</i></div><div><i>w</i> + <i>z</i></div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "C",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "ETS GRE Practice General Test #3, Section 4, Question 1"
+ },
+ {
+  "id": "GRE-ETS-PT3-S4-Q02",
+  "node": "Q-2",
+  "nodeTitle": "Percents and ratios",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"given\">It is given that 4 percent of <i>s</i> is equal to 3 percent of <i>t</i>, where <i>s</i> &gt; 0 and <i>t</i> &gt; 0.</div><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div><i>s</i></div><div><i>t</i></div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "B",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "ETS GRE Practice General Test #3, Section 4, Question 2"
+ },
+ {
+  "id": "GRE-ETS-PT3-S4-Q03",
+  "node": "Q-6",
+  "nodeTitle": "Circles, polygons, coordinates and solids",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"gre-fig\"><img src=\"/gre/ets/pt3-s4-q03.png\" alt=\"A large circle with segment PQ, and two smaller circles inside it tangent to the large circle at P and Q and tangent to each other at R on PQ.\"></div><div class=\"given\">In the figure for question 3, three circles with their centers on line segment <i>PQ</i> are tangent at points <i>P</i>, <i>R</i>, and <i>Q</i>, where point <i>R</i> lies on line segment <i>PQ</i>.</div><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div>The circumference of the largest circle</div><div>The sum of the circumferences of the two smaller circles</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "C",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "ETS GRE Practice General Test #3, Section 4, Question 3"
+ },
+ {
+  "id": "GRE-ETS-PT3-S4-Q04",
+  "node": "Q-3",
+  "nodeTitle": "Algebra",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"given\">It is given that <i>x</i> &gt; <i>y</i>.</div><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div>|<i>x</i> + <i>y</i>|</div><div>|<i>x</i> − <i>y</i>|</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "D",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "ETS GRE Practice General Test #3, Section 4, Question 4"
+ },
+ {
+  "id": "GRE-ETS-PT3-S4-Q05",
+  "node": "Q-7",
+  "nodeTitle": "Statistics and distributions",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"gre-fig\"><img src=\"/gre/ets/pt3-s4-q05.jpg\" alt=\"Two bar graphs of frequency distributions C and D over the data values 10, 20, 30, 40 and 50. Distribution C has frequencies 3, 3, 6, 3, 3. Distribution D has frequencies 5, 3, 2, 3, 5.\"></div><div class=\"given\">The frequency distributions shown in the figure for question 5 represent two groups of data. Each of the data values is a multiple of 10.</div><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div>The standard deviation of distribution C</div><div>The standard deviation of distribution D</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "B",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "ETS GRE Practice General Test #3, Section 4, Question 5"
+ },
+ {
+  "id": "GRE-ETS-PT3-S4-Q06",
+  "node": "Q-3",
+  "nodeTitle": "Algebra",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">If <span class=\"frac\"><span><i>c</i> − <i>d</i></span><span><i>c</i> + <i>d</i></span></span> = 2 and <i>d</i> = 1, what is the value of <i>c</i> ?</div></div>",
+  "options": [
+   "A) 1",
+   "B) 0",
+   "C) −1",
+   "D) −2",
+   "E) −3"
+  ],
+  "answer": "E",
+  "source": "ETS GRE Practice General Test #3, Section 4, Question 6"
+ },
+ {
+  "id": "GRE-ETS-PT3-S4-Q07",
+  "node": "Q-2",
+  "nodeTitle": "Percents and ratios",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">A business owner obtained a $6,000 loan at a simple annual interest rate of <i>r</i> percent in order to purchase a computer. After one year, the owner made a single payment of $6,840 to repay the loan, including the interest. What is the value of <i>r</i> ?</div></div>",
+  "options": [
+   "A) 7.0",
+   "B) 8.4",
+   "C) 12.3",
+   "D) 14.0",
+   "E) 16.8"
+  ],
+  "answer": "D",
+  "source": "ETS GRE Practice General Test #3, Section 4, Question 7"
+ },
+ {
+  "id": "GRE-ETS-PT3-S4-Q08",
+  "node": "Q-7",
+  "nodeTitle": "Statistics and distributions",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "fraction",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">List <i>L</i> consists of three numbers: 2, <i>x</i>, and <i>y</i><br>List <i>M</i> consists of five numbers: 1, 2, 3, <i>x</i>, and <i>y</i><br>If the average (arithmetic mean) of the 3 numbers in list <i>L</i> is <span class=\"frac\"><span>10</span><span>3</span></span>, what is the average of the 5 numbers in list <i>M</i> ?<br><span class='hint'>Give your answer as a fraction.</span></div></div>",
+  "answer": "14/5",
+  "source": "ETS GRE Practice General Test #3, Section 4, Question 8"
+ },
+ {
+  "id": "GRE-ETS-PT3-S4-Q09",
+  "node": "Q-3",
+  "nodeTitle": "Algebra",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "multi",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">Which of the following inequalities have at least one positive solution and at least one negative solution?<br><span class='hint'>Indicate <u>all</u> such inequalities.</span></div></div>",
+  "options": [
+   "A) <span class=\"frac\"><span>5</span><span>3</span></span><i>x</i> &lt; <i>x</i>",
+   "B) <i>x</i><sup>3</sup> &lt; <i>x</i>",
+   "C) <i>x</i> − 6 &lt; <i>x</i> − 7"
+  ],
+  "answer": "B",
+  "source": "ETS GRE Practice General Test #3, Section 4, Question 9"
+ },
+ {
+  "id": "GRE-ETS-PT3-S4-Q10",
+  "node": "Q-3",
+  "nodeTitle": "Algebra",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">If (5<sup>5<i>x</i></sup>)(25) = 5<sup><i>n</i></sup>, where <i>n</i> and <i>x</i> are integers, what is the value of <i>n</i> in terms of <i>x</i> ?</div></div>",
+  "options": [
+   "A) 5<i>x</i> + 1",
+   "B) 5<i>x</i> + 2",
+   "C) 5<i>x</i> + 5",
+   "D) 10<i>x</i>",
+   "E) 10<i>x</i> + 2"
+  ],
+  "answer": "B",
+  "source": "ETS GRE Practice General Test #3, Section 4, Question 10"
+ },
+ {
+  "id": "GRE-ETS-PT3-S4-Q11",
+  "node": "Q-2",
+  "nodeTitle": "Percents and ratios",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">Of the 180 judges appointed by a certain President, 30 percent were women and 25 percent were from minority groups. If <span class=\"frac\"><span>1</span><span>9</span></span> of the women appointed were from minority groups, how many of the judges appointed were neither women nor from minority groups?</div></div>",
+  "options": [
+   "A) 75",
+   "B) 81",
+   "C) 87",
+   "D) 93",
+   "E) 99"
+  ],
+  "answer": "C",
+  "source": "ETS GRE Practice General Test #3, Section 4, Question 11"
+ },
+ {
+  "id": "GRE-ETS-PT3-S4-Q12",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">If an integer is divisible by both 8 and 15, then the integer also must be divisible by which of the following?</div></div>",
+  "options": [
+   "A) 16",
+   "B) 24",
+   "C) 32",
+   "D) 36",
+   "E) 45"
+  ],
+  "answer": "B",
+  "source": "ETS GRE Practice General Test #3, Section 4, Question 12"
+ },
+ {
+  "id": "GRE-ETS-PT3-S4-Q13",
+  "node": "Q-8",
+  "nodeTitle": "Counting and probability",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">A certain experiment has three possible outcomes. The outcomes are mutually exclusive and have probabilities <i>p</i>, <span class=\"frac\"><span><i>p</i></span><span>2</span></span>, and <span class=\"frac\"><span><i>p</i></span><span>4</span></span>, respectively. What is the value of <i>p</i> ?</div></div>",
+  "options": [
+   "A) <span class=\"frac\"><span>1</span><span>7</span></span>",
+   "B) <span class=\"frac\"><span>2</span><span>7</span></span>",
+   "C) <span class=\"frac\"><span>3</span><span>7</span></span>",
+   "D) <span class=\"frac\"><span>4</span><span>7</span></span>",
+   "E) <span class=\"frac\"><span>5</span><span>7</span></span>"
+  ],
+  "answer": "D",
+  "source": "ETS GRE Practice General Test #3, Section 4, Question 13"
+ },
+ {
+  "id": "GRE-ETS-PT3-S4-Q14",
+  "node": "Q-5",
+  "nodeTitle": "Lines, angles and triangles",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "multi",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">In triangle <i>ABC</i>, the measure of angle <i>B</i> is 90 degrees, the length of side <i>AB</i> is 4, and the length of side <i>BC</i> is <i>x</i>. If the length of hypotenuse <i>AC</i> is between 4 and 8, which of the following could be the value of <i>x</i> ?<br><span class='hint'>Indicate <u>all</u> such values.</span></div></div>",
+  "options": [
+   "A) 1",
+   "B) 2",
+   "C) 3",
+   "D) 4",
+   "E) 5",
+   "F) 6"
+  ],
+  "answer": "A,B,C,D,E,F",
+  "source": "ETS GRE Practice General Test #3, Section 4, Question 14"
+ },
+ {
+  "id": "GRE-ETS-PT3-S4-Q15",
+  "node": "Q-4",
+  "nodeTitle": "Word problems and rates",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">Each month, a certain manufacturing company’s total expenses are equal to a fixed monthly expense plus a variable expense that is directly proportional to the number of units produced by the company during that month. If the company’s total expenses for a month in which it produces 20,000 units are $570,000, and the total expenses for a month in which it produces 25,000 units are $705,000, what is the company’s fixed monthly expense?</div></div>",
+  "options": [
+   "A) $27,000",
+   "B) $30,000",
+   "C) $67,500",
+   "D) $109,800",
+   "E) $135,000"
+  ],
+  "answer": "B",
+  "source": "ETS GRE Practice General Test #3, Section 4, Question 15"
+ },
+ {
+  "id": "GRE-ETS-PT3-S5-Q01",
+  "node": "Q-2",
+  "nodeTitle": "Percents and ratios",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"given\">The length of each side of equilateral triangle <i>T</i> is 6 times the length of each side of equilateral triangle <i>X</i>.</div><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div>The ratio of the length of one side of <i>T</i> to the length of another side of <i>T</i></div><div>The ratio of the length of one side of <i>X</i> to the length of another side of <i>X</i></div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "C",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "ETS GRE Practice General Test #3, Section 5, Question 1"
+ },
+ {
+  "id": "GRE-ETS-PT3-S5-Q02",
+  "node": "Q-3",
+  "nodeTitle": "Algebra",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"given\">It is given that <i>x</i> &gt; 1.</div><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div><span class=\"frac\"><span><i>x</i></span><span><i>x</i> + 1</span></span></div><div><span class=\"frac\"><span>−<i>x</i></span><span>1 − <i>x</i></span></span></div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "B",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "ETS GRE Practice General Test #3, Section 5, Question 2"
+ },
+ {
+  "id": "GRE-ETS-PT3-S5-Q03",
+  "node": "Q-6",
+  "nodeTitle": "Circles, polygons, coordinates and solids",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"given\">In the <i>x</i><i>y</i>-plane, the point (1, 2) is on line <i>j</i>, and the point (2, 1) is on line <i>k</i>. Each of the lines has a positive slope.</div><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div>The slope of line <i>j</i></div><div>The slope of line <i>k</i></div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "D",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "ETS GRE Practice General Test #3, Section 5, Question 3"
+ },
+ {
+  "id": "GRE-ETS-PT3-S5-Q04",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"given\">It is given that <i>n</i> is a positive integer.</div><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div>The remainder when <i>n</i> is divided by 5</div><div>The remainder when <i>n</i> + 10 is divided by 5</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "C",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "ETS GRE Practice General Test #3, Section 5, Question 4"
+ },
+ {
+  "id": "GRE-ETS-PT3-S5-Q05",
+  "node": "Q-6",
+  "nodeTitle": "Circles, polygons, coordinates and solids",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"given\">A right circular cylinder with radius 2 inches has volume 15 cubic inches.</div><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div>The height of the cylinder</div><div>2 inches</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "B",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "ETS GRE Practice General Test #3, Section 5, Question 5"
+ },
+ {
+  "id": "GRE-ETS-PT3-S5-Q06",
+  "node": "Q-3",
+  "nodeTitle": "Algebra",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"given\">It is given that <i>k</i> is an integer for which <span class=\"frac\"><span>1</span><span>2<sup>1 − <i>k</i></sup></span></span> &lt; <span class=\"frac\"><span>1</span><span>8</span></span></div><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div><i>k</i></div><div>−2</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "B",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "ETS GRE Practice General Test #3, Section 5, Question 6"
+ },
+ {
+  "id": "GRE-ETS-PT3-S5-Q07",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"given\">It is given that <i>n</i> is an integer greater than 0.</div><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div>The number of different prime factors of 9<i>n</i></div><div>The number of different prime factors of 8<i>n</i></div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "D",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "ETS GRE Practice General Test #3, Section 5, Question 7"
+ },
+ {
+  "id": "GRE-ETS-PT3-S5-Q08",
+  "node": "Q-4",
+  "nodeTitle": "Word problems and rates",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">Working at their respective constant rates, machine 1 makes 240 copies in 8 minutes and machine 2 makes 240 copies in 5 minutes. At these rates, how many more copies does machine 2 make in 4 minutes than machine 1 makes in 6 minutes?</div></div>",
+  "options": [
+   "A) 10",
+   "B) 12",
+   "C) 15",
+   "D) 20",
+   "E) 24"
+  ],
+  "answer": "B",
+  "source": "ETS GRE Practice General Test #3, Section 5, Question 8"
+ },
+ {
+  "id": "GRE-ETS-PT3-S5-Q09",
+  "node": "Q-2",
+  "nodeTitle": "Percents and ratios",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "numeric",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">Among the people attending a convention in Europe, 32 percent traveled from Asia and 45 percent of those who traveled from Asia are women. What percent of the people at the convention are women who traveled from Asia?</div></div>",
+  "answer": "14.4",
+  "unitAfter": "%",
+  "source": "ETS GRE Practice General Test #3, Section 5, Question 9"
+ },
+ {
+  "id": "GRE-ETS-PT3-S5-Q10",
+  "node": "Q-6",
+  "nodeTitle": "Circles, polygons, coordinates and solids",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">In the <i>x</i><i>y</i>-plane, points <i>R</i> and <i>S</i> have coordinates (−2, 1) and (4, −7), respectively. If point <i>P</i> is the midpoint of line segment <i>RS</i>, what are the coordinates of point <i>P</i> ?</div></div>",
+  "options": [
+   "A) (−1, −3)",
+   "B) (1, −4)",
+   "C) (1, −3)",
+   "D) (2, −4)",
+   "E) (3, −4)"
+  ],
+  "answer": "C",
+  "source": "ETS GRE Practice General Test #3, Section 5, Question 10"
+ },
+ {
+  "id": "GRE-ETS-PT3-S5-Q11",
+  "node": "Q-5",
+  "nodeTitle": "Lines, angles and triangles",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">A base of a triangle has length <i>b</i>, the altitude corresponding to the base has length <i>h</i>, and <i>b</i> = 2<i>h</i>. Which of the following expresses the area of the triangle, in terms of <i>h</i> ?</div></div>",
+  "options": [
+   "A) <span class=\"frac\"><span>1</span><span>2</span></span><i>h</i><sup>2</sup>",
+   "B) <span class=\"frac\"><span>3</span><span>4</span></span><i>h</i><sup>2</sup>",
+   "C) <i>h</i><sup>2</sup>",
+   "D) <span class=\"frac\"><span>3</span><span>2</span></span><i>h</i><sup>2</sup>",
+   "E) 2<i>h</i><sup>2</sup>"
+  ],
+  "answer": "C",
+  "source": "ETS GRE Practice General Test #3, Section 5, Question 11"
+ },
+ {
+  "id": "GRE-ETS-PT3-S5-Q12",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "multi",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">Chris entered a number in his calculator and erroneously multiplied the number by 2,073 instead of 2.073, getting an incorrect product. Which of the following is a single operation that Chris could perform on his calculator to correct the error?<br><span class='hint'>Indicate <u>all</u> such operations.</span></div></div>",
+  "options": [
+   "A) Multiply the incorrect product by 0.001",
+   "B) Divide the incorrect product by 0.001",
+   "C) Multiply the incorrect product by 1,000",
+   "D) Divide the incorrect product by 1,000"
+  ],
+  "answer": "A,D",
+  "source": "ETS GRE Practice General Test #3, Section 5, Question 12"
+ },
+ {
+  "id": "GRE-ETS-PT3-S5-Q13",
+  "node": "Q-9",
+  "nodeTitle": "Data interpretation",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"gre-fig\"><img src=\"/gre/ets/pt3-s5-q13-15.jpeg\" alt=\"Distribution of the 50 States of the United States by Population, 2000: eight population categories A to H with their population ranges and number of states, shown as a table with horizontal bars. Population of each state is rounded to the nearest 0.1 million.\"></div><div class=\"stem\">In 2000 the population of West Virginia was 1.8 million. If the ratio of the population of Georgia to that of West Virginia was 9 to 2, in which population category was Georgia?</div></div>",
+  "options": [
+   "A) Category B",
+   "B) Category C",
+   "C) Category D",
+   "D) Category E",
+   "E) Category F"
+  ],
+  "answer": "D",
+  "source": "ETS GRE Practice General Test #3, Section 5, Question 13"
+ },
+ {
+  "id": "GRE-ETS-PT3-S5-Q14",
+  "node": "Q-9",
+  "nodeTitle": "Data interpretation",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"gre-fig\"><img src=\"/gre/ets/pt3-s5-q13-15.jpeg\" alt=\"Distribution of the 50 States of the United States by Population, 2000: eight population categories A to H with their population ranges and number of states, shown as a table with horizontal bars. Population of each state is rounded to the nearest 0.1 million.\"></div><div class=\"stem\">The number of states in the two population categories C and D was approximately what percent greater than the number in the four population categories from E through H ?</div></div>",
+  "options": [
+   "A) 36%",
+   "B) 33%",
+   "C) 30%",
+   "D) 27%",
+   "E) 20%"
+  ],
+  "answer": "A",
+  "source": "ETS GRE Practice General Test #3, Section 5, Question 14"
+ },
+ {
+  "id": "GRE-ETS-PT3-S5-Q15",
+  "node": "Q-9",
+  "nodeTitle": "Data interpretation",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"gre-fig\"><img src=\"/gre/ets/pt3-s5-q13-15.jpeg\" alt=\"Distribution of the 50 States of the United States by Population, 2000: eight population categories A to H with their population ranges and number of states, shown as a table with horizontal bars. Population of each state is rounded to the nearest 0.1 million.\"></div><div class=\"stem\">The median of the 50 state populations was in which population category?</div></div>",
+  "options": [
+   "A) Category A",
+   "B) Category B",
+   "C) Category C",
+   "D) Category D",
+   "E) Category E"
+  ],
+  "answer": "C",
+  "source": "ETS GRE Practice General Test #3, Section 5, Question 15"
+ },
+ {
+  "id": "GRE-ETS-PT3-S5-Q16",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "numeric",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">If <sup>3</sup>√<i>x</i> = 3 and <i>x</i> = √<i>y</i>, what is the value of <i>y</i> ?</div></div>",
+  "answer": "729",
+  "source": "ETS GRE Practice General Test #3, Section 5, Question 16"
+ },
+ {
+  "id": "GRE-ETS-PT3-S5-Q17",
+  "node": "Q-7",
+  "nodeTitle": "Statistics and distributions",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"gre-fig\"><img src=\"/gre/ets/pt3-s5-q17.jpeg\" alt=\"The standard normal distribution with mean 0 and standard deviation 1. The six regions between minus 2 and 2 are labeled 2%, 14%, 34%, 34%, 14% and 2%.\"></div><div class=\"stem\">The figure shows the standard normal distribution, with mean 0 and standard deviation 1, including approximate percents of the distribution corresponding to the six regions shown.<br><br>Ian rode the bus to work last year. His travel times to work were approximately normally distributed, with a mean of 35 minutes and a standard deviation of 5 minutes. According to the figure shown, approximately what percent of Ian’s travel times to work last year were less than 40 minutes?</div></div>",
+  "options": [
+   "A) 14%",
+   "B) 34%",
+   "C) 60%",
+   "D) 68%",
+   "E) 84%"
+  ],
+  "answer": "E",
+  "source": "ETS GRE Practice General Test #3, Section 5, Question 17"
+ },
+ {
+  "id": "GRE-ETS-PT3-S5-Q18",
+  "node": "Q-3",
+  "nodeTitle": "Algebra",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">It is given that for all integers <i>x</i>, the function <i>f</i> is defined as follows.<br><i>f</i>(<i>x</i>) = <i>x</i> − 1 if <i>x</i> is even<br><i>f</i>(<i>x</i>) = <i>x</i> + 1 if <i>x</i> is odd<br>If <i>a</i> and <i>b</i> are integers and <i>f</i>(<i>a</i>) + <i>f</i>(<i>b</i>) = <i>a</i> + <i>b</i>, which of the following statements must be true?</div></div>",
+  "options": [
+   "A) <i>a</i> = <i>b</i>",
+   "B) <i>a</i> = −<i>b</i>",
+   "C) <i>a</i> + <i>b</i> is odd.",
+   "D) Both <i>a</i> and <i>b</i> are even.",
+   "E) Both <i>a</i> and <i>b</i> are odd."
+  ],
+  "answer": "C",
+  "source": "ETS GRE Practice General Test #3, Section 5, Question 18"
+ },
+ {
+  "id": "GRE-ETS-PT3-S5-Q19",
+  "node": "Q-3",
+  "nodeTitle": "Algebra",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">If <i>y</i><sup>−2</sup> + 2<i>y</i><sup>−1</sup> − 15 = 0, which of the following could be the value of <i>y</i> ?</div></div>",
+  "options": [
+   "A) 3",
+   "B) <span class=\"frac\"><span>1</span><span>5</span></span>",
+   "C) −<span class=\"frac\"><span>1</span><span>5</span></span>",
+   "D) −<span class=\"frac\"><span>1</span><span>3</span></span>",
+   "E) −5"
+  ],
+  "answer": "C",
+  "source": "ETS GRE Practice General Test #3, Section 5, Question 19"
+ },
+ {
+  "id": "GRE-ETS-PT3-S5-Q20",
+  "node": "Q-7",
+  "nodeTitle": "Statistics and distributions",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "multi",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">The six numbers 3.7, 4.1, <i>a</i>, 8.5, 9.2, and 2<i>a</i>, are listed in increasing order. Which of the following values could be the range of the six numbers?<br><span class='hint'>Indicate <u>all</u> such values.</span></div></div>",
+  "options": [
+   "A) 4.0",
+   "B) 5.2",
+   "C) 7.3",
+   "D) 11.6",
+   "E) 12.9",
+   "F) 14.1"
+  ],
+  "answer": "C,D,E",
+  "source": "ETS GRE Practice General Test #3, Section 5, Question 20"
+ }
+]

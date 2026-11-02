@@ -3,7 +3,7 @@ title: "GRE Quant - Q-7 Statistics and Distributions"
 type: recall
 status: active
 created: 2026-11-01
-source: "ETS GRE Math Review 4.2 and 4.5; GRE Quant Lab statistics formula card (translated); traps from the bank solutions. See ## Sources"
+source: "ETS GRE Math Review 4.2 and 4.5. See ## Sources"
 tags: [gre, quant, statistics, distributions]
 node: Q-7
 section: "Quantitative Reasoning"
@@ -16,7 +16,7 @@ state: unstudied
 
 # Q-7: Statistics and Distributions
 
-**Why this matters:** 40 questions here, and the same ideas (median from a table, box plots, weighted means) carry many Q-9 data questions. The GRE asks you to compare spreads far more than to calculate them.
+**Why this matters:** 9 of the 96 ETS questions here, and the same ideas (median from a table, box plots, weighted means) carry many Q-9 data questions. The GRE asks you to compare spreads far more than to calculate them.
 
 ## Mean
 
@@ -55,24 +55,6 @@ state: unstudied
 - Bell-shaped and symmetric; mean = median = mode (ETS 4.5).
 - About two-thirds of the data lie within 1 SD of the mean and almost all within 2 SD (ETS 4.5).
 - Finer rule: about 34% between the mean and 1 SD on each side, 13.5% between 1 and 2 SD, 2.35% between 2 and 3 SD, about 2.5% beyond 2 SD in one tail.
-
-## Traps the bank keeps setting
-
-- Taking the median without sorting.
-- Averaging two group means without weighting.
-- Giving the whole 5% outside ±2 SD to one tail (it is about 2.5% each side).
-- "Must be true" against "could be true": a box plot cannot prove anything about the mean or exact counts.
-- "Indicate all" can have a single right answer.
-- Missing the units on a graph (hundreds of dollars).
-
-## Practise on
-
-- [GRE-k001-main-k-1](/practice/question/GRE-k001-main-k-1) mean against median (QC)
-- [GRE-k001-main-k-10](/practice/question/GRE-k001-main-k-10) quartiles and IQR
-- [GRE-k001-main-k-14](/practice/question/GRE-k001-main-k-14) mean, median, range (select all)
-- [GRE-k001-main-k-6](/practice/question/GRE-k001-main-k-6) greatest value with a fixed median and mean (numeric)
-- [GRE-k002-main-h-2](/practice/question/GRE-k002-main-h-2) greatest median with different integers (QC)
-- [GRE-t008-s1-s1-7](/practice/question/GRE-t008-s1-s1-7) median of an even count
 
 ## Concept map
 
@@ -123,5 +105,3 @@ A: The median.
 
 ## Sources
 - ETS, *GRE Math Review*, 4.2 Numerical Methods for Describing Data, 4.5 Distributions of Data (normal distribution): https://www.ets.org/pdfs/gre/gre-math-review.pdf
-- GRE Quant Lab, statistics formula card in data/k001/main.json (Turkish, translated here), pekalkan/gre-quant-lab @ 9bdc26e
-- GRE Quant Lab question bank solutions (traps), translated in this repo

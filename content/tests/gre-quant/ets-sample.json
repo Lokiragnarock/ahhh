@@ -1,0 +1,559 @@
+[
+ {
+  "id": "GRE-ETS-SAMPLE-QC01",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div>The least prime number greater than 24</div><div>The greatest prime number less than 28</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "A",
+  "explanation": "<div class=\"gre-sol\"><p>For the integers greater than 24, note that 25, 26, 27 and 28 are not prime numbers, but 29 is a prime number, as are 31 and many other greater integers. Thus, 29 is the least prime number greater than 24, and Quantity A is 29. For the integers less than 28, note that 27, 26, 25 and 24 are not prime numbers, but 23 is a prime number, as are 19 and several other lesser integers. Thus, 23 is the greatest prime number less than 28, and Quantity B is 23. <strong>The correct answer is Choice A, Quantity A is greater.</strong></p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "ETS GRE Verbal Reasoning and Quantitative Reasoning Sample Questions with Explanations, Quantitative Comparison, Question 1"
+ },
+ {
+  "id": "GRE-ETS-SAMPLE-QC02",
+  "node": "Q-3",
+  "nodeTitle": "Algebra",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"given\">Lionel is younger than Maria.</div><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div>Twice Lionel’s age</div><div>Maria’s age</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "D",
+  "explanation": "<div class=\"gre-sol\"><p>If Lionel’s age is 6 years and Maria’s age is 10 years, then Quantity A is greater, but if Lionel’s age is 4 years and Maria’s age is 10 years, then Quantity B is greater. Thus, the relationship cannot be determined. <strong>The correct answer is Choice D, the relationship cannot be determined from the information given.</strong></p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "ETS GRE Verbal Reasoning and Quantitative Reasoning Sample Questions with Explanations, Quantitative Comparison, Question 2"
+ },
+ {
+  "id": "GRE-ETS-SAMPLE-QC03",
+  "node": "Q-2",
+  "nodeTitle": "Percents and ratios",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div>54% of 360</div><div>150</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "A",
+  "explanation": "<div class=\"gre-sol\"><p>Without doing the exact computation, you can see that 54% of 360 is greater than <span class=\"frac\"><span>1</span><span>2</span></span> of 360, which is 180, and 180 is greater than Quantity B, 150. <strong>Thus the correct answer is Choice A, Quantity A is greater.</strong></p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "ETS GRE Verbal Reasoning and Quantitative Reasoning Sample Questions with Explanations, Quantitative Comparison, Question 3"
+ },
+ {
+  "id": "GRE-ETS-SAMPLE-QC04",
+  "node": "Q-5",
+  "nodeTitle": "Lines, angles and triangles",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"gre-fig\"><img src=\"/gre/ets/sample-fig1.png\" alt=\"Figure 1: triangle PQR with point S on side PR and segment QS drawn. PQ = PR.\"></div><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div><i>PS</i></div><div><i>SR</i></div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "D",
+  "explanation": "<div class=\"gre-sol\"><p>From Figure 1, you know that <i>PQR</i> is a triangle and that point <i>S</i> is between points <i>P</i> and <i>R</i>, so <i>PS</i> &lt; <i>PR</i> and <i>SR</i> &lt; <i>PR</i>. You are also given that <i>PQ</i> = <i>PR</i>. However, this information is not sufficient to compare <i>PS</i> and <i>SR</i>. Furthermore, because the figure is not necessarily drawn to scale, you cannot determine the relative sizes of <i>PS</i> and <i>SR</i> visually from the figure, though they may appear to be equal. The position of <i>S</i> can vary along <i>PR</i> anywhere between <i>P</i> and <i>R</i>. Following are two possible variations of Figure 1, each of which is drawn to be consistent with the information <i>PQ</i> = <i>PR</i>.</p><div class=\"gre-fig\"><img src=\"/gre/ets/sample-fig2.png\" alt=\"Figure 2: triangle PQR with S close to R. PQ = PR.\" style=\"display:inline-block;max-width:48%\"> <img src=\"/gre/ets/sample-fig3.png\" alt=\"Figure 3: triangle PQR with S nearer the middle of PR. PQ = PR.\" style=\"display:inline-block;max-width:48%\"></div><p>Note that Quantity A is greater in Figure 2 and Quantity B is greater in Figure 3. <strong>Thus, the correct answer is Choice D, the relationship cannot be determined from the information given.</strong></p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "ETS GRE Verbal Reasoning and Quantitative Reasoning Sample Questions with Explanations, Quantitative Comparison, Question 4"
+ },
+ {
+  "id": "GRE-ETS-SAMPLE-QC05",
+  "node": "Q-3",
+  "nodeTitle": "Algebra",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"given\"><i>y</i> = 2<i>x</i><sup>2</sup> + 7<i>x</i> − 3</div><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div><i>x</i></div><div><i>y</i></div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "D",
+  "explanation": "<div class=\"gre-sol\"><p>If <i>x</i> = 0, then <i>y</i> = 2(0<sup>2</sup>) + 7(0) − 3 = −3, so in this case, <i>x</i> &gt; <i>y</i>; but if <i>x</i> = 1, then <i>y</i> = 2(1<sup>2</sup>) + 7(1) − 3 = 6, so in that case, <i>y</i> &gt; <i>x</i>. <strong>Thus, the correct answer is Choice D, the relationship cannot be determined from the information given.</strong></p><p>Note that plugging numbers into expressions <i>may not</i> be conclusive. It <i>is</i> conclusive, however, if you get different results after plugging in different numbers: the conclusion is that the relationship cannot be determined from the information given. It is also conclusive if there are only a small number of possible numbers to plug in and <i>all</i> of them yield the same result, say, that Quantity B is greater.</p><p>Now suppose there are an infinite number of possible numbers to plug in. If you plug many of them in and each time the result is, for example, that Quantity A is greater, you still cannot conclude that Quantity A is greater for every possible number that could be plugged in. Further analysis would be necessary and should focus on whether Quantity A is greater for all possible numbers or whether there are numbers for which Quantity A is not greater.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "ETS GRE Verbal Reasoning and Quantitative Reasoning Sample Questions with Explanations, Quantitative Comparison, Question 5"
+ },
+ {
+  "id": "GRE-ETS-SAMPLE-QC06",
+  "node": "Q-3",
+  "nodeTitle": "Algebra",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"given\"><i>y</i> &gt; 4</div><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div><span class=\"frac\"><span>3<i>y</i> + 2</span><span>5</span></span></div><div><i>y</i></div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "B",
+  "explanation": "<div class=\"gre-sol\"><p><i>The following sample questions focus on simplifying the comparison.</i></p><p>Set up the initial comparison:</p><p><span class=\"frac\"><span>3<i>y</i> + 2</span><span>5</span></span> <span style=\"border:1px solid currentColor;padding:0 4px\">?</span> <i>y</i></p><p>Then simplify:</p><p>Step 1: Multiply both sides by 5 to get 3<i>y</i> + 2 <span style=\"border:1px solid currentColor;padding:0 4px\">?</span> 5<i>y</i></p><p>Step 2: Subtract 3<i>y</i> from both sides to get 2 <span style=\"border:1px solid currentColor;padding:0 4px\">?</span> 2<i>y</i></p><p>Step 3: Divide both sides by 2 to get 1 <span style=\"border:1px solid currentColor;padding:0 4px\">?</span> <i>y</i></p><p>The comparison is now simplified as much as possible. In order to compare 1 and <i>y</i>, note that you are given the information <i>y</i> &gt; 4 (above Quantities A and B). It follows from <i>y</i> &gt; 4 that <i>y</i> &gt; 1, or 1 &lt; <i>y</i>, so that in the comparison 1 <span style=\"border:1px solid currentColor;padding:0 4px\">?</span> <i>y</i>, the placeholder <span style=\"border:1px solid currentColor;padding:0 4px\">?</span> represents <i>less than</i> (&lt;): 1 &lt; <i>y</i></p><p>However, the problem asks for a comparison between Quantity A and Quantity B, not a comparison between 1 and <i>y</i>. To go from the comparison between 1 and <i>y</i> to a comparison between Quantities A and B, start with the last comparison, 1 &lt; <i>y</i>, and carefully consider each simplification step in reverse order to determine what each comparison implies about the preceding comparison, all the way back to the comparison between Quantities A and B if possible. Since Step 3 was “<i>divide</i> both sides by 2,” <i>multiplying</i> both sides of the comparison 1 &lt; <i>y</i> by 2 implies the preceding comparison 2 &lt; 2<i>y</i>, thus reversing Step 3. Each simplification step can be reversed as follows:</p><p>A. Reverse Step 3: <i>multiply</i> both sides by 2.<br>B. Reverse Step 2: <i>add</i> 3<i>y</i> to both sides.<br>C. Reverse Step 1: <i>divide</i> both sides by 5.</p><p>When each step is reversed, the relationship remains <i>less than</i> (&lt;), so Quantity A is less than Quantity B. <strong>Thus, the correct answer is Choice B, Quantity B is greater.</strong></p><p>While some simplification steps like subtracting 3 from both sides or dividing both sides by 10 are always reversible, it is important to note that some steps, like squaring both sides, may not be reversible.</p><p>Also, note that when you simplify an <i>inequality</i>, the steps of multiplying or dividing both sides by a <i>negative</i> number change the direction of the inequality; for example, if <i>x</i> &lt; <i>y</i>, then −<i>x</i> &gt; −<i>y</i>. The relationship in the final, simplified inequality may be the <i>opposite</i> of the relationship between Quantities A and B. This is another reason to consider the impact of each step carefully.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "ETS GRE Verbal Reasoning and Quantitative Reasoning Sample Questions with Explanations, Quantitative Comparison, Question 6"
+ },
+ {
+  "id": "GRE-ETS-SAMPLE-QC07",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div><span class=\"frac\"><span>2<sup>30</sup> − 2<sup>29</sup></span><span>2</span></span></div><div>2<sup>28</sup></div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "C",
+  "explanation": "<div class=\"gre-sol\"><p>Set up the initial comparison:</p><p><span class=\"frac\"><span>2<sup>30</sup> − 2<sup>29</sup></span><span>2</span></span> <span style=\"border:1px solid currentColor;padding:0 4px\">?</span> 2<sup>28</sup></p><p>Then simplify:</p><p>Step 1: Multiply both sides by 2 to get 2<sup>30</sup> − 2<sup>29</sup> <span style=\"border:1px solid currentColor;padding:0 4px\">?</span> 2<sup>29</sup></p><p>Step 2: Add 2<sup>29</sup> to both sides to get 2<sup>30</sup> <span style=\"border:1px solid currentColor;padding:0 4px\">?</span> 2<sup>29</sup> + 2<sup>29</sup></p><p>Step 3: Simplify the right-hand side using the fact that (2)(2<sup>29</sup>) = 2<sup>30</sup> to get 2<sup>30</sup> <span style=\"border:1px solid currentColor;padding:0 4px\">?</span> 2<sup>30</sup></p><p>The resulting relationship is <i>equal to</i> (=). In reverse order, each simplification step implies <i>equal to</i> in the preceding comparison. So Quantities A and B are also equal. <strong>Thus, the correct answer is Choice C, the two quantities are equal.</strong></p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "ETS GRE Verbal Reasoning and Quantitative Reasoning Sample Questions with Explanations, Quantitative Comparison, Question 7"
+ },
+ {
+  "id": "GRE-ETS-SAMPLE-QC08",
+  "node": "Q-3",
+  "nodeTitle": "Algebra",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div><i>x</i><sup>2</sup> + 1</div><div>2<i>x</i> − 1</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "A",
+  "explanation": "<div class=\"gre-sol\"><p>Set up the initial comparison:</p><p><i>x</i><sup>2</sup> + 1 <span style=\"border:1px solid currentColor;padding:0 4px\">?</span> 2<i>x</i> − 1</p><p>Then simplify by noting that the quadratic polynomial <i>x</i><sup>2</sup> − 2<i>x</i> + 1 can be factored:</p><p>Step 1: Subtract 2<i>x</i> from both sides to get <i>x</i><sup>2</sup> − 2<i>x</i> + 1 <span style=\"border:1px solid currentColor;padding:0 4px\">?</span> −1</p><p>Step 2: Factor the left-hand side to get (<i>x</i> − 1)<sup>2</sup> <span style=\"border:1px solid currentColor;padding:0 4px\">?</span> −1</p><p>The left-hand side of the comparison is the square of a number. Since the square of a number is always greater than or equal to 0, and 0 is greater than −1, the simplified comparison is the inequality (<i>x</i> − 1)<sup>2</sup> &gt; −1 and the resulting relationship is <i>greater than</i> (&gt;). In reverse order, each simplification step implies the inequality <i>greater than</i> (&gt;) in the preceding comparison. Therefore, Quantity A is greater than Quantity B. <strong>The correct answer is Choice A, Quantity A is greater.</strong></p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "ETS GRE Verbal Reasoning and Quantitative Reasoning Sample Questions with Explanations, Quantitative Comparison, Question 8"
+ },
+ {
+  "id": "GRE-ETS-SAMPLE-QC09",
+  "node": "Q-3",
+  "nodeTitle": "Algebra",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "qc",
+  "question": "<div class=\"gre-q\"><div class=\"given\"><i>w</i> &gt; 1</div><div class=\"gre-qc\"><div class=\"h\">Quantity A</div><div class=\"h\">Quantity B</div><div>7<i>w</i> − 4</div><div>2<i>w</i> + 5</div></div></div>",
+  "options": [
+   "A) Quantity A is greater.",
+   "B) Quantity B is greater.",
+   "C) The two quantities are equal.",
+   "D) The relationship cannot be determined from the information given."
+  ],
+  "answer": "D",
+  "explanation": "<div class=\"gre-sol\"><p>Set up the initial comparison:</p><p>7<i>w</i> − 4 <span style=\"border:1px solid currentColor;padding:0 4px\">?</span> 2<i>w</i> + 5</p><p>Then simplify:</p><p>Step 1: Subtract 2<i>w</i> from both sides and add 4 to both sides to get 5<i>w</i> <span style=\"border:1px solid currentColor;padding:0 4px\">?</span> 9</p><p>Step 2: Divide both sides by 5 to get <i>w</i> <span style=\"border:1px solid currentColor;padding:0 4px\">?</span> <span class=\"frac\"><span>9</span><span>5</span></span></p><p>The comparison cannot be simplified any further. Although you are given that <i>w</i> &gt; 1, you still don’t know how <i>w</i> compares to <span class=\"frac\"><span>9</span><span>5</span></span>, or 1.8. For example, if <i>w</i> = 1.5, then <i>w</i> &lt; 1.8, but if <i>w</i> = 2, then <i>w</i> &gt; 1.8. In other words, the relationship between <i>w</i> and <span class=\"frac\"><span>9</span><span>5</span></span> cannot be determined. Note that each of these simplification steps is reversible, so in reverse order, each simplification step implies that the <i>relationship cannot be determined</i> in the preceding comparison. Thus, the relationship between Quantities A and B cannot be determined. <strong>The correct answer is Choice D, the relationship cannot be determined from the information given.</strong></p><p>The strategy of simplifying the comparison works most efficiently when you note that a simplification step is reversible while actually taking the step. Here are some common steps that are always reversible:</p><ul><li>Adding any number or expression to both sides of a comparison</li><li>Subtracting any number or expression from both sides</li><li>Multiplying both sides by any nonzero number or expression</li><li>Dividing both sides by any nonzero number or expression</li></ul><p>Remember that if the relationship is an <i>inequality</i>, multiplying or dividing both sides by any <i>negative</i> number or expression will yield the <i>opposite</i> inequality. Be aware that some common operations like squaring both sides are generally not reversible and may require further analysis using other information given in the question in order to justify reversing such steps.</p></div>",
+  "alsoNodes": [
+   {
+    "id": "Q-10",
+    "title": "Quantitative Comparison method"
+   }
+  ],
+  "source": "ETS GRE Verbal Reasoning and Quantitative Reasoning Sample Questions with Explanations, Quantitative Comparison, Question 9"
+ },
+ {
+  "id": "GRE-ETS-SAMPLE-MC01",
+  "node": "Q-3",
+  "nodeTitle": "Algebra",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">If 5<i>x</i> + 32 = 4 − 2<i>x</i>, what is the value of <i>x</i> ?</div></div>",
+  "options": [
+   "A) −4",
+   "B) −3",
+   "C) 4",
+   "D) 7",
+   "E) 12"
+  ],
+  "answer": "A",
+  "explanation": "<div class=\"gre-sol\"><p>Solving the equation for <i>x</i>, you get 7<i>x</i> = −28, and so <i>x</i> = −4. <strong>The correct answer is Choice A, −4.</strong></p></div>",
+  "source": "ETS GRE Verbal Reasoning and Quantitative Reasoning Sample Questions with Explanations, Multiple-choice Questions, Select One Answer Choice, Question 1"
+ },
+ {
+  "id": "GRE-ETS-SAMPLE-MC02",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">Which of the following numbers is farthest from the number 1 on the number line?</div></div>",
+  "options": [
+   "A) −10",
+   "B) −5",
+   "C) 0",
+   "D) 5",
+   "E) 10"
+  ],
+  "answer": "A",
+  "explanation": "<div class=\"gre-sol\"><p>Circling each of the answer choices in a sketch of the number line (Figure 4) shows that of the given numbers, −10 is the greatest distance from 1.</p><div class=\"gre-fig\"><img src=\"/gre/ets/sample-fig4.png\" alt=\"Figure 4: a number line from −11 to 11 with the numbers −10, −5, 0, 5 and 10 circled and an arrow pointing at 1.\"></div><p>Another way to answer the question is to remember that the distance between two numbers on the number line is equal to the absolute value of the difference of the two numbers. For example, the distance between −10 and 1 is |−10 − 1| = 11, and the distance between 10 and 1 is |10 − 1| = |9| = 9. <strong>The correct answer is Choice A, −10.</strong></p></div>",
+  "source": "ETS GRE Verbal Reasoning and Quantitative Reasoning Sample Questions with Explanations, Multiple-choice Questions, Select One Answer Choice, Question 2"
+ },
+ {
+  "id": "GRE-ETS-SAMPLE-MC03",
+  "node": "Q-6",
+  "nodeTitle": "Circles, polygons, coordinates and solids",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"gre-fig\"><img src=\"/gre/ets/sample-fig5.png\" alt=\"Figure 5: the graph of y = f(x), a V shape with its vertex on the y-axis at y = 4.\"></div><div class=\"stem\">The figure above shows the graph of the function <i>f</i>, defined by <i>f</i>(<i>x</i>) = |2<i>x</i>| + 4 for all numbers <i>x</i>. For which of the following functions <i>g</i>, defined for all numbers <i>x</i>, does the graph of <i>g</i> intersect the graph of <i>f</i> ?</div></div>",
+  "options": [
+   "A) <i>g</i>(<i>x</i>) = <i>x</i> − 2",
+   "B) <i>g</i>(<i>x</i>) = <i>x</i> + 3",
+   "C) <i>g</i>(<i>x</i>) = 2<i>x</i> − 2",
+   "D) <i>g</i>(<i>x</i>) = 2<i>x</i> + 3",
+   "E) <i>g</i>(<i>x</i>) = 3<i>x</i> − 2"
+  ],
+  "answer": "E",
+  "explanation": "<div class=\"gre-sol\"><p>You can see that all five choices are linear functions whose graphs are lines with various slopes and <i>y</i>-intercepts. The graph of Choice A is a line with slope 1 and <i>y</i>-intercept −2, shown in Figure 6.</p><div class=\"gre-fig\"><img src=\"/gre/ets/sample-fig6.png\" alt=\"Figure 6: the graph of f with the line of slope 1 and y-intercept −2.\"></div><p>It is clear that this line will not intersect the graph of <i>f</i> to the left of the <i>y</i>-axis. To the right of the <i>y</i>-axis, the graph of <i>f</i> is a line with slope 2, which is greater than slope 1. Consequently, as the value of <i>x</i> increases, the value of <i>y</i> increases faster for <i>f</i> than for <i>g</i>, and therefore the graphs do not intersect to the right of the <i>y</i>-axis. Choice B is similarly ruled out. Note that if the <i>y</i>-intercept of either of the lines in Choices A and B were greater than or equal to 4 instead of less than 4, they would intersect the graph of <i>f</i>.</p><p>Choices C and D are lines with slope 2 and <i>y</i>-intercepts less than 4. Hence, they are parallel to the graph of <i>f</i> (to the right of the <i>y</i>-axis) and therefore will not intersect it. Any line with a slope greater than 2 and a <i>y</i>-intercept less than 4, like the line in Choice E, will intersect the graph of <i>f</i> (to the right of the <i>y</i>-axis). The correct answer is Choice E, <strong><i>g</i>(<i>x</i>) = 3<i>x</i> − 2</strong>.</p></div>",
+  "source": "ETS GRE Verbal Reasoning and Quantitative Reasoning Sample Questions with Explanations, Multiple-choice Questions, Select One Answer Choice, Question 3"
+ },
+ {
+  "id": "GRE-ETS-SAMPLE-MC04",
+  "node": "Q-4",
+  "nodeTitle": "Word problems and rates",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">A car got 33 miles per gallon using gasoline that cost $2.95 per gallon. Approximately what was the cost, in dollars, of the gasoline used in driving the car 350 miles?</div></div>",
+  "options": [
+   "A) $10",
+   "B) $20",
+   "C) $30",
+   "D) $40",
+   "E) $50"
+  ],
+  "answer": "C",
+  "explanation": "<div class=\"gre-sol\"><p>Scanning the answer choices indicates that you can do at least some estimation and still answer confidently. The car used <span class=\"frac\"><span>350</span><span>33</span></span> gallons of gasoline, so the cost was (<span class=\"frac\"><span>350</span><span>33</span></span>)(2.95) dollars.</p><p>You can estimate the product (<span class=\"frac\"><span>350</span><span>33</span></span>)(2.95) by estimating <span class=\"frac\"><span>350</span><span>33</span></span> a little low, 10, and estimating 2.95 a little high, 3, to get approximately (10)(3) = 30 dollars. You can also use the calculator to compute a more exact answer and then round the answer to the nearest 10 dollars, as suggested by the answer choices. The calculator yields the decimal 31.287…, which rounds to 30 dollars. <strong>Thus, the correct answer is Choice C, $30.</strong></p></div>",
+  "source": "ETS GRE Verbal Reasoning and Quantitative Reasoning Sample Questions with Explanations, Multiple-choice Questions, Select One Answer Choice, Question 4"
+ },
+ {
+  "id": "GRE-ETS-SAMPLE-MC05",
+  "node": "Q-8",
+  "nodeTitle": "Counting and probability",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">A certain jar contains 60 jelly beans: 22 white, 18 green, 11 yellow, 5 red, and 4 purple. If a jelly bean is to be chosen at random, what is the probability that the jelly bean will be neither red nor purple?</div></div>",
+  "options": [
+   "A) 0.09",
+   "B) 0.15",
+   "C) 0.54",
+   "D) 0.85",
+   "E) 0.91"
+  ],
+  "answer": "D",
+  "explanation": "<div class=\"gre-sol\"><p>Since there are 5 red and 4 purple jelly beans in the jar, there are 51 that are neither red nor purple and the probability of selecting one of these is <span class=\"frac\"><span>51</span><span>60</span></span>. Since all of the answer choices are decimals, you must convert the fraction to its decimal equivalent, 0.85. <strong>Thus, the correct answer is Choice D, 0.85.</strong></p></div>",
+  "source": "ETS GRE Verbal Reasoning and Quantitative Reasoning Sample Questions with Explanations, Multiple-choice Questions, Select One Answer Choice, Question 5"
+ },
+ {
+  "id": "GRE-ETS-SAMPLE-MM01",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "multi",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">Which two of the following numbers have a product that is between −1 and 0?<br><span class='hint'>Indicate <u>both</u> of the numbers.</span></div></div>",
+  "options": [
+   "A) −20",
+   "B) −10",
+   "C) 2<sup>−4</sup>",
+   "D) 3<sup>−2</sup>"
+  ],
+  "answer": "B,C",
+  "explanation": "<div class=\"gre-sol\"><p>For this question, you must select a pair of answer choices. The product of the pair must be negative, so the possible products are (−20)(2<sup>−4</sup>), (−20)(3<sup>−2</sup>), (−10)(2<sup>−4</sup>) and (−10)(3<sup>−2</sup>). The product must also be greater than −1. The first product <span class=\"frac\"><span>−20</span><span>2<sup>4</sup></span></span> = −<span class=\"frac\"><span>20</span><span>16</span></span> &lt; −1, the second product is <span class=\"frac\"><span>−20</span><span>3<sup>2</sup></span></span> = −<span class=\"frac\"><span>20</span><span>9</span></span> &lt; −1 and the third product is <span class=\"frac\"><span>−10</span><span>2<sup>4</sup></span></span> = −<span class=\"frac\"><span>10</span><span>16</span></span> &gt; −1, so you can stop there. <strong>The correct answer consists of Choices B (−10) and C (2<sup>−4</sup>).</strong></p></div>",
+  "source": "ETS GRE Verbal Reasoning and Quantitative Reasoning Sample Questions with Explanations, Multiple-choice Questions, Select One or More Answer Choices, Question 1"
+ },
+ {
+  "id": "GRE-ETS-SAMPLE-MM02",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "multi",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">Which of the following integers are multiples of both 2 and 3?<br><span class='hint'>Indicate <u>all</u> such integers.</span></div></div>",
+  "options": [
+   "A) 8",
+   "B) 9",
+   "C) 12",
+   "D) 18",
+   "E) 21",
+   "F) 36"
+  ],
+  "answer": "C,D,F",
+  "explanation": "<div class=\"gre-sol\"><p>You can first identify the multiples of 2, which are 8, 12, 18 and 36, and then among the multiples of 2 identify the multiples of 3, which are 12, 18 and 36. Alternatively, if you realize that every number that is a multiple of 2 and 3 is also a multiple of 6, you can identify the choices that are multiples of 6. <strong>The correct answer consists of Choices C (12), D (18) and F (36).</strong></p></div>",
+  "source": "ETS GRE Verbal Reasoning and Quantitative Reasoning Sample Questions with Explanations, Multiple-choice Questions, Select One or More Answer Choices, Question 2"
+ },
+ {
+  "id": "GRE-ETS-SAMPLE-MM03",
+  "node": "Q-7",
+  "nodeTitle": "Statistics and distributions",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "multi",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">Each employee of a certain company is in either Department X or Department Y, and there are more than twice as many employees in Department X as in Department Y. The average (arithmetic mean) salary is $25,000 for the employees in Department X and $35,000 for the employees in Department Y. Which of the following amounts could be the average salary for all of the employees of the company?<br><span class='hint'>Indicate <u>all</u> such amounts.</span></div></div>",
+  "options": [
+   "A) $26,000",
+   "B) $28,000",
+   "C) $29,000",
+   "D) $30,000",
+   "E) $31,000",
+   "F) $32,000",
+   "G) $34,000"
+  ],
+  "answer": "A,B",
+  "explanation": "<div class=\"gre-sol\"><p>One strategy for answering this kind of question is to find the least and/or greatest possible value. Clearly the average salary is between $25,000 and $35,000, and all of the answer choices are in this interval. Since you are told that there are more employees with the lower average salary, the average salary of all employees must be less than the average of $25,000 and $35,000, which is $30,000. If there were exactly twice as many employees in Department X as in Department Y, then the average salary for all employees would be, to the nearest dollar, the following weighted mean,</p><p><span class=\"frac\"><span>(2)(25,000) + (1)(35,000)</span><span>2 + 1</span></span> ≈ 28,333 <i>dollars</i></p><p>where the weight for $25,000 is 2 and the weight for $35,000 is 1. Since there are more than twice as many employees in Department X as in Department Y, the actual average salary must be even closer to $25,000 because the weight for $25,000 is greater than 2. This means that $28,333 is the greatest possible average. Among the choices given, the possible values of the average are therefore $26,000 and $28,000. <strong>Thus, the correct answer consists of Choices A ($26,000) and B ($28,000).</strong></p><p>Intuitively, you might expect that any amount between $25,000 and $28,333 is a possible value of the average salary. To see that $26,000 is possible, in the weighted mean above, use the respective weights 9 and 1 instead of 2 and 1. To see that $28,000 is possible, use the respective weights 7 and 3.</p></div>",
+  "source": "ETS GRE Verbal Reasoning and Quantitative Reasoning Sample Questions with Explanations, Multiple-choice Questions, Select One or More Answer Choices, Question 3"
+ },
+ {
+  "id": "GRE-ETS-SAMPLE-MM04",
+  "node": "Q-1",
+  "nodeTitle": "Arithmetic and number properties",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "multi",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">Which of the following could be the units digit of 57<sup><i>n</i></sup>, where <i>n</i> is a positive integer?<br><span class='hint'>Indicate <u>all</u> such digits.</span></div></div>",
+  "options": [
+   "A) 0",
+   "B) 1",
+   "C) 2",
+   "D) 3",
+   "E) 4",
+   "F) 5",
+   "G) 6",
+   "H) 7",
+   "I) 8",
+   "J) 9"
+  ],
+  "answer": "B,D,H,J",
+  "explanation": "<div class=\"gre-sol\"><p>The units digit of 57<sup><i>n</i></sup> is the same as the units digit of 7<sup><i>n</i></sup> for all positive integers <i>n</i>. To see why this is true for <i>n</i> = 2, compute 57<sup>2</sup> by hand and observe how its units digit results from the units digit of 7<sup>2</sup>. Because this is true for every positive integer <i>n</i>, you need to consider only powers of 7. Beginning with <i>n</i> = 1 and proceeding consecutively, the units digits of 7, 7<sup>2</sup>, 7<sup>3</sup>, 7<sup>4</sup> and 7<sup>5</sup> are 7, 9, 3, 1 and 7, respectively. In this sequence, the first digit, 7, appears again, and the pattern of four digits, 7, 9, 3, 1, repeats without end. Hence, these four digits are the only possible units digits of 7<sup><i>n</i></sup> and therefore of 57<sup><i>n</i></sup>. <strong>The correct answer consists of Choices B (1), D (3), H (7) and J (9).</strong></p></div>",
+  "source": "ETS GRE Verbal Reasoning and Quantitative Reasoning Sample Questions with Explanations, Multiple-choice Questions, Select One or More Answer Choices, Question 4"
+ },
+ {
+  "id": "GRE-ETS-SAMPLE-NE01",
+  "node": "Q-4",
+  "nodeTitle": "Word problems and rates",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "numeric",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">One pen costs $0.25 and one marker costs $0.35. At those prices, what is the total cost of 18 pens and 100 markers?<br><span class='hint'>Enter the amount in dollars, without the $ sign.</span></div></div>",
+  "answer": "39.5",
+  "explanation": "<div class=\"gre-sol\"><p>Multiplying $0.25 by 18 yields $4.50, which is the cost of the 18 pens, and multiplying $0.35 by 100 yields $35.00, which is the cost of the 100 markers. The total cost is therefore $4.50 + $35.00 = $39.50. Equivalent decimals, such as $39.5 or $39.500, are considered correct. <strong>Thus, the correct answer is $39.50 (or equivalent).</strong></p><p>Note that the dollar symbol is in front of the answer box, so the symbol $ does not need to be entered in the box. In fact, only numbers, a decimal point and a negative sign can be entered in the answer box.</p></div>",
+  "source": "ETS GRE Verbal Reasoning and Quantitative Reasoning Sample Questions with Explanations, Numeric Entry Questions, Question 1"
+ },
+ {
+  "id": "GRE-ETS-SAMPLE-NE02",
+  "node": "Q-6",
+  "nodeTitle": "Circles, polygons, coordinates and solids",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "fraction",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">Rectangle <i>R</i> has length 30 and width 10, and square <i>S</i> has length 5. The perimeter of <i>S</i> is what fraction of the perimeter of <i>R</i>?<br><span class='hint'>Give your answer as a fraction.</span></div></div>",
+  "answer": "20/80",
+  "explanation": "<div class=\"gre-sol\"><p>The perimeter of <i>R</i> is 30 + 10 + 30 + 10 = 80, and the perimeter of <i>S</i> is (4)(5) = 20. Therefore, the perimeter of <i>S</i> is <span class=\"frac\"><span>20</span><span>80</span></span> of the perimeter of <i>R</i>. To enter the answer <span class=\"frac\"><span>20</span><span>80</span></span>, you should enter the numerator 20 in the top box and the denominator 80 in the bottom box. Because the fraction <span class=\"frac\"><span>20</span><span>80</span></span> does not need to be reduced to lowest terms, any fraction that is equivalent to <span class=\"frac\"><span>20</span><span>80</span></span> is also considered correct, as long as it fits in the boxes. For example, both of the fractions <span class=\"frac\"><span>2</span><span>8</span></span> and <span class=\"frac\"><span>1</span><span>4</span></span> are considered correct. <strong>Thus, the correct answer is <span class=\"frac\"><span>20</span><span>80</span></span> (or any equivalent fraction).</strong></p></div>",
+  "source": "ETS GRE Verbal Reasoning and Quantitative Reasoning Sample Questions with Explanations, Numeric Entry Questions, Question 2"
+ },
+ {
+  "id": "GRE-ETS-SAMPLE-NE03",
+  "node": "Q-9",
+  "nodeTitle": "Data interpretation",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "numeric",
+  "question": "<div class=\"gre-q\"><div class=\"stem\"><div class=\"tbl\"><div class=\"cap\">FIGURE 7. RESULTS OF A USED-CAR AUCTION</div><table><thead><tr><th></th><th>Small Cars</th><th>Large Cars</th></tr></thead><tbody><tr><td>Number of cars offered</td><td>32</td><td>23</td></tr><tr><td>Number of cars sold</td><td>16</td><td>20</td></tr><tr><td>Projected sales total for cars offered (in thousands)</td><td>$70</td><td>$150</td></tr><tr><td>Actual sales total (in thousands)</td><td>$41</td><td>$120</td></tr></tbody></table></div>For the large cars sold at an auction that is summarized in the table above, what was the average sale price per car?<br><span class='hint'>Enter the amount in dollars, without the $ sign.</span></div></div>",
+  "answer": "6000",
+  "explanation": "<div class=\"gre-sol\"><p>From Figure 7, you see that the number of large cars sold was 20 and the sales total for large cars was $120,000 (not $120). Thus, the average sale price per car was <span class=\"frac\"><span>$120,000</span><span>20</span></span> = $6,000. <strong>The correct answer is $6,000 (or equivalent).</strong></p><p>(In numbers that are 1,000 or greater, you do not need to enter commas in the answer box.)</p></div>",
+  "source": "ETS GRE Verbal Reasoning and Quantitative Reasoning Sample Questions with Explanations, Numeric Entry Questions, Question 3"
+ },
+ {
+  "id": "GRE-ETS-SAMPLE-NE04",
+  "node": "Q-2",
+  "nodeTitle": "Percents and ratios",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "numeric",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">A merchant made a profit of $5 on the sale of a sweater that cost the merchant $15. What is the profit expressed as a percent of the merchant’s cost?<br><span class='hint'>Give your answer to the <u>nearest whole percent</u>.</span></div></div>",
+  "answer": "33",
+  "unitAfter": "%",
+  "explanation": "<div class=\"gre-sol\"><p>The percent profit is (<span class=\"frac\"><span>5</span><span>15</span></span>)(100) = 33.333… = 33.<span style=\"text-decoration:overline\">3</span> percent, which is 33%, to the nearest whole percent. <strong>Thus, the correct answer is 33% (or equivalent).</strong></p><p>If you use the calculator and the Transfer Display button, the number that will be transferred to the answer box is 33.333333, which is incorrect since it is not given to the nearest whole percent. You will need to adjust the number in the answer box by deleting all of the digits to the right of the decimal point.</p><p>Also, since you are asked to give the answer as a percent, the decimal equivalent of 33%, which is 0.33, is incorrect. The percent symbol next to the answer box indicates that the form of the answer must be a percent. Entering 0.33 in the box would give the erroneous answer 0.33%.</p></div>",
+  "source": "ETS GRE Verbal Reasoning and Quantitative Reasoning Sample Questions with Explanations, Numeric Entry Questions, Question 4"
+ },
+ {
+  "id": "GRE-ETS-SAMPLE-NE05",
+  "node": "Q-4",
+  "nodeTitle": "Word problems and rates",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "numeric",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">Working alone at its constant rate, machine <i>A</i> produces <i>k</i> liters of a chemical in 10 minutes. Working alone at its constant rate, machine <i>B</i> produces <i>k</i> liters of the chemical in 15 minutes. How many minutes does it take machines <i>A</i> and <i>B</i>, working simultaneously at their respective constant rates, to produce <i>k</i> liters of the chemical?</div></div>",
+  "answer": "6",
+  "unitAfter": "minutes",
+  "explanation": "<div class=\"gre-sol\"><p>Machine <i>A</i> produces <span class=\"frac\"><span><i>k</i></span><span>10</span></span> liters per minute, and machine <i>B</i> produces <span class=\"frac\"><span><i>k</i></span><span>15</span></span> liters per minute. So, when the machines work simultaneously, the rate at which the chemical is produced is the sum of these two rates, which is <span class=\"frac\"><span><i>k</i></span><span>10</span></span> + <span class=\"frac\"><span><i>k</i></span><span>15</span></span> = <i>k</i>(<span class=\"frac\"><span>1</span><span>10</span></span> + <span class=\"frac\"><span>1</span><span>15</span></span>) = <i>k</i>(<span class=\"frac\"><span>25</span><span>150</span></span>) = <span class=\"frac\"><span><i>k</i></span><span>6</span></span> liters per minute. To compute the time required to produce <i>k</i> liters at this rate, divide the amount <i>k</i> by the rate <span class=\"frac\"><span><i>k</i></span><span>6</span></span> to get <span class=\"frac\"><span><i>k</i></span><span><span class=\"frac\"><span><i>k</i></span><span>6</span></span></span></span> = 6. <strong>Therefore, the correct answer is 6 minutes (or equivalent).</strong></p><p>One way to check that the answer of 6 minutes is reasonable is to observe that if the slower rate of machine <i>B</i> were the same as machine <i>A</i>’s faster rate of <i>k</i> liters in 10 minutes, then the two machines, working simultaneously, would take half the time, or 5 minutes, to produce the <i>k</i> liters. So the answer has to be <i>greater than 5 minutes</i>. Similarly, if the faster rate of machine <i>A</i> were the same as machine <i>B</i>’s slower rate of <i>k</i> liters in 15 minutes, then the two machines would take half the time, or 7.5 minutes, to produce the <i>k</i> liters. So the answer has to be <i>less than 7.5 minutes</i>. Thus, the answer of 6 minutes is reasonable compared to the lower estimate of 5 minutes and the upper estimate of 7.5 minutes.</p></div>",
+  "source": "ETS GRE Verbal Reasoning and Quantitative Reasoning Sample Questions with Explanations, Numeric Entry Questions, Question 5"
+ },
+ {
+  "id": "GRE-ETS-SAMPLE-DI01",
+  "node": "Q-9",
+  "nodeTitle": "Data interpretation",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"stem\"><div class=\"tbl\"><div class=\"cap\">FIGURE 8. ANNUAL PERCENT CHANGE IN DOLLAR AMOUNT OF SALES AT FIVE RETAIL STORES FROM 2006 TO 2008</div><table><thead><tr><th>Store</th><th>Percent change from 2006 to 2007</th><th>Percent change from 2007 to 2008</th></tr></thead><tbody><tr><td>P</td><td>10</td><td>−10</td></tr><tr><td>Q</td><td>−20</td><td>9</td></tr><tr><td>R</td><td>5</td><td>12</td></tr><tr><td>S</td><td>−7</td><td>−15</td></tr><tr><td>T</td><td>17</td><td>−8</td></tr></tbody></table></div>If the dollar amount of sales at Store <i>P</i> was $800,000 for 2006, what was the dollar amount of sales at that store for 2008?</div></div>",
+  "options": [
+   "A) $727,200",
+   "B) $792,000",
+   "C) $800,000",
+   "D) $880,000",
+   "E) $968,000"
+  ],
+  "answer": "B",
+  "explanation": "<div class=\"gre-sol\"><p>According to Figure 8, if the dollar amount of sales at Store <i>P</i> was $800,000 for 2006, then it was 10% greater for 2007, which is 110% of that amount, or $880,000. For 2008 the amount was 90% of $880,000, which is $792,000. <strong>The correct answer is Choice B, $792,000.</strong></p><p>Note that an increase of 10% for one year and a decrease of 10% for the following year does not result in the same dollar amount as the original dollar amount because the base that is used in computing the percents is $800,000 for the first change but $880,000 for the second change.</p></div>",
+  "source": "ETS GRE Verbal Reasoning and Quantitative Reasoning Sample Questions with Explanations, Data Interpretation Sets, Question 1"
+ },
+ {
+  "id": "GRE-ETS-SAMPLE-DI02",
+  "node": "Q-9",
+  "nodeTitle": "Data interpretation",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "numeric",
+  "question": "<div class=\"gre-q\"><div class=\"stem\"><div class=\"tbl\"><div class=\"cap\">FIGURE 8. ANNUAL PERCENT CHANGE IN DOLLAR AMOUNT OF SALES AT FIVE RETAIL STORES FROM 2006 TO 2008</div><table><thead><tr><th>Store</th><th>Percent change from 2006 to 2007</th><th>Percent change from 2007 to 2008</th></tr></thead><tbody><tr><td>P</td><td>10</td><td>−10</td></tr><tr><td>Q</td><td>−20</td><td>9</td></tr><tr><td>R</td><td>5</td><td>12</td></tr><tr><td>S</td><td>−7</td><td>−15</td></tr><tr><td>T</td><td>17</td><td>−8</td></tr></tbody></table></div>At Store <i>T</i>, the dollar amount of sales for 2007 was what percent of the dollar amount of sales for 2008?<br><span class='hint'>Give your answer to the <u>nearest 0.1%</u>.</span></div></div>",
+  "answer": "108.7",
+  "unitAfter": "%",
+  "explanation": "<div class=\"gre-sol\"><p>If <i>A</i> is the dollar amount of sales at Store <i>T</i> for 2007, then 8% of <i>A</i>, or 0.08<i>A</i>, is the amount of decrease from 2007 to 2008. Thus <i>A</i> − 0.08<i>A</i> = 0.92<i>A</i> is the dollar amount for 2008. Therefore, the desired percent can be obtained by dividing <i>A</i> by 0.92<i>A</i>, which equals <span class=\"frac\"><span><i>A</i></span><span>0.92<i>A</i></span></span> = <span class=\"frac\"><span>1</span><span>0.92</span></span> = 1.0869565… . Expressed as a percent and rounded to the nearest 0.1% this number is 108.7%. <strong>Thus, the correct answer is 108.7% (or equivalent).</strong></p></div>",
+  "source": "ETS GRE Verbal Reasoning and Quantitative Reasoning Sample Questions with Explanations, Data Interpretation Sets, Question 2"
+ },
+ {
+  "id": "GRE-ETS-SAMPLE-DI03",
+  "node": "Q-9",
+  "nodeTitle": "Data interpretation",
+  "unit": "GRE Quant",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "multi",
+  "question": "<div class=\"gre-q\"><div class=\"stem\"><div class=\"tbl\"><div class=\"cap\">FIGURE 8. ANNUAL PERCENT CHANGE IN DOLLAR AMOUNT OF SALES AT FIVE RETAIL STORES FROM 2006 TO 2008</div><table><thead><tr><th>Store</th><th>Percent change from 2006 to 2007</th><th>Percent change from 2007 to 2008</th></tr></thead><tbody><tr><td>P</td><td>10</td><td>−10</td></tr><tr><td>Q</td><td>−20</td><td>9</td></tr><tr><td>R</td><td>5</td><td>12</td></tr><tr><td>S</td><td>−7</td><td>−15</td></tr><tr><td>T</td><td>17</td><td>−8</td></tr></tbody></table></div>Based on the information given, which of the following statements must be true?<br><span class='hint'>Indicate <u>all</u> such statements.</span></div></div>",
+  "options": [
+   "A) For 2008 the dollar amount of sales at Store <i>R</i> was greater than that at each of the other four stores.",
+   "B) The dollar amount of sales at Store <i>S</i> for 2008 was 22% less than that for 2006.",
+   "C) The dollar amount of sales at Store <i>R</i> for 2008 was more than 17% greater than that for 2006."
+  ],
+  "answer": "C",
+  "explanation": "<div class=\"gre-sol\"><p>For Choice A, since the only data given in Figure 8 are percent changes from year to year, there is no way to compare the actual dollar amounts of sales at the stores for 2008 or for any other year. Even though Store <i>R</i> had the greatest percent increase from 2006 to 2008, its actual dollar amount of sales for 2008 may have been much smaller than that for any of the other four stores, and therefore Choice A is not necessarily true.</p><p>For Choice B, even though the sum of the 2% decreases would suggest a 22% decrease, the bases of the percents are different. If <i>B</i> is the dollar amount of sales at Store <i>S</i> for 2006, then the dollar amount for 2007 is 93% of <i>B</i>, or 0.93<i>B</i>, and the dollar amount for 2008 is given by (0.85)(0.93)<i>B</i>, which is 0.7905<i>B</i>. Note that this represents a percent decrease of 100 − 79.05 = 20.95%, which is not equal to 22%, and so Choice B is not true.</p><p>For Choice C, if <i>C</i> is the dollar amount of sales at Store <i>R</i> for 2006, then the dollar amount for 2007 is given by 1.05<i>C</i> and the dollar amount for 2008 is given by (1.12)(1.05)<i>C</i>, which is 1.176<i>C</i>. Note that this represents a 17.6% increase, which is greater than 17%, so Choice C must be true.</p><p><strong>Therefore, the correct answer consists of only Choice C (The dollar amount of sales at Store <i>R</i> for 2008 was more than 17% greater than that for 2006).</strong></p></div>",
+  "source": "ETS GRE Verbal Reasoning and Quantitative Reasoning Sample Questions with Explanations, Data Interpretation Sets, Question 3"
+ }
+]

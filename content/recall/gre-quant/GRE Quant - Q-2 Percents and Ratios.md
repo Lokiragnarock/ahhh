@@ -3,7 +3,7 @@ title: "GRE Quant - Q-2 Percents and Ratios"
 type: recall
 status: active
 created: 2026-11-01
-source: "ETS GRE Math Review 1.6, 1.7 and 2.7; traps from the GRE Quant Lab bank solutions. See ## Sources"
+source: "ETS GRE Math Review 1.6, 1.7 and 2.7. See ## Sources"
 tags: [gre, quant, arithmetic, percents, ratios]
 node: Q-2
 section: "Quantitative Reasoning"
@@ -16,7 +16,7 @@ state: unstudied
 
 # Q-2: Percents and Ratios
 
-**Why this matters:** 49 questions here, and percent reasoning also drives most of the 140 data interpretation questions in Q-9. Get the base right here and Q-9 gets much easier.
+**Why this matters:** 12 of the 96 ETS questions here, and percent reasoning also drives the data interpretation questions in Q-9. Get the base right here and Q-9 gets much easier.
 
 ## Ratios
 
@@ -48,21 +48,6 @@ state: unstudied
 - Compound interest, yearly: P(1 + r/100)^t; compounded n times a year: P(1 + r/(100n))^(nt) (ETS 2.7).
 - Compound growth is never less than simple growth at the same rate. The difference is interest on interest.
 - Rule of 72: a quantity growing r% a year roughly doubles in 72/r years. Check the exact year if the question says "first exceeds".
-
-## Traps the bank keeps setting
-
-- Adding successive percents (+10, +10, −20 is not 0; it is 0.968, a 3.2% fall).
-- Taking the new value as the base for percent change.
-- Adding back the percent to reverse a discount (19,200 × 1.4) instead of dividing (19,200 ÷ 0.64).
-- Reading a percent change and a percentage point change as the same thing.
-
-## Practise on
-
-- [GRE-t003-s1-s1-2](/practice/question/GRE-t003-s1-s1-2) successive percents and the base (QC)
-- [GRE-t004-medium-m-9](/practice/question/GRE-t004-medium-m-9) compound against simple interest
-- [GRE-t007-hard-h-12](/practice/question/GRE-t007-hard-h-12) the rise needed to get back (numeric)
-- [GRE-t008-medium-m-4](/practice/question/GRE-t008-medium-m-4) percent change property (QC)
-- [GRE-t010-easy-e-6](/practice/question/GRE-t010-easy-e-6) reverse percent
 
 ## Concept map
 
@@ -107,4 +92,3 @@ A: 100%.
 
 ## Sources
 - ETS, *GRE Math Review*, 1.6 Ratio, 1.7 Percent, 2.7 Applications (interest): https://www.ets.org/pdfs/gre/gre-math-review.pdf
-- GRE Quant Lab question bank solutions (traps), pekalkan/gre-quant-lab @ 9bdc26e, translated in this repo

@@ -854,8 +854,8 @@ button.hm-chip:active:not(:disabled) { transform: scale(0.97); }
 }
 
 /* ---------------------------------------------------------------------- */
-/* Imported GRE questions (content/tests/gre-quant). Figures use the      */
-/* source's colour variables, so they are defined here, scoped to .gre-q. */
+/* Official ETS GRE questions (content/tests/gre-quant). Figures are images */
+/* under public/gre/ets; the colour variables are kept for any inline SVG. */
 /* ---------------------------------------------------------------------- */
 
 .gre-q,
@@ -875,6 +875,9 @@ button.hm-chip:active:not(:disabled) { transform: scale(0.97); }
 .gre-q .gre-stim { border: 1px solid var(--sp-line); padding: 12px 14px; margin-bottom: 14px; }
 .gre-q .gre-fig { margin: 12px 0; overflow-x: auto; color: var(--fig-ink); }
 .gre-q .gre-fig svg { display: block; margin: 0 auto; height: auto; }
+.gre-q .gre-fig img,
+.gre-sol .gre-fig img { display: block; margin: 0 auto; max-width: 100%; height: auto; background: #fff; }
+.gre-sol .gre-fig { margin: 12px 0; text-align: center; }
 .gre-q .nts { font-size: 12px; color: var(--sp-muted); text-align: center; margin: 4px 0 0; font-style: italic; }
 .gre-q .hint { font-size: 13.5px; color: var(--sp-muted); }
 .gre-q .given { margin-bottom: 12px; }
