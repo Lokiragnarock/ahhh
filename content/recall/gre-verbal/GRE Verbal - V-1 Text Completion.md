@@ -93,7 +93,7 @@ A: In the sentence before or after.
 Q: What does a colon usually do before a blank?
 A: Introduces an explanation or definition of the idea before it.
 
-**Practise on:** GRE Verbal, official ETS sample questions (2 questions, one with three blanks and one with a single blank), `content/tests/gre-verbal/ets-sample.json`.
+**Practise on:** GRE Verbal, official ETS questions in `content/tests/gre-verbal/` (24 questions: 2 sample items in `ets-sample.json`, 11 in `ets-pt1.json`, 11 in `ets-pt3.json`; 15 have two or three blanks and 9 have one).
 
 ## Sources
 - ETS, Verbal Reasoning measure overview (three question types, about half passage-based, Text Completion format): https://www.ets.org/gre/test-takers/general-test/prepare/content/verbal-reasoning.html

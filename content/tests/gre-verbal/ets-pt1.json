@@ -1,0 +1,735 @@
+[
+ {
+  "id": "GRE-ETS-PT1-S2-Q01",
+  "node": "V-4",
+  "nodeTitle": "Reading Comprehension",
+  "unit": "GRE Verbal",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"gre-stim\"><p>Music critics have consistently defined James P. Johnson as a great early jazz pianist, originator of the nineteen twenties Harlem “stride” style, and an important blues and jazz composer. In addition, however, Johnson was an innovator in classical music, composing symphonic music that incorporated American, and especially African American, traditions.</p><p>Such a blend of musical elements was not entirely new: by 1924 both Milhaud and Gershwin had composed classical works that incorporated elements of jazz. Johnson, a serious musician more experienced than most classical composers with jazz, blues, spirituals, and popular music, was particularly suited to expand Milhaud’s and Gershwin’s experiments. In 1927 he completed his first large-scale work, the blues- and jazz-inspired <em>Yamekraw</em>, which included borrowings from spirituals and Johnson’s own popular songs. <em>Yamekraw</em>, premiered successfully in Carnegie Hall, was a major achievement for Johnson, becoming his most frequently performed extended work. It demonstrated vividly the possibility of assimilating contemporary popular music into the symphonic tradition.</p></div><div class=\"stem\">The passage states that Johnson composed all of the following EXCEPT<br><span class='hint'>Select only one answer choice.</span></div></div>",
+  "options": [
+   "A) jazz works",
+   "B) popular songs",
+   "C) symphonic music",
+   "D) spirituals",
+   "E) blues pieces"
+  ],
+  "answer": "D",
+  "source": "ETS GRE Practice General Test #1, Section 2, Question 1"
+ },
+ {
+  "id": "GRE-ETS-PT1-S2-Q02",
+  "node": "V-4",
+  "nodeTitle": "Reading Comprehension",
+  "unit": "GRE Verbal",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "multi",
+  "question": "<div class=\"gre-q\"><div class=\"gre-stim\"><p>Music critics have consistently defined James P. Johnson as a great early jazz pianist, originator of the nineteen twenties Harlem “stride” style, and an important blues and jazz composer. In addition, however, Johnson was an innovator in classical music, composing symphonic music that incorporated American, and especially African American, traditions.</p><p>Such a blend of musical elements was not entirely new: by 1924 both Milhaud and Gershwin had composed classical works that incorporated elements of jazz. Johnson, a serious musician more experienced than most classical composers with jazz, blues, spirituals, and popular music, was particularly suited to expand Milhaud’s and Gershwin’s experiments. In 1927 he completed his first large-scale work, the blues- and jazz-inspired <em>Yamekraw</em>, which included borrowings from spirituals and Johnson’s own popular songs. <em>Yamekraw</em>, premiered successfully in Carnegie Hall, was a major achievement for Johnson, becoming his most frequently performed extended work. It demonstrated vividly the possibility of assimilating contemporary popular music into the symphonic tradition.</p></div><div class=\"stem\">The author suggests which of the following about most classical composers of the early nineteen twenties?<br><span class='hint'>Consider each of the three choices separately and select all that apply.</span></div></div>",
+  "options": [
+   "A) They were strongly influenced by the musical experiments of Milhaud and Gershwin.",
+   "B) They had little working familiarity with such forms of American music as jazz, blues, and popular songs.",
+   "C) They made few attempts to introduce innovations into the classical symphonic tradition."
+  ],
+  "answer": "B",
+  "source": "ETS GRE Practice General Test #1, Section 2, Question 2"
+ },
+ {
+  "id": "GRE-ETS-PT1-S2-Q03",
+  "node": "V-4",
+  "nodeTitle": "Reading Comprehension",
+  "unit": "GRE Verbal",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"gre-stim\"><p>Music critics have consistently defined James P. Johnson as a great early jazz pianist, originator of the nineteen twenties Harlem “stride” style, and an important blues and jazz composer. In addition, however, Johnson was an innovator in classical music, composing symphonic music that incorporated American, and especially African American, traditions.</p><p>Such a blend of musical elements was not entirely new: by 1924 both Milhaud and Gershwin had composed classical works that incorporated elements of jazz. Johnson, a serious musician more experienced than most classical composers with jazz, blues, spirituals, and popular music, was particularly suited to expand Milhaud’s and Gershwin’s experiments. In 1927 he completed his first large-scale work, the blues- and jazz-inspired <em>Yamekraw</em>, which included borrowings from spirituals and Johnson’s own popular songs. <em>Yamekraw</em>, premiered successfully in Carnegie Hall, was a major achievement for Johnson, becoming his most frequently performed extended work. It demonstrated vividly the possibility of assimilating contemporary popular music into the symphonic tradition.</p></div><div class=\"stem\">Which of the following best describes the organization of the passage?<br><span class='hint'>Select only one answer choice.</span></div></div>",
+  "options": [
+   "A) A historical overview is presented, and a particular phenomenon is noted and analyzed.",
+   "B) A popular belief is challenged, and a rival interpretation is presented and supported.",
+   "C) A common viewpoint is presented and modified, and the modification is supported.",
+   "D) An observation is made and rejected, and evidence for that rejection is presented.",
+   "E) A common claim is investigated, and an alternative outlook is analyzed and criticized."
+  ],
+  "answer": "C",
+  "source": "ETS GRE Practice General Test #1, Section 2, Question 3"
+ },
+ {
+  "id": "GRE-ETS-PT1-S2-Q04",
+  "node": "V-1",
+  "nodeTitle": "Text Completion",
+  "unit": "GRE Verbal",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">In the nineteen fifties, the country’s inhabitants were ______: most of them knew very little about foreign countries.<br><span class='hint'>For the blank, select one entry from the choices.</span></div></div>",
+  "options": [
+   "A) partisan",
+   "B) erudite",
+   "C) insular",
+   "D) cosmopolitan",
+   "E) imperturbable"
+  ],
+  "answer": "C",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Answer in context:</strong> In the 1950s, the country’s inhabitants were insular: most of them knew very little about foreign countries.</p></div>",
+  "source": "ETS GRE Practice General Test #1, Section 2, Question 4"
+ },
+ {
+  "id": "GRE-ETS-PT1-S2-Q05",
+  "node": "V-1",
+  "nodeTitle": "Text Completion",
+  "unit": "GRE Verbal",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">It is his dubious distinction to have proved what nobody would think of denying, that Romero at the age of sixty-four writes with all the characteristics of ______.<br><span class='hint'>For the blank, select one entry from the choices.</span></div></div>",
+  "options": [
+   "A) maturity",
+   "B) fiction",
+   "C) inventiveness",
+   "D) art",
+   "E) brilliance"
+  ],
+  "answer": "A",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Answer in context:</strong> It is his dubious distinction to have proved what nobody would think of denying, that Romero at the age of sixty-four writes with all the characteristics of maturity.</p></div>",
+  "source": "ETS GRE Practice General Test #1, Section 2, Question 5"
+ },
+ {
+  "id": "GRE-ETS-PT1-S2-Q06",
+  "node": "V-1",
+  "nodeTitle": "Text Completion",
+  "unit": "GRE Verbal",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "multi",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">The narratives that vanquished peoples have created of their defeat have, according to Schivelbusch, fallen into several identifiable types. In one of these, the vanquished manage to (i) ______ the victor’s triumph as the result of some spurious advantage, the victors being truly inferior where it counts. Often the winners (ii) ______ this interpretation, worrying about the cultural or moral costs of their triumph and so giving some credence to the losers’ story.<br><span class='hint'>Choose one option for each blank. Fill all blanks in the way that best completes the text.</span></div></div>",
+  "options": [
+   "A) Blank (i): construe",
+   "B) Blank (i): anoint",
+   "C) Blank (i): acknowledge",
+   "D) Blank (ii): take issue with",
+   "E) Blank (ii): disregard",
+   "F) Blank (ii): collude in"
+  ],
+  "answer": "A,F",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Answer in context:</strong> The narratives that vanquished peoples have created of their defeat have, according to Schivelbusch, fallen into several identifiable types. In one of these, the vanquished manage to construe the victor’s triumph as the result of some spurious advantage, the victors being truly inferior where it counts. Often the winners collude in this interpretation, worrying about the cultural or moral costs of their triumph and so giving some credence to the losers’ story.</p></div>",
+  "source": "ETS GRE Practice General Test #1, Section 2, Question 6"
+ },
+ {
+  "id": "GRE-ETS-PT1-S2-Q07",
+  "node": "V-1",
+  "nodeTitle": "Text Completion",
+  "unit": "GRE Verbal",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "multi",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">I’ve long anticipated this retrospective of the artist’s work, hoping that it would make (i) ______ judgments about him possible, but greater familiarity with his paintings highlights their inherent (ii) ______ and actually makes one’s assessment (iii) ______.<br><span class='hint'>Choose one option for each blank. Fill all blanks in the way that best completes the text.</span></div></div>",
+  "options": [
+   "A) Blank (i): modish",
+   "B) Blank (i): settled",
+   "C) Blank (i): detached",
+   "D) Blank (ii): gloom",
+   "E) Blank (ii): ambiguity",
+   "F) Blank (ii): delicacy",
+   "G) Blank (iii): similarly equivocal",
+   "H) Blank (iii): less sanguine",
+   "I) Blank (iii): more cynical"
+  ],
+  "answer": "B,E,G",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Answer in context:</strong> I’ve long anticipated this retrospective of the artist’s work, hoping that it would make settled judgments about him possible, but greater familiarity with his paintings highlights their inherent ambiguity and actually makes one’s assessment similarly equivocal.</p></div>",
+  "source": "ETS GRE Practice General Test #1, Section 2, Question 7"
+ },
+ {
+  "id": "GRE-ETS-PT1-S2-Q08",
+  "node": "V-1",
+  "nodeTitle": "Text Completion",
+  "unit": "GRE Verbal",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "multi",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">Scientists are not the only persons who examine the world about them by the use of rational processes, although they sometimes (i) ______ this impression by extending the definition of “scientist” to include anyone who is (ii) ______ in his or her investigational practices.<br><span class='hint'>Choose one option for each blank. Fill all blanks in the way that best completes the text.</span></div></div>",
+  "options": [
+   "A) Blank (i): conceal",
+   "B) Blank (i): create",
+   "C) Blank (i): undermine",
+   "D) Blank (ii): intuitive",
+   "E) Blank (ii): haphazard",
+   "F) Blank (ii): logical"
+  ],
+  "answer": "B,F",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Answer in context:</strong> Scientists are not the only persons who examine the world about them by the use of rational processes, although they sometimes create this impression by extending the definition of “scientist” to include anyone who is logical in his or her investigational practices.</p></div>",
+  "source": "ETS GRE Practice General Test #1, Section 2, Question 8"
+ },
+ {
+  "id": "GRE-ETS-PT1-S2-Q09",
+  "node": "V-4",
+  "nodeTitle": "Reading Comprehension",
+  "unit": "GRE Verbal",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"gre-stim\">The most plausible justification for higher taxes on automobile fuel is that fuel consumption harms the environment and thus adds to the costs of traffic congestion. But the fact that burning fuel creates these “negative externalities” does not imply that no tax on fuel could ever be too high. Economics is precise about the tax that should, in principle, be levied to deal with negative externalities: <strong>the tax on a liter of fuel should be equal to the harm caused by using a liter of fuel</strong>. If the tax is more than that, its costs (including the inconvenience to those who would rather have used their cars) will <strong>exceed</strong> its benefits (including any reduction in congestion and pollution).</div><div class=\"stem\">The phrase “the tax on a liter of fuel should be equal to the harm caused by using a liter of fuel” appears in the third sentence of the passage, which reads, “Economics is precise about the tax that should, in principle, be levied to deal with negative externalities: the tax on a liter of fuel should be equal to the harm caused by using a liter of fuel.” Which of the following best characterizes the function of the indicated portion of the passage?<br><span class='hint'>Select only one answer choice.</span></div></div>",
+  "options": [
+   "A) It restates a point made earlier in the passage.",
+   "B) It provides the evidence on which a theory is based.",
+   "C) It presents a specific application of a general principle.",
+   "D) It summarizes a justification with which the author disagrees.",
+   "E) It suggests that the benefits of a particular strategy have been overestimated."
+  ],
+  "answer": "C",
+  "source": "ETS GRE Practice General Test #1, Section 2, Question 9"
+ },
+ {
+  "id": "GRE-ETS-PT1-S2-Q10",
+  "node": "V-4",
+  "nodeTitle": "Reading Comprehension",
+  "unit": "GRE Verbal",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"gre-stim\">The most plausible justification for higher taxes on automobile fuel is that fuel consumption harms the environment and thus adds to the costs of traffic congestion. But the fact that burning fuel creates these “negative externalities” does not imply that no tax on fuel could ever be too high. Economics is precise about the tax that should, in principle, be levied to deal with negative externalities: <strong>the tax on a liter of fuel should be equal to the harm caused by using a liter of fuel</strong>. If the tax is more than that, its costs (including the inconvenience to those who would rather have used their cars) will <strong>exceed</strong> its benefits (including any reduction in congestion and pollution).</div><div class=\"stem\">The word “exceed” appears in the last sentence of the passage, which reads, “If the tax is more than that, its costs (including the inconvenience to those who would rather have used their cars) will exceed its benefits (including any reduction in congestion and pollution).” In the context in which it appears, “exceed” most nearly means<br><span class='hint'>Select only one answer choice.</span></div></div>",
+  "options": [
+   "A) outstrip",
+   "B) magnify",
+   "C) delimit",
+   "D) offset",
+   "E) supplant"
+  ],
+  "answer": "A",
+  "source": "ETS GRE Practice General Test #1, Section 2, Question 10"
+ },
+ {
+  "id": "GRE-ETS-PT1-S2-Q11",
+  "node": "V-4",
+  "nodeTitle": "Reading Comprehension",
+  "unit": "GRE Verbal",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "multi",
+  "question": "<div class=\"gre-q\"><div class=\"gre-stim\">Objectively, of course, the various ecosystems that sustain life on the planet proceed independently of human agency, just as they operated before the hectic ascendancy of <em>Homo sapiens</em>. But it is also true that it is difficult to think of a single such system that has not, for better or worse, been substantially modified by human culture. Nor is this simply the work of the industrial centuries. It has been happening since the days of <strong>ancient Mesopotamia</strong>. It is coeval with the origins of writing, and has occurred throughout our social existence. And it is this irreversibly modified world, from the polar caps to the equatorial forests, that is all the nature we have.</div><div class=\"stem\">It can be inferred from the passage that the author would agree with which of the following statements?<br><span class='hint'>Consider each of the three choices separately and select all that apply.</span></div></div>",
+  "options": [
+   "A) Over time, the impact of human culture on the natural world has been largely benign.",
+   "B) It is a mistake to think that the natural world contains many areas of pristine wilderness.",
+   "C) The only substantial effects that human agency has had on ecosystems have been inadvertent."
+  ],
+  "answer": "B",
+  "source": "ETS GRE Practice General Test #1, Section 2, Question 11"
+ },
+ {
+  "id": "GRE-ETS-PT1-S2-Q12",
+  "node": "V-4",
+  "nodeTitle": "Reading Comprehension",
+  "unit": "GRE Verbal",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"gre-stim\">Objectively, of course, the various ecosystems that sustain life on the planet proceed independently of human agency, just as they operated before the hectic ascendancy of <em>Homo sapiens</em>. But it is also true that it is difficult to think of a single such system that has not, for better or worse, been substantially modified by human culture. Nor is this simply the work of the industrial centuries. It has been happening since the days of <strong>ancient Mesopotamia</strong>. It is coeval with the origins of writing, and has occurred throughout our social existence. And it is this irreversibly modified world, from the polar caps to the equatorial forests, that is all the nature we have.</div><div class=\"stem\">The phrase “ancient Mesopotamia” appears in the fourth sentence of the passage, which reads, “It has been happening since the days of ancient Mesopotamia.” The author mentions “ancient Mesopotamia” primarily in order to<br><span class='hint'>Select only one answer choice.</span></div></div>",
+  "options": [
+   "A) provide some geographical and historical context for an earlier claim about the ascendancy of <em>Homo sapiens</em>",
+   "B) support the idea that the impact of human culture on nature was roughly the same in the ancient world as in later times",
+   "C) identify a place where the relationship between culture and nature was largely positive",
+   "D) emphasize the extent to which the modification of nature by human culture preceded the industrial period",
+   "E) make a connection between the origins of writing and other aspects of human cultural development"
+  ],
+  "answer": "D",
+  "source": "ETS GRE Practice General Test #1, Section 2, Question 12"
+ },
+ {
+  "id": "GRE-ETS-PT1-S2-Q13",
+  "node": "V-2",
+  "nodeTitle": "Sentence Equivalence",
+  "unit": "GRE Verbal",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "multi",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">Dreams are ______ in and of themselves, but, when combined with other data, they can tell us much about the dreamer.<br><span class='hint'>Select exactly two answer choices that, when used to complete the sentence, fit the meaning of the sentence as a whole and produce completed sentences that are alike in meaning.</span></div></div>",
+  "options": [
+   "A) astonishing",
+   "B) disordered",
+   "C) harmless",
+   "D) inscrutable",
+   "E) revealing",
+   "F) uninformative"
+  ],
+  "answer": "D,F",
+  "source": "ETS GRE Practice General Test #1, Section 2, Question 13"
+ },
+ {
+  "id": "GRE-ETS-PT1-S2-Q14",
+  "node": "V-2",
+  "nodeTitle": "Sentence Equivalence",
+  "unit": "GRE Verbal",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "multi",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">The macromolecule RNA is common to all living beings, and DNA, which is found in all organisms except some bacteria, is almost as ______.<br><span class='hint'>Select exactly two answer choices that, when used to complete the sentence, fit the meaning of the sentence as a whole and produce completed sentences that are alike in meaning.</span></div></div>",
+  "options": [
+   "A) comprehensive",
+   "B) fundamental",
+   "C) inclusive",
+   "D) universal",
+   "E) significant",
+   "F) ubiquitous"
+  ],
+  "answer": "D,F",
+  "source": "ETS GRE Practice General Test #1, Section 2, Question 14"
+ },
+ {
+  "id": "GRE-ETS-PT1-S2-Q15",
+  "node": "V-2",
+  "nodeTitle": "Sentence Equivalence",
+  "unit": "GRE Verbal",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "multi",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">Early critics of Emily Dickinson’s poetry mistook for simplemindedness the surface of artlessness that in fact she constructed with such ______.<br><span class='hint'>Select exactly two answer choices that, when used to complete the sentence, fit the meaning of the sentence as a whole and produce completed sentences that are alike in meaning.</span></div></div>",
+  "options": [
+   "A) astonishment",
+   "B) craft",
+   "C) cunning",
+   "D) innocence",
+   "E) naïveté",
+   "F) vexation"
+  ],
+  "answer": "B,C",
+  "source": "ETS GRE Practice General Test #1, Section 2, Question 15"
+ },
+ {
+  "id": "GRE-ETS-PT1-S3-Q01",
+  "node": "V-2",
+  "nodeTitle": "Sentence Equivalence",
+  "unit": "GRE Verbal",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "multi",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">In the long run, high-technology communications cannot ______ more traditional face-to-face family togetherness, in Ms. Aspinall’s view.<br><span class='hint'>Select exactly two answer choices that, when used to complete the sentence, fit the meaning of the sentence as a whole and produce completed sentences that are alike in meaning.</span></div></div>",
+  "options": [
+   "A) ameliorate",
+   "B) compromise",
+   "C) supersede",
+   "D) approximate",
+   "E) enervate",
+   "F) supplant"
+  ],
+  "answer": "C,F",
+  "source": "ETS GRE Practice General Test #1, Section 3, Question 1"
+ },
+ {
+  "id": "GRE-ETS-PT1-S3-Q02",
+  "node": "V-2",
+  "nodeTitle": "Sentence Equivalence",
+  "unit": "GRE Verbal",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "multi",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">Even in this business, where ______ is part of everyday life, a talent for lying is not something usually found on one’s resume.<br><span class='hint'>Select exactly two answer choices that, when used to complete the sentence, fit the meaning of the sentence as a whole and produce completed sentences that are alike in meaning.</span></div></div>",
+  "options": [
+   "A) aspiration",
+   "B) mendacity",
+   "C) prevarication",
+   "D) insensitivity",
+   "E) baseness",
+   "F) avarice"
+  ],
+  "answer": "B,C",
+  "source": "ETS GRE Practice General Test #1, Section 3, Question 2"
+ },
+ {
+  "id": "GRE-ETS-PT1-S3-Q03",
+  "node": "V-2",
+  "nodeTitle": "Sentence Equivalence",
+  "unit": "GRE Verbal",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "multi",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">A restaurant’s menu is generally reflected in its decor; however, despite this restaurant’s ______ appearance it is pedestrian in the menu it offers.<br><span class='hint'>Select exactly two answer choices that, when used to complete the sentence, fit the meaning of the sentence as a whole and produce completed sentences that are alike in meaning.</span></div></div>",
+  "options": [
+   "A) elegant",
+   "B) tawdry",
+   "C) modern",
+   "D) traditional",
+   "E) conventional",
+   "F) chic"
+  ],
+  "answer": "A,F",
+  "source": "ETS GRE Practice General Test #1, Section 3, Question 3"
+ },
+ {
+  "id": "GRE-ETS-PT1-S3-Q04",
+  "node": "V-2",
+  "nodeTitle": "Sentence Equivalence",
+  "unit": "GRE Verbal",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "multi",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">International financial issues are typically ______ by the United States media because they are too technical to make snappy headlines and too inaccessible to people who lack a background in economics.<br><span class='hint'>Select exactly two answer choices that, when used to complete the sentence, fit the meaning of the sentence as a whole and produce completed sentences that are alike in meaning.</span></div></div>",
+  "options": [
+   "A) neglected",
+   "B) slighted",
+   "C) overrated",
+   "D) hidden",
+   "E) criticized",
+   "F) repudiated"
+  ],
+  "answer": "A,B",
+  "source": "ETS GRE Practice General Test #1, Section 3, Question 4"
+ },
+ {
+  "id": "GRE-ETS-PT1-S3-Q05",
+  "node": "V-4",
+  "nodeTitle": "Reading Comprehension",
+  "unit": "GRE Verbal",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "multi",
+  "question": "<div class=\"gre-q\"><div class=\"gre-stim\">Scholarship on political newspapers and their editors is dominated by the view that as the United States grew, the increasing influence of the press led, ultimately, to the neutral reporting from which we benefit today. Pasley considers this view oversimplified, because neutrality was not a goal of early national newspaper editing, even when editors <strong>disingenuously</strong> stated that they aimed to tell all sides of a story. Rather, the intensely partisan ideologies represented in newspapers of the early republic led to a clear demarcation between traditional and republican values. The editors responsible for the papers’ content, especially those with republican agendas, began to see themselves as central figures in the development of political consciousness in the United States.</div><div class=\"stem\">The passage suggests that Pasley would agree with which of the following statements about the political role of newspapers?<br><span class='hint'>Consider each of the three choices separately and select all that apply.</span></div></div>",
+  "options": [
+   "A) Newspapers today are in many cases much less neutral in their political reporting than is commonly held by scholars.",
+   "B) Newspapers in the early United States normally declared quite openly their refusal to tell all sides of most political stories.",
+   "C) The editorial policies of some early United States newspapers became a counterweight to proponents of traditional values."
+  ],
+  "answer": "C",
+  "source": "ETS GRE Practice General Test #1, Section 3, Question 5"
+ },
+ {
+  "id": "GRE-ETS-PT1-S3-Q06",
+  "node": "V-4",
+  "nodeTitle": "Reading Comprehension",
+  "unit": "GRE Verbal",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"gre-stim\">Scholarship on political newspapers and their editors is dominated by the view that as the United States grew, the increasing influence of the press led, ultimately, to the neutral reporting from which we benefit today. Pasley considers this view oversimplified, because neutrality was not a goal of early national newspaper editing, even when editors <strong>disingenuously</strong> stated that they aimed to tell all sides of a story. Rather, the intensely partisan ideologies represented in newspapers of the early republic led to a clear demarcation between traditional and republican values. The editors responsible for the papers’ content, especially those with republican agendas, began to see themselves as central figures in the development of political consciousness in the United States.</div><div class=\"stem\">The word “disingenuously” appears in the second sentence of the passage, which reads, “Pasley considers this view oversimplified, because neutrality was not a goal of early national newspaper editing, even when editors disingenuously stated that they aimed to tell all sides of a story.” In the context in which it appears, “disingenuously” most nearly means<br><span class='hint'>Select only one answer choice.</span></div></div>",
+  "options": [
+   "A) insincerely",
+   "B) guilelessly",
+   "C) obliquely",
+   "D) resolutely",
+   "E) pertinaciously"
+  ],
+  "answer": "A",
+  "source": "ETS GRE Practice General Test #1, Section 3, Question 6"
+ },
+ {
+  "id": "GRE-ETS-PT1-S3-Q07",
+  "node": "V-1",
+  "nodeTitle": "Text Completion",
+  "unit": "GRE Verbal",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "multi",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">The (i) ______ nature of classical tragedy in Athens belies the modern image of tragedy: in the modern view tragedy is austere and stripped down, its representations of ideological and emotional conflicts so superbly compressed that there’s nothing (ii) ______ for time to erode.<br><span class='hint'>Choose one option for each blank. Fill all blanks in the way that best completes the text.</span></div></div>",
+  "options": [
+   "A) Blank (i): unadorned",
+   "B) Blank (i): harmonious",
+   "C) Blank (i): multifaceted",
+   "D) Blank (ii): inalienable",
+   "E) Blank (ii): exigent",
+   "F) Blank (ii): extraneous"
+  ],
+  "answer": "C,F",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Answer in context:</strong> The multifaceted nature of classical tragedy in Athens belies the modern image of tragedy: in the modern view tragedy is austere and stripped down, its representations of ideological and emotional conflicts so superbly compressed that there’s nothing extraneous for time to erode.</p></div>",
+  "source": "ETS GRE Practice General Test #1, Section 3, Question 7"
+ },
+ {
+  "id": "GRE-ETS-PT1-S3-Q08",
+  "node": "V-1",
+  "nodeTitle": "Text Completion",
+  "unit": "GRE Verbal",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "multi",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">Murray, whose show of recent paintings and drawings is her best in many years, has been eminent hereabouts for a quarter century, although often regarded with (i) ______, but the most (ii) ______ of these paintings (iii) ______ all doubts.<br><span class='hint'>Choose one option for each blank. Fill all blanks in the way that best completes the text.</span></div></div>",
+  "options": [
+   "A) Blank (i): partiality",
+   "B) Blank (i): credulity",
+   "C) Blank (i): ambivalence",
+   "D) Blank (ii): problematic",
+   "E) Blank (ii): successful",
+   "F) Blank (ii): disparaged",
+   "G) Blank (iii): exculpate",
+   "H) Blank (iii): assuage",
+   "I) Blank (iii): whet"
+  ],
+  "answer": "C,E,H",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Answer in context:</strong> Murray, whose show of recent paintings and drawings is her best in many years, has been eminent hereabouts for a quarter century, although often regarded with ambivalence, but the most successful of these paintings assuage all doubts.</p></div>",
+  "source": "ETS GRE Practice General Test #1, Section 3, Question 8"
+ },
+ {
+  "id": "GRE-ETS-PT1-S3-Q09",
+  "node": "V-1",
+  "nodeTitle": "Text Completion",
+  "unit": "GRE Verbal",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">Far from viewing Jefferson as a skeptical but enlightened intellectual, historians of the nineteen sixties have portrayed him as ______ thinker, eager to fill the young with his political orthodoxy while censoring ideas he did not like.<br><span class='hint'>For the blank, select one entry from the choices.</span></div></div>",
+  "options": [
+   "A) an adventurous",
+   "B) a doctrinaire",
+   "C) an eclectic",
+   "D) a judicious",
+   "E) a cynical"
+  ],
+  "answer": "B",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Answer in context:</strong> Far from viewing Jefferson as a skeptical but enlightened intellectual, historians of the nineteen sixties have portrayed him as a doctrinaire thinker, eager to fill the young with his political orthodoxy while censoring ideas he did not like.</p></div>",
+  "source": "ETS GRE Practice General Test #1, Section 3, Question 9"
+ },
+ {
+  "id": "GRE-ETS-PT1-S3-Q10",
+  "node": "V-1",
+  "nodeTitle": "Text Completion",
+  "unit": "GRE Verbal",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">Dramatic literature often ______ the history of a culture in that it takes as its subject matter the important events that have shaped and guided the culture.<br><span class='hint'>For the blank, select one entry from the choices.</span></div></div>",
+  "options": [
+   "A) confounds",
+   "B) repudiates",
+   "C) recapitulates",
+   "D) anticipates",
+   "E) polarizes"
+  ],
+  "answer": "C",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Answer in context:</strong> Dramatic literature often recapitulates the history of a culture in that it takes as its subject matter the important events that have shaped and guided the culture.</p></div>",
+  "source": "ETS GRE Practice General Test #1, Section 3, Question 10"
+ },
+ {
+  "id": "GRE-ETS-PT1-S3-Q11",
+  "node": "V-4",
+  "nodeTitle": "Reading Comprehension",
+  "unit": "GRE Verbal",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"gre-stim\">In <em>A Raisin in the Sun,</em> Lorraine Hansberry does not reject integration or the economic and moral promise of the American dream; rather, she remains loyal to this dream while looking, realistically, at its incomplete realization. Once we recognize this dual vision, we can accept the play’s ironic nuances as deliberate social commentaries by Hansberry rather than as the “unintentional” irony that Bigsby attributes to the work. Indeed, a curiously persistent refusal to credit Hansberry with a capacity for intentional irony has led <strong>some critics</strong> to interpret the play’s thematic conflicts as mere confusion, contradiction, or eclecticism. Isaacs, for example, cannot easily reconcile Hansberry’s intense concern for her race with her ideal of human reconciliation. But the play’s complex view of Black self-esteem and human solidarity as compatible is no more “contradictory” than Du Bois’ famous, well-considered ideal of ethnic self-awareness coexisting with human unity, or Fanon’s emphasis on an ideal internationalism that also accommodates national identities and roles.</div><div class=\"stem\">The author’s primary purpose in the passage is to<br><span class='hint'>Select only one answer choice.</span></div></div>",
+  "options": [
+   "A) explain some critics’ refusal to consider <em>Raisin in the Sun</em> a deliberately ironic play",
+   "B) suggest that ironic nuances ally <em>Raisin in the Sun</em> with Du Bois’ and Fanon’s writings",
+   "C) analyze the fundamental dramatic conflicts in <em>Raisin in the Sun</em>",
+   "D) emphasize the inclusion of contradictory elements in <em>Raisin in the Sun</em>",
+   "E) affirm the thematic coherence underlying <em>Raisin in the Sun</em>"
+  ],
+  "answer": "E",
+  "source": "ETS GRE Practice General Test #1, Section 3, Question 11"
+ },
+ {
+  "id": "GRE-ETS-PT1-S3-Q12",
+  "node": "V-4",
+  "nodeTitle": "Reading Comprehension",
+  "unit": "GRE Verbal",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"gre-stim\">In <em>A Raisin in the Sun,</em> Lorraine Hansberry does not reject integration or the economic and moral promise of the American dream; rather, she remains loyal to this dream while looking, realistically, at its incomplete realization. Once we recognize this dual vision, we can accept the play’s ironic nuances as deliberate social commentaries by Hansberry rather than as the “unintentional” irony that Bigsby attributes to the work. Indeed, a curiously persistent refusal to credit Hansberry with a capacity for intentional irony has led <strong>some critics</strong> to interpret the play’s thematic conflicts as mere confusion, contradiction, or eclecticism. Isaacs, for example, cannot easily reconcile Hansberry’s intense concern for her race with her ideal of human reconciliation. But the play’s complex view of Black self-esteem and human solidarity as compatible is no more “contradictory” than Du Bois’ famous, well-considered ideal of ethnic self-awareness coexisting with human unity, or Fanon’s emphasis on an ideal internationalism that also accommodates national identities and roles.</div><div class=\"stem\">The phrase “some critics” appears in the third sentence of the passage, which reads, “Indeed, a curiously persistent refusal to credit Hansberry with a capacity for intentional irony has led some critics to interpret the play’s thematic conflicts as mere confusion, contradiction, or eclecticism.” The author of the passage would probably consider which of the following judgments to be most similar to the reasoning of the critics described in the third sentence of the passage?<br><span class='hint'>Select only one answer choice.</span></div></div>",
+  "options": [
+   "A) The world is certainly flat; therefore, the person proposing to sail around it is unquestionably foolhardy.",
+   "B) Radioactivity cannot be directly perceived; therefore, a scientist could not possibly control it in a laboratory.",
+   "C) The painter of this picture could not intend it to be funny; therefore, its humor must result from a lack of skill.",
+   "D) Traditional social mores are beneficial to culture; therefore, anyone who deviates from them acts destructively.",
+   "E) Filmmakers who produce documentaries deal exclusively with facts; therefore, a filmmaker who reinterprets particular events is misleading us."
+  ],
+  "answer": "C",
+  "source": "ETS GRE Practice General Test #1, Section 3, Question 12"
+ },
+ {
+  "id": "GRE-ETS-PT1-S3-Q13",
+  "node": "V-4",
+  "nodeTitle": "Reading Comprehension",
+  "unit": "GRE Verbal",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"gre-stim\">In <em>A Raisin in the Sun,</em> Lorraine Hansberry does not reject integration or the economic and moral promise of the American dream; rather, she remains loyal to this dream while looking, realistically, at its incomplete realization. Once we recognize this dual vision, we can accept the play’s ironic nuances as deliberate social commentaries by Hansberry rather than as the “unintentional” irony that Bigsby attributes to the work. Indeed, a curiously persistent refusal to credit Hansberry with a capacity for intentional irony has led <strong>some critics</strong> to interpret the play’s thematic conflicts as mere confusion, contradiction, or eclecticism. Isaacs, for example, cannot easily reconcile Hansberry’s intense concern for her race with her ideal of human reconciliation. But the play’s complex view of Black self-esteem and human solidarity as compatible is no more “contradictory” than Du Bois’ famous, well-considered ideal of ethnic self-awareness coexisting with human unity, or Fanon’s emphasis on an ideal internationalism that also accommodates national identities and roles.</div><div class=\"stem\">Select the sentence in the passage in which the author provides examples that reinforce an argument against a critical response cited earlier in the passage.<br><span class='hint'>This is a select-in-passage question. On the test you click the sentence in the passage; here, each of the five sentences of the passage is given as a choice, in order. Select only one.</span></div></div>",
+  "options": [
+   "A) In <em>A Raisin in the Sun,</em> Lorraine Hansberry does not reject integration or the economic and moral promise of the American dream; rather, she remains loyal to this dream while looking, realistically, at its incomplete realization.",
+   "B) Once we recognize this dual vision, we can accept the play’s ironic nuances as deliberate social commentaries by Hansberry rather than as the “unintentional” irony that Bigsby attributes to the work.",
+   "C) Indeed, a curiously persistent refusal to credit Hansberry with a capacity for intentional irony has led some critics to interpret the play’s thematic conflicts as mere confusion, contradiction, or eclecticism.",
+   "D) Isaacs, for example, cannot easily reconcile Hansberry’s intense concern for her race with her ideal of human reconciliation.",
+   "E) But the play’s complex view of Black self-esteem and human solidarity as compatible is no more “contradictory” than Du Bois’ famous, well-considered ideal of ethnic self-awareness coexisting with human unity, or Fanon’s emphasis on an ideal internationalism that also accommodates national identities and roles."
+  ],
+  "answer": "E",
+  "source": "ETS GRE Practice General Test #1, Section 3, Question 13"
+ },
+ {
+  "id": "GRE-ETS-PT1-S3-Q14",
+  "node": "V-4",
+  "nodeTitle": "Reading Comprehension",
+  "unit": "GRE Verbal",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "multi",
+  "question": "<div class=\"gre-q\"><div class=\"gre-stim\">In <em>A Raisin in the Sun,</em> Lorraine Hansberry does not reject integration or the economic and moral promise of the American dream; rather, she remains loyal to this dream while looking, realistically, at its incomplete realization. Once we recognize this dual vision, we can accept the play’s ironic nuances as deliberate social commentaries by Hansberry rather than as the “unintentional” irony that Bigsby attributes to the work. Indeed, a curiously persistent refusal to credit Hansberry with a capacity for intentional irony has led <strong>some critics</strong> to interpret the play’s thematic conflicts as mere confusion, contradiction, or eclecticism. Isaacs, for example, cannot easily reconcile Hansberry’s intense concern for her race with her ideal of human reconciliation. But the play’s complex view of Black self-esteem and human solidarity as compatible is no more “contradictory” than Du Bois’ famous, well-considered ideal of ethnic self-awareness coexisting with human unity, or Fanon’s emphasis on an ideal internationalism that also accommodates national identities and roles.</div><div class=\"stem\">It can be inferred from the passage that the author believes which of the following about Hansberry’s use of irony in <em>Raisin in the Sun</em>?<br><span class='hint'>Consider each of the three choices separately and select all that apply.</span></div></div>",
+  "options": [
+   "A) It reflects Hansberry’s reservations about the extent to which the American dream has been realized.",
+   "B) It is justified by Hansberry’s loyalty to a favorable depiction of American life.",
+   "C) It shows in the play’s thematic conflicts."
+  ],
+  "answer": "A,C",
+  "source": "ETS GRE Practice General Test #1, Section 3, Question 14"
+ },
+ {
+  "id": "GRE-ETS-PT1-S3-Q15",
+  "node": "V-5",
+  "nodeTitle": "Argument passages",
+  "unit": "GRE Verbal",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"gre-stim\">As an example of the devastation wrought on music publishers by the photocopier, one executive noted that for a recent choral festival with 1,200 singers, the festival’s organizing committee purchased only 12 copies of the music published by her company that was performed as part of the festival.</div><div class=\"stem\">Which of the following, if true, most seriously weakens the support the example lends to the executive’s contention that music publishers have been devastated by the photocopier?<br><span class='hint'>Select only one answer choice.</span></div></div>",
+  "options": [
+   "A) Only a third of the 1,200 singers were involved in performing the music published by the executive’s company.",
+   "B) Half of the singers at the festival had already heard the music they were to perform before they began to practice for the festival.",
+   "C) Because of shortages in funding, the organizing committee of the choral festival required singers to purchase their own copies of the music performed at the festival.",
+   "D) Each copy of music that was performed at the festival was shared by two singers.",
+   "E) As a result of publicity generated by its performance at the festival, the type of music performed at the festival became more widely known."
+  ],
+  "answer": "C",
+  "alsoNodes": [
+   {
+    "id": "V-4",
+    "title": "Reading Comprehension"
+   }
+  ],
+  "source": "ETS GRE Practice General Test #1, Section 3, Question 15"
+ },
+ {
+  "id": "GRE-ETS-PT1-S3-Q16",
+  "node": "V-1",
+  "nodeTitle": "Text Completion",
+  "unit": "GRE Verbal",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "multi",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">New technologies often begin by (i) ______ what has gone before, and they change the world later. Think how long it took power-using companies to recognize that with electricity they did not need to cluster their machinery around the power source, as in the days of steam. Instead, power could be (ii) ______ their processes. In that sense, many of today’s computer networks are still in the steam age. Their full potential remains unrealized.<br><span class='hint'>Choose one option for each blank. Fill all blanks in the way that best completes the text.</span></div></div>",
+  "options": [
+   "A) Blank (i): uprooting",
+   "B) Blank (i): dismissing",
+   "C) Blank (i): mimicking",
+   "D) Blank (ii): transmitted to",
+   "E) Blank (ii): consolidated around",
+   "F) Blank (ii): incorporated into"
+  ],
+  "answer": "C,D",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Answer in context:</strong> New technologies often begin by mimicking what has gone before, and they change the world later. Think how long it took power-using companies to recognize that with electricity they did not need to cluster their machinery around the power source, as in the days of steam. Instead, power could be transmitted to their processes. In that sense, many of today’s computer networks are still in the steam age. Their full potential remains unrealized.</p></div>",
+  "source": "ETS GRE Practice General Test #1, Section 3, Question 16"
+ },
+ {
+  "id": "GRE-ETS-PT1-S3-Q17",
+  "node": "V-1",
+  "nodeTitle": "Text Completion",
+  "unit": "GRE Verbal",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "multi",
+  "question": "<div class=\"gre-q\"><div class=\"stem\">Of course anyone who has ever perused an unmodernized text of Captain Clark’s journals knows that the Captain was one of the most (i) ______ spellers ever to write in English, but despite this (ii) ______ orthographical rules, Clark is never unclear.<br><span class='hint'>Choose one option for each blank. Fill all blanks in the way that best completes the text.</span></div></div>",
+  "options": [
+   "A) Blank (i): indefatigable",
+   "B) Blank (i): fastidious",
+   "C) Blank (i): defiant",
+   "D) Blank (ii): disregard for",
+   "E) Blank (ii): partiality toward",
+   "F) Blank (ii): unpretentiousness about"
+  ],
+  "answer": "C,D",
+  "explanation": "<div class=\"gre-sol\"><p><strong>Answer in context:</strong> Of course anyone who has ever perused an unmodernized text of Captain Clark’s journals knows that the Captain was one of the most defiant spellers ever to write in English, but despite this disregard for orthographical rules, Clark is never unclear.</p></div>",
+  "source": "ETS GRE Practice General Test #1, Section 3, Question 17"
+ },
+ {
+  "id": "GRE-ETS-PT1-S3-Q18",
+  "node": "V-5",
+  "nodeTitle": "Argument passages",
+  "unit": "GRE Verbal",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"gre-stim\">For the past two years at FasCorp, there has been a policy to advertise any job opening to current employees and to give no job to an applicant from outside the company if a FasCorp employee applies who is qualified for the job. This policy has been strictly followed, yet even though numerous employees of FasCorp have been qualified for any given entry-level position, some entry-level jobs have been filled with people from outside the company.</div><div class=\"stem\">If the information provided is true, which of the following must on the basis of it also be true about FasCorp during the past two years?<br><span class='hint'>Select only one answer choice.</span></div></div>",
+  "options": [
+   "A) There have been some open jobs for which no qualified FasCorp employee applied.",
+   "B) Some entry-level job openings have not been advertised to FasCorp employees.",
+   "C) The total number of employees has increased.",
+   "D) FasCorp has hired some people for jobs for which they were not qualified.",
+   "E) All the job openings have been for entry-level jobs."
+  ],
+  "answer": "A",
+  "alsoNodes": [
+   {
+    "id": "V-4",
+    "title": "Reading Comprehension"
+   }
+  ],
+  "source": "ETS GRE Practice General Test #1, Section 3, Question 18"
+ },
+ {
+  "id": "GRE-ETS-PT1-S3-Q19",
+  "node": "V-4",
+  "nodeTitle": "Reading Comprehension",
+  "unit": "GRE Verbal",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "multi",
+  "question": "<div class=\"gre-q\"><div class=\"gre-stim\">A tall tree can transport a hundred gallons of water a day from its roots deep underground to the treetop. Is this movement propelled by pulling the water from above or pushing it from below? The pull mechanism has long been favored by most scientists. First proposed in the late eighteen hundreds, the theory relies on a property of water not commonly associated with fluids: its tensile strength. Instead of making a clean break, water evaporating from treetops tugs on the remaining water molecules, with that tug extending from molecule to molecule all the way down to the roots. The tree itself does not actually push or pull; all the energy for lifting water comes from the sun’s evaporative power.</div><div class=\"stem\">Which of the following statements is supported by the passage?<br><span class='hint'>Consider each of the three choices separately and select all that apply.</span></div></div>",
+  "options": [
+   "A) The pull theory is not universally accepted by scientists.",
+   "B) The pull theory depends on one of water’s physical properties.",
+   "C) The pull theory originated earlier than did the push theory."
+  ],
+  "answer": "A,B",
+  "source": "ETS GRE Practice General Test #1, Section 3, Question 19"
+ },
+ {
+  "id": "GRE-ETS-PT1-S3-Q20",
+  "node": "V-4",
+  "nodeTitle": "Reading Comprehension",
+  "unit": "GRE Verbal",
+  "type": "mcq",
+  "marks": 1,
+  "html": true,
+  "format": "single",
+  "question": "<div class=\"gre-q\"><div class=\"gre-stim\">A tall tree can transport a hundred gallons of water a day from its roots deep underground to the treetop. Is this movement propelled by pulling the water from above or pushing it from below? The pull mechanism has long been favored by most scientists. First proposed in the late eighteen hundreds, the theory relies on a property of water not commonly associated with fluids: its tensile strength. Instead of making a clean break, water evaporating from treetops tugs on the remaining water molecules, with that tug extending from molecule to molecule all the way down to the roots. The tree itself does not actually push or pull; all the energy for lifting water comes from the sun’s evaporative power.</div><div class=\"stem\">The passage provides information on each of the following EXCEPT<br><span class='hint'>Select only one answer choice.</span></div></div>",
+  "options": [
+   "A) when the pull theory originated",
+   "B) the amount of water a tall tree can transport",
+   "C) the significance of water’s tensile strength in the pull theory",
+   "D) the role of the sun in the pull theory",
+   "E) the mechanism underlying water’s tensile strength"
+  ],
+  "answer": "E",
+  "source": "ETS GRE Practice General Test #1, Section 3, Question 20"
+ }
+]
